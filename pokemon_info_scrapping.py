@@ -1,10 +1,11 @@
-
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 import requests as r
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 from bs4 import BeautifulSoup as bs
 from pprint import pprint
 r.packages.urllib3.disable_warnings(InsecureRequestWarning) 
-#usable_tables=[2,4,6,8,10,12,14,16]
+
 def list_pkmn():
     url="https://www.wikidex.net/wiki/Lista_de_Pok%C3%A9mon"
     url_html=r.get(url,verify=False).text
@@ -13,7 +14,7 @@ def list_pkmn():
 def table_unwrapper(table):
     return [{"num":i.find_all("td")[0].text[:-1],"name":i.find_all("td")[1].text[:-1],"url":i.find_all("td")[1].a['href']} for i in table.find_all("tr")[1::]] 
 
-def first_gen(list):
+def scrapping(list):
     for i in list:
         #info dumb
         info=i["url"]
@@ -38,29 +39,59 @@ def first_gen(list):
         except AttributeError:
             hidden=None
 
-
         pkdex_info=Pokedex(url_html)
         location_info=Location(url_html)
 
         stats=Stats(url_html,pkmnname)
         try:
             evo=evolution(url_html,pkmnname,evo)
-        except:
+        except UnboundLocalError:
             evo=evolution(url_html,pkmnname)
         #level_moves=url_html.find_all("section",{"class":"tabber__section"})[0]
 
         MO_MT=[i.text for i in url_html.find_all("section",{"class":"tabber__section"})[1].find_all("tr")]
-        pprint(MO_MT)
-        break
+
         #save_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo)
 
-        #pprint({"dex number":dexnum,"pokemon name":pkmnname,"types":types,"abilities":abilities,"hidden abilities":hidden,"stats":{"hp":stats[0],"atk":stats[1],"def":stats[2],"atk esp":stats[3],"def esp":stats[4],"speed":stats[5]},"location":location_info,"pokedex":pkdex_info,"evolution":evo})
-
-
+        pprint({"dex number":dexnum,
+                "pokemon name":pkmnname,
+                "types":types,
+                "abilities":abilities,
+                "hidden abilities":hidden,
+                "stats":{
+                    "hp":stats[0],
+                    "atk":stats[1],
+                    "def":stats[2],
+                    "atk esp":stats[3],
+                    "def esp":stats[4],
+                    "speed":stats[5]},
+                "location":location_info,
+                "pokedex":pkdex_info,
+                "evolution":evo})
 def save_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo):
-    with open(f"{pkmnname}.json","w") as f:
-        f.write(str({"dex number":dexnum,"pokemon name":pkmnname,"types":types,"abilities":abilities,"hidden abilities":hidden,"stats":{"hp":stats[0],"atk":stats[1],"def":stats[2],"atk esp":stats[3],"def esp":stats[4],"speed":stats[5]},"location":location_info,"pokedex":pkdex_info,"evolution":evo}).replace("Let'","let").replace("'",'"'))
+    print(f"saving {pkmnname}...")
+    with open(f"json_files\\{pkmnname}.json","w",encoding="utf-8") as f:
+        f.write(str({"dex number":dexnum,
+        "pokemon name":pkmnname,
+        "types":types,
+        "abilities":abilities,
+        "hidden abilities":hidden,
+        "stats": {
+            "hp":stats[0],
+            "atk":stats[1],
+            "def":stats[2],
+            "atk esp":stats[3],
+            "def esp":stats[4],
+            "speed":stats[5]
+            },
+        "location":location_info,
+        "pokedex":pkdex_info,
+        "evolution":evo}).replace("Let'","let").replace("'",'"'))
         f.close()
+    print(f"{pkmnname} saved!")
+
+# Some pages doesn't have the tag require to continue without crashing, that's when the page had notation, to fix this it got remove the tag 
+# from the list if it's a notation
 def Cleanse(list):
     for i in list:
         try:
@@ -95,13 +126,13 @@ def Location(url_html):
     location_table=url_html.find_all("table",{"class":"localizacion"})[0].find_all("tr")
     location_info={}
     for i in location_table[1::]:
-        th=i.find_all("th")
-        if len(th)==2:
-            region=th[1].text[:-1]
-            location_info[region]=i.find_all("td")[0].text[:-1].split("\n")[1::]
+        row=[row_content for row_content in i.text.split("\n") if row_content!=""]
+        location_info[row[0]]=row[1::]
     return location_info
 
+
 def evolution(url_html,pkmname,previous=None):
+#   To save some resources, it will be check if the new pokemon is a evolution from the previous or not
     if previous==None or pkmname not in previous:
         evo_raw=url_html.find_all("table",{"class":"evolucion"})[-1].find_all("tr")
         len_line=0
@@ -117,7 +148,7 @@ def evolution(url_html,pkmname,previous=None):
         return evolution_lane
     else:
         return previous
-#url_html=bs(url.text,"html.parser").find_all("table")[2] Evolucion
+
 if __name__=="__main__":
     gen=[table_unwrapper(i) for i in list_pkmn()]
-    first_gen(gen[0])
+    scrapping(gen[0])
