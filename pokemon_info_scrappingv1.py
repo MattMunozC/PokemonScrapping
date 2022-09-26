@@ -50,10 +50,10 @@ def scrapping(list):
             evo=evolution(url_html,pkmnname)
         #level_moves=url_html.find_all("section",{"class":"tabber__section"})[0]
 
-        MO_MT=[i.text for i in url_html.find_all("section",{"class":"tabber__section"})[1].find_all("tr")]
+        #MO_MT=[i.text for i in url_html.find_all("section",{"class":"tabber__section"})[1].find_all("tr")]
 
         save_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo)
-        break
+
 
 def print_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo):
     pprint({"dex number":dexnum,
@@ -73,7 +73,7 @@ def print_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_
                 "evolution":evo})
 def save_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo):
     print(f"saving {pkmnname}...")
-    with open(f"json_files\\{pkmnname}.json","w",encoding="utf-8") as f:
+    with open(f"json_files\\{dexnum}-{pkmnname}.json","w",encoding="utf-8") as f:
         data={"dex number":dexnum,
                 "pokemon name":pkmnname,
                 "types":types,
