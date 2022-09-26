@@ -1,0 +1,188 @@
+{
+    "dex number": "138",
+    "pokemon name": "Omanyte",
+    "types": [
+        "roca",
+        "agua"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Caparazón"
+    ],
+    "hidden abilities": [
+        "Armadura frágil"
+    ],
+    "stats": {
+        "hp": "35",
+        "atk": "40",
+        "def": "100",
+        "atk esp": "90",
+        "def esp": "55",
+        "speed": "35"
+    },
+    "location": {
+        "Rojo": [
+            "Especial: Revivir el fósil hélix en el Laboratorio de Isla Canela",
+            "Especial: Regalo entregado en Pokémon Stadium tras derrotar al alto mando."
+        ],
+        "Azul": [
+            "Especial: Revivir el fósil hélix en el Laboratorio de Isla Canela",
+            "Especial: Regalo entregado en Pokémon Stadium tras derrotar al alto mando."
+        ],
+        "Amarillo": [
+            "Especial: Revivir el fósil hélix en el Laboratorio de Isla Canela",
+            "Especial: Regalo entregado en Pokémon Stadium tras derrotar al alto mando."
+        ],
+        "Oro": [
+            "Intercambiar: de Pokémon Rojo, Azul y Amarillo."
+        ],
+        "Plata": [
+            "Intercambiar: de Pokémon Rojo, Azul y Amarillo."
+        ],
+        "Cristal": [
+            "Intercambiar: de Pokémon Rojo, Azul y Amarillo."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja."
+        ],
+        "Rojo Fuego": [
+            "Especial: Revivir el fósil hélix en el Laboratorio de Isla Canela"
+        ],
+        "Verde Hoja": [
+            "Especial: Revivir el fósil hélix en el Laboratorio de Isla Canela"
+        ],
+        "Diamante": [
+            "Especial: Revivir el fósil hélix en el Museo Minero de Ciudad Pirita",
+            "Parque Compi: Zona marina"
+        ],
+        "Perla": [
+            "Especial: Revivir el fósil hélix en el Museo Minero de Ciudad Pirita",
+            "Parque Compi: Zona marina"
+        ],
+        "Platino": [
+            "Especial: Revivir el fósil hélix en el Museo Minero de Ciudad Pirita",
+            "Parque Compi: Zona marina"
+        ],
+        "Oro HeartGold": [
+            "Especial: Revivir el fósil hélix en el Museo de la Ciencia de Ciudad Plateada",
+            "Parque Compi: Zona marina"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Oro HeartGold.",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Especial: Revivir el fósil hélix en el Museo-Gimnasio de Ciudad Esmalte",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco": [
+            "Especial: Revivir el fósil hélix en el Museo-Gimnasio de Ciudad Esmalte",
+            "Dream World: Mar Brillante"
+        ],
+        "Negro 2": [
+            "Especial: Revivir el fósil hélix en el Museo-Gimnasio de Ciudad Esmalte",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Especial: Revivir el fósil hélix en el Museo-Gimnasio de Ciudad Esmalte",
+            "Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Y o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Especial: Revivir el fósil hélix en el Instituto Paleontológico de Pueblo Petroglifo"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon Y o Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Revivir el fósil hélix en Devon S. A."
+        ],
+        "Sol": [
+            "Banco de Pokémon:: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon:: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Especial: Revivir el fósil hélix en la Ruta 8"
+        ],
+        "Ultraluna": [
+            "Especial: Revivir el fósil hélix en la Ruta 8"
+        ],
+        "Let's Go Pikachu!": [
+            "Especial: Revivir el fósil hélix en el Laboratorio de Isla Canela"
+        ],
+        "Let's Go Eevee!": [
+            "Especial: Revivir el fósil hélix en el Laboratorio de Isla Canela"
+        ],
+        "Espada": [
+            "Salvaje: Suela del Gigante  y Grutas Sonamar ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Suela del Gigante , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Especial: Revivir el fósil hélix en el Museo Minero de Ciudad Pirita. El fósil se obtiene en las Grutas del Subsuelo."
+        ],
+        "Perla Reluciente": [
+            "Especial: Revivir el fósil hélix en el Museo Minero de Ciudad Pirita. El fósil se obtiene en las Grutas del Subsuelo."
+        ],
+        "Leyendas: Arceus": [
+            "Omanyte no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Aunque extinto, en algunas ocasiones puede ser resucitado genéticamente de los fósiles.",
+        "Amarillo": "Este antiguo Pokémon fue recuperado de un fósil. Nada muy bien gracias al movimiento de sus 10 tentáculos.",
+        "Oro": "Resucitado de un fósil, este Pokémon usa el aire de su concha para sumergirse y emerger.",
+        "Plata": "Se dice que este antiguo Pokémon surcó el mar moviendo los 10 tentáculos que posee.",
+        "Cristal": "En tiempos prehistóricos, vivía en el fondo del mar y se alimenta de plancton. Aún se ven sus fósiles.",
+        "Rubí": "Omanyte es uno de esos Pokémon ancestrales que se extinguieron hace muchísimo tiempo y que la gente ha recuperado a partir de fósiles. Si un enemigo le ataca, se esconderá dentro de la dura concha que tiene.",
+        "Zafiro": "Omanyte es uno de esos Pokémon ancestrales que se extinguieron hace muchísimo tiempo y que la gente ha recuperado a partir de fósiles. Si un enemigo le ataca, se esconderá dentro de la dura concha que tiene.",
+        "Esmeralda": "Es un Pokémon ancestral que se extinguió hace mucho tiempo y se recuperó a partir de fósiles. Si le atacan, se esconderá dentro de su dura concha.",
+        "Rojo Fuego": "Pokémon prehistórico que vivió en el océano primordial. Para nadar se valía de sus 10 tentáculos.",
+        "Verde Hoja": "Aunque extinto, en algunas ocasiones puede ser recuperado genéticamente a partir de los fósiles.",
+        "Diamante": "Fue recuperado a partir de un fósil gracias a la ciencia moderna. Solía nadar en antiguos mares.",
+        "Perla": "Fue recuperado a partir de un fósil gracias a la ciencia moderna. Solía nadar en antiguos mares.",
+        "Platino": "Fue recuperado a partir de un fósil gracias a la ciencia moderna. Solía nadar en antiguos mares.",
+        "Oro HeartGold": "Resucitado de un fósil, este Pokémon usa el aire de su concha para sumergirse y emerger.",
+        "Plata SoulSilver": "Se dice que este antiguo Pokémon surcó el mar moviendo los 10 tentáculos que posee.",
+        "Negro": "Fue recuperado a partir de un fósil gracias a la ciencia moderna. Solía nadar en antiguos mares.",
+        "Blanco": "Fue recuperado a partir de un fósil gracias a la ciencia moderna. Solía nadar en antiguos mares.",
+        "Negro 2": "Fue recuperado a partir de un fósil gracias a la ciencia moderna. Solía nadar en antiguos mares.",
+        "Blanco 2": "Fue recuperado a partir de un fósil gracias a la ciencia moderna. Solía nadar en antiguos mares.",
+        "Pokémon X": "Pokémon prehistórico que vivió en el océano primordial. Para nadar se valía de sus 10 tentáculos.",
+        "Pokémon Y": "Resucitado de un fósil, este Pokémon usa el aire de su concha para sumergirse y emerger.",
+        "Rubí Omega": "Omanyte es uno de esos Pokémon ancestrales que se extinguieron hace muchísimo tiempo y que la gente ha recuperado a partir de fósiles. Si un enemigo le ataca, se esconderá dentro de la dura concha que tiene.",
+        "Zafiro Alfa": "Omanyte es uno de esos Pokémon ancestrales que se extinguieron hace muchísimo tiempo y que la gente ha recuperado a partir de fósiles. Si un enemigo le ataca, se esconderá dentro de la dura concha que tiene.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Pokémon prehistórico que vivía en el océano. Las marcas de mordeduras en sus fósiles indican que solía ser presa de los Archeops.",
+        "Ultraluna": "Este Pokémon ha sido regenerado a partir de Fósiles Hélix hallados en estratos que corresponden al lecho de océanos prehistóricos.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Este antiguo Pokémon fue regenerado a partir de un fósil. Solía nadar en antiguos mares moviendo con destreza sus 10 tentáculos.",
+        "Espada": "Varios ejemplares han escapado o bien han sido liberados tras su restauración, lo que comienza a suscitar una serie de problemas.",
+        "Escudo": "Un Pokémon de la era prehistórica, ahora extinto. Solía nadar moviendo sus diez tentáculos para desplazarse por el agua como si flotara.",
+        "Diamante Brillante": "Fue regenerado a partir de un fósil gracias a la ciencia moderna. Habitó los océanos de la antigüedad.",
+        "Perla Reluciente": "Fue regenerado a partir de un fósil gracias a la ciencia moderna. Habitó los océanos de la antigüedad.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Pokémon prehistórico extinguido hace mucho que ha sido reproducido desde un fósil. Nada haciendo girar sus 10 tentáculos.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Omanyte es uno de esos Pokémon ancestrales que se extinguieron hace muchísimo tiempo y que la gente ha recuperado a partir de fósiles. Si un enemigo le ataca, se esconderá dentro de la dura concha que tiene."
+    },
+    "evolution": [
+        [
+            "Omanyte",
+            "Nivel 40",
+            "Omastar"
+        ]
+    ]
+}

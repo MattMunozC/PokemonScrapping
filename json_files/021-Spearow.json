@@ -1,0 +1,203 @@
+{
+    "dex number": "021",
+    "pokemon name": "Spearow",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Vista lince"
+    ],
+    "hidden abilities": [
+        "Francotirador"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "60",
+        "def": "30",
+        "atk esp": "31",
+        "def esp": "31",
+        "speed": "70"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Rutas 3, 4, 9, 10, 11, 16, 17, 18, 22 y 23."
+        ],
+        "Azul": [
+            "Salvaje: Rutas 3, 4, 9, 10, 11, 16, 17, 18, 22 y 23."
+        ],
+        "Amarillo": [
+            "Salvaje: Rutas 3, 4, 9, 16, 18 y 22."
+        ],
+        "Oro": [
+            "Salvaje, mañana y día: Rutas 3, 4, 7, 9, 10, 22, 33, 42 y 46.",
+            "Golpe cabeza.",
+            "Especial: Te lo entrega un guardia en la salida norte de Ciudad Trigal con el mote de ESPI para entregar una carta en la ruta 31. Puedes equiparle la carta a otro Pokémon y quedarte con ESPI."
+        ],
+        "Plata": [
+            "Salvaje, mañana y día: Rutas 3, 4, 7, 9, 10, 22, 33, 42 y 46.",
+            "Golpe cabeza.",
+            "Especial: Te lo entrega un guardia en la salida norte de Ciudad Trigal con el mote de ESPI para entregar una carta en la ruta 31. Puedes equiparle la carta a otro Pokémon y quedarte con ESPI."
+        ],
+        "Cristal": [
+            "Salvaje, mañana y día: Rutas 3, 4, 7, 9, 10, 22, 33, 42 y 46.",
+            "Golpe cabeza.",
+            "Especial: Te lo entrega un guardia en la salida norte de Ciudad Trigal con el mote de ESPI para entregar una carta en la ruta 31. Puedes equiparle la carta a otro Pokémon y quedarte con ESPI."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja."
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Rutas 3, 4, 9, 10, 11, 17, 18, 22 y 23, Playa Tesoro, Camino Candente, Monte Ascuas, Cabo Extremo, Vía Acuática y Valle Ruinas."
+        ],
+        "Verde Hoja": [
+            "Salvaje: Rutas 3, 4, 9, 10, 11, 17, 18, 22 y 23, Playa Tesoro, Camino Candente, Monte Ascuas, Cabo Extremo, Vía Acuática y Valle Ruinas."
+        ],
+        "Diamante": [
+            "Salvaje: Rutas 225 y 226.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Salvaje: Rutas 225 y 226.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Salvaje: Ruta 225.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Salvaje, todo el día: Ruta 47. Mañana y día: Rutas 3, 4, 7, 9, 10, 22, 33, 42, 46 y Zona Safari (Pantano).",
+            "Golpe cabeza: Rutas 7, 11, 16, 33, 42, 44, 45, 46, Ciudad Azulona, Ciudad Carmín y Pueblo Azalea.",
+            "Pokéwalker: Bosque Murmullos.",
+            "Parque Compi: Zona pradera.",
+            "Especial: Te lo entrega un chico en la salida norte de Ciudad Trigal, con el mote de Alerón, para entregar una carta. Puedes colocar la carta a otro Pokémon y quedarte con Alerón. Estará al nivel 20."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, todo el día: Ruta 47. Mañana y día: Rutas 3, 4, 7, 9, 10, 22, 33, 42, 46 y Zona Safari (Pantano).",
+            "Golpe cabeza: Rutas 7, 11, 16, 33, 42, 44, 45, 46, Ciudad Azulona, Ciudad Carmín y Pueblo Azalea.",
+            "Pokéwalker: Bosque Murmullos.",
+            "Parque Compi: Zona pradera.",
+            "Especial: Te lo entrega un chico en la salida norte de Ciudad Trigal, con el mote de Alerón, para entregar una carta. Puedes colocar la carta a otro Pokémon y quedarte con Alerón. Estará al nivel 20."
+        ],
+        "Negro": [
+            "Criando: de Fearow.",
+            "Dream World: Alto Cielo con la habilidad Francotirador."
+        ],
+        "Blanco": [
+            "Criando: de Fearow.",
+            "Dream World: Alto Cielo con la habilidad Francotirador."
+        ],
+        "Negro 2": [
+            "Criando: de Fearow.",
+            "Dream World: Alto Cielo con la habilidad Francotirador."
+        ],
+        "Blanco 2": [
+            "Criando: de Fearow.",
+            "Dream World: Alto Cielo con la habilidad Francotirador."
+        ],
+        "Pokémon X": [
+            "Salvaje: Safari Amistad.",
+            "Criando: de Fearow."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Safari Amistad.",
+            "Criando: de Fearow."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Salvaje: Rutas 2 y 3",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Luna": [
+            "Salvaje: Rutas 2 y 3",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Ultrasol": [
+            "Salvaje: Rutas 2 y 3"
+        ],
+        "Ultraluna": [
+            "Salvaje: Rutas 2 y 3"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Rutas 3, 4, 9, 10, 22 y 23",
+            "Especial: GO Park Transferir desde Pokémon GO"
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Rutas 3, 4, 9, 10, 22 y 23",
+            "Especial: GO Park Transferir desde Pokémon GO"
+        ],
+        "Espada": [
+            "Spearow no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Spearow no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Rutas 225 y 226."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Rutas 225 y 226."
+        ],
+        "Leyendas: Arceus": [
+            "Spearow no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Come bichos en zona de hierba. Agita sus cortas alas muy rápido para mantenerse en el aire.",
+        "Amarillo": "Es incapaz de volar a gran altura, pero es muy rápido, lo que le permite protegerse.",
+        "Oro": "Aletea con sus cortas alas para hacer salir a los insectos de la hierba, y los caza con su pico.",
+        "Plata": "Muy protector de su territorio, mueve sus cortas alas sin descanso para lanzarse a toda velocidad.",
+        "Cristal": "Para proteger su territorio, revolotea sin cesar, piando con chillidos bastante fuertes.",
+        "Rubí": "Spearow pía con tanta fuerza que se le puede oír a 1 km de distancia. Si el agudo chillido sigue una especie de eco, estaremos oyendo la respuesta de otros Spearow que contestan ante el aviso de peligro.",
+        "Zafiro": "Spearow pía con tanta fuerza que se le puede oír a 1 km de distancia. Si el agudo chillido sigue una especie de eco, estaremos oyendo la respuesta de otros Spearow que contestan ante el aviso de peligro.",
+        "Esmeralda": "Cuando pía, se le puede oír a 1 km. Si a su agudo chillido le sigue una especie de eco, estaremos oyendo a otros Spearow responder el aviso de peligro.",
+        "Rojo Fuego": "Va siempre revoloteando de aquí para allá. Aunque frágil, puede ser un duro rival cuando usa Movimiento espejo.",
+        "Verde Hoja": "Come bichos en zona de hierba. Agita sus cortas alas muy rápido para mantenerse en el aire.",
+        "Diamante": "Agita continuamente sus alitas para volar. Busca presas entre la hierba con su pico.",
+        "Perla": "Agita continuamente sus alitas para volar. Busca presas entre la hierba con su pico.",
+        "Platino": "Agita continuamente sus alitas para volar. Busca presas entre la hierba con su pico.",
+        "Oro HeartGold": "Aletea con sus cortas alas para hacer salir a los insectos de la hierba, y los caza con su pico.",
+        "Plata SoulSilver": "Muy protector de su territorio, mueve sus cortas alas sin descanso para lanzarse a toda velocidad.",
+        "Negro": "Agita continuamente sus alitas para volar. Busca presas entre la hierba con su pico.",
+        "Blanco": "Agita continuamente sus alitas para volar. Busca presas entre la hierba con su pico.",
+        "Negro 2": "Agita continuamente sus alitas para volar. Busca presas entre la hierba con su pico.",
+        "Blanco 2": "Agita continuamente sus alitas para volar. Busca presas entre la hierba con su pico.",
+        "Pokémon X": "Muy protector de su territorio, mueve sus cortas alas sin descanso para lanzarse a toda velocidad.",
+        "Pokémon Y": "Come bichos en zonas de hierba. Agita sus cortas alas muy rápido para mantenerse en el aire.",
+        "Rubí Omega": "Spearow pía con tanta fuerza que se le puede oír a 1 km de distancia. Si al agudo chillido le sigue una especie de eco, estaremos oyendo la respuesta de otros Spearow que contestan ante el aviso de peligro.",
+        "Zafiro Alfa": "Spearow pía con tanta fuerza que se le puede oír a 1 km de distancia. Si al agudo chillido le sigue una especie de eco, estaremos oyendo la respuesta de otros Spearow que contestan ante el aviso de peligro.",
+        "Sol": "Sus alas cortas hacen que no se le dé muy bien volar. Corretea apresuradamente, picoteando los Pokémon insecto que se encuentre en la hierba.",
+        "Luna": "Tiene un apetito voraz y come con frecuencia. En las granjas crían Spearow para combatir plagas de Pokémon insecto.",
+        "Ultrasol": "Su temperamento temerario hace que no dude en enfrentarse a rivales mucho más grandes a la hora de defender su territorio.",
+        "Ultraluna": "Sus cortas alas le impiden volar grandes distancias, por lo que revolotea inquieto y picotea a todo Pokémon insecto que ve.",
+        "Let's Go Pikachu!Let's Go Eevee!": "A la hora de proteger su territorio, compensa su incapacidad para volar a gran altura con una increíble velocidad.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Agita sin cesar sus cortas alas para mantener el vuelo. Busca presas entre la hierba con el pico.",
+        "Perla Reluciente": "Agita sin cesar sus cortas alas para mantener el vuelo. Busca presas entre la hierba con el pico.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "",
+        "Stadium 2": "Pokémon Oro insertado: Muy protector de su territorio, mueve sus cortas alas sin descanso para lanzarse a toda velocidad.\nPokémon Plata insertado: Aletea con sus cortas alas para hacer salir a los insectos de la hierba, y los caza con su pico.\n",
+        "Pokémon GO": "Spearow pía con tanta fuerza que se le puede oír a 1 km de distancia. Si al agudo chillido le sigue una especie de eco, estaremos oyendo la respuesta de otros Spearow que contestan ante el aviso de peligro.",
+        "Ranger": "Spearow puede provocar ráfagas de viento agitando sus pequeñas alas.",
+        "Sombras de Almia": "Ataca batiendo sus alas para provocar ráfagas de aire."
+    },
+    "evolution": [
+        [
+            "Spearow",
+            "Nivel 20",
+            "Fearow"
+        ]
+    ]
+}

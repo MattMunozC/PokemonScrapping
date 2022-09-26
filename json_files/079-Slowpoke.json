@@ -1,0 +1,201 @@
+{
+    "dex number": "079",
+    "pokemon name": "Slowpoke",
+    "types": [
+        "agua",
+        "psíquico"
+    ],
+    "abilities": [
+        "Despiste",
+        "Ritmo propio"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": "90",
+        "atk": "65",
+        "def": "65",
+        "atk esp": "40",
+        "def esp": "40",
+        "speed": "15"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Islas Espuma",
+            "Pescando: Ruta 9, Ruta 10, Ciudad Azulona y Zona Safari"
+        ],
+        "Azul": [
+            "Salvaje: Islas Espuma",
+            "Pescando: Ruta 9 y Ruta 10, Ciudad Azulona y Zona Safari",
+            "Intercambiar: por un Seel en el Laboratorio de Isla Canela (solo en la versión japonesa)."
+        ],
+        "Amarillo": [
+            "Salvaje: Islas Espuma",
+            "Surfeando: Ruta 12 y Ruta 13"
+        ],
+        "Oro": [
+            "Salvaje: Pozo Slowpoke y Cataratas Tohjo"
+        ],
+        "Plata": [
+            "Salvaje: Pozo Slowpoke y Cataratas Tohjo"
+        ],
+        "Cristal": [
+            "Salvaje: Pozo Slowpoke y Cataratas Tohjo"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Verde Hoja"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Playa Tesoro, Cabo Extremo, Puente Unión, Bosque Baya, Camino Candente, Islas Espuma, Cueva Glaciada, Vía Acuática, Valle Ruinas, Prado Isla Inta y Entrada al Cañón",
+            "Pescando: Rutas 4, 6, 9, 10, 11, 12, 13, 19, 20, 21, 24, 25, Pueblo Paleta, Ciudad Celeste, Ciudad Carmín, Isla Canela, Isla Prima, Playa Tesoro, Puente Unión, Camino Candente, Vía Acuática, Vía Verde, Isla Aislada, Isla Inta, Aquarinto, Lugar de Recreo, Prado Isla Inta, Pilar Recuerdo, Torre Desafío, Ruinas Sete, Cueva Celeste, Ciudad Fucsia, Zona Safari, Cabo Extremo, Bosque Baya, Isla Quarta, Cueva Glaciada y Valle Ruinas",
+            "Surfeando: Rutas 6, 22, 23, 25, Ciudad Verde, Ciudad Azulona, Islas Espuma, Cueva Celeste, Ciudad Fucsia, Zona Safari, Cabo Extremo, Bosque Baya, Isla Quarta, Cueva Glaciada y Valle Ruinas"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Perla": [
+            "Salvaje: Ruta 205 (Pokéradar)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Platino": [
+            "Salvaje: Ruta 205 (Pokéradar)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Pozo Slowpoke, Cataratas Tohjo y Zona Safari (laguna)",
+            "Parque Compi: Zona pantanosa",
+            "Pokéwalker: Costa Bella"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Pozo Slowpoke, Cataratas Tohjo y Zona Safari (laguna)",
+            "Parque Compi: Zona pantanosa",
+            "Pokéwalker: Costa Bella"
+        ],
+        "Negro": [
+            "Surfeando: Santuario Abundancia",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco": [
+            "Surfeando: Santuario Abundancia",
+            "Dream World: Mar Brillante"
+        ],
+        "Negro 2": [
+            "Manada Pokémon: Santuario Abundancia",
+            "RAdar Pokémon: Lente Especial B"
+        ],
+        "Blanco 2": [
+            "Manada Pokémon: Santuario Abundancia",
+            "RAdar Pokémon: Lente Especial B"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 12 y Bahía Azul"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 12 y Bahía Azul"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Espejismo."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Espejismo."
+        ],
+        "Sol": [
+            "Salvaje: Afueras de Hauoli, Ruta 15, Ruta 16 y Bahía Kalae"
+        ],
+        "Luna": [
+            "Salvaje: Afueras de Hauoli, Ruta 15, Ruta 16 y Bahía Kalae"
+        ],
+        "Ultrasol": [
+            "Salvaje: Afueras de Hauoli, Ruta 15, Ruta 16 y Bahía Kalae",
+            "Poké Resort: Cayo Recreo, tras llegar a Akala"
+        ],
+        "Ultraluna": [
+            "Salvaje: Afueras de Hauoli, Ruta 15, Ruta 16 y Bahía Kalae",
+            "Poké Resort: Cayo Recreo, tras llegar a Akala"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Islas Espuma"
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Islas Espuma"
+        ],
+        "Espada": [
+            "Regalo: del Entrenador de Diglett en la Isla de la Armadura luego de encontrar a 10 de sus Diglett de Alola."
+        ],
+        "Escudo": [
+            "Regalo: del Entrenador de Diglett en la Isla de la Armadura luego de encontrar a 10 de sus Diglett de Alola."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "PokéRadar: Ruta 205 (Norte).",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arroyo, Cueva Fluvial, Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Slowpoke no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Increíblemente lento y torpe. Tardará 5 segundos en sentir dolor si es atacado.",
+        "Amarillo": "Es increíblemente lento y perezoso. Le encanta dormir sin preocuparse ni del tiempo ni de lo que ocurra.",
+        "Oro": "Descansa ocioso junto al agua. Si algo muerde su cola, no lo notará en todo el día.",
+        "Plata": "De la punta de su cola gotea una savia muy dulce. No es nutritiva, pero es deliciosa para mascar.",
+        "Cristal": "Está siempre tan ensimismado que, aunque le muerdan la cola tan apetitosa que tiene, ni se inmutará.",
+        "Rubí": "Slowpoke usa la cola para atrapar a sus presas metiéndola bajo el agua en las riberas de los ríos. Con todo, es olvidadizo, se le puede pasar lo que estaba haciendo y quedarse días enteros holgazaneando en la orilla.",
+        "Zafiro": "Slowpoke usa la cola para atrapar a sus presas metiéndola bajo el agua en las riberas de los ríos. Con todo, es olvidadizo, se le puede pasar lo que estaba haciendo y quedarse días enteros holgazaneando en la orilla.",
+        "Esmeralda": "Con la cola, atrapa a su rival metiéndolo bajo agua en las riberas de los ríos. Suele olvidar lo que estaba haciendo y pasarse días enteros holgazaneando en la orilla.",
+        "Rojo Fuego": "Está siempre en su mundo, pero nadie sabe en qué piensa. Suele pescar con la cola.",
+        "Verde Hoja": "Increíblemente lento y torpe. Tarda 5 segundos en sentir dolor si lo atacan.",
+        "Diamante": "A pesar de su lentitud, tiene una gran habilidad para pescar con la cola, que es insensible al dolor.",
+        "Perla": "A pesar de su lentitud, tiene una gran habilidad para pescar con la cola, que es insensible al dolor.",
+        "Platino": "A pesar de su lentitud, tiene una gran habilidad para pescar con la cola, que es insensible al dolor.",
+        "Oro HeartGold": "Descansa ocioso junto al agua. Si algo muerde su cola, no lo notará en todo el día.",
+        "Plata SoulSilver": "De la punta de su cola gotea una savia muy dulce. No es nutritiva, pero es deliciosa para mascar.",
+        "Negro": "A pesar de su lentitud, tiene una gran habilidad para pescar con la cola, que es insensible al dolor.",
+        "Blanco": "A pesar de su lentitud, tiene una gran habilidad para pescar con la cola, que es insensible al dolor.",
+        "Negro 2": "A pesar de su lentitud, tiene una gran habilidad para pescar con la cola, que es insensible al dolor.",
+        "Blanco 2": "A pesar de su lentitud, tiene una gran habilidad para pescar con la cola, que es insensible al dolor.",
+        "Pokémon X": "Está siempre en su mundo, pero nadie sabe en qué piensa. Suele pescar con la cola.",
+        "Pokémon Y": "Descansa ocioso junto al agua. Si algo muerde su cola, no lo notará en todo el día.",
+        "Rubí Omega": "Slowpoke usa la cola para atrapar a sus presas metiéndola bajo el agua en las riberas de los ríos. Con todo, es olvidadizo, se le puede pasar lo que estaba haciendo y quedarse días enteros holgazaneando en la orilla.",
+        "Zafiro Alfa": "Slowpoke usa la cola para atrapar a sus presas metiéndola bajo el agua en las riberas de los ríos. Con todo, es olvidadizo, se le puede pasar lo que estaba haciendo y quedarse días enteros holgazaneando en la orilla.",
+        "Sol": "Pierde la cola con frecuencia, pero, como no le duele y le crece de nuevo rápidamente, no le da ninguna importancia.",
+        "Luna": "Un plato típico de la cocina de Alola son las colas de Slowpoke desecadas y cocinadas en agua salada.",
+        "Ultrasol": "La leyenda afirma que su bostezo atrae las lluvias, por lo que en ciertas regiones lo consideran prácticamente una deidad.",
+        "Ultraluna": "Su cola se desprende con facilidad de forma natural y es un ingrediente muy valorado en la elaboración de platos de alta cocina.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Es increíblemente lento y perezoso. Se toma las cosas con calma, sin preocuparse por el paso del tiempo.",
+        "Espada": "Es lento y abstraído. Aunque le devoren la cola, ni siquiera se percata, ya que no siente ningún dolor. Tampoco nota cuando le vuelve a crecer.",
+        "Escudo": "Hunde la cola en el agua y la usa cual caña de pescar. La sustancia dulce que secreta le sirve de cebo para atraer a sus presas.",
+        "Diamante Brillante": "A pesar de su lentitud, tiene una gran habilidad para pescar con la cola, que es insensible al dolor.",
+        "Perla Reluciente": "A pesar de su lentitud, tiene una gran habilidad para pescar con la cola, que es insensible al dolor.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Un Pokémon atontado que permanece aturdido excepto cuando pesca con su cola. Dormido o despierto, no hay mucha diferencia.",
+        "Stadium 2": "Pokémon Oro insertado: De la punta de su cola gotea una savia muy dulce. No es nutritiva, pero es deliciosa para mascar.\nPokémon Plata insertado: Descansa ocioso junto al agua. Si algo muerde su cola, no lo notará en todo el día.\n",
+        "Pokémon GO": "Slowpoke usa la cola para atrapar a sus presas metiéndola bajo el agua en las riberas de los ríos. Con todo, es olvidadizo, se le puede pasar lo que estaba haciendo y quedarse días enteros holgazaneando en la orilla.",
+        "Ranger": "Slowpoke es increíblemente vago. Duerme mucho y solo para para bostezar."
+    },
+    "evolution": [
+        [
+            "Slowpoke",
+            "Nivel 37",
+            "Slowbro"
+        ],
+        [
+            "",
+            "Intercambio equipado conroca del rey ",
+            "Slowking"
+        ]
+    ]
+}

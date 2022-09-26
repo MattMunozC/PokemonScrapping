@@ -1,0 +1,186 @@
+{
+    "dex number": "058",
+    "pokemon name": "Growlithe",
+    "types": [
+        "fuego"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Absorbe fuego"
+    ],
+    "hidden abilities": [
+        "Justiciero"
+    ],
+    "stats": {
+        "hp": "55",
+        "atk": "70",
+        "def": "45",
+        "atk esp": "70",
+        "def esp": "50",
+        "speed": "60"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: rutas 7 y 8, Mansión Pokémon."
+        ],
+        "Azul": [
+            "Intercambiar: de Pokémon Rojo, Pokémon Amarillo, Pokémon Oro o Pokémon Cristal."
+        ],
+        "Amarillo": [
+            "Salvaje: Mansión Pokémon (planta baja)."
+        ],
+        "Oro": [
+            "Salvaje: Rutas 7, 8, 36 y 37."
+        ],
+        "Plata": [
+            "Intercambiar: de Pokémon Rojo, Pokémon Amarillo, Pokémon Oro o Pokémon Cristal."
+        ],
+        "Cristal": [
+            "Salvaje, mañana y día: rutas 8, 35, 36 y 37."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego."
+        ],
+        "Rojo Fuego": [
+            "Salvaje: rutas 7 y 8, Mansión Pokémon."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rojo Fuego."
+        ],
+        "Diamante": [
+            "Salvaje: rutas 201 y 202 (con Pokémon Rojo Fuego insertado).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Salvaje: rutas 201 y 202 (con Pokémon Rojo Fuego insertado).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Salvaje: rutas 201 y 202 (con Pokémon Rojo Fuego insertado y la Pokédex Nacional.)"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Rutas 7, 8, 36, 37 y 48",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Oro HeartGold",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Dream World: Bosque Pequeño con la habilidad Justiciero.",
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Dream World: Bosque Pequeño con la habilidad Justiciero.",
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Dream World: Bosque Pequeño con la habilidad Justiciero.",
+            "Salvaje: Polígono Hormigón."
+        ],
+        "Blanco 2": [
+            "Dream World: Bosque Pequeño con la habilidad Justiciero.",
+            "Salvaje: Polígono Hormigón."
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo fuego."
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo fuego."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Monte Pírico (exterior), usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Monte Pírico (exterior), usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Salvaje: Ruta 2."
+        ],
+        "Luna": [
+            "Salvaje: Ruta 2."
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 2."
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 2."
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Ruta 5, Ruta 6, Ruta 7 y Ruta 8."
+        ],
+        "Let's Go Eevee!": [
+            "Intercambiar: de Pokémon: Let's Go, Pikachu!",
+            "Especial: Transferir desde Pokémon GO."
+        ],
+        "Espada": [
+            "Salvaje: Cuenca Polvorienta, Cornisa de Artejo, Espejo del Gigante."
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante, Ruta 3.",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida."
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Growlithe no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Gran defensor de su territorio. Ladrará y morderá para echar a los intrusos de su espacio.",
+        "Amarillo": "Este Pokémon es muy amistoso. Aun así, gruñirá a cualquiera que invada su territorio.",
+        "Oro": "De naturaleza valiente y honrada, se enfrenta sin miedo a enemigos más grandes y fuertes.",
+        "Plata": "Extremadamente fiel, ladrará sin temor a cualquier enemigo para defender a su entrenador.",
+        "Cristal": "Tiene marcado un vasto territorio. Si detecta un olor extraño ruge con fuerza para ahuyentar al enemigo.",
+        "Rubí": "Growlithe tiene un sentido del olfato excepcional y una memoria sensitiva tremenda, nunca olvida una esencia. Este Pokémon saca provecho de este don para identificar las sensaciones que tienen otros seres vivos.",
+        "Zafiro": "Growlithe tiene un sentido del olfato excepcional y una memoria sensitiva tremenda, nunca olvida una esencia. Este Pokémon saca provecho de este don para identificar las sensaciones que tienen otros seres vivos.",
+        "Esmeralda": "Tiene un sentido del olfato excepcional y una gran memoria sensitiva: nunca olvida una esencia e incluso puede identificar las emociones de otros seres vivos.",
+        "Rojo Fuego": "Es muy agradable y leal. Para ahuyentar al enemigo, se pone a ladrar y a dar bocados.",
+        "Verde Hoja": "Gran defensor de su territorio. Ladrará y morderá para echar a los intrusos de su espacio.",
+        "Diamante": "Pokémon de naturaleza leal. Permanece quieto en espera de órdenes de su entrenador.",
+        "Perla": "Pokémon de naturaleza leal. Permanece quieto en espera de órdenes de su entrenador.",
+        "Platino": "Pokémon de naturaleza leal. Permanece quieto en espera de órdenes de su entrenador.",
+        "Oro HeartGold": "De naturaleza valiente y honrada, se enfrenta sin miedo a enemigos más grandes y fuertes.",
+        "Plata SoulSilver": "Extremadamente fiel, ladrará sin temor a cualquier enemigo para defender a su entrenador.",
+        "Negro": "Pokémon de naturaleza leal. Permanece quieto en espera de órdenes de su entrenador.",
+        "Blanco": "Pokémon de naturaleza leal. Permanece quieto en espera de órdenes de su entrenador.",
+        "Negro 2": "Extremadamente leal a su entrenador, si alguien se le acerca despistado, ladrará hasta alejar a esa persona de la ciudad.",
+        "Blanco 2": "Extremadamente leal a su entrenador, si alguien se le acerca despistado, ladrará hasta alejar a esa persona de la ciudad.",
+        "Pokémon X": "Es muy agradable y leal. Para ahuyentar al enemigo, se pone a ladrar y a dar bocados.",
+        "Pokémon Y": "De naturaleza valiente y honrada, se enfrenta sin miedo a enemigos más grandes y fuertes.",
+        "Rubí Omega": "Growlithe tiene un sentido del olfato excepcional y una memoria sensitiva tremenda, nunca olvida una esencia. Este Pokémon saca provecho de este don para identificar las sensaciones que tienen otros seres vivos.",
+        "Zafiro Alfa": "Growlithe tiene un sentido del olfato excepcional y una memoria sensitiva tremenda, nunca olvida una esencia. Este Pokémon saca provecho de este don para identificar las sensaciones que tienen otros seres vivos.",
+        "Sol": "Es muy leal e inteligente por naturaleza. No obstante, si un extraño invade su territorio, le ladrará a modo de amenaza.",
+        "Luna": "Por muy adorable que parezca, si te acercas al Growlithe de otro Entrenador, lo más probable es que te ladre e intente morderte.",
+        "Ultrasol": "Es muy afable con las personas una vez que ha cogido confianza, pero, en estado salvaje, libra violentas disputas territoriales con los Rockruff.",
+        "Ultraluna": "Restos óseos hallados en yacimientos fósiles muestran que su convivencia con los humanos se remonta a la Edad de Piedra.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Este Pokémon es muy amistoso. Aun así, ladra con fiereza a cualquiera que invada su territorio.",
+        "Espada": "De naturaleza valiente y honrada, se enfrenta sin miedo a enemigos más grandes y fuertes.",
+        "Escudo": "Extremadamente fiel, ladrará furioso a cualquiera que suponga una amenaza para su Entrenador con tal de defenderlo.",
+        "Diamante Brillante": "Un Pokémon leal por naturaleza. Permanece inmóvil a la espera de recibir órdenes de su Entrenador.",
+        "Perla Reluciente": "Un Pokémon leal por naturaleza. Permanece inmóvil a la espera de recibir órdenes de su Entrenador.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Amistoso y leal, pero también celoso protector de su territorio. Si te acercas sin cuidado te morderá.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Growlithe tiene un sentido del olfato excepcional y una memoria sensitiva tremenda, nunca olvida una esencia. Este Pokémon saca provecho de este don para identificar las sensaciones que tienen otros seres vivos.",
+        "Ranger": "Growlithe es un Pokémon animado que respira brasas mientras corretea.",
+        "Sombras de Almia": "Escupe brasas y embiste para atacar."
+    },
+    "evolution": [
+        [
+            "Growlithe",
+            "Piedra fuego ",
+            "Arcanine"
+        ]
+    ]
+}

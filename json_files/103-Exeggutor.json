@@ -1,0 +1,195 @@
+{
+    "dex number": "103",
+    "pokemon name": "Exeggutor",
+    "types": [
+        "planta",
+        "psíquico"
+    ],
+    "abilities": [
+        "Clorofila"
+    ],
+    "hidden abilities": [
+        "Cosecha"
+    ],
+    "stats": {
+        "hp": "95",
+        "atk": "95",
+        "def": "85",
+        "atk esp": "125",
+        "def esp": "75",
+        "speed": "55"
+    },
+    "location": {
+        "Rojo": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Azul": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Amarillo": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Oro": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Plata": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Cristal": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Diamante": [
+            "Evolucionar: a Exeggcute (piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Evolucionar: a Exeggcute (piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Evolucionar: a Exeggcute (piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Exeggcute (piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Exeggcute (piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Exeggcute (piedra hoja en el Ultraespacio)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Exeggcute (piedra hoja en el Ultraespacio)"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Ruta 23",
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Ruta 23",
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Espada": [
+            "Salvaje: Mar Gimnástico  y Mar Islejos ",
+            "Incursiones Dinamax: Humedal Frescor , Bosque Concentración , Playa Desafío , Llano Entrenamiento  y Mar Andana ",
+            "Aventura Dinamax ",
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Escudo": [
+            "Salvaje: Mar Gimnástico  y Mar Islejos ",
+            "Incursiones Dinamax: Humedal Frescor , Bosque Concentración , Playa Desafío , Llano Entrenamiento  y Mar Andana ",
+            "Aventura Dinamax ",
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Exeggcute (piedra hoja)"
+        ],
+        "Leyendas: Arceus": [
+            "Exeggutor no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Dice la leyenda que en raras ocasiones una de sus cabezas cae y sobrevive como un Exeggcute.",
+        "Amarillo": "Este Pokémon es muy ruidoso. Esto es debido a que cada una de sus cabezas hace lo que quiere.",
+        "Oro": "Sus tres cabezas piensan de forma independiente. Sin embargo, son amigas y no suelen discutir nunca.",
+        "Plata": "Si se le cae una cabeza, emite una señal telepática para buscar a más y formar un grupo de Exeggcute.",
+        "Cristal": "Deben estar en un buen entorno para que le crezcan cabezas. Si una se desprende, vivirá como Exeggcute.",
+        "Rubí": "Exeggutor es originario del trópico. Cuando se expone a un sol intenso, le empiezan a crecer las cabezas. Hay quien dice que, cuando las cabezas caen al suelo, se unen para formar un Exeggcute.",
+        "Zafiro": "Exeggutor es originario del trópico. Cuando se expone a un sol intenso, le empiezan a crecer las cabezas. Hay quien dice que, cuando las cabezas caen al suelo, se unen para formar un Exeggcute.",
+        "Esmeralda": "Es originario del trópico. Cuando se expone a un sol intenso, le empiezan a crecer las cabezas. Dicen que, si caen al suelo, las cabezas se unen para formar un Exeggcute.",
+        "Rojo Fuego": "Suelen referirse a él como la \"vegetación del trópico con patas\". Cada una de sus cabezas tiene autonomía.",
+        "Verde Hoja": "Dice la leyenda que en raras ocasiones una de sus cabezas cae y sobrevive como un Exeggcute.",
+        "Diamante": "Se le llama la \"selva andante\". Si una cabeza crece demasiado, se cae y forma un Exeggcute.",
+        "Perla": "Se le llama la \"selva andante\". Si una cabeza crece demasiado, se cae y forma un Exeggcute.",
+        "Platino": "Se le llama la \"selva andante\". Si una cabeza crece demasiado, se cae y forma un Exeggcute.",
+        "Oro HeartGold": "Sus tres cabezas piensan de forma independiente. Sin embargo, son amigas y no suelen discutir nunca.",
+        "Plata SoulSilver": "Si se le cae una cabeza, emite una señal telepática para buscar a más y formar un grupo de Exeggcute.",
+        "Negro": "Se le llama la \"selva andante\". Si una cabeza crece demasiado, se cae y forma un Exeggcute.",
+        "Blanco": "Se le llama la \"selva andante\". Si una cabeza crece demasiado, se cae y forma un Exeggcute.",
+        "Negro 2": "Se le llama la \"selva andante\". Si una cabeza crece demasiado, se cae y forma un Exeggcute.",
+        "Blanco 2": "Se le llama la \"selva andante\". Si una cabeza crece demasiado, se cae y forma un Exeggcute.",
+        "Pokémon X": "Sus tres cabezas piensan de forma independiente. Sin embargo, son amigas y no suelen discutir nunca.",
+        "Pokémon Y": "Se le llama la \"selva andante\". Si una cabeza crece demasiado, se cae y forma un Exeggcute.",
+        "Rubí Omega": "Exeggutor es originario del trópico. Cuando se expone a un sol intenso, le empiezan a crecer las cabezas. Hay quien dice que, cuando las cabezas caen al suelo, se unen para formar un Exeggcute.",
+        "Zafiro Alfa": "Exeggutor es originario del trópico. Cuando se expone a un sol intenso, le empiezan a crecer las cabezas. Hay quien dice que, cuando las cabezas caen al suelo, se unen para formar un Exeggcute.",
+        "Sol": "Cada una de sus cabezas piensa de forma individual. Para tomar decisiones se comunican entre ellas telepáticamente",
+        "Luna": "En algún momento de su vida, una de sus tres cabezas se desprende y se transforma en un nuevo Exeggcute.",
+        "Ultrasol": "Ataca al rival con poderes psíquicos. Como tiene tres cabezas, la potencia de sus ataques se ve triplicada.",
+        "Ultraluna": "Sus tres cabezas poseen juicio propio. Si no se ponen de acuerdo en qué dirección tomar, Exeggutor se quedará plantado en el sitio.",
+        "Let's Go Pikachu!Let's Go Eevee!": "El estrépito que causa se debe a que cada una de las tres cabezas habla y actúa de forma independiente, sin tener en cuenta a las demás.",
+        "Espada": "Cada una de las tres cabezas piensa de forma independiente y apenas muestra interés por el resto.",
+        "Escudo": "Puede lanzar ataques psíquicos de gran potencia si sus tres cabezas se ponen de acuerdo. Cuando se nubla el cielo, sus movimientos se ralentizan.",
+        "Diamante Brillante": "Se le llama la Selva Andante. Si una cabeza crece demasiado, se cae y forma un Exeggcute.",
+        "Perla Reluciente": "Se le llama la Selva Andante. Si una cabeza crece demasiado, se cae y forma un Exeggcute.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Cada una de las frutas es una cabeza que piensa por su cuenta. Se dice que si una se cae, se convierte en un EXEGGCUTE.",
+        "Stadium 2": "Pokémon Oro insertado: Si se le cae una cabeza, emite una señal telepática para ir por más y formar un grupo de Exeggcute.\nPokémon Plata insertado: Sus tres cabezas piensan de forma independiente. Sin embargo, son amigas y no suelen discutir nunca.\n",
+        "Pokémon GO": "Exeggutor es originario del trópico. Cuando se expone a un sol intenso, le empiezan a crecer las cabezas. Hay quien dice que, cuando las cabezas caen al suelo, se unen para formar un Exeggcute.",
+        "New Pokémon Snap": "Sus tres cabezas se llevan bien entre sí, aunque piensan de forma independiente. Suelen dormir junto a las palmeras de la playa para camuflarse entre ellas y pasar desapercibidos."
+    },
+    "evolution": [
+        [
+            "Exeggcute",
+            "Piedra hoja (fuera de Alola)",
+            "Exeggutor"
+        ],
+        [
+            "",
+            "Piedra hoja (en Alola)",
+            "Exeggutor de Alola"
+        ]
+    ]
+}

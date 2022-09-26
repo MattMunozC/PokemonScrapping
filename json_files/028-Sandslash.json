@@ -1,0 +1,203 @@
+{
+    "dex number": "028",
+    "pokemon name": "Sandslash",
+    "types": [
+        "tierra"
+    ],
+    "abilities": [
+        "Velo arena"
+    ],
+    "hidden abilities": [
+        "Ímpetu arena"
+    ],
+    "stats": {
+        "hp": "75",
+        "atk": "100",
+        "def": "110",
+        "atk esp": "45",
+        "def esp": "55",
+        "speed": "65"
+    },
+    "location": {
+        "Rojo": [
+            "Intercambiar de Pokémon Azul, Pokémon Amarillo o Pokémon Oro, Plata y Cristal"
+        ],
+        "Azul": [
+            "Salvaje: Ruta 23 y Cueva Celeste (Planta baja y primer sótano).",
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Amarillo": [
+            "Salvaje: Cueva Celeste (Planta baja y primera planta).",
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Oro": [
+            "Salvaje: Rutas 26, 27 y Monte Moon.",
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Plata": [
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Cristal": [
+            "Salvaje: Ruta 26 y Calle Victoria.",
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Rubí": [
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Zafiro": [
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Verde Hoja, Pokémon Rubí y Zafiro o Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Salvaje: Ruta 23 y Calle Victoria.",
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 228 (con Pokémon Verde Hoja insertado).",
+            "Evolucionar: a Sandshrew (Nivel 22).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Salvaje: Ruta 228 (con Pokémon Verde Hoja insertado).",
+            "Evolucionar: a Sandshrew (Nivel 22).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Evolucionar: a Sandshrew (Nivel 22).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Rutas 26, 27, Monte Moon y Zona Safari (Desierto).",
+            "Evolucionar: a Sandshrew (Nivel 22).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari (Desierto).",
+            "Evolucionar: a Sandshrew (Nivel 22).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Salvaje: Castillo Ancestral.",
+            "Evolucionar: a Sandshrew (Nivel 22).",
+            "Dream World: Con la habilidad oculta ímpetu arena."
+        ],
+        "Blanco": [
+            "Salvaje: Castillo Ancestral.",
+            "Evolucionar: a Sandshrew (Nivel 22).",
+            "Dream World: Con la habilidad oculta ímpetu arena."
+        ],
+        "Negro 2": [
+            "Salvaje: Castillo Ancestral, Ruta 15.",
+            "Evolucionar: a Sandshrew (Nivel 22).",
+            "Dream World: Con la habilidad oculta ímpetu arena."
+        ],
+        "Blanco 2": [
+            "Salvaje: Castillo Ancestral, Ruta 15.",
+            "Evolucionar: a Sandshrew (Nivel 22).",
+            "Dream World: Con la habilidad oculta ímpetu arena."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 18 y Cueva Desenlace.",
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 18 y Cueva Desenlace.",
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Let's Go Pikachu!": [
+            "Evolucionar: a Sandshrew (Nivel 22)",
+            "GO Park Transferir desde Pokémon GO."
+        ],
+        "Let's Go Eevee!": [
+            "Intercambiar de Pokémon: Let's Go, Pikachu!",
+            "GO Park Transferir desde Pokémon GO."
+        ],
+        "Espada": [
+            "Aventura Dinamax ",
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Escudo": [
+            "Aventura Dinamax ",
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar de Pokémon Perla Reluciente"
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arenosa, Cueva Rocosa, Caverna Peñasco y Cueva Caldarena.",
+            "Evolucionar: a Sandshrew (Nivel 22)."
+        ],
+        "Leyendas: Arceus": [
+            "Sandslash no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Ante el peligro se acurruca en un espinoso ovillo. De esta forma puede rodar para atacar o escapar.",
+        "Amarillo": "Es muy hábil al golpear a sus enemigos con sus garras. Si se rompen, crecerán en un solo día.",
+        "Oro": "En un intento por esconderse, saldrá corriendo a gran velocidad, dejando tras de sí una gran polvareda.",
+        "Plata": "Si cava a gran velocidad, puede que se le caigan las garras y púas. Vuelven a crecerle en un día.",
+        "Cristal": "Lo suyo es trepar árboles, hacerse una bola de púas y atacar desde arriba a sus enemigos.",
+        "Rubí": "Sandslash está recubierto de duras púas que son partes endurecidas de la piel. Suele mudarlas una vez al año; debajo de las viejas púas crecen unas nuevas que las sustituyan.",
+        "Zafiro": "Sandslash se puede enroscar y convertirse en una bola de largas púas. En combate, este Pokémon hará lo posible por debilitar a su rival: le clavará las púas, se le acercará y le atacará con las afiladas garras.",
+        "Esmeralda": "Se enrosca para protegerse del enemigo y de los golpes de calor que hay durante el día, cuando aumenta la temperatura.",
+        "Rojo Fuego": "Suele hacerse una bola y rodar a toda velocidad al tiempo que va clavándole las púas y las garras al enemigo.",
+        "Verde Hoja": "Ante el peligro, se acurruca en un espinoso ovillo. De esta forma puede rodar para atacar o escapar.",
+        "Diamante": "Se hace una bola y se lanza rodando hacia los enemigos para clavarles sus afiladas púas.",
+        "Perla": "Se hace una bola y se lanza rodando hacia los enemigos para clavarles sus afiladas púas.",
+        "Platino": "Se hace una bola y se lanza rodando hacia los enemigos para clavarles sus afiladas púas.",
+        "Oro HeartGold": "En un intento por esconderse, saldrá corriendo a gran velocidad, dejando tras de sí una gran polvareda.",
+        "Plata SoulSilver": "Si cava a gran velocidad, puede que se le caigan las garras y las púas. Vuelven a crecerle en un día.",
+        "Negro": "Se hace una bola y se lanza rodando hacia los enemigos para clavarles sus afiladas púas.",
+        "Blanco": "Se hace una bola y se lanza rodando hacia los enemigos para clavarles sus afiladas púas.",
+        "Negro 2": "Sus afiladas púas, con las que ataca a sus enemigos haciéndose una bola, son partes endurecidas de su piel.",
+        "Blanco 2": "Sus afiladas púas, con las que ataca a sus enemigos haciéndose una bola, son partes endurecidas de su piel.",
+        "Pokémon X": "Si cava a gran velocidad, puede que se le caigan las garras y púas. Vuelven a crecerle en un día.",
+        "Pokémon Y": "Ante el peligro, se acurruca en un espinoso ovillo. De esta forma puede rodar para atacar o escapar.",
+        "Rubí Omega": "Sandslash está recubierto de duras púas que son partes endurecidas de la piel. Suele mudarlas una vez al año; debajo de las viejas púas crecen unas nuevas que las sustituyen.",
+        "Zafiro Alfa": "Sandslash puede enroscarse y convertirse en una bola de largas púas. En combate, este Pokémon hace retroceder a sus rivales clavándoselas. Acto seguido, aprovecha para echarse sobre ellos y atacarlos con sus afiladas garras.",
+        "Sol": "No suele inquietarse por el hecho de que sus afiladas garras y púas se rompan con facilidad, ya que estas vuelven a crecer al día siguiente",
+        "Luna": "Trepa a los árboles con sus garras. Cuando avista una presa, se convierte en una bola de púas y se deja caer sobre ella.",
+        "Ultrasol": "Sus garras y púas se caen con frecuencia y pueden recogerse para elaborar aperos de labranza.",
+        "Ultraluna": "Sus gruesas garras le permiten escalar árboles con gran agilidad. De hecho, no es extraño ver ejemplares durmiendo entre el follaje.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Utiliza hábilmente las garras en combate, por lo que suelen rompérsele. Aun así, solo tardan un día en volverle a crecer.",
+        "Espada": "Cuanto más seco es el terreno en el que habita, más duras y lisas se vuelven las púas que le recubren la espalda.",
+        "Escudo": "Trepa a los árboles con sus afiladas garras y deja caer bayas para los Sandshrew que esperan debajo.",
+        "Diamante Brillante": "Se hace una bola y se lanza rodando hacia los enemigos para clavarles las afiladas púas de la espalda, con las que les causa un gran daño.",
+        "Perla Reluciente": "Se hace una bola y se lanza rodando hacia los enemigos para clavarles las afiladas púas de la espalda, con las que les causa un gran daño.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Se enrolla en una bola de pinchos y rueda contra los enemigos. También le encanta dar zarpazos con sus afiladas garras.",
+        "Stadium 2": "Pokémon Oro insertado: Si cava a gran velocidad, puede que se le caigan las garras y púas. Vuelven a crecerle en un día.\nPokémon Plata insertado: En un intento por esconderse, saldrá corriendo a gran velocidad, dejando tras de sí una gran polvareda.\n",
+        "Pokémon GO": "Sandslash está recubierto de duras púas que son partes endurecidas de la piel. Suele mudarlas una vez al año; debajo de las viejas púas crecen unas nuevas que las sustituyen.",
+        "RubíZafiro": "Sandslash se puede enroscar y convertirse en una bola de largas púas. En combate, este Pokémon hará lo posible por debilitar a su rival: le clavará las púas, se le acercará y le atacará con las afiladas garras."
+    },
+    "evolution": [
+        [
+            "Sandshrew",
+            "Nivel 22",
+            "Sandslash"
+        ]
+    ]
+}

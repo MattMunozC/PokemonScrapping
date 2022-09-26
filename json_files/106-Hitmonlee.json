@@ -1,0 +1,200 @@
+{
+    "dex number": "106",
+    "pokemon name": "Hitmonlee",
+    "types": [
+        "lucha"
+    ],
+    "abilities": [
+        "Flexibilidad",
+        "Audaz"
+    ],
+    "hidden abilities": [
+        "Liviano"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "120",
+        "def": "53",
+        "atk esp": "35",
+        "def esp": "110",
+        "speed": "87"
+    },
+    "location": {
+        "Rojo": [
+            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonchan o un Hitmonlee tras derrotarle (solo uno)",
+            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
+        ],
+        "Azul": [
+            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonchan o un Hitmonlee tras derrotarle (solo uno)",
+            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
+        ],
+        "Amarillo": [
+            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonchan o un Hitmonlee tras derrotarle (solo uno)",
+            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
+        ],
+        "Oro": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Plata": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Cristal": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja o Pokémon XD"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja o Pokémon XD"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja o Pokémon XD"
+        ],
+        "Rojo Fuego": [
+            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonchan o un Hitmonlee tras derrotarle (solo uno)"
+        ],
+        "Verde Hoja": [
+            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonchan o un Hitmonlee tras derrotarle (solo uno)"
+        ],
+        "Diamante": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Calle Victoria (primer piso), solo con uso de colonia y/o alta racha de capturas",
+            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonchan o un Hitmonlee tras derrotarle (solo uno)"
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Calle Victoria (primer piso), solo con uso de colonia y/o alta racha de capturas",
+            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonchan o un Hitmonlee tras derrotarle (solo uno)"
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Área Silvestre: Cuenca Polvorienta.",
+            "Incursiones Dinamax: Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew.",
+            "Aventura Dinamax ",
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew.",
+            "Aventura Dinamax ",
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque > defensa)"
+        ],
+        "Leyendas: Arceus": [
+            "Hitmonlee no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Si tiene prisa, sus patas se extenderán. Corre suavemente con zancadas extra-largas.",
+        "Amarillo": "Cuando da patadas al enemigo, la planta de sus pies se vuelve tan dura como el diamante.",
+        "Oro": "Este Pokémon tiene un sentido del equilibrio increíble. Puede dar patadas desde cualquier sitio.",
+        "Plata": "Si empieza a dar patadas, sus patas se alargarán aún más para golpear al enemigo en su huida.",
+        "Cristal": "Se le conoce como el Maestro de las Patadas. Utiliza la elasticidad que tiene para dar sus famosas patadas.",
+        "Rubí": "Hitmonlee tiene la facilidad de encoger y estirar las patas. Con extremidades tan flexibles, propina unas patadas demoledoras. Tras la lucha, se masajea las piernas y relaja los músculos para descansar.",
+        "Zafiro": "Hitmonlee tiene la facilidad de encoger y estirar las patas. Con extremidades tan flexibles, propina unas patadas demoledoras. Tras la lucha, se masajea las piernas y relaja los músculos para descansar.",
+        "Esmeralda": "Da unas patadas demoledoras encogiendo y estirando las patas. Tras la lucha, se las masajea para relajar los músculos y descansar.",
+        "Rojo Fuego": "Encoge y estira las patas a su antojo. Cuando las estira, es capaz de propinar una buena patada al enemigo.",
+        "Verde Hoja": "Cuando tiene prisa, extiende las patas. Corre suavemente dando enormes zancadas.",
+        "Diamante": "Sus piernas se extienden hasta doblar su longitud para sorprender a enemigos desprevenidos.",
+        "Perla": "Sus piernas se extienden hasta doblar su longitud para sorprender a enemigos desprevenidos.",
+        "Platino": "Sus piernas se extienden hasta doblar su longitud para sorprender a enemigos desprevenidos.",
+        "Oro HeartGold": "Este Pokémon tiene un sentido del equilibrio increíble. Puede dar patadas desde cualquier sitio.",
+        "Plata SoulSilver": "Si empieza a dar patadas, sus patas se alargarán aún más para golpear al enemigo en su huida.",
+        "Negro": "Sus piernas se extienden hasta doblar su longitud para sorprender a enemigos desprevenidos.",
+        "Blanco": "Sus piernas se extienden hasta doblar su longitud para sorprender a enemigos desprevenidos.",
+        "Negro 2": "Sus piernas se extienden hasta doblar su longitud para sorprender a enemigos desprevenidos.",
+        "Blanco 2": "Sus piernas se extienden hasta doblar su longitud para sorprender a enemigos desprevenidos.",
+        "Pokémon X": "Encoge y estira las patas a su antojo. Cuando las estira, es capaz de propinar una buena patada al enemigo.",
+        "Pokémon Y": "Si empieza a dar patadas, sus patas se alargarán aún más para golpear al enemigo en su huida.",
+        "Rubí Omega": "Hitmonlee tiene la facilidad de encoger y estirar las patas. Con extremidades tan flexibles, propina unas patadas demoledoras. Tras la lucha, se masajea las piernas y relaja los músculos para descansar.",
+        "Zafiro Alfa": "Hitmonlee tiene la facilidad de encoger y estirar las patas. Con extremidades tan flexibles, propina unas patadas demoledoras. Tras la lucha, se masajea las piernas y relaja los músculos para descansar.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Let's Go Pikachu!Let's Go Eevee!": "La planta de los pies se le vuelve tan dura como el diamante al dar patadas a su oponente, hasta el punto de aniquilarlo.",
+        "Espada": "Este Pokémon tiene un sentido del equilibrio increíble. Puede dar patadas desde cualquier posición.",
+        "Escudo": "Encoge y estira las piernas a su antojo. De hecho, hasta puede propinar una patada a un rival que se encuentre lejos.",
+        "Diamante Brillante": "Puede extender sus piernas hasta doblar su longitud, por lo que su alcance sorprende a los que se enfrentan a él por primera vez.",
+        "Perla Reluciente": "Puede extender sus piernas hasta doblar su longitud, por lo que su alcance sorprende a los que se enfrentan a él por primera vez.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Patea repetidamente a su enemigo con piernas que extiende y contrae libremente. Hay quien lo llama “el maestro que patea”.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Hitmonlee tiene la facilidad de encoger y estirar las patas. Con extremidades tan flexibles, propina unas patadas demoledoras. Tras la lucha, se masajea las piernas y relaja los músculos para descansar."
+    },
+    "evolution": [
+        [
+            "Tyrogue",
+            "Nivel 20Ataque > Defensa",
+            "Hitmonlee"
+        ],
+        [
+            "",
+            "Nivel 20Ataque < Defensa",
+            "Hitmonchan"
+        ],
+        [
+            "",
+            "Nivel 20Ataque = Defensa",
+            "Hitmontop"
+        ]
+    ]
+}

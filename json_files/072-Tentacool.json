@@ -1,0 +1,206 @@
+{
+    "dex number": "072",
+    "pokemon name": "Tentacool",
+    "types": [
+        "agua",
+        "veneno"
+    ],
+    "abilities": [
+        "Cuerpo puro",
+        "Lodo líquido"
+    ],
+    "hidden abilities": [
+        "Cura lluvia"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "40",
+        "def": "35",
+        "atk esp": "50",
+        "def esp": "100",
+        "speed": "70"
+    },
+    "location": {
+        "Rojo": [
+            "Pescando: Rutas 12, 13, 17, 18, 20, 21, Pueblo Paleta, Ciudad Verde.",
+            "Surf: Rutas 19, 20 y 21."
+        ],
+        "Azul": [
+            "Pescando: Rutas 12, 13, 17, 18, 20, 21, Pueblo Paleta, Ciudad Verde.",
+            "Surf: Rutas 19, 20 y 21."
+        ],
+        "Amarillo": [
+            "Pescando: 11, 13, 17, 18, 19, 20, 21, Pueblo Paleta, Ciudad Verde, Ciudad Carmín, Islas Espuma, Isla Canela, S.S. Anne.",
+            "Surf: Rutas 19, 20, 21, Islas Espuma."
+        ],
+        "Oro": [
+            "Pescando: Rutas 12, 13, 20, 21, 26, 27, 32, 41.",
+            "Surf: Rutas 12, 13, 19, 20, 21, 26, 27, 32, 34, 40, 41, Pueblo Primavera, Cueva Unión, Ciudad Olivo, Ciudad Orquídea, Islas Remolino, Ciudad Cerezo, Pueblo Paleta, Ciudad Carmín, Isla Canela."
+        ],
+        "Plata": [
+            "Pescando: Rutas 12, 13, 20, 21, 26, 27, 32, 41.",
+            "Surf: Rutas 12, 13, 19, 20, 21, 26, 27, 32, 34, 40, 41, Pueblo Primavera, Cueva Unión, Ciudad Olivo, Ciudad Orquídea, Islas Remolino, Ciudad Cerezo, Pueblo Paleta, Ciudad Carmín, Isla Canela."
+        ],
+        "Cristal": [
+            "Pescando: Rutas 12, 13, 20, 21, 26, 27, 32, 41.",
+            "Surf: Rutas 12, 13, 20, 21, 26, 27, 32, 34, 40, 41, Pueblo Primavera, Cueva Unión, Ciudad Olivo, Ciudad Orquídea, Islas Remolino, Ciudad Cerezo, Pueblo Paleta, Ciudad Carmín, Isla Canela."
+        ],
+        "Rubí": [
+            "Pescando: Rutas 103, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Arrecípolis, Pueblo Oromar, Caverna Abisal, Ciudad Colosalia",
+            "Surf: Rutas 103, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Arrecípolis, Pueblo Oromar, Caverna Abisal, Ciudad Colosalia"
+        ],
+        "Zafiro": [
+            "Pescando: Rutas 103, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Arrecípolis, Pueblo Oromar, Caverna Abisal, Ciudad Colosalia",
+            "Surf: Rutas 103, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Arrecípolis, Pueblo Oromar, Caverna Abisal, Ciudad Colosalia"
+        ],
+        "Esmeralda": [
+            "Pescando: Rutas 103, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Arrecípolis, Pueblo Oromar, Caverna Abisal, Ciudad Colosalia",
+            "Surf: Rutas 103, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Arrecípolis, Pueblo Oromar, Caverna Abisal, Ciudad Colosalia"
+        ],
+        "Rojo Fuego": [
+            "Surf: Pueblo Paleta, 4, 10, 11, 12, 13, 19, 20, 21, 24, Ciudad Celeste, Ciudad Carmín; Isla Canela, Isla Prima, Playa Tesoro, Puente Unión, Camino Candente, Cueva Glaciada, Vía Acuática, Vía Verde, isla Aislada, Isla Inta, Prado Isla Inta, Aquarinto, Lugar de Recreo, Pilar Recuerdo, Torre Desafío, Ruinas Sete."
+        ],
+        "Verde Hoja": [
+            "Surf: Pueblo Paleta, 4, 10, 11, 12, 13, 19, 20, 21, 24, Ciudad Celeste, Ciudad Carmín; Isla Canela, Isla Prima, Playa Tesoro, Puente Unión, Camino Candente, Cueva Glaciada, Vía Acuática, Vía Verde, isla Aislada, Isla Inta, Prado Isla Inta, Aquarinto, Lugar de Recreo, Pilar Recuerdo, Torre Desafío, Ruinas Sete."
+        ],
+        "Diamante": [
+            "Pescando: Rutas 205 (sur), 218, 220, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Pradera, Valle Eólico.",
+            "Surf: 213, 218, 219, 222, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Pradera, Valle Eólico.",
+            "Parque Compi: Zona marina"
+        ],
+        "Perla": [
+            "Pescando: Rutas 205 (sur), 218, 220, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Pradera, Valle Eólico.",
+            "Surf: 213, 218, 219, 222, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Pradera, Valle Eólico.",
+            "Parque Compi: Zona marina"
+        ],
+        "Platino": [
+            "Surf: Rutas 205 (sur), 213, 218, 219, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Pradera, Valle Eólico.",
+            "Parque Compi: Zona marina"
+        ],
+        "Oro HeartGold": [
+            "Pescando, (todas las cañas): Rutas 12, 13 y 32. (Caña vieja y caña buena): Rutas 20, 21, 26, 27, 41, 47, Ciudad Carmín, Pueblo Paleta, Isla Canela y Pueblo Primavera.",
+            "Surf: Rutas 12, 13, 19, 20, 21, 26, 27, 32, 34, 40, 41, 47, Pueblo Primavera, Cueva Unión, Ciudad Olivo, Ciudad Orquídea, Islas Remolino, Ciudad Cerezo, Pueblo Paleta, Ciudad Carmín e Isla Canela.",
+            "Especial: En el Centro Pokémon de Ciudad Orquídea un hombre te regala Tentacool si no tienes ningún Pokémon aparte de tu compañero para que el jugador no se quede atascado.",
+            "Pokéwalker: Mar Azul",
+            "Parque Compi: Zona marina"
+        ],
+        "Plata SoulSilver": [
+            "Pescando, (todas las cañas): Rutas 12, 13 y 32. (Caña vieja y caña buena): Rutas 20, 21, 26, 27, 41, 47, Ciudad Carmín, Pueblo Paleta, Isla Canela y Pueblo Primavera.",
+            "Surf: Rutas 12, 13, 19, 20, 21, 26, 27, 32, 34, 40, 41, 47, Pueblo Primavera, Cueva Unión, Ciudad Olivo, Ciudad Orquídea, Islas Remolino, Ciudad Cerezo, Pueblo Paleta, Ciudad Carmín e Isla Canela.",
+            "Especial: En el Centro Pokémon de Ciudad Orquídea un hombre te regala Tentacool si no tienes ningún Pokémon aparte de tu compañero para que el jugador no se quede atascado.",
+            "Pokéwalker: Mar Azul",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Dream World: Mar Brillante, con la habilidad Cura lluvia.",
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Dream World: Mar Brillante, con la habilidad Cura lluvia.",
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Dream World: Mar Brillante, con la habilidad Cura lluvia.",
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Dream World: Mar Brillante, con la habilidad Cura lluvia.",
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Surf: Rutas 8 y 12, Pueblo Petroglifo, Bahía Azul y Ciudad Relieve."
+        ],
+        "Pokémon Y": [
+            "Surf: Rutas 8 y 12, Pueblo Petroglifo, Bahía Azul y Ciudad Relieve."
+        ],
+        "Rubí Omega": [
+            "Pescando: Rutas 103, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Arrecípolis, Pueblo Oromar, Caverna Abisal, Ciudad Colosalia",
+            "Surf: Rutas 103, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Pueblo Oromar, Caverna Abisal, Ciudad Colosalia"
+        ],
+        "Zafiro Alfa": [
+            "Pescando: Rutas 103, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Arrecípolis, Pueblo Oromar, Caverna Abisal, Ciudad Colosalia",
+            "Surf: Rutas 103, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Pueblo Oromar, Caverna Abisal, Ciudad Colosalia"
+        ],
+        "Sol": [
+            "Surf: Rutas 7, 8, 14, 15, Colina Saltagua, Playa de Hanohano, Ciudad Hauoli, Bahía Kalae, Mar de Melemele y Playa Menor."
+        ],
+        "Luna": [
+            "Surf: Rutas 7, 8, 14, 15, Colina Saltagua, Playa de Hanohano, Ciudad Hauoli, Bahía Kalae, Mar de Melemele y Playa Menor."
+        ],
+        "Ultrasol": [
+            "Surf: Rutas 7, 8, Colina Saltagua, Playa de Hanohano, Ciudad Hauoli, Bahía Kalae y Mar de Melemele."
+        ],
+        "Ultraluna": [
+            "Surf: Rutas 7, 8, Colina Saltagua, Playa de Hanohano, Ciudad Hauoli, Bahía Kalae y Mar de Melemele."
+        ],
+        "Let's Go Pikachu!": [
+            "Surcaaguas: Rutas 4, 10, 12, 13, 18, 19, 20, 21, 24, e Islas Espuma."
+        ],
+        "Let's Go Eevee!": [
+            "Surcaaguas: Rutas 4, 10, 12, 13, 18, 19, 20, 21, 24, e Islas Espuma."
+        ],
+        "Espada": [
+            "Salvaje: Cueva Tenacidad, Mar Andana "
+        ],
+        "Escudo": [
+            "Salvaje: Cueva Tenacidad, Mar Andana "
+        ],
+        "Diamante Brillante": [
+            "Surf: Rutas 205 (sur), 213, 218, 219, 220, 221, 222, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Pradera, Valle Eólico.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Surf: Rutas 205 (sur), 213, 218, 219, 220, 221, 222, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Pradera, Valle Eólico.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Costa Cobalto: Guarida del Gran Pez, Vergel Marino y Costa Ínsola."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Va a la deriva a poca profundidad. Si es pescado por accidente, el castigo será su punzante ácido.",
+        "Amarillo": "A veces puede ser encontrado seco y medio enterrado en una playa. Al lanzarlo otra vez al mar revivirá.",
+        "Oro": "Cuando baja la marea, podrían aparecer restos deshidratados de Tentacool junto a la orilla.",
+        "Plata": "Nada sin rumbo por las olas. Es difícil de ver en el agua. A veces no se le ve hasta que pica.",
+        "Cristal": "Mientras está flotando en el agua, usa sus tóxicos tentáculos para envenenar a quien le roce.",
+        "Rubí": "Tentacool está compuesto en su mayor parte por agua. Si lo sacas del mar, se secará y quedará acartonado. Si este Pokémon se deshidrata, hay que ponerlo inmediatamente de vuelta en el mar.",
+        "Zafiro": "Tentacool absorbe luz solar, la refracta a través del agua que tiene en su interior y la convierte en un rayo de energía. Este Pokémon tiene unos ojos que parecen de cristal, por los que dispara rayos.",
+        "Esmeralda": "Se compone casi enteramente de agua. Atrapa a su enemigo con sus dos largos tentáculos y le clava los venenosos aguijones que tiene en los extremos.",
+        "Rojo Fuego": "Tiene unos ojos transparentes como el cristal, que disparan misteriosos rayos.",
+        "Verde Hoja": "Va a la deriva a poca profundidad. Si es pescado por accidente, el castigo será su punzante ácido.",
+        "Diamante": "Su cuerpo se compone casi en exclusiva de agua. Lanza extraños rayos con sus ojos cristalinos.",
+        "Perla": "Se deja llevar por las corrientes marinas. numerosos pescadores sufren sus latigazos venenosos.",
+        "Platino": "Como su cuerpo se compone casi en exclusiva de agua, se reseca si sale de ella.",
+        "Oro HeartGold": "Cuando baja la marea, podrían aparecer restos deshidratados de Tentacool junto a la orilla",
+        "Plata SoulSilver": "Nada sin rumbo por las olas. Es difícil de ver en el agua. A veces no se le ve hasta que pica.",
+        "Negro": "Como su cuerpo se compone casi en exclusiva de agua, se reseca si sale de ella.",
+        "Blanco": "Como su cuerpo se compone casi en exclusiva de agua, se reseca si sale de ella.",
+        "Negro 2": "Como su cuerpo se compone casi en exclusiva de agua, se reseca si sale de ella.",
+        "Blanco 2": "Como su cuerpo se compone casi en exclusiva de agua, se reseca si sale de ella.",
+        "Pokémon X": "Su cuerpo se compone casi en exclusiva de agua. Lanza extraños rayos con sus ojos cristalinos.",
+        "Pokémon Y": "Va a la deriva a poca profundidad. Si es pescado por accidente, el castigo será su punzante ácido.",
+        "Rubí Omega": "Tentacool está compuesto en su mayor parte por agua. Si se le saca del mar, se secará y se quedará acartonado. Si este Pokémon se deshidrata, hay que echarlo inmediatamente de vuelta al mar.",
+        "Zafiro Alfa": "Tentacool absorbe luz solar, la refracta a través del agua que tiene en su interior y la convierte en un rayo de energía. Este Pokémon tiene un órgano que parece de cristal sobre los ojos por el cual dispara los rayos.",
+        "Sol": "A veces es posible encontrarlos deshidratados en la playa, pero, si se los pone en remojo, volverán a henchirse de vida.",
+        "Luna": "Suele rondar las aguas poco profundas de la orilla. Sus tentáculos son muy venenosos y, en caso de picadura, hay que correr al hospital.",
+        "Ultrasol": "Ronda las costas en busca de presas. Si pierde alguno de sus tentáculos venenosos, le volverá a crecer al cabo del tiempo.",
+        "Ultraluna": "Su cuerpo está compuesto de agua en un 99%. El 1% restante es el órgano que segrega sus toxinas.",
+        "Let's Go Pikachu!Let's Go Eevee!": "A veces pueden encontrarse deshidratados en las playas, pero reviven al sumergirlos de nuevo en el agua.",
+        "Espada": "Sus facultades natatorias son más bien escasas, por lo que se limita a flotar a la deriva en aguas poco profundas en busca de alimento.",
+        "Escudo": "Su cuerpo está compuesto casi por completo de agua, por lo que resulta muy difícil distinguirlo cuando está sumergido en el mar.",
+        "Diamante Brillante": "Su cuerpo se compone casi en exclusiva de agua. Lanza extraños rayos con sus ojos cristalinos.",
+        "Perla Reluciente": "Se deja arrastrar por las corrientes marinas. Numerosos pescadores sufren la punzada de sus aguijones venenosos.",
+        "Leyendas: Arceus": "Sus órganos rojos y cristalinos, que parecen ojos, emiten rayos de luz. Suele flotar por mares poco profundos, pero, cuando la marea baja, puede varar en la orilla y terminar secándose.",
+        "Stadium": "Dispara rayos de luz con sus ojos claros. Flota en aguas poco profundas y puede picar a incautos pescadores.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Tentacool está compuesto en su mayor parte por agua. Si se le saca del mar, se secará y se quedará acartonado. Si este Pokémon se deshidrata, hay que echarlo inmediatamente de vuelta al mar.",
+        "RubíZafiro": "Tentacool está compuesto en su mayor parte por agua. Si lo sacas del mar, se secará y quedará acartonado. Si este Pokémon se deshidrata, hay que ponerlo inmediatamente de vuelta en el mar."
+    },
+    "evolution": [
+        [
+            "Tentacool",
+            "Nivel 30",
+            "Tentacruel"
+        ]
+    ]
+}

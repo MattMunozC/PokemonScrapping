@@ -1,0 +1,192 @@
+{
+    "dex number": "008",
+    "pokemon name": "Wartortle",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Cura lluvia"
+    ],
+    "stats": {
+        "hp": "59",
+        "atk": "63",
+        "def": "80",
+        "atk esp": "65",
+        "def esp": "80",
+        "speed": "58"
+    },
+    "location": {
+        "Rojo": [
+            "Evolucionar a Squirtle (nivel 16)"
+        ],
+        "Azul": [
+            "Evolucionar a Squirtle (nivel 16)"
+        ],
+        "Amarillo": [
+            "Evolucionar a Squirtle (nivel 16)"
+        ],
+        "Oro": [
+            "Intercambiar: de Pokémon Rojo, Pokémon Azul o Pokémon Amarillo"
+        ],
+        "Plata": [
+            "Intercambiar: de Pokémon Rojo, Pokémon Azul o Pokémon Amarillo"
+        ],
+        "Cristal": [
+            "Intercambiar: de Pokémon Rojo, Pokémon Azul o Pokémon Amarillo"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Evolucionar a Squirtle (nivel 16)"
+        ],
+        "Verde Hoja": [
+            "Evolucionar a Squirtle (nivel 16)"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Squirtle (nivel 16)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Squirtle (nivel 16)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir desde Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir desde Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo agua",
+            "Evolucionar: a Squirtle (nivel 16)"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo agua",
+            "Evolucionar: a Squirtle (nivel 16)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol y Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol y Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar a Squirtle (nivel 16)"
+        ],
+        "Ultraluna": [
+            "Evolucionar a Squirtle (nivel 16)"
+        ],
+        "Let's Go Pikachu!": [
+            "Evolucionar: a Squirtle (nivel 16)",
+            "Especial: GO Park Transferir desde Pokémon GO"
+        ],
+        "Let's Go Eevee!": [
+            "Evolucionar: a Squirtle (nivel 16)",
+            "Especial: GO Park Transferir desde Pokémon GO"
+        ],
+        "Espada": [
+            "Aventura Dinamax ",
+            "Especial: Transferir desde Pokémon HOME.",
+            "Evolucionar: a Squirtle (nivel 16)"
+        ],
+        "Escudo": [
+            "Aventura Dinamax ",
+            "Especial: Transferir desde Pokémon HOME.",
+            "Evolucionar: a Squirtle (nivel 16)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar a Squirtle (nivel 16)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar a Squirtle (nivel 16)"
+        ],
+        "Leyendas: Arceus": [
+            "Wartortle no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Se oculta en el agua para cazar a sus presas. Al nadar rápidamente, mueve sus orejas para nivelarse.",
+        "Amarillo": "Si es golpeado, esconderá su cabeza. Aun así, su cola puede seguir golpeando.",
+        "Oro": "Es reconocido como símbolo de longevidad. Los Wartortle ancianos tienen algas sobre el caparazón.",
+        "Plata": "Utiliza sus peludas orejas y patas para mantener el equilibrio al nadar.",
+        "Cristal": "Tiene una cola larga y peluda que simboliza la longevidad y le hace popular entre los mayores.",
+        "Rubí": "Tiene una cola larga y cubierta de un pelo abundante y grueso que se torna más oscuro a medida que crece. Los arañazos que tiene en el caparazón dan fe de lo buen guerrero que es.",
+        "Zafiro": "Tiene una cola larga y cubierta de un pelo abundante y grueso que se torna más oscuro a medida que crece. Los arañazos que tiene en el caparazón dan fe de lo buen guerrero que es.",
+        "Esmeralda": "Tiene una cola larga y cubierta de un pelo abundante y grueso que se torna oscuro con la edad. Los arañazos del caparazón muestran lo buen guerrero que es.",
+        "Rojo Fuego": "Es el Pokémon que se suele tener como mascota. La cola tan larga y peluda que posee simboliza lo longevo que es.",
+        "Verde Hoja": "Se oculta en el agua para cazar a sus presas. Al nadar rápidamente mueve las orejas para nivelarse.",
+        "Diamante": "Se dice que vive 10.000 años. Su peluda cola es un símbolo de longevidad.",
+        "Perla": "Se dice que vive 10.000 años. Su peluda cola es un símbolo de longevidad.",
+        "Platino": "Se dice que vive 10.000 años. Su peluda cola es un símbolo de longevidad.",
+        "Oro HeartGold": "Es reconocido como símbolo de longevidad. Los Wartortle ancianos tienen algas sobre el caparazón.",
+        "Plata SoulSilver": "Utiliza sus peludas orejas y patas para mantener el equilibrio al nadar.",
+        "Negro": "Se dice que vive 10.000 años. Su peluda cola es un símbolo de longevidad.",
+        "Blanco": "Se dice que vive 10.000 años. Su peluda cola es un símbolo de longevidad.",
+        "Negro 2": "Se dice que vive 10.000 años. Su peluda cola es un símbolo de longevidad.",
+        "Blanco 2": "Se dice que vive 10.000 años. Su peluda cola es un símbolo de longevidad.",
+        "Pokémon X": "Si es golpeado, esconderá su cabeza. Aun así, su cola puede seguir golpeando.",
+        "Pokémon Y": "Se dice que vive 10 000 años. Su peluda cola es un símbolo de longevidad.",
+        "Rubí Omega": "Tiene una cola larga y cubierta de un pelo abundante y grueso que se torna más oscuro a medida que crece. Los arañazos que tiene en el caparazón dan fe de lo buen guerrero que es.",
+        "Zafiro Alfa": "Tiene una cola larga y cubierta de un pelo abundante y grueso que se torna más oscuro a medida que crece. Los arañazos que tiene en el caparazón dan fe de lo buen guerrero que es.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Si alguien le golpea la cabeza, se protege escondiéndose en su caparazón, aunque parte de la cola queda al descubierto.",
+        "Espada": "Se lo considera un símbolo de longevidad. Los ejemplares más ancianos tienen musgo sobre el caparazón.",
+        "Escudo": "Utiliza hábilmente sus peludas orejas y la cola para mantener el equilibrio al nadar.",
+        "Diamante Brillante": "Se dice que vive diez mil años. Su peluda cola es popular como símbolo de longevidad.",
+        "Perla Reluciente": "Se dice que vive diez mil años. Su peluda cola es popular como símbolo de longevidad.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "La cola está cubierta por un abundante pelaje. Almacena aire en él antes de sumergirse largo rato en el agua.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Tiene una cola larga y cubierta de un pelo abundante y grueso que se torna más oscuro a medida que crece. Los arañazos que tiene en el caparazón dan fe de lo buen guerrero que es.",
+        "Ranger": "Wartortle escupe bolsas de agua. Es pequeño pero fuerte.",
+        "Sombras de Almia": "Lanza por la boca chorros de agua para atacar."
+    },
+    "evolution": [
+        [
+            "Squirtle",
+            "Nivel 16",
+            "Wartortle",
+            "Nivel 36",
+            "Blastoise"
+        ]
+    ]
+}

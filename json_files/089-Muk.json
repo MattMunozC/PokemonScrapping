@@ -1,0 +1,205 @@
+{
+    "dex number": "089",
+    "pokemon name": "Muk",
+    "types": [
+        "veneno"
+    ],
+    "abilities": [
+        "Hedor",
+        "Viscosidad"
+    ],
+    "hidden abilities": [
+        "Toque tóxico"
+    ],
+    "stats": {
+        "hp": "105",
+        "atk": "105",
+        "def": "75",
+        "atk esp": "65",
+        "def esp": "100",
+        "speed": "50"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Mansión Pokémon",
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Azul": [
+            "Salvaje: Mansión Pokémon",
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Amarillo": [
+            "Salvaje: Mansión Pokémon y Central de Energía",
+            "Intercambiar: por un Kangaskhan en el laboratorio de Isla Canela",
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Oro": [
+            "Salvaje: Rutas 16, 17, 18",
+            "Surf: Ciudad Azulona",
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Plata": [
+            "Salvaje: Rutas 16, 17, 18",
+            "Surf: Ciudad Azulona",
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Cristal": [
+            "Salvaje: Rutas 16, 17, 18",
+            "Surf: Ciudad Azulona",
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Rubí": [
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Mansión Pokémon",
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Diamante": [
+            "Evolucionar: a Grimer (nivel 38)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Evolucionar: a Grimer (nivel 38)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Evolucionar: a Grimer (nivel 38)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Rutas 16, 17, 18 y Zona Safari (albufera)",
+            "Surf: Ciudad Azulona y Zona Safari (albufera)",
+            "Evolucionar: a Grimer (nivel 38)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Rutas 16, 17, 18 y Zona Safari (albufera)",
+            "Surf: Ciudad Azulona y Zona Safari (albufera)",
+            "Evolucionar: a Grimer (nivel 38)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 9",
+            "Claro Oculto: Ruta 9",
+            "Pescando: Cloacas Porcelana",
+            "Surf: Cloacas Porcelana",
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 9",
+            "Claro Oculto: Ruta 9",
+            "Pescando: Cloacas Porcelana",
+            "Surf: Cloacas Porcelana",
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo veneno"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo veneno"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Mansión Pokémon y Central de Energía",
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Let's Go Eevee!": [
+            "Intercambio de Pokémon: Pokémon: Let's Go, Pikachu!"
+        ],
+        "Espada": [
+            "Muk no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Muk no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Grimer (nivel 38)"
+        ],
+        "Leyendas: Arceus": [
+            "Muk no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Está cubierto por un repugnante lodo. Es tan tóxico que hasta sus huellas son venenosas.",
+        "Amarillo": "Huele tan mal que puede provocar desmayos. Ha degenerado tanto, que ya ni él mismo se huele.",
+        "Oro": "Les encanta reunirse en zonas apestosas donde se acumula el lodo, haciendo su olor más insoportable.",
+        "Plata": "Su cuerpo está hecho de un veneno muy potente. Si se toca, causa fiebre y obliga a guardar cama.",
+        "Cristal": "A medida que se mueve, va goteando un veneno letal que deja estéril el terreno Durante tres años.",
+        "Rubí": "Muk emana por todo el cuerpo un fluido maloliente que obliga a taparse la nariz. Con sólo una gota de la sustancia que exuda este Pokémon, se podría contaminar un estanque.",
+        "Zafiro": "A este Pokémon le encanta comer cosas repulsivas. En ciudades sucias en las que la gente tira la basura por la calle, los Muk tienen sin duda su punto de encuentro.",
+        "Esmeralda": "Prefiere los hábitats cálidos y húmedos. En verano, las sustancias tóxicas que contiene se intensifican y hacen que apeste como la basura podrida.",
+        "Rojo Fuego": "Normalmente pasa desapercibido porque se mezcla con lo que haya en el suelo. Al contacto resulta tóxico.",
+        "Verde Hoja": "Está cubierto por un repugnante lodo. Es tan tóxico que hasta sus huellas son venenosas.",
+        "Diamante": "Su cuerpo segrega un fluido tóxico que elimina la vida vegetal cuando la toca.",
+        "Perla": "Su cuerpo segrega un fluido tóxico que elimina la vida vegetal cuando la toca.",
+        "Platino": "Su cuerpo segrega un fluido tóxico que elimina la vida vegetal cuando la toca.",
+        "Oro HeartGold": "Les encanta reunirse en zonas apestosas donde se acumula el lodo, haciendo su olor más insoportable.",
+        "Plata SoulSilver": "Su cuerpo está hecho de un veneno muy potente. Si se toca, causa fiebre y obliga a guardar cama.",
+        "Negro": "Su cuerpo segrega un fluido tóxico que elimina la vida vegetal cuando la toca.",
+        "Blanco": "Su cuerpo segrega un fluido tóxico que elimina la vida vegetal cuando la toca.",
+        "Negro 2": "Es pestilente y los componentes tóxicos de su cuerpo harían que, a su paso, cualquier planta se marchitara.",
+        "Blanco 2": "Es pestilente y los componentes tóxicos de su cuerpo harían que, a su paso, cualquier planta se marchitara.",
+        "Pokémon X": "Les encanta reunirse en zonas apestosas donde se acumula el lodo, haciendo su olor más insoportable.",
+        "Pokémon Y": "Su cuerpo segrega un fluido tóxico que elimina la vida vegetal cuando la toca.",
+        "Rubí Omega": "Muk emana por todo el cuerpo un fluido maloliente que obliga a taparse la nariz. Con sólo una gota de la sustancia que exuda este Pokémon, se podría contaminar un estanque.",
+        "Zafiro Alfa": "A este Pokémon le encanta comer cosas repulsivas. En ciudades sucias en las que la gente tira la basura por la calle, los Muk tienen sin duda su punto de encuentro.",
+        "Sol": "Desprende un hedor insoportable que invita a taparse la nariz. A algunos fanáticos de este Pokémon, este hecho les parece encantador.",
+        "Luna": "Con la reciente preocupación por el medio ambiente, este Pokémon escasea cada vez más. Podría considerarse en peligro de extinción.",
+        "Ultrasol": "Su número ha disminuido por falta de sustento, por lo que se han creado estanques de lodo artificiales para salvarlo de la extinción.",
+        "Ultraluna": "Al ser un portador de toda clase de gérmenes, ha sido perseguido a lo largo de la historia hasta verse abocado casi a la extinción.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Huele tan mal que puede provocar desmayos. Su nariz se ha atrofiado de tal manera que ha perdido por completo el sentido del olfato.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Su cuerpo segrega un fluido tóxico que elimina la vida vegetal cuando la toca.",
+        "Perla Reluciente": "Su cuerpo segrega un fluido tóxico que elimina la vida vegetal cuando la toca.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Se vuelve casi invisible en la suciedad. Tocar su cuerpo cubierto de fango provoca horribles envenenamientos.",
+        "Stadium 2": "Pokémon Oro insertado: Su cuerpo está hecho de un veneno muy potente. Si se toca, causa fiebre y obliga a guardar cama.\nPokémon Plata insertado: Les encanta reunirse en zonas apestosas donde se acumula el lodo, haciendo su olor más insoportable.\n",
+        "Pokémon GO": "Les encanta reunirse en zonas apestosas donde se acumula el lodo, haciendo su olor más insoportable.",
+        "Ranger": "Muk va directo al Disco Capturador y lanza grandes bolas de lodo.",
+        "RubíZafiro": "A este Pokémon le encanta comer cosas repulsivas. En ciudades sucias en las que la gente tira la basura por la calle, los Muk tienen sin duda su punto de encuentro."
+    },
+    "evolution": [
+        [
+            "Grimer",
+            "Nivel 38",
+            "Muk"
+        ]
+    ]
+}

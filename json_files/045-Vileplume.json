@@ -1,0 +1,196 @@
+{
+    "dex number": "045",
+    "pokemon name": "Vileplume",
+    "types": [
+        "planta",
+        "veneno"
+    ],
+    "abilities": [
+        "Clorofila"
+    ],
+    "hidden abilities": [
+        "Efecto espora"
+    ],
+    "stats": {
+        "hp": "75",
+        "atk": "80",
+        "def": "85",
+        "atk esp": "110",
+        "def esp": "90",
+        "speed": "50"
+    },
+    "location": {
+        "Rojo": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Azul": [
+            "Intercambiar: de Pokémon Rojo, Pokémon Amarillo o Pokémon Oro, Plata y Cristal"
+        ],
+        "Amarillo": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Oro": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Plata": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Cristal": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Rubí": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Evolucionar: a Gloom (usando una piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Evolucionar: a Gloom (usando una piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Evolucionar: a Gloom (usando una piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Gloom (usando una piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Gloom (usando una piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Let's Go Pikachu!": [
+            "Evolucionar: a Gloom (usando una piedra hoja)",
+            "Salvaje: 21"
+        ],
+        "Let's Go Eevee!": [
+            "Inrecambiar: de Pokémon: Let's Go, Pikachu!",
+            "Especial: Transferir desde Pokémon GO"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón. Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2 y Arboleda Claroscuro, nido al sur.",
+            "Aventura Dinamax ",
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón. Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2 y Arboleda Claroscuro, nido al sur.",
+            "Aventura Dinamax ",
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Gloom (usando una piedra hoja)"
+        ],
+        "Leyendas: Arceus": [
+            "Vileplume no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "A mayor pétalo, más tóxico es su polen. Su cabeza es pesada y le cuesta mantenerla.",
+        "Amarillo": "Aletea sus pétalos de flores para propagar su venenoso polen. El sonido que emite es agudo.",
+        "Oro": "Tiene los pétalos más grandes del mundo. Éstos expulsan densas nubes de polen tóxico al caminar.",
+        "Plata": "El capullo florece de golpe. Entonces, empieza a soltar polen alergénico y venenoso.",
+        "Cristal": "Al sacudir los enormes pétalos que tiene, libera nubes de polen tóxico de color amarillo.",
+        "Rubí": "El polen que contienen las esporas tóxicas de Vileplume causan unos ataques de alergia muy agudos. Por eso, no es aconsejable acercarse a ninguna flor que resulte atractiva, por muy bonita que sea.",
+        "Zafiro": "Vileplume tiene los mayores pétalos del mundo. Los usa para atraer a sus presas y llenarlas de esporas tóxicas. Una vez ha inmovilizado a las víctimas, las atrapa y las devora.",
+        "Esmeralda": "En las estaciones en las que produce más polen, Vileplume tiñe de amarillo el aire al caminar. El polen es altamente tóxico y provoca parálisis.",
+        "Rojo Fuego": "Tiene unos pétalos inmensos. Libera con la mejor sonrisa un polen que provoca agudos ataques de alergia.",
+        "Verde Hoja": "Cuanto mayores son sus pétalos, más tóxico es su polen. Le pesa la cabeza y le cuesta mantenerla erguida.",
+        "Diamante": "Sus pétalos son los más grandes del mundo. Cuando anda desprende un terrible polen alergénico.",
+        "Perla": "Sus pétalos son los más grandes del mundo. Cuando anda desprende un terrible polen alergénico.",
+        "Platino": "Sus pétalos son los más grandes del mundo. Cuando anda desprende un terrible polen alergénico.",
+        "Oro HeartGold": "Sus pétalos son los más grandes del mundo. Cuando anda desprende un terrible polen alergénico.",
+        "Plata SoulSilver": "El capullo florece de golpe. Entonces, empieza a soltar polen alergénico y venenoso.",
+        "Negro": "Sus pétalos son los más grandes del mundo. Cuando anda desprende un terrible polen alergénico.",
+        "Blanco": "Sus pétalos son los más grandes del mundo. Cuando anda desprende un terrible polen alergénico.",
+        "Negro 2": "Sus pétalos son los más grandes del mundo. Cuando anda desprende un terrible polen alergénico.",
+        "Blanco 2": "Sus pétalos son los más grandes del mundo. Cuando anda desprende un terrible polen alergénico.",
+        "Pokémon X": "Cuanto mayores son sus pétalos, más tóxico es su polen. Le pesa la cabeza y le cuesta mantenerla erguida.",
+        "Pokémon Y": "Tiene los pétalos más grandes del mundo. Éstos expulsan densas nubes de polen tóxico al caminar.",
+        "Rubí Omega": "El polen que contienen las esporas tóxicas de Vileplume causa unos ataques de alergia muy agudos. Por eso, no es aconsejable acercarse a ninguna flor selvática, por muy bonita que sea.",
+        "Zafiro Alfa": "Vileplume tiene los mayores pétalos del mundo. Los usa para atraer a sus presas y llenarlas de esporas tóxicas. Una vez ha inmovilizado a las víctimas, las atrapa y las devora.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Sacude sus enormes pétalos para propagar polen venenoso, lo cual provoca un verdadero estruendo.",
+        "Espada": "Tiene los pétalos más grandes del mundo. Al caminar, de ellos se desprenden densas nubes de polen tóxico.",
+        "Escudo": "Cuanto mayores son sus pétalos, más tóxico es su polen. Le pesa la cabeza y le cuesta mantenerla erguida.",
+        "Diamante Brillante": "Sus pétalos son los más grandes del mundo. Cuando anda, desprende un polen tóxico que provoca alergias.",
+        "Perla Reluciente": "Sus pétalos son los más grandes del mundo. Cuando anda, desprende un polen tóxico que provoca alergias.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Desprende polen alérgico desde sus amplios pétalos. Cuanto más largos sean, más polen desprenderán.",
+        "Stadium 2": "Pokémon Oro insertado: El capullo florece de golpe. Entonces, empieza a soltar polen alergénico y venenoso\nPokémon Plata insertado: Tiene los pétalos más grandes del mundo. Éstos expulsan densas nubes de polen tóxico al caminar\n",
+        "Pokémon GO": "El polen que contienen las esporas tóxicas de Vileplume causa unos ataques de alergia muy agudos. Por eso, no es aconsejable acercarse a ninguna flor selvática, por muy bonita que sea.",
+        "Ranger": "Vileplume lanza esporas desde la flor del centro de su cabeza.",
+        "RubíZafiro": "Vileplume tiene los mayores pétalos del mundo. Los usa para atraer a sus presas y llenarlas de esporas tóxicas. Una vez ha inmovilizado a las víctimas, las atrapa y las devora."
+    },
+    "evolution": [
+        [
+            "Oddish",
+            "Nivel 21",
+            "Gloom",
+            "Piedra hoja ",
+            "Vileplume"
+        ],
+        [
+            "",
+            "",
+            "",
+            "Piedra solar ",
+            "Bellossom"
+        ]
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "dex number": "104",
+    "pokemon name": "Cubone",
+    "types": [
+        "tierra"
+    ],
+    "abilities": [
+        "Cabeza roca",
+        "Pararrayos"
+    ],
+    "hidden abilities": [
+        "Armadura batalla"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "50",
+        "def": "95",
+        "atk esp": "40",
+        "def esp": "50",
+        "speed": "35"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Torre Pokémon (se necesita el Scope Silph)"
+        ],
+        "Azul": [
+            "Salvaje: Torre Pokémon (se necesita el Scope Silph)"
+        ],
+        "Amarillo": [
+            "Salvaje: Torre Pokémon (se necesita el Scope Silph) y Zona Safari"
+        ],
+        "Oro": [
+            "Salvaje: Túnel Roca"
+        ],
+        "Plata": [
+            "Salvaje: Túnel Roca"
+        ],
+        "Cristal": [
+            "Salvaje: Túnel Roca (mañana y día)",
+            "Especial: Canjear en el Casino de Ciudad Trigal por 800 fichas"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Torre Pokémon (se necesita el Scope Silph) y Cañón Sétano"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Torre Pokémon (se necesita el Scope Silph) y Cañón Sétano"
+        ],
+        "Diamante": [
+            "Manada: Ruta 203",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Manada: Ruta 203",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Manada: Ruta 203",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Túnel Roca y Zona Safari",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Túnel Roca y Zona Safari",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Criar: de Marowak",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco": [
+            "Criar: de Marowak",
+            "Dream World: Cueva Helada"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco",
+            "Dream World: Cueva Helada"
+        ],
+        "Pokémon X": [
+            "Salvaje: Cueva Brillante",
+            "Especial: Safari Amistad, en algunos safaris de tipo tierra"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva Brillante",
+            "Especial: Safari Amistad, en algunos safaris de tipo tierra"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Salvaje: Área Volcánica del Wela"
+        ],
+        "Luna": [
+            "Salvaje: Área Volcánica del Wela"
+        ],
+        "Ultrasol": [
+            "Salvaje: Área Volcánica del Wela"
+        ],
+        "Ultraluna": [
+            "Salvaje: Área Volcánica del Wela"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Torre Pokémon y Túnel Roca"
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Torre Pokémon y Túnel Roca"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Concentración y Gruta Calentamiento ",
+            "Incursiones Dinamax: Nidos en Mar Andana , Cuenca Arenosa , Playa Desafío  y Cueva Tenacidad "
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Concentración y Gruta Calentamiento ",
+            "Incursiones Dinamax: Nidos en Mar Andana , Cuenca Arenosa , Playa Desafío  y Cueva Tenacidad "
+        ],
+        "Diamante Brillante": [
+            "Manada: Ruta 203.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Manada: Ruta 203.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Cubone no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Como no se quita nunca su casco-calavera, nadie le ha visto la cara a este Pokémon.",
+        "Amarillo": "Siempre lleva el cráneo de su difunta madre. Su grito hace eco y parece una triste melodía.",
+        "Oro": "Si está triste o solitario, agita la calavera y emite un sonido lúgubre y lastimero.",
+        "Plata": "Siempre lleva la calavera de su difunta madre, así que nadie sabe cómo es su cara oculta.",
+        "Cristal": "Nada más nacer perdió a su madre. Lleva puesto su cráneo para no desvelar a nadie su identidad.",
+        "Rubí": "A Cubone le ahoga la pena porque no volverá a ver jamás a su madre. La luna le recuerda a veces a ella y se pone a chillar. Los churretes que tiene en el cráneo que lleva puesto, son debidos a las lágrimas que derrama.",
+        "Zafiro": "A Cubone le ahoga la pena porque no volverá a ver jamás a su madre. La luna le recuerda a veces a ella y se pone a chillar. Los churretes que tiene en el cráneo que lleva puesto, son debidos a las lágrimas que derrama.",
+        "Esmeralda": "Le apena no volver a ver a su madre. La luna llena le recuerda a ella y se pone a chillar. Los churretes que tiene en el cráneo que lleva puesto son debidos a sus lágrimas.",
+        "Rojo Fuego": "Lleva puesto el cráneo de su madre. Cuando se siente solo se pone a gritar muy fuerte.",
+        "Verde Hoja": "Como no se quita nunca el cráneo que lleva puesto, nadie le ha visto la cara a este Pokémon.",
+        "Diamante": "Llora cuando se acuerda de su madre fallecida. Cuando lo hace, sus llantos resuenan en su cráneo.",
+        "Perla": "Llora cuando se acuerda de su madre fallecida. Cuando lo hace, sus llantos resuenan en su cráneo.",
+        "Platino": "Llora cuando se acuerda de su madre fallecida. Cuando lo hace, sus llantos resuenan en su cráneo.",
+        "Oro HeartGold": "Si está triste o solitario, agita la calavera y emite un sonido lúgubre y lastimero.",
+        "Plata SoulSilver": "Siempre lleva la calavera de su difunta madre, así que nadie sabe cómo es su cara oculta.",
+        "Negro": "Llora cuando se acuerda de su madre fallecida. Cuando lo hace, sus llantos resuenan en su cráneo.",
+        "Blanco": "Llora cuando se acuerda de su madre fallecida. Cuando lo hace, sus llantos resuenan en su cráneo.",
+        "Negro 2": "Llora cuando se acuerda de su madre fallecida. Cuando lo hace, sus llantos resuenan en su calavera.",
+        "Blanco 2": "Llora cuando se acuerda de su madre fallecida. Cuando lo hace, sus llantos resuenan en su calavera.",
+        "Pokémon X": "Lleva puesto el cráneo de su madre. Cuando se siente solo se pone a gritar muy fuerte.",
+        "Pokémon Y": "Siempre lleva la calavera de su difunta madre, así que nadie sabe cómo es su cara oculta.",
+        "Rubí Omega": "A Cubone le ahoga la pena porque no volverá a ver jamás a su madre. La luna le recuerda a veces a ella, y se pone a llorar. Los churretes que tiene en el cráneo que lleva puesto son debidos a las lágrimas que derrama.",
+        "Zafiro Alfa": "A Cubone le ahoga la pena porque no volverá a ver jamás a su madre. La luna le recuerda a veces a ella, y se pone a llorar. Los churretes que tiene en el cráneo que lleva puesto son debidos a las lágrimas que derrama.",
+        "Sol": "Llora desconsoladamente por la pérdida de su madre. Los Mandibuzz que escuchan su llanto se lanzan en picado al ataque.",
+        "Luna": "El cráneo que lleva en la cabeza pertenece a su madre. Se dice que evoluciona una vez que ha conseguido superar su pérdida.",
+        "Ultrasol": "Al caer la noche, rompe a llorar pensando en su difunta madre, lo que delata su presencia ante los Mandibuzz, sus enemigos naturales.",
+        "Ultraluna": "Al cubrir su rostro con el cráneo de su madre, su expresión queda velada. La única emoción que lo delata es su llanto constante.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Siempre lleva puesto el cráneo de su difunta madre. Su llanto resuena dentro como una triste melodía.",
+        "Espada": "Cuando llora al acordarse de su madre fallecida, su llanto resuena en el cráneo que lleva en la cabeza.",
+        "Escudo": "Lleva puesto el cráneo de su difunta madre. A veces llora en sueños, pero cada lágrima vertida le hace más fuerte.",
+        "Diamante Brillante": "El llanto que emite cuando se acuerda de su madre fallecida resuena en el cráneo que lleva en la cabeza.",
+        "Perla Reluciente": "El llanto que emite cuando se acuerda de su madre fallecida resuena en el cráneo que lleva en la cabeza.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Siempre lleva la calavera de su madre muerta en su cabeza y nunca muestra el rostro. Grita terroríficamente a la luz de la luna.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "A Cubone le ahoga la pena porque no volverá a ver jamás a su madre. La luna le recuerda a veces a ella, y se pone a llorar. Los churretes que tiene en el cráneo que lleva puesto son debidos a las lágrimas que derrama."
+    },
+    "evolution": [
+        [
+            "Cubone",
+            "Nivel 28(fuera de Alola)",
+            "Marowak"
+        ],
+        [
+            "",
+            "Nivel 28 (noche) (en Alola)",
+            "Marowak de Alola"
+        ]
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "dex number": "139",
+    "pokemon name": "Omastar",
+    "types": [
+        "roca",
+        "agua"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Caparazón"
+    ],
+    "hidden abilities": [
+        "Armadura frágil"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "60",
+        "def": "125",
+        "atk esp": "115",
+        "def esp": "70",
+        "speed": "55"
+    },
+    "location": {
+        "Rojo": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Azul": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Amarillo": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Oro": [
+            "Intercambiar: de Pokémon Rojo y Azul o Pokémon Amarillo"
+        ],
+        "Plata": [
+            "Intercambiar: de Pokémon Rojo y Azul o Pokémon Amarillo"
+        ],
+        "Cristal": [
+            "Intercambiar: de Pokémon Rojo y Azul o Pokémon Amarillo"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Diamante": [
+            "Evolucionar: a Omanyte (nivel 40).",
+            "Parque Compi: Zona marina"
+        ],
+        "Perla": [
+            "Evolucionar: a Omanyte (nivel 40).",
+            "Parque Compi: Zona marina"
+        ],
+        "Platino": [
+            "Evolucionar: a Omanyte (nivel 40).",
+            "Parque Compi: Zona marina"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Omanyte (nivel 40).",
+            "Parque Compi: Zona marina"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Omanyte (nivel 40).",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Evolucionar: a Omanyte (nivel 40).",
+            "Dream World: Con la habilidad armadura frágil."
+        ],
+        "Blanco": [
+            "Evolucionar: a Omanyte (nivel 40).",
+            "Dream World: Con la habilidad armadura frágil."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Omanyte (nivel 40).",
+            "Dream World: Con la habilidad armadura frágil."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Omanyte (nivel 40).",
+            "Dream World: Con la habilidad armadura frágil."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Let's Go Pikachu!": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Let's Go Eevee!": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Espada": [
+            "Salvaje: Grutas Sonamar ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Suela del Gigante , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Omanyte (nivel 40)."
+        ],
+        "Leyendas: Arceus": [
+            "Omastar no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Un prehistórico Pokémon que murió cuando su pesada concha le impidió atrapar a sus presas.",
+        "Amarillo": "Picos afilados rodean su boca. Su concha es demasiado grande como para que se mueva libremente.",
+        "Oro": "Al parecer puede romper la concha de un Shellder y absorber el interior.",
+        "Plata": "Cuando agarra a su presa, nunca la deja escapar. Se la come despedazándola con sus colmillos.",
+        "Cristal": "El tamaño de la concha le impedía llegar a ciertos alimentos. Quizá fue el motivo de su extinción.",
+        "Rubí": "Omastar usa los tentáculos para atrapar a su presa. Se cree que el motivo de su extinción fue el tamaño y el peso que llegó a alcanzar la concha que lleva a cuestas, lo que le entorpeció y ralentizó los movimientos.",
+        "Zafiro": "Omastar usa los tentáculos para atrapar a su presa. Se cree que el motivo de su extinción fue el tamaño y el peso que llegó a alcanzar la concha que lleva a cuestas, lo que le entorpeció y ralentizó los movimientos.",
+        "Esmeralda": "Usa los tentáculos para cazar. Se cree que se ha extinguido debido al tamaño y al peso que alcanza su concha, que entorpece sus movimientos.",
+        "Rojo Fuego": "Tiene los tentáculos tan desarrollados que le sirven de mano y pies. Con ellos atrapa a sus presas y les da un bocado.",
+        "Verde Hoja": "Un prehistórico Pokémon que se extinguió porque su pesada concha le impedía atrapar sus presas.",
+        "Diamante": "Se cree que este Pokémon se extinguió porque su concha espiral creció demasiado.",
+        "Perla": "Se cree que este Pokémon se extinguió porque su concha espiral creció demasiado.",
+        "Platino": "Se cree que este Pokémon se extinguió porque su concha espiral creció demasiado.",
+        "Oro HeartGold": "Al parecer, rompió la concha de SHELLDER con sus afilados colmillos y absorbió el interior.",
+        "Plata SoulSilver": "Cuando agarra a su presa, nunca la deja escapar. Se la come despedazándola con sus colmillos.",
+        "Negro": "Se cree que este Pokémon se extinguió porque su concha espiral creció demasiado.",
+        "Blanco": "Se cree que este Pokémon se extinguió porque su concha espiral creció demasiado.",
+        "Negro 2": "Se cree que este Pokémon se extinguió porque su concha espiral creció demasiado.",
+        "Blanco 2": "Se cree que este Pokémon se extinguió porque su concha espiral creció demasiado.",
+        "Pokémon X": "Tiene los tentáculos tan desarrollados que le sirven de manos y pies. Con ellos atrapa a su presa y le da un bocado.",
+        "Pokémon Y": "Cuando agarra a su presa, nunca la deja escapar. Se la come despedazándola con sus colmillos.",
+        "Rubí Omega": "Omastar usa los tentáculos para atrapar a su presa. Se cree que el motivo de su extinción fue el tamaño y el peso que llegó a alcanzar la concha que lleva a cuestas, lo que le entorpeció y ralentizó los movimientos.",
+        "Zafiro Alfa": "Omastar usa los tentáculos para atrapar a su presa. Se cree que el motivo de su extinción fue el tamaño y el peso que llegó a alcanzar la concha que lleva a cuestas, lo que le entorpeció y ralentizó los movimientos.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Un posible antepasado remoto de Octillery cuya extinción se cree debida a que su concha se hizo demasiado pesada.",
+        "Ultraluna": "Atrapa a sus presas con los tentáculos y, una vez inmovilizadas, las desgarra con sus afilados colmillos.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Poseía unos colmillos afilados, pero el excesivo tamaño de su concha le impedía moverse con libertad, lo que acabó provocando su extinción.",
+        "Espada": "Se cree que se extinguió porque el excesivo tamaño y peso de su concha le impedían moverse con rapidez para capturar presas.",
+        "Escudo": "Posee unos colmillos afilados con los que puede partir piedras, pero solo ataca a presas que se hallan al alcance de sus tentáculos.",
+        "Diamante Brillante": "Se cree que este Pokémon se extinguió porque su concha en forma de espiral creció demasiado.",
+        "Perla Reluciente": "Se cree que este Pokémon se extinguió porque su concha en forma de espiral creció demasiado.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Ataca atrapando a sus enemigos con sus tentáculos y mordiendo con afilados dientes. Su largo caparazón lo vuelve muy lento.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Omastar usa los tentáculos para atrapar a su presa. Se cree que el motivo de su extinción fue el tamaño y el peso que llegó a alcanzar la concha que lleva a cuestas, lo que le entorpeció y ralentizó los movimientos."
+    },
+    "evolution": [
+        [
+            "Omanyte",
+            "Nivel 40",
+            "Omastar"
+        ]
+    ]
+}

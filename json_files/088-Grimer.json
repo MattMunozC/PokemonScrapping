@@ -1,0 +1,201 @@
+{
+    "dex number": "088",
+    "pokemon name": "Grimer",
+    "types": [
+        "veneno"
+    ],
+    "abilities": [
+        "Hedor",
+        "Viscosidad"
+    ],
+    "hidden abilities": [
+        "Toque tóxico"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "80",
+        "def": "50",
+        "atk esp": "40",
+        "def esp": "50",
+        "speed": "25"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Mansión Pokémon"
+        ],
+        "Azul": [
+            "Salvaje: Mansión Pokémon"
+        ],
+        "Amarillo": [
+            "Salvaje: Mansión Pokémon y Central de Energía"
+        ],
+        "Oro": [
+            "Salvaje: Rutas 16, 17, 18",
+            "Surf: Ciudad Azulona"
+        ],
+        "Plata": [
+            "Salvaje: Rutas 16, 17, 18",
+            "Surf: Ciudad Azulona"
+        ],
+        "Cristal": [
+            "Salvaje: Rutas 16, 17, 18",
+            "Surf: Ciudad Azulona"
+        ],
+        "Rubí": [
+            "Salvaje: Senda Ígnea"
+        ],
+        "Zafiro": [
+            "Salvaje: Senda Ígnea"
+        ],
+        "Esmeralda": [
+            "Salvaje: Senda Ígnea"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Mansión Pokémon",
+            "Pescando: Ciudad Azulona (supercaña)"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Mansión Pokémon",
+            "Pescando: Ciudad Azulona (supercaña)"
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 212 (Pokéradar)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Salvaje: Ruta 212 (Pokéradar)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Salvaje: Ruta 212 (Pokéradar)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Rutas 16, 17, 18 y Zona Safari (albufera)",
+            "Surf: Ciudad Azulona y Zona Safari (albufera)",
+            "Pokéwalker: Arrabal",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Rutas 16, 17, 18 y Zona Safari (albufera)",
+            "Surf: Ciudad Azulona y Zona Safari (albufera)",
+            "Pokéwalker: Arrabal",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Negro 2": [
+            "Salvaje: Cloacas Porcelana",
+            "Surf: Cloacas Porcelana (primavera y verano)",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco 2": [
+            "Salvaje: Cloacas Porcelana",
+            "Surf: Cloacas Porcelana (primavera y verano)",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Pokémon X": [
+            "Criando: de Muk"
+        ],
+        "Pokémon Y": [
+            "Criando: de Muk"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Senda Ígnea"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Senda Ígnea"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Cabo de las Afueras: Planta de reciclaje."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Mansión Pokémon y Central de Energía."
+        ],
+        "Let's Go Eevee!": [
+            "Intercambiar: de Pokémon: Let's Go, Pikachu!",
+            "Especial: Transferir desde Pokémon GO."
+        ],
+        "Espada": [
+            "Grimer no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Grimer no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "PokéRadar: Ruta 212 (Sur)",
+            "Grutas del Subsuelo: Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Perla Reluciente": [
+            "PokéRadar: Ruta 212 (Sur)",
+            "Grutas del Subsuelo: Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Leyendas: Arceus": [
+            "Grimer no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Aparece en zonas asquerosas. Crece absorbiendo los residuos tóxicos expulsados por las fábricas.",
+        "Amarillo": "Está hecho de fango endurecido. Huele a pútrido. ¡Por donde pasa, no crece la hierba!",
+        "Oro": "Mientras se mueve, pierde partes de su cuerpo, de donde saldrá un nuevo Grimer. Esto aumenta su hedor.",
+        "Plata": "Grimer deja tantos gérmenes por donde pasa, que allí no vuelve a crecer ninguna planta.",
+        "Cristal": "Cuando se une a otro compañero de su especie, se generan nuevos tipos de sustancia venenosa.",
+        "Rubí": "El elástico cuerpo de lodo de Grimer le permite colarse por cualquier orificio, sea del tamaño que sea. Este Pokémon entra en los bajantes de las cloacas para beberse el agua sucia.",
+        "Zafiro": "Grimer emergió del lodo que se formó en una zona contaminada en el fondo del mar. A este Pokémon le encanta todo lo que sea suciedad. Emana continuamente y por todo el cuerpo un horrible fluido contaminado de bacterias.",
+        "Esmeralda": "Nacido del lodo contaminado del mar, el alimento preferido de Grimer es la basura. Se alimenta de lo que encuentra en las aguas residuales de las fábricas.",
+        "Rojo Fuego": "Nace de lodo alterado al filtrarse en el agua los rayos X reflejados por la Luna. Se alimenta de sustancias desagradables.",
+        "Verde Hoja": "Aparece en zonas asquerosas. Crece absorbiendo los residuos tóxicos expulsados por las fábricas.",
+        "Diamante": "Emergió del lodo que se formó en agua contaminada expuesta a los rayos X lunares. Vive en la basura.",
+        "Perla": "Emergió del lodo que se formó en agua contaminada expuesta a los rayos X lunares. Vive en la basura.",
+        "Platino": "Emergió del lodo que se formó en agua contaminada expuesta a los rayos X lunares. Vive en la basura.",
+        "Oro HeartGold": "Mientras se mueve, pierde partes de su cuerpo, de donde saldrá un nuevo Grimer. Esto aumenta su hedor.",
+        "Plata SoulSilver": "Grimer deja tantos gérmenes por donde pasa, que allí no vuelve a crecer ninguna planta.",
+        "Negro": "Emergió del lodo que se formó en agua contaminada expuesta a los rayos X lunares. Vive en la basura.",
+        "Blanco": "Emergió del lodo que se formó en agua contaminada expuesta a los rayos X lunares. Vive en la basura.",
+        "Negro 2": "Formados a partir de lodo, los Grimer se juntan en lugares sucios para aumentar el número de gérmenes de su cuerpo.",
+        "Blanco 2": "Formados a partir de lodo, los Grimer se juntan en lugares sucios para aumentar el número de gérmenes de su cuerpo.",
+        "Pokémon X": "Nace de lodo alterado al filtrarse en el agua los rayos X reflejados por la Luna. Se alimenta de sustancias desagradables.",
+        "Pokémon Y": "Aparece en zonas asquerosas. Crece absorbiendo los residuos tóxicos expulsados por las fábricas.",
+        "Rubí Omega": "El elástico cuerpo de lodo de Grimer le permite colarse por cualquier orificio, sea del tamaño que sea. Este Pokémon entra en los bajantes de las cloacas para beberse el agua sucia.",
+        "Zafiro Alfa": "Grimer emergió del lodo que se formó en una zona contaminada en el fondo del mar. A este Pokémon le encanta todo lo que sea suciedad. Emana continuamente por todo el cuerpo un horrible fluido contaminado por bacterias.",
+        "Sol": "Su principal fuente de alimento son los residuos industriales. Últimamente la población de Grimer ha menguado bastante.",
+        "Luna": "Nace del lodo expuesto a los rayos X reflejados por la luna. Si el número de bacterias de su cuerpo disminuye, su vida corre peligro.",
+        "Ultrasol": "Surgió del limo oceánico. En hábitats impolutos, los gérmenes de su cuerpo no pueden medrar y termina falleciendo.",
+        "Ultraluna": "Debido a la reducción en los vertidos de aguas residuales, su fuente de alimento ha menguado y ahora se encuentra en peligro de extinción.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Está hecho de lodo endurecido. Pocos se atreven a tocarlo debido a su pestilencia y composición nociva. Allá por donde pasa no crece la hierba.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Emergió cuando los rayos X lunares bañaron el lodo de un riachuelo. Vive entre la mugre.",
+        "Perla Reluciente": "Emergió cuando los rayos X lunares bañaron el lodo de un riachuelo. Vive entre la mugre.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Lodo que se transformó al exponerse a rayos X venidos de la luna. Ama el lodo, los residuos industriales y los desperdicios.",
+        "Stadium 2": "Pokémon Oro insertado: Grimer deja tantos gérmenes por donde pasa, que allí no vuelve a crecer ninguna planta.\nPokémon Plata insertado: Mientras se mueve, pierde partes de su cuerpo, de donde saldrá un nuevo Grimer. Esto aumenta su hedor.\n",
+        "Pokémon GO": "El elástico cuerpo de lodo de Grimer le permite colarse por cualquier orificio, sea del tamaño que sea. Este Pokémon entra en los bajantes de las cloacas para beberse el agua sucia.",
+        "Ranger": "Grimer lanza bolas de lodo. Ten en cuidado también con el rastro de lodo que deja.",
+        "RubíZafiro": "Grimer emergió del lodo que se formó en una zona contaminada en el fondo del mar. A este Pokémon le encanta todo lo que sea suciedad. Emana continuamente y por todo el cuerpo un horrible fluido contaminado de bacterias."
+    },
+    "evolution": [
+        [
+            "Grimer",
+            "Nivel 38",
+            "Muk"
+        ]
+    ]
+}

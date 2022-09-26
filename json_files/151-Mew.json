@@ -1,0 +1,197 @@
+{
+    "dex number": "151",
+    "pokemon name": "Mew",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Sincronía"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "100",
+        "atk": "100",
+        "def": "100",
+        "atk esp": "100",
+        "def esp": "100",
+        "speed": "100"
+    },
+    "location": {
+        "Rojo": [
+            "Evento: Repartido por evento (ver más abajo). Glitch: Realizando el Glitch de Mew"
+        ],
+        "Azul": [
+            "Evento: Repartido por evento (ver más abajo). Glitch: Realizando el Glitch de Mew"
+        ],
+        "Amarillo": [
+            "Evento: Repartido por evento (ver más abajo). Glitch: Realizando el Glitch de Mew"
+        ],
+        "Oro": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon Rojo, Azul o Amarillo."
+        ],
+        "Plata": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon Rojo, Azul o Amarillo."
+        ],
+        "Cristal": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon Rojo, Azul o Amarillo."
+        ],
+        "Rubí": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon Esmeralda."
+        ],
+        "Zafiro": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon Esmeralda."
+        ],
+        "Esmeralda": [
+            "Salvaje: Isla Suprema. Se necesita el mapa viejo para poder llegar a esa isla (solo uno).",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Rojo Fuego": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Especial: Transferir de My Pokémon Ranch cuando el rancho alcance el nivel 25 (para ello, hay que transferir 999 Pokémon).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Especial: Transferir de My Pokémon Ranch cuando el rancho alcance el nivel 25 (para ello, hay que transferir 999 Pokémon).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Especial: Transferir desde My Pokémon Ranch Platinum (solo en Japón) cuando el rancho alcance el nivel 25 (para ello, hay que transferir 999 Pokémon).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2."
+        ],
+        "Pokémon Y": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2."
+        ],
+        "Rubí Omega": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2."
+        ],
+        "Zafiro Alfa": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2."
+        ],
+        "Sol": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Let's Go Pikachu!": [
+            "Especial: Transferir de la Poké Ball Plus al videojuego.",
+            "Especial: Transferir desde Pokémon HOME."
+        ],
+        "Let's Go Eevee!": [
+            "Especial: Transferir de la Poké Ball Plus al videojuego.",
+            "Especial: Transferir desde Pokémon HOME."
+        ],
+        "Espada": [
+            "Especial: Transferir de la Poké Ball Plus al videojuego.",
+            "Especial: Transferir desde Pokémon HOME."
+        ],
+        "Escudo": [
+            "Especial: Transferir de la Poké Ball Plus al videojuego.",
+            "Especial: Transferir desde Pokémon HOME."
+        ],
+        "Diamante Brillante": [
+            "Regalo: En Pueblo Aromaflor si se tienen datos de guardado de Pokémon: Let's Go Pikachu o Pokémon: Let's Go Eevee"
+        ],
+        "Perla Reluciente": [
+            "Regalo: En Pueblo Aromaflor si se tienen datos de guardado de Pokémon: Let's Go Pikachu o Pokémon: Let's Go Eevee"
+        ],
+        "Leyendas: Arceus": [
+            "Mew no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Es tan raro que muchos expertos opinan que es solo una ilusión. Solo unos pocos lo han visto.",
+        "Amarillo": "Cuando es mirado a través de un microscopio, puede observarse el delicado pelo de este Pokémon.",
+        "Oro": "Dicen que solo se aparece a los puros de corazón, y a quienes desean verlo con todas sus fuerzas.",
+        "Plata": "Dicen que su ADN contiene el código genético de todos los Pokémon, por lo que conoce cualquier técnica.",
+        "Cristal": "Como es capaz de aprender todos los movimientos, se piensa que es el ancestro de todos los Pokémon.",
+        "Rubí": "Dicen que Mew posee el mapa genético de todos los Pokémon. Puede hacerse invisible cuando quiere, así que pasa desapercibido cada vez que se le acerca alguien.",
+        "Zafiro": "Dicen que Mew posee el mapa genético de todos los Pokémon. Puede hacerse invisible cuando quiere, así que pasa desapercibido cada vez que se le acerca alguien.",
+        "Esmeralda": "Dicen que posee el mapa genético de todos los Pokémon. Puede hacerse invisible a voluntad, así que logra pasar inadvertido aunque haya gente cerca.",
+        "Rojo Fuego": "Procede de Sudamérica y se pensaba que se había extinguido. Es muy inteligente y capaz de aprender cualquier movimiento.",
+        "Verde Hoja": "Es tan raro que muchos expertos opinan que es solo una ilusión. Solo unos pocos lo han visto.",
+        "Diamante": "Varios científicos lo consideran el antecesor de los Pokémon porque usa todo tipo de movimientos.",
+        "Perla": "Varios científicos lo consideran el antecesor de los Pokémon porque usa todo tipo de movimientos.",
+        "Platino": "Varios científicos lo consideran el antecesor de los Pokémon porque usa todo tipo de movimientos.",
+        "Oro HeartGold": "Dicen que solo se aparece a los puros de corazón, y a quienes desean verlo con todas sus fuerzas.",
+        "Plata SoulSilver": "Dicen que su ADN contiene el código genético de todos los Pokémon, por lo que conoce cualquier técnica.",
+        "Negro": "Varios científicos lo consideran el antecesor de los Pokémon porque usa todo tipo de movimientos.",
+        "Blanco": "Varios científicos lo consideran el antecesor de los Pokémon porque usa todo tipo de movimientos.",
+        "Negro 2": "Varios científicos lo consideran el antecesor de los Pokémon porque usa todo tipo de movimientos.",
+        "Blanco 2": "Varios científicos lo consideran el antecesor de los Pokémon porque usa todo tipo de movimientos.",
+        "Pokémon X": "Varios científicos lo consideran el antecesor de los Pokémon porque usa todo tipo de movimientos.",
+        "Pokémon Y": "Dicen que su ADN contiene el código genético de todos los Pokémon, por lo que conoce cualquier técnica.",
+        "Rubí Omega": "Dicen que Mew posee el mapa genético de todos los Pokémon. Puede hacerse invisible cuando quiere, así que pasa desapercibido cada vez que se le acerca alguien.",
+        "Zafiro Alfa": "Dicen que Mew posee el mapa genético de todos los Pokémon. Puede hacerse invisible cuando quiere, así que pasa desapercibido cada vez que se le acerca alguien.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Si se observa a través de un microscopio, puede distinguirse cuán corto, fino y delicado es el pelaje de este Pokémon.",
+        "Espada": "Considerado el ancestro de todos los Pokémon, posee una inteligencia extraordinaria y es capaz de usar cualquier técnica.",
+        "Escudo": "Los repetidos avistamientos registrados de este Pokémon singular ponen en entredicho la creencia popular de su extinción.",
+        "Diamante Brillante": "Debido a su capacidad para utilizar todo tipo de movimientos, muchos científicos lo consideran el ancestro de todos los Pokémon.",
+        "Perla Reluciente": "Debido a su capacidad para utilizar todo tipo de movimientos, muchos científicos lo consideran el ancestro de todos los Pokémon.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Místico Pokémon de América del Sur que se consideraba extinguido. Un creciente número de personas lo ha visto recientemente.",
+        "Stadium 2": "Pokémon Oro insertado: Dicen que solo se aparece a los puros de corazón, y a quienes desean verlo con todas sus fuerzas.\nPokémon Plata insertado: Dicen que su ADN contiene el código genético de todos los Pokémon, por lo que conoce cualquier técnica.\n",
+        "Pokémon GO": "Dicen que Mew posee el mapa genético de todos los Pokémon. Puede hacerse invisible cuando quiere, así que pasa desapercibido cada vez que se le acerca alguien.",
+        "Ranger": "Mew es un Pokémon extraño considerado un espejismo. Puede volverse invisible.",
+        "New Pokémon Snap": "Este Pokémon dotado de una grandísima inteligencia vive oculto en las ruinas. Se dice que solo se aparece ante la gente pura de corazón."
+    },
+    "evolution": [
+        [
+            "Mew"
+        ]
+    ]
+}

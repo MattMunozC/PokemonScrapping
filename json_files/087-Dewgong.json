@@ -1,0 +1,204 @@
+{
+    "dex number": "087",
+    "pokemon name": "Dewgong",
+    "types": [
+        "agua",
+        "hielo"
+    ],
+    "abilities": [
+        "Sebo",
+        "Hidratación"
+    ],
+    "hidden abilities": [
+        "Gélido"
+    ],
+    "stats": {
+        "hp": "90",
+        "atk": "70",
+        "def": "80",
+        "atk esp": "70",
+        "def esp": "95",
+        "speed": "70"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Islas Espuma (sótanos 1 y 3).",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Azul": [
+            "Salvaje: Islas Espuma (sótanos 1 y 3).",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Amarillo": [
+            "Salvaje: Islas Espuma (sótanos 3 y 4).",
+            "Intercambiar: por un Growlithe en el laboratorio de Isla Canela.",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Oro": [
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Plata": [
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Cristal": [
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Islas Espuma, Cueva Glaciada.",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Verde Hoja": [
+            "Salvaje: Islas Espuma, Cueva Glaciada.",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Diamante": [
+            "Surf: Rutas 226 y 230.",
+            "Evolucionar: a Seel (nivel 34).",
+            "Parque Compi: Zona marina"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Diamante, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona marina"
+        ],
+        "Platino": [
+            "Surf: Calle Victoria.",
+            "Parque Compi: Zona marina"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Islas Espuma.",
+            "Evolucionar: a Seel (nivel 34).",
+            "Parque Compi: Zona marina"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Islas Espuma.",
+            "Evolucionar: a Seel (nivel 34).",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Surf: Boquete Gigante.",
+            "Dream World: Con la habilidad Gélido.",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Blanco": [
+            "Surf: Boquete Gigante.",
+            "Dream World: Con la habilidad Gélido.",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Negro 2": [
+            "Surf: Boquete Gigante y Gruta Marina.",
+            "Dream World: Con la habilidad Gélido.",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Blanco 2": [
+            "Surf: Boquete Gigante y Gruta Marina.",
+            "Dream World: Con la habilidad Gélido.",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Pokémon X": [
+            "Salvaje: Safari Amistad de Tipo hielo.",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Safari Amistad de Tipo hielo.",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Cardumen, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Cardumen, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Islas Espuma.",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Islas Espuma.",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Espada": [
+            "Dewgong no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Dewgong no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Surf: Ruta 226 y Ruta 230.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar.",
+            "Evolucionar: a Seel (nivel 34)."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Dewgong no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Guarda energía térmica en su cuerpo. Nada a 8 nudos sin parar hasta en aguas muy frías.",
+        "Amarillo": "Su cuerpo es como una bola de nieve. Inmune al frío intenso, nada rápidamente en aguas heladas.",
+        "Oro": "Su aerodinámico cuerpo avanza fácilmente por el agua. Cuanto más fría, más diversión.",
+        "Plata": "Adora los mares helados con témpanos. Usa su larga cola para cambiar de rumbo al nadar.",
+        "Cristal": "Duerme en aguas poco profundas durante el día y por la noche, cuando hace frío, busca comida.",
+        "Rubí": "A Dewgong le encanta dormitar sobre la frialdad del hielo. En una ocasión, algún marinero lo confundió con una sirena al verlo dormido sobre un glaciar.",
+        "Zafiro": "A Dewgong le encanta dormitar sobre la frialdad del hielo. En una ocasión, algún marinero lo confundió con una sirena al verlo dormido sobre un glaciar.",
+        "Esmeralda": "Le encanta dormitar sobre la frialdad del hielo. Una vez, un marinero que lo vio dormido sobre un glaciar lo confundió con una sirena.",
+        "Rojo Fuego": "Está recubierto de un luminoso pelaje blanco. Este Pokémon aumenta su actividad cuando bajan las temperaturas.",
+        "Verde Hoja": "Guarda energía térmica en su cuerpo. Nada a 15 km por hora sin parar hasta en aguas muy frías.",
+        "Diamante": "Está cubierto de un luminoso pelaje blanco que lo camufla en la nieve.",
+        "Perla": "Está cubierto de un luminoso pelaje blanco que lo camufla en la nieve.",
+        "Platino": "Está cubierto de un luminoso pelaje blanco que lo camufla en la nieve.",
+        "Oro HeartGold": "Su aerodinámico cuerpo avanza fácilmente por el agua. Cuanto más fría, más diversión.",
+        "Plata SoulSilver": "Adora los mares helados con témpanos. Usa su larga cola para cambiar de rumbo al nadar.",
+        "Negro": "Está cubierto de un luminoso pelaje blanco que lo camufla en la nieve.",
+        "Blanco": "Está cubierto de un luminoso pelaje blanco que lo camufla en la nieve.",
+        "Negro 2": "Contrarresta la resistencia del agua con su cuerpo hidrodinámico y nada por mares gélidos a 8 nudos de velocidad.",
+        "Blanco 2": "Contrarresta la resistencia del agua con su cuerpo hidrodinámico y nada por mares gélidos a 8 nudos de velocidad.",
+        "Pokémon X": "Su cuerpo está cubierto con un pelaje blanco puro. Cuanto más frío el clima, más activo se vuelve.",
+        "Pokémon Y": "Su aerodinámico cuerpo avanza fácilmente por el agua. Cuanto más fría, más diversión.",
+        "Rubí Omega": "A Dewgong le encanta dormitar sobre la frialdad del hielo. Antiguamente, algún que otro marino lo confundió con una sirena al verlo dormido sobre un glaciar.",
+        "Zafiro Alfa": "A Dewgong le encanta dormitar sobre la frialdad del hielo. Antiguamente, algún que otro marino lo confundió con una sirena al verlo dormido sobre un glaciar.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Surca los mares a velocidades de 8 nudos en busca de Pokémon que le sirvan de sustento. Siente predilección especial por los Wishiwashi.",
+        "Ultraluna": "Le gusta tenderse al sol en la playa después de comer, ya que aumentar su temperatura corporal le facilita la digestión.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Su cuerpo es blanco como la nieve. Puede nadar plácidamente en mares gélidos gracias a su resistencia al frío.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Está cubierto de un luminoso pelaje blanco que lo camufla en la nieve.",
+        "Perla Reluciente": "Está cubierto de un luminoso pelaje blanco que lo camufla en la nieve.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Almacena energía termal en su cuerpo níveo cubierto de pelaje. Nada en agua glacial a ocho nudos.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "A Dewgong le encanta dormitar sobre la frialdad del hielo. Antiguamente, algún que otro marino lo confundió con una sirena al verlo dormido sobre un glaciar.",
+        "New Pokémon Snap": "Pueden nadar a grandes velocidades gracias a la forma hidrodinámica de su esbelto cuerpo. ¡Verlos jugar con Spheal como si de pelotas se tratasen es todo un espectáculo!"
+    },
+    "evolution": [
+        [
+            "Seel",
+            "Nivel 34",
+            "Dewgong"
+        ]
+    ]
+}

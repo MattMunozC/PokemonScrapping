@@ -1,0 +1,194 @@
+{
+    "dex number": "036",
+    "pokemon name": "Clefable",
+    "types": [
+        "hada"
+    ],
+    "abilities": [
+        "Gran encanto",
+        "Muro mágico"
+    ],
+    "hidden abilities": [
+        "Ignorante"
+    ],
+    "stats": {
+        "hp": "95",
+        "atk": "70",
+        "def": "73",
+        "atk esp": "95",
+        "def esp": "90",
+        "speed": "60"
+    },
+    "location": {
+        "Rojo": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Azul": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Amarillo": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Oro": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Plata": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Cristal": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Diamante": [
+            "Evolucionar: a Clefairy (piedra lunar)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Evolucionar: a Clefairy (piedra lunar)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Evolucionar: a Clefairy (piedra lunar)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Clefairy (piedra lunar)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Clefairy (piedra lunar)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Salvaje: Boquete Gigante (cuando la hierba se mueve)",
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Blanco": [
+            "Salvaje: Boquete Gigante (cuando la hierba se mueve)",
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Negro 2": [
+            "Salvaje: Boquete Gigante (cuando la hierba se mueve)",
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Boquete Gigante (cuando la hierba se mueve)",
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Sol": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Luna": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Monte Moon",
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Monte Moon",
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Espada": [
+            "Salvaje: Ribera de Pistón",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado y Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón. Nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración  y Mar Islejos ",
+            "Aventura Dinamax ",
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Escudo": [
+            "Salvaje: Ribera de Pistón",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado y Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón. Nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración  y Mar Islejos ",
+            "Aventura Dinamax ",
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Clefairy (piedra lunar)"
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje, de noche: Ladera Corona: Fuente de las Hadas.",
+            "Evolucionar: a Clefairy (piedra lunar)."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Un encantador y tímido Pokémon muy raro de ver. Corre y se oculta en cuanto siente que viene gente.",
+        "Amarillo": "Protege bastante bien su propio entorno. Es una especie de hada, raramente vista por los humanos.",
+        "Oro": "Con su fino oído puede percibir sonidos muy lejanos. Suele habitar en lugares silenciosos.",
+        "Plata": "Sus sensibles oídos le permiten distinguir sonidos lejanos. Por eso, prefiere lugares tranquilos.",
+        "Cristal": "Se dice que este Pokémon hada vive en la montaña en zonas tranquilas y lejanas. Odia que le vean.",
+        "Rubí": "Clefable se mueve dando saltitos como si fuera haciendo uso de las alas. Estos pequeños brincos le permiten caminar por el agua. De todos es sabido que le encanta darse paseos por los lagos en tranquilas noches de luna llena.",
+        "Zafiro": "Clefable se mueve dando saltitos como si fuera haciendo uso de las alas. Estos pequeños brincos le permiten caminar por el agua. De todos es sabido que le encanta darse paseos por los lagos en tranquilas noches de luna llena.",
+        "Esmeralda": "Usa las alas para dar saltitos y poder caminar por el agua, pero no llega a volar. Se sabe que le encanta pasear por los lagos en tranquilas noches de luna llena.",
+        "Rojo Fuego": "Tiene un agudísimo sentido del oído. Es capaz de oír la caída de un alfiler a 1 km de distancia.",
+        "Verde Hoja": "Un encantador y tímido Pokémon muy raro de ver. Corre y se oculta en cuanto siente que viene gente.",
+        "Diamante": "Rara vez se le ve. Se dice que en noches de luna llena sale a jugar en lagos solitarios.",
+        "Perla": "Su oído es tan agudo que puede oír una aguja caer a 1 km. Vive en montañas solitarias.",
+        "Platino": "Es muy prudente y rara vez se deja ver. Su oído es tan fino que puede oír caer una aguja a 1 km.",
+        "Oro HeartGold": "Con su fino oído puede percibir sonidos muy lejanos. Suele habitar en lugares silenciosos.",
+        "Plata SoulSilver": "Sus sensibles oídos le permiten distinguir sonidos lejanos. Por eso, prefiere lugares tranquilos.",
+        "Negro": "Es muy prudente y rara vez se deja ver. Su oído es tan fino que puede oír caer una aguja a 1 km.",
+        "Blanco": "Es muy prudente y rara vez se deja ver. Su oído es tan fino que puede oír caer una aguja a 1 km.",
+        "Negro 2": "Su oído es tan fino que puede oír como cae una aguja a 1 km de distancia. Por eso suele habitar en lugares tranquilos.",
+        "Blanco 2": "Su oído es tan fino que puede oír como cae una aguja a 1 km de distancia. Por eso suele habitar en lugares tranquilos.",
+        "Pokémon X": "Su oído es tan agudo que puede oír una aguja caer a 1 km. Vive en montañas solitarias.",
+        "Pokémon Y": "Un encantador y tímido Pokémon muy raro de ver. Corre y se oculta en cuanto siente que viene gente.",
+        "Rubí Omega": "Clefable se mueve dando saltitos como si fuera haciendo uso de las alas. Estos pequeños brincos le permiten caminar por el agua. De todos es sabido que le encanta darse paseos por los lagos en tranquilas noches de luna llena.",
+        "Zafiro Alfa": "Clefable se mueve dando saltitos como si fuera haciendo uso de las alas. Estos pequeños brincos le permiten caminar por el agua. De todos es sabido que le encanta darse paseos por los lagos en tranquilas noches de luna llena.",
+        "Sol": "No les gusta dejarse ver ante las personas. Viven tranquilamente en grupos en lo profundo de las montañas.",
+        "Luna": "Se dice que avistar a una pareja de Clefable dando saltitos trae felicidad al matrimonio.",
+        "Ultrasol": "Su fino oído puede percibir la caída de un alfiler a un kilómetro de distancia. Por eso prefiere vivir en las montañas, lejos del mundanal ruido.",
+        "Ultraluna": "Algunos científicos sostienen que cuando mira al cielo fijamente en las noches de luna llena es porque siente morriña.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Un Pokémon de aspecto feérico que protege con celo su entorno y muy rara vez se deja ver por los humanos.",
+        "Espada": "Este Pokémon de aspecto feérico, raramente visto por los humanos, corre a esconderse en cuanto detecta que hay alguien cerca.",
+        "Escudo": "Su oído es tan fino que puede percibir cómo cae una aguja a 1 km de distancia. Por eso suele habitar en lugares tranquilos.",
+        "Diamante Brillante": "Rara vez se lo ve. Dicen que en noches de luna llena sale a jugar en lagos solitarios.",
+        "Perla Reluciente": "Su oído es tan agudo que puede oír una aguja caer a 1 km. Vive en montañas solitarias.",
+        "Leyendas: Arceus": "Dicen que, en noches tranquilas y despejadas, este Pokémon se para a escuchar las voces de los compañeros que dejó atrás en la luna. Se ve que no soy el único que extraña su tierra natal.",
+        "Stadium": "Sus orejas son muy sensibles, por lo que odia los ruidos fuertes y los lugares llenos. No sale cuando hay gente.",
+        "Stadium 2": "Pokémon Oro insertado: Sus sensibles oídos le permiten distinguir sonidos lejanos. Por eso, prefiere lugares tranquilos.\nPokémon Plata insertado: Con su fino oído puede percibir sonidos muy lejanos. Suele habitar en lugares silenciosos.\n",
+        "Pokémon GO": "Clefable se mueve dando saltitos como si fuera haciendo uso de las alas. Estos pequeños brincos le permiten caminar por el agua. De todos es sabido que le encanta darse paseos por los lagos en tranquilas noches de luna llena."
+    },
+    "evolution": [
+        [
+            "Cleffa",
+            "Amistad+ nivel",
+            "Clefairy",
+            "Piedra lunar ",
+            "Clefable"
+        ]
+    ]
+}

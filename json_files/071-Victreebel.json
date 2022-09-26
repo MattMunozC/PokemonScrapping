@@ -1,0 +1,184 @@
+{
+    "dex number": "071",
+    "pokemon name": "Victreebel",
+    "types": [
+        "planta",
+        "veneno"
+    ],
+    "abilities": [
+        "Clorofila"
+    ],
+    "hidden abilities": [
+        "Gula"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "105",
+        "def": "65",
+        "atk esp": "100",
+        "def esp": "70",
+        "speed": "70"
+    },
+    "location": {
+        "Rojo": [
+            "Intercambiar: de Pokémon Azul o Pokémon Amarillo"
+        ],
+        "Azul": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Amarillo": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Oro": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Plata": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Cristal": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Verde Hoja"
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Diamante": [
+            "Evolucionar: a Weepinbell (piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Evolucionar: a Weepinbell (piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Evolucionar: a Weepinbell (piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Weepinbell (piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Weepinbell (piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Blanco": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Negro 2": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Sol": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Luna": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Let's Go Pikachu!": [
+            "Intercambiar: de Pokémon: Let's Go, Eevee!",
+            "GO Park: transferir desde Pokémon GO"
+        ],
+        "Let's Go Eevee!": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Espada": [
+            "Victreebel no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Victreebel no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Weepinbell (piedra hoja)"
+        ],
+        "Leyendas: Arceus": [
+            "Victreebel no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Vive en grandes colonias en el interior de las junglas, aunque nadie ha podido verificarlo.",
+        "Amarillo": "Engaña a su presa con un dulce aroma a miel. Una vez atrapada, la presa perderá hasta sus huesos.",
+        "Oro": "El ácido con que disuelve a muchas presas se endulza, haciéndolo hasta más efectivo para atraer a su presa.",
+        "Plata": "Este terrorífico Pokémon planta atrae a su presa con miel aromática para derretirla luego en su boca.",
+        "Cristal": "Cuando este Pokémon ingiere algo, incluso el objeto más duro se disolverá al instante.",
+        "Rubí": "Victreebel tiene una enredadera que le sale de la cabeza. Cuando la agita y colea, recuerda a un animal que está a punto de atacar a su presa. Como se le acerque un rival, se lo tragará entero.",
+        "Zafiro": "Victreebel tiene una enredadera que le sale de la cabeza. Cuando la agita y colea, recuerda a un animal que está a punto de atacar a su presa. Como se le acerque un rival, se lo tragará entero.",
+        "Esmeralda": "Tiene una enredadera que le sale de la cabeza. Cuando la agita y colea, recuerda a un animal y así consigue atraer a sus presas. Si se le acerca un rival, lo engulle.",
+        "Rojo Fuego": "Deja que su presa se le acerque a la boca, atraída por el aroma a miel. Una vez adentro, la disuelve con un fluido.",
+        "Verde Hoja": "Dicen que vive en grandes colonias en el interior de las junglas, aunque nadie ha podido verificarlo.",
+        "Diamante": "Su boca segrega un fluido de olor parecido  la miel: un potente ácido que disuelve cualquier cosa.",
+        "Perla": "Su boca segrega un fluido de olor parecido  la miel: un potente ácido que disuelve cualquier cosa.",
+        "Platino": "Su boca segrega un fluido de olor parecido  la miel: un potente ácido que disuelve cualquier cosa.",
+        "Oro HeartGold": "El ácido con que disuelve a muchas presas se endulza, haciéndolo hasta más efectivo para atraer a su presa.",
+        "Plata SoulSilver": "Este terrorífico Pokémon planta atrae a su presa con miel aromática para derretirla luego en su boca.",
+        "Negro": "Su boca segrega un fluido de olor parecido  la miel: un potente ácido que disuelve cualquier cosa.",
+        "Blanco": "Su boca segrega un fluido de olor parecido  la miel: un potente ácido que disuelve cualquier cosa.",
+        "Negro 2": "Su boca segrega un fluido de olor parecido  la miel: un potente ácido que disuelve cualquier cosa.",
+        "Blanco 2": "Su boca segrega un fluido de olor parecido  la miel: un potente ácido que disuelve cualquier cosa.",
+        "Pokémon X": "Dicen que vive en grandes colonias en el interior de las junglas, aunque nadie ha podido verificarlo.",
+        "Pokémon Y": "Cuando este Pokémon ingiere algo, incluso el objeto más duro se disolverá al instante.",
+        "Rubí Omega": "Victreebel tiene una enredadera que le sale de la cabeza y que agita a modo de señuelo para atraer a sus presas y así engullirlas por sorpresa cuando estas se aproximan incautas.",
+        "Zafiro Alfa": "Victreebel tiene una enredadera que le sale de la cabeza y que agita a modo de señuelo para atraer a sus presas y así engullirlas por sorpresa cuando estas se aproximan incautas.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Atrae a su presa con un dulce aroma a miel. Una vez atrapada en la boca, la disuelve en tan solo un día, huesos incluidos.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Su boca segrega un fluido de olor parecido al de la miel. En realidad, se trata de un potente ácido que disuelve cualquier cosa.",
+        "Perla Reluciente": "Su boca segrega un fluido de olor parecido al de la miel. En realidad, se trata de un potente ácido que disuelve cualquier cosa.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Atrae a su presa con miel de dulce olor. Sus presas son bichos, aunque a veces también atrapa grandes animales.",
+        "Stadium 2": "Pokémon Oro insertado: Este terrorífico Pokémon planta atrae a su presa con miel aromática para derretirla luego en su boca.\nPokémon Plata insertado: El ácido con que disuelve a muchas presas se endulza, haciéndolo hasta más efectivo para atraer a su presa.\n",
+        "Pokémon GO": "Victreebel tiene una enredadera que le sale de la cabeza y que agita a modo de señuelo para atraer a sus presas y así engullirlas por sorpresa cuando estas se aproximan incautas.",
+        "Ranger": "Victreebel escupe veneno con su enorme boca. ¡Cuidado con los charcos!",
+        "Sombras de Almia": "Ataca lanzando hojas y encharcando el terreno con veneno."
+    },
+    "evolution": [
+        [
+            "Bellsprout",
+            "Nivel 21",
+            "Weepinbell",
+            "Piedra hoja ",
+            "Victreebel"
+        ]
+    ]
+}

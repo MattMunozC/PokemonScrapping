@@ -1,0 +1,187 @@
+{
+    "dex number": "076",
+    "pokemon name": "Golem",
+    "types": [
+        "roca",
+        "tierra"
+    ],
+    "abilities": [
+        "Cabeza roca",
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Velo arena"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "110",
+        "def": "130",
+        "atk esp": "55",
+        "def esp": "65",
+        "speed": "45"
+    },
+    "location": {
+        "Rojo": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Azul": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Amarillo": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Oro": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Plata": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Cristal": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Rubí": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Diamante": [
+            "Evolucionar: a Graveler (intercambio)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Evolucionar: a Graveler (intercambio)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Evolucionar: a Graveler (intercambio)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Graveler (intercambio)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Graveler (intercambio)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro o Blanco.",
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Blanco.",
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Let's Go Pikachu!": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Let's Go Eevee!": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Espada": [
+            "Golem no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Golem no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Graveler (intercambio)"
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Graveler (intercambio) o Cordón unión."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Su cuerpo rocoso es super duro. Soporta las explosiones de dinamita sin sufrir daño.",
+        "Amarillo": "Cuando pierde su piel, su cuerpo se vuelve blando y blanquecino. Si esto ocurre, se esconderá.",
+        "Oro": "Muda su piel una vez al año. La concha desechada se endurece de inmediato y se desmorona.",
+        "Plata": "Es capaz de inflarse a sí mismo. Usa esta fuerza explosiva para saltar de montaña en montaña.",
+        "Cristal": "Tiene un cuerpo rocoso tan fuerte que ni siquiera la dinamita más potente le haría ningún rasguño.",
+        "Rubí": "Golem vive en las montañas. Si se produce un gran terremoto, estos Pokémon descienden rodando en masa por las laderas.",
+        "Zafiro": "Golem es conocido por su afición a bajar de las montañas rodando. La gente que vive en la falda de las mismas ha cavado surcos para conducirlo en su descenso por las laderas y evitar que se cuele en sus casas.",
+        "Esmeralda": "Dicen que vive en cráteres volcánicos situados en altas cimas. Una vez al año, muda la piel y crece. La muda se deshace y es absorbida por la tierra.",
+        "Rojo Fuego": "Está encerrado en un duro caparazón formado por escamas de piedra. Para fortalecerse, lo muda una vez al año.",
+        "Verde Hoja": "Su cuerpo rocoso es superduro. Soporta explosiones de dinamita sin sufrir daño.",
+        "Diamante": "Muda su piel una vez al año. Su cuerpo rocoso es tan duro que ni la dinamita lo daña.",
+        "Perla": "Se lanza montaña abajo y deja un surco desde la cima hasta el pie. Es mejor mantenerse alejado.",
+        "Platino": "Ni siquiera la dinamita puede dañar su cuerpo rocoso. Muda la piel una vez al año.",
+        "Oro HeartGold": "Muda su piel una vez al año. La concha desechada se endurece de inmediato y se desmorona.",
+        "Plata SoulSilver": "Es capaz de inflarse a sí mismo. Usa esta fuerza explosiva para saltar de montaña a montaña.",
+        "Negro": "Ni siquiera la dinamita puede dañar su cuerpo rocoso. Muda la piel una vez al año.",
+        "Blanco": "Ni siquiera la dinamita puede dañar su cuerpo rocoso. Muda la piel una vez al año.",
+        "Negro 2": "Ni siquiera la dinamita puede dañar su cuerpo rocoso. Muda la piel una vez al año.",
+        "Blanco 2": "Ni siquiera la dinamita puede dañar su cuerpo rocoso. Muda la piel una vez al año.",
+        "Pokémon X": "Se lanza montaña abajo y deja un surco desde la cima hasta el pie. Es mejor mantenerse alejado.",
+        "Pokémon Y": "Ni siquiera la dinamita puede dañar su cuerpo rocoso. Muda la piel una vez al año.",
+        "Rubí Omega": "Golem vive en las montañas. Si se produce un gran terremoto, estos Pokémon descienden rodando en masa por las laderas.",
+        "Zafiro Alfa": "Golem es conocido por su afición a bajar de las montañas rodando. La gente que vive en la falda de las mismas ha cavado surcos para conducirlo en su descenso por las laderas y evitar que se cuele en sus casas.",
+        "Sol": "Su robusto cuerpo puede soportar una explosión de dinamita sin inmutarse, pero no tolera bien ni la humedad ni la lluvia",
+        "Luna": "Muda su caparazón una vez al año. En muchas granjas lo aprovechan, pues este se puede utilizar para fertilizar el suelo.",
+        "Ultrasol": "A medida que envejece, pierde la facultad de mudar la piel. Se han observado ejemplares de edad avanzada totalmente cubiertos de musgo.",
+        "Ultraluna": "Puede hacer estallar su cuerpo a voluntad. El impulso que esto genera le permite ascender a toda velocidad a la cima de las montañas.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Nada más mudar la piel, su cuerpo se vuelve blando y blanquecino, pero se endurece al poco tiempo de entrar en contacto con el aire.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Muda su piel una vez al año. Su cuerpo rocoso es tan duro que ni la dinamita lo daña.",
+        "Perla Reluciente": "Conviene alejarse de los caminos que recorren la montaña de la cima al pie, pues son los surcos que dejan los Golem al rodar por la ladera.",
+        "Leyendas: Arceus": "Muda su rocoso caparazón una vez al año. La parte descartada se descompone en un amasijo de tierra y sirve como fertilizante para los cultivos.",
+        "Stadium": "Su cuerpo, que pesa unos 300 kilos, es duro como una piedra. Se hace más grande mudando la piel una vez al año.",
+        "Stadium 2": "Pokémon Oro insertado: Es capaz de inflarse a sí mismo. Usa esta fuerza explosiva para saltar de montaña en montaña.\nPokémon Plata insertado: Muda su piel una vez al año. La concha desechada se endurece de inmediato y se desmorona.\n",
+        "Pokémon GO": "Golem vive en las montañas. Si se produce un gran terremoto, estos Pokémon descienden rodando en masa por las laderas.",
+        "Ranger": "Golem es capaz de romper grandes rocas con su extraordinaria fuerza.",
+        "Sombras de Almia": "Ataca lanzando piedras y abriendo grietas en el suelo.",
+        "RubíZafiro": "Golem es conocido por su afición a bajar de las montañas rodando. La gente que vive en la falda de las mismas ha cavado surcos para conducirlo en su descenso por las laderas y evitar que se cuele en sus casas."
+    },
+    "evolution": [
+        [
+            "Geodude",
+            "Nivel 25",
+            "Graveler",
+            "Intercambio;o cordón unión ",
+            "Golem"
+        ]
+    ]
+}

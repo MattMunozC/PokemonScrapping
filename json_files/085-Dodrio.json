@@ -1,0 +1,206 @@
+{
+    "dex number": "085",
+    "pokemon name": "Dodrio",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Fuga",
+        "Madrugar"
+    ],
+    "hidden abilities": [
+        "Tumbos"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "110",
+        "def": "70",
+        "atk esp": "60",
+        "def esp": "60",
+        "speed": "100"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Mazmorra Rara.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Azul": [
+            "Salvaje: Mazmorra Rara.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Amarillo": [
+            "Salvaje: Ruta 17.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Oro": [
+            "Salvaje, mañana y día: Ruta 26, Ruta 28, Monte Plateado.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Plata": [
+            "Salvaje, mañana y día: Ruta 27, Ruta 28, Monte Plateado.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Cristal": [
+            "Salvaje, mañana y día: Ruta 27, Ruta 28, Monte Plateado.",
+            "Intercambio del videojuego: por un Dragonair♀ en ciudad Endrino (está equipado con Bola humo).",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Rubí": [
+            "Salvaje: Zona Safari (noroeste).",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Zafiro": [
+            "Salvaje: Zona Safari (noroeste).",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Zona Safari (noroeste).",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Diamante": [
+            "Evolucionar: a Doduo (nivel 31).",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Evolucionar: a Doduo (nivel 31).",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Evolucionar: a Doduo (nivel 31).",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Salvaje, mañana y día: Rutas 26, 28 y Zona Safari (Laguna).",
+            "Intercambio del videojuego: con una mujer de Ciudad Endrino, dándole a cambio Un Dragonair♀.",
+            "Evolucionar: a Doduo (nivel 31).",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, mañana y día: Rutas 27, 28 y Zona Safari (Laguna).",
+            "Intercambio del videojuego: con una mujer de Ciudad Endrino, dándole a cambio Un Dragonair♀.",
+            "Evolucionar: a Doduo (nivel 31).",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Dream World: Con la habilidad Tumbos.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Blanco": [
+            "Dream World: Con la habilidad Tumbos.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Negro 2": [
+            "Dream World: Con la habilidad Tumbos.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Blanco 2": [
+            "Dream World: Con la habilidad Tumbos.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Zona Safari.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Zona Safari.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Rutas 16, 17 y 18.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Rutas 16, 17 y 18.",
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Espada": [
+            "Dodrio no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Dodrio no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Doduo (nivel 31)."
+        ],
+        "Leyendas: Arceus": [
+            "Dodrio no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Para tramar sus planes usa sus tres cerebros. Cuando 2 cabezas duermen, la otra sigue despierta.",
+        "Amarillo": "Una de las dos cabezas de Doduo se divide para formar un nuevo PkMn. Es capaz de correr a 40 KPH.",
+        "Oro": "Recoge datos y hace planes el triple de rápido, pero si piensa demasiado podría quedar paralizado.",
+        "Plata": "Si una de las cabezas come, las otras quedarán satisfechas y dejarán de pelearse.",
+        "Cristal": "Más vale no perder de vista ninguna de las 3 cabezas. De lo contrario, el número de picotazos será enorme.",
+        "Rubí": "Hay que tener cuidado cuando las tres cabezas de Dodrio miran cada una para un lado, pues están en guardia. No te acerques a este Pokémon cuando está vigilando porque puede darte un picotazo.",
+        "Zafiro": "Según parece, las cabezas no son las únicas partes del cuerpo que tiene triplicadas. Dodrio también tiene tres corazones y tres pares de pulmones. Con esta constitución, puede correr largas distancias sin cansarse.",
+        "Esmeralda": "Pertenece a una rara especie de Pokémon que tiene tres cabezas. Corre con energía por verdes praderas incluso en estaciones secas en las que llueve muy poco.",
+        "Rojo Fuego": "Pertenece a una rara especie difícil de encontrar. Las tres cabezas simbolizan la alegría, la tristeza y la ira.",
+        "Verde Hoja": "Para tramar sus planes usa sus tres cerebros. Cuando dos cabezas duermen, la otra sigue despierta.",
+        "Diamante": "Cuando un Doduo evoluciona, una de sus cabezas se divide en dos. Corre a unos 60 km por hora.",
+        "Perla": "Cuando un Doduo evoluciona, una de sus cabezas se divide en dos. Corre a unos 60 km por hora.",
+        "Platino": "Cuando un Doduo evoluciona, una de sus cabezas se divide en dos. Corre a unos 60 km por hora.",
+        "Oro HeartGold": "Recoge datos y hace planes el triple de rápido, pero si piensa demasiado podría quedar paralizado.",
+        "Plata SoulSilver": "Si una de las cabezas come, las otras quedarán satisfechas y dejarán de pelearse.",
+        "Negro": "Cuando un Doduo evoluciona, una de sus cabezas se divide en dos. Corre a unos 60 km por hora.",
+        "Blanco": "Cuando un Doduo evoluciona, una de sus cabezas se divide en dos. Corre a unos 60 km por hora.",
+        "Negro 2": "Cuando un Doduo evoluciona, una de sus cabezas se divide en dos. Corre a unos 60 km por hora.",
+        "Blanco 2": "Cuando un Doduo evoluciona, una de sus cabezas se divide en dos. Corre a unos 60 km por hora.",
+        "Pokémon X": "Más vale no perder de vista ninguna de las tres cabezas. De lo contrario, el número de picotazos será enorme.",
+        "Pokémon Y": "Es una especie muy rara y difícil de encontrar. Las tres cabezas simbolizan la alegría, la tristeza y la ira.",
+        "Rubí Omega": "Según parece, las cabezas no son las únicas partes del cuerpo que tiene triplicadas. Dodrio también tiene tres corazones y tres pares de pulmones. Con esta constitución, puede correr largas distancias sin cansarse.",
+        "Zafiro Alfa": "Según parece, las cabezas no son las únicas partes del cuerpo que tiene triplicadas. Dodrio también tiene tres corazones y tres pares de pulmones. Con esta constitución, puede correr largas distancias sin cansarse.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Este Pokémon surge al dividirse una de las cabezas de Doduo. Es capaz de correr por las praderas a 60 km/h.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Esta extraña especie es el resultado de la división de una de las cabezas de Doduo al evolucionar. Puede correr a más de 60 km/h.",
+        "Perla Reluciente": "Esta extraña especie es el resultado de la división de una de las cabezas de Doduo al evolucionar. Puede correr a más de 60 km/h.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Las tres cabezas expresan alegría, enfado y preocupación cuando planean estrategias. Al dormir, una cabeza permanece despierta.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Según parece, las cabezas no son las únicas partes del cuerpo que tiene triplicadas. Dodrio también tiene tres corazones y tres pares de pulmones. Con esta constitución, puede correr largas distancias sin cansarse.",
+        "Ranger": "Dodrio es difícil de capturar porque corre y salta a gran velocidad.",
+        "Sombras de Almia": "Da picotazos para atacar.",
+        "RubíZafiro": "Hay que tener cuidado cuando las tres cabezas de Dodrio miran cada una para un lado, pues están en guardia. No te acerques a este Pokémon cuando está vigilando porque puede darte un picotazo.",
+        "New Pokémon Snap": "Estos corredores natos son capaces de atravesar el parque natural en un abrir y cerrar de ojos. Sus patas tienen una potencia increíble, y saltan tan alto que parece que están volando."
+    },
+    "evolution": [
+        [
+            "Doduo",
+            "Nivel 31",
+            "Dodrio"
+        ]
+    ]
+}

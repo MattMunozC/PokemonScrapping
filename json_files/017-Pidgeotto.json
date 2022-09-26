@@ -1,0 +1,201 @@
+{
+    "dex number": "017",
+    "pokemon name": "Pidgeotto",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Tumbos"
+    ],
+    "hidden abilities": [
+        "Sacapecho"
+    ],
+    "stats": {
+        "hp": "63",
+        "atk": "60",
+        "def": "55",
+        "atk esp": "50",
+        "def esp": "50",
+        "speed": "71"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Ruta 14, Ruta 15, y Ruta 21",
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Azul": [
+            "Salvaje: Ruta 14, Ruta 15, y Ruta 21",
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Amarillo": [
+            "Salvaje: Rutas 5, 6, 7, 8, 11, 12, 13, 14, Ruta 15, 21, 24 y 25 y Bosque Verde",
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Oro": [
+            "Salvaje: Rutas 2, 8, 13, 14, 15, 25, 37 y 43",
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Plata": [
+            "Salvaje: Rutas 2, 8, 13, 14, 15, 25, 37 y 43",
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Cristal": [
+            "Salvaje: Rutas 2, 5, 8, 11, 13, 14, 15, 25, 37, 38, 39 y 43",
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Ruta 13, Ruta 14 y Ruta 15, Puente Unión, Bosque Baya y Prado Isla Inta",
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Ruta 13, Ruta 14 y Ruta 15, Puente Unión, Bosque Baya y Prado Isla Inta",
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Diamante": [
+            "Evolucionar: a Pidgey (nivel 18)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Evolucionar: a Pidgey (nivel 18)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Evolucionar: a Pidgey (nivel 18)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Salvaje, mañana y día: Rutas 2, 8, 13, 14, 15, 25, 43 y Bosque Verde",
+            "Salvaje, día: Ruta 2 y Ruta 37",
+            "Evolucionar: a Pidgey (nivel 18)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, mañana y día: Rutas 2, 8, 13, 14, 15, 25, 43 y Bosque Verde",
+            "Salvaje, día: Ruta 2 y Ruta 37",
+            "Evolucionar: a Pidgey (nivel 18)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco": [
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Zona safari, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Zona safari, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Pidgeot y evolucionar a Pidgey (nivel 18)"
+        ],
+        "Ultraluna": [
+            "Criar: de Pidgeot y evolucionar a Pidgey (nivel 18)"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Ruta 1, Ruta 2, Ruta 5, Ruta 6, Ruta 7, Ruta 8, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 20, Ruta 21, Ruta 22, Ruta 23, Ruta 24, Ruta 25",
+            "Evolucionar: a Pidgey (nivel 18)",
+            "Especial: GO Park Transferir desde Pokémon GO"
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Ruta 1, Ruta 2, Ruta 5, Ruta 6, Ruta 7, Ruta 8, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 20, Ruta 21, Ruta 22, Ruta 23, Ruta 24, Ruta 25",
+            "Evolucionar: a Pidgey (nivel 18)",
+            "Especial: GO Park Transferir desde Pokémon GO"
+        ],
+        "Espada": [
+            "Pidgeotto no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Pidgeotto no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Pidgey (nivel 18)"
+        ],
+        "Leyendas: Arceus": [
+            "Pidgeotto no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Muy protector de su amplio territorio, este Pokémon picoteará ferozmente a todo intruso.",
+        "Amarillo": "Este Pokémon está repleto de vitalidad. Suele volar por su territorio en busca de presas.",
+        "Oro": "Su visión es extraordinaria. Aunque vuele muy alto, detectará todo movimiento de su presa.",
+        "Plata": "Inmoviliza a su presa usando sus enormes garras, y después la lleva hasta su nido, a unos 100 Km.",
+        "Cristal": "Vuela en círculos, muy despacio, mientras busca con atención a la que será su próxima víctima.",
+        "Rubí": "Pidgeotto se apodera de una zona muy vasta como su territorio y la sobrevuela para controlarla. Si alguien invade su espacio vital, no tendrá ningún reparo en castigarlo con sus afiladas garras.",
+        "Zafiro": "Pidgeotto se apodera de una zona muy vasta como su territorio y la sobrevuela para controlarla. Si alguien invade su espacio vital, no tendrá ningún reparo en castigarlo con sus afiladas garras.",
+        "Esmeralda": "Se hace con un territorio muy vasto y lo sobrevuela para controlarlo. Si invaden su espacio vital, no tendrá reparo en atacar con sus afiladas garras.",
+        "Rojo Fuego": "Tiene unas garras desarrolladas. Puede atrapar un Exeggcute y transportarlo desde una distancia de casi 100 km.",
+        "Verde Hoja": "Muy protector de su amplio territorio, este Pokémon picoteará ferozmente a los intrusos.",
+        "Diamante": "Sobrevuela su extenso territorio en busca de presas y ataca con sus poderosas garras.",
+        "Perla": "Sobrevuela su extenso territorio en busca de presas y ataca con sus poderosas garras.",
+        "Platino": "Sobrevuela su extenso territorio en busca de presas y ataca con sus poderosas garras.",
+        "Oro HeartGold": "Su visión es extraordinaria. Aunque vuele muy alto, detectará todo movimiento de su presa.",
+        "Plata SoulSilver": "Inmoviliza a su presa usando sus enormes garras, y después la lleva hasta su nido, a unos 100 km.",
+        "Negro": "Sobrevuela su extenso territorio en busca de presas y ataca con sus poderosas garras.",
+        "Blanco": "Sobrevuela su extenso territorio en busca de presas y ataca con sus poderosas garras.",
+        "Negro 2": "Sobrevuela su extenso territorio en busca de presas y ataca con sus poderosas garras.",
+        "Blanco 2": "Sobrevuela su extenso territorio en busca de presas y ataca con sus poderosas garras.",
+        "Pokémon X": "Tiene unas garras desarrolladas. Puede atrapar un Exeggcute y transportarlo desde una distancia de casi 100 km.",
+        "Pokémon Y": "Muy protector de su amplio territorio, este Pokémon picoteará ferozmente a los intrusos.",
+        "Rubí Omega": "Pidgeotto se apodera de una zona muy vasta como su territorio y la sobrevuela para controlarla. Si alguien invade su espacio vital, no tendrá ningún reparo en castigarlo con sus afiladas garras.",
+        "Zafiro Alfa": "Pidgeotto se apodera de una zona muy vasta como su territorio y la sobrevuela para controlarla. Si alguien invade su espacio vital, no tendrá ningún reparo en castigarlo con sus afiladas garras.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Su extraordinaria vitalidad y resistencia le permiten cubrir grandes distancias del territorio que habita en busca de presas.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Sobrevuela su extenso territorio en busca de presas, a las que abate con sus poderosas garras.",
+        "Perla Reluciente": "Sobrevuela su extenso territorio en busca de presas, a las que abate con sus poderosas garras.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Construye su nido en el centro de su gran territorio. Utiliza sus poderosas garras para cazar rápidamente a sus víctimas.",
+        "Stadium 2": "Pokémon Oro insertado: Inmoviliza a su presa usando sus enormes garras, y después la lleva hasta su nido, a unos 100 Km.\nPokémon Plata insertado: Su visión es extraordinaria. Aunque vuele muy alto, detectará todo movimiento de su presa.\n",
+        "Pokémon GO": "Pidgeotto se apodera de una zona muy vasta como su territorio y la sobrevuela para controlarla. Si alguien invade su espacio vital, no tendrá ningún reparo en castigarlo con sus afiladas garras.",
+        "Trazos de luz": "Lanza varios tornados contra el oponente."
+    },
+    "evolution": [
+        [
+            "Pidgey",
+            "Nivel 18",
+            "Pidgeotto",
+            "Nivel 36",
+            "Pidgeot"
+        ]
+    ]
+}

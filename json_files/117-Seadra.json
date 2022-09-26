@@ -1,0 +1,214 @@
+{
+    "dex number": "117",
+    "pokemon name": "Seadra",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Punto tóxico",
+        "Francotirador"
+    ],
+    "hidden abilities": [
+        "Humedad"
+    ],
+    "stats": {
+        "hp": "55",
+        "atk": "65",
+        "def": "95",
+        "atk esp": "95",
+        "def esp": "45",
+        "speed": "85"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Islas Espuma (sótanos 1 y 3).",
+            "Pescando, supercaña: Ruta 23, Mazmorra Rara.",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Azul": [
+            "Pescando, supercaña: Ruta 23, Mazmorra Rara.",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Amarillo": [
+            "Pescando, supercaña: Rutas 12, 13.",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Oro": [
+            "Pescando, supercaña: Islas Remolino.",
+            "Surf: Islas Remolino (sótano 2).",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Plata": [
+            "Pescando, supercaña: Islas Remolino.",
+            "Surf: Islas Remolino (sótano 2).",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Cristal": [
+            "Pescando, supercaña: Islas Remolino.",
+            "Surf: Islas Remolino (sótano 2).",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Rubí": [
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Zafiro": [
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Rojo Fuego": [
+            "Pescando, supercaña: Rutas 19, 20, 21, Pueblo Paleta, Isla Prima, Playa Tesoro, Puente Unión, Camino Candente, Cueva Glaciada, Vía Acuática, Vía Verde, Isla Aislada, Isla Inta, Aquarinto, Lugar de Recreo, Prado Isla Inta, Pilar Recuerdo, Torre Desafío, Ruinas Sete.",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Diamante": [
+            "Pescando, supercaña: Ruta 226.",
+            "Evolucionar: a Horsea (nivel 32).",
+            "Parque Compi: Zona marina."
+        ],
+        "Perla": [
+            "Pescando, supercaña: Ruta 226.",
+            "Evolucionar: a Horsea (nivel 32).",
+            "Parque Compi: Zona marina."
+        ],
+        "Platino": [
+            "Pescando, supercaña: Ruta 226.",
+            "Evolucionar: a Horsea (nivel 32).",
+            "Parque Compi: Zona marina."
+        ],
+        "Oro HeartGold": [
+            "Pescando, supercaña: Islas Remolino e Islas Espuma.",
+            "Surf: Islas Remolino (sótano 2).",
+            "Evolucionar: a Horsea (nivel 32).",
+            "Parque Compi: Zona marina."
+        ],
+        "Plata SoulSilver": [
+            "Pescando, supercaña: Islas Remolino e Islas Espuma.",
+            "Surf: Islas Remolino (sótano 2).",
+            "Evolucionar: a Horsea (nivel 32).",
+            "Parque Compi: Zona marina."
+        ],
+        "Negro": [
+            "Pescando: Rutas 17, 18 y Laboratorio P+P (en sombra de agua).",
+            "Dream World: Con la habilidad Humedad.",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Blanco": [
+            "Pescando: Rutas 17, 18 y Laboratorio P+P (en sombra de agua).",
+            "Dream World: Con la habilidad Humedad.",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Negro 2": [
+            "Pescando: Rutas 17, 18 y Laboratorio P+P (en sombra de agua).",
+            "Dream World: Con la habilidad Humedad.",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Blanco 2": [
+            "Pescando: Rutas 17, 18 y Laboratorio P+P (en sombra de agua).",
+            "Dream World: Con la habilidad Humedad.",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Pokémon X": [
+            "Pescando, supercaña: Pueblo Petroglifo y Ciudad Relieve."
+        ],
+        "Pokémon Y": [
+            "Pescando, supercaña: Pueblo Petroglifo y Ciudad Relieve."
+        ],
+        "Rubí Omega": [
+            "Pescando, supercaña: Rutas marítimas Ruta 134, Ruta 133, Ruta 132, Ruta 131, Ruta 130."
+        ],
+        "Zafiro Alfa": [
+            "Pescando, supercaña: Rutas marítimas Ruta 134, Ruta 133, Ruta 132, Ruta 131, Ruta 130."
+        ],
+        "Sol": [
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Luna": [
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Let's Go Pikachu!": [
+            "Surcaaguas: Rutas 11, 12 y 13."
+        ],
+        "Let's Go Eevee!": [
+            "Surcaaguas: Rutas 11, 12 y 13."
+        ],
+        "Espada": [
+            "Evolucionar: a Horsea (nivel 32).",
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Evolucionar: a Horsea (nivel 32).",
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Pescando con supercaña: Ruta 226.",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Perla Reluciente": [
+            "Pescando con supercaña: Ruta 226.",
+            "Evolucionar: a Horsea (nivel 32)."
+        ],
+        "Leyendas: Arceus": [
+            "Seadra no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Puede nadar hacia atrás moviendo rápidamente sus aletas pectorales y su robusta cola.",
+        "Amarillo": "Tocar su aleta trasera causa parálisis. Se engancha al coral para mantenerse mientras duerme.",
+        "Oro": "Un análisis de sus células revela la presencia de un gen no encontrado en Horsea. Es un tema muy polémico.",
+        "Plata": "Las puntas de sus aletas segregan veneno. Sus aletas y huesos son muy valorados en la medicina natural.",
+        "Cristal": "En esta especie, es el macho quien cría a la prole. Si se acerca algún intruso, usará sus venenosos pinchos.",
+        "Rubí": "Seadra se echa a dormir tras abrirse un hueco entre las ramas de los corales. Los amantes de estos animales marinos suelen pincharse con las púas venenosas de estos Pokémon si no los ven.",
+        "Zafiro": "Seadra gira sobre sí mismo y crea unos remolinos lo suficientemente fuertes como para engullir barcos de pesca. Este Pokémon aprovecha las corrientes que crea para debilitar a su presa y tragársela de una vez.",
+        "Esmeralda": "Las púas venenosas que cubren su cuerpo tienen mucho valor a la hora de preparar remedios de hierbas tradicionales. Como algo amenace su nido, atacará sin piedad.",
+        "Rojo Fuego": "Las afiladas púas que le recubren el cuerpo se le erizan y pueden causar el debilitamiento con sólo tocarlo.",
+        "Verde Hoja": "Puede nadar hacia atrás moviendo rápidamente las aletas pectorales y la robusta cola que tiene.",
+        "Diamante": "Se protege con sus púas. Sus aletas y huesos son muy valorados por la medicina tradicional.",
+        "Perla": "Se protege con sus púas. Sus aletas y huesos son muy valorados por la medicina tradicional.",
+        "Platino": "Se protege con sus púas. Sus aletas y huesos son muy valorados por la medicina tradicional.",
+        "Oro HeartGold": "Un análisis de sus células revela la presencia de un gen no encontrado en Horsea. Es un tema muy polémico.",
+        "Plata SoulSilver": "Las puntas de sus aletas segregan veneno. Sus aletas y huesos son muy valorados en la medicina natural.",
+        "Negro": "Se protege con sus púas. Sus aletas y huesos son muy valorados por la medicina tradicional.",
+        "Blanco": "Se protege con sus púas. Sus aletas y huesos son muy valorados por la medicina tradicional.",
+        "Negro 2": "Se protege con sus púas. Sus aletas y huesos son muy valorados por la medicina tradicional.",
+        "Blanco 2": "Se protege con sus púas. Sus aletas y huesos son muy valorados por la medicina tradicional.",
+        "Pokémon X": "Las afiladas púas que le recubren el cuerpo se le erizan y pueden causar el debilitamiento con sólo tocarlo.",
+        "Pokémon Y": "Puede nadar hacia atrás moviendo rápidamente las aletas pectorales y la robusta cola que tiene.",
+        "Rubí Omega": "Seadra se echa a dormir tras abrirse un hueco entre las ramas de los corales. Los pescadores de coral suelen pincharse con las púas venenosas de estos Pokémon si no los ven",
+        "Zafiro Alfa": "Seadra gira sobre sí mismo y crea unos remolinos lo suficientemente fuertes como para engullir barcos de pesca. Este Pokémon aprovecha las corrientes que crea para debilitar a su presa y tragársela de una vez.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Tocar sus aletas dorsales causa entumecimiento. Mientras duerme se agarra al coral con la cola para que no se lo lleve la corriente.",
+        "Espada": "En esta especie, es el macho quien se ocupa de la prole. Durante la época de cría, el veneno de las púas de su espalda se vuelve más potente.",
+        "Escudo": "Su estrecho morro posee tal fuerza de succión que es capaz de aspirar presas de mayor tamaño y engullirlas enteras.",
+        "Diamante Brillante": "Se protege de los enemigos con sus púas. Sus aletas y huesos son muy valorados en la medicina tradicional.",
+        "Perla Reluciente": "Se protege de los enemigos con sus púas. Sus aletas y huesos son muy valorados en la medicina tradicional.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Inteligente Pokémon que puede nadar hacia atrás mientras mira hacia adelante. Un pinchazo de sus espinas te debilitará.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Seadra se echa a dormir tras abrirse un hueco entre las ramas de los corales. Los pescadores de coral suelen pincharse con las púas venenosas de estos Pokémon si no los ven",
+        "Ranger": "Seadra lanza agua con mucha fuerza. ¡Atrápalo antes de que se sumerja!",
+        "Sombras de Almia": "Lanza burbujas por la boca para atacar.",
+        "RubíZafiro": "Seadra gira sobre sí mismo y crea unos remolinos lo suficientemente fuertes como para engullir barcos de pesca. Este Pokémon aprovecha las corrientes que crea para debilitar a su presa y tragársela de una vez."
+    },
+    "evolution": [
+        [
+            "Horsea",
+            "Nivel 32",
+            "Seadra",
+            "Intercambio equipado conEscama dragón ",
+            "Kingdra"
+        ]
+    ]
+}

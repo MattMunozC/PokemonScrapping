@@ -1,0 +1,208 @@
+{
+    "dex number": "129",
+    "pokemon name": "Magikarp",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Nado rápido"
+    ],
+    "hidden abilities": [
+        "Cobardía"
+    ],
+    "stats": {
+        "hp": "20",
+        "atk": "10",
+        "def": "55",
+        "atk esp": "15",
+        "def esp": "20",
+        "speed": "80"
+    },
+    "location": {
+        "Rojo": [
+            "Pescando: con caña vieja o supercaña, en las rutas 12, 13, 17, 18 y Ciudad Fucsia.",
+            "Especial: Un hombre en el centro Pokémon en la entrada oeste del Monte Moon lo vende por 500, al nivel 5."
+        ],
+        "Azul": [
+            "Pescando: con caña vieja o supercaña, en las rutas 12, 13, 17, 18 y Ciudad Fucsia.",
+            "Especial: Un hombre en el centro Pokémon en la entrada oeste del Monte Moon lo vende por 500, al nivel 5."
+        ],
+        "Amarillo": [
+            "Pescando: con caña vieja o caña buena, en Ciudad Fucsia y Zona Safari",
+            "Especial: Un hombre en el centro Pokémon en la entrada oeste del Monte Moon lo vende por 500, al nivel 5."
+        ],
+        "Oro": [
+            "Salvaje: durante todo el día, pescando con caña vieja, caña buena o haciendo surf, en cualquier lugar donde haya agua (excepto en Ruta 4 y Ciudad Celeste)."
+        ],
+        "Plata": [
+            "Salvaje: durante todo el día, pescando con caña vieja, caña buena o haciendo surf, en cualquier lugar donde haya agua (excepto en Ruta 4 y Ciudad Celeste)."
+        ],
+        "Cristal": [
+            "Salvaje, todo el día, pescando con caña vieja, caña buena, super caña o haciendo surf en cualquier lugar donde haya agua."
+        ],
+        "Rubí": [
+            "Salvaje: pescando con caña vieja, caña buena o haciendo Surf en cualquier lugar donde haya agua."
+        ],
+        "Zafiro": [
+            "Salvaje: pescando con caña vieja, caña buena o haciendo Surf en cualquier lugar donde haya agua."
+        ],
+        "Esmeralda": [
+            "Salvaje: pescando con caña vieja, caña buena o haciendo Surf en cualquier lugar donde haya agua."
+        ],
+        "Rojo Fuego": [
+            "Pescando: Pescando o haciendo surf, en cualquier lugar donde haya agua.",
+            "Especial: Un hombre en el centro Pokémon en la entrada oeste del Monte Moon lo vende por 500, al nivel 5."
+        ],
+        "Verde Hoja": [
+            "Pescando: Pescando o haciendo surf, en cualquier lugar donde haya agua.",
+            "Especial: Un hombre en el centro Pokémon en la entrada oeste del Monte Moon lo vende por 500, al nivel 5."
+        ],
+        "Diamante": [
+            "Pescando: Pescando con caña vieja o caña buena en cualquier lugar donde haya agua.",
+            "Intercambio: El Meister te cambia un Magikarp de origen alemán por un Finneon. Con eso se activan las Entradas internacionales.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Perla": [
+            "Pescando: Pescando con caña vieja o caña buena en cualquier lugar donde haya agua.",
+            "Intercambio: El Meister te cambia un Magikarp de origen alemán por un Finneon. Con eso se activan las Entradas internacionales.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Platino": [
+            "Pescando: Pescando con caña vieja o caña buena en cualquier lugar donde haya agua. Con supercaña también en la Zona Descanso.",
+            "Intercambio: El Meister te cambia un Magikarp de origen alemán por un Finneon. Con eso se activan las Entradas internacionales.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Oro HeartGold": [
+            "Pescando: Con cualquier caña en cualquier lugar donde haya agua. Y solo con caña vieja en la Zona Safari (Pantano).",
+            "Surf: Rutas 43, 45, Ciudad Fucsia, Monte Moon, Ciudad Endrino, Cueva Oscura, Lago de la Furia, Guarida Dragón y Zona Safari (Lagos, Laguna y Parterre).",
+            "Pokéwalker: Playa Cálida, Playa Tormenta y Vía Campeón.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Plata SoulSilver": [
+            "Pescando: Con cualquier caña en cualquier lugar donde haya agua. Y solo con caña vieja en la Zona Safari (Pantano).",
+            "Surf: Rutas 43, 45, Ciudad Fucsia, Monte Moon, Ciudad Endrino, Cueva Oscura, Lago de la Furia, Guarida Dragón y Zona Safari (Lagos, Laguna y Parterre).",
+            "Pokéwalker: Playa Cálida, Playa Tormenta y Vía Campeón.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Negro": [
+            "Especial: Un hombre en el Puente Progreso te lo vende a 500.",
+            "Dream World: Mar Brillante con la habilidad Cobardía."
+        ],
+        "Blanco": [
+            "Especial: Un hombre en el Puente Progreso te lo vende a 500.",
+            "Dream World: Mar Brillante con la habilidad Cobardía."
+        ],
+        "Negro 2": [
+            "Especial: Un hombre en el Puente Progreso te lo vende a 500.",
+            "Pescando: Reserva Natural.",
+            "Dream World: Mar Brillante con la habilidad Cobardía."
+        ],
+        "Blanco 2": [
+            "Especial: Un hombre en el Puente Progreso te lo vende a 500.",
+            "Pescando: Reserva Natural.",
+            "Dream World: Mar Brillante con la habilidad Cobardía."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 22, Ruta 3, Palacio Cénit.",
+            "Intercambio del videojuego: Te lo cambia un montañero que aparece en los hoteles por un Gyarados."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 22, Ruta 3, Palacio Cénit.",
+            "Intercambio del videojuego: Te lo cambia un montañero que aparece en los hoteles por un Gyarados."
+        ],
+        "Rubí Omega": [
+            "Pescando: Con caña vieja y caña buena en cualquier lugar donde haya agua. Con cualquier caña en la ruta 104 y Arrecípolis.",
+            "Surf: Arrecípolis."
+        ],
+        "Zafiro Alfa": [
+            "Pescando: Con caña vieja y caña buena en cualquier lugar donde haya agua. Con cualquier caña en la ruta 104 y Arrecípolis.",
+            "Surf: Arrecípolis."
+        ],
+        "Sol": [
+            "Pescando: Rutas 7, 8, 9, 13, 14, 15, Afueras de Akala, Colina Saltagua, Bahía Kalae, Parque de Malíe, Mar de Melemele, Pueblo Ohana, Arrecife de Poni, Pendiente de Poni, Jardines de Poni, Prado de Poni, Aldea Marina, Gruta Unemar, Playa Menor y Cañón de Poni."
+        ],
+        "Luna": [
+            "Pescando: Rutas 7, 8, 9, 13, 14, 15, Afueras de Akala, Colina Saltagua, Bahía Kalae, Parque de Malíe, Mar de Melemele, Pueblo Ohana, Arrecife de Poni, Pendiente de Poni, Jardines de Poni, Prado de Poni, Aldea Marina, Gruta Unemar, Playa Menor y Cañón de Poni."
+        ],
+        "Ultrasol": [
+            "Pescando: Rutas 7, 8, 9, 13, 14, 15, Afueras de Akala, Colina Saltagua, Bahía Kalae, Parque de Malíe, Mar de Melemele, Pueblo Ohana, Arrecife de Poni, Pendiente de Poni, Jardines de Poni, Aldea Marina, Gruta Unemar y Cañón de Poni."
+        ],
+        "Ultraluna": [
+            "Pescando: Rutas 7, 8, 9, 13, 14, 15, Afueras de Akala, Colina Saltagua, Bahía Kalae, Parque de Malíe, Mar de Melemele, Pueblo Ohana, Arrecife de Poni, Pendiente de Poni, Jardines de Poni, Aldea Marina, Gruta Unemar y Cañón de Poni."
+        ],
+        "Let's Go Pikachu!": [
+            "Especial: Un hombre en el centro Pokémon en la entrada oeste del Monte Moon lo vende por 500, al nivel 5.",
+            "Surcaaguas: Rutas 4, 6, 12, 13, 18, 19, 20, 21, 22, 23, 24, 25, Islas Espuma y Cueva Celeste."
+        ],
+        "Let's Go Eevee!": [
+            "Especial: Un hombre en el centro Pokémon en la entrada oeste del Monte Moon lo vende por 500, al nivel 5.",
+            "Surcaaguas: Rutas 4, 6, 12, 13, 18, 19, 20, 21, 22, 23, 24, 25, Islas Espuma y Cueva Celeste."
+        ],
+        "Espada": [
+            "Pescando: Ruta 2, Ruta 4, Ruta 5, Ruta 6, Ojo de Axew, Valle Entrepuentes, Lago Axew (este), Ciudad Pistón, Lago Milotic (sur), Lago Milotic (norte), Bosque Oniria.",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna."
+        ],
+        "Escudo": [
+            "Pescando: Ruta 2, Ruta 4, Ruta 5, Ruta 6, Ojo de Axew, Valle Entrepuentes, Lago Axew (este), Ciudad Pistón, Lago Milotic (sur), Lago Milotic (norte), Bosque Oniria.",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna."
+        ],
+        "Diamante Brillante": [
+            "Pescando con caña vieja o caña buena: Todo Sinnoh."
+        ],
+        "Perla Reluciente": [
+            "Pescando con caña vieja o caña buena: Todo Sinnoh."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Cascada Obsidiana, Lago Veraz, Ladera Corona:Fuente de las Hadas.",
+            "Pokémon alfa: Pradera Obsidiana:Gruta Pirita"
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "En un pasado lejano, era más fuerte que sus horribles descendientes de hoy en día.",
+        "Amarillo": "Famoso por ser poco fiable. Puede encontrarse nadando en mares, lagos, ríos y charcos",
+        "Oro": "Un Pokémon desvalido y patético. A veces es capaz de saltar alto, pero nunca más de 2 metros.",
+        "Plata": "Salta y chapotea sin razón alguna. Es una presa fácil para Pidgeotto, que lo atrapa en pleno salto.",
+        "Cristal": "Es un Pokémon débil y normal. Si la corriente del río es fuerte, se lo llevará por delante.",
+        "Rubí": "Magikarp es el triste ejemplo de un Pokémon capaz únicamente de saltar y salpicar. Esta conducta llevó a científicos a estudiarlo en profundidad.",
+        "Zafiro": "Magikarp es prácticamente inútil en combate; sólo sirve para salpicar, y se le considera muy débil. Con todo, en realidad es un Pokémon muy práctico. Sobrevive en cualquier medio acuático, aunque esté contaminado.",
+        "Esmeralda": "Los músculos con los que nada son débiles, así que se lo lleva la corriente con facilidad. Muchos Magikarp van a parar a piscinas naturales.",
+        "Rojo Fuego": "No es precisamente rápido ni fuerte. Es el Pokémon más debilucho y simplón de todos los que hay.",
+        "Verde Hoja": "En un pasado lejano, era más fuerte que sus horribles descendientes de hoy en día.",
+        "Diamante": "Se dice que es el Pokémon más débil del mundo. No se sabe cómo ha logrado sobrevivir.",
+        "Perla": "Es incapaz de nadar contra la más mínima corriente. Siempre está chapoteando.",
+        "Platino": "Si vive mucho puede llegar a saltar montañas con salpicadura, pero el movimiento no sirve para nada más.",
+        "Oro HeartGold": "Un Pokémon desvalido y patético. A veces es capaz de saltar alto, pero nunca más de 2 metros.",
+        "Plata SoulSilver": "Salta y chapotea sin razón alguna. Es una presa fácil para Pidgeotto, que lo atrapa en pleno salto.",
+        "Negro": "Si vive mucho puede llegar a saltar montañas con salpicadura, pero el movimiento no sirve para nada más.",
+        "Blanco": "Si vive mucho puede llegar a saltar montañas con salpicadura, pero el movimiento no sirve para nada más.",
+        "Negro 2": "Si vive mucho puede llegar a saltar montañas con salpicadura, pero el movimiento no sirve para nada más.",
+        "Blanco 2": "Si vive mucho puede llegar a saltar montañas con salpicadura, pero el movimiento no sirve para nada más.",
+        "Pokémon X": "No es precisamente rápido ni fuerte. Es el Pokémon más debilucho y simplón de todos los que hay.",
+        "Pokémon Y": "En un pasado lejano, era más fuerte de lo que hoy son sus débiles descendientes.",
+        "Rubí Omega": "Magikarp es el triste ejemplo de un Pokémon capaz únicamente de saltar y salpicar. Esta conducta llevó a científicos a estudiarlo en profundidad.",
+        "Zafiro Alfa": "Magikarp es prácticamente inútil en combate; solo sirve para salpicar, y se le considera muy débil. Con todo, en realidad es un Pokémon muy resistente. Sobrevive en cualquier medio acuático, aunque esté contaminado.",
+        "Sol": "Es muy débil y de poca utilidad, aunque su capacidad reproductora resulta abrumadora. Lo normal es encontrar Magikarp por doquier.",
+        "Luna": "Como lo único que hace es chapotear en el agua, resulta una presa fácil. Gracias a esto, muchos otros Pokémon pueden sobrevivir.",
+        "Ultrasol": "Al parecer, en la antigüedad había gozado de gran fuerza, pero con el paso del tiempo se ha ido debilitando hasta su estado actual.",
+        "Ultraluna": "Su resistencia le permite vivir en las aguas más turbias. Por eso se los puede ver nadando en cualquier lugar del mundo.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Famoso por su ineptitud. Nada en todo tipo de aguas, ya sean mares, lagos, ríos o charcas.",
+        "Espada": "Es el Pokémon más débil y patético que existe, con una fuerza y velocidad prácticamente nulas.",
+        "Escudo": "Este Pokémon débil y patético se limita a dejarse llevar por la corriente cuando esta tiene fuerza.",
+        "Diamante Brillante": "Dicen que es el Pokémon más débil del mundo. No se sabe cómo ha logrado sobrevivir.",
+        "Perla Reluciente": "Como es incapaz de nadar contra la más mínima corriente, siempre termina siendo arrastrado. Se pasa el día chapoteando sin razón alguna.",
+        "Leyendas: Arceus": "Es débil, inútil y patético, pero se ha constatado que tiene tal resistencia que tolera hasta aguas ponzoñosas, por lo que habita en todas partes.",
+        "Stadium": "Sea cual sea su oponente, o el horrible ataque que reciba, lo único que hace es dedicarse a SALPICAR.",
+        "Stadium 2": "Pokémon Oro insertado: Salta y chapotea sin razón alguna. Es una presa fácil para Pidgeotto, que lo atrapa en pleno salto.\nPokémon Plata insertado: Un Pokémon desvalido y patético. A veces es capaz de saltar alto, pero nunca más de 2 metros.\n",
+        "Pokémon GO": "Magikarp es el triste ejemplo de un Pokémon capaz únicamente de saltar y salpicar. Esta conducta llevó a científicos a estudiarlo en profundidad.",
+        "Ranger": "Parece que Magikarp solo es capaz de dejarse caer indefenso.",
+        "RubíZafiro": "Magikarp es prácticamente inútil en combate; solo sirve para salpicar, y se le considera muy débil. Con todo, en realidad es un Pokémon muy práctico. Sobrevive en cualquier medio acuático, aunque esté contaminado.",
+        "New Pokémon Snap": "Como habrás visto, los Magikarp suelen chapotear cerca de las orillas. Aunque su aspecto sea algo penoso, su fuerza vital puede resultar sorprendente a veces."
+    },
+    "evolution": [
+        [
+            "Magikarp",
+            "Nivel 20",
+            "Gyarados"
+        ]
+    ]
+}

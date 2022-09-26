@@ -1,0 +1,212 @@
+{
+    "dex number": "082",
+    "pokemon name": "Magneton",
+    "types": [
+        "eléctrico",
+        "acero"
+    ],
+    "abilities": [
+        "Imán (habilidad)",
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Cálculo final"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "60",
+        "def": "95",
+        "atk esp": "120",
+        "def esp": "70",
+        "speed": "70"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Central Energía, Mazmorra Rara (planta baja).",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Azul": [
+            "Salvaje: Central Energía, Mazmorra Rara (planta baja).",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Amarillo": [
+            "Salvaje: Central Energía.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Oro": [
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Plata": [
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Cristal": [
+            "Intercambiar: por un Dugtrio al lado de la Central energía.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Rubí": [
+            "Salvaje: Malvalanova.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Zafiro": [
+            "Salvaje: Malvalanova.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Malvalanova.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Central Energía, Cueva Celeste.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Verde Hoja": [
+            "Salvaje: Central Energía, Cueva Celeste.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Diamante": [
+            "Evolucionar: a Magnemite (nivel 30).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Evolucionar: a Magnemite (nivel 30).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Salvaje: Ruta 222, Calle Victoria.",
+            "Evolucionar: a Magnemite (nivel 30).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Cueva Celeste y Zona Safari (Peña y Montaña).",
+            "Intercambiar: por un Dugtrio al lado de la Central energía.",
+            "Evolucionar: a Magnemite (nivel 30).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Cueva Celeste y Zona Safari (Peña y Montaña).",
+            "Intercambiar: por un Dugtrio al lado de la Central energía.",
+            "Evolucionar: a Magnemite (nivel 30).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Blanco": [
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Negro 2": [
+            "Salvaje: Laboratorio P+P.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Laboratorio P+P.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Pokémon X": [
+            "Salvaje: Hotel Desolación.",
+            "Especial: Safari Amistad, en algunos safaris de tipo acero.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Hotel Desolación.",
+            "Especial: Safari Amistad, en algunos safaris de tipo acero.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Sol": [
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Luna": [
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Central Energía.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Central Energía.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Espada": [
+            "Salvaje: Playa Desafío, Llano Entrenamiento y Ruta Desafío",
+            "Incursiones Dinamax: Prado Reverencia, Bosque Concentración, Playa Desafío, Cueva Contienda, Cueva Tenacidad, Mar Andana y Mar Meloso",
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Salvaje: Playa Desafío, Llano Entrenamiento y Ruta Desafío",
+            "Incursiones Dinamax: Prado Reverencia, Bosque Concentración, Playa Desafío, Cueva Contienda, Cueva Tenacidad, Mar Andana y Mar Meloso",
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Magnemite (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Distorsión espaciotemporal en Costa Cobalto.",
+            "Evolucionar: a Magnemite (nivel 30)."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Están formados por Magnemite unidos. Suelen aparecer cuando arden las manchas solares.",
+        "Amarillo": "Genera extrañas señales de radio. Es capaz de elevar la temperatura 3º centígrados.",
+        "Oro": "Tres Magnemite se enlazan por una intensa fuerza magnética. Si te acercas, te dolerán los oídos.",
+        "Plata": "Los Magnemite están unidos por un magnetismo tan fuerte, que repele la humedad que hay a su alrededor.",
+        "Cristal": "Al unirse varios Magneton, se crea una tormenta magnética que trastorna las ondas de radio.",
+        "Rubí": "Magneton emite una fuerte energía magnética que causa estragos en los instrumentos mecánicos. Por ello, en las ciudades se avisa con sirenas cuando hay concentraciones de estos Pokémon.",
+        "Zafiro": "Magneton emite una fuerte energía magnética, fatal para los instrumentos electrónicos y de precisión. Éste es el motivo por el que, dicen, mucha gente mantiene a este Pokémon en Poké ball.",
+        "Esmeralda": "Son tres Magnemite que se atraen entre sí. Genera ondas de radio de gran alcance que provocan que la temperatura suba 2 grados centígrados en un radio de 1 km.",
+        "Rojo Fuego": "Lo constituye un grupo de Magnemite. Descarga potentes ondas magnéticas de alto voltaje.",
+        "Verde Hoja": "Están formados por Magnemite unidos. Suelen aparecer cuando arden las manchas solares.",
+        "Diamante": "Realmente son tres Magnemite unidos por un campo magnético. Provocan tormentas magnéticas.",
+        "Perla": "Realmente son tres Magnemite unidos por un campo magnético. Provocan tormentas magnéticas.",
+        "Platino": "Surgen cuando aparecen manchas en el sol. Los televisores no funcionan bien en su presencia.",
+        "Oro HeartGold": "Tres Magnemite se enlazan por una intensa fuerza magnética. Si te acercas, te dolerán los oídos.",
+        "Plata SoulSilver": "Los Magnemite están unidos por un magnetismo tan fuerte, que repele la humedad que hay a su alrededor.",
+        "Negro": "Surgen cuando aparecen manchas en el sol. Los televisores no funcionan bien en su presencia.",
+        "Blanco": "Surgen cuando aparecen manchas en el sol. Los televisores no funcionan bien en su presencia.",
+        "Negro 2": "Los tres Magmemite unidos generan unas fuertes ondas electromagnéticas que secan la humedad a su alrededor.",
+        "Blanco 2": "Los tres Magmemite unidos generan unas fuertes ondas electromagnéticas que secan la humedad a su alrededor.",
+        "Pokémon X": "Lo constituye un grupo de Magnemite. Descarga potentes ondas magnéticas de alto voltaje.",
+        "Pokémon Y": "Es capaz de elevar 2 ºC la temperatura en un radio de un kilómetro emitiendo extrañas ondas electromagnéticas.",
+        "Rubí Omega": "Magneton emite una fuerte energía magnética que causa estragos en los instrumentos mecánicos. Por ello, en las ciudades se avisa con sirenas cuando hay concentraciones de estos Pokémon.",
+        "Zafiro Alfa": "Magneton emite una fuerte energía magnética, fatal para los instrumentos electrónicos y de precisión. Este es el motivo por el que, dicen, mucha gente mantiene a este Pokémon en su Poké Ball.",
+        "Sol": "Cuando tres Magnemite se unen, sus cerebros se convierten en uno. No obstante, su inteligencia no se multiplica por tres.",
+        "Luna": "Su poder eléctrico es unas tres veces superior al de Magnemite. Aparecen en gran cantidad cuando se vislumbran muchas manchas solares.",
+        "Ultrasol": "Las misteriosas ondas eléctricas que emiten provocan toda clase de averías en la electrónica de precisión allí donde viven.",
+        "Ultraluna": "Cuando se forman nubes de tormenta, se congregan en las alturas aguardando a que caigan rayos.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Es capaz de elevar 2 °C la temperatura en un radio de 1 km emitiendo extrañas ondas electromagnéticas.",
+        "Espada": "Este Pokémon, surgido de la unión de tres Magnemite, genera potentes ondas de radio con las que examina el entorno.",
+        "Escudo": "Emite de forma constante una potente fuerza magnética que causa estragos en prácticamente cualquier ordenador al que se acerque.",
+        "Diamante Brillante": "Realmente son tres Magnemite unidos por un campo magnético. Cuando se juntan varios, provocan tormentas magnéticas.",
+        "Perla Reluciente": "Realmente son tres Magnemite unidos por un campo magnético. Cuando se juntan varios, provocan tormentas magnéticas.",
+        "Leyendas: Arceus": "Son tres Magnemite que evolucionaron al unirse. Su fuerte magnetismo puede causar averías en el equipo de investigación, lo que es un engorro.",
+        "Stadium": "Formado por MAGNEMITE que se unen cuando el número de puntos negros del sol aumenta. Desprende energía de alto voltaje.",
+        "Stadium 2": "Pokémon Oro insertado: Los Magnemite están unidos por un magnetismo tan fuerte, que repele la humedad que hay a su alrededor.\nPokémon Plata insertado: Tres Magnemite se enlazan por una intensa fuerza magnética. Si te acercas, te dolerán los oídos.\n",
+        "Pokémon GO": "Magneton emite una fuerte energía magnética que causa estragos en los instrumentos mecánicos. Por ello, en las ciudades se avisa con sirenas cuando hay concentraciones de estos Pokémon.",
+        "Ranger": "Magneton genera electricidad con su magnetismo para recargar tu Capturador.",
+        "Sombras de Almia": "Libera electricidad con el cuerpo y se protege con una barrera eléctrica.",
+        "RubíZafiro": "Magneton emite una fuerte energía magnética, fatal para los instrumentos electrónicos y de precisión. Éste es el motivo por el que, dicen, mucha gente mantiene a este Pokémon en Poké ball."
+    },
+    "evolution": [
+        [
+            "Magnemite",
+            "Nivel 30",
+            "Magneton",
+            "Subir un nivel en un campo magnético especial3;o piedra trueno4 ",
+            "Magnezone"
+        ]
+    ]
+}

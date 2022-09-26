@@ -1,0 +1,188 @@
+{
+    "dex number": "023",
+    "pokemon name": "Ekans",
+    "types": [
+        "veneno"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Mudar"
+    ],
+    "hidden abilities": [
+        "Nerviosismo"
+    ],
+    "stats": {
+        "hp": "35",
+        "atk": "60",
+        "def": "44",
+        "atk esp": "40",
+        "def esp": "54",
+        "speed": "55"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Rutas 4, 8, 9, 10, 11, 23."
+        ],
+        "Azul": [
+            "Intercambiar: de Pokémon Rojo, Pokémon Oro y Plata o Pokémon Cristal"
+        ],
+        "Amarillo": [
+            "Intercambiar: de Pokémon Rojo, Pokémon Oro y Plata o Pokémon Cristal"
+        ],
+        "Oro": [
+            "Especial: Casino de Ciudad Trigal por 700 fichas."
+        ],
+        "Plata": [
+            "Salvaje, todo el día: Rutas 3, 4, 32 y 33."
+        ],
+        "Cristal": [
+            "Salvaje, mañana y día: Rutas 3, 4, 32, 33 y 42.",
+            "Golpe cabeza"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Rutas 4, 8, 9, 10, 11 y 23."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rojo Fuego"
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 212 Sur (con Pokémon Rojo Fuego insertado)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Salvaje: Ruta 212 Sur (con Pokémon Rojo Fuego insertado)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje: Ruta 212 Sur (con Pokémon Rojo Fuego insertado)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari (Albufera).",
+            "Especial: Casino de Ciudad Trigal por 700 fichas.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Rutas 3, 4, 32, 33 y Zona Safari (Albufera), día: ruta 37.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Dream World: En el Parque de los Sueños con la habilidad Nerviosismo.",
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Dream World: En el Parque de los Sueños con la habilidad Nerviosismo.",
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Dream World: En el Parque de los Sueños con la habilidad Nerviosismo.",
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Dream World: En el Parque de los Sueños con la habilidad Nerviosismo.",
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 14 (Horda)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 14 (Horda)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 2"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 2"
+        ],
+        "Let's Go Pikachu!": [
+            "Intercambiar: de Pokémon: Let's Go, Eevee!",
+            "Especial: GO Park Transferir desde Pokémon GO"
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Ruta 3 y Ruta 4",
+            "Especial: Transferir desde Pokémon GO.* Especial: GO Park Transferir desde Pokémon GO"
+        ],
+        "Espada": [
+            "Ekans no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Ekans no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante"
+        ],
+        "Leyendas: Arceus": [
+            "Ekans no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Es muy silencioso y sigiloso. Come huevos de pájaros como los de Pidgey y Spearow.",
+        "Amarillo": "Cuanto más viejo, más crece este Pokémon. Por la noche, descansa en las ramas de los árboles.",
+        "Oro": "Puede separar su mandíbula para engullir a grandes presas, aunque esto le dificulte el movimiento.",
+        "Plata": "Siempre se esconde en la hierba. Como no tiene veneno al nacer, su mordisco es doloroso pero inofensivo.",
+        "Cristal": "Percibe el olor de su presa moviendo la lengua. Cuando atrapa algo, se lo traga entero, sin masticarlo.",
+        "Rubí": "Ekans se enrosca para descansar. Adoptando esta posición puede responder rápidamente a cualquier amenaza que le aceche desde cualquier lugar, levantando la cabeza con una feroz mirada.",
+        "Zafiro": "Ekans se enrosca para descansar. Adoptando esta posición puede responder rápidamente a cualquier amenaza que le aceche desde cualquier lugar, levantando la cabeza con una feroz mirada.",
+        "Esmeralda": "Se enrosca para descansar. Esta posición le permite responder rápidamente en caso de amenaza, pues le basta erguir la cabeza con ferocidad en cualquier dirección.",
+        "Rojo Fuego": "Es fácil encontrarlo en praderas y zonas similares. A este Pokémon le basta con sacar la lengua para detectar el peligro.",
+        "Verde Hoja": "Es muy silencioso y cauteloso. Come huevos de pájaros como Pidgey y Spearow.",
+        "Diamante": "Se mueve por la hierba en silencio y sorprende a sus presas atacando por detrás.",
+        "Perla": "Se mueve por la hierba en silencio y sorprende a sus presas atacando por detrás.",
+        "Platino": "Se mueve por la hierba en silencio y sorprende a sus presas atacando por detrás.",
+        "Oro HeartGold": "Puede separar su mandíbula para engullir a grandes presas, aunque esto le dificulte el movimiento.",
+        "Plata SoulSilver": "Siempre se esconde en la hierba. Como no tiene veneno al nacer, su mordisco es doloroso pero inofensivo.",
+        "Negro": "Se mueve por la hierba en silencio y sorprende a sus presas atacando por detrás.",
+        "Blanco": "Se mueve por la hierba en silencio y sorprende a sus presas atacando por detrás.",
+        "Negro 2": "Se mueve por la hierba en silencio y sorprende a sus presas atacando por detrás.",
+        "Blanco 2": "Se mueve por la hierba en silencio y sorprende a sus presas atacando por detrás.",
+        "Pokémon X": "Cuanto más viejo, más crece este Pokémon. Por la noche, descansa en las ramas de los árboles.",
+        "Pokémon Y": "Es muy silencioso y sigiloso. Come huevos de pájaros como los de Pidgey y Spearow.",
+        "Rubí Omega": "Ekans se enrosca para descansar. Adoptando esta posición puede responder rápidamente a cualquier amenaza que le aceche desde cualquier lugar, levantando la cabeza con una feroz mirada.",
+        "Zafiro Alfa": "Ekans se enrosca para descansar. Adoptando esta posición puede responder rápidamente a cualquier amenaza que le aceche desde cualquier lugar, levantando la cabeza con una feroz mirada.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Es capaz de desencajar la mandíbula para engullir presas enteras mayores que él mismo, tras lo cual se enrosca para descansar.",
+        "Ultraluna": "Los huevos de Pokémon pájaro son su manjar predilecto. Como se los traga enteros, en ocasiones se atraganta y pierde el conocimiento.",
+        "Let's Go Pikachu!Let's Go Eevee!": "La longitud de este Pokémon aumenta con el tiempo. Por la noche, se enrosca en las ramas de los árboles para descansar.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Se mueve por la hierba en silencio y sorprende a sus presas atacando por detrás.",
+        "Perla Reluciente": "Se mueve por la hierba en silencio y sorprende a sus presas atacando por detrás.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Se desliza silenciosamente por la hierba, buscando su comida favorita: huevos de PIDGEY y SPEAROW.",
+        "Stadium 2": "Pokémon Oro insertado: Siempre se esconde en la hierba. Como no tiene veneno al nacer, su mordisco es doloroso pero inofensivo.\nPokémon Plata insertado: Puede separar su mandíbula para engullir a grandes presas, aunque esto le dificulte el movimiento.\n",
+        "Pokémon GO": "Ekans se enrosca para descansar. Adoptando esta posición puede responder rápidamente a cualquier amenaza que le aceche desde cualquier lugar, levantando la cabeza con una feroz mirada.",
+        "Ranger": "Si ve un Disco de Captura, Ekans se deslizará hacia él sin dudarlo."
+    },
+    "evolution": [
+        [
+            "Ekans",
+            "Nivel 22",
+            "Arbok"
+        ]
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "dex number": "148",
+    "pokemon name": "Dragonair",
+    "types": [
+        "dragón"
+    ],
+    "abilities": [
+        "Mudar"
+    ],
+    "hidden abilities": [
+        "Escama especial"
+    ],
+    "stats": {
+        "hp": "61",
+        "atk": "84",
+        "def": "65",
+        "atk esp": "70",
+        "def esp": "70",
+        "speed": "70"
+    },
+    "location": {
+        "Rojo": [
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Azul": [
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Amarillo": [
+            "Pescando (Supercaña): Zona Safari",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Oro": [
+            "Pescando (Supercaña): Ruta 45, Guarida Dragón",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Plata": [
+            "Pescando (Supercaña): Ruta 45, Guarida Dragón",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Cristal": [
+            "Pescando (Supercaña): Ruta 45, Guarida Dragón",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Pescando (Supercaña): Zona Safari",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Verde Hoja": [
+            "Pescando (Supercaña): Zona Safari",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Diamante": [
+            "Pescando (Supercaña): Monte Corona (interior, tras la cascada donde está ubicada la tabla pétrea)",
+            "Evolucionar: a Dratini (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Perla": [
+            "Pescando (Supercaña): Monte Corona (interior, tras la cascada donde está ubicada la tabla pétrea)",
+            "Evolucionar: a Dratini (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Platino": [
+            "Pescando (Supercaña): Monte Corona (interior, tras la cascada donde está ubicada la tabla pétrea)",
+            "Evolucionar: a Dratini (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Oro HeartGold": [
+            "Pescando (Supercaña): Guarida Dragón, Zona Safari (Lagos)",
+            "Evolucionar: a Dratini (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Plata SoulSilver": [
+            "Pescando (Supercaña): Guarida Dragón, Zona Safari (Lagos)",
+            "Evolucionar: a Dratini (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Negro": [
+            "Pescando: Torre Duodraco (sombra de agua)",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Blanco": [
+            "Pescando: Torre Duodraco (sombra de agua)",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Negro 2": [
+            "Pescando: Torre Duodraco (sombra de agua)",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Blanco 2": [
+            "Pescando: Torre Duodraco (sombra de agua)",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Pokémon X": [
+            "Pescando (Supercaña): Ruta 21 (al lado de la cabaña del tutor dragón)",
+            "Especial: Safari Amistad, en algunos safaris de tipo dragón",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Pokémon Y": [
+            "Pescando (Supercaña): Ruta 21 (al lado de la cabaña del tutor dragón)",
+            "Especial: Safari Amistad, en algunos safaris de tipo dragón",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y"
+        ],
+        "Sol": [
+            "Pescando: Cañón de Poni, Jardines de Poni y Pendiente de Poni (como refuerzo de Dratini)",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Luna": [
+            "Pescando: Cañón de Poni, Jardines de Poni y Pendiente de Poni (como refuerzo de Dratini)",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Ultrasol": [
+            "Pescando: Jardines de Poni y Pendiente de Poni (como refuerzo de Dratini)",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Ultraluna": [
+            "Pescando: Jardines de Poni y Pendiente de Poni (como refuerzo de Dratini)",
+            "Evolucionar: a Dratini (nivel 30)"
+        ],
+        "Let's Go Pikachu!": [
+            "TS Surcaaguas: Ruta 10.",
+            "Evolucionar: a Dratini (nivel 30)."
+        ],
+        "Let's Go Eevee!": [
+            "TS Surcaaguas: Ruta 10.",
+            "Evolucionar: a Dratini (nivel 30)."
+        ],
+        "Espada": [
+            "Salvaje: Lago Bolaguna ",
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Salvaje: Lago Bolaguna ",
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Pescando con Supercaña: Monte Corona.",
+            "Evolucionar: a Dratini (nivel 30)."
+        ],
+        "Perla Reluciente": [
+            "Pescando con Supercaña: Monte Corona.",
+            "Evolucionar: a Dratini (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Dragonair no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Un místico Pokémon rodeado de una sutil aura y con capacidad de cambiar la climatología",
+        "Amarillo": "De acuerdo con un testigo, un aura de extraña forma lo rodea, dándole un misterioso y místico aspecto.",
+        "Oro": "Dicen que cuando su cuerpo desprende un aura, el tiempo empieza a cambiar inmediatamente.",
+        "Plata": "Sus cristalinos orbes parecen darle al Pokémon el poder de controlar el clima libremente.",
+        "Cristal": "Se refieren a él como el Pokémon divino. Cuando le brilla el cuerpo, el tiempo cambia inmediatamente.",
+        "Rubí": "Dragonair acumula grandes cantidades de energía dentro de sí. Dicen que altera el clima de la zona en la que está, descargando energía a través de las esferas de cristal que tiene en el cuello y en la cola.",
+        "Zafiro": "Dragonair acumula grandes cantidades de energía dentro de sí. Dicen que altera el clima de la zona en la que está, descargando energía a través de las esferas de cristal que tiene en el cuello y en la cola.",
+        "Esmeralda": "Acumula gran cantidad de energía. Dicen que altera el clima descargando energía por las esferas de cristal que tiene en el cuello y en la cola.",
+        "Rojo Fuego": "Dicen que habita ríos y mares. Aunque no tiene alas, a veces se le ha visto volar.",
+        "Verde Hoja": "Es un Pokémon misterioso. Está rodeado de una sutil aura y tiene la capacidad de cambiar el clima.",
+        "Diamante": "Si su cuerpo está rodeado de un aura, el tiempo cambia de repente. Se dice que vive en mares y lagos.",
+        "Perla": "Si su cuerpo está rodeado de un aura, el tiempo cambia de repente. Se dice que vive en mares y lagos.",
+        "Platino": "Si su cuerpo está rodeado de un aura, el tiempo cambia de repente. Se dice que vive en mares y lagos.",
+        "Oro HeartGold": "Dicen que cuando su cuerpo desprende un aura, el tiempo empieza a cambiar inmediatamente.",
+        "Plata SoulSilver": "Sus cristalinos orbes parecen darle al Pokémon el poder de controlar el clima libremente.",
+        "Negro": "Si su cuerpo está rodeado de un aura, el tiempo cambia de repente. Se dice que vive en mares y lagos.",
+        "Blanco": "Si su cuerpo está rodeado de un aura, el tiempo cambia de repente. Se dice que vive en mares y lagos.",
+        "Negro 2": "Si su cuerpo está rodeado de un aura, el tiempo cambia de repente. Se dice que vive en mares y lagos.",
+        "Blanco 2": "Si su cuerpo está rodeado de un aura, el tiempo cambia de repente. Se dice que vive en mares y lagos.",
+        "Pokémon X": "Sus cristalinos orbes parecen darle al Pokémon el poder de controlar el clima libremente.",
+        "Pokémon Y": "Es un Pokémon misterioso. Está rodeado de una sutil aura y tiene la capacidad de cambiar el clima.",
+        "Rubí Omega": "Dragonair acumula grandes cantidades de energía dentro de sí. Dicen que altera el clima de la zona en la que está, descargando energía a través de las esferas de cristal que tiene en el cuello y en la cola.",
+        "Zafiro Alfa": "Dragonair acumula grandes cantidades de energía dentro de sí. Dicen que altera el clima de la zona en la que está, descargando energía a través de las esferas de cristal que tiene en el cuello y en la cola.",
+        "Sol": "Se dice que sus cristalinos orbes confieren a este Pokémon el poder de controlar el clima.",
+        "Luna": "Ha sido venerado desde tiempos ancestrales por los pueblos agrícolas, debido a que con sus poderes puede controlar el clima.",
+        "Ultrasol": "Existe la creencia de que puede controlar el clima y a menudo se hallan ofrendas a orillas de los lagos donde habita.",
+        "Ultraluna": "Se dice que ver a este Pokémon serpenteando por los cielos en año nuevo es augurio de buena salud para el año entrante.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Según un testigo, está rodeado por una extraña aura, que le da un aspecto misterioso y místico.",
+        "Espada": "Vive en lagos y mares de aguas cristalinas. Su poder para controlar el clima le permite alzar el vuelo llevado por el viento.",
+        "Escudo": "Acumula energía en las esferas de la cola para controlar el clima. La sutil aura que lo rodea le confiere un aspecto misterioso y místico.",
+        "Diamante Brillante": "Cuando un aura le rodea el cuerpo, el clima cambia de repente. Se dice que vive en mares y lagos.",
+        "Perla Reluciente": "Cuando un aura le rodea el cuerpo, el clima cambia de repente. Se dice que vive en mares y lagos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Vive en grandes acumulaciones de agua, como el mar o los lagos. Se dice que es capaz de variar el tiempo y volar.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Dragonair acumula grandes cantidades de energía dentro de sí. Dicen que altera el clima de la zona en la que está, descargando energía a través de las esferas de cristal que tiene en el cuello y en la cola.",
+        "Ranger": "Dragonair anda lentamente, pero a veces puede saltar y ponerse a volar.",
+        "Sombras de Almia": "Ataca lanzando llamas azules y se protege con una barrera misteriosa."
+    },
+    "evolution": [
+        [
+            "Dratini",
+            "Nivel 30",
+            "Dragonair",
+            "Nivel 55",
+            "Dragonite"
+        ]
+    ]
+}

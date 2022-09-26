@@ -1,0 +1,208 @@
+{
+    "dex number": "113",
+    "pokemon name": "Chansey",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Cura natural",
+        "Dicha"
+    ],
+    "hidden abilities": [
+        "Alma cura"
+    ],
+    "stats": {
+        "hp": "250",
+        "atk": "5",
+        "def": "5",
+        "atk esp": "35",
+        "def esp": "105",
+        "speed": "50"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Zona Safari y Mazmorra Rara"
+        ],
+        "Azul": [
+            "Salvaje: Zona Safari y Mazmorra Rara"
+        ],
+        "Amarillo": [
+            "Salvaje: Zona Safari y Mazmorra Rara"
+        ],
+        "Oro": [
+            "Salvaje: Ruta 13, Ruta 14 y Ruta 15"
+        ],
+        "Plata": [
+            "Salvaje: Ruta 13, Ruta 14 y Ruta 15"
+        ],
+        "Cristal": [
+            "Salvaje: Ruta 13, Ruta 14 y Ruta 15"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja o Pokémon XD"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja o Pokémon XD"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja o Pokémon XD"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Zona Safari"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Zona Safari"
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 209, Ruta 210 y Jardín Trofeo",
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Salvaje: Ruta 209, Ruta 210 y Jardín Trofeo",
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Salvaje: Ruta 209, Ruta 210 y Jardín Trofeo",
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Ruta 13, Ruta 14, Ruta 15 y Zona Safari (parterre)",
+            "Manada Pokémon: Ruta 13",
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Ruta 13, Ruta 14, Ruta 15 y Zona Safari (parterre)",
+            "Manada Pokémon: Ruta 13",
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco": [
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo normal"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo normal"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)"
+        ],
+        "Sol": [
+            " Salvaje:",
+            "Ruta 12 y Monte Rubor (como refuerzo de Elekid)",
+            "Pico Hokulani (como refuerzo de Cleffa, solo de noche)",
+            "Bosque de Poni (como refuerzo de Riolu)",
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)"
+        ],
+        "Luna": [
+            " Salvaje:",
+            "Ruta 12 y Monte Rubor (como refuerzo de Elekid)",
+            "Pico Hokulani (como refuerzo de Cleffa, solo de noche)",
+            "Bosque de Poni (como refuerzo de Riolu)",
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)"
+        ],
+        "Ultrasol": [
+            " Salvaje: Llanura de Poni",
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)"
+        ],
+        "Ultraluna": [
+            " Salvaje: Llanura de Poni",
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Ruta 5, Ruta 6, Ruta 8, Ruta 9, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 21, Ruta 23, Monte Moon, Cueva Diglett, Torre Pokémon, Central de Energía, Mansión Pokémon, Ruta 5 y Calle Victoria (planta baja); solo con uso de colonia y/o alta racha de capturas"
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Ruta 5, Ruta 6, Ruta 8, Ruta 9, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 21, Ruta 23, Monte Moon, Cueva Diglett, Torre Pokémon, Central de Energía, Mansión Pokémon, Ruta 5 y Calle Victoria (planta baja); solo con uso de colonia y/o alta racha de capturas"
+        ],
+        "Espada": [
+            "Salvaje: Cueva Contienda, Playa Desafío, Ruta Desafío, Cueva Tenacidad, Prado Reverencia, Bosque Concentración, Isla Melosa, Bahía Circular, Cuenca Arenosa, Gruta Calentamiento, Humedal Frescor, Mar Andana, Llano Entrenamiento y Mar Gimnástico",
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Salvaje: Cueva Contienda, Playa Desafío, Ruta Desafío, Cueva Tenacidad, Prado Reverencia, Bosque Concentración, Isla Melosa, Bahía Circular, Cuenca Arenosa, Gruta Calentamiento, Humedal Frescor, Mar Andana, Llano Entrenamiento y Mar Gimnástico",
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Ruta 209, Ruta 210 (Sur) y Jardín Trofeo.",
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Ruta 209, Ruta 210 (Sur) y Jardín Trofeo.",
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Cascada Obsidiana. Costa Cobalto: Cala Oculta. Tundra Alba:Desfiladero Alud",
+            "Pokémon alfa: Camino del Tómbolo",
+            "Evolucionar: a Happiny (nivel, día, piedra oval equipada)."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Un raro y evasivo Pokémon que, según dicen, trae la felicidad a aquellos que lo atrapan.",
+        "Amarillo": "Este amable Pokémon es capaz de compartir sus nutrientes huevos con un Pokémon herido.",
+        "Oro": "Camina con cuidado para que no se rompa su huevo. Sin embargo, es extremadamente rápido escapando.",
+        "Plata": "Poco numerosos y difíciles de capturar. Dicen que trae la felicidad al que los captura.",
+        "Cristal": "Es un Pokémon muy codiciado por los nutritivos huevos que lleva. Pero es realmente difícil dar con él.",
+        "Rubí": "Chansey pone a diario huevos con un valor nutritivo altísimo. Están tan ricos que hasta quien no tenga hambre se los comerá en un abrir y cerrar de ojos.",
+        "Zafiro": "Chansey pone a diario huevos con un valor nutritivo altísimo. Están tan ricos que hasta quien no tenga hambre se los comerá en un abrir y cerrar de ojos.",
+        "Esmeralda": "Pone a diario huevos con un enorme valor nutritivo. Están tan ricos que hasta quien no tenga hambre se los comerá en un abrir y cerrar de ojos.",
+        "Rojo Fuego": "Pone varios huevos al día. Según parece son muy nutritivos y están riquísimos.",
+        "Verde Hoja": "Un raro y evasivo Pokémon que, según dicen, lleva la felicidad a quienes lo atrapan.",
+        "Diamante": "Se dice que reparte felicidad. Es compasivo y reparte sus huevos entre la gente herida.",
+        "Perla": "Pone varios huevos al día, pero no los comparte con aquellos que albergan el mal en su corazón.",
+        "Platino": "Un generoso Pokémon que pone huevos muy nutritivos y los da a personas o Pokémon heridos.",
+        "Oro HeartGold": "Camina con cuidado para que no se rompa su huevo. Sin embargo, es extremadamente rápido escapando.",
+        "Plata SoulSilver": "Poco numerosos y difíciles de capturar. Dicen que trae la felicidad al que los captura.",
+        "Negro": "Un generoso Pokémon que pone huevos muy nutritivos y los da a personas o Pokémon heridos.",
+        "Blanco": "Un generoso Pokémon que pone huevos muy nutritivos y los da a personas o Pokémon heridos.",
+        "Negro 2": "Un generoso Pokémon que pone huevos muy nutritivos y los da a personas o Pokémon heridos.",
+        "Blanco 2": "Un generoso Pokémon que pone huevos muy nutritivos y los da a personas o Pokémon heridos.",
+        "Pokémon X": "Se dice que reparte felicidad. Se caracteriza por su compasión y reparte huevos entre la gente herida.",
+        "Pokémon Y": "Pone varios huevos al día. Según parece son muy nutritivos y están riquísimos.",
+        "Rubí Omega": "Chansey pone a diario huevos con un valor nutritivo altísimo. Están tan ricos que hasta quien no tenga hambre se los comerá en un abrir y cerrar de ojos.",
+        "Zafiro Alfa": "Chansey pone a diario huevos con un valor nutritivo altísimo. Están tan ricos que hasta quien no tenga hambre se los comerá en un abrir y cerrar de ojos.",
+        "Sol": "Los huevos que pone Chansey tienen un valor nutritivo altísimo. Muchos Pokémon los consideran un manjar.",
+        "Luna": "Es un Pokémon poco común que escapa rápidamente, por lo que quienes se topen con uno pueden considerarse afortunados.",
+        "Ultrasol": "Ha desarrollado gran velocidad para huir de los Pokémon que quieren robarle sus huevos, que son exquisitos y poseen un gran valor nutritivo.",
+        "Ultraluna": "Su número ha disminuido espectacularmente debido al constante hurto del que son objeto sus huevos.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Este amable Pokémon comparte sus nutritivos huevos con quien encuentre herido.",
+        "Espada": "Los huevos que pone Chansey tienen un valor nutritivo altísimo y un sabor exquisito. Se consideran un manjar.",
+        "Escudo": "Este Pokémon solía ser lento de reflejos, pero ha desarrollado una gran velocidad para evitar que le roben sus preciados huevos.",
+        "Diamante Brillante": "Se dice que trae la felicidad. Es un Pokémon amable que comparte sus huevos con la gente herida.",
+        "Perla Reluciente": "Pone varios huevos al día, pero no los comparte con aquellos que albergan el mal en su corazón.",
+        "Leyendas: Arceus": "Este Pokémon de corazón puro comparte con aquellos que están heridos sus preciados huevos, comúnmente conocidos como \"alejamédicos\" por sus altas propiedades nutritivas.",
+        "Stadium": "Desprende suculentos huevos cada día. Si lo tratas con amor y cariño, sus huevos se volverán más deliciosos todavía.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Chansey pone a diario huevos con un valor nutritivo altísimo. Están tan ricos que hasta quien no tenga hambre se los comerá en un abrir y cerrar de ojos."
+    },
+    "evolution": [
+        [
+            "Happiny",
+            "Nivel (día) equipada con Piedra oval ",
+            "Chansey",
+            "Amistad+ nivel",
+            "Blissey"
+        ]
+    ]
+}

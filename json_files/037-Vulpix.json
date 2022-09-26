@@ -1,0 +1,191 @@
+{
+    "dex number": "037",
+    "pokemon name": "Vulpix",
+    "types": [
+        "fuego"
+    ],
+    "abilities": [
+        "Absorbe fuego"
+    ],
+    "hidden abilities": [
+        "Sequía"
+    ],
+    "stats": {
+        "hp": "38",
+        "atk": "41",
+        "def": "40",
+        "atk esp": "50",
+        "def esp": "65",
+        "speed": "65"
+    },
+    "location": {
+        "Rojo": [
+            "Intercambiar: de Pokémon Azul, Pokémon Amarillo o Pokémon Plata"
+        ],
+        "Azul": [
+            "Salvaje: Ruta 7, Ruta 8 y Mansión Pokémon"
+        ],
+        "Amarillo": [
+            "Especial: Canjear en el Casino Rocket por 1000 fichas"
+        ],
+        "Oro": [
+            "Intercambiar: de Pokémon Azul, Pokémon Amarillo o Pokémon Plata"
+        ],
+        "Plata": [
+            "Salvaje: Ruta 7, Ruta 8, Ruta 36 y Ruta 37"
+        ],
+        "Cristal": [
+            "Intercambiar: de Pokémon Azul, Pokémon Amarillo o Pokémon Plata"
+        ],
+        "Rubí": [
+            "Salvaje: Zona exterior del Monte Pírico"
+        ],
+        "Zafiro": [
+            "Salvaje: Zona exterior del Monte Pírico"
+        ],
+        "Esmeralda": [
+            "Salvaje: Zona exterior del Monte Pírico"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Verde Hoja o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Ruta 7, Ruta 8 y Mansión Pokémon"
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 209 y Ruta 214 (con Pokémon Verde Hoja insertado)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Salvaje: Ruta 209 y Ruta 214 (con Pokémon Verde Hoja insertado)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Salvaje: Ruta 209 y Ruta 214 (con Pokémon Verde Hoja insertado)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Rutas 7, 8, 36, 37 y 48",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Salvaje: Santuario Abundancia",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco": [
+            "Salvaje: Santuario Abundancia",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Negro 2": [
+            "Salvaje: Santuario Abundancia",
+            "Claro oculto: Santuario Abundancia.",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco 2": [
+            "Salvaje: Santuario Abundancia",
+            "Claro oculto: Santuario Abundancia.",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Pokémon X": [
+            "Criar: de Ninetales"
+        ],
+        "Pokémon Y": [
+            "Criar: de Ninetales"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Zona exterior del Monte Pírico y Bosque Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Zona exterior del Monte Pírico y Bosque Espejismo"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Let's Go Pikachu!": [
+            "Intercambiar: de Pokémon: Let's Go, Eevee!",
+            "Especial: Transferir desde Pokémon GO"
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Ruta 5, Ruta 6, Ruta 7 y Ruta 8"
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Ruta 3 y Estadio de Pistón",
+            "Área Silvestre: Cornisa de Artejo, Espejo del Gigante y Cuenca Polvorienta (tiempo soleado)",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida."
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Estadio de Pistón",
+            "Área Silvestre: Cornisa de Artejo, Espejo del Gigante y Cuenca Polvorienta (tiempo soleados)"
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente"
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Costa Cobalto: Cabo Rocavelo."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Cuando nace sólo tiene una cola, pero a medida que crece, ésta se va dividiendo desde la punta.",
+        "Amarillo": "Su piel y colas son preciosas. Cuando crecen las colas, se dividen formando nuevas colas.",
+        "Oro": "A medida que crece, su blanca cola gana color y se divide en seis. Es cálido y adorable.",
+        "Plata": "Si le ataca un enemigo más fuerte que él, finge estar herido para confundirle y huir.",
+        "Cristal": "A medida que crece se le embellecen las seis colas. Además, adquiere un elegante pelaje.",
+        "Rubí": "Al nacer, Vulpix tiene una cola blanca que se divide en seis si recibe cariño por parte de su Entrenador. Las seis colas se le rizan de manera majestuosa.",
+        "Zafiro": "En el interior del cuerpo de Vulpix arde una llama que nunca se extingue. Durante el día, cuando suben las temperaturas, este Pokémon libera llamas por la boca para evitar recalentarse.",
+        "Esmeralda": "Puede controlar el fuego a su antojo y libera llamas por la boca. Tiene seis colas cuya temperatura sube de forma radical justo antes de evolucionar.",
+        "Rojo Fuego": "De pequeño, tiene seis colas increíbles. A medida que crece, le van saliendo más.",
+        "Verde Hoja": "Cuando nace sólo tiene una cola, pero a medida que crece, ésta se va dividiendo desde la punta.",
+        "Diamante": "Controla bolas de fuego. A medida que crece, sus seis colas se multiplican.",
+        "Perla": "Controla bolas de fuego. A medida que crece, sus seis colas se multiplican.",
+        "Platino": "Controla bolas de fuego. A medida que crece, sus seis colas se multiplican.",
+        "Oro HeartGold": "A medida que crece, su blanca cola gana color y se divide en seis. Es cálido y adorable.",
+        "Plata SoulSilver": "Si le ataca un enemigo más fuerte que él, finge estar herido para confundirle y huir.",
+        "Negro": "Controla bolas de fuego. A medida que crece, sus seis colas se multiplican.",
+        "Blanco": "Controla bolas de fuego. A medida que crece, sus seis colas se multiplican.",
+        "Negro 2": "Su pelaje va adquiriendo más brillo a medida que sus seis colas crecen. Al abrazarlo, emana una ligera calidez.",
+        "Blanco 2": "Su pelaje va adquiriendo más brillo a medida que sus seis colas crecen. Al abrazarlo, emana una ligera calidez.",
+        "Pokémon X": "Cuando nace sólo tiene una cola, pero a medida que crece, ésta se va dividiendo desde la punta.",
+        "Pokémon Y": "De pequeño, tiene seis colas increíbles. A medida que crece, le van saliendo más.",
+        "Rubí Omega": "Al nacer, Vulpix tiene una cola blanca que se divide en seis si recibe cariño por parte de su Entrenador. Las seis colas se le rizan de forma majestuosa.",
+        "Zafiro Alfa": "En el interior del cuerpo de Vulpix arde una llama que nunca se extingue. Durante el día, cuando suben las temperaturas, este Pokémon libera llamas por la boca para evitar recalentarse.",
+        "Sol": "Es muy popular por su pelaje y sus colas. A medida que crece, las colas se dividen y aumentan en número.",
+        "Luna": "Lanza llamas por la boca que se asemejan a fuegos fatuos, por lo que algunos las confunden con fantasmas.",
+        "Ultrasol": "Es muy popular por sus hermosas colas. Hay que cepillárselas a menudo o, de lo contrario, se le hacen enredos todo el rato.",
+        "Ultraluna": "Es capaz de controlar bolas de fuego con las que atrapa a sus presas. Le coge apego a quien lo críe desde cachorro, cual Pokémon Perrito.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Sus colas y pelaje son preciosos. A medida que crece, las colas se dividen y forman otras nuevas.",
+        "Espada": "De pequeño, tiene seis colas de gran belleza. A medida que crece, le van saliendo más.",
+        "Escudo": "Su pelaje se va volviendo más suave, lustroso y bello a medida que le crecen las seis colas. Al abrazarlo, emana una ligera calidez.",
+        "Diamante Brillante": "Es capaz de controlar bolas de fuego. A medida que crece, sus seis colas se multiplican al dividirse desde la punta.",
+        "Perla Reluciente": "Es capaz de controlar bolas de fuego. A medida que crece, sus seis colas se multiplican al dividirse desde la punta.",
+        "Leyendas: Arceus": "Expulsa las llamas de su interior en forma de bolas de fuego. La cola blanca que tiene de pequeño se divide en seis puntas a medida que crece.",
+        "Stadium": "Una única cola blanca se divide en seis hermosas colas. Cuando crece, le salen más colas.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Al nacer, Vulpix tiene una cola blanca que se divide en seis si recibe cariño por parte de su Entrenador. Las seis colas se le rizan de forma majestuosa.",
+        "RubíZafiro": "Al nacer, Vulpix tiene una cola blanca que se divide en seis si recibe cariño por parte de su Entrenador. Las seis colas se le rizan de manera majestuosa."
+    },
+    "evolution": [
+        [
+            "Vulpix",
+            "Piedra fuego ",
+            "Ninetales"
+        ]
+    ]
+}

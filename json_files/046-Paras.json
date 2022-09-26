@@ -1,0 +1,201 @@
+{
+    "dex number": "046",
+    "pokemon name": "Paras",
+    "types": [
+        "bicho",
+        "planta"
+    ],
+    "abilities": [
+        "Efecto espora",
+        "Piel seca"
+    ],
+    "hidden abilities": [
+        "Humedad"
+    ],
+    "stats": {
+        "hp": "35",
+        "atk": "70",
+        "def": "55",
+        "atk esp": "45",
+        "def esp": "55",
+        "speed": "25"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Monte Moon y Zona Safari"
+        ],
+        "Azul": [
+            "Salvaje: Monte Moon y Zona Safari"
+        ],
+        "Amarillo": [
+            "Salvaje: Monte Moon y Zona Safari"
+        ],
+        "Oro": [
+            "Salvaje:",
+            "Encinar y Monte Moon",
+            "Concurso de captura de bichos"
+        ],
+        "Plata": [
+            "Salvaje:",
+            "Encinar y Monte Moon",
+            "Concurso de captura de bichos"
+        ],
+        "Cristal": [
+            "Salvaje:",
+            "Encinar y Monte Moon",
+            "Concurso de captura de bichos"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Monte Moon y Zona Safari"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Monte Moon y Zona Safari"
+        ],
+        "Diamante": [
+            "Salvaje: Gran Pantano (es necesario tener la Pokédex Nacional)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Salvaje: Gran Pantano (es necesario tener la Pokédex Nacional)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Salvaje: Gran Pantano (es necesario tener la Pokédex Nacional)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje:",
+            "Encinar, Monte Moon y Zona Safari (lagos y peña)",
+            "Concurso de captura de bichos",
+            "Pokéwalker: Bosque Murmullos",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje:",
+            "Encinar, Monte Moon y Zona Safari (lagos y peña)",
+            "Concurso de captura de bichos",
+            "Pokéwalker: Bosque Murmullos",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco": [
+            "Manada Pokémon: Ruta 11",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo bicho"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo bicho"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque Petalia, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque Petalia, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Salvaje: Ruta 11, Colina Saltagua y Jungla Umbría (por el día)"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 11, Colina Saltagua y Jungla Umbría (por el día)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Colina Saltagua y Jungla Umbría (por el día)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Colina Saltagua y Jungla Umbría (por el día)"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Monte Moon",
+            "Especial: Transferir desde Pokémon GO."
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Monte Moon",
+            "Especial: Transferir desde Pokémon GO."
+        ],
+        "Espada": [
+            "Paras no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Paras no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Gran Pantano (es necesario tener la Pokédex Nacional)",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Gran Pantano (es necesario tener la Pokédex Nacional)",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Alacena del Bosque."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Cava para chupar las raíces de los árboles. Las setas de su espalda crecen a sus expensas.",
+        "Amarillo": "Escarba bajo el suelo para roer las raíces de los árboles. Sus setas absorben sus energías.",
+        "Oro": "Está cubierto de esporas de seta al nacer. A medida que crece, las setas brotan de su lomo.",
+        "Plata": "Al crecer, unas setas orientales llamadas tochukaso comienzan a florecer en su lomo.",
+        "Cristal": "La gran seta que lleva a cuestas le sirve para obtener savia de los troncos de los árboles.",
+        "Rubí": "Paras lleva dos setas parásitas a cuestas llamadas tochukaso. Éstas crecen alimentándose de los nutrientes de este Pokémon de tipo bicho/planta que les sirve de huésped. Las setas se usan como elixir de vida.",
+        "Zafiro": "Paras lleva dos setas parásitas a cuestas llamadas tochukaso. Éstas crecen alimentándose de los nutrientes de este Pokémon de tipo bicho/planta que les sirve de huésped. Las setas se usan como elixir de vida.",
+        "Esmeralda": "Lleva dos setas parásitas, llamadas tochukaso, que se alimentan a partir de los nutrientes del propio Paras. Las setas se usan como elixir de vida.",
+        "Rojo Fuego": "Lleva en el lomo dos setas parásitas llamadas tochukaso, que crecen con él.",
+        "Verde Hoja": "Cava para chupar las raíces de los árboles. Las setas del lomo crecen con él.",
+        "Diamante": "En el lomo de Paras crecen unas setas parasitarias llamadas tochukaso.",
+        "Perla": "En el lomo de Paras crecen unas setas parasitarias llamadas tochukaso.",
+        "Platino": "En el lomo de Paras crecen unas setas parasitarias llamadas tochukaso.",
+        "Oro HeartGold": "Está cubierto de esporas de seta al nacer. A medida que crece, las setas brotan de su lomo.",
+        "Plata SoulSilver": "Al crecer, unas setas orientales llamadas tochukaso comienzan a florecer en su lomo.",
+        "Negro": "En el lomo de Paras crecen unas setas parasitarias llamadas tochukaso.",
+        "Blanco": "En el lomo de Paras crecen unas setas parasitarias llamadas tochukaso.",
+        "Negro 2": "En el lomo de Paras crecen unas setas parasitarias llamadas tochukaso.",
+        "Blanco 2": "En el lomo de Paras crecen unas setas parasitarias llamadas tochukaso.",
+        "Pokémon X": "Lleva en el lomo dos setas parásitas llamadas tochukaso, que crecen con él.",
+        "Pokémon Y": "Escarba bajo el suelo para roer las raíces de los árboles. Sus setas absorben los nutrientes.",
+        "Rubí Omega": "Paras lleva dos setas parásitas a cuestas llamadas tochukaso. Estas crecen alimentándose de los nutrientes de este Pokémon de tipo bicho y planta que les sirve de huésped. Las setas se usan como elixir de vida.",
+        "Zafiro Alfa": "Paras lleva dos setas parásitas a cuestas llamadas tochukaso. Estas crecen alimentándose de los nutrientes de este Pokémon de tipo bicho y planta que les sirve de huésped. Las setas se usan como elixir de vida.",
+        "Sol": "Por mucho que coma, las setas parásitas que tiene en el lomo le roban la mayor parte de los nutrientes.",
+        "Luna": "Las setas que lleva en su lomo, llamadas tochukaso, se pueden deshidratar y pulverizar para crear un elixir que alarga la vida.",
+        "Ultrasol": "Ya sea por la falta de humedad o de nutrientes, las setas parásitas de los Paras en Alola suelen ser más pequeñas que en otras regiones.",
+        "Ultraluna": "Las setas que tiene en el dorso, llamadas tochukaso, controlan al insecto contra su voluntad.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Escarba en el suelo para extraer nutrientes de las raíces de los árboles, que las setas del lomo absorben después casi por completo.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Tiene en el lomo unas setas parásitas llamadas tochukaso que crecen con él.",
+        "Perla Reluciente": "Tiene en el lomo unas setas parásitas llamadas tochukaso que crecen con él.",
+        "Leyendas: Arceus": "Se suele dejar ver en bosques húmedos, cerca de las raíces de los árboles. Nace sin las setas tochukaso del lomo, que brotan a medida que crece.",
+        "Stadium": "Crece succionando nutrientes de las raíces de los árboles. Las setas de su espalda crecen sacando extractos de su anfitrión.",
+        "Stadium 2": "Pokémon Oro insertado: Al crecer, unas setas orientales llamadas tochukaso comienzan a florecer en su lomo.\nPokémon Plata insertado: Está cubierto de esporas de seta al nacer. A medida que crece, las setas brotan de su lomo.\n",
+        "Pokémon GO": "Paras lleva dos setas parásitas a cuestas llamadas tochukaso. Estas crecen alimentándose de los nutrientes de este Pokémon de tipo bicho y planta que les sirve de huésped. Las setas se usan como elixir de vida.",
+        "Ranger": "Paras tratará de cortar la línea de captura con sus pinzas."
+    },
+    "evolution": [
+        [
+            "Paras",
+            "Nivel 24",
+            "Parasect"
+        ]
+    ]
+}

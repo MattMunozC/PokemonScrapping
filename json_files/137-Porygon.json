@@ -1,0 +1,186 @@
+{
+    "dex number": "137",
+    "pokemon name": "Porygon",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Rastro",
+        "Descarga"
+    ],
+    "hidden abilities": [
+        "Cálculo final"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "60",
+        "def": "70",
+        "atk esp": "85",
+        "def esp": "75",
+        "speed": "40"
+    },
+    "location": {
+        "Rojo": [
+            "Especial: Canjear en el casino de Ciudad Azulona por 9.999 fichas"
+        ],
+        "Azul": [
+            "Especial: Canjear en el casino de Ciudad Azulona por 6.500 fichas"
+        ],
+        "Amarillo": [
+            "Especial: Canjear en el casino de Ciudad Azulona por 9.999 fichas"
+        ],
+        "Oro": [
+            "Especial: Canjear en el casino de Ciudad Azulona por 9.999 fichas"
+        ],
+        "Plata": [
+            "Especial: Canjear en el casino de Ciudad Azulona por 9.999 fichas"
+        ],
+        "Cristal": [
+            "Especial: Canjear en el casino de Ciudad Azulona por 5.555 fichas"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Especial: Canjear en el casino de Ciudad Azulona por 9.999 fichas"
+        ],
+        "Verde Hoja": [
+            "Especial: Canjear en el casino de Ciudad Azulona por 6.500 fichas"
+        ],
+        "Diamante": [
+            "Salvaje: Jardín Trofeo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Salvaje: Jardín Trofeo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Especial: Lo entrega un hombre en Ciudad Rocavelo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Especial: Canjear en el casino de Ciudad Azulona por 9.999 fichas",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Especial: Canjear en el casino de Ciudad Azulona por 9.999 fichas",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco",
+            "RAdar Pokémon: Aparece tras haber capturado a Thundurus"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco",
+            "RAdar Pokémon: Aparece tras haber capturado a Thundurus"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Monte espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Monte espejismo"
+        ],
+        "Sol": [
+            "Especial: Lo entrega un empleado en la Casa Æther tras vencer la Liga Pokémon"
+        ],
+        "Luna": [
+            "Especial: Lo entrega un empleado en la Casa Æther tras vencer la Liga Pokémon"
+        ],
+        "Ultrasol": [
+            "Especial: Lo entrega un empleado en la Casa Æther tras el Episodio RR"
+        ],
+        "Ultraluna": [
+            "Especial: Lo entrega un empleado en la Casa Æther tras el Episodio RR"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Ruta 7; solo con uso de colonia y/o alta racha de capturas",
+            "Especial: Regalo de un hombre en Ciudad Azafrán tras expulsar al Team Rocket de Silph S. A."
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Ruta 7; solo con uso de colonia y/o alta racha de capturas",
+            "Especial: Regalo de un hombre en Ciudad Azafrán tras expulsar al Team Rocket de Silph S. A."
+        ],
+        "Espada": [
+            "Especial: En el Dojo Maestro. Te lo entrega el hijo de Mostaz en la sala de la derecha."
+        ],
+        "Escudo": [
+            "Especial: En el Dojo Maestro. Te lo entrega el hijo de Mostaz en la sala de la derecha."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Jardín Trofeo, después de conseguir la Pokédex Nacional."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Jardín Trofeo, después de conseguir la Pokédex Nacional."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Distorsión espaciotemporal en Pantanal Carmesí."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Un Pokémon formado por códigos de programación. Se mueve libre en el ciberespacio.",
+        "Amarillo": "La gente dice que se trata del único Pokémon que puede volar por el espacio. Aún no lo ha logrado.",
+        "Oro": "Es un Pokémon creado por el hombre. Como no respira, la gente quiere probarlo en cualquier sitio.",
+        "Plata": "Pokémon creado por el hombre tras muchas investigaciones. Sus habilidades son básicas.",
+        "Cristal": "Es un Pokémon artificial, creado después de mucho investigar. Sólo hará lo que le hayan asignado.",
+        "Rubí": "Porygon es capaz de convertirse otra vez en datos informáticos y de entrar en el ciberespacio. Tiene protección anti-copia, así que es imposible duplicarlo.",
+        "Zafiro": "Porygon es capaz de convertirse otra vez en datos informáticos y de entrar en el ciberespacio. Tiene protección anti-copia, así que es imposible duplicarlo.",
+        "Esmeralda": "Un Pokémon formado por códigos de programación. Se mueve libre en el ciberespacio.",
+        "Rojo Fuego": "Puede convertirse en datos informáticos y entrar en el ciberespacio. Tiene protección anti-copia, así que es imposible duplicarlo.",
+        "Verde Hoja": "Es obra de unos científicos que usaron una tecnología de punta para crearlo.",
+        "Diamante": "Es el primer Pokémon creado de forma artificial. Puede viajar por el ciberespacio.",
+        "Perla": "Es el primer Pokémon creado de forma artificial. Puede viajar por el ciberespacio.",
+        "Platino": "Un Pokémon creado por el hombre con avanzados medios tecnológicos. Puede viajar por el ciberespacio.",
+        "Oro HeartGold": "Es un Pokémon creado por el hombre. Como no respira, la gente quiere probarlo en cualquier sitio.",
+        "Plata SoulSilver": "Pokémon creado por el hombre tras muchas investigaciones. Sus habilidades son básicas.",
+        "Negro": "Un Pokémon creado por el hombre con avanzados medios tecnológicos. Puede viajar por el ciberespacio.",
+        "Blanco": "Un Pokémon creado por el hombre con avanzados medios tecnológicos. Puede viajar por el ciberespacio.",
+        "Negro 2": "Un Pokémon creado por el hombre con avanzados medios tecnológicos. Puede viajar por el ciberespacio.",
+        "Blanco 2": "Un Pokémon creado por el hombre con avanzados medios tecnológicos. Puede viajar por el ciberespacio.",
+        "Pokémon X": "Pokémon creado por el hombre tras muchas investigaciones. Sus habilidades son básicas.",
+        "Pokémon Y": "Un Pokémon formado por códigos de programación. Se mueve libre en el ciberespacio.",
+        "Rubí Omega": "Porygon es capaz de convertirse otra vez en datos informáticos y de entrar en el ciberespacio. Tiene protección anticopia, así que es imposible duplicarlo.",
+        "Zafiro Alfa": "Porygon es capaz de convertirse otra vez en datos informáticos y de entrar en el ciberespacio. Tiene protección anticopia, así que es imposible duplicarlo.",
+        "Sol": "Un Pokémon que fue creado por el hombre hace unos 20 años con los medios tecnológicos que había disponibles en aquel momento.",
+        "Luna": "Porygon es capaz de convertirse en datos informáticos y de entrar en el ciberespacio.",
+        "Ultrasol": "Fue creado por el hombre unos 20 años atrás con los medios del momento, por lo que ahora está desfasado en muchos aspectos.",
+        "Ultraluna": "Fue creado hace 20 años por un grupo de científicos que soñaba con explorar el espacio. Dicho sueño aún no se ha cumplido.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Se creía que sería el único Pokémon capaz de volar por el espacio, pero aún no se ha visto a ninguno que lo haya conseguido.",
+        "Espada": "Se trata del primer Pokémon del mundo creado a partir de códigos de programación gracias al uso de tecnología de vanguardia.",
+        "Escudo": "Durante los últimos años, ha estado muy activo en el ciberespacio comprobando que no haya datos sospechosos.",
+        "Diamante Brillante": "Es el primer Pokémon creado de forma artificial. Puede viajar por el ciberespacio.",
+        "Perla Reluciente": "Es el primer Pokémon creado de forma artificial. Puede viajar por el ciberespacio.",
+        "Leyendas: Arceus": "No hemos percibido respiración ni pulso algunos, mas su cuerpo parece funcionar sin problema. Es tan extraño que me tiene perplejo.",
+        "Stadium": "Pokémon hecho por el hombre que consiste en código de programación. Puede moverse libremente en el ciberespacio.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Porygon es capaz de convertirse otra vez en datos informáticos y de entrar en el ciberespacio. Tiene protección anticopia, así que es imposible duplicarlo.",
+        "Ranger": "Porygon se vuelve invisible para confundir a los enemigos e impedir su captura."
+    },
+    "evolution": [
+        [
+            "Porygon",
+            "Intercambio equipado con / Exponer3mejora ",
+            "Porygon2",
+            "Intercambio equipado con / Exponer3Disco extraño ",
+            "Porygon-Z"
+        ]
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "dex number": "005",
+    "pokemon name": "Charmeleon",
+    "types": [
+        "fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Poder solar"
+    ],
+    "stats": {
+        "hp": "58",
+        "atk": "64",
+        "def": "58",
+        "atk esp": "80",
+        "def esp": "65",
+        "speed": "80"
+    },
+    "location": {
+        "Rojo": [
+            "Evolucionar: a Charmander (nivel 16)"
+        ],
+        "Azul": [
+            "Evolucionar: a Charmander (nivel 16)"
+        ],
+        "Amarillo": [
+            "Evolucionar: a Charmander (nivel 16)"
+        ],
+        "Oro": [
+            "Intercambiar: de Rojo, Azul o Amarillo."
+        ],
+        "Plata": [
+            "Intercambiar: de Rojo, Azul o Amarillo."
+        ],
+        "Cristal": [
+            "Intercambiar: de Rojo, Azul o Amarillo."
+        ],
+        "Rubí": [
+            "Intercambiar: de Rojo Fuego o Verde Hoja."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Rojo Fuego o Verde Hoja."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Rojo Fuego o Verde Hoja."
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Charmander (nivel 16)"
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Charmander (nivel 16)"
+        ],
+        "Diamante": [
+            "Intercambiar: de Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Intercambiar: de Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Intercambiar: de Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Charmander (nivel 16)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Charmander (nivel 16)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Evolucionar: a Charmander (nivel 16).",
+            "Pokétransfer: Transferir desde Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Evolucionar: a Charmander (nivel 16).",
+            "Pokétransfer: Transferir desde Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Charmander (nivel 16).",
+            "Pokétransfer: Transferir desde Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Charmander (nivel 16).",
+            "Pokétransfer: Transferir desde Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Charmander (nivel 16)",
+            "Especial:: Safari Amistad, en algunos safaris de tipo fuego"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Charmander (nivel 16)",
+            "Especial:: Safari Amistad, en algunos safaris de tipo fuego"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Charmander (nivel 16)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Charmander (nivel 16)"
+        ],
+        "Let's Go Pikachu!": [
+            "Evolucionar: a Charmander (nivel 16)",
+            "Especial: GO Park Transferir desde Pokémon GO"
+        ],
+        "Let's Go Eevee!": [
+            "Evolucionar: a Charmander (nivel 16)"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur y Lago del Enfado, nido al oeste.",
+            "Aventura Dinamax ",
+            "Evolucionar: a Charmander (nivel 16)"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur y Lago del Enfado, nido al oeste.",
+            "Aventura Dinamax ",
+            "Evolucionar: a Charmander (nivel 16)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Charmander (nivel 16)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Charmander (nivel 16)"
+        ],
+        "Leyendas: Arceus": [
+            "Charmeleon no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Cuando balancea su ardiente cola, eleva la temperatura a niveles muy altos.",
+        "Amarillo": "Las duras luchas excitan a este Pokémon. Entonces, lanzará llamaradas blanco-azuladas.",
+        "Oro": "Por naturaleza, se acalora con facilidad: siempre está buscando enemigos. Solo se calma cuando gana.",
+        "Plata": "De naturaleza bárbara, en la batalla esgrime su fiera cola, y araña con sus afiladas garras.",
+        "Cristal": "Prefiere luchar usando las garras, si se encuentra en peligro, la llama crecerá.",
+        "Rubí": "Charmeleon no tiene reparo en acabar con su rival usando las afiladas garras que tiene. Si su enemigo es fuerte, se vuelve agresivo, y la llama que tiene en el extremo de la cola empieza a arder con mayor intensidad tornándose azulada.",
+        "Zafiro": "Charmeleon no tiene reparo en acabar con su rival usando las afiladas garras que tiene. Si su enemigo es fuerte, se vuelve agresivo, y la llama que tiene en el extremo de la cola empieza a arder con mayor intensidad tornándose azulada.",
+        "Esmeralda": "Acaba sin piedad con su enemigo usando sus afiladas garras. Ante rivales fuertes se vuelve agresivo y la llama que tiene en la cola arde con un tono azulado.",
+        "Rojo Fuego": "Suele usar la cola para derribar a su rival. Cuando lo tira, se vale de sus afiladas garras para acabar con él.",
+        "Verde Hoja": "Cuando balancea la ardiente cola, eleva la temperatura a niveles muy altos.",
+        "Diamante": "En las montañas rocosas donde viven los Charmeleon, sus colas ardientes brillan como estrellas.",
+        "Perla": "En las montañas rocosas donde viven los Charmeleon, sus colas ardientes brillan como estrellas.",
+        "Platino": "En las montañas rocosas donde viven los Charmeleon, sus colas ardientes brillan como estrellas.",
+        "Oro HeartGold": "Por naturaleza, se acalora con facilidad: siempre está buscando enemigos. Solo se calma cuando gana.",
+        "Plata SoulSilver": "De naturaleza bárbara, en la batalla esgrime su fiera cola, y araña con sus afiladas garras.",
+        "Negro": "En las montañas rocosas donde viven los Charmeleon, sus colas ardientes brillan como estrellas.",
+        "Blanco": "En las montañas rocosas donde viven los Charmeleon, sus colas ardientes brillan como estrellas.",
+        "Negro 2": "En las montañas rocosas donde viven los Charmeleon, sus colas ardientes brillan como estrellas.",
+        "Blanco 2": "En las montañas rocosas donde viven los Charmeleon, sus colas ardientes brillan como estrellas.",
+        "Pokémon X": "Suele usar la cola para derribar a su rival. Cuando lo tira, se vale de sus afiladas garras para acabar con él.",
+        "Pokémon Y": "Cuando balancea la ardiente cola, eleva la temperatura a niveles muy altos.",
+        "Rubí Omega": "Charmeleon no tiene reparo en acabar con su rival usando las afiladas garras que tiene. Si su enemigo es fuerte, se vuelve agresivo, y la llama que tiene en el extremo de la cola empieza a arder con mayor intensidad tornándose azulada.",
+        "Zafiro Alfa": "Charmeleon no tiene reparo en acabar con su rival usando las afiladas garras que tiene. Si su enemigo es fuerte, se vuelve agresivo, y la llama que tiene en el extremo de la cola empieza a arder con mayor intensidad tornándose azulada.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Librar combates intensos lo entusiasma tanto que en ocasiones lanza llamas de tono blanco azulado.",
+        "Espada": "Este Pokémon de naturaleza agresiva ataca en combate con su cola llameante y hace trizas al rival con sus afiladas garras.",
+        "Escudo": "Si se exalta en combate, expulsa intensas llamaradas que incineran todo a su alrededor.",
+        "Diamante Brillante": "En las montañas rocosas donde viven los Charmeleon, sus colas ardientes brillan como estrellas en la noche.",
+        "Perla Reluciente": "En las montañas rocosas donde viven los Charmeleon, sus colas ardientes brillan como estrellas en la noche.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Parece ser muy malvado. Ataca con sus afiladas garras y no se detiene hasta que ha derrotado al enemigo.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "Charmeleon no tiene reparo en acabar con su rival usando las afiladas garras que tiene. Si su enemigo es fuerte, se vuelve agresivo, y la llama que tiene en el extremo de la cola empieza a arder con mayor intensidad tornándose azulada.",
+        "Ranger": "Charmeleon escupe grandes bolas de fuego capaces de derretir chatarra.",
+        "Sombras de Almia": "Ataca escupiendo brasa y bolas de fuego."
+    },
+    "evolution": [
+        [
+            "Charmander",
+            "Nivel 16",
+            "Charmeleon",
+            "Nivel 36",
+            "Charizard"
+        ]
+    ]
+}

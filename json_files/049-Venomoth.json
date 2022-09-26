@@ -1,0 +1,201 @@
+{
+    "dex number": "049",
+    "pokemon name": "Venomoth",
+    "types": [
+        "bicho",
+        "veneno"
+    ],
+    "abilities": [
+        "Polvo escudo",
+        "Cromolente"
+    ],
+    "hidden abilities": [
+        "Piel milagro"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "65",
+        "def": "60",
+        "atk esp": "90",
+        "def esp": "75",
+        "speed": "90"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Zona Safari, Calle Victoria, Mazmorra Rara",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Azul": [
+            "Salvaje: Zona Safari, Calle Victoria, Mazmorra Rara",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Amarillo": [
+            "Salvaje: Rutas 14, 15 y Mazmorra rara (planta baja).",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Oro": [
+            "Salvaje: Ruta 24 y Ruta 25 (por la noche)",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Plata": [
+            "Salvaje: Ruta 24 y Ruta 25 (por la noche)",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Cristal": [
+            "Salvaje: Ruta 9, Ruta 10, Ruta 13, Ruta 14, Ruta 15 y Ruta 43 (por la noche)",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Zona Safari y Bosque Baya",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Zona Safari y Bosque Baya",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 229 (Pokéradar)",
+            "Evolucionar: a Venonat (nivel 31)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Salvaje: Ruta 229 (Pokéradar)",
+            "Evolucionar: a Venonat (nivel 31)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Salvaje: Ruta 229 (Pokéradar)",
+            "Evolucionar: a Venonat (nivel 31)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje, noche: Rutas 24 y 25.",
+            "Evolucionar: de Venonat (nivel 31).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, noche: Rutas 24 y 25.",
+            "Evolucionar: de Venonat (nivel 31).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Salvaje: Solar de los Sueños",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Blanco": [
+            "Salvaje: Solar de los Sueños",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Negro 2": [
+            "Evolucionar: de Venonat (nivel 31)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Venonat (nivel 31)"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo bicho y veneno"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo bicho y veneno"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Isla Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Isla Espejismo"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Ruta 14 y Ruta 15",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Ruta 14 y Ruta 15",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Espada": [
+            "Venomoth no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Venomoth no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "PokéRadar: Ruta 229.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Perla Reluciente": [
+            "PokéRadar: Ruta 229.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Venonat (nivel 31)"
+        ],
+        "Leyendas: Arceus": [
+            "Venomoth no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "El polvillo que cubre sus alas es de distinto color según el tipo de veneno que lleve.",
+        "Amarillo": "Es difícil quitar el polvo de sus alas. También posee un veneno que se desprende al contacto.",
+        "Oro": "Cuando ataca, agita sus largas alas violentamente para esparcir polvo venenoso a su alrededor.",
+        "Plata": "El polvo de sus alas es venenoso si es de color oscuro. Si es claro, causa parálisis.",
+        "Cristal": "Lanza unas escamas que paralizan a cualquiera. Quien las toque, no podrá ni ponerse de pie.",
+        "Rubí": "Venomoth es nocturno, solo actúa en la oscuridad. Su alimento preferido son los pequeños insectos que se concentran cerca de los focos de luz en la oscuridad de la noche.",
+        "Zafiro": "Venomoth es nocturno, solo actúa en la oscuridad. Su alimento preferido son los pequeños insectos que se concentran cerca de los focos de luz en la oscuridad de la noche.",
+        "Esmeralda": "Es nocturno, solo actúa en la oscuridad. Su alimento preferido son los pequeños insectos que se concentran por la noche cerca de los focos de luz.",
+        "Rojo Fuego": "Tiene alas cubiertas de un polvillo de escamas que esparce cada vez que las bate.",
+        "Verde Hoja": "El polvillo que cubre sus alas es de distinto color según el tipo de veneno que lleve.",
+        "Diamante": "Agita las alas para dispersar un polvillo de escamas que libera toxinas si toca la piel.",
+        "Perla": "Agita las alas para dispersar un polvillo de escamas que libera toxinas si toca la piel.",
+        "Platino": "Agita las alas para dispersar un polvillo de escamas que libera toxinas si toca la piel.",
+        "Oro HeartGold": "Cuando ataca, agita sus largas alas violentamente para esparcir polvo venenoso a su alrededor.",
+        "Plata SoulSilver": "El polvo de sus alas es venenoso si es de color oscuro. Si es claro, causa parálisis.",
+        "Negro": "Agita las alas para dispersar un polvillo de escamas que libera toxinas si toca la piel.",
+        "Blanco": "Agita las alas para dispersar un polvillo de escamas que libera toxinas si toca la piel.",
+        "Negro 2": "Agita las alas para dispersar un polvillo de escamas que libera toxinas si toca la piel.",
+        "Blanco 2": "Agita las alas para dispersar un polvillo de escamas que libera toxinas si toca la piel.",
+        "Pokémon X": "Lanza unas escamas que paralizan a cualquiera. Quien las toque, no podrá ni ponerse de pie.",
+        "Pokémon Y": "Tiene alas cubiertas de un polvillo de escamas que esparce cada vez que las bate.",
+        "Rubí Omega": "Venomoth es nocturno, solo actúa en la oscuridad. Su alimento preferido son los pequeños insectos que se concentran cerca de los focos de luz en la oscuridad de la noche.",
+        "Zafiro Alfa": "Venomoth es nocturno, solo actúa en la oscuridad. Su alimento preferido son los pequeños insectos que se concentran cerca de los focos de luz en la oscuridad de la noche.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Las alas desprenden un polvillo de escamas impregnado de toxinas que se adhiere al contacto y resulta difícil de quitar.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Agita las alas para dispersar un polvillo de escamas cuyas toxinas penetran la piel al entrar en contacto con ella.",
+        "Perla Reluciente": "Agita las alas para dispersar un polvillo de escamas cuyas toxinas penetran la piel al entrar en contacto con ella.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "El polvo de sus alas es venenoso. Desprende el polvo en cada aleteo: te envenenará si estás en la dirección del viento.",
+        "Stadium 2": "Pokémon Oro insertado: El polvo de sus alas es venenoso si es de color oscuro. Si es claro, causa parálisis.\nPokémon Plata insertado: Cuando ataca, agita sus largas alas violentamente para esparcir polvo venenoso a su alrededor.\n",
+        "Pokémon GO": "Venomoth es nocturno, solo actúa en la oscuridad. Su alimento preferido son los pequeños insectos que se concentran cerca de los focos de luz en la oscuridad de la noche."
+    },
+    "evolution": [
+        [
+            "Venonat",
+            "Nivel 31",
+            "Venomoth"
+        ]
+    ]
+}

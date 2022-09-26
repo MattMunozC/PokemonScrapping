@@ -1,0 +1,191 @@
+{
+    "dex number": "115",
+    "pokemon name": "Kangaskhan",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Madrugar",
+        "Intrépido"
+    ],
+    "hidden abilities": [
+        "Foco interno"
+    ],
+    "stats": {
+        "hp": "105",
+        "atk": "95",
+        "def": "80",
+        "atk esp": "40",
+        "def esp": "80",
+        "speed": "90"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Zona Safari (áreas 1 y 3)"
+        ],
+        "Azul": [
+            "Salvaje: Zona Safari (áreas 1 y 3)"
+        ],
+        "Amarillo": [
+            "Salvaje: Zona Safari (área 2)"
+        ],
+        "Oro": [
+            "Salvaje: Túnel Roca"
+        ],
+        "Plata": [
+            "Salvaje: Túnel Roca"
+        ],
+        "Cristal": [
+            "Salvaje: Túnel Roca (mañana y día)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Zona Safari (áreas 1 y 3)"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Zona Safari (áreas 1 y 3)"
+        ],
+        "Diamante": [
+            "Salvaje: Gran Pantano (tras obtener la Pokédex nacional)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Salvaje: Gran Pantano (tras obtener la Pokédex nacional)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Salvaje: Gran Pantano (tras obtener la Pokédex nacional)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Túnel Roca (sótano 1) y Zona Safari (páramo)",
+            "Pokéwalker: Prado Tranquilo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Túnel Roca (sótano 1) y Zona Safari (páramo)",
+            "Pokéwalker: Prado Tranquilo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Salvaje: Ruta 15",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 15",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Pokémon X": [
+            "Salvaje: Cueva Brillante"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva Brillante"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Salvaje: Área Volcánica del Wela (combate con refuerzos, refuerzo de Cubone)."
+        ],
+        "Luna": [
+            "Salvaje: Área Volcánica del Wela (combate con refuerzos, refuerzo de Cubone)."
+        ],
+        "Ultrasol": [
+            "Salvaje:",
+            "Área Volcánica del Wela",
+            "Área Volcánica del Wela (como refuerzo de Cubone)"
+        ],
+        "Ultraluna": [
+            "Salvaje:",
+            "Área Volcánica del Wela",
+            "Área Volcánica del Wela (como refuerzo de Cubone)"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Túnel Roca."
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Túnel Roca."
+        ],
+        "Espada": [
+            "Salvaje: Gruta Calentamiento y Llano Entrenamiento",
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Salvaje: Gruta Calentamiento y Llano Entrenamiento",
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Gran Pantano (tras obtener la Pokédex nacional)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Gran Pantano (tras obtener la Pokédex nacional)."
+        ],
+        "Leyendas: Arceus": [
+            "Kangaskhan no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "El bebé no suele salir de la segura bolsa de su madre hasta que cumple los tres años.",
+        "Amarillo": "Cuida de su cría en la bolsa de su tripa. No evitará ninguna pelea para protegerla.",
+        "Oro": "Si no hay peligro, el joven sale de la bolsa y juega. El adulto vigila atentamente al joven.",
+        "Plata": "Para proteger a su pequeño, nunca abandonará el combate, sin importar lo herido que esté.",
+        "Cristal": "Tiene la costumbre de dormir de pie para no aplastar a la cría que lleva acurrucada en la bolsa.",
+        "Rubí": "Si te cruzas alguna vez con un Kangaskhan que esté jugando, no le molestes ni intentes atraparlo. Seguro que estará cerca alguno de sus progenitores, que reaccionará con enfado y violencia.",
+        "Zafiro": "Si te cruzas alguna vez con un Kangaskhan que esté jugando, no le molestes ni intentes atraparlo. Seguro que estará cerca alguno de sus progenitores, que reaccionará con enfado y violencia.",
+        "Esmeralda": "Si te cruzas con uno que esté jugando, no lo molestes ni intentes atraparlo. Seguro que uno de sus progenitores anda cerca y reaccionará con enfado y violencia.",
+        "Rojo Fuego": "La hembra cría a sus pequeños en la bolsa que tiene en la panza. Es muy buena usando puño cometa.",
+        "Verde Hoja": "El bebé no suele salir de la segura bolsa de su madre hasta que cumple los tres años.",
+        "Diamante": "Lleva a su cría en la bolsa de su panza. Solo deja que su cría salga a jugar cuando no siente peligro.",
+        "Perla": "Lleva a su cría en la bolsa de su panza. Solo deja que su cría salga a jugar cuando no siente peligro.",
+        "Platino": "Lleva a su cría en la bolsa de su panza. Solo deja que su cría salga a jugar cuando no siente peligro.",
+        "Oro HeartGold": "Si no hay peligro, el joven sale de la bolsa y juega. El adulto vigila atentamente al joven.",
+        "Plata SoulSilver": "Para proteger a su pequeño, nunca abandonará el combate, sin importar lo herido que esté.",
+        "Negro": "Lleva a su cría en la bolsa de su panza. Solo deja que su cría salga a jugar cuando no siente peligro.",
+        "Blanco": "Lleva a su cría en la bolsa de su panza. Solo deja que su cría salga a jugar cuando no siente peligro.",
+        "Negro 2": "Lleva a su cría en la bolsa de su panza. Solo deja que su cría salga a jugar cuando no siente peligro.",
+        "Blanco 2": "Lleva a su cría en la bolsa de su panza. Solo deja que su cría salga a jugar cuando no siente peligro.",
+        "Pokémon X": "Lleva a su cría en la bolsa de su panza. Solo deja que su cría salga a jugar cuando no siente peligro.",
+        "Pokémon Y": "Si no hay peligro, el joven sale de la bolsa y juega. El adulto vigila atentamente al joven.",
+        "Rubí Omega": "No es recomendable molestar ni intentar atrapar a crías de Kangaskhan mientras estén jugando, ya que seguro que su madre anda cerca y reaccionará con enfado y violencia.",
+        "Zafiro Alfa": "No es recomendable molestar ni intentar atrapar a crías de Kangaskhan mientras estén jugando, ya que seguro que su madre anda cerca y reaccionará con enfado y violencia.",
+        "Sol": "\nKangaskhan: Profesa un fuerte amor por su cría. Se dice que es capaz de enfrentarse sin temor a cualquier peligro con tal de protegerla.\nMega-Kangaskhan: La fuerza de Mega-Kangaskhan radica en la felicidad que siente una madre al ver crecer a sus hijos.",
+        "Luna": "\nKangaskhan: La cría se separa de su madre cuando ronda los tres años. Es el único momento en el que la madre llora con vehemencia.\nMega-Kangaskhan: Gracias a la megaevolución, su cría ha crecido. Como esta es de naturaleza muy competitiva, a su madre le preocupa un poco su futuro.",
+        "Ultrasol": "\nKangaskhan: Mete a la cría en su marsupio para protegerla. Si alguien hace daño a su retoño, monta en cólera y ataca al agresor sin miramientos.\nMega-Kangaskhan: La explosiva energía de la megaevolución hace crecer de golpe a la cría, lo que causa preocupación a la madre.",
+        "Ultraluna": "\nKangaskhan: No es prudente acercarse a un retoño que esté jugando fuera de su bolsa, pues la madre nunca anda lejos.\nMega-Kangaskhan: Al ver cómo su cría crece tras megaevolucionar, la madre comienza a pensar en el inevitable momento de su separación.",
+        "Let's Go Pikachu!Let's Go Eevee!": "\nKangaskhan: Cuida de la cría que lleva en la bolsa de su panza y se enfrenta a todo aquel que supone una amenaza para protegerla.\nMega-Kangaskhan: La energía de la megaevolución hace crecer de golpe a la cría, que coordina a la perfección sus movimientos con los de su madre.",
+        "Espada": "Aunque lleve una cría en el marsupio, su juego de pies no pierde ligereza. Abruma al rival con ráfagas de ágiles puñetazos.",
+        "Escudo": "Se han documentado casos de Kangaskhan sin crías que han adoptado bebés humanos cuyos padres habían sido víctimas de accidentes.",
+        "Diamante Brillante": "Lleva a su cría en el marsupio. Solo deja que salga a jugar cuando no advierte peligro.",
+        "Perla Reluciente": "Lleva a su cría en el marsupio. Solo deja que salga a jugar cuando no advierte peligro.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "La hembra lleva a su hijo en una bolsa del vientre durante unos tres años. El hijo sale cuando ha aprendido a encontrar comida.",
+        "Stadium 2": "Desconocida.",
+        "Pokémon GO": "\nKangaskhan: No es recomendable molestar ni intentar atrapar a crías de Kangaskhan mientras estén jugando, ya que seguro que su madre anda cerca y reaccionará con enfado y violencia.\nMega-Kangaskhan: Al ver cómo su cría crece tras megaevolucionar, la madre comienza a pensar en el inevitable momento de su separación.",
+        "Ranger": "Kangaskhan emite un rayo con la boca que puede atravesar cualquier cosa.",
+        "New Pokémon Snap": "Los Kangaskhan crían a sus pequeños en las bolsas de sus tripas. Amenazan a cualquiera que se acerque, aunque solo lo hacen por defender a sus crías. En realidad son criaturas muy afables."
+    },
+    "evolution": [
+        [
+            "Kangaskhan"
+        ]
+    ]
+}

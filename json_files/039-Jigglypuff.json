@@ -1,0 +1,200 @@
+{
+    "dex number": "039",
+    "pokemon name": "Jigglypuff",
+    "types": [
+        "normal",
+        "hada"
+    ],
+    "abilities": [
+        "Gran encanto",
+        "Tenacidad"
+    ],
+    "hidden abilities": [
+        "Compiescolta"
+    ],
+    "stats": {
+        "hp": "115",
+        "atk": "45",
+        "def": "20",
+        "atk esp": "45",
+        "def esp": "25",
+        "speed": "20"
+    },
+    "location": {
+        "Rojo": [
+            "Salvaje: Ruta 3"
+        ],
+        "Azul": [
+            "Salvaje: Ruta 3"
+        ],
+        "Amarillo": [
+            "Salvaje: Ruta 5, Ruta 6, Ruta 7 y Ruta 8"
+        ],
+        "Oro": [
+            "Salvaje: Ruta 3, Ruta 4 y Ruta 46"
+        ],
+        "Plata": [
+            "Salvaje: Ruta 3, Ruta 4 y Ruta 46"
+        ],
+        "Cristal": [
+            "Salvaje: Ruta 5, Ruta 6, Ruta 7, Ruta 8, Ruta 34 y Ruta 35",
+            "Evolucionar: a Igglybuff (amistad + nivel)"
+        ],
+        "Rubí": [
+            "Salvaje: Ruta 115"
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 115"
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 115"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Ruta 3"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Ruta 3"
+        ],
+        "Diamante": [
+            "Salvaje: Jardín Trofeo (después de conseguir la Pokédex Nacional)",
+            "Evolucionar: a Igglybuff (amistad + nivel)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Salvaje: Jardín Trofeo (después de conseguir la Pokédex Nacional)",
+            "Evolucionar: a Igglybuff (amistad + nivel)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Salvaje: Jardín Trofeo (después de conseguir la Pokédex Nacional)",
+            "Evolucionar: a Igglybuff (amistad + nivel)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Ruta 3, Ruta 4 y Zona Safari (lagos y parterre)",
+            "Pokéwalker: Zona Vacacional y Confín del Cielo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Ruta 3, Ruta 4 y Zona Safari (lagos y parterre)",
+            "Pokéwalker: Zona Vacacional y Confín del Cielo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Salvaje: Ruta 14"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 14"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 1, Ruta 2 y Solar de los Sueños"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 1, Ruta 2 y Solar de los Sueños"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 20 y Villa Pokémon",
+            "Especial: Safari Amistad, en algunos safaris de tipo hada"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 20 y Villa Pokémon",
+            "Especial: Safari Amistad, en algunos safaris de tipo hada"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 115"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 115"
+        ],
+        "Sol": [
+            " Salvaje: Rutas 4 y 6 (como refuerzo de Igglybuff)",
+            "Evolucionar: a Igglybuff (amistad + nivel)"
+        ],
+        "Luna": [
+            " Salvaje: Rutas 4 y 6 (como refuerzo de Igglybuff)",
+            "Evolucionar: a Igglybuff (amistad + nivel)"
+        ],
+        "Ultrasol": [
+            " Salvaje: Rutas 4 y 6 (como refuerzo de Igglybuff)",
+            "Evolucionar: a Igglybuff (amistad + nivel)"
+        ],
+        "Ultraluna": [
+            " Salvaje: Rutas 4 y 6 (como refuerzo de Igglybuff)",
+            "Evolucionar: a Igglybuff (amistad + nivel)"
+        ],
+        "Let's Go Pikachu!": [
+            "Salvaje: Ruta 5, Ruta 6, Ruta 7 y Ruta 8"
+        ],
+        "Let's Go Eevee!": [
+            "Salvaje: Ruta 5, Ruta 6, Ruta 7 y Ruta 8"
+        ],
+        "Espada": [
+            "Salvaje: Prado Reverencia y Playa Desafío",
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Salvaje: Prado Reverencia y Playa Desafío",
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Jardín Trofeo",
+            "Evolucionar: a Igglybuff (amistad + nivel)"
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Jardín Trofeo",
+            "Evolucionar: a Igglybuff (amistad + nivel)"
+        ],
+        "Leyendas: Arceus": [
+            "Jigglypuff no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "RojoAzul": "Cuando sus ojos se iluminan, canta una secreta melodía con la que duerme a sus enemigos.",
+        "Amarillo": "Utiliza sus misteriosos ojos para engañar a su enemigo. También cantará para dormirlo",
+        "Oro": "Si se hincha para cantar una nana, cantará más tiempo, y puede causar sopor en el público.",
+        "Plata": "Si le miras a sus bonitos y redondos ojos, cantará una relajante melodía con la que duerme al enemigo.",
+        "Cristal": "Cierra los ojitos y usa su canto para deleitar a quien le oye con una nana que invita a dormir.",
+        "Rubí": "Jigglypuff tiene unas cuerdas vocales que ajustan sin problema la longitud de onda de su voz. Este Pokémon usa la habilidad que tiene para cantar con la longitud de onda necesaria para adormecer a su rival.",
+        "Zafiro": "Cuando este Pokémon canta, no para nunca para respirar. Si en combate el enemigo no se queda dormido con facilidad, Jigglypuff no podrá respirar y su vida correrá peligro.",
+        "Esmeralda": "Aquel que oye su canción cae dormido. Las ondas acústicas de su voz cantarina se acoplan a las ondas cerebrales de quien lo oye y le hacen caer en un profundo sueño.",
+        "Rojo Fuego": "Cautiva con la mirada a su enemigo y hace que se quede profundamente dormido mientras entona una dulce melodía.",
+        "Verde Hoja": "Cuando sus ojos se iluminan, canta una secreta melodía con la que duerme a sus enemigos.",
+        "Diamante": "Cuando mueve sus grandes ojos redondos, comienza a cantar una nana que duerme al enemigo.",
+        "Perla": "Cuando mueve sus grandes ojos redondos, comienza a cantar una nana que duerme al enemigo.",
+        "Platino": "Cuando mueve sus grandes ojos redondos, comienza a cantar una nana que duerme al enemigo.",
+        "Oro HeartGold": "Si se hincha para cantar una nana, cantará más tiempo, y puede causar sopor en el público.",
+        "Plata SoulSilver": "Si le miras a sus bonitos y redondos ojos, cantará una relajante melodía con la que duerme al enemigo.",
+        "Negro": "Cuando mueve sus grandes ojos redondos, comienza a cantar una nana que duerme al enemigo.",
+        "Blanco": "Cuando mueve sus grandes ojos redondos, comienza a cantar una nana que duerme al enemigo.",
+        "Negro 2": "Con su mirada tan tierna y esos ojos redondos, canturrea una nana tan dulce con la que es imposible no dormirse.",
+        "Blanco 2": "Con su mirada tan tierna y esos ojos redondos, canturrea una nana tan dulce con la que es imposible no dormirse.",
+        "Pokémon X": "Cautiva con la mirada a su enemigo y hace que se quede profundamente dormido mientras entona una dulce melodía.",
+        "Pokémon Y": "Si se hincha para cantar una nana, cantará más tiempo, y puede causar sopor en el público.",
+        "Rubí Omega": "Jigglypuff tiene unas cuerdas vocales que ajustan sin problema la longitud de onda de su voz. Este Pokémon usa la habilidad que tiene para cantar con la longitud de onda necesaria para adormecer a su rival.",
+        "Zafiro Alfa": "Cuando este Pokémon canta, no para nunca para respirar. Si en combate el enemigo no se queda dormido con facilidad, Jigglypuff no podrá respirar y su vida correrá peligro.",
+        "Sol": "Hincha su vientre considerablemente y entona una melodía misteriosa que duerme en el acto a todo aquel que la oye.",
+        "Luna": "Su tesitura suele ser de 12 octavas, pero su habilidad en el canto dependerá del esfuerzo que realice cada individuo.",
+        "Ultrasol": "En la sección de muebles de dormitorio de los grandes almacenes se pueden encontrar discos recopilatorios de nanas cantadas por Jigglypuff.",
+        "Ultraluna": "Su canto varía enormemente de una región a otra. En algunos casos, más que cantos parecen aullidos.",
+        "Let's Go Pikachu!Let's Go Eevee!": "Tras fijar su tierna mirada en el objetivo, entona una dulce y misteriosa melodía para adormecerlo.",
+        "Espada": "Su capacidad pulmonar es excepcional, incluso para un Pokémon. Es capaz de cantar nanas sin cesar hasta que su rival se duerma.",
+        "Escudo": "Posee la capacidad de modular su voz a voluntad cambiando la longitud de onda para entonar una melodía misteriosa que provoca adormecimiento.",
+        "Diamante Brillante": "Cuando le tiemblan sus enormes y redondas pupilas, comienza a cantar una nana que duerme a quien la oiga.",
+        "Perla Reluciente": "Cuando le tiemblan sus enormes y redondas pupilas, comienza a cantar una nana que duerme a quien la oiga.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
+        "Stadium": "Hipnotiza con sus ojos enormes y redondos y canta una melodía sedante. El Pokémon que la oiga caerá dormido.",
+        "Stadium 2": "Pokémon Oro insertado: Si le miras a sus bonitos y redondos ojos, cantará una relajante melodía con la que duerme al enemigo.\nPokémon Plata insertado: Si se hincha para cantar una nana, cantará más tiempo, y puede causar sopor en el público.\n",
+        "Pokémon GO": "Jigglypuff tiene unas cuerdas vocales que ajustan sin problema la longitud de onda de su voz. Este Pokémon usa la habilidad que tiene para cantar con la longitud de onda necesaria para adormecer a su rival.",
+        "Ranger": "Jigglypuff da saltos como si bailase. A veces se pasea por las ciudades.",
+        "RubíZafiro": "Cuando este Pokémon canta, no para nunca para respirar. Si en combate el enemigo no se queda dormido con facilidad, Jigglypuff no podrá respirar y su vida correrá peligro."
+    },
+    "evolution": [
+        [
+            "Igglybuff",
+            "Amistad + nivel",
+            "Jigglypuff",
+            "Piedra lunar ",
+            "Wigglytuff"
+        ]
+    ]
+}
