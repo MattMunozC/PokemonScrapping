@@ -1,0 +1,174 @@
+{
+    "dex number": "169",
+    "pokemon name": "Crobat",
+    "types": [
+        "veneno",
+        "volador"
+    ],
+    "abilities": [
+        "Foco interno"
+    ],
+    "hidden abilities": [
+        "Allanamiento"
+    ],
+    "stats": {
+        "hp": "85",
+        "atk": "90",
+        "def": "80",
+        "atk esp": "70",
+        "def esp": "80",
+        "speed": "130"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Plata": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Cristal": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Rubí": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Zafiro": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel, después de conseguir la Pokédex Nacional."
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel, después de conseguir la Pokédex Nacional."
+        ],
+        "Diamante": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Salvaje: Ruta 13, Boquete Gigante (cuando la hierba se mueve).",
+            "Dream World: Con la habilidad Allanamiento.",
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 13, Boquete Gigante (cuando la hierba se mueve).",
+            "Dream World: Con la habilidad Allanamiento.",
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Negro 2": [
+            "Salvaje: En el Solar de los Sueños (cuando la hierba se mueve).",
+            "Dream World: Con la habilidad Allanamiento.",
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Blanco 2": [
+            "Salvaje: En el Solar de los Sueños (cuando la hierba se mueve).",
+            "Dream World: Con la habilidad Allanamiento.",
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Sol": [
+            "Salvaje: Gruta Desenlace (Como refuerzo de Golbat).",
+            "Evolucionar: a Golbat (Amistad + nivel)"
+        ],
+        "Luna": [
+            "Salvaje: Gruta Desenlace (Como refuerzo de Golbat).",
+            "Evolucionar: a Golbat (Amistad + nivel)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Jungla Umbría y Gruta Desenlace (Como refuerzo de Golbat).",
+            "Evolucionar: a Golbat (Amistad + nivel)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Jungla Umbría y Gruta Desenlace (Como refuerzo de Golbat).",
+            "Evolucionar: a Golbat (Amistad + nivel)"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol "
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol "
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Tundra Alba: Cascada Glaciar.",
+            "Pokémon alfa:  Ladera Corona: Cueva Extravío.",
+            "Evolucionar: a Golbat por amistad con su entrenador, subiendo un nivel."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Es tan silencioso cuando vuela en la oscuridad con sus cuatro alas, que cuesta percibirlo cuando se acerca.",
+        "Plata": "Las alas de sus patas le permiten volar rápidamente, pero también le dificultan pararse y descansar.",
+        "Cristal": "Como está siempre intentando volar más rápido y silenciosamente, ha desarrollado otro par de alas.",
+        "Rubí": "Cuando este Pokémon vuela batiendo sólo las alas de las patas delanteras o de las traseras es porque lleva volando bastante tiempo. Cuando se cansa, Crobat alterna las alas.",
+        "Zafiro": "Crobat se acerca hasta su posible presa usando las alas casi sin hacer ruido. La forma de descansar que tiene es colgarse de la rama de un árbol por las patas traseras, que también son alas.",
+        "Esmeralda": "Al evolucionar, las patas traseras se le convirtieron en alas. Si bate de forma alterna las alas delanteras y las traseras, puede volar todo el día sin parar.",
+        "Rojo Fuego": "Las alas de las patas le permiten volar rápidamente, pero también le dificultan pararse y descansar.",
+        "Verde Hoja": "Es tan silencioso cuando vuela en la oscuridad con sus cuatro alas, que cuesta percibirlo cuando se acerca.",
+        "Diamante": "Sus cuatro alas le permiten volar más rápida y sigilosamente. Es un Pokémon nocturno.",
+        "Perla": "Como sus patas se transformaron en alas, posee una gran capacidad voladora.",
+        "Platino": "La transformación de sus patas traseras en alas mejoró su vuelo, pero anda muy mal.",
+        "Oro HeartGold": "Es tan silencioso cuando vuela en la oscuridad con sus cuatro alas, que cuesta percibirlo cuando se acerca.",
+        "Plata SoulSilver": "Las alas de sus patas le permiten volar rápidamente, pero también le dificultan pararse y descansar.",
+        "Negro": "La transformación de sus patas traseras en alas mejoró su vuelo, pero anda muy mal.",
+        "Blanco": "La transformación de sus patas traseras en alas mejoró su vuelo, pero anda muy mal.",
+        "Negro 2": "Al contar con 4 alas, puede acechar de manera más rápida y sigilosa a sus presas sin que estas lo perciban.",
+        "Blanco 2": "Al contar con 4 alas, puede acechar de manera más rápida y sigilosa a sus presas sin que estas lo perciban.",
+        "Pokémon X": "Es tan silencioso cuando vuela en la oscuridad con sus cuatro alas, que cuesta percibirlo cuando se acerca.",
+        "Pokémon Y": "Al contar con 4 alas, puede acechar de manera más rápida y sigilosa a sus presas sin que estas lo perciban.",
+        "Rubí Omega": "Cuando este Pokémon vuela batiendo solo las alas delanteras o traseras, es porque lleva volando bastante tiempo. Cuando se cansa, Crobat alterna las alas.",
+        "Zafiro Alfa": "Crobat se acerca hasta su posible presa usando las alas casi sin hacer ruido. La forma de descansar que tiene es colgarse de la rama de un árbol por las patas traseras, que también son alas.",
+        "Sol": "Tiene una movilidad muy reducida en el suelo, ya que sus patas se transformaron en alas. La única opción que le queda es arrastrarse.",
+        "Luna": "Puede volar rápida y sigilosamente gracias a sus cuatro alas. Se abalanza sobre sus presas y les chupa toda la sangre antes de que se percaten.",
+        "Ultrasol": "Sus colmillos son tan afilados que su mordedura resulta indolora y puede chupar la sangre a sus presas en la oscuridad sin que se percaten.",
+        "Ultraluna": "Se alimenta de sangre fresca de humanos y Pokémon. Debe alimentarse constantemente o, de lo contrario, se vuelve débil y no puede volar.",
+        "Espada": "Sus patas se han convertido en alas. Se lanza sobre su presa en un vuelo silencioso a alta velocidad y le clava los colmillos en la nuca.",
+        "Escudo": "Controla de forma independiente cada una de sus cuatro alas. Puede revolotear por cuevas estrechas sin aminorar la velocidad.",
+        "Diamante Brillante": "Sus cuatro alas le permiten volar más rápida y sigilosamente. Es un Pokémon nocturno.",
+        "Perla Reluciente": "Sus dotes de vuelo han mejorado drásticamente ahora que sus patas traseras se han transformado en un nuevo par de alas.",
+        "Leyendas: Arceus": "Sus patas traseras se transformaron en alas. Usa las cuatro alas con tal destreza que puede volar por los túneles más angostos de las cuevas sin disminuir la velocidad."
+    },
+    "evolution": [
+        [
+            "Zubat",
+            "Nivel 22",
+            "Golbat",
+            "Amistad+ nivel",
+            "Crobat"
+        ]
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dex number": "197",
+    "pokemon name": "Umbreon",
+    "types": [
+        "siniestro"
+    ],
+    "abilities": [
+        "Sincronía"
+    ],
+    "hidden abilities": [
+        "Foco interno"
+    ],
+    "stats": {
+        "hp": "95",
+        "atk": "65",
+        "def": "110",
+        "atk esp": "60",
+        "def esp": "130",
+        "speed": "65"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Plata": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Cristal": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Colosseum o XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Colosseum o XD."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Colosseum o XD."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda. En este videojuego no existe reloj interno, por lo que no es posible que Eevee evolucione."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda. En este videojuego no existe reloj interno, por lo que no es posible que Eevee evolucione."
+        ],
+        "Diamante": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Evolucionar: de Eevee. Cuando alcance un alto grado de amistad, tras subir un nivel por la noche.",
+            "Dream World: Con la habilidad Foco interno."
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Evolucionar: de Eevee. Cuando alcance un alto grado de amistad, tras subir un nivel por la noche.",
+            "Dream World: Con la habilidad Foco interno."
+        ],
+        "Negro 2": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)",
+            "Dream World: Con la habilidad Foco interno."
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)",
+            "Dream World: Con la habilidad Foco interno."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Sol": [
+            " Salvaje, noche: Rutas 4 y 6 (como refuerzo de Eevee)",
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Luna": [
+            " Salvaje, noche: Rutas 4 y 6 (como refuerzo de Eevee)",
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Ultrasol": [
+            " Salvaje, noche: Rutas 4 y 6 (como refuerzo de Eevee)",
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Ultraluna": [
+            " Salvaje, noche: Rutas 4 y 6 (como refuerzo de Eevee)",
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Área Silvestre: Lago del Enfado, sólo en presencia de tormenta de arena.",
+            "Incursiones Dinamax: Con posible habilidad oculta: Espejo del Gigante, nido al noreste.",
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Área Silvestre: Lago del Enfado, sólo en presencia de tormenta de arena.",
+            "Incursiones Dinamax: Con posible habilidad oculta: Espejo del Gigante, nido al noreste.",
+            "Evolucionar: de Eevee (amistad + nivel + noche)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Eevee. Cuando alcance un alto grado de amistad, tras subir un nivel por la noche."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Eevee. Cuando alcance un alto grado de amistad, tras subir un nivel por la noche."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: de Eevee (amistad + nivel + noche)",
+            "Salvaje: Pantanal Carmesí (Distorsión espaciotemporal)."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Cuando se siente amenazado, este Pokémon se protege lanzando sudor venenoso por todos sus poros.",
+        "Plata": "Cuando oscurece, los anillos de su cuerpo empiezan a brillar, asustando a cualquiera que se acerque.",
+        "Cristal": "Cuando hay luna llena, o cuando se pone nervioso, le empiezan a brillar los anillos de color dorado.",
+        "Rubí": "Umbreon evoluciona por exposición a la luz de la luna. Se esconde silenciosamente en la oscuridad y espera a que su enemigo se mueva. Los aros de su cuerpo brillan cuando va a atacar.",
+        "Zafiro": "Umbreon evoluciona por exposición a la luz de la luna. Se esconde silenciosamente en la oscuridad y espera a que su enemigo se mueva. Los aros de su cuerpo brillan cuando va a atacar.",
+        "Esmeralda": "Evolucionó tras haber estado expuesto a ondas lunares. Se esconde en la oscuridad en silencio y espera a que su presa se mueva. Cuando ataca, le brillan los anillos.",
+        "Rojo Fuego": "Cuando oscurece, los anillos de su cuerpo comienzan a brillar, asustando a cualquiera que se acerque.",
+        "Verde Hoja": "Cuando se siente amenazado, este Pokémon se protege lanzando sudor venenoso por todos sus poros.",
+        "Diamante": "Creado cuando la luz lunar alteró la estructura genética de Eevee. Busca presas en la oscuridad.",
+        "Perla": "Creado cuando la luz lunar alteró la estructura genética de Eevee. Busca presas en la oscuridad.",
+        "Platino": "Si se expone al aura de la luna, los anillos de su cuerpo relucen y adquieren un poder misterioso.",
+        "Oro HeartGold": "Cuando se siente amenazado, este Pokémon se protege lanzando sudor venenoso por todos sus poros.",
+        "Plata SoulSilver": "Cuando oscurece, los anillos de su cuerpo empiezan a brillar, asustando a cualquiera que se acerque.",
+        "Negro": "Si se expone al aura de la luna, los anillos de su cuerpo relucen y adquieren un poder misterioso.",
+        "Blanco": "Si se expone al aura de la luna, los anillos de su cuerpo relucen y adquieren un poder misterioso.",
+        "Negro 2": "Cuando lo baña la luz de la luna, los círculos de su pelaje brillan levemente y se ve revestido de un poder misterioso.",
+        "Blanco 2": "Cuando lo baña la luz de la luna, los círculos de su pelaje brillan levemente y se ve revestido de un poder misterioso.",
+        "Pokémon X": "Creado cuando la luz lunar alteró la estructura genética de Eevee. Busca presas en la oscuridad.",
+        "Pokémon Y": "Cuando lo baña la luz de la luna, los círculos de su pelaje brillan levemente y se ve revestido de un poder misterioso.",
+        "Rubí Omega": "Umbreon evolucionó tras haber estado expuesto a ondas lunares. Suele esconderse en la oscuridad en silencio y esperar a que su presa se mueva. Cuando se lanza al ataque, le brillan los anillos del cuerpo.",
+        "Zafiro Alfa": "Umbreon evolucionó tras haber estado expuesto a ondas lunares. Suele esconderse en la oscuridad en silencio y esperar a que su presa se mueva. Cuando se lanza al ataque, le brillan los anillos del cuerpo.",
+        "Sol": "Cuando se enfurece, secreta un sudor venenoso por los poros que lanza a los ojos de sus enemigos.",
+        "Luna": "Su pelaje le permite camuflarse en la oscuridad, donde espera con paciencia a que su presa se distraiga para saltarle al cuello.",
+        "Ultrasol": "Un Pokémon de hábitos nocturnos. Sus grandes pupilas le permiten distinguir con total claridad a sus presas en la más densa oscuridad.",
+        "Ultraluna": "Acecha a sus presas al amparo de la oscuridad. Sus círculos emiten un brillo ominoso cuando se dispone a saltar al ataque.",
+        "Espada": "Cuando se enfurece, secreta un sudor venenoso por los poros que lanza a los ojos de sus enemigos.",
+        "Escudo": "En las noches de luna llena, o cuando se exalta, le empiezan a brillar los anillos de color dorado.",
+        "Diamante Brillante": "Surgió cuando la luz lunar alteró la estructura genética de Eevee. Acecha a sus presas en la oscuridad.",
+        "Perla Reluciente": "Surgió cuando la luz lunar alteró la estructura genética de Eevee. Acecha a sus presas en la oscuridad.",
+        "Leyendas: Arceus": "Se vuelve más activo a medianoche, bajo la luz de la luna. Es infalible a la hora de atrapar a sus presas en la oscuridad gracias a sus grandes ojos."
+    },
+    "evolution": [
+        [
+            "Eevee",
+            "Piedra agua ",
+            "Vaporeon"
+        ],
+        [
+            "",
+            "Piedra trueno ",
+            "Jolteon"
+        ],
+        [
+            "",
+            "Piedra fuego ",
+            "Flareon"
+        ],
+        [
+            "",
+            "Amistad + nivel (día) ",
+            "Espeon"
+        ],
+        [
+            "",
+            "Amistad + nivel (noche) ",
+            "Umbreon"
+        ],
+        [
+            "",
+            "Subir nivel cerca de la roca musgo 2;o piedra hoja 3",
+            "Leafeon"
+        ],
+        [
+            "",
+            "Subir nivel cerca de la roca hielo 2;o piedra hielo 3",
+            "Glaceon"
+        ],
+        [
+            "",
+            "Dos corazones de afecto2/amistad3 + nivel + conocer un movimiento de tipo hada",
+            "Sylveon"
+        ]
+    ]
+}

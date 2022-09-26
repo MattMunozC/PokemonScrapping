@@ -1,0 +1,183 @@
+{
+    "dex number": "166",
+    "pokemon name": "Ledian",
+    "types": [
+        "bicho",
+        "volador"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Madrugar"
+    ],
+    "hidden abilities": [
+        "Puño férreo"
+    ],
+    "stats": {
+        "hp": "55",
+        "atk": "35",
+        "def": "50",
+        "atk esp": "55",
+        "def esp": "110",
+        "speed": "85"
+    },
+    "location": {
+        "Oro": [
+            "Intercambiar: de Pokémon Plata o Pokémon Cristal."
+        ],
+        "Plata": [
+            "Salvaje, por la mañana: Ruta 2.",
+            "Evolucionar: a Ledyba (Nivel 18)"
+        ],
+        "Cristal": [
+            "Salvaje, por la mañana: Rutas 2 y 37.",
+            "Evolucionar: a Ledyba (Nivel 18)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja, Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja, Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Ledyba (Nivel 18)."
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Ledyba (Nivel 18)."
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Ledyba (Nivel 18)."
+        ],
+        "Diamante": [
+            "Salvaje, por la mañana: Ruta 229.",
+            "Evolucionar: a Ledyba (Nivel 18).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Salvaje, por la mañana: Ruta 229.",
+            "Evolucionar: a Ledyba (Nivel 18).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Salvaje, por la mañana: Ruta 229.",
+            "Evolucionar: a Ledyba (Nivel 18).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Plata SoulSilver.",
+            "Evolucionar: a Ledyba (Nivel 18).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, por la mañana: Ruta 2.",
+            "Golpe Cabeza: Bosque Verde.",
+            "Evolucionar: a Ledyba (Nivel 18).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Salvaje: Solar de los Sueños.",
+            "Dream World: Con la habilidad Puño férreo.",
+            "Evolucionar: a Ledyba (Nivel 18)"
+        ],
+        "Blanco": [
+            "Salvaje: Solar de los Sueños.",
+            "Dream World: Con la habilidad Puño férreo.",
+            "Evolucionar: a Ledyba (Nivel 18)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro o Pokémon Blanco 2.",
+            "Dream World: Con la habilidad Puño férreo.",
+            "Evolucionar: a Ledyba (Nivel 18)"
+        ],
+        "Blanco 2": [
+            "Manada Pokémon: Ruta 22.",
+            "Dream World: Con la habilidad Puño férreo.",
+            "Evolucionar: a Ledyba (Nivel 18)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Ledyba (Nivel 18)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Ledyba (Nivel 18)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Salvaje: Rutas 10, 11, 17, Parque de Malíe y Jardines de Ula-Ula (durante el día).",
+            "Evolucionar: a Ledyba (nivel 18)."
+        ],
+        "Luna": [
+            "Salvaje: Rutas 10, 11, 17, Parque de Malíe y Jardines de Ula-Ula (durante el día).",
+            "Evolucionar: a Ledyba (nivel 18)."
+        ],
+        "Ultrasol": [
+            "Salvaje: Rutas 10, 11, 16, 17 y Parque de Malíe (durante el día).",
+            "Evolucionar: a Ledyba (nivel 18)."
+        ],
+        "Ultraluna": [
+            "Salvaje: Rutas 10, 11, 16, 17 y Parque de Malíe (durante el día).",
+            "Evolucionar: a Ledyba (nivel 18)."
+        ],
+        "Espada": [
+            "Ledian no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Ledian no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje, por la mañana: Ruta 229.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Ledyba (Nivel 18)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje, por la mañana: Ruta 229.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Ledyba (Nivel 18)."
+        ],
+        "Leyendas: Arceus": [
+            "Ledian no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Cuando parpadean las estrellas en el cielo nocturno, se mece, desprendiendo un polvo brillante.",
+        "Plata": "Las estrellas de su lomo crecen y decrecen dependiendo de las estrellas del cielo nocturno.",
+        "Cristal": "Por la mañana, cuando hace calor, se enrosca en una hoja bien grande y va cayendo en un dulce sueño.",
+        "Rubí": "Dicen que en zonas en las que el aire está limpio, en las que se ven las estrellas, hay enormes poblaciones de Ledian. La razón es muy sencilla: este Pokémon usa la luz de las estrellas como fuente de energía.",
+        "Zafiro": "Dicen que en zonas en las que el aire está limpio, en las que se ven las estrellas, hay enormes poblaciones de Ledian. La razón es muy sencilla: este Pokémon usa la luz de las estrellas como fuente de energía.",
+        "Esmeralda": "Dicen que, en zonas de aire puro donde se ven las estrellas, hay grandes grupos de Ledian. Y es que estos Pokémon usan la luz de las estrellas como fuente de energía.",
+        "Rojo Fuego": "Las estrellas que tiene en el lomo crecen y decrecen dependiendo de las estrellas del cielo nocturno.",
+        "Verde Hoja": "Cuando parpadean las estrellas en el cielo nocturno, se mece desprendiendo un polvo brillante.",
+        "Diamante": "Se nutre de la luz de las estrellas. Cuanto más estrellada está la noche, más crecen los dibujos de su lomo.",
+        "Perla": "Se nutre de la luz de las estrellas. Cuanto más estrellada está la noche, más crecen los dibujos de su lomo.",
+        "Platino": "Se nutre de la luz de las estrellas. Cuanto más estrellada está la noche, más crecen los dibujos de su lomo.",
+        "Oro HeartGold": "Cuando parpadean las estrellas en el cielo nocturno, se mece desprendiendo un polvo brillante.",
+        "Plata SoulSilver": "Las estrellas de su lomo crecen y decrecen dependiendo de las estrellas del cielo nocturno.",
+        "Negro": "Se nutre de la luz de las estrellas. Cuanto más estrellada está la noche, más crecen los dibujos de su lomo.",
+        "Blanco": "Se nutre de la luz de las estrellas. Cuanto más estrellada está la noche, más crecen los dibujos de su lomo.",
+        "Negro 2": "Se nutre de la luz de las estrellas. Cuanto más estrellada está la noche, más crecen los dibujos de su lomo.",
+        "Blanco 2": "Se nutre de la luz de las estrellas. Cuanto más estrellada está la noche, más crecen los dibujos de su lomo.",
+        "Pokémon X": "Cuando parpadean las estrellas en el cielo nocturno, se mece desprendiendo un polvo brillante.",
+        "Pokémon Y": "Los puntos de su caparazón crecen y decrecen dependiendo de las estrellas del cielo nocturno.",
+        "Rubí Omega": "Dicen que en zonas en las que el aire está limpio, en las que se ven las estrellas, hay enormes poblaciones de Ledian. La razón es muy sencilla: este Pokémon usa la luz de las estrellas como fuente de energía.",
+        "Zafiro Alfa": "Dicen que en zonas en las que el aire está limpio, en las que se ven las estrellas, hay enormes poblaciones de Ledian. La razón es muy sencilla: este Pokémon usa la luz de las estrellas como fuente de energía.",
+        "Sol": "Usa la luz de las estrellas como fuente de energía, pero también adora las bayas. Durante el día, duerme envuelto en una manta de hierba.",
+        "Luna": "Combate asestando puñetazos con sus cuatro brazos. Sus golpes no son muy poderosos, pero resultan muy efectivos cuando ataca en ráfaga.",
+        "Ultrasol": "Se dice que los motivos que luce en el dorso guardan relación con las estrellas, aunque esta teoría sigue siendo todo un misterio.",
+        "Ultraluna": "Vuela por el cielo nocturno esparciendo un polvo brillante. Dicen que entrar en contacto con este polvo trae buena suerte.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Se nutre de la luz de las estrellas. Cuanto más estrellada es la noche, más crecen los motivos que luce en el dorso.",
+        "Perla Reluciente": "Se nutre de la luz de las estrellas. Cuanto más estrellada es la noche, más crecen los motivos que luce en el dorso.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Ledyba",
+            "Nivel 18",
+            "Ledian"
+        ]
+    ]
+}

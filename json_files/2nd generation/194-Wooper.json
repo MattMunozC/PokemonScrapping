@@ -1,0 +1,177 @@
+{
+    "dex number": "194",
+    "pokemon name": "Wooper",
+    "types": [
+        "agua",
+        "tierra"
+    ],
+    "abilities": [
+        "Humedad",
+        "Absorbe agua"
+    ],
+    "hidden abilities": [
+        "Ignorante"
+    ],
+    "stats": {
+        "hp": "55",
+        "atk": "45",
+        "def": "45",
+        "atk esp": "25",
+        "def esp": "25",
+        "speed": "15"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje, por la noche: Ruta 32",
+            "Surfeando: Cueva Unión y Ruinas Alfa"
+        ],
+        "Plata": [
+            "Salvaje, por la noche: Ruta 32",
+            "Surfeando: Cueva Unión y Ruinas Alfa"
+        ],
+        "Cristal": [
+            "Salvaje, por la noche: Ruta 32",
+            "Surfeando: Cueva Unión y Ruinas Alfa"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Esmeralda": [
+            "Surfeando: extensión de la Zona Safari"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Valle Ruinas",
+            "Surfeando: Isla Quarta, Cueva Glaciada y Valle Ruinas"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 212 y Gran Pantano",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Perla": [
+            "Salvaje: Ruta 212 y Gran Pantano",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Platino": [
+            "Salvaje: Gran Pantano",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje, por la noche: Ruta 32",
+            "Surfeando: Ruinas Alfa, Cueva Unión y Zona Safari",
+            "Regalo: es uno de los Pokémon que nace de los huevos que entrega Cástor en el Centro Pokémon de Ciudad Malva",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, por la noche: Ruta 32",
+            "Surfeando: Ruinas Alfa, Cueva Unión y Zona Safari",
+            "Regalo: es uno de los Pokémon que nace de los huevos que entrega Cástor en el Centro Pokémon de Ciudad Malva",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco": [
+            "Surfeando: Bosque Blanco",
+            "Dream World: Mar Brillante"
+        ],
+        "Negro 2": [
+            "Criar: de Quagsire",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Criar: de Quagsire",
+            "Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo tierra"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo tierra"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol y Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol y Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Quagsire"
+        ],
+        "Ultraluna": [
+            "Criar: de Quagsire"
+        ],
+        "Espada": [
+            "Salvaje: Gorro del Gigante, Silla del Gigante, Lago Milotic (sur), Lago Axew (oeste), Humedal Frescor  y Playa Desafío ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur. Nidos en Prado Reverencia , Humedal Frescor  y Cueva Tenacidad "
+        ],
+        "Escudo": [
+            "Salvaje: Gorro del Gigante, Silla del Gigante, Lago Milotic (sur), Lago Axew (oeste), Humedal Frescor  y Playa Desafío ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur. Nidos en Prado Reverencia , Humedal Frescor  y Cueva Tenacidad "
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Ruta 212 (sur) y Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Ruta 212 (sur) y Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable."
+        ],
+        "Leyendas: Arceus": [
+            "Wooper no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Este Pokémon vive en aguas frías. Sale del agua para buscar comida cuando refresca el ambiente.",
+        "Plata": "Cuando camina por el suelo, envuelve su cuerpo con una película suave y venenosa.",
+        "Cristal": "Está cubierto por una membrana mucosa. Si le tocas directamente con las manos, sentirás un gran dolor.",
+        "Rubí": "Wooper suele vivir en el agua, pero es posible también verle en tierra en busca de comida. Cuando está en terreno firme, se cubre con una película viscosa tóxica.",
+        "Zafiro": "Wooper suele vivir en el agua, pero es posible también verle en tierra en busca de comida. Cuando está en terreno firme, se cubre con una película viscosa tóxica.",
+        "Esmeralda": "Suele vivir en el agua, pero también es posible verle en tierra en busca de comida. Cuando está en terreno firme, se cubre con una película viscosa y tóxica.",
+        "Rojo Fuego": "Cuando camina por el suelo, se envuelve en una película suave y venenosa.",
+        "Verde Hoja": "Este Pokémon vive en aguas frías. Y cuando refresca, sale del agua para buscar comida.",
+        "Diamante": "Vive en aguas frías. Para dormir se entierra a medias en el lodo del fondo.",
+        "Perla": "Cuando la temperatura baja por la tarde, emerge del agua y va a la orilla en busca de comida.",
+        "Platino": "Cuando anda por la tierra cubre su cuerpo con una capa venenosa para mantener hidratada su piel.",
+        "Oro HeartGold": "Este Pokémon vive en aguas frías. Sale del agua para buscar comida cuando refresca el ambiente.",
+        "Plata SoulSilver": "Cuando camina por el suelo, envuelve su cuerpo con una película suave y venenosa.",
+        "Negro": "Cuando anda por la tierra cubre su cuerpo con una capa venenosa para mantener hidratada su piel.",
+        "Blanco": "Cuando anda por la tierra cubre su cuerpo con una capa venenosa para mantener hidratada su piel.",
+        "Negro 2": "Cuando anda por la tierra cubre su cuerpo con una capa venenosa para mantener hidratada su piel.",
+        "Blanco 2": "Cuando anda por la tierra cubre su cuerpo con una capa venenosa para mantener hidratada su piel.",
+        "Pokémon X": "Este Pokémon vive en aguas frías. Sale del agua para buscar comida cuando refresca el ambiente.",
+        "Pokémon Y": "Cuando la temperatura baja por la tarde, emerge del agua y va a la orilla en busca de comida.",
+        "Rubí Omega": "Wooper suele vivir en el agua, pero es posible también verle en tierra en busca de comida. Cuando está en terreno firme, se cubre con una película viscosa tóxica.",
+        "Zafiro Alfa": "Wooper suele vivir en el agua, pero es posible también verle en tierra en busca de comida. Cuando está en terreno firme, se cubre con una película viscosa tóxica.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon vive en aguas frías. Sale del agua para buscar comida cuando refresca el ambiente.",
+        "Escudo": "Cuando se desplaza en tierra firme, cubre su cuerpo con una membrana mucosa y venenosa para mantener hidratada la piel.",
+        "Diamante Brillante": "Vive en aguas frías. Para dormir, entierra la mitad del cuerpo en el cieno del fondo.",
+        "Perla Reluciente": "Cuando la temperatura baja por la tarde, se ve a los Wooper salir del agua y pasear por la orilla en busca de alimento.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Wooper",
+            "Nivel 20",
+            "Quagsire"
+        ]
+    ]
+}

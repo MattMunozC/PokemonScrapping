@@ -1,0 +1,174 @@
+{
+    "dex number": "251",
+    "pokemon name": "Celebi",
+    "types": [
+        "psíquico",
+        "planta"
+    ],
+    "abilities": [
+        "Cura natural"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "100",
+        "atk": "100",
+        "def": "100",
+        "atk esp": "100",
+        "def esp": "100",
+        "speed": "100"
+    },
+    "location": {
+        "Oro": [
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Plata": [
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Cristal": [
+            "Salvaje: En el encinar. Requiere la GS Ball (solo uno)",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Rubí": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Especial: Regalo del Disco bonus de Pokémon Colosseum (versión japonesa)"
+        ],
+        "Zafiro": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Especial: Regalo del Disco bonus de Pokémon Colosseum (versión japonesa)"
+        ],
+        "Esmeralda": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Especial: Regalo del Disco bonus de Pokémon Colosseum (versión japonesa)"
+        ],
+        "Rojo Fuego": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Especial: Regalo del Disco bonus de Pokémon Colosseum (versión japonesa)"
+        ],
+        "Verde Hoja": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Especial: Regalo del Disco bonus de Pokémon Colosseum (versión japonesa)"
+        ],
+        "Diamante": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Pokémon X": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Pokémon Y": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Rubí Omega": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Zafiro Alfa": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Sol": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Luna": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultrasol": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultraluna": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Espada": [
+            "Especial: Transferir desde Pokémon HOME",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Escudo": [
+            "Especial: Transferir desde Pokémon HOME",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Diamante Brillante": [
+            "Especial: Transferir desde Pokémon HOME"
+        ],
+        "Perla Reluciente": [
+            "Especial: Transferir desde Pokémon HOME"
+        ],
+        "Leyendas: Arceus": [
+            "Celebi no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Este Pokémon vaga por el tiempo. La hierba y los árboles crecen por los campos por donde pasa.",
+        "Plata": "Dicen que cuando Celebi se interna en un bosque, deja tras de sí un huevo traído del futuro.",
+        "Cristal": "Conocido como el guardián del bosque, Celebi aparece allá donde existan hermosos bosques.",
+        "Rubí": "Este Pokémon vino del futuro haciendo un viaje en el tiempo. Hay quien piensa que, mientras Celebi siga apareciendo, hay un futuro brillante y esperanzador.",
+        "Zafiro": "Este Pokémon vino del futuro haciendo un viaje en el tiempo. Hay quien piensa que, mientras Celebi siga apareciendo, hay un futuro brillante y esperanzador.",
+        "Esmeralda": "Vino del futuro haciendo un viaje en el tiempo. Hay quien piensa que, mientras Celebi siga apareciendo, el futuro será brillante y esperanzador.",
+        "Rojo Fuego": "Dicen que cuando Celebi se interna en un bosque, deja tras de sí un huevo traído del futuro.",
+        "Verde Hoja": "Este Pokémon vaga por el tiempo. La hierba y los árboles crecen por los campos por donde pasa.",
+        "Diamante": "Puede viajar en el tiempo, pero se dice que solo aparece en tiempos de paz.",
+        "Perla": "Puede viajar en el tiempo, pero se dice que solo aparece en tiempos de paz.",
+        "Platino": "Puede viajar en el tiempo, pero se dice que solo aparece en tiempos de paz.",
+        "Oro HeartGold": "Este Pokémon vaga por el tiempo. La hierba y los árboles crecen por los campos por donde pasa.",
+        "Plata SoulSilver": "Dicen que cuando Celebi se interna en un bosque, deja tras de sí un huevo traído del futuro.",
+        "Negro": "Puede viajar en el tiempo, pero se dice que solo aparece en tiempos de paz.",
+        "Blanco": "Puede viajar en el tiempo, pero se dice que solo aparece en tiempos de paz.",
+        "Negro 2": "Puede viajar en el tiempo, pero se dice que solo aparece en tiempos de paz.",
+        "Blanco 2": "Puede viajar en el tiempo, pero se dice que solo aparece en tiempos de paz.",
+        "Pokémon X": "Este Pokémon vaga por el tiempo. La hierba y los árboles crecen por los campos por donde pasa.",
+        "Pokémon Y": "Puede viajar en el tiempo, pero se dice que solo aparece en tiempos de paz.",
+        "Rubí Omega": "Este Pokémon vino del futuro haciendo un viaje en el tiempo. Hay quien piensa que, mientras Celebi siga apareciendo, hay un futuro brillante y esperanzador.",
+        "Zafiro Alfa": "Este Pokémon vino del futuro haciendo un viaje en el tiempo. Hay quien piensa que, mientras Celebi siga apareciendo, hay un futuro brillante y esperanzador.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Es capaz de viajar en el tiempo. Su condición de guardián del bosque ha quedado constatada en documentos conservados de diversas épocas.",
+        "Escudo": "Vino del futuro haciendo un viaje en el tiempo. Además de curar las heridas, posee la capacidad de revitalizar la hierba y los árboles.",
+        "Diamante Brillante": "Puede viajar en el tiempo, pero se dice que solo aparece en tiempos de paz.",
+        "Perla Reluciente": "Puede viajar en el tiempo, pero se dice que solo aparece en tiempos de paz.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Celebi"
+        ]
+    ]
+}

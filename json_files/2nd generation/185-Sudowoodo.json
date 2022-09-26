@@ -1,0 +1,167 @@
+{
+    "dex number": "185",
+    "pokemon name": "Sudowoodo",
+    "types": [
+        "roca"
+    ],
+    "abilities": [
+        "Robustez",
+        "Cabeza roca"
+    ],
+    "hidden abilities": [
+        "Cobardía"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "100",
+        "def": "115",
+        "atk esp": "30",
+        "def esp": "65",
+        "speed": "30"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje: Ruta 36. Es necesario usar la regadera (solo uno)."
+        ],
+        "Plata": [
+            "Salvaje: Ruta 36. Es necesario usar la regadera (solo uno)."
+        ],
+        "Cristal": [
+            "Salvaje: Ruta 36. Es necesario usar la regadera (solo uno)."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Esmeralda": [
+            "Salvaje: Frente Batalla. Es necesario usar el cubo Wailmer (solo uno)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Diamante": [
+            "Evolucionar: de Bonsly (nivel + mimético)."
+        ],
+        "Perla": [
+            "Salvaje: rutas 214 y 221.",
+            "Evolucionar: de Bonsly (nivel + mimético)."
+        ],
+        "Platino": [
+            "Salvaje: Ruta 221.",
+            "Evolucionar: de Bonsly (nivel + mimético)."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Ruta 36. Es necesario usar la regadera (solo uno)."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Ruta 36. Es necesario usar la regadera (solo uno)."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Negro 2.",
+            "Dream World: en el Bosque Pequeño."
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro 2.",
+            "Dream World: en el Bosque Pequeño."
+        ],
+        "Negro 2": [
+            "Manada: Ruta 20.",
+            "Dream World: en el Bosque Pequeño."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro 2.",
+            "Dream World: en el Bosque Pequeño."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 20 (hordas con Trevenant)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 20 (hordas con Trevenant)."
+        ],
+        "Rubí Omega": [
+            " Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            " Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            " Salvaje: Rutas 1, 5 y Jungla Umbría (como refuerzo de Bonsly)",
+            "Evolucionar: de Bonsly (nivel + mimético)"
+        ],
+        "Luna": [
+            " Salvaje: Rutas 1, 5 y Jungla Umbría (como refuerzo de Bonsly)",
+            "Evolucionar: de Bonsly (nivel + mimético)"
+        ],
+        "Ultrasol": [
+            " Salvaje: Rutas 1, 5 y Jungla Umbría (como refuerzo de Bonsly)",
+            "Evolucionar: de Bonsly (nivel + mimético)"
+        ],
+        "Ultraluna": [
+            " Salvaje: Rutas 1, 5 y Jungla Umbría (como refuerzo de Bonsly)",
+            "Evolucionar: de Bonsly (nivel + mimético)"
+        ],
+        "Espada": [
+            "Salvaje: Valle Entrepuentes (Tormenta de arena)",
+            "Incursiones Dinamax: Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste."
+        ],
+        "Escudo": [
+            "Salvaje: Valle Entrepuentes (Tormenta de arena)",
+            "Incursiones Dinamax: Llanura Pétrea, nido al suroeste entre rocas y Pradera Radiante, nido al sureste junto a la pared."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Bonsly (nivel + mimético)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: rutas 214 y 221.",
+            "Evolucionar: de Bonsly (nivel + mimético)."
+        ],
+        "Leyendas: Arceus": [
+            "Pantanal Carmesí:Rellano Nebuloso. Ladera Corona:Ruinas Celestiales",
+            "Evolucionar: de Bonsly (nivel + mimético)."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Aunque pretende ser un árbol, en su composición se parece más a una roca que a una planta.",
+        "Plata": "Se disfraza de árbol para no ser atacado. Odia el agua, por lo que desaparecerá si empieza a llover.",
+        "Cristal": "Si ves una rama moverse cuando no hay viento, habrás encontrado un Sudowoodo. Cuando llueve se esconde.",
+        "Rubí": "Sudowoodo se camufla adoptando la imagen de un árbol para que no le ataque ningún enemigo. El problema viene en invierno; ya que las patas se le ven verdes y es fácil identificarle.",
+        "Zafiro": "Sudowoodo se camufla adoptando la imagen de un árbol para que no le ataque ningún enemigo. El problema viene en invierno; ya que las patas se le ven verdes y es fácil identificarle.",
+        "Esmeralda": "Se camufla adoptando la imagen de un árbol para que no le ataque ningún enemigo. El problema viene en invierno: las patas se le ven verdes y es fácil identificarle.",
+        "Rojo Fuego": "Se disfraza de árbol para no ser atacado. Odia el agua, por lo que desaparecerá si empieza a llover.",
+        "Verde Hoja": "Aunque pretende ser un árbol, en su composición se parece más a una roca que a una planta.",
+        "Diamante": "Aunque parezca un árbol, su cuerpo se asemeja a las rocas y piedras. Es débil frente al agua",
+        "Perla": "Simula ser un árbol en los caminos. Si comienza a llover, desaparece.",
+        "Platino": "Para evitar que le ataquen se limita a imitar a un árbol. Odia el agua y huye de la lluvia.",
+        "Oro HeartGold": "Aunque pretende ser un árbol, en su composición se parece más a una roca que a una planta.",
+        "Plata SoulSilver": "Se disfraza de árbol para no ser atacado. Odia el agua, por lo que desaparecerá si empieza a llover.",
+        "Negro": "Para evitar que le ataquen se limita a imitar a un árbol. Odia el agua y huye de la lluvia.",
+        "Blanco": "Para evitar que le ataquen se limita a imitar a un árbol. Odia el agua y huye de la lluvia.",
+        "Negro 2": "Para evitar que le ataquen se limita a imitar a un árbol. Odia el agua y huye de la lluvia.",
+        "Blanco 2": "Para evitar que le ataquen se limita a imitar a un árbol. Odia el agua y huye de la lluvia.",
+        "Pokémon X": "Aunque pretende ser un árbol, en su composición se parece más a una roca que a una planta.",
+        "Pokémon Y": "Se disfraza de árbol para no ser atacado. Odia el agua, por lo que desaparecerá si empieza a llover.",
+        "Rubí Omega": "Sudowoodo se camufla adoptando la imagen de un árbol para que no le ataque ningún enemigo. El problema viene en invierno; ya que las patas se le ven verdes y es fácil identificarle.",
+        "Zafiro Alfa": "Sudowoodo se camufla adoptando la imagen de un árbol para que no le ataque ningún enemigo. El problema viene en invierno; ya que las patas se le ven verdes y es fácil identificarle.",
+        "Sol": "Se disfraza de árbol para no ser atacado. Huirá rápidamente si alguien le echa agua por encima, pues no la soporta.",
+        "Luna": "Es bastante popular entre la gente de mayor edad. La pasión que le profesan los fanáticos es proporcional al tamaño de su parte verde.",
+        "Ultrasol": "Aparece en algunas revistas especializadas populares entre la gente mayor. Sus fans adoran lo largo y anguloso de sus extremidades.",
+        "Ultraluna": "A fuerza de mantener la misma postura, sus extremidades se han vuelto flexibles y robustas.",
+        "Espada": "Quien vea agitarse un árbol sin que sople el viento habrá encontrado un Sudowoodo. En los días lluviosos, sin embargo, se esconde.",
+        "Escudo": "Finge ser un árbol para evitar que lo ataquen. Odia tanto el agua que desaparecerá si empieza a llover.",
+        "Diamante Brillante": "Aunque parezca un árbol, su cuerpo se asemeja más a las rocas y piedras. Es débil frente al agua.",
+        "Perla Reluciente": "Se planta junto a los caminos fingiendo ser un árbol, pero desaparece en cuanto empieza a llover.",
+        "Leyendas: Arceus": "Finge ser un árbol, mas no engaña ni a un niño. Al tacto, su textura no es similar a la de la corteza, sino a la de una roca. La gran aversión que siente por el agua es digna de mención."
+    },
+    "evolution": [
+        [
+            "Bonsly",
+            "Conociendo mimético+ nivel",
+            "Sudowoodo"
+        ]
+    ]
+}

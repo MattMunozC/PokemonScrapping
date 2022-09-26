@@ -1,0 +1,162 @@
+{
+    "dex number": "191",
+    "pokemon name": "Sunkern",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Poder solar"
+    ],
+    "hidden abilities": [
+        "Madrugar"
+    ],
+    "stats": {
+        "hp": "30",
+        "atk": "30",
+        "def": "30",
+        "atk esp": "30",
+        "def esp": "30",
+        "speed": "30"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje, en el día: Ruta 24, Parque Nacional."
+        ],
+        "Plata": [
+            "Salvaje, en el día: Ruta 24, Parque Nacional."
+        ],
+        "Cristal": [
+            "Salvaje, en el día: Ruta 24, Parque Nacional."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda."
+        ],
+        "Esmeralda": [
+            "Salvaje: Extensión de la Zona Safari."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: Zona norte de la Ruta 204 (Pokéradar).",
+            "Parque Compi: Zona Pradera"
+        ],
+        "Perla": [
+            "Salvaje: Zona norte de la Ruta 204 (Pokéradar).",
+            "Parque Compi: Zona Pradera"
+        ],
+        "Platino": [
+            "Salvaje: Zona norte de la Ruta 204 (Pokéradar).",
+            "Parque Compi: Zona Pradera"
+        ],
+        "Oro HeartGold": [
+            "Salvaje, en el día: Ruta 24, Parque Nacional."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, en el día: Ruta 24, Parque Nacional."
+        ],
+        "Negro": [
+            "Salvaje: Ruta 12.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 12.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 20.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 20.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo planta."
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo planta."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque espejismo."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque espejismo."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Sunkern no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Sunkern no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Ruta 204.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera y Caverna Solana."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Ruta 204.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera y Caverna Solana."
+        ],
+        "Leyendas: Arceus": [
+            "Sunkern no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Puede caer del cielo de repente. Si le ataca un Spearow, moverá violentamente sus hojas.",
+        "Plata": "Se alimenta del rocío que hay sobre las hojas de las plantas. Dicen que no come nada más.",
+        "Cristal": "Es débil. La única forma que tiene de defenderse es agitar las hojas con desesperación frente a su rival.",
+        "Rubí": "Sunkern intenta moverse lo menos posible para conservar el mayor número de nutrientes que ha guardado en su interior y poder evolucionar. Ni siquiera come, sólo se alimenta del rocío de la mañana.",
+        "Zafiro": "Sunkern intenta moverse lo menos posible para conservar el mayor número de nutrientes que ha guardado en su interior y poder evolucionar. Ni come siquiera; se alimenta sólo del rocío de la mañana.",
+        "Esmeralda": "Intenta moverse poco para conservar los nutrientes que ha guardado en su interior y poder evolucionar. Ni siquiera come: sólo se alimenta del rocío de la mañana.",
+        "Rojo Fuego": "Se alimenta del rocío que hay sobre las hojas de las plantas. Dicen que no come nada más.",
+        "Verde Hoja": "Puede caer del cielo de repente. Si le ataca un Spearow, moverá violentamente sus hojas.",
+        "Diamante": "Cae de repente del cielo por las mañanas. Los años de veranos suaves su número se multiplica.",
+        "Perla": "Cae de repente del cielo por las mañanas. Los años de veranos suaves su número se multiplica.",
+        "Platino": "Cae de repente del cielo por las mañanas. Los años de veranos suaves su número se multiplica.",
+        "Oro HeartGold": "Puede caer del cielo de repente. Si le ataca un Spearow, moverá violentamente sus hojas.",
+        "Plata SoulSilver": "Se alimenta del rocío que hay sobre las hojas de las plantas. Dicen que no come nada más.",
+        "Negro": "Cae de repente del cielo por las mañanas. Los años de veranos suaves su número se multiplica.",
+        "Blanco": "Cae de repente del cielo por las mañanas. Los años de veranos suaves su número se multiplica.",
+        "Negro 2": "Cae de repente del cielo por las mañanas. Como sabe que es débil, solo se dedica a nutrirse hasta que evoluciona.",
+        "Blanco 2": "Cae de repente del cielo por las mañanas. Como sabe que es débil, solo se dedica a nutrirse hasta que evoluciona.",
+        "Pokémon X": "Puede caer del cielo de repente. Si le ataca un Spearow, moverá violentamente sus hojas.",
+        "Pokémon Y": "Se alimenta del rocío que hay sobre las hojas de las plantas. Dicen que no come nada más.",
+        "Rubí Omega": "Sunkern intenta moverse lo menos posible para conservar todos los nutrientes que ha guardado en su interior y poder evolucionar. Ni come siquiera; se alimenta solo del rocío de la mañana.",
+        "Zafiro Alfa": "Sunkern intenta moverse lo menos posible para conservar todos los nutrientes que ha guardado en su interior y poder evolucionar. Ni come siquiera; se alimenta solo del rocío de la mañana.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Puede caer de repente del cielo por la mañana. Tras un verano templado, su número se multiplica enormemente al año siguiente.",
+        "Perla Reluciente": "Puede caer de repente del cielo por la mañana. Tras un verano templado, su número se multiplica enormemente al año siguiente.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Sunkern",
+            "Piedra solar ",
+            "Sunflora"
+        ]
+    ]
+}

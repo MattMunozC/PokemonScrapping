@@ -1,0 +1,169 @@
+{
+    "dex number": "217",
+    "pokemon name": "Ursaring",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Agallas",
+        "Pies rápidos"
+    ],
+    "hidden abilities": [
+        "Nerviosismo"
+    ],
+    "stats": {
+        "hp": "90",
+        "atk": "130",
+        "def": "75",
+        "atk esp": "75",
+        "def esp": "75",
+        "speed": "55"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje, Todo el día: Ruta 28, Monte Plateado, Calle Victoria.",
+            "Evolucionar: a Teddiursa (nivel 30)."
+        ],
+        "Plata": [
+            "Intercambiar: de Oro o Cristal"
+        ],
+        "Cristal": [
+            "Salvaje, Mañana y día: Monte Plateado, Cueva Oscura (zona norte)",
+            "Evolucionar: a Teddiursa (nivel 30)."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Teddiursa (nivel 30)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Diamante": [
+            "Salvaje: Rutas 216, 217, Lago Agudeza (Esmeralda insertado en la ranura para juegos de GBA de la DS).",
+            "Evolucionar: a Teddiursa (nivel 30).",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Salvaje: Rutas 216, 217, Lago Agudeza (Esmeralda insertado en la ranura para juegos de GBA de la DS).",
+            "Evolucionar: a Teddiursa (nivel 30).",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Salvaje: Rutas 216, 217, Lago Agudeza (Esmeralda insertado en la ranura para juegos de GBA de la DS).",
+            "Evolucionar: a Teddiursa (nivel 30).",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Plata SoulSilver, Perla, Diamante o Platino",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Ruta 28, Calle Victoria y Monte Plateado.",
+            "Evolucionar: a Teddiursa (nivel 30)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Evolucionar: a Teddiursa (nivel 30)."
+        ],
+        "Blanco": [
+            "Evolucionar: a Teddiursa (nivel 30)."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Teddiursa (nivel 30)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Teddiursa (nivel 30)."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 21."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 21."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Ursaring no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Ursaring no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Teddiursa (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pantanal Carmesí: Palestra Ursa. Ladera Corona: Senda del Peregrino.",
+            "Evolucionar: a Teddiursa (nivel 30).",
+            "Pokémon alfa:Palestra Orsa y Ciénaga Bocazas.",
+            "Distorsión espaciotemporal: Pradera Obsidiana."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Aunque trepa muy bien, prefiere agitar los árboles con sus patas y comer las bayas caídas.",
+        "Plata": "Capaz de percibir cualquier tipo de aroma, encuentra sin problemas todo alimento enterrado bajo tierra.",
+        "Cristal": "Aunque es muy grande, no se le da nada mal lo de trepar árboles. Come y duerme en las copas.",
+        "Rubí": "En los bosques habitados por Ursaring, dicen que abundan los arroyos y árboles gigantes en los que guardan su alimento. Este Pokémon se dedica todos los días a pasear por el bosque para buscar comida y guardarla.",
+        "Zafiro": "En los bosques habitados por Ursaring, dicen que abundan los arroyos y árboles gigantes en los que guardan su alimento. Este Pokémon se dedica todos los días a pasear por el bosque para buscar comida y guardarla.",
+        "Esmeralda": "En los bosques que habita, dicen que hay arroyos y árboles gigantes donde guarda su alimento. A diario, pasea por el bosque para recolectar comida.",
+        "Rojo Fuego": "Capaz de percibir cualquier tipo de aroma, encuentra sin problemas todo alimento enterrado bajo tierra.",
+        "Verde Hoja": "Aunque trepa muy bien, prefiere agitar los árboles con sus patas y comer las BAYAS que caen.",
+        "Diamante": "Araña los árboles de su territorio que dan bayas y frutas que le gustan para marcarlos.",
+        "Perla": "Araña los árboles de su territorio que dan bayas y frutas que le gustan para marcarlos.",
+        "Platino": "Araña los árboles de su territorio que dan bayas y frutas que le gustan para marcarlos.",
+        "Oro HeartGold": "Aunque trepa muy bien, prefiere agitar los árboles con sus patas y comer las bayas caídas.",
+        "Plata SoulSilver": "Capaz de percibir cualquier tipo de aroma, encuentra sin problemas todo alimento enterrado bajo tierra.",
+        "Negro": "Araña los árboles de su territorio que dan bayas y frutas que le gustan para marcarlos.",
+        "Blanco": "Araña los árboles de su territorio que dan bayas y frutas que le gustan para marcarlos.",
+        "Negro 2": "Araña los árboles de su territorio que dan bayas y frutas que le gustan para marcarlos.",
+        "Blanco 2": "Araña los árboles de su territorio que dan bayas y frutas que le gustan para marcarlos.",
+        "Pokémon X": "Capaz de percibir cualquier tipo de aroma, encuentra sin problemas todo alimento enterrado bajo tierra.",
+        "Pokémon Y": "Aunque es muy grande, no se le da nada mal lo de trepar árboles. Come y duerme en las copas.",
+        "Rubí Omega": "En los bosques habitados por Ursaring, dicen que abundan los arroyos y árboles gigantes en los que guardan su alimento. Este Pokémon se dedica todos los días a pasear por el bosque para buscar comida y guardarla.",
+        "Zafiro Alfa": "En los bosques habitados por Ursaring, dicen que abundan los arroyos y árboles gigantes en los que guardan su alimento. Este Pokémon se dedica todos los días a pasear por el bosque para buscar comida y guardarla.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Marca con arañazos los árboles de su territorio que dan bayas y frutas de su agrado.",
+        "Perla Reluciente": "Marca con arañazos los árboles de su territorio que dan bayas y frutas de su agrado.",
+        "Leyendas: Arceus": "Cuando el frío comienza a extenderse por la región de Hisui, recorre los campos y montañas en busca de sus bayas favoritas. El hambre lo vuelve extremadamente violento."
+    },
+    "evolution": [
+        [
+            "Teddiursa",
+            "Nivel 30",
+            "Ursaring",
+            "Bloque de turba durante una noche de luna llena\n\n",
+            "Ursaluna"
+        ]
+    ]
+}

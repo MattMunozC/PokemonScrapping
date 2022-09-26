@@ -7,6 +7,9 @@ from pprint import pprint
 import json
 r.packages.urllib3.disable_warnings(InsecureRequestWarning) 
 
+VALID_TITLES=['RojoAzul', 'Amarillo', 'Oro', 'Plata', 'Cristal', 'Rubí', 'Zafiro', 'Esmeralda', 'Rojo Fuego', 'Verde Hoja', 'Diamante', 'Perla', 'Platino', 'Oro HeartGold', 'Plata SoulSilver', 'Negro', 'Blanco', 'Negro 2', 'Blanco 2', 'Pokémon X', 'Pokémon Y', 'Rubí Omega', 'Zafiro Alfa', 'Sol', 'Luna', 'Ultrasol', 'Ultraluna', "Let's Go Pikachu!Let's Go Eevee!", 'Espada', 'Escudo', 'Diamante Brillante', 'Perla Reluciente', 'Leyendas: Arceus']
+EXCEPTED_POKEMON=["Mew","Typhlosion","Deoxys"]
+
 def list_pkmn():
     url="https://www.wikidex.net/wiki/Lista_de_Pok%C3%A9mon"
     url_html=r.get(url,verify=False).text
@@ -22,7 +25,7 @@ def scrapping(list):
         dexnum=i["num"]
         pkmnname=i["name"]
 
-        url=r.get("https://www.wikidex.net/"+info,verify=False)
+        url=r.get(f"https://www.wikidex.net/{info}",verify=False)
 
         url_html=bs(url.text,"html.parser")
 
@@ -53,7 +56,7 @@ def scrapping(list):
         #MO_MT=[i.text for i in url_html.find_all("section",{"class":"tabber__section"})[1].find_all("tr")]
 
         save_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo)
-
+        #print_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo)
 
 def print_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo):
     pprint({"dex number":dexnum,
@@ -90,7 +93,6 @@ def save_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_i
                 "pokedex":pkdex_info,
                 "evolution":evo}
         f.write(json.dumps(data,indent=4,ensure_ascii=False))
-
         f.close()
     print(f"{pkmnname} saved!")
 
@@ -110,11 +112,8 @@ def Stats(url_html,pkmnname):
         raw_stats[0]['style']
         raw_stats=raw_stats[1]
     except KeyError:
-        if pkmnname=="Mew":
-            raw_stats=raw_stats[1]
-        else:
-            raw_stats=raw_stats[0]
-    return [raw_stats.find_all("tr")[i].find_all("td")[0].text.replace("\n","") for i in range(1,7)]
+        raw_stats=raw_stats[1] if pkmnname in EXCEPTED_POKEMON  else raw_stats[0]
+    return [i.find("td").text[:-1] for i in raw_stats.find_all("tr")[1:7]]
 
 def Pokedex(url_html):
     pkdex_table=url_html.find_all("table",{"class":"pokedex"})[0].find_all("tr")    
@@ -123,7 +122,7 @@ def Pokedex(url_html):
         th=i.find_all("th")
         if len(th)==2:
             region=th[1].text[:-1]
-            pkdex_info[region]=i.find_all("td")[0].text[:-1]
+            if region in VALID_TITLES: pkdex_info[region]=i.find_all("td")[0].text[:-1]
     return pkdex_info
 
 def Location(url_html):
@@ -131,7 +130,7 @@ def Location(url_html):
     location_info={}
     for i in location_table[1::]:
         row=[row_content for row_content in i.text.split("\n") if row_content!=""]
-        location_info[row[0]]=row[1::]
+        if row[0] in VALID_TITLES: location_info[row[0]]=row[1::]
     return location_info
 
 
@@ -155,4 +154,12 @@ def evolution(url_html,pkmname,previous=None):
 
 if __name__=="__main__":
     gen=[table_unwrapper(i) for i in list_pkmn()]
-    scrapping(gen[0])
+    #gen 1 ok
+    #gen 2 ok
+    #gen 3 ok
+    #gen 4 ok 
+    #gen 5 ok
+    #gen 6 ok 
+    #gen 7 problem
+    #gen 8 problem
+    scrapping(gen[1])

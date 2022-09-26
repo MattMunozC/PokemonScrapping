@@ -1,0 +1,167 @@
+{
+    "dex number": "165",
+    "pokemon name": "Ledyba",
+    "types": [
+        "bicho",
+        "volador"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Madrugar"
+    ],
+    "hidden abilities": [
+        "Cobardía"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "20",
+        "def": "30",
+        "atk esp": "40",
+        "def esp": "80",
+        "speed": "55"
+    },
+    "location": {
+        "Oro": [
+            "Intercambiar: de Pokémon Plata o Cristal."
+        ],
+        "Plata": [
+            "Salvaje, Por la mañana: Rutas 2, 30, 31, 37."
+        ],
+        "Cristal": [
+            "Salvaje, Por la mañana: 2, 30, 31, 36, 37, Parque Nacional.",
+            "Usando Golpe cabeza en algunos árboles de Johto."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja, Pokémon Esmeralda o Pokémon XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja, Pokémon Esmeralda o Pokémon XD."
+        ],
+        "Esmeralda": [
+            "Salvaje: Zona Safari (Este)."
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Bosquejo."
+        ],
+        "Verde Hoja": [
+            "Salvaje: Bosquejo."
+        ],
+        "Diamante": [
+            "Criando: de Ledian.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Criando: de Ledian.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Criando: de Ledian.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Diamante, Perla, Platino y Plata SoulSilver, se trata de un Pokémon exclusivo.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, por la mañana: Rutas 30, 31 y 37. Mañana y día: Ruta 2.",
+            "Golpe cabeza: Rutas 1, 2, 12, 13, 14, 15, 18, 21, 22, 26, 27, 29, 30, 31, 34, 35, 36, 37, 38, 39, 47, 48, Bosque Verde, Ciudad Verde, Ciudad Fucsia, Pueblo Paleta, Ciudad Cerezo, Ciudad Iris, Pueblo Primavera, Parque Nacional y Pueblo Safari (entrada al safari).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Criando: de Ledian.",
+            "Dream World: Alto Cielo con la habilidad Cobardía."
+        ],
+        "Blanco": [
+            "Criando: de Ledian.",
+            "Dream World: Alto Cielo con la habilidad Cobardía."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro o Pokémon Blanco 2.",
+            "Dream World: Alto Cielo con la habilidad Cobardía."
+        ],
+        "Blanco 2": [
+            "Criando: de Ledian.",
+            "Dream World: Alto Cielo con la habilidad Cobardía."
+        ],
+        "Pokémon X": [
+            "Salvaje: ruta 4 y Safari Amistad."
+        ],
+        "Pokémon Y": [
+            "Salvaje: ruta 4 y Safari Amistad."
+        ],
+        "Rubí Omega": [
+            "Intercambiar de Pokémon X y Pokémon Y",
+            "Poké Trasladador: Pasar de Pokémon Negro 2 y Pokémon Blanco 2."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar de Pokémon X y Pokémon Y",
+            "Poké Trasladador: Pasar de Pokémon Negro 2 y Pokémon Blanco 2."
+        ],
+        "Sol": [
+            "Salvaje: Ruta 1 (durante el día)."
+        ],
+        "Luna": [
+            "Salvaje: Ruta 1 (durante el día)."
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 1 (durante el día)."
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 1 (durante el día)."
+        ],
+        "Espada": [
+            "Ledyba no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Ledyba no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Criando: de Ledian."
+        ],
+        "Perla Reluciente": [
+            "Criando: de Ledian."
+        ],
+        "Leyendas: Arceus": [
+            "Ledyba no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Es muy tímido. Tiene miedo de moverse cuando va solo. Pero si va en grupo, se vuelve muy activo.",
+        "Plata": "Cuando llega el frío, se reúnen muchos Ledyba de todas partes para darse calor.",
+        "Cristal": "Es muy tímido y se refugia con los de su especie. Al caminar, deja una estela que indica dónde está.",
+        "Rubí": "Ledyba segrega un fluido aromático por los seis puntos de unión que tiene entre las patas y el cuerpo. A través de este fluido se comunica con otros y les informa acerca de sus sentimientos variando la esencia.",
+        "Zafiro": "Ledyba segrega un fluido aromático por los seis puntos de unión que tiene entre las patas y el cuerpo. A través de este fluido se comunica con otros y les informa acerca de sus sentimientos variando la esencia.",
+        "Esmeralda": "Segrega un fluido por los seis puntos de unión que tiene entre patas y cuerpo. Al variar la esencia de éste, consigue expresar abiertamente su estado de ánimo.",
+        "Rojo Fuego": "Cuando llega el frío, se reúnen muchos Ledyba de todas partes para darse calor.",
+        "Verde Hoja": "Es muy tímido. Tiene miedo de moverse cuando va solo. Pero si va en grupo, se vuelve muy activo.",
+        "Diamante": "Es tan temeroso que no se mueve si no es en grupo. Comunica sus sentimientos con olores.",
+        "Perla": "Es tan temeroso que no se mueve si no es en grupo. Comunica sus sentimientos con olores.",
+        "Platino": "Es tan temeroso que no se mueve si no es en grupo. Comunica sus sentimientos con olores.",
+        "Oro HeartGold": "Es muy tímido. Tiene miedo de moverse cuando va solo. Pero si va en grupo, se vuelve muy activo.",
+        "Plata SoulSilver": "Cuando llega el frío, se reúnen muchos Ledyba de todas partes para darse calor.",
+        "Negro": "Es tan temeroso que no se mueve si no es en grupo. Comunica sus sentimientos con olores.",
+        "Blanco": "Es tan temeroso que no se mueve si no es en grupo. Comunica sus sentimientos con olores.",
+        "Negro 2": "Es tan temeroso que no se mueve si no es en grupo. Comunica sus sentimientos con olores.",
+        "Blanco 2": "Es tan temeroso que no se mueve si no es en grupo. Comunica sus sentimientos con olores.",
+        "Pokémon X": "Cuando llega el frío, se reúnen muchos Ledyba de todas partes para darse calor.",
+        "Pokémon Y": "Es muy tímido y se refugia con los de su especie. Al caminar, deja una estela que indica dónde está.",
+        "Rubí Omega": "Ledyba segrega un fluido aromático por los seis puntos de unión que tiene entre las patas y el cuerpo. A través de este fluido se comunica con otros y les informa acerca de sus sentimientos variando la esencia.",
+        "Zafiro Alfa": "Ledyba segrega un fluido aromático por los seis puntos de unión que tiene entre las patas y el cuerpo. A través de este fluido se comunica con otros y les informa acerca de sus sentimientos variando la esencia.",
+        "Sol": "Es muy tímido y se siente inseguro si no está junto a los de su especie. El estampado de sus alas varía de un Ledyba a otro.",
+        "Luna": "Ledyba segrega un fluido aromático con el que se comunica con los de su especie. El olor que desprende cuando está enfadado es agrio.",
+        "Ultrasol": "Este Pokémon no soporta el frío. En Alola, sin embargo, se encuentra en su elemento y se lo puede ver revoloteando vivaracho por doquier.",
+        "Ultraluna": "Un Pokémon bastante temeroso. Junto con sus congéneres, protege su nido usando Reflejo.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Es tan temeroso que no se mueve si no es en grupo. Comunica sus sentimientos con olores.",
+        "Perla Reluciente": "Es tan temeroso que no se mueve si no es en grupo. Comunica sus sentimientos con olores.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Ledyba",
+            "Nivel 18",
+            "Ledian"
+        ]
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "dex number": "160",
+    "pokemon name": "Feraligatr",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": "85",
+        "atk": "105",
+        "def": "100",
+        "atk esp": "79",
+        "def esp": "83",
+        "speed": "78"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: de Croconaw (nivel 30)."
+        ],
+        "Plata": [
+            "Evolucionar: de Croconaw (nivel 30)."
+        ],
+        "Cristal": [
+            "Evolucionar: de Croconaw (nivel 30)."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Croconaw (nivel 30).",
+            "Intercambiar: de Pokémon Colosseum o Pokémon XD."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Evolucionar: de Croconaw (nivel 30).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Evolucionar: de Croconaw (nivel 30).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Evolucionar: de Croconaw (nivel 30).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Croconaw (nivel 30).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Croconaw (nivel 30).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Evolucionar: de Croconaw (nivel 30).",
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Evolucionar: de Croconaw (nivel 30).",
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Evolucionar: de Croconaw (nivel 30).",
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Croconaw (nivel 30).",
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa.",
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: En el Banco de Pokémon hasta el 30 de noviembre de 2015 para aquellos usuarios que tuvieran una suscripción activa."
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa.",
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: En el Banco de Pokémon hasta el 30 de noviembre de 2015 para aquellos usuarios que tuvieran una suscripción activa."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Croconaw (nivel 30).",
+            "Evento: En el Banco de Pokémon hasta el 30 de noviembre de 2015 para aquellos usuarios que tuvieran una suscripción activa."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Croconaw (nivel 30).",
+            "Evento: En el Banco de Pokémon hasta el 30 de noviembre de 2015 para aquellos usuarios que tuvieran una suscripción activa."
+        ],
+        "Sol": [
+            "Evolucionar: de Croconaw (nivel 30)."
+        ],
+        "Luna": [
+            "Evolucionar: de Croconaw (nivel 30)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Feraligatr no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Feraligatr no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Croconaw (nivel 30)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Croconaw (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Feraligatr no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Al morder con sus feroces fauces, mueve su cabeza despedazando salvajemente a su víctima.",
+        "Plata": "Le cuesta soportar su propio peso fuera del agua, así que va a cuatro patas. Aún así es rápido.",
+        "Cristal": "A pesar de ser tan corpulento, gracias a las patas traseras, se mueve con rapidez hasta por suelo firme.",
+        "Rubí": "Feraligatr intimida a sus oponentes abriendo las grandes fauces que tiene. En combate, golpea el suelo bruscamente con las gruesas y fuertes patas traseras que tiene para cargar contra su rival a una velocidad de vértigo.",
+        "Zafiro": "Feraligatr intimida a sus oponentes abriendo las grandes fauces que tiene. En combate, golpea el suelo bruscamente con las gruesas y fuertes patas traseras que tiene para cargar contra su rival a una velocidad de vértigo.",
+        "Esmeralda": "Intimida a su rival abriendo sus grandes fauces. Al luchar, golpea el suelo con sus gruesas y fuertes patas traseras, y carga rápidamente contra el enemigo.",
+        "Rojo Fuego": "Le cuesta soportar su propio peso fuera del agua, así que va a cuatro patas. Aún así es rápido",
+        "Verde Hoja": "Al morder con sus feroces fauces, mueve la cabeza para despedazar salvajemente a su víctima.",
+        "Diamante": "Se suele mover lento, pero alcanza velocidades de vértigo al atacar y morder a sus enemigos.",
+        "Perla": "Se suele mover lento, pero alcanza velocidades de vértigo al atacar y morder a sus enemigos.",
+        "Platino": "Se suele mover lento, pero alcanza velocidades de vértigo al atacar y morder a sus enemigos.",
+        "Oro HeartGold": "Al morder con sus feroces fauces, mueve su cabeza despedazando salvajemente a su víctima.",
+        "Plata SoulSilver": "Le cuesta soportar su propio peso fuera del agua, así que va a cuatro patas. Aun así es rápido.",
+        "Negro": "Se suele mover lento, pero alcanza velocidades de vértigo al atacar y morder a sus enemigos.",
+        "Blanco": "Se suele mover lento, pero alcanza velocidades de vértigo al atacar y morder a sus enemigos.",
+        "Negro 2": "Se suele mover lento, pero alcanza velocidades de vértigo al atacar y morder a sus enemigos.",
+        "Blanco 2": "Se suele mover lento, pero alcanza velocidades de vértigo al atacar y morder a sus enemigos.",
+        "Pokémon X": "Se suele mover lento, pero alcanza velocidades de vértigo al atacar y morder a sus enemigos.",
+        "Pokémon Y": "Al morder con sus feroces fauces, mueve su cabeza despedazando salvajemente a su víctima.",
+        "Rubí Omega": "Feraligatr intimida a sus oponentes abriendo las grandes fauces que tiene. En combate, golpea el suelo bruscamente con las gruesas y fuertes patas traseras que tiene para cargar contra su rival a una velocidad de vértigo.",
+        "Zafiro Alfa": "Feraligatr intimida a sus oponentes abriendo las grandes fauces que tiene. En combate, golpea el suelo bruscamente con las gruesas y fuertes patas traseras que tiene para cargar contra su rival a una velocidad de vértigo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Suele moverse con lentitud, pero alcanza velocidades de vértigo al atacar y morder a su presa.",
+        "Perla Reluciente": "Suele moverse con lentitud, pero alcanza velocidades de vértigo al atacar y morder a su presa.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Totodile",
+            "Nivel 18",
+            "Croconaw",
+            "Nivel 30",
+            "Feraligatr"
+        ]
+    ]
+}

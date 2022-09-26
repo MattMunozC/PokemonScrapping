@@ -1,0 +1,177 @@
+{
+    "dex number": "178",
+    "pokemon name": "Xatu",
+    "types": [
+        "psíquico",
+        "volador"
+    ],
+    "abilities": [
+        "Madrugar",
+        "Sincronía"
+    ],
+    "hidden abilities": [
+        "Espejo mágico"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "75",
+        "def": "70",
+        "atk esp": "95",
+        "def esp": "70",
+        "speed": "95"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: a Natu (nivel 25)",
+            "Intercambiar: por un Haunter en Ciudad Plateada"
+        ],
+        "Plata": [
+            "Evolucionar: a Natu (nivel 25)",
+            "Intercambiar: por un Haunter en Ciudad Plateada"
+        ],
+        "Cristal": [
+            "Evolucionar: a Natu (nivel 25)",
+            "Intercambiar: por un Haunter en Ciudad Plateada"
+        ],
+        "Rubí": [
+            "Salvaje: Zona Safari (zona noreste)",
+            "Evolucionar: a Natu (nivel 25)"
+        ],
+        "Zafiro": [
+            "Salvaje: Zona Safari (zona noreste)",
+            "Evolucionar: a Natu (nivel 25)"
+        ],
+        "Esmeralda": [
+            "Salvaje: Zona Safari (zona noreste)",
+            "Evolucionar: a Natu (nivel 25)"
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Natu (nivel 25)",
+            "Intercambiar: por un Haunter en Ciudad Plateada"
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Natu (nivel 25)",
+            "Intercambiar: por un Haunter en Ciudad Plateada"
+        ],
+        "Diamante": [
+            "Evolucionar: de Natu (nivel 25)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Evolucionar: de Natu (nivel 25)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Evolucionar: de Natu (nivel 25)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: por un Haunter en Ciudad Plateada",
+            "Evolucionar: a Natu (nivel 25)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: por un Haunter en Ciudad Plateada",
+            "Evolucionar: a Natu (nivel 25)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Natu (nivel 25)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Natu (nivel 25)"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo psíquico",
+            "Evolucionar: a Natu  (nivel 25)."
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo psíquico",
+            "Evolucionar: a Natu  (nivel 25)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Isla Espejismo y Zona safari",
+            "Evolucionar a Natu"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Isla Espejismo y Zona safari",
+            "Evolucionar a Natu"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Afueras de Akala (como refuerzo de Natu; solo de día)",
+            "Evolucionar: a Natu (nivel 25)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Afueras de Akala (como refuerzo de Natu; solo de día)",
+            "Evolucionar: a Natu (nivel 25)"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Llanura Pétrea, nido al este 3, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Con posible habilidad oculta: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste y Pradera Radiante, nido al noreste."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Llanura Pétrea, nido al este 3, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Con posible habilidad oculta: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste y Pradera Radiante, nido al noreste."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Natu (nivel 25)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Natu (nivel 25)."
+        ],
+        "Leyendas: Arceus": [
+            "Xatu no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Dicen que se mantiene quieto y en silencio porque observa el pasado y el futuro al mismo tiempo.",
+        "Plata": "Dicen en Sudamérica que su ojo derecho ve el futuro y que el izquierdo ve el pasado.",
+        "Cristal": "Cuando se pone a meditar al amanecer, pierde la noción del tiempo. Puede pasarse así todo el día.",
+        "Rubí": "Xatu permanece de pie inmóvil y tranquilo en el mismo sitio durante todo el día. Se cree que no se mueve por temor a lo que ha visto que ocurrirá en el futuro.",
+        "Zafiro": "Xatu es conocido por el hábito que tiene de quedarse todo el día contemplando el sol. Hay mucha gente que lo venera como Pokémon místico, pues piensan que Xatu tiene el poder de predecir el futuro.",
+        "Esmeralda": "Tiene el enigmático poder de prever el futuro. Gente de distintos sitios ha creído durante mucho tiempo que los Xatu eran mensajeros de otro mundo.",
+        "Rojo Fuego": "Dicen en Sudamérica que con el ojo derecho ve el futuro; y con el izquierdo, el pasado.",
+        "Verde Hoja": "Dicen que se mantiene quieto y en silencio porque observa el pasado y el futuro al mismo tiempo.",
+        "Diamante": "Este extraño Pokémon puede ver el pasado y el futuro. Se pasa el día mirando al sol.",
+        "Perla": "Este extraño Pokémon puede ver el pasado y el futuro. Se pasa el día mirando al sol.",
+        "Platino": "Este extraño Pokémon puede ver el pasado y el futuro. Se pasa el día mirando al sol.",
+        "Oro HeartGold": "Dicen que se mantiene quieto y en silencio porque observa el pasado y el futuro al mismo tiempo.",
+        "Plata SoulSilver": "Dicen en Sudamérica que su ojo derecho ve el futuro y que el izquierdo ve el pasado.",
+        "Negro": "Este extraño Pokémon puede ver el pasado y el futuro. Se pasa el día mirando al sol.",
+        "Blanco": "Este extraño Pokémon puede ver el pasado y el futuro. Se pasa el día mirando al sol.",
+        "Negro 2": "Este extraño Pokémon puede ver el pasado y el futuro. Se pasa el día mirando al sol.",
+        "Blanco 2": "Este extraño Pokémon puede ver el pasado y el futuro. Se pasa el día mirando al sol.",
+        "Pokémon X": "Cuando se pone a meditar al amanecer, pierde la noción del tiempo. Puede pasarse así todo el día.",
+        "Pokémon Y": "Dicen que se mantiene quieto y en silencio porque observa el pasado y el futuro al mismo tiempo.",
+        "Rubí Omega": "Xatu permanece de pie inmóvil y tranquilo en el mismo sitio durante todo el día. Se cree que no se mueve por temor a lo que ha visto que ocurrirá en el futuro",
+        "Zafiro Alfa": "Xatu es conocido por el hábito que tiene de quedarse todo el día contemplando el sol. Hay mucha gente que lo venera como Pokémon místico, pues piensan que Xatu tiene el poder de ver el futuro.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Según se cree, este Pokémon posee el don de la clarividencia, pero carece del poder para alterar el futuro.",
+        "Ultraluna": "Puede prever el futuro, pero no alberga la menor intención de alterarlo. Probablemente sea ese el motivo por el que permanece inmóvil.",
+        "Espada": "Dicen que se mantiene prácticamente inmóvil y en silencio porque observa el pasado y el futuro al mismo tiempo.",
+        "Escudo": "Este extraño Pokémon puede ver el pasado y el futuro. Se pasa el día mirando al sol.",
+        "Diamante Brillante": "Este extraño Pokémon puede ver el pasado y el futuro. Pasa los días observando el movimiento del sol.",
+        "Perla Reluciente": "Este extraño Pokémon puede ver el pasado y el futuro. Pasa los días observando el movimiento del sol.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Natu",
+            "Nivel 25",
+            "Xatu"
+        ]
+    ]
+}

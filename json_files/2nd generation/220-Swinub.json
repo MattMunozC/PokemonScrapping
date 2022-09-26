@@ -1,0 +1,163 @@
+{
+    "dex number": "220",
+    "pokemon name": "Swinub",
+    "types": [
+        "hielo",
+        "tierra"
+    ],
+    "abilities": [
+        "Despiste",
+        "Manto níveo"
+    ],
+    "hidden abilities": [
+        "Sebo"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "50",
+        "def": "40",
+        "atk esp": "30",
+        "def esp": "30",
+        "speed": "50"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje: Todo el día: Ruta Helada."
+        ],
+        "Plata": [
+            "Salvaje: Todo el día: Ruta Helada."
+        ],
+        "Cristal": [
+            "Salvaje: Mañana y día: Ruta Helada."
+        ],
+        "Rubí": [
+            "Intercambio: de Pokémon Rojo Fuego y Verde Hoja o Pokémon XD."
+        ],
+        "Zafiro": [
+            "Intercambio: de Pokémon Rojo Fuego y Verde Hoja o Pokémon XD."
+        ],
+        "Esmeralda": [
+            "Intercambio: de Pokémon Rojo Fuego y Verde Hoja o Pokémon XD."
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Cueva Glaciada."
+        ],
+        "Verde Hoja": [
+            "Salvaje: Cueva Glaciada."
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 217 (Manada Pokémon)."
+        ],
+        "Perla": [
+            "Salvaje: Ruta 217 (Manada Pokémon)."
+        ],
+        "Platino": [
+            "Salvaje: Ruta 217, Orilla Agudeza."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Ruta Helada."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Ruta Helada."
+        ],
+        "Negro": [
+            "Criando: de Piloswine o Mamoswine."
+        ],
+        "Blanco": [
+            "Criando: de Piloswine o Mamoswine."
+        ],
+        "Negro 2": [
+            "Criando: de Piloswine o Mamoswine."
+        ],
+        "Blanco 2": [
+            "Criando: de Piloswine o Mamoswine."
+        ],
+        "Pokémon X": [
+            "Criando: de Piloswine o Mamoswine."
+        ],
+        "Pokémon Y": [
+            "Criando: de Piloswine o Mamoswine."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            "Escáner insular: en la Aldea Tapu (Solo los lunes)."
+        ],
+        "Luna": [
+            "Escáner insular: en la Aldea Tapu (Solo los lunes)."
+        ],
+        "Ultrasol": [
+            "Escáner insular: en la Aldea Tapu (Solo los lunes)."
+        ],
+        "Ultraluna": [
+            "Escáner insular: en la Aldea Tapu (Solo los lunes)."
+        ],
+        "Espada": [
+            "Salvaje: Pradera Radiante, Silla del Gigante, Cornisa de Artejo y Espejo del Gigante (Importante que el clima sea nevado en estas zonas); Campo Deslizante .",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada y Llanura Pétrea, nido al este 1.",
+            "Criando: de Piloswine o Mamoswine."
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante, Silla del Gigante, Cornisa de Artejo y Espejo del Gigante (Importante que el clima sea nevado en estas zonas); Campo Deslizante .",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada y Llanura Pétrea, nido al este 1.",
+            "Criando: de Piloswine o Mamoswine."
+        ],
+        "Diamante Brillante": [
+            "Manada: ruta 217.",
+            "Grutas del Subsuelo: Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Perla Reluciente": [
+            "Manada: ruta 217.",
+            "Grutas del Subsuelo: Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Tundra Alba: Páramo Algente, Témpano Avalugg y Desfiladero Alud.",
+            "Pokémon alfa: Páramo Algente."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Frota su hocico contra el suelo para desenterrar comida. A veces descubre aguas termales.",
+        "Plata": "Si percibe un aroma tentador, se tira de cabeza para encontrar el origen de dicho olor.",
+        "Cristal": "Usa el hocico para buscar comida por el suelo. Ni el suelo más frío le supondrá obstáculo alguno.",
+        "Rubí": "SWINUB busca el alimento frotando el hocico contra el suelo. Su comida preferida es una seta que crece bajo la hierba marchita. A veces, al frotar, descubre fuentes termales.",
+        "Zafiro": "SWINUB busca el alimento frotando el hocico contra el suelo. Su comida preferida es una seta que crece bajo la hierba marchita. A veces, al frotar, descubre fuentes termales.",
+        "Esmeralda": "Busca alimento frotando el hocico contra el suelo. Su comida preferida es una seta que crece bajo la hierba marchita. A veces, al frotar, descubre fuentes termales.",
+        "Rojo Fuego": "Si percibe un aroma tentador, se tira de cabeza para encontrar el origen de dicho olor.",
+        "Verde Hoja": "Frota el hocico contra el suelo para desenterrar comida. A veces, descubre aguas termales.",
+        "Diamante": "Le encanta comer las setas que crecen bajo la hierba seca. A veces descubre aguas termales.",
+        "Perla": "Le encanta comer las setas que crecen bajo la hierba seca. A veces, descubre aguas termales.",
+        "Platino": "Tiene una nariz muy sensible. Puede localizar setas, bayas y hasta aguas termales bajo el hielo.",
+        "Oro HeartGold": "Frota su hocico contra el suelo para desenterrar comida. A veces descubre aguas termales.",
+        "Plata SoulSilver": "Si percibe un aroma tentador, se tira de cabeza para encontrar el origen de dicho olor.",
+        "Negro": "Tiene una nariz muy sensible. Puede localizar setas, bayas y hasta aguas termales bajo el hielo.",
+        "Blanco": "Tiene una nariz muy sensible. Puede localizar setas, bayas y hasta aguas termales bajo el hielo.",
+        "Negro 2": "Busca comida escarbando el suelo con la punta de su hocico. En ocasiones llega a encontrar manantiales cavando.",
+        "Blanco 2": "Busca comida escarbando el suelo con la punta de su hocico. En ocasiones llega a encontrar manantiales cavando.",
+        "Pokémon X": "Frota su hocico contra el suelo para desenterrar comida. A veces descubre aguas termales.",
+        "Pokémon Y": "Si percibe un aroma tentador, se tira de cabeza para encontrar el origen de dicho olor.",
+        "Rubí Omega": "SWINUB busca el alimento frotando el hocico contra el suelo. Su comida preferida es una seta que crece bajo la hierba marchita. A veces, al frotar, descubre fuentes termales.",
+        "Zafiro Alfa": "SWINUB busca el alimento frotando el hocico contra el suelo. Su comida preferida es una seta que crece bajo la hierba marchita. A veces, al frotar, descubre fuentes termales.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Frota el hocico contra el suelo para desenterrar comida. A veces descubre aguas termales.",
+        "Escudo": "Si percibe un aroma tentador, se lanza de cabeza sin pensárselo dos veces para hallar su origen.",
+        "Diamante Brillante": "Le encanta comer las setas que crecen bajo la hierba seca. A veces descubre aguas termales.",
+        "Perla Reluciente": "Le encanta comer las setas que crecen bajo la hierba seca. A veces descubre aguas termales.",
+        "Leyendas: Arceus": "Desde tiempos antiguos, los habitantes de Hisui se han valido de su habilidad para encontrar setas enterradas bajo la nieve o en la hierba alta usando su agudo olfato."
+    },
+    "evolution": [
+        [
+            "Swinub",
+            "Nivel 33",
+            "Piloswine",
+            "Conociendo poder pasado+ nivel",
+            "Mamoswine"
+        ]
+    ]
+}

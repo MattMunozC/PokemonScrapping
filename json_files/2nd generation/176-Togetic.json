@@ -1,0 +1,164 @@
+{
+    "dex number": "176",
+    "pokemon name": "Togetic",
+    "types": [
+        "hada",
+        "volador"
+    ],
+    "abilities": [
+        "Entusiasmo",
+        "Dicha"
+    ],
+    "hidden abilities": [
+        "Afortunado"
+    ],
+    "stats": {
+        "hp": "55",
+        "atk": "40",
+        "def": "85",
+        "atk esp": "80",
+        "def esp": "105",
+        "speed": "40"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: a Togepi (amistad + nivel)"
+        ],
+        "Plata": [
+            "Evolucionar: a Togepi (amistad + nivel)"
+        ],
+        "Cristal": [
+            "Evolucionar: a Togepi (amistad + nivel)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego, Verde Hoja, Colosseum o XD: Tempestad oscura."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego, Verde Hoja, Colosseum o XD: Tempestad oscura."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego, Verde Hoja, Colosseum o XD: Tempestad oscura."
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Togepi (amistad + nivel)"
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Togepi (amistad + nivel)"
+        ],
+        "Diamante": [
+            "Evolucionar: a Togepi (amistad + nivel)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Evolucionar: a Togepi (amistad + nivel)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Evolucionar: a Togepi (amistad + nivel)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Togepi (amistad + nivel)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Togepi (amistad + nivel)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Evolucionar: a Togepi (amistad + nivel)."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Togepi (amistad + nivel)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Togepi (amistad + nivel)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Togepi (amistad + nivel)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Togepi (amistad + nivel)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Togepi (amistad + nivel)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Togepi (amistad + nivel)"
+        ],
+        "Sol": [
+            "Evolucionar: a Togepi (amistad + nivel)"
+        ],
+        "Luna": [
+            "Evolucionar: a Togepi (amistad + nivel)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Llanura Pétrea",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón."
+        ],
+        "Escudo": [
+            "Salvaje: Llanura Pétrea",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Togepi (amistad + nivel)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Togepi (amistad + nivel)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pantanal Carmesí: Ladera Derrumbe y Prado Erióforo. Costa Cobalto: Bahía Silente",
+            "Evolucionar: a Togepi (amistad + nivel)."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Dicen que aparece entre gentes cuidadosas y de buen corazón, a quienes inunda de felicidad.",
+        "Plata": "Si no está con gente amable, se entristece. Puede flotar en el aire sin mover las alas.",
+        "Cristal": "Aunque no bate mucho las alas, puede aguantar en el aire el tiempo que quiera al lado de su entrenador.",
+        "Rubí": "Dicen que Togetic es un Pokémon que trae buena suerte y que, si detecta a alguien que es puro de corazón, sale para compartir su alegría con él.",
+        "Zafiro": "Dicen que Togetic es un Pokémon que trae buena suerte y que, si detecta a alguien que es puro de corazón, sale para compartir su alegría con él.",
+        "Esmeralda": "Dicen que Togetic es un Pokémon que trae buena suerte y que, si detecta a alguien que tenga un corazón puro, viene para compartir su alegría con él.",
+        "Rojo Fuego": "Si no está con gente amable, se entristece. Puede flotar en el aire sin mover las alas.",
+        "Verde Hoja": "Dicen que aparece entre gentes cuidadosas y de buen corazón, a quienes inunda de felicidad.",
+        "Diamante": "Se dice que se aparece a la gente de buen corazón y que esparce un \"polvillo de la alegría\".",
+        "Perla": "Se dice que se aparece a la gente de buen corazón y que esparce un \"polvillo de la alegría\".",
+        "Platino": "Para compartir su felicidad, vuela por el mundo en busca de gente de buen corazón.",
+        "Oro HeartGold": "Dicen que aparece entre personas cuidadosas y de buen corazón, a quienes inunda de felicidad.",
+        "Plata SoulSilver": "Si no está con gente amable, se entristece. Puede flotar en el aire sin mover las alas.",
+        "Negro": "Para compartir su felicidad, vuela por el mundo en busca de gente de buen corazón.",
+        "Blanco": "Para compartir su felicidad, vuela por el mundo en busca de gente de buen corazón.",
+        "Negro 2": "Para compartir su felicidad, vuela por el mundo en busca de gente de buen corazón.",
+        "Blanco 2": "Para compartir su felicidad, vuela por el mundo en busca de gente de buen corazón.",
+        "Pokémon X": "Si no está con gente amable, se entristece. Puede flotar en el aire sin mover las alas.",
+        "Pokémon Y": "Dicen que aparece entre gentes cuidadosas y de buen corazón, a quienes inunda de felicidad.",
+        "Rubí Omega": "Dicen que Togetic es un Pokémon que trae buena suerte y que, si detecta a alguien que es puro de corazón, sale para compartir su alegría con él.",
+        "Zafiro Alfa": "Dicen que Togetic es un Pokémon que trae buena suerte y que, si detecta a alguien que es puro de corazón, sale para compartir su alegría con él.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Dicen que se le aparece a la gente de buen corazón y la inunda de felicidad.",
+        "Escudo": "Si no está con gente amable, se entristece. Puede flotar en el aire sin mover las alas.",
+        "Diamante Brillante": "Dicen que aparece junto a gente de buen corazón y que esparce un plumón luminoso apodado \"polvillo de la alegría\".",
+        "Perla Reluciente": "Dicen que aparece junto a gente de buen corazón y que esparce un plumón luminoso apodado \"polvillo de la alegría\".",
+        "Leyendas: Arceus": "Nunca se ha visto en estado salvaje. Corren rumores de que adopta esta forma cuando encuentra a alguien que lo comprende, a quien brinda suerte y felicidad."
+    },
+    "evolution": [
+        [
+            "Togepi",
+            "Amistad+ nivel",
+            "Togetic",
+            "Piedra día ",
+            "Togekiss"
+        ]
+    ]
+}

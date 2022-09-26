@@ -1,0 +1,159 @@
+{
+    "dex number": "193",
+    "pokemon name": "Yanma",
+    "types": [
+        "bicho",
+        "volador"
+    ],
+    "abilities": [
+        "Impulso",
+        "Ojo compuesto"
+    ],
+    "hidden abilities": [
+        "Cacheo"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "65",
+        "def": "45",
+        "atk esp": "75",
+        "def esp": "45",
+        "speed": "95"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje, Todo el día: Ruta 35.Es muy difícil que aparezca. Para que sea más fácil, tienes que conseguir el número de teléfono de Ángel, un cazabichos que se encuentra en Ruta 35. Después de un tiempo, él nos llamará avisando de que hay muchos Yanma por esa ruta."
+        ],
+        "Plata": [
+            "Salvaje, Todo el día: Ruta 35.Es muy difícil que aparezca. Para que sea más fácil, tienes que conseguir el número de teléfono de Ángel, un cazabichos que se encuentra en Ruta 35. Después de un tiempo, él nos llamará avisando de que hay muchos Yanma por esa ruta."
+        ],
+        "Cristal": [
+            "Salvaje, Todo el día: Ruta 35.Es muy difícil que aparezca. Para que sea más fácil, tienes que conseguir el número de teléfono de Ángel, un cazabichos que se encuentra en Ruta 35. Después de un tiempo, él nos llamará avisando de que hay muchos Yanma por esa ruta."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja o Pokémon Colosseum."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja o Pokémon Colosseum."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja o Pokémon Colosseum."
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Valle Ruinas."
+        ],
+        "Verde Hoja": [
+            "Salvaje: Valle Ruinas."
+        ],
+        "Diamante": [
+            "Salvaje: Gran Pantano. Es necesario tener la Pokédex Nacional.",
+            "Parque Compi: Zona Pradera."
+        ],
+        "Perla": [
+            "Salvaje: Gran Pantano. Es necesario tener la Pokédex Nacional.",
+            "Parque Compi: Zona Pradera."
+        ],
+        "Platino": [
+            "Salvaje: Gran Pantano. No es necesario tener la Pokédex Nacional.",
+            "Parque Compi: Zona Pradera."
+        ],
+        "Oro HeartGold": [
+            "Manada Pokémon: Ruta 35.",
+            "Salvaje: Ruta 35."
+        ],
+        "Plata SoulSilver": [
+            "Manada Pokémon: Ruta 35.",
+            "Salvaje: Ruta 35."
+        ],
+        "Negro": [
+            "Manada Pokémon: Ruta 14."
+        ],
+        "Blanco": [
+            "Manada Pokémon: Ruta 14."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 3, Bosque Azulejo."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 3, Bosque Azulejo."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 10 (horda)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 10 (horda)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Criando: de Yanmega"
+        ],
+        "Ultraluna": [
+            "Criando: de Yanmega"
+        ],
+        "Espada": [
+            "Yanma no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Yanma no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Gran Pantano. Es necesario tener la Pokédex Nacional."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Gran Pantano. Es necesario tener la Pokédex Nacional."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pantanal Carmesí:Ciénaga Bocazas, Palestra Ursa y Pradera Aleteo. Ladera Corona:Loma Sagrada"
+        ]
+    },
+    "pokedex": {
+        "Oro": "Si aletea muy rápido, genera ondas expansivas capaces de hacer añicos todas las ventanas próximas.",
+        "Plata": "Sus grandes ojos pueden girar 360º. Mira en todas direcciones en busca de insectos como presa.",
+        "Cristal": "Puede ver en todas direcciones sin mover los ojos. Así localiza a sus rivales y la comida que necesite.",
+        "Rubí": "Yanma tiene un ángulo de visión de 360 grados sin mover los ojos. Es un gran volador, experto en hacer repentinas paradas y cambios de dirección en el aire. Aprovecha la habilidad que tiene de volar para lanzarse sobre su presa.",
+        "Zafiro": "Yanma tiene un ángulo de visión de 360 grados sin mover los ojos. Es un gran volador, experto en hacer repentinas paradas y cambios de dirección en el aire. Aprovecha la habilidad que tiene de volar para lanzarse sobre su presa.",
+        "Esmeralda": "Tiene un ángulo de visión de 360 grados. Es capaz de pararse de repente y cambiar de dirección mientras vuela, lo que le resulta útil para dar caza a sus presas.",
+        "Rojo Fuego": "Sus grandes ojos pueden girar 360 grados. Mira en todas direcciones en busca de insectos como presa.",
+        "Verde Hoja": "Si agita muy rápido las alas, genera ondas expansivas capaces de hacer añicos las ventanas que haya cerca.",
+        "Diamante": "Su campo visual es de 360 grados sin girar la cabeza. Detecta hasta las presas que están a su espalda.",
+        "Perla": "Su campo visual es de 360 grados sin girar la cabeza. Detecta hasta las presas que están a su espalda.",
+        "Platino": "Puede mantenerse en un punto fijo del aire agitando mucho las alas. Vigila su territorio sobrevolándolo.",
+        "Oro HeartGold": "Si aletea muy rápido, genera ondas expansivas capaces de hacer añicos todas las ventanas próximas.",
+        "Plata SoulSilver": "Sus grandes ojos pueden girar 360º. Mira en todas direcciones en busca de insectos como presa.",
+        "Negro": "Puede mantenerse en un punto fijo del aire agitando mucho las alas. Vigila su territorio sobrevolándolo.",
+        "Blanco": "Puede mantenerse en un punto fijo del aire agitando mucho las alas. Vigila su territorio sobrevolándolo.",
+        "Negro 2": "Vuela a su antojo aleteando muy rápido. Ni siquiera detenerse bruscamente le supone un problema.",
+        "Blanco 2": "Vuela a su antojo aleteando muy rápido. Ni siquiera detenerse bruscamente le supone un problema.",
+        "Pokémon X": "Su campo visual es de 360º sin girar la cabeza. Detecta hasta las presas que están a su espalda.",
+        "Pokémon Y": "Si aletea muy rápido, genera ondas expansivas capaces de hacer añicos las ventanas próximas.",
+        "Rubí Omega": "Yanma tiene un ángulo de visión de 360 grados sin mover los ojos. Es un gran volador, experto en hacer repentinas paradas y cambios de dirección en el aire. Aprovecha la habilidad que tiene de volar para lanzarse sobre su presa.",
+        "Zafiro Alfa": "Yanma tiene un ángulo de visión de 360 grados sin mover los ojos. Es un gran volador, experto en hacer repentinas paradas y cambios de dirección en el aire. Aprovecha la habilidad que tiene de volar para lanzarse sobre su presa.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Posee un campo visual de 360º sin necesidad de girar la cabeza, lo que le permite detectar hasta las presas que están a su espalda.",
+        "Perla Reluciente": "Posee un campo visual de 360º sin necesidad de girar la cabeza, lo que le permite detectar hasta las presas que están a su espalda.",
+        "Leyendas: Arceus": "Sus delicadas alas son tan finas que es posible ver a través de ellas y, sin embargo, al volar provoca ondas capaces de llevarse por delante una casa."
+    },
+    "evolution": [
+        [
+            "Yanma",
+            "Conociendo poder pasado+ nivel",
+            "Yanmega"
+        ]
+    ]
+}

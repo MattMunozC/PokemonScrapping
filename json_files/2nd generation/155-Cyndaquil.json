@@ -1,0 +1,171 @@
+{
+    "dex number": "155",
+    "pokemon name": "Cyndaquil",
+    "types": [
+        "fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Absorbe fuego"
+    ],
+    "stats": {
+        "hp": "39",
+        "atk": "52",
+        "def": "43",
+        "atk esp": "60",
+        "def esp": "50",
+        "speed": "65"
+    },
+    "location": {
+        "Oro": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. Te da a elegir el Profesor Elm en su laboratorio de Pueblo Primavera. Solo uno, al nivel 5."
+        ],
+        "Plata": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. Te da a elegir el Profesor Elm en su laboratorio de Pueblo Primavera. Solo uno, al nivel 5."
+        ],
+        "Cristal": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. Te da a elegir el Profesor Elm en su laboratorio de Pueblo Primavera. Solo uno, al nivel 5."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon XD."
+        ],
+        "Esmeralda": [
+            "Especial: Al completar la Pokédex de Hoenn, el Profesor Abedul en su laboratorio de Villa Raíz te da a elegir a uno de los tres iniciales de Johto. Solo uno, al nivel 5.",
+            "Intercambiar: de Pokémon XD."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon XD."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. Te da a elegir el Profesor Elm en su laboratorio de Pueblo Primavera. Solo uno, al nivel 5.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. Te da a elegir el Profesor Elm en su laboratorio de Pueblo Primavera. Solo uno, al nivel 5.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Especial: Es uno de los tres Pokémon que te da a elegir el Profesor Abedul, después de pasarte la liga. Es necesario volver a entrar y salir de tu casa. Solo uno, al nivel 5."
+        ],
+        "Zafiro Alfa": [
+            "Especial: Es uno de los tres Pokémon que te da a elegir el Profesor Abedul, después de pasarte la liga. Es necesario volver a entrar y salir de tu casa. Solo uno, al nivel 5."
+        ],
+        "Sol": [
+            "Escáner insular: en la Ruta 3 (Solo los Domingos)."
+        ],
+        "Luna": [
+            "Escáner insular: en la Ruta 3 (Solo los Domingos)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Cyndaquil no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Cyndaquil no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Leyendas: Arceus": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura.",
+            "Regalo: En caso de no ser elegido como Pokémon inicial, te lo entrega el Profesor Lavender tras completar la historia principal. Solo uno, al nivel 5.",
+            "Salvaje: Pantanal Carmesí (Distorsión espaciotemporal)"
+        ]
+    },
+    "pokedex": {
+        "Oro": "Es tímido, y siempre se enrosca como una pelota. Si es atacado, enciende su lomo para protegerse.",
+        "Plata": "Suele estar acurrucado. Si se enfada o asusta, lanzará llamas por su lomo.",
+        "Cristal": "Cuando se enfada, el fuego que dispara por el lomo es infernal. Las llamaradas intimidan a sus rivales.",
+        "Rubí": "Cyndaquil se protege soltando llamas por el lomo. Cuando está enfadado, las llamas son fieras, pero si está cansado sólo consigue echar algunas chispas que no llegan a cuajar en una completa combustión.",
+        "Zafiro": "Cyndaquil se protege soltando llamas por el lomo. Cuando está enfadado, las llamas son fieras, pero si está cansado sólo consigue echar algunas chispas que no llegan a cuajar en una completa combustión.",
+        "Esmeralda": "Se protege con el fuego que le arde en el lomo. Si está enfadado, las llamas son fieras, pero, si está cansado, sólo suelta chispas que no llegan a inflamarse.",
+        "Rojo Fuego": "Suele estar acurrucado. Si se enfada o asusta, lanzará llamas por el lomo.",
+        "Verde Hoja": "Es tímido y siempre se enrosca como una pelota. Si es atacado, enciende el lomo para protegerse.",
+        "Diamante": "Es un Pokémon muy tímido. Si se asusta, las llamas de su lomo arden con más fuerza.",
+        "Perla": "Es un Pokémon muy tímido. Si se asusta, las llamas de su lomo arden con más fuerza.",
+        "Platino": "Es un Pokémon muy tímido. Si se asusta, las llamas de su lomo arden con más fuerza.",
+        "Oro HeartGold": "Es tímido y siempre se enrosca como una pelota. Si es atacado, enciende el lomo para protegerse.",
+        "Plata SoulSilver": "Suele estar acurrucado. Si se enfada o asusta, lanzará llamas por su lomo.",
+        "Negro": "Es un Pokémon muy tímido. Si se asusta, las llamas de su lomo arden con más fuerza.",
+        "Blanco": "Es un Pokémon muy tímido. Si se asusta, las llamas de su lomo arden con más fuerza.",
+        "Negro 2": "Es un Pokémon muy tímido. Si se asusta, las llamas de su lomo arden con más fuerza.",
+        "Blanco 2": "Es un Pokémon muy tímido. Si se asusta, las llamas de su lomo arden con más fuerza.",
+        "Pokémon X": "Es tímido y siempre se enrosca como una pelota. Si es atacado, enciende el lomo para protegerse.",
+        "Pokémon Y": "Es un Pokémon muy tímido. Si se asusta, las llamas de su lomo arden con más fuerza.",
+        "Rubí Omega": "Cyndaquil se protege soltando llamas por el lomo. Cuando está enfadado, las llamas son fieras, pero si está cansado sólo consigue echar algunas chispas que no llegan a cuajar en una completa combustión.",
+        "Zafiro Alfa": "Cyndaquil se protege soltando llamas por el lomo. Cuando está enfadado, las llamas son fieras, pero si está cansado sólo consigue echar algunas chispas que no llegan a cuajar en una completa combustión.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Un Pokémon de carácter tímido. Si se asusta, las llamas de su lomo arden con más fuerza.",
+        "Perla Reluciente": "Un Pokémon de carácter tímido. Si se asusta, las llamas de su lomo arden con más fuerza.",
+        "Leyendas: Arceus": "Este Pokémon de Johto suele hacerse un ovillo debido a su carácter tímido, lo que contrasta con el inmenso poder ígneo que encierra en su interior."
+    },
+    "evolution": [
+        [
+            "Cyndaquil",
+            "Nivel 14(nivel 17 en LPA)",
+            "Quilava",
+            "Nivel 36(fuera de Hisui)",
+            "Typhlosion"
+        ],
+        [
+            "",
+            "",
+            "",
+            "Nivel 36(en Hisui)",
+            "Typhlosion de Hisui"
+        ]
+    ]
+}

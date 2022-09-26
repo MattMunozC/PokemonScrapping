@@ -1,0 +1,175 @@
+{
+    "dex number": "177",
+    "pokemon name": "Natu",
+    "types": [
+        "psíquico",
+        "volador"
+    ],
+    "abilities": [
+        "Madrugar",
+        "Sincronía"
+    ],
+    "hidden abilities": [
+        "Espejo mágico"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "50",
+        "def": "45",
+        "atk esp": "70",
+        "def esp": "45",
+        "speed": "70"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje: Ruinas Alfa (exterior)"
+        ],
+        "Plata": [
+            "Salvaje: Ruinas Alfa (exterior)"
+        ],
+        "Cristal": [
+            "Salvaje: Ruinas Alfa (exterior)"
+        ],
+        "Rubí": [
+            "Salvaje: Zona Safari (zonas noreste, suroeste y sureste)"
+        ],
+        "Zafiro": [
+            "Salvaje: Zona Safari (zonas noreste, suroeste y sureste)"
+        ],
+        "Esmeralda": [
+            "Salvaje: Zona Safari (zonas noreste, suroeste y sureste)"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Valle Ruinas"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Valle Ruinas"
+        ],
+        "Diamante": [
+            "Manada: Ruta 224",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Manada: Ruta 224",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Manada: Ruta 224",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Ruinas Alfa (exterior)",
+            "Golpe cabeza: Ruta 28 y Monte Plateado",
+            "Pokéwalker: Cueva del Terror",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Ruinas Alfa (exterior)",
+            "Golpe cabeza: Ruta 28 y Monte Plateado",
+            "Pokéwalker: Cueva del Terror",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Negro 2": [
+            "Manada: Ruta 5",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco 2": [
+            "Manada: Ruta 5",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Pokémon X": [
+            "Criar: de Xatu"
+        ],
+        "Pokémon Y": [
+            "Criar: de Xatu"
+        ],
+        "Rubí Omega": [
+            "Criar: de Xatu"
+        ],
+        "Zafiro Alfa": [
+            "Criar: de Xatu"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Afueras de Akala (solo de día)",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Ultraluna": [
+            "Salvaje: Afueras de Akala (solo de día)",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Espada": [
+            "Salvaje: Lago Axew (oeste), Silla del Gigante (niebla)",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Llanura Pétrea, nido al este 3, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón."
+        ],
+        "Escudo": [
+            "Salvaje: Lago Axew (oeste), Silla del Gigante (niebla)",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Llanura Pétrea, nido al este 3, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón."
+        ],
+        "Diamante Brillante": [
+            "Manada: Ruta 224.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Perla Reluciente": [
+            "Manada: Ruta 224.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Leyendas: Arceus": [
+            "Natu no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Va dando saltitos porque sus alas no han crecido lo suficiente. Siempre está pendiente de algo.",
+        "Plata": "Normalmente busca comida por el suelo. En raras ocasiones, salta a las ramas para picotear brotes.",
+        "Cristal": "Sabe trepar muy bien por el tronco de los árboles. Además, aprovecha para zamparse los nuevos brotes.",
+        "Rubí": "Natu no puede volar porque las alas no le han crecido lo suficiente. Si tu mirada se cruza con la suya, te la devolverá fijamente. Pero si haces el mínimo movimiento, huirá dando saltitos para ponerse a salvo.",
+        "Zafiro": "Natu ha desarrollado tremendamente la habilidad de saltar. Este Pokémon aletea y da brinquitos por las ramas altas a las que no alcanza nadie para hacerse con los nuevos brotes de los árboles.",
+        "Esmeralda": "Da saltitos por los árboles bajos de la sabana para picotear los brotes nuevos. Los ojos de un Natu dan la sensación de estar siempre observando algo.",
+        "Rojo Fuego": "Normalmente busca comida por el suelo. En raras ocasiones, salta a las ramas para picotear brotes.",
+        "Verde Hoja": "Va dando saltitos porque sus alas no han crecido lo suficiente. Siempre está pendiente de algo.",
+        "Diamante": "Recoge alimento de los cactos evitando los pinchos. Se mueve dando saltos.",
+        "Perla": "Recoge alimento de los cactos evitando los pinchos. Se mueve dando saltos.",
+        "Platino": "Recoge alimento de los cactos evitando los pinchos. Se mueve dando saltos.",
+        "Oro HeartGold": "Va dando saltitos porque sus alas no han crecido lo suficiente. Siempre está pendiente de algo.",
+        "Plata SoulSilver": "Normalmente busca comida por el suelo. En raras ocasiones, salta a las ramas para picotear brotes.",
+        "Negro": "Recoge alimento de los cactos evitando los pinchos. Se mueve dando saltos.",
+        "Blanco": "Recoge alimento de los cactos evitando los pinchos. Se mueve dando saltos.",
+        "Negro 2": "Recoge alimento de los cactos evitando los pinchos. Se mueve dando saltos.",
+        "Blanco 2": "Recoge alimento de los cactos evitando los pinchos. Se mueve dando saltos.",
+        "Pokémon X": "Va dando saltitos porque sus alas no han crecido lo suficiente. Siempre está pendiente de algo.",
+        "Pokémon Y": "Normalmente busca comida por el suelo. En raras ocasiones, salta a las ramas para picotear brotes.",
+        "Rubí Omega": "Natu no puede volar porque las alas no le han crecido lo suficiente. Si alguien cruza la mirada con él, se la devolverá fijamente, aunque, si hace el mínimo movimiento, huirá dando saltitos para ponerse a salvo.",
+        "Zafiro Alfa": "Natu ha desarrollado tremendamente la habilidad de saltar. Este Pokémon aletea y da brinquitos por las ramas altas a las que no alcanza nadie para hacerse con los nuevos brotes de los árboles.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Aún no puede volar, pero su increíble capacidad de salto le permite alcanzar las ramas de los árboles más altos y picotear los brotes tiernos.",
+        "Ultraluna": "Con su penetrante mirada, parece estar en vigilancia constante. A la mínima que se le acercan, sale huyendo dando botes.",
+        "Espada": "Trepa con gran habilidad por el tronco de los árboles, donde aprovecha para picotear los brotes nuevos.",
+        "Escudo": "Se desplaza dando saltitos porque sus alas no han crecido lo suficiente. Siempre está mirando algo fijamente.",
+        "Diamante Brillante": "Recoge alimento de los cactus evitando las espinas hábilmente. Se desplaza dando saltitos.",
+        "Perla Reluciente": "Recoge alimento de los cactus evitando las espinas hábilmente. Se desplaza dando saltitos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Natu",
+            "Nivel 25",
+            "Xatu"
+        ]
+    ]
+}

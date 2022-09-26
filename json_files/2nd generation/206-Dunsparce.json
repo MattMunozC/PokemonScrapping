@@ -1,0 +1,163 @@
+{
+    "dex number": "206",
+    "pokemon name": "Dunsparce",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Dicha",
+        "Fuga"
+    ],
+    "hidden abilities": [
+        "Cobardía"
+    ],
+    "stats": {
+        "hp": "100",
+        "atk": "70",
+        "def": "70",
+        "atk esp": "65",
+        "def esp": "65",
+        "speed": "45"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje, Todo el día: Cueva oscura (parte sur).",
+            "Manada Pokémon: Cueva Oscura"
+        ],
+        "Plata": [
+            "Salvaje, Todo el día: Cueva oscura (parte sur).",
+            "Manada Pokémon: Cueva Oscura"
+        ],
+        "Cristal": [
+            "Salvaje, Todo el día: Cueva oscura (parte sur).",
+            "Manada Pokémon: Cueva Oscura"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja o Pokémon Colosseum."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja o Pokémon Colosseum."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego y Verde Hoja o Pokémon Colosseum."
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Puerto Isla Tera."
+        ],
+        "Verde Hoja": [
+            "Salvaje: Puerto Isla Tera."
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 208 (Manada Pokémon)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Salvaje: Ruta 208 (Manada Pokémon)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje: Ruta 208 (Manada Pokémon)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Cueva oscura (parte sur) usando golpe roca.",
+            "Manada Pokémon: Cueva Oscura."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Cueva oscura (parte sur) usando golpe roca.",
+            "Manada Pokémon: Cueva Oscura."
+        ],
+        "Negro": [
+            "Salvaje: Ruta 12."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 12."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 1, 2, 6, 12, 18, 20, Solar de los Sueños, Puente Villa, Calle Victoria y Rancho Ocre (cuando la hierba se mueve).",
+            "Claro oculto: Ruta 6."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 1, 2, 6, 12, 18, 20, Solar de los Sueños, Puente Villa, Calle Victoria y Rancho Ocre (cuando la hierba se mueve).",
+            "Claro oculto: Ruta 6."
+        ],
+        "Pokémon X": [
+            "Salvaje : Ruta 3, Ruta 22"
+        ],
+        "Pokémon Y": [
+            "Salvaje : Ruta 3, Ruta 22"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol y Pokémon Ultraluna."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol y Pokémon Ultraluna."
+        ],
+        "Ultrasol": [
+            "Salvaje : Ruta 2"
+        ],
+        "Ultraluna": [
+            "Salvaje : Ruta 2"
+        ],
+        "Espada": [
+            "Salvaje : Humedal Frescor "
+        ],
+        "Escudo": [
+            "Salvaje : Humedal Frescor "
+        ],
+        "Diamante Brillante": [
+            "Manada Pokémon: Ruta 208."
+        ],
+        "Perla Reluciente": [
+            "Manada Pokémon: Ruta 208."
+        ],
+        "Leyendas: Arceus": [
+            "Dunsparce no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Este Pokémon escapa hacia atrás perforando el suelo con su cola, si es descubierto.",
+        "Plata": "Si se siente amenazado, escapa cavando con su cola. Puede flotar ligeramente usando sus alas.",
+        "Cristal": "Permanece escondido dentro de las cuevas, donde la luz no le llega. Y ahí se queda casi sin moverse.",
+        "Rubí": "La cola de Dunsparce es un taladro que usa para enterrarse en el suelo de espaldas. De todos es sabido que este Pokémon hace su nido a gran profundidad y con una forma muy compleja.",
+        "Zafiro": "La cola de Dunsparce es un taladro que usa para enterrarse en el suelo de espaldas. De todos es sabido que este Pokémon hace su nido a gran profundidad y con una forma muy compleja.",
+        "Esmeralda": "La cola es un taladro que usa para enterrarse de espaldas en el suelo. Se sabe que su nido tiene una forma muy compleja y está a gran profundidad.",
+        "Rojo Fuego": "Si se siente amenazado, escapa cavando con la cola. Puede flotar ligeramente usando las alas.",
+        "Verde Hoja": "Este Pokémon escapa perforando el suelo con la cola y enterrándose de espaldas, si es descubierto.",
+        "Diamante": "Cava el suelo con su cola para construir su madriguera. Puede volar distancias cortas.",
+        "Perla": "Cava el suelo con su cola para construir su madriguera. Puede volar distancias cortas.",
+        "Platino": "Cava el suelo con su cola para construir su madriguera. Puede volar distancias cortas.",
+        "Oro HeartGold": "Este Pokémon escapa hacia atrás perforando el suelo con su cola, si es descubierto.",
+        "Plata SoulSilver": "Si se siente amenazado, escapa cavando con su cola. Puede flotar ligeramente usando sus alas.",
+        "Negro": "Cava el suelo con su cola para construir su madriguera. Puede volar distancias cortas.",
+        "Blanco": "Cava el suelo con su cola para construir su madriguera. Puede volar distancias cortas.",
+        "Negro 2": "Construye laberintos en lugares oscuros. Si alguien lo mira, huye cavando un agujero con su cola.",
+        "Blanco 2": "Construye laberintos en lugares oscuros. Si alguien lo mira, huye cavando un agujero con su cola.",
+        "Pokémon X": "Este Pokémon escapa hacia atrás perforando el suelo con su cola, si es descubierto.",
+        "Pokémon Y": "Cava el suelo con su cola para construir su madriguera. Puede volar distancias cortas.",
+        "Rubí Omega": "La cola de Dunsparce es un taladro que usa para enterrarse en el suelo de espaldas. De todos es sabido que este Pokémon hace su nido a gran profundidad y con una forma muy compleja.",
+        "Zafiro Alfa": "La cola de Dunsparce es un taladro que usa para enterrarse en el suelo de espaldas. De todos es sabido que este Pokémon hace su nido a gran profundidad y con una forma muy compleja.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Se desplaza excavando túneles subterráneos. Se lleva bien con los Diglett, con quienes suele compartir túneles.",
+        "Ultraluna": "En cuanto ve un humano, horada en el suelo un agujero con la cola y huye. Quien logra ver uno puede considerarse afortunado.",
+        "Espada": "Debido a que presenta pequeñas alas, algunos científicos sostienen que antiguamente era capaz de volar.",
+        "Escudo": "Habita en madrigueras laberínticas. Gracias a su capacidad para ubicarse por el olor de la tierra que lo rodea, nunca se pierde.",
+        "Diamante Brillante": "Se sirve de la cola para cavar sus laberínticas madrigueras. Las alas le permiten volar distancias cortas.",
+        "Perla Reluciente": "Se sirve de la cola para cavar sus laberínticas madrigueras. Las alas le permiten volar distancias cortas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Dunsparce"
+        ]
+    ]
+}

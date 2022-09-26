@@ -1,0 +1,209 @@
+{
+    "dex number": "196",
+    "pokemon name": "Espeon",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Sincronía"
+    ],
+    "hidden abilities": [
+        "Espejo mágico"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "65",
+        "def": "60",
+        "atk esp": "130",
+        "def esp": "95",
+        "speed": "110"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Plata": [
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Cristal": [
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Colosseum o XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Colosseum o XD."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Colosseum o XD."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Colosseum o XD. En este videojuego no existe reloj interno, por lo que no es posible que Eevee evolucione."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Colosseum o XD. En este videojuego no existe reloj interno, por lo que no es posible que Eevee evolucione."
+        ],
+        "Diamante": [
+            "Evolucionar: de Eevee (amistad + nivel + día)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Evolucionar: de Eevee (amistad + nivel + día)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Evolucionar: de Eevee (amistad + nivel + día)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Eevee (amistad + nivel + día)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Eevee (amistad + nivel + día)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Evolucionar: de Eevee (amistad + nivel + día)",
+            "Dream World: Con la habilidad Espejo mágico."
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Evolucionar: de Eevee (amistad + nivel + día)",
+            "Dream World: Con la habilidad Espejo mágico."
+        ],
+        "Negro 2": [
+            "Evolucionar: de Eevee (amistad + nivel + día)",
+            "Dream World: Con la habilidad espejo mágico."
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Eevee (amistad + nivel + día)",
+            "Dream World: Con la habilidad espejo mágico."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Sol": [
+            " Salvaje: Rutas 4 y 6 (como refuerzo de Eevee, solo de día).",
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Luna": [
+            " Salvaje: Rutas 4 y 6 (como refuerzo de Eevee, solo de día).",
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Ultrasol": [
+            " Salvaje: Rutas 4 y 6 (como refuerzo de Eevee, solo de día).",
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Ultraluna": [
+            " Salvaje: Rutas 4 y 6 (como refuerzo de Eevee, solo de día).",
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Área Silvestre: Lago del Enfado, sólo en presencia de clima nublado.",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al sureste.",
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Área Silvestre: Lago del Enfado, sólo en presencia de clima nublado.",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al sureste.",
+            "Evolucionar: de Eevee (amistad + nivel + día)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Eevee (amistad + nivel + día)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Eevee (amistad + nivel + día)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Distorsión espaciotemporal en la Tundra Alba.",
+            "Evolucionar: de Eevee (amistad + nivel + día)."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Usa el corto pelaje que cubre su cuerpo para sentir el viento y predecir las acciones enemigas.",
+        "Plata": "Basándose en las corrientes de aire predice cosas como el clima o el próximo ataque del enemigo.",
+        "Cristal": "Al predecir el siguiente movimiento de su rival, chasquea el extremo de la cola bífida que tiene.",
+        "Rubí": "Espeon es tremendamente leal al entrenador que le merece la pena. Dicen que este Pokémon desarrolló sus poderes adivinatorios para evitar que su entrenador sufra ningún daño.",
+        "Zafiro": "Espeon es tremendamente leal al entrenador que le merece la pena. Dicen que este Pokémon desarrolló sus poderes adivinatorios para evitar que su entrenador sufra ningún daño.",
+        "Esmeralda": "Un Espeon es muy leal al entrenador que considera digno. Dicen que desarrolló sus poderes adivinatorios para evitar que su entrenador sufriera ningún daño.",
+        "Rojo Fuego": "Basándose en las corrientes de aire predice cosas como el clima o el próximo ataque del enemigo.",
+        "Verde Hoja": "Está recubierto por un corto pelaje que le permite sentir el viento y predecir las acciones enemigas.",
+        "Diamante": "Su pelaje es como el terciopelo. La esfera de su frente brilla cuando usa sus poderes psíquicos.",
+        "Perla": "Su pelaje es como el terciopelo. La esfera de su frente brilla cuando usa sus poderes psíquicos.",
+        "Platino": "Su pelaje es tan sensible que puede percibir cualquier cambio en el aire y predecir el tiempo.",
+        "Oro HeartGold": "Usa el corto pelaje que cubre su cuerpo para sentir el viento y predecir acciones enemigas.",
+        "Plata SoulSilver": "Basándose en las corrientes de aire predice cosas como el clima o el próximo ataque del enemigo.",
+        "Negro": "Su pelaje es tan sensible que puede percibir cualquier cambio en el aire y predecir el tiempo.",
+        "Blanco": "Su pelaje es tan sensible que puede percibir cualquier cambio en el aire y predecir el tiempo.",
+        "Negro 2": "Su pelaje es tan sensible que percibe los cambios en el aire y predice así los ataques de sus enemigos y el tiempo.",
+        "Blanco 2": "Su pelaje es tan sensible que percibe los cambios en el aire y predice así los ataques de sus enemigos y el tiempo.",
+        "Pokémon X": "Al predecir el siguiente movimiento de su rival, chasquea el extremo de la cola bífida que tiene.",
+        "Pokémon Y": "Su pelaje es tan sensible que percibe los cambios en el aire y predice así los ataques de sus enemigos y el tiempo.",
+        "Rubí Omega": "Espeon es tremendamente leal al Entrenador al que considera digno de ello. Dicen que este Pokémon desarrolló sus poderes adivinatorios para evitar que su Entrenador sufra daño alguno.",
+        "Zafiro Alfa": "Espeon es tremendamente leal al Entrenador al que considera digno de ello. Dicen que este Pokémon desarrolló sus poderes adivinatorios para evitar que su Entrenador sufra daño alguno.",
+        "Sol": "Su corto y fino pelaje percibe los cambios en el aire y esto le permite predecir los movimientos de sus oponentes.",
+        "Luna": "Lucha con los poderes psíquicos que brotan de la esfera de su frente, que se oscurece cuando su energía disminuye.",
+        "Ultrasol": "Originariamente, carecía de habilidades especiales, pero terminó desarrollando facultades premonitorias para protegerse.",
+        "Ultraluna": "La luz del sol imbuye de poder psíquico la esfera de su frente, por lo que los combates nocturnos son su punto débil.",
+        "Espada": "Basándose en las corrientes de aire, predice cosas como el tiempo atmosférico o la próxima acción del enemigo.",
+        "Escudo": "Lucha con los poderes psíquicos que brotan de la esfera de su frente, que se oscurece cuando su energía disminuye.",
+        "Diamante Brillante": "Su pelaje es suave y lustroso como el terciopelo. La esfera que tiene en la frente brilla cuando usa sus poderes psíquicos.",
+        "Perla Reluciente": "Su pelaje es suave y lustroso como el terciopelo. La esfera que tiene en la frente brilla cuando usa sus poderes psíquicos.",
+        "Leyendas: Arceus": "Predice el tiempo y lee los pensamientos humanos gracias a un misterioso poder. El sol le aporta vitalidad y hace brillar la esfera roja de su frente."
+    },
+    "evolution": [
+        [
+            "Eevee",
+            "Piedra agua ",
+            "Vaporeon"
+        ],
+        [
+            "",
+            "Piedra trueno ",
+            "Jolteon"
+        ],
+        [
+            "",
+            "Piedra fuego ",
+            "Flareon"
+        ],
+        [
+            "",
+            "Amistad + nivel (día) ",
+            "Espeon"
+        ],
+        [
+            "",
+            "Amistad + nivel (noche) ",
+            "Umbreon"
+        ],
+        [
+            "",
+            "Subir nivel cerca de la roca musgo 2;o piedra hoja 3",
+            "Leafeon"
+        ],
+        [
+            "",
+            "Subir nivel cerca de la roca hielo 2;o piedra hielo 3",
+            "Glaceon"
+        ],
+        [
+            "",
+            "Dos corazones de afecto2/amistad3 + nivel + conocer un movimiento de tipo hada",
+            "Sylveon"
+        ]
+    ]
+}

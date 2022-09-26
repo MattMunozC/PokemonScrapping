@@ -1,0 +1,167 @@
+{
+    "dex number": "187",
+    "pokemon name": "Hoppip",
+    "types": [
+        "planta",
+        "volador"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Defensa hoja"
+    ],
+    "hidden abilities": [
+        "Allanamiento"
+    ],
+    "stats": {
+        "hp": "35",
+        "atk": "35",
+        "def": "40",
+        "atk esp": "35",
+        "def esp": "55",
+        "speed": "50"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje, Por la mañana y el día: Rutas 13, 14, 15, 32 y 33"
+        ],
+        "Plata": [
+            "Salvaje, Por la mañana y el día: Rutas 13, 14, 15, 32 y 33"
+        ],
+        "Cristal": [
+            "Salvaje, Por la mañana y el día: Rutas 11, 13, 14, 15, 29, 30, 31, 32 y 33"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja o Pokémon XD"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja o Pokémon XD"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja o Pokémon XD"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Prado Isla Inta y Pilar Recuerdo",
+            "Surf: Isla Inta, Aquarinto, Lugar de Recreo, Prado Isla Inta y Pilar Recuerdo"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Prado Isla Inta y Pilar Recuerdo",
+            "Surf: Isla Inta, Aquarinto, Lugar de Recreo, Prado Isla Inta y Pilar Recuerdo"
+        ],
+        "Diamante": [
+            "Pokéradar: Ruta 205 (Norte y Sur)",
+            "Parque Compi: Zona Pradera"
+        ],
+        "Perla": [
+            "Pokéradar: Ruta 205 (Sur) y Forja fuego.",
+            "Parque Compi: Zona Pradera"
+        ],
+        "Platino": [
+            "Pokéradar: Ruta 205 (Sur)",
+            "Parque Compi: Zona Pradera"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Rutas 13, 14, 15, 32, 33 y 48, Zona Safari (Parterre)"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Rutas 13, 14, 15, 32, 33 y 48, Zona Safari (Parterre)"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Bosque Pequeño y Alto Cielo"
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco.",
+            "Dream World: Bosque Pequeño y Alto Cielo"
+        ],
+        "Negro 2": [
+            "Manada: Ruta 18.",
+            "Dream World: Bosque Pequeño y Alto Cielo"
+        ],
+        "Blanco 2": [
+            "Manada: Ruta 18.",
+            "Dream World: Bosque Pequeño y Alto Cielo"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 7 (Horda)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 7 (Horda)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Hoppip no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Hoppip no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Ruta 205 (Norte y Sur).",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera y Caverna Solana."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Ruta 205 (Sur) y Forja fuego.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera y Caverna Solana."
+        ],
+        "Leyendas: Arceus": [
+            "Hoppip no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Para evitar ser llevados por el viento, se reúnen en grupos, aunque adoran las suaves brisas.",
+        "Plata": "Su cuerpo es tan ligero, que debe agarrarse bien al suelo con las patas para no irse con el viento.",
+        "Cristal": "Es tan ligero, que la brisa más leve se lo puede llevar por delante. Puede ir flotando de una ciudad a otra.",
+        "Rubí": "Este Pokémon flota en el aire y se deja llevar. Cuando percibe que el viento va a cambiar a fuerte, Hoppip entrelaza sus hojas con otros Hoppip para hacer resistencia y evitar salir volando por la fuerza de la corriente.",
+        "Zafiro": "Este Pokémon flota en el aire y se deja llevar. Cuando percibe que el viento va a cambiar a fuerte, Hoppip entrelaza sus hojas con otros Hoppip para hacer resistencia y evitar salir volando por la fuerza de la corriente.",
+        "Esmeralda": "Flota en el aire y se deja llevar. Si percibe que el viento va a soplar con fuerza, entrelaza sus hojas con otros para hacer resistencia y evitar salir volando.",
+        "Rojo Fuego": "Su cuerpo es tan ligero que debe agarrarse bien al suelo con las patas para no irse con el viento.",
+        "Verde Hoja": "Para evitar ser arrastrados por el viento, se reúnen en grupos, aunque adoran las brisas suaves.",
+        "Diamante": "Flotan en el aire. Se dice que cuando los Hoppip se reúnen, es que la primavera está al caer.",
+        "Perla": "Flotan en el aire. Se dice que cuando los Hoppip se reúnen, es que la primavera está al caer.",
+        "Platino": "Flotan en el aire. Se dice que cuando los Hoppip se reúnen, es que la primavera está al caer.",
+        "Oro HeartGold": "Para evitar ser llevados por el viento, se reúnen en grupos, aunque adoran las suaves brisas.",
+        "Plata SoulSilver": "Su cuerpo es tan ligero, que debe agarrarse bien al suelo con las patas para no irse con el viento.",
+        "Negro": "Flotan en el aire. Se dice que cuando los Hoppip se reúnen, es que la primavera está al caer.",
+        "Blanco": "Flotan en el aire. Se dice que cuando los Hoppip se reúnen, es que la primavera está al caer.",
+        "Negro 2": "Flotan en el aire. Se dice que cuando los Hoppip se reúnen, es que la primavera está al caer.",
+        "Blanco 2": "Flotan en el aire. Se dice que cuando los Hoppip se reúnen, es que la primavera está al caer.",
+        "Pokémon X": "Su cuerpo es tan ligero, que debe agarrarse bien al suelo con las patas para no irse con el viento.",
+        "Pokémon Y": "Flotan en el aire. Se dice que cuando los Hoppip se reúnen, es que la primavera está al caer.",
+        "Rubí Omega": "Este Pokémon flota en el aire y se deja llevar. Cuando percibe que el viento va a cambiar a fuerte, Hoppip entrelaza sus hojas con otros Hoppip para hacer resistencia y evitar salir volando por la fuerza de la corriente.",
+        "Zafiro Alfa": "Este Pokémon flota en el aire y se deja llevar. Cuando percibe que el viento va a cambiar a fuerte, Hoppip entrelaza sus hojas con otros Hoppip para hacer resistencia y evitar salir volando por la fuerza de la corriente.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Se deja llevar por el viento. Dicen que, cuando empiezan a reunirse en los prados y los montes, la primavera está al caer.",
+        "Perla Reluciente": "Se deja llevar por el viento. Dicen que, cuando empiezan a reunirse en los prados y los montes, la primavera está al caer.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Hoppip",
+            "Nivel 18",
+            "Skiploom",
+            "Nivel 27",
+            "Jumpluff"
+        ]
+    ]
+}

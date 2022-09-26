@@ -1,0 +1,204 @@
+{
+    "dex number": "183",
+    "pokemon name": "Marill",
+    "types": [
+        "agua",
+        "hada"
+    ],
+    "abilities": [
+        "Potencia",
+        "Sebo"
+    ],
+    "hidden abilities": [
+        "Herbívoro"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "20",
+        "def": "50",
+        "atk esp": "20",
+        "def esp": "50",
+        "speed": "40"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje, haciendo surf o caminando: Monte Mortero (planta baja y primera planta).",
+            "Manada Pokémon: Monte Mortero"
+        ],
+        "Plata": [
+            "Salvaje, haciendo surf o caminando: Monte Mortero (planta baja y primera planta).",
+            "Manada Pokémon: Monte Mortero"
+        ],
+        "Cristal": [
+            "Salvaje, haciendo surf o caminando: Monte Mortero (planta baja y primera planta).",
+            "Salvaje, por la noche: Ruta 42."
+        ],
+        "Rubí": [
+            "Salvaje: Rutas 117, 120.",
+            "Salvaje, haciendo surf: Rutas 102, 111, 114, 117, 120 y Ciudad Petalia.",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Zafiro": [
+            "Salvaje: Rutas 117, 120.",
+            "Salvaje, haciendo surf: Rutas 102, 111, 114, 117, 120 y Ciudad Petalia.",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Rutas 117, 120, 104 y 112.",
+            "Salvaje, haciendo surf: Rutas 102, 111, 114, 117, 120, Ciudad Petalia y extensión de la Zona Safari.",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Verde Hoja."
+        ],
+        "Verde Hoja": [
+            "Salvaje: Valle Ruinas.",
+            "Salvaje, haciendo surf: Isla Quarta y Cueva Glaciada.",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Diamante": [
+            "Salvaje: Gran Pantano y Jardín Trofeo.",
+            "Evolucionar: a Azurill (amistad + nivel).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Perla": [
+            "Salvaje: Gran Pantano y Jardín Trofeo.",
+            "Evolucionar: a Azurill (amistad + nivel).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Platino": [
+            "Salvaje: Rutas 212 (norte) y 215.",
+            "Evolucionar: a Azurill (amistad + nivel).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Oro HeartGold": [
+            "Manada Pokémon: Monte Mortero.",
+            "Salvaje: Zona Safari (Parterre) y Monte Mortero.",
+            "Salvaje, haciendo surf: Zona Safari (Parterre).",
+            "Evolucionar: a Azurill (amistad + nivel).",
+            "Pokéwalker: Zona Vacacional.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Plata SoulSilver": [
+            "Manada Pokémon: Monte Mortero.",
+            "Salvaje: Zona Safari (Parterre) y Monte Mortero.",
+            "Salvaje, haciendo surf: Zona Safari (Parterre).",
+            "Evolucionar: a Azurill (amistad + nivel).",
+            "Pokéwalker: Zona Vacacional.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Negro 2 o Blanco 2.",
+            "Dream World: Bosque Pequeño con la habilidad herbívoro.",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Blanco": [
+            "Dream World: Bosque Pequeño con la habilidad herbívoro.",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Negro 2": [
+            "Salvaje: Rutas 6, 11, 22, Puente Villa y Santuario Abundancia.",
+            "Salvaje, haciendo surf: Rutas 6, 22, Puente Villa, Bosque Azulejo, Santuario Abundancia, Pasadizo Ancestral y Calle Victoria.",
+            "Salvaje, haciendo surf en sombra de agua: Ruta 20 y Rancho Ocre.",
+            "Claro oculto: Rancho Ocre.",
+            "Dream World: Bosque Pequeño con la habilidad herbívoro.",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Rutas 6, 11, 22, Puente Villa y Santuario Abundancia.",
+            "Salvaje, haciendo surf: Rutas 6, 22, Puente Villa, Bosque Azulejo, Santuario Abundancia, Pasadizo Ancestral y Calle Victoria.",
+            "Salvaje, haciendo surf en sombra de agua: Ruta 20 y Rancho Ocre.",
+            "Claro oculto: Rancho Ocre.",
+            "Dream World: Bosque Pequeño con la habilidad herbívoro.",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Pokémon X": [
+            "Salvaje, haciendo surf: Ruta 3.",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Pokémon Y": [
+            "Salvaje, haciendo surf: Ruta 3.",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Rubí Omega": [
+            "Salvaje, haciendo surf: Rutas 102, 111, 114, 117, 120 y Ciudad Petalia.",
+            "Rutas 117 y 120 (hierba alta).",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje, haciendo surf: Rutas 102, 111, 114, 117, 120 y Ciudad Petalia.",
+            "Rutas 117 y 120 (hierba alta).",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Sol": [
+            "Escáner insular: en la Colina Saltagua (Solo los Sábados)."
+        ],
+        "Luna": [
+            "Escáner insular: en la Colina Saltagua (Solo los Sábados)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Escudo": [
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Gran Pantano y Jardín Trofeo.",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Gran Pantano y Jardín Trofeo.",
+            "Evolucionar: a Azurill (amistad + nivel)."
+        ],
+        "Leyendas: Arceus": [
+            "Marill no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "La punta de su cola, que contiene aceite, le permite nadar sin miedo a ahogarse.",
+        "Plata": "Usa el extremo de su cola como boya que le impide ahogarse, incluso si lo arrastra una fuerte corriente.",
+        "Cristal": "Tiene una piel que repele el agua. De hecho, puede pasarse horas jugando en el agua sin mojarse.",
+        "Rubí": "La cola de Marill contiene un aceite que hace las veces de chaleco salvavidas. Si ves una moviéndose en el agua, seguro que debajo esta Marill medio sumergido buscando plantas acuáticas para comer.",
+        "Zafiro": "Este Pokémon tiene la cola muy flexible y elástica. A la hora de pescar a su presa en una rápida corriente, Marill enrosca la cola en un árbol.",
+        "Esmeralda": "Está cubierto de una piel impermeable. Gracias a ella, puede nadar a gran velocidad sin que le afecte la resistencia que pueda ofrecer el agua.",
+        "Rojo Fuego": "Usa el extremo de su cola como boya, así no se ahoga aunque lo arrastre una fuerte corriente.",
+        "Verde Hoja": "La punta de la cola, que contiene aceite, le permite nadar sin miedo a ahogarse.",
+        "Diamante": "Bucea usando su cola a modo de boya. Le gusta comer las plantas del fondo fluvial.",
+        "Perla": "La punta de su cola está llena de aceite que, al ser más ligero que el agua, le permite flotar.",
+        "Platino": "No se ahoga ni en las corrientes más fuerte porque la punta de su cola está llena de aceite y flota.",
+        "Oro HeartGold": "La punta de su cola, que tiene aceite, le permite nadar sin miedo a ahogarse.",
+        "Plata SoulSilver": "Usa el extremo de su cola como boya que le impide ahogarse, incluso si lo arrastra una fuerte corriente.",
+        "Negro": "No se ahoga ni en las corrientes más fuerte porque la punta de su cola está llena de aceite y flota.",
+        "Blanco": "No se ahoga ni en las corrientes más fuerte porque la punta de su cola está llena de aceite y flota.",
+        "Negro 2": "Su cola, llena de aceite, hace las veces de boya, con la que se desenvuelve con soltura hasta en ríos de aguas bravas.",
+        "Blanco 2": "Su cola, llena de aceite, hace las veces de boya, con la que se desenvuelve con soltura hasta en ríos de aguas bravas.",
+        "Pokémon X": "Tiene una piel que repele el agua. De hecho, puede pasarse horas jugando en el agua sin mojarse.",
+        "Pokémon Y": "La punta de su cola está llena de un aceite que, al ser más ligero que el agua, le permite flotar.",
+        "Rubí Omega": "La cola de Marill contiene un aceite que hace las veces de chaleco salvavidas. Si ves una moviéndose en el agua, seguro que debajo esta Marill medio sumergido buscando plantas acuáticas para comer.",
+        "Zafiro Alfa": "Este Pokémon tiene la cola muy flexible y elástica. A la hora de pescar a su presa en una rápida corriente, Marill enrosca la cola en un árbol.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "La punta redonda de su cola hace las veces de flotador. En ella almacena abundantes nutrientes en forma de aceite.",
+        "Escudo": "Su pelaje repele el agua, lo que evita que pase frío al salir de mares gélidos porque se seca al momento.",
+        "Diamante Brillante": "Bucea usando su cola a modo de boya. Le gusta comer las plantas del fondo fluvial.",
+        "Perla Reluciente": "La punta de su cola está llena de un aceite que, al ser más ligero que el agua, le permite flotar.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Azurill",
+            "Amistad + nivel",
+            "Marill",
+            "Nivel 18",
+            "Azumarill"
+        ]
+    ]
+}

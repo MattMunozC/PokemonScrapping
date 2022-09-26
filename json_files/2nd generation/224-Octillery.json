@@ -1,0 +1,180 @@
+{
+    "dex number": "224",
+    "pokemon name": "Octillery",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Ventosas",
+        "Francotirador"
+    ],
+    "hidden abilities": [
+        "Veleta"
+    ],
+    "stats": {
+        "hp": "75",
+        "atk": "105",
+        "def": "75",
+        "atk esp": "105",
+        "def esp": "75",
+        "speed": "45"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Plata": [
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Cristal": [
+            "Intercambiar: de Pokémon Oro o Pokémon Plata"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Verde Hoja, Pokémon Esmeralda o Pokémon Colosseum"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Verde Hoja, Pokémon Esmeralda o Pokémon Colosseum"
+        ],
+        "Esmeralda": [
+            "Pescando, supercaña: Extensión de la Zona Safari",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Verde Hoja, Pokémon Esmeralda o Pokémon Colosseum"
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Diamante": [
+            "Pescando, supercaña: Rutas 213, 222, 223, 224, 230, Ciudad Marina, Ciudad Pradera y Calle Victoria",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Perla": [
+            "Pescando, supercaña: Rutas 213, 222, 223, 224, 230, Ciudad Marina, Ciudad Pradera y Calle Victoria",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Platino": [
+            "Pescando, supercaña: Rutas 213, 222, 223, 224, 230, Ciudad Marina, Ciudad Pradera y Calle Victoria",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Remoraid (nivel 25)",
+            "Pokéwalker: Ultramar"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Remoraid (nivel 25)",
+            "Pokéwalker: Ultramar"
+        ],
+        "Negro": [
+            "Pescando, supercaña: Pueblo Arenisca, Bahía Arenisca",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Blanco": [
+            "Pescando, supercaña: Pueblo Arenisca, Bahía Arenisca",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Negro 2": [
+            "Pescando, supercaña: Ruta 21 y Bahía Arenisca",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Blanco 2": [
+            "Pescando, supercaña: Ruta 21 y Bahía Arenisca",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Pokémon X": [
+            "Pescando, supercaña: Ruta 12.",
+            "Salvaje: Safari Amistad de tipo agua.",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Pokémon Y": [
+            "Pescando, supercaña: Ruta 12.",
+            "Salvaje: Safari Amistad de tipo agua.",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Rubí Omega": [
+            "Pescando, supercaña: Resort Batalla",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Zafiro Alfa": [
+            "Pescando, supercaña: Resort Batalla",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Pescando: Bahía Kalae, Mar de Melemele y Ruta 8 (como refuerzo de Remoraid)",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Ultraluna": [
+            "Pescando: Bahía Kalae, Mar de Melemele y Ruta 8 (como refuerzo de Remoraid)",
+            "Evolucionar: a Remoraid (nivel 25)"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Lago Axew (este), nido en el agua y Lago Axew (oeste), nido en el agua (este). Con posible habilidad oculta: Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Lago Axew (este), nido en el agua y Lago Axew (oeste), nido en el agua (este). Con posible habilidad oculta: Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur."
+        ],
+        "Diamante Brillante": [
+            "Pescando con supercaña: Rutas 213, 222, 223, 224, 230, Ciudad Marina, Ciudad Pradera y Liga Pokémon.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Remoraid (nivel 25)."
+        ],
+        "Perla Reluciente": [
+            "Pescando con supercaña: Rutas 213, 222, 223, 224, 230, Ciudad Marina, Ciudad Pradera y Liga Pokémon.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Remoraid (nivel 25)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Costa Cobalto: Playa del Errante y Costa Ínsola.",
+            "Evolucionar: a Remoraid (nivel 25).",
+            "Pokémon alfa: Playa del Errante.",
+            "Distorsión espaciotemporal: Ladera Corona"
+        ]
+    },
+    "pokedex": {
+        "Oro": "Atrapa a los enemigos con sus tentáculos, y después los golpea con su dura cabeza.",
+        "Plata": "Instintivamente se escabulle entre las rocas. Si le entra sueño, robará la guarida de otro Octillery.",
+        "Cristal": "Por instinto, se entierra en hoyos. A menudo ocupa los que han hecho otros para anidar y duerme en ellos.",
+        "Rubí": "Octillery se apodera de su enemigo con los tentáculos y lo deja inmovilizado antes de propinarle el golpe final. Si el enemigo resulta ser demasiado fuerte, Octillery expulsará tinta para escapar.",
+        "Zafiro": "Octillery se apodera de su enemigo con los tentáculos y lo deja inmovilizado antes de propinarle el golpe final. Si el enemigo resulta ser demasiado fuerte, Octillery expulsará tinta para escapar.",
+        "Esmeralda": "Se apodera de su enemigo con los tentáculos y lo deja inmovilizado antes de propinarle el golpe final. Si el rival es muy fuerte, le escupe tinta para escapar.",
+        "Rojo Fuego": "Instintivamente se escabulle entre las rocas. Si le entra sueño, robará la guarida de otro Octillery.",
+        "Verde Hoja": "Atrapa a los enemigos con los tentáculos, y después los golpea con la dura cabeza.",
+        "Diamante": "Se refugia en los agujeros de las rocas y el fondo marino. Sus ventosas son muy potentes.",
+        "Perla": "Nubla la visión de su rival escupiéndole una nube de tinta. Anida entre las rocas.",
+        "Platino": "Le gusta acechar desde agujeros en las rocas. Escupe tinta a sus presas asomando solo la boca.",
+        "Oro HeartGold": "Atrapa a los enemigos con sus tentáculos y después los golpea con su dura cabeza.",
+        "Plata SoulSilver": "Instintivamente se escabulle entre las rocas. Si le entra sueño, robará la guarida de otro Octillery.",
+        "Negro": "Le gusta acechar desde agujeros en las rocas. Escupe tinta a sus presas asomando solo la boca.",
+        "Blanco": "Le gusta acechar desde agujeros en las rocas. Escupe tinta a sus presas asomando solo la boca.",
+        "Negro 2": "Tiene querencia por los agujeros. Ataca escupiendo tinta metido en las grietas de rocas o en recipientes.",
+        "Blanco 2": "Tiene querencia por los agujeros. Ataca escupiendo tinta metido en las grietas de rocas o en recipientes.",
+        "Pokémon X": "Tiene querencia por los agujeros. Ataca escupiendo tinta metido en las grietas de rocas o en recipientes.",
+        "Pokémon Y": "Atrapa a los enemigos con sus tentáculos y después los golpea con su dura cabeza.",
+        "Rubí Omega": "Octillery se apodera de su enemigo con los tentáculos y lo deja inmovilizado antes de propinarle el golpe final. Si el enemigo resulta ser demasiado fuerte, Octillery expulsará tinta para escapar.",
+        "Zafiro Alfa": "Octillery se apodera de su enemigo con los tentáculos y lo deja inmovilizado antes de propinarle el golpe final. Si el enemigo resulta ser demasiado fuerte, Octillery expulsará tinta para escapar.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "La tinta que expulsa al huir inhibe la capacidad olfativa del rival y afecta incluso a los Pokémon con el olfato más aguzado.",
+        "Ultraluna": "Duerme principalmente en cavidades rocosas. La tinta negra que escupe se utiliza como ingrediente en la alta cocina.",
+        "Espada": "Tiene querencia por los agujeros, hasta el punto de ocupar los que han hecho otros para anidar y dormir en ellos.",
+        "Escudo": "Atrapa a sus enemigos con los tentáculos y después los golpea con su dura cabeza.",
+        "Diamante Brillante": "Se refugia en cavidades rocosas y agujeros del lecho marino. Atrapa a sus presas con las ventosas para evitar que huyan.",
+        "Perla Reluciente": "Nubla la visión de su rival escupiéndole una nube de tinta negra. Anida entre las rocas.",
+        "Leyendas: Arceus": "Dispara agua por la boca de manera similar a Remoraid, pero su aspecto es tan diferente que durante mucho tiempo nadie creía que fuera su evolución."
+    },
+    "evolution": [
+        [
+            "Remoraid",
+            "Nivel 25",
+            "Octillery"
+        ]
+    ]
+}

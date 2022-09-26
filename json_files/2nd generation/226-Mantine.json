@@ -1,0 +1,167 @@
+{
+    "dex number": "226",
+    "pokemon name": "Mantine",
+    "types": [
+        "agua",
+        "volador"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Absorbe agua"
+    ],
+    "hidden abilities": [
+        "Velo agua"
+    ],
+    "stats": {
+        "hp": "85",
+        "atk": "40",
+        "def": "70",
+        "atk esp": "80",
+        "def esp": "140",
+        "speed": "70"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje, Todo el día, pescando o surfeando: Ruta 41"
+        ],
+        "Plata": [
+            "Intercambiar: de Pokémon Oro o Pokémon Cristal"
+        ],
+        "Cristal": [
+            "Salvaje, Todo el día, pescando o surfeando: Ruta 41"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Verde Hoja o Pokémon Colosseum"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Verde Hoja o Pokémon Colosseum"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Verde Hoja o Pokémon Colosseum"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Verde Hoja o Pokémon Colosseum"
+        ],
+        "Verde Hoja": [
+            "Salvaje, surfeando: Torre Desafío y Ruinas Sete."
+        ],
+        "Diamante": [
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)"
+        ],
+        "Perla": [
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)"
+        ],
+        "Platino": [
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)"
+        ],
+        "Oro HeartGold": [
+            "Salvaje, surfeando: Ruta 41."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Oro HeartGold.",
+            "Parque Compi: Zona Marina."
+        ],
+        "Negro": [
+            "Salvaje, surfeando: Pueblo Arenisca y Bahía Arenisca. En invierno solo Pueblo Arenisca.",
+            "Dream World: Mar Brillante."
+        ],
+        "Blanco": [
+            "Salvaje, surfeando: Pueblo Arenisca y Bahía Arenisca. En invierno solo Pueblo Arenisca.",
+            "Dream World: Mar Brillante."
+        ],
+        "Negro 2": [
+            "Salvaje, surfeando: Todas las estaciones: Ruta 21. Primavera, verano y otoño: Bahía Arenisca.",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Salvaje, surfeando: Todas las estaciones: Ruta 21. Primavera, verano y otoño: Bahía Arenisca.",
+            "Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)"
+        ],
+        "Rubí Omega": [
+            "Salvaje, surfeando: Resort Batalla",
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje, surfeando: Resort Batalla",
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)"
+        ],
+        "Espada": [
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)",
+            "Incursiones Dinamax: Lago Axew (este), nido en el agua y Lago Axew (oeste), nido en el agua (este). Con posible habilidad oculta: Espejo del Gigante, nido en la laguna, Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur."
+        ],
+        "Escudo": [
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)",
+            "Incursiones Dinamax: Lago Axew (este), nido en el agua y Lago Axew (oeste), nido en el agua (este). Con posible habilidad oculta: Espejo del Gigante, nido en la laguna, Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Mantyke (+ nivel con Remoraid en el equipo)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Costa Cobalto: Bahía Silente.",
+            "Evolucionar: a Mantyke (teniendo a Remoraid en el equipo).",
+            "Pokémon alfa: Bahía Silente"
+        ]
+    },
+    "pokedex": {
+        "Oro": "Mientras nada majestuosamente, no le importa que Remoraid le siga para comerse sus sobras.",
+        "Plata": "Nada libremente en mar abierto. Si va lo bastante rápido, volará sobre las olas del mar.",
+        "Cristal": "Va nadando por ahí tranquilamente, comiendo lo que le cae en la boca. Tiene un cuerpo muy resistente.",
+        "Rubí": "En días soleados, es posible ver bancos de Mantine saltando con elegancia por entre las olas del mar. A estos Pokémon no les molestan los Remoraid que se les pegan.",
+        "Zafiro": "En los días que hace sol, es posible ver bancos de Mantine saltando con elegancia por entre las olas del mar. A estos Pokémon no les molestan los Remoraid que se les pegan",
+        "Esmeralda": "En días soleados, es posible ver bancos de Mantine saltando con elegancia sobre las olas del mar. A este Pokémon no le molesta que se le pegue un Remoraid.",
+        "Rojo Fuego": "Nada libremente en mar abierto. Si va lo bastante rápido, volará sobre las olas del mar.",
+        "Verde Hoja": "Mientras nada majestuosamente, no le importa que Remoraid le siga para comerse sus sobras.",
+        "Diamante": "Cuando el mar está en calma, se pueden ver bancos de Mantine nadando como si volasen.",
+        "Perla": "Nada de forma elegante y no le importa que Remoraid se enganche a sus aletas. Es muy dócil.",
+        "Platino": "Nada con gran elegancia e ignora a los Remoraid que se aferran a sus aletas buscando restos de comida.",
+        "Oro HeartGold": "Mientras nada majestuosamente, no le importa que Remoraid le sigan para comerse sus sobras.",
+        "Plata SoulSilver": "Nada libremente en mar abierto. Si va lo bastante rápido, volará sobre las olas del mar.",
+        "Negro": "Nada con gran elegancia e ignora a los Remoraid que se aferran a sus aletas buscando restos de comida.",
+        "Blanco": "Nada con gran elegancia e ignora a los Remoraid que se aferran a sus aletas buscando restos de comida.",
+        "Negro 2": "Acumula velocidad nadando y puede saltar fuera del agua, alcanzando 100 metros de altura, para descender luego planeando.",
+        "Blanco 2": "Acumula velocidad nadando y puede saltar fuera del agua, alcanzando 100 metros de altura, para descender luego planeando.",
+        "Pokémon X": "Acumula velocidad nadando y puede saltar fuera del agua, alcanzando 100 metros de altura, para descender luego planeando.",
+        "Pokémon Y": "Nada con gran elegancia e ignora a los Remoraid que se aferran a sus aletas buscando restos de comida.",
+        "Rubí Omega": "En los días que hace sol, es posible ver bancos de Mantine saltando con elegancia por entre las olas del mar. A estos Pokémon no les molestan los Remoraid que se les pegan",
+        "Zafiro Alfa": "En los días que hace sol, es posible ver bancos de Mantine saltando con elegancia por entre las olas del mar. A estos Pokémon no les molestan los Remoraid que se les pegan",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Un souvenir típico de Alola son las postales y pósteres con dibujos de Mantine saltando grácilmente sobre las olas del mar.",
+        "Ultraluna": "Muchos surfistas se iniciaron en la disciplina inspirados por el grácil nado de los Mantine.",
+        "Espada": "Tras ganar velocidad nadando, aprovecha las olas para proyectarse y recorrer planeando hasta 100 m de distancia.",
+        "Escudo": "Mientras nada plácidamente, no le importa que los Remoraid se aferren a él para comerse sus sobras.",
+        "Diamante Brillante": "Cuando el mar está en calma, se pueden ver bancos de Mantine nadando como si volasen.",
+        "Perla Reluciente": "Este Pokémon de carácter dócil nada con suma elegancia con un Remoraid aferrado a una de sus grandes aletas.",
+        "Leyendas: Arceus": "De personalidad dócil, nada con elegancia por mar abierto. Puede saltar sobre la superficie del agua cuando va muy deprisa, por lo que suelen confundirlo con un Pokémon pájaro."
+    },
+    "evolution": [
+        [
+            "Mantyke",
+            "Remoraid  en el equipo+ nivel",
+            "Mantine"
+        ]
+    ]
+}

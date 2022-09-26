@@ -1,0 +1,163 @@
+{
+    "dex number": "233",
+    "pokemon name": "Porygon2",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Rastro",
+        "Descarga"
+    ],
+    "hidden abilities": [
+        "Cálculo final"
+    ],
+    "stats": {
+        "hp": "85",
+        "atk": "80",
+        "def": "90",
+        "atk esp": "105",
+        "def esp": "95",
+        "speed": "60"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Plata": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Cristal": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Diamante": [
+            "Evolucionar: a Porygon (intercambio con mejora)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Evolucionar: a Porygon (intercambio con mejora)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Evolucionar: a Porygon (intercambio con mejora)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Porygon (intercambio con mejora)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Porygon (intercambio con mejora)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Sol": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Luna": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Espada": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Escudo": [
+            "Evolucionar: a Porygon (intercambio con mejora)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Porygon (intercambio con mejora)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Porygon (intercambio con mejora)."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Porygon usando mejora.",
+            "Distorsión espaciotemporal: Ladera Corona"
+        ]
+    },
+    "pokedex": {
+        "Oro": "Esta versión mejorada de Porygon fue creada para explorar el espacio, aunque no puede volar.",
+        "Plata": "La investigación mejoró sus habilidades. A veces, puede actuar de forma no programada.",
+        "Cristal": "Este avanzado Pokémon es obra del hombre y de la tecnología. Puede tener reacciones imprevisibles.",
+        "Rubí": "Porygon2 fue creado por el hombre, con los avances de la ciencia. Esta obra humana ha sido provista de inteligencia artificial que le permite aprender gestos y sensaciones nuevas por su cuenta.",
+        "Zafiro": "Porygon2 fue creado por el hombre, con los avances de la ciencia. Esta obra humana ha sido provista de inteligencia artificial que le permite aprender gestos y sensaciones nuevas por su cuenta.",
+        "Esmeralda": "Porygon2 fue creado por el hombre gracias a los avances científicos. Su inteligencia artificial le permite aprender gestos y emociones totalmente nuevas.",
+        "Rojo Fuego": "La investigación mejoró sus habilidades. A veces, puede actuar de forma no programada.",
+        "Verde Hoja": "Esta versión mejorada de Porygon fue creada para explorar el espacio, aunque no puede volar.",
+        "Diamante": "Tiene instalado un avanzado software astrofísico que le permite trabajar en el espacio.",
+        "Perla": "Tiene instalado un avanzado software astrofísico que le permite trabajar en el espacio.",
+        "Platino": "Fue mejorado para posibilitar la exploración de otros planetas. Pero no estaba a la altura.",
+        "Oro HeartGold": "Esta versión mejorada de Porygon fue creada para explorar el espacio, aunque no puede volar.",
+        "Plata SoulSilver": "La investigación mejoró sus habilidades. A veces, puede actuar de forma no programada.",
+        "Negro": "Fue mejorado para posibilitar la exploración de otros planetas. Pero no estaba a la altura.",
+        "Blanco": "Fue mejorado para posibilitar la exploración de otros planetas. Pero no estaba a la altura.",
+        "Negro 2": "Fue mejorado para posibilitar la exploración de otros planetas. Pero no estaba a la altura.",
+        "Blanco 2": "Fue mejorado para posibilitar la exploración de otros planetas. Pero no estaba a la altura.",
+        "Pokémon X": "La investigación mejoró sus habilidades. A veces, puede actuar de forma no programada.",
+        "Pokémon Y": "Tiene instalado un avanzado software astrofísico que le permite trabajar en el espacio.",
+        "Rubí Omega": "Porygon2 fue creado por el hombre gracias a los avances de la ciencia. Esta obra humana ha sido provista de inteligencia artificial que le permite aprender gestos y sensaciones nuevas por su cuenta",
+        "Zafiro Alfa": "Porygon2 fue creado por el hombre gracias a los avances de la ciencia. Esta obra humana ha sido provista de inteligencia artificial que le permite aprender gestos y sensaciones nuevas por su cuenta",
+        "Sol": "Esta versión actualizada de Porygon ha sido dotada de la más avanzada tecnología, lo que, en teoría, le permite explorar otros planetas.",
+        "Luna": "Esta versión de Porygon mejorada se creó para posibilitar la exploración de otros planetas. Por desgracia, este sueño sigue siendo inalcanzable.",
+        "Ultrasol": "Un Pokémon dotado de inteligencia artificial y capacidad de aprendizaje autónomo, aunque a veces aprende cosas que no debería.",
+        "Ultraluna": "Puede sobrevivir en el espacio, aunque la ausencia de gravedad entorpece sus movimientos.",
+        "Espada": "Se trata de una versión mejorada de Porygon mediante un software especial. Tiene capacidad de aprendizaje autónomo.",
+        "Escudo": "Al dotarlo de inteligencia artificial, desarrolló un misterioso lenguaje que solo los miembros de su especie son capaces de comprender.",
+        "Diamante Brillante": "Tiene instalado un avanzado software de exploración planetaria que le permite trabajar en el vacío del espacio.",
+        "Perla Reluciente": "Tiene instalado un avanzado software de exploración planetaria que le permite trabajar en el vacío del espacio.",
+        "Leyendas: Arceus": "Un extraño objeto provocó esta evolución. Presenta una mayor variedad de expresiones y gestos, mas su fisiología sigue siendo un misterio."
+    },
+    "evolution": [
+        [
+            "Porygon",
+            "Intercambio equipado con / Exponer 3mejora ",
+            "Porygon2",
+            "Intercambio equipado con /  Exponer 3Disco extraño ",
+            "Porygon-Z"
+        ]
+    ]
+}

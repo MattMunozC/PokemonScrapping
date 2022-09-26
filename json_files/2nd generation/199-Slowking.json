@@ -1,0 +1,170 @@
+{
+    "dex number": "199",
+    "pokemon name": "Slowking",
+    "types": [
+        "agua",
+        "psíquico"
+    ],
+    "abilities": [
+        "Despiste",
+        "Ritmo propio"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": "95",
+        "atk": "75",
+        "def": "80",
+        "atk esp": "100",
+        "def esp": "110",
+        "speed": "30"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Plata": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Cristal": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Verde Hoja"
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla, Pokémon Platino Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Perla": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Platino": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Negro": [
+            "Salvaje: Santuario Abundancia usando surf (en los remolinos de agua).",
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Blanco": [
+            "Salvaje: Santuario Abundancia usando surf (en los remolinos de agua).",
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Sol": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Luna": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Bahía Kalae (como refuerzo de Slowpoke)",
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Bahía Kalae (como refuerzo de Slowpoke)",
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)"
+        ],
+        "Espada": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey) ",
+            "Transferir: Transferir desde Pokémon HOME"
+        ],
+        "Escudo": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey) ",
+            "Transferir: Transferir desde Pokémon HOME"
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Slowpoke (intercambio equipado con roca del rey)."
+        ],
+        "Leyendas: Arceus": [
+            "Slowking no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Su intelecto e intuición son increíbles. No pierde la compostura en ninguna situación.",
+        "Plata": "Al ser mordido en la cabeza, Slowpoke absorbió unas toxinas que liberaron su oculto poder.",
+        "Cristal": "Cada vez que bosteza, Shellder le inyecta veneno. Así, se vuelve cada vez más inteligente.",
+        "Rubí": "Slowking dedica cada día tiempo a investigar, en un intento por resolver los problemas del mundo. Aunque, según parece, a este Pokémon se le olvida todo lo que ha aprendido cuando el Shellder que lleva asoma.",
+        "Zafiro": "Slowking dedica cada día tiempo a investigar, en un intento por resolver los problemas del mundo. Aunque, según parece, a este Pokémon se le olvida todo lo que ha aprendido cuando el Shellder que lleva asoma.",
+        "Esmeralda": "Slowking investiga cada día los misterios del mundo que aún no se han resuelto, pero al parecer se le olvida lo aprendido cuando el Shellder que lleva arriba se suelta.",
+        "Rojo Fuego": "Al ser mordido en la cabeza, Slowpoke absorbió unas toxinas que liberaron su poder oculto.",
+        "Verde Hoja": "Su intelecto e intuición son increíbles. No pierde la compostura en ninguna situación.",
+        "Diamante": "Al ser mordido por un Shellder desarrolló una inteligencia propia de un ganador del premio Nobel.",
+        "Perla": "Al ser mordido por un Shellder desarrolló una inteligencia propia de un ganador del premio Nobel.",
+        "Platino": "Al ser mordido por un Shellder desarrolló una inteligencia propia de un ganador del premio Nobel.",
+        "Oro HeartGold": "Su intelecto e intuición son increíbles. No pierde la compostura en ninguna situación.",
+        "Plata SoulSilver": "Al ser mordido en la cabeza, Slowpoke absorbió unas toxinas que liberaron su oculto poder.",
+        "Negro": "Al ser mordido por un Shellder desarrolló una inteligencia propia de un ganador del premio Nobel.",
+        "Blanco": "Al ser mordido por un Shellder desarrolló una inteligencia propia de un ganador del premio Nobel.",
+        "Negro 2": "Al ser mordido por un Shellder desarrolló una inteligencia propia de un ganador del premio Nobel.",
+        "Blanco 2": "Al ser mordido por un Shellder desarrolló una inteligencia propia de un ganador del premio Nobel.",
+        "Pokémon X": "Su intelecto e intuición son increíbles. No pierde la compostura en ninguna situación.",
+        "Pokémon Y": "Al ser mordido en la cabeza, Slowpoke absorbió unas toxinas que liberaron su oculto poder.",
+        "Rubí Omega": "Slowking dedica cada día tiempo a investigar, en un intento por resolver los problemas del mundo. Aunque, según parece, a este Pokémon se le olvida todo lo que ha aprendido cuando el Shellder que lleva asoma.",
+        "Zafiro Alfa": "Slowking dedica cada día tiempo a investigar, en un intento por resolver los problemas del mundo. Aunque, según parece, a este Pokémon se le olvida todo lo que ha aprendido cuando el Shellder que lleva asoma.",
+        "Sol": "El veneno de Shellder le confiere una inteligencia brillante. Puede utilizar sus poderes psíquicos con gran destreza.",
+        "Luna": "Es muy famoso por su inteligencia y, en algunas regiones, hasta tienen un refrán que dice: “En caso de duda, pregúntale a Slowking”.",
+        "Ultrasol": "A menudo se le ocurren ideas geniales que cambiarían el mundo, pero tan pronto como las tiene se le olvidan.",
+        "Ultraluna": "Lo llaman el Sabio del Mar. Disfruta librando duelos de inteligencia con Oranguru que suelen terminar en tablas.",
+        "Espada": "Las toxinas del Shellder impregnaron el cerebro del anfitrión y despertaron el increíble intelecto oculto que poseía Slowpoke.",
+        "Escudo": "Es capaz de dar respuesta a cualquier cuestión que se le formule, pero, por desgracia, nadie logra descifrar una sola palabra de lo que dice.",
+        "Diamante Brillante": "Al ser mordido por un Shellder, desarrolló una inteligencia comparable a la de una eminencia científica mundial.",
+        "Perla Reluciente": "Al ser mordido por un Shellder, desarrolló una inteligencia comparable a la de una eminencia científica mundial.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Slowpoke",
+            "Nivel 37",
+            "Slowbro"
+        ],
+        [
+            "",
+            "Intercambio equipado conroca del rey ",
+            "Slowking"
+        ]
+    ]
+}

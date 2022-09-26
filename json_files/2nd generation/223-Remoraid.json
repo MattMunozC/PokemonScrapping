@@ -1,0 +1,161 @@
+{
+    "dex number": "223",
+    "pokemon name": "Remoraid",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Entusiasmo",
+        "Francotirador"
+    ],
+    "hidden abilities": [
+        "Veleta"
+    ],
+    "stats": {
+        "hp": "35",
+        "atk": "65",
+        "def": "35",
+        "atk esp": "65",
+        "def esp": "35",
+        "speed": "65"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje, todo el día, pescando: Ruta 44",
+            "Manada Pokémon: Ruta 44"
+        ],
+        "Plata": [
+            "Salvaje, todo el día, pescando: Ruta 44",
+            "Manada Pokémon: Ruta 44"
+        ],
+        "Cristal": [
+            "Intercambiar: de Pokémon Oro o Pokémon Plata"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Verde Hoja, Pokémon Esmeralda o Pokémon Colosseum"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Verde Hoja, Pokémon Esmeralda o Pokémon Colosseum"
+        ],
+        "Esmeralda": [
+            "Salvaje, pescando: Extensión de la Zona Safari"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Verde Hoja, Pokémon Esmeralda o Pokémon Colosseum"
+        ],
+        "Verde Hoja": [
+            "Salvaje, pescando: Vía Acuática, Vía Verde, Isla Aislada, Aquarinto, Lugar de recreo, Prado Isla Inta, Pilar Recuerdo, Torre Desafío y Ruinas Sete"
+        ],
+        "Diamante": [
+            "Salvaje, Pescando con caña buena: Rutas 213, 222, 223, 224, 230, Ciudad Marina, Ciudad Pradera, Calle Victoria"
+        ],
+        "Perla": [
+            "Salvaje, Pescando con caña buena: Rutas 213, 222, 223, 224, 230, Ciudad Marina, Ciudad Pradera, Calle Victoria"
+        ],
+        "Platino": [
+            "Salvaje, Pescando con caña buena: Rutas 212, 213, 222, 223, 224, 230, Ciudad Marina, Ciudad Pradera, Calle Victoria"
+        ],
+        "Oro HeartGold": [
+            "Manada: Ruta 44",
+            "Pokéwalker: Lago Bruma y Ultramar"
+        ],
+        "Plata SoulSilver": [
+            "Manada: Ruta 44",
+            "Pokéwalker: Lago Bruma y Ultramar"
+        ],
+        "Negro": [
+            "Salvaje, pescando: Pueblo Arenisca y Bahía Arenisca"
+        ],
+        "Blanco": [
+            "Salvaje, pescando: Pueblo Arenisca y Bahía Arenisca"
+        ],
+        "Negro 2": [
+            "Salvaje, pescando: Ruta 21 y Bahía Arenisca"
+        ],
+        "Blanco 2": [
+            "Salvaje, pescando: Ruta 21 y Bahía Arenisca"
+        ],
+        "Pokémon X": [
+            "Salvaje, pescando con caña buena: Ruta 12, Bahía Azul y Ciudad Yantra"
+        ],
+        "Pokémon Y": [
+            "Salvaje, pescando con caña buena: Ruta 12, Bahía Azul y Ciudad Yantra"
+        ],
+        "Rubí Omega": [
+            "Salvaje, pescando con caña buena o supercaña: Resort Batalla"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje, pescando con caña buena o supercaña: Resort Batalla"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje, pescando: Bahía Kalae, Mar de Melemele y Ruta 8 (como refuerzo de Mantyke)"
+        ],
+        "Ultraluna": [
+            "Salvaje, pescando: Bahía Kalae, Mar de Melemele y Ruta 8 (como refuerzo de Mantyke)"
+        ],
+        "Espada": [
+            "Salvaje, Bici acuática: Ruta 9 (Persiguiendo a Mantyke)",
+            "Incursiones Dinamax: Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur."
+        ],
+        "Escudo": [
+            "Salvaje, Bici acuática: Ruta 9 (Persiguiendo a Mantyke)",
+            "Incursiones Dinamax: Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur."
+        ],
+        "Diamante Brillante": [
+            "Pescando con caña buena: Rutas 213, 222, 223, 224, 230, Ciudad Marina, Ciudad Pradera y Liga Pokémon."
+        ],
+        "Perla Reluciente": [
+            "Pescando con caña buena: Rutas 213, 222, 223, 224, 230, Ciudad Marina, Ciudad Pradera y Liga Pokémon."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Costa Cobalto: Playa del Errante, Mano de Arena y Bahía Silente."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Tiene muy buena puntería. Dispara agua a sus presas, hasta si se están moviendo, a más de 100 metros.",
+        "Plata": "Usando su aleta dorsal para succionar, se une a un Mantine para buscar restos de comida.",
+        "Cristal": "Para escapar de su oponente, puede echar agua por la boca. Además, usa el impulso para retroceder.",
+        "Rubí": "Remoraid traga agua y usa los abdominales para lanzarla a gran velocidad contra una presa que esté en el aire. Cuando está a punto de evolucionar, este Pokémon nada en los ríos corriente abajo.",
+        "Zafiro": "Remoraid traga agua y usa los abdominales para lanzarla a gran velocidad contra una presa que esté en el aire. Cuando está a punto de evolucionar, este Pokémon nada en los ríos corriente abajo.",
+        "Esmeralda": "Traga agua y usa los abdominales para lanzarla rápido contra una presa que esté en el aire. Cuando va a evolucionar, se deja arrastrar por la corriente de los ríos.",
+        "Rojo Fuego": "Usando su aleta dorsal para succionar, se une a un Mantine para buscar restos de comida.",
+        "Verde Hoja": "Tiene muy buena puntería. Dispara agua a sus presas, hasta cuando se mueven, a más de 100 metros.",
+        "Diamante": "Escupe potentes chorros de agua para derribar presas voladoras.",
+        "Perla": "Se aferra a Mantine para comerse sus sobras. De esta forma, esta a salvo de sus enemigos.",
+        "Platino": "Escupe potentes chorros de agua que siempre dan en el blanco, incluso en la profundidad del mar.",
+        "Oro HeartGold": "Tiene muy buena puntería. Dispara agua a sus presas, hasta si se están moviendo, a más de 100 metros.",
+        "Plata SoulSilver": "Usando su aleta dorsal para succionar, se una a un Mantine para buscar restos de comida.",
+        "Negro": "Escupe potentes chorros de agua que siempre dan en el blanco, incluso en la profundidad del mar.",
+        "Blanco": "Escupe potentes chorros de agua que siempre dan en el blanco, incluso en la profundidad del mar.",
+        "Negro 2": "Los chorros de agua que escupe pueden alcanzar a presas en movimiento a una distancia de hasta 100 metros.",
+        "Blanco 2": "Los chorros de agua que escupe pueden alcanzar a presas en movimiento a una distancia de hasta 100 metros.",
+        "Pokémon X": "Tiene muy buena puntería. Dispara agua a sus presas, hasta si se están moviendo, a más de 100 metros.",
+        "Pokémon Y": "Usando su aleta dorsal para succionar, se une a un Mantine para buscar restos de comida.",
+        "Rubí Omega": "Remoraid traga agua y usa los abdominales para lanzarla a gran velocidad contra una presa que esté en el aire. Cuando está a punto de evolucionar, este Pokémon nada en los ríos corriente abajo.",
+        "Zafiro Alfa": "Remoraid traga agua y usa los abdominales para lanzarla a gran velocidad contra una presa que esté en el aire. Cuando está a punto de evolucionar, este Pokémon nada en los ríos corriente abajo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Se adhiere a los Mantine para alimentarse de las sobras de su comida. Si atacan a su anfitrión, luchará junto a él.",
+        "Ultraluna": "Es capaz de alcanzar una presa a cien metros con su Pistola Agua, lo que le ha valido el sobrenombre de Francotirador del Mar.",
+        "Espada": "Los chorros de agua que escupe pueden alcanzar a presas en movimiento a una distancia de hasta 100 m.",
+        "Escudo": "Usa su aleta dorsal a modo de ventosa para aferrarse a un Mantine en busca de restos de comida.",
+        "Diamante Brillante": "Escupe potentes chorros de agua para derribar presas voladoras.",
+        "Perla Reluciente": "Se aferra a un Mantine para comerse sus sobras. De esta forma, está a salvo de sus enemigos.",
+        "Leyendas: Arceus": "Tiene una puntería excepcional con los chorros de agua que dispara por la boca. Los usa para derribar a los Burmy que cuelgan de las ramas de los árboles y atraparlos."
+    },
+    "evolution": [
+        [
+            "Remoraid",
+            "Nivel 25",
+            "Octillery"
+        ]
+    ]
+}

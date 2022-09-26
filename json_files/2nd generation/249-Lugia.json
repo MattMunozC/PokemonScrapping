@@ -1,0 +1,177 @@
+{
+    "dex number": "249",
+    "pokemon name": "Lugia",
+    "types": [
+        "psíquico",
+        "volador"
+    ],
+    "abilities": [
+        "Presión"
+    ],
+    "hidden abilities": [
+        "Multiescamas"
+    ],
+    "stats": {
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "atk esp": "España",
+        "def esp": "",
+        "speed": "Alemania"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje: en Islas Remolino, entrando por la isla situada al nordeste. Se necesita el ala plateada (solo uno). ver imagen",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Plata": [
+            "Salvaje: en Islas Remolino, entrando por la isla situada al nordeste. Se necesita el ala plateada (solo uno). ver imagen",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Cristal": [
+            "Salvaje: en Islas Remolino, entrando por la isla situada al nordeste. Se necesita el ala plateada (solo uno). ver imagen",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego, Verde Hoja, Esmeralda o XD.",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego, Verde Hoja, Esmeralda o XD.",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Esmeralda": [
+            "Salvaje: en la parte inferior de Roca Ombligo. Se necesita el Misti-Ticket (solo uno). ver imagen",
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon XD."
+        ],
+        "Rojo Fuego": [
+            "Salvaje: en la parte inferior de Roca Ombligo. Se necesita el Misti-Ticket (solo uno). ver imagen",
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Salvaje: en la parte inferior de Roca Ombligo. Se necesita el Misti-Ticket (solo uno). ver imagen",
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon XD."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: en Islas Remolino, entrando por la isla situada al nordeste. Se necesita el ala plateada (solo uno). ver imagen",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: en Islas Remolino, entrando por la isla situada al nordeste. Se necesita el ala plateada y la campana oleaje (solo uno). ver imagen",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Especial: Transferir desde RAdar Pokémon. Se captura accediendo al modo IV Generación con un juego de Plata SoulSilver en la consola. Es necesario haber capturado a Landorus (solo uno)."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Especial: Transferir desde RAdar Pokémon. Se captura accediendo al modo IV Generación con un juego de Plata SoulSilver en la consola. Es necesario haber capturado a Landorus (solo uno)."
+        ],
+        "Pokémon X": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon Zafiro Alfa."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Malvamar. Se necesita la campana oleaje (solo uno).",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultraluna."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultraluna."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna."
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Acceder desde un ultraumbral de color azul (solo uno)."
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo."
+        ],
+        "Escudo": [
+            "Especial: Aleatoriamente en una Aventura Dinamax."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Especial: Parque Hansa (Sala de la Tormenta)."
+        ],
+        "Leyendas: Arceus": [
+            "Lugia no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Dicen que permanece en silencio en el fondo del mar debido a su inmenso poder.",
+        "Plata": "Dicen que es el guardián de los mares. Hay rumores de que fue visto en una noche de tormenta.",
+        "Cristal": "Tiene la increíble habilidad de calmar tormentas. Se dice que Lugia aparece cuando éstas empiezan.",
+        "Rubí": "La fuerza que tiene Lugia en las alas es devastadora; con nada que las bata es capaz de derribar edificios enteros. Por eso mismo, prefiere vivir donde no haya nadie, en lo más profundo del mar.",
+        "Zafiro": "La fuerza que tiene Lugia en las alas es devastadora; con nada que las bata es capaz de derribar edificios enteros. Por eso mismo, prefiere vivir donde no haya nadie, en lo más profundo del mar.",
+        "Esmeralda": "La fuerza que tiene en las alas es devastadora. Al batirlas, puede derribar edificios enteros, por eso prefiere vivir donde no hay nadie, en el fondo del mar.",
+        "Rojo Fuego": "Dicen que es el guardián de los mares. Hay rumores de que fue visto en una noche de tormenta.",
+        "Verde Hoja": "Dicen que permanece en silencio en el fondo del mar debido a su inmenso poder.",
+        "Diamante": "Duerme en una dorsal marina. Si bate sus alas puede causar tormentas de cuarenta días.",
+        "Perla": "Duerme en una dorsal marina. Si bate sus alas puede causar tormentas de cuarenta días.",
+        "Platino": "Duerme en una dorsal marina. Si bate sus alas puede causar tormentas de cuarenta días.",
+        "Oro HeartGold": "Dicen que permanece en silencio en el fondo del mar debido a su inmenso poder.",
+        "Plata SoulSilver": "Dicen que es el guardián de los mares. Hay rumores de que fue visto en una noche de tormenta.",
+        "Negro": "Duerme en una dorsal marina. Si bate sus alas puede causar tormentas de cuarenta días.",
+        "Blanco": "Duerme en una dorsal marina. Si bate sus alas puede causar tormentas de cuarenta días.",
+        "Negro 2": "Duerme en una dorsal marina. Si bate sus alas puede causar tormentas de cuarenta días.",
+        "Blanco 2": "Duerme en una dorsal marina. Si bate sus alas puede causar tormentas de cuarenta días.",
+        "Pokémon X": "Duerme en una dorsal marina. Si bate sus alas puede causar tormentas de cuarenta días.",
+        "Pokémon Y": "Dicen que es el guardián de los mares. Hay rumores de que fue visto en una noche de tormenta.",
+        "Rubí Omega": "La fuerza que tiene Lugia en las alas es devastadora; con nada que las bata es capaz de derribar edificios enteros. Por eso mismo, prefiere vivir donde no haya nadie, en lo más profundo del mar.",
+        "Zafiro Alfa": "La fuerza que tiene Lugia en las alas es devastadora; con nada que las bata es capaz de derribar edificios enteros. Por eso mismo, prefiere vivir donde no haya nadie, en lo más profundo del mar.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Duerme en lo más profundo de una fosa marina. Se dice que causa tormentas de 40 días cuando bate las alas.",
+        "Perla Reluciente": "Duerme en lo más profundo de una fosa marina. Se dice que causa tormentas de 40 días cuando bate las alas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Lugia"
+        ]
+    ]
+}

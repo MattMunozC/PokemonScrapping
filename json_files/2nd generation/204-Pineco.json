@@ -1,0 +1,163 @@
+{
+    "dex number": "204",
+    "pokemon name": "Pineco",
+    "types": [
+        "bicho"
+    ],
+    "abilities": [
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "65",
+        "def": "90",
+        "atk esp": "35",
+        "def esp": "35",
+        "speed": "15"
+    },
+    "location": {
+        "Oro": [
+            "Golpe cabeza: Rutas 26, 27, 34, 35, 36, 37, 38, 39, Pueblo Azalea, Encinar, Lago de la Furia."
+        ],
+        "Plata": [
+            "Golpe cabeza: Rutas 26, 27, 34, 35, 36, 37, 38, 39, Pueblo Azalea, Encinar, Lago de la Furia."
+        ],
+        "Cristal": [
+            "Golpe cabeza: Rutas 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, Encinar, Lago de la Furia"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon XD."
+        ],
+        "Esmeralda": [
+            "Salvaje: Zona Safari (extensión), Cueva Cambiante (con evento)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon XD.",
+            "Salvaje: Cueva Cambiante (con evento)."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon XD.",
+            "Salvaje: Cueva Cambiante (con evento)."
+        ],
+        "Diamante": [
+            "Insertando cartucho de GBA: Rutas 203, 204, 210, 229, Bosque Vetusto (sólo Pokémon Esmeralda).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Insertando cartucho de GBA: Rutas 203, 204, 210, 229, Bosque Vetusto (sólo Pokémon Esmeralda).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Insertando cartucho de GBA: Rutas 203, 204, 210, 229, Bosque Vetusto (sólo Pokémon Esmeralda).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Golpe cabeza: Rutas 1, 2, 3, 4, 5, 6, 8, 22, 25, 26, 27, 29, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39 47, 48, Encinar, Pueblo Primavera, Ciudad Cerezo, Ciudad Malva, Ciudad Iris, Pueblo Paleta, Ciudad Verde, Ciudad Plateada, Ciudad Celeste, Entrada Safari.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Golpe cabeza: Rutas 1, 2, 3, 4, 5, 6, 8, 22, 25, 26, 27, 29, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39 47, 48, Encinar, Pueblo Primavera, Ciudad Cerezo, Ciudad Malva, Ciudad Iris, Pueblo Paleta, Ciudad Verde, Ciudad Plateada, Ciudad Celeste, Entrada Safari.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Manada Pokémon: Ruta 16.",
+            "Pokémon Dream World: Parque de los Sueños, con la habilidad Funda."
+        ],
+        "Blanco": [
+            "Manada Pokémon: Ruta 16.",
+            "Pokémon Dream World: Parque de los Sueños, con la habilidad Funda."
+        ],
+        "Negro 2": [
+            "Manada Pokémon: Ruta 16.",
+            "Pokémon Dream World: Parque de los Sueños, con la habilidad Funda."
+        ],
+        "Blanco 2": [
+            "Manada Pokémon: Ruta 16.",
+            "Pokémon Dream World: Parque de los Sueños, con la habilidad Funda."
+        ],
+        "Pokémon X": [
+            "Criando: de Forretress."
+        ],
+        "Pokémon Y": [
+            "Criando: de Forretress."
+        ],
+        "Rubí Omega": [
+            "Criando: de Forretress."
+        ],
+        "Zafiro Alfa": [
+            "Criando: de Forretress."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde Pokémon X y Pokémon Y, Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde Pokémon X y Pokémon Y, Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 10 (en árbol que se mueve)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 10 (en árbol que se mueve)"
+        ],
+        "Espada": [
+            "Pineco no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Pineco no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable."
+        ],
+        "Leyendas: Arceus": [
+            "Pineco no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Le gusta engrosar su coraza añadiendo cortezas de árbol. El aumento de peso no le molesta.",
+        "Plata": "Se cuelga y espera a los insectos que pasan cerca. No suele moverse mucho por su cuenta.",
+        "Cristal": "Libera un fluido con el que se pega cortezas de árbol. Al contacto con el aire, el fluido se solidifica.",
+        "Rubí": "Pineco permanece colgado de la rama de un árbol esperando pacientemente a su presa. Si alguien sacude el árbol en el que está mientras come y le molesta, se tira al suelo y explota sin dar ningún tipo de aviso.",
+        "Zafiro": "Pineco permanece colgado de la rama de un árbol esperando pacientemente a su presa. Si alguien sacude el árbol en el que está mientras come y le molesta, se tira al suelo y explota sin dar ningún tipo de aviso.",
+        "Esmeralda": "Permanece colgado de la rama de un árbol esperando a su presa. Si alguien sacude el árbol en el que está comiendo y le molesta, se tira al suelo y explota sin más.",
+        "Rojo Fuego": "Se cuelga y espera a los insectos que pasen cerca. No suele moverse mucho por su cuenta.",
+        "Verde Hoja": "Le gusta engrosar su coraza añadiendo cortezas de árbol. El aumento de peso no le molesta.",
+        "Diamante": "Es como una piña piñonera. Su coraza lo protege de los pájaros que lo picotean por error.",
+        "Perla": "Es como una piña piñonera. Su coraza lo protege de los pájaros que lo picotean por error.",
+        "Platino": "Es como una piña piñonera. Su coraza lo protege de los pájaros que lo picotean por error.",
+        "Oro HeartGold": "Le gusta engrosar su coraza añadiendo cortezas de árbol. El aumento de peso no le molesta.",
+        "Plata SoulSilver": "Se cuelga y espera a los insectos que pasan cerca. No suele moverse mucho por su cuenta.",
+        "Negro": "Es como una piña piñonera. Su coraza lo protege de los pájaros que lo picotean por error.",
+        "Blanco": "Es como una piña piñonera. Su coraza lo protege de los pájaros que lo picotean por error.",
+        "Negro 2": "Es como una piña piñonera. Su coraza lo protege de los pájaros que lo picotean por error.",
+        "Blanco 2": "Es como una piña piñonera. Su coraza lo protege de los pájaros que lo picotean por error.",
+        "Pokémon X": "Le gusta engrosar su coraza añadiendo cortezas de árbol. El aumento de peso no le molesta.",
+        "Pokémon Y": "Es como una piña piñonera. Su coraza lo protege de los pájaros que lo picotean por error.",
+        "Rubí Omega": "Pineco permanece colgado de la rama de un árbol esperando pacientemente a su presa. Si alguien sacude el árbol en el que está mientras come y le molesta, se tira al suelo y explota sin dar ningún tipo de aviso.",
+        "Zafiro Alfa": "Pineco permanece colgado de la rama de un árbol esperando pacientemente a su presa. Si alguien sacude el árbol en el que está mientras come y le molesta, se tira al suelo y explota sin dar ningún tipo de aviso.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Se aposta en los árboles y espera inmóvil a que pase un Pokémon insecto al que atrapar. En Alola tiene predilección por los Cutiefly.",
+        "Ultraluna": "Usa saliva para adherir corteza de árbol a su cuerpo y así aumentar de volumen. Con la edad puede alcanzar un tamaño gigantesco.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Se asemeja a una piña piñonera. Su coraza lo protege de los Pokémon pájaro que lo picotean por error.",
+        "Perla Reluciente": "Se asemeja a una piña piñonera. Su coraza lo protege de los Pokémon pájaro que lo picotean por error.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Pineco",
+            "Nivel 31",
+            "Forretress"
+        ]
+    ]
+}

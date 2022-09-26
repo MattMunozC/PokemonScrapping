@@ -1,0 +1,179 @@
+{
+    "dex number": "236",
+    "pokemon name": "Tyrogue",
+    "types": [
+        "lucha"
+    ],
+    "abilities": [
+        "Agallas",
+        "Impasible"
+    ],
+    "hidden abilities": [
+        "Espíritu vital"
+    ],
+    "stats": {
+        "hp": "35",
+        "atk": "35",
+        "def": "35",
+        "atk esp": "35",
+        "def esp": "35",
+        "speed": "35"
+    },
+    "location": {
+        "Oro": [
+            "Especial: Entregado por Karateka Kiyo en Monte Mortero, tras derrotarle. Está en la zona más profunda de la cueva. (Necesitas cascada)."
+        ],
+        "Plata": [
+            "Especial: Entregado por Karateka Kiyo en Monte Mortero, tras derrotarle. Está en la zona más profunda de la cueva. (Necesitas cascada)."
+        ],
+        "Cristal": [
+            "Especial: Entregado por Karateka Kiyo en Monte Mortero, tras derrotarle. Está en la zona más profunda de la cueva. (Necesitas cascada).",
+            "Especial: Puede salir del Huevo extraño."
+        ],
+        "Rubí": [
+            "Intercambiar: de Rojo Fuego o Verde Hoja."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Rojo Fuego o Verde Hoja."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Rojo Fuego o Verde Hoja."
+        ],
+        "Rojo Fuego": [
+            "Criando: a Hitmonlee, Hitmonchan o Hitmontop con Ditto."
+        ],
+        "Verde Hoja": [
+            "Criando: a Hitmonlee, Hitmonchan o Hitmontop con Ditto."
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 208 y Ruta 211 (Pokéradar).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Salvaje: Ruta 208 y Ruta 211 (Pokéradar).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Salvaje: Ruta 211 (Pokéradar).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Especial: Entregado por Karateka Kiyo en Monte Mortero, tras derrotarle. Está en la zona más profunda de la cueva. (Necesitas cascada).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Especial: Entregado por Karateka Kiyo en Monte Mortero, tras derrotarle. Está en la zona más profunda de la cueva. (Necesitas cascada).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Manada Pokémon: Ruta 10.",
+            "Dream World: Monte Escarpado con la habilidad Espíritu vital."
+        ],
+        "Blanco": [
+            "Manada Pokémon: Ruta 10.",
+            "Dream World: Monte Escarpado con la habilidad Espíritu vital."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro y Blanco.",
+            "Dream World: Monte Escarpado con la habilidad Espíritu vital."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro y Blanco.",
+            "Dream World: Monte Escarpado con la habilidad Espíritu vital."
+        ],
+        "Pokémon X": [
+            "Safari Amistad : Zona Lucha, al nivel 30"
+        ],
+        "Pokémon Y": [
+            "Safari Amistad : Zona Lucha, al nivel 30"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Senda Ígnea,Desfiladero  y Ruta 112"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Senda Ígnea,Desfiladero  y Ruta 112"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Ruta 3.",
+            "Área Silvestre: Arboleda Claroscuro, Silla del Gigante, Pradera Radiante, Lago Milotic (sur), Llanura Pétrea, Lago Axew (oeste).",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 3.",
+            "Área Silvestre: Arboleda Claroscuro, Silla del Gigante, Pradera Radiante, Lago Milotic (sur), Llanura Pétrea, Lago Axew (oeste).",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Ruta 208 y Ruta 211 (oeste).",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Cueva Nevisca, Cueva Ventisca, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Ruta 208 y Ruta 211 (oeste).",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Cueva Nevisca, Cueva Ventisca, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Tyrogue no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Ataca siempre con mucha energía. Para fortalecerse a sí mismo, sigue luchando aunque pierda.",
+        "Plata": "Aunque es pequeño, es mejor no ignorarlo porque atacará cualquier objetivo sin previo aviso.",
+        "Cristal": "Para mejorar sus técnicas de lucha, desafiará a cualquiera. Tiene un espíritu muy competitivo.",
+        "Rubí": "Tyrogue se pone demasiado nervioso si no lo sacan a entrenarse cada día. Su entrenador debe establecer y mantener ciertos métodos de entrenamiento durante la cría.",
+        "Zafiro": "Tyrogue se pone demasiado nervioso si no lo sacan a entrenarse cada día. Su entrenador debe establecer y mantener ciertos métodos de entrenamiento durante la cría.",
+        "Esmeralda": "Se pone demasiado nervioso si no lo sacan a entrenarse cada día. Por esta razón, su entrenador debe mantener una rutina de entrenamiento regular durante la cría.",
+        "Rojo Fuego": "Aunque es pequeño, es mejor no ignorarlo porque atacará cualquier objetivo sin previo aviso.",
+        "Verde Hoja": "Ataca siempre con mucha energía. Para fortalecerse a sí mismo, sigue luchando aunque pierda.",
+        "Diamante": "Famoso por su disposición a la lucha. Siempre tiene heridas por luchar con enemigos más grandes.",
+        "Perla": "Famoso por su disposición a la lucha. Siempre tiene heridas por luchar con enemigos más grandes.",
+        "Platino": "Famoso por su disposición a la lucha. Siempre tiene heridas por luchar con enemigos más grandes.",
+        "Oro HeartGold": "Ataca siempre con mucha energía. Para fortalecerse a sí mismo, sigue luchando aunque pierda.",
+        "Plata SoulSilver": "Aunque es pequeño, es mejor no ignorarlo porque atacará cualquier objetivo sin previo aviso.",
+        "Negro": "Famoso por su disposición a la lucha. Siempre tiene heridas por luchar con enemigos más grandes.",
+        "Blanco": "Famoso por su disposición a la lucha. Siempre tiene heridas por luchar con enemigos más grandes.",
+        "Negro 2": "Famoso por su disposición a la lucha. Siempre tiene heridas por luchar con enemigos más grandes.",
+        "Blanco 2": "Famoso por su disposición a la lucha. Siempre tiene heridas por luchar con enemigos más grandes.",
+        "Pokémon X": "Ataca siempre con mucha energía. Para fortalecerse a sí mismo, sigue luchando aunque pierda.",
+        "Pokémon Y": "Para mejorar sus técnicas de lucha, desafiará a cualquiera. Tiene un espíritu muy competitivo.",
+        "Rubí Omega": "Tyrogue se pone demasiado nervioso si no lo sacan a entrenarse cada día. Su entrenador debe establecer y mantener ciertos métodos de entrenamiento durante la cría.",
+        "Zafiro Alfa": "Tyrogue se pone demasiado nervioso si no lo sacan a entrenarse cada día. Su Entrenador debe establecer y mantener ciertos métodos de entrenamiento durante la cría.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Siempre está rebosante de energía. Por muchas derrotas que acumule, no deja de plantar cara a sus rivales con tal de fortalecerse.",
+        "Escudo": "Su pequeño tamaño no debe ser motivo para subestimarlo, ya que se liará de inmediato a golpes con cualquier rival que estime oportuno.",
+        "Diamante Brillante": "Famoso por su disposición a la lucha. Siempre tiene heridas por enfrentarse a enemigos de mayor tamaño.",
+        "Perla Reluciente": "Famoso por su disposición a la lucha. Siempre tiene heridas por enfrentarse a enemigos de mayor tamaño.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Tyrogue",
+            "Nivel 20Ataque > Defensa",
+            "Hitmonlee"
+        ],
+        [
+            "",
+            "Nivel 20Ataque < Defensa",
+            "Hitmonchan"
+        ],
+        [
+            "",
+            "Nivel 20Ataque = Defensa",
+            "Hitmontop"
+        ]
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "dex number": "154",
+    "pokemon name": "Meganium",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Defensa hoja"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "82",
+        "def": "100",
+        "atk esp": "83",
+        "def esp": "100",
+        "speed": "80"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: de Bayleef (nivel 32)."
+        ],
+        "Plata": [
+            "Evolucionar: de Bayleef (nivel 32)."
+        ],
+        "Cristal": [
+            "Evolucionar: de Bayleef (nivel 32)."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Bayleef (nivel 32).",
+            "Intercambiar: de Pokémon Colosseum o Pokémon XD."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Bayleef (nivel 32).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Bayleef (nivel 32).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Evolucionar: de Bayleef (nivel 32).",
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Evolucionar: de Bayleef (nivel 32).",
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Evolucionar: de Bayleef (nivel 32).",
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Bayleef (nivel 32).",
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Banco Pokémon: Transferir de Pokémon Negro, Blanco, Negro 2 y Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa.",
+            "Evento: En el Banco de Pokémon hasta el 30 de noviembre de 2015 para aquellos usuarios que tuvieran una suscripción activa."
+        ],
+        "Pokémon Y": [
+            "Banco Pokémon: Transferir de Pokémon Negro, Blanco, Negro 2 y Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa.",
+            "Evento: En el Banco de Pokémon hasta el 30 de noviembre de 2015 para aquellos usuarios que tuvieran una suscripción activa."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Bayleef (nivel 32).",
+            "Evento: En el Banco de Pokémon hasta el 30 de noviembre de 2015 para aquellos usuarios que tuvieran una suscripción activa."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Bayleef (nivel 32).",
+            "Evento: En el Banco de Pokémon hasta el 30 de noviembre de 2015 para aquellos usuarios que tuvieran una suscripción activa."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Meganium no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Meganium no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Bayleef (nivel 32)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Bayleef (nivel 32)."
+        ],
+        "Leyendas: Arceus": [
+            "Meganium no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "El olor que desprenden sus pétalos contiene una sustancia que calma el instinto agresivo.",
+        "Plata": "El aliento de Meganium tiene el poder de revivir los rastrojos, además de regenerarlos.",
+        "Cristal": "Estar a su lado es muy refrescante. Es una sensación parecida a estar a la sombra en un día de verano.",
+        "Rubí": "La fragancia de la flor de Meganium aplaca y suaviza los ánimos. Al luchar, este Pokémon libera mayor cantidad de esencia para disminuir el ánimo de combate de su oponente.",
+        "Zafiro": "La fragancia de la flor de Meganium aplaca y suaviza los ánimos. Al luchar, este Pokémon libera mayor cantidad de esencia para disminuir el ánimo de combate de su oponente.",
+        "Esmeralda": "La fragancia de su flor aplaca y suaviza los ánimos. Al luchar, libera más cantidad de esencia calmante para anular el espíritu de combate de su oponente.",
+        "Rojo Fuego": "El aliento de Meganium tiene el poder de revivir los rastrojos, además de regenerarlos.",
+        "Verde Hoja": "El olor que desprenden sus pétalos contiene una sustancia que calma el instinto agresivo",
+        "Diamante": "Su aliento tiene la maravillosa capacidad de revivir plantas y flores muertas.",
+        "Perla": "Su aliento tiene la maravillosa capacidad de revivir plantas y flores muertas.",
+        "Platino": "Su aliento tiene la maravillosa capacidad de revivir plantas y flores muertas.",
+        "Oro HeartGold": "El olor que desprenden sus pétalos contiene una sustancia que calma el instinto agresivo.",
+        "Plata SoulSilver": "El aliento de Meganium tiene el poder de revivir los rastrojos, además de regenerarlos.",
+        "Negro": "Su aliento tiene la maravillosa capacidad de revivir plantas y flores muertas.",
+        "Blanco": "Su aliento tiene la maravillosa capacidad de revivir plantas y flores muertas.",
+        "Negro 2": "Su aliento tiene la maravillosa capacidad de revivir plantas y flores muertas.",
+        "Blanco 2": "Su aliento tiene la maravillosa capacidad de revivir plantas y flores muertas.",
+        "Pokémon X": "El olor que desprenden sus pétalos contiene una sustancia que calma el instinto agresivo.",
+        "Pokémon Y": "El aliento de Meganium tiene el poder de revivir los rastrojos, además de regenerarlos.",
+        "Rubí Omega": "La fragancia de la flor de Meganium aplaca y suaviza los ánimos. Al luchar, este Pokémon libera mayor cantidad de esencia para disminuir el ánimo de combate de su oponente.",
+        "Zafiro Alfa": "La fragancia de la flor de Meganium aplaca y suaviza los ánimos. Al luchar, este Pokémon libera mayor cantidad de esencia para disminuir el ánimo de combate de su oponente.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Su aliento tiene la maravillosa capacidad de revivir plantas y flores marchitas.",
+        "Perla Reluciente": "Su aliento tiene la maravillosa capacidad de revivir plantas y flores marchitas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Chikorita",
+            "Nivel 16",
+            "Bayleef",
+            "Nivel 32",
+            "Meganium"
+        ]
+    ]
+}

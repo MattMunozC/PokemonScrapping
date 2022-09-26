@@ -1,0 +1,167 @@
+{
+    "dex number": "211",
+    "pokemon name": "Qwilfish",
+    "types": [
+        "agua",
+        "veneno"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Punto tóxico"
+    ],
+    "hidden abilities": [
+        "Intimidación"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "95",
+        "def": "85",
+        "atk esp": "55",
+        "def esp": "55",
+        "speed": "85"
+    },
+    "location": {
+        "Oro": [
+            "Pescando, todo el día, supercaña: Rutas 12, 13 y 32",
+            "Manada Pokémon: Ruta 32"
+        ],
+        "Plata": [
+            "Pescando, todo el día, supercaña: Rutas 12, 13 y 32",
+            "Manada Pokémon: Ruta 32"
+        ],
+        "Cristal": [
+            "Pescando, todo el día, supercaña: Rutas 12, 13 y 32",
+            "Manada Pokémon: Ruta 32"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Colosseum"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Colosseum"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Colosseum"
+        ],
+        "Rojo Fuego": [
+            "Pescando, supercaña: Vía Verde, Isla Aislada, Aquarinto, Lugar de recreo, Prado Isla Inta, Pilar Recuerdo, Torre Desafío y Ruinas Sete"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Colosseum"
+        ],
+        "Diamante": [
+            "Pescando, supercaña: Isla Hierro"
+        ],
+        "Perla": [
+            "Pescando, supercaña: Isla Hierro"
+        ],
+        "Platino": [
+            "Pescando, supercaña: Isla Hierro"
+        ],
+        "Oro HeartGold": [
+            "Pescando, todo el día, supercaña: Rutas 12, 13 y 32",
+            "Manada Pokémon: Ruta 32"
+        ],
+        "Plata SoulSilver": [
+            "Pescando, todo el día, supercaña: Rutas 12, 13 y 32",
+            "Manada Pokémon: Ruta 32"
+        ],
+        "Negro": [
+            "Pescando, remolinos: Laboratorio P+P, Ruta 17 y Ruta 18",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco": [
+            "Pescando, remolinos: Laboratorio P+P, Ruta 17 y Ruta 18",
+            "Dream World: Mar Brillante"
+        ],
+        "Negro 2": [
+            "Pescando, remolinos: Laboratorio P+P, Ruta 4, Ciudad Hormigón y Polígono Hormigón"
+        ],
+        "Blanco 2": [
+            "Pescando, remolinos: Laboratorio P+P, Ruta 4, Ciudad Hormigón y Polígono Hormigón"
+        ],
+        "Pokémon X": [
+            "Pescando, supercaña: Ruta 8"
+        ],
+        "Pokémon Y": [
+            "Pescando, supercaña: Ruta 8"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Ruta 9 (Galar).",
+            "Área Silvestre: en las zonas de agua de Valle Entrepuentes, Cuenca Polvorienta y Lago del Enfado.",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al noroeste, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón, Lago del Enfado, nido en el agua, Ribera de Pistón, nido junto al muro de Ciudad Pistón y Valle Entrepuentes, nido en la laguna. Con posible habilidad oculta: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur."
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Ruta 9 (Galar).",
+            "Área Silvestre: en las zonas de agua de Valle Entrepuentes, Cuenca Polvorienta y Lago del Enfado.",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al noroeste, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón, Lago del Enfado, nido en el agua, Ribera de Pistón, nido junto al muro de Ciudad Pistón y Valle Entrepuentes, nido en la laguna. Con posible habilidad oculta: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur."
+        ],
+        "Diamante Brillante": [
+            "Pescando con Supercaña: Isla Hierro.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Pescando con Supercaña: Isla Hierro.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Qwilfish no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Para arrojar sus venenosas púas, infla su cuerpo bebiendo hasta 10 litros de agua de una sola vez.",
+        "Plata": "Las pequeñas púas que cubren su cuerpo eran escamas. Inyectan una toxina que debilita.",
+        "Cristal": "Cuando su rival es mayor que él, bebe unos buenos tragos de agua hasta conseguir igualarle en tamaño.",
+        "Rubí": "Qwilfish bebe agua y se hincha y, a continuación, usa la presión del agua que ha tragado para lanzar plumas tóxicas por todo el cuerpo. Para este Pokémon nadar es una especie de desafío.",
+        "Zafiro": "Qwilfish bebe agua y se hincha y, a continuación, usa la presión del agua que ha tragado para lanzar plumas tóxicas por todo el cuerpo. Para este Pokémon nadar es una especie de desafío.",
+        "Esmeralda": "Bebe agua, se hincha y usa la presión del agua que ha tragado para lanzar plumas tóxicas a través de la piel. Para Qwilfish, nadar es todo un desafío.",
+        "Rojo Fuego": "Las pequeñas púas que cubren su cuerpo eran escamas. Inyectan una toxina que debilita.",
+        "Verde Hoja": "Para arrojar sus venenosas púas, infla su cuerpo bebiendo hasta 10 litros de agua de una sola vez.",
+        "Diamante": "Lanza púas venenosas en todas direcciones. Debido a su forma redonda, es muy mal nadador.",
+        "Perla": "Lanza púas venenosas en todas direcciones. Debido a su forma redonda, es muy mal nadador.",
+        "Platino": "Lanza púas venenosas en todas direcciones. Debido a su forma redonda, es muy mal nadador.",
+        "Oro HeartGold": "Para arrojar sus venenosas púas, infla su cuerpo bebiendo hasta diez litros de agua de un sola vez.",
+        "Plata SoulSilver": "Las pequeñas púas que cubren su cuerpo eran escamas. Inyectan una toxina que debilita.",
+        "Negro": "Lanza púas venenosas en todas direcciones. Debido a su forma redonda, es muy mal nadador.",
+        "Blanco": "Lanza púas venenosas en todas direcciones. Debido a su forma redonda, es muy mal nadador.",
+        "Negro 2": "Lanza púas venenosas en todas direcciones. Debido a su forma redonda, es muy mal nadador.",
+        "Blanco 2": "Lanza púas venenosas en todas direcciones. Debido a su forma redonda, es muy mal nadador.",
+        "Pokémon X": "Para arrojar sus venenosas púas, infla su cuerpo bebiendo hasta diez litros de agua de un sola vez.",
+        "Pokémon Y": "Las pequeñas púas que cubren su cuerpo eran escamas. Inyectan una toxina que debilita.",
+        "Rubí Omega": "Qwilfish bebe agua y se hincha y, a continuación, usa la presión del agua que ha tragado para lanzar plumas tóxicas por todo el cuerpo. Para este Pokémon nadar es una especie de desafío.",
+        "Zafiro Alfa": "Qwilfish bebe agua y se hincha y, a continuación, usa la presión del agua que ha tragado para lanzar plumas tóxicas por todo el cuerpo. Para este Pokémon nadar es una especie de desafío.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Cuando su rival es mayor que él, infla el cuerpo bebiendo agua hasta casi reventar para lograr igualarlo en tamaño.",
+        "Escudo": "Las pequeñas púas que cubren su cuerpo eran escamas. Inyectan una toxina que hace perder el conocimiento.",
+        "Diamante Brillante": "Lanza púas venenosas en todas direcciones. Debido a su forma redonda, es muy mal nadador.",
+        "Perla Reluciente": "Lanza púas venenosas en todas direcciones. Debido a su forma redonda, es muy mal nadador.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Qwilfish"
+        ]
+    ]
+}

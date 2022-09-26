@@ -1,0 +1,160 @@
+{
+    "dex number": "205",
+    "pokemon name": "Forretress",
+    "types": [
+        "bicho",
+        "acero"
+    ],
+    "abilities": [
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": "75",
+        "atk": "90",
+        "def": "140",
+        "atk esp": "60",
+        "def esp": "60",
+        "speed": "40"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: a Pineco (nivel 31)"
+        ],
+        "Plata": [
+            "Evolucionar: a Pineco (nivel 31)"
+        ],
+        "Cristal": [
+            "Evolucionar: a Pineco (nivel 31)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Pineco (nivel 31)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD"
+        ],
+        "Diamante": [
+            "Evolucionar: a Pineco (nivel 31)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Evolucionar: a Pineco (nivel 31)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Evolucionar: a Pineco (nivel 31)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Pineco (nivel 31)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Pineco (nivel 31)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Evolucionar: a Pineco (nivel 31)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Pineco (nivel 31)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Pineco (nivel 31)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Pineco (nivel 31)"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo acero"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo acero"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Monte Espejismo (este de Ciudad Calagua, oeste de la Ruta 104, sur de la Ruta 131, noreste de Hoenn), Bosque Espejismo (oeste de la Ruta 105)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Monte Espejismo (este de Ciudad Calagua, oeste de la Ruta 104, sur de la Ruta 131, noreste de Hoenn), Bosque Espejismo (oeste de la Ruta 105)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Pineco (nivel 31)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Pineco (nivel 31)"
+        ],
+        "Espada": [
+            "Forretress no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Forretress no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Pineco (nivel 31)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Pineco (nivel 31)."
+        ],
+        "Leyendas: Arceus": [
+            "Forretress no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Todo su cuerpo está protegido por una coraza de metal. Lo que esconde la coraza es un misterio.",
+        "Plata": "Permanece inmóvil agarrado a su árbol. Dispara trozos de su dura coraza para alejar al enemigo.",
+        "Cristal": "Suele vérsele enganchado al tronco de un árbol. Cuando comienza la acción, dispara trozos de concha.",
+        "Rubí": "Forretress se esconde dentro de su concha de acero reforzada. Sólo la abre cuando va a atrapar a su presa, pero ocurre tan rápido que no da tiempo a ver su interior.",
+        "Zafiro": "Forretress se esconde dentro de su concha de acero reforzada. Sólo la abre cuando va a atrapar a su presa, pero ocurre tan rápido que no da tiempo a ver su interior.",
+        "Esmeralda": "Se esconde dentro de su concha de acero reforzado. Sólo la abre para atrapar a su presa, pero ocurre tan rápido que no da tiempo a ver su interior.",
+        "Rojo Fuego": "Permanece inmóvil agarrado a su árbol. Dispara trozos de su dura concha para alejar al enemigo.",
+        "Verde Hoja": "Todo su cuerpo está protegido por una concha de metal. Lo que esconde la concha es un misterio.",
+        "Diamante": "Se protege con su concha de acero de tal manera que solo se pueden ver sus ojos.",
+        "Perla": "Se protege con su concha de acero de tal manera que solo se pueden ver sus ojos.",
+        "Platino": "Se protege con su concha de acero de tal manera que solo se pueden ver sus ojos.",
+        "Oro HeartGold": "Todo su cuerpo está protegido por una coraza de metal. Lo que esconde la coraza es un misterio.",
+        "Plata SoulSilver": "Permanece inmóvil agarrado a su árbol. Dispara trozos de su dura concha para alejar al enemigo.",
+        "Negro": "Se protege con su concha de acero de tal manera que solo se pueden ver sus ojos.",
+        "Blanco": "Se protege con su concha de acero de tal manera que solo se pueden ver sus ojos.",
+        "Negro 2": "Se protege con su concha de acero de tal manera que solo se pueden ver sus ojos.",
+        "Blanco 2": "Se protege con su concha de acero de tal manera que solo se pueden ver sus ojos.",
+        "Pokémon X": "Se protege con su concha de acero de tal manera que solo se pueden ver sus ojos.",
+        "Pokémon Y": "Permanece inmóvil agarrado a su árbol. Dispara trozos de su dura coraza para alejar al enemigo.",
+        "Rubí Omega": "Forretress se esconde dentro de su concha de acero reforzada. Sólo la abre cuando va a atrapar a su presa, pero ocurre tan rápido que no da tiempo a ver su interior.",
+        "Zafiro Alfa": "Forretress se esconde dentro de su concha de acero reforzada. Solo la abre cuando va a atrapar a su presa, pero ocurre tan rápido que no da tiempo de ver su interior.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Cuando algo se le acerca, ataca disparando fragmentos de su coraza de acero. Se trata de un puro acto reflejo.",
+        "Ultraluna": "El momento en el que engulle a su presa es el único instante donde muestra su cuerpo, pero hasta ahora ningún humano lo ha visto.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Lo protege una concha de acero. Se le ven los ojos por la abertura, pero el resto de su cuerpo es un misterio.",
+        "Perla Reluciente": "Lo protege una concha de acero. Se le ven los ojos por la abertura, pero el resto de su cuerpo es un misterio.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Pineco",
+            "Nivel 31",
+            "Forretress"
+        ]
+    ]
+}

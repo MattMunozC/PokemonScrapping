@@ -1,0 +1,188 @@
+{
+    "dex number": "164",
+    "pokemon name": "Noctowl",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Insomnio",
+        "Vista lince"
+    ],
+    "hidden abilities": [
+        "Cromolente"
+    ],
+    "stats": {
+        "hp": "100",
+        "atk": "50",
+        "def": "50",
+        "atk esp": "76",
+        "def esp": "96",
+        "speed": "70"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje, por la noche: rutas 2, 8, 13, 14, 15 y 43",
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Plata": [
+            "Salvaje, por la noche: rutas 2, 8, 13, 14, 15 y 43",
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Cristal": [
+            "Salvaje, todo el día: usando golpe cabeza en los árboles de Johto",
+            "Salvaje, por la noche: rutas 2, 5, 8, 13, 14, 15, 25, 26, 27, 37, 38, 39 y 43.",
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Diamante": [
+            "Salvaje, por la noche: rutas 210 (norte), 211 (este), 216 y 217, Orilla Agudeza, Monte Corona, Gran Pantano, Lago Valor, Fuente Despedida.",
+            "Evolucionar: a Hoothoot (nivel 20)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Salvaje, por la noche: rutas 210 (norte), 211 (este), 216 y 217, Orilla Agudeza, Monte Corona, Gran Pantano, Lago Valor, Fuente Despedida.",
+            "Evolucionar: a Hoothoot (nivel 20)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje, por la noche: Rutas 210 (norte), 211 (oeste), Monte Corona, Gran Pantano.",
+            "Evolucionar: a Hoothoot (nivel 20)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje, por la noche: Rutas 2, 8, 13, 14, 15, 43, 47 y Bosque Verde.",
+            "Golpe cabeza: Bosque Verde y Encinar.",
+            "Evolucionar: a Hoothoot (nivel 20)",
+            "Pokéwalker: Cueva Calma",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, por la noche: Rutas 2, 8, 13, 14, 15, 43, 47 y Bosque Verde.",
+            "Golpe cabeza: Bosque Verde y Encinar.",
+            "Evolucionar: a Hoothoot (nivel 20)",
+            "Pokéwalker: Cueva Calma",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Salvaje: Santuario Abundancia",
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Blanco": [
+            "Salvaje: Santuario Abundancia",
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Negro 2": [
+            "Salvaje: Reserva Natural",
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Reserva Natural",
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 20 y Villa Pokémon"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 20 y Villa Pokémon"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Jungla Umbría (como refuerzo de Hoothoot; solo de noche)",
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Jungla Umbría (como refuerzo de Hoothoot; solo de noche)",
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Espada": [
+            "Salvaje: Afueras de Pistón, Gorro del Gigante (en la zona inferior excepto cuando hay ventisca), Ribera de Pistón (escondidos en la hierba alta cuando está despejado, nublado, en sol, nieve, tormenta de arena y niebla) y Valle Entrepuentes (encuentro especial cuando hay nieve).",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste y Pradera Radiante, nido cerca del Punto de Encuentro.",
+            "Aventura Dinamax ",
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Escudo": [
+            "Salvaje: Afueras de Pistón, Gorro del Gigante (en la zona inferior excepto cuando hay ventisca), Ribera de Pistón (escondidos en la hierba alta cuando está despejado, nublado, en sol, nieve, tormenta de arena y niebla) y Valle Entrepuentes (encuentro especial cuando hay nieve).",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste y Pradera Radiante, nido cerca del Punto de Encuentro.",
+            "Aventura Dinamax ",
+            "Evolucionar: a Hoothoot (nivel 20)"
+        ],
+        "Diamante Brillante": [
+            "Salvaje, por la noche: rutas 210 (norte), 211 (este), 216 y 217, Orilla Agudeza, Monte Corona, Gran Pantano, Lago Valor, Lago Agudeza y Fuente Despedida.",
+            "Evolucionar: a Hoothoot (nivel 20)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje, por la noche: rutas 210 (norte), 211 (este), 216 y 217, Orilla Agudeza, Monte Corona, Gran Pantano, Lago Valor, Lago Agudeza y Fuente Despedida.",
+            "Evolucionar: a Hoothoot (nivel 20)."
+        ],
+        "Leyendas: Arceus": [
+            "Noctowl no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Sus ojos están especialmente adaptados, concentrando la luz para poder ver en la oscuridad.",
+        "Plata": "Cuando necesita pensar, gira su cabeza 180 grados para agudizar su capacidad intelectual.",
+        "Cristal": "Tiene un plumaje tan suave que, cuando vuela, no se le oye. Siempre coge a su víctima por sorpresa.",
+        "Rubí": "Noctowl no falla a la hora de cazar a su presa en la oscuridad. El éxito se lo debe a una vista privilegiada, que le permite ver donde apenas hay luz, y a las ligeras y flexibles alas que tiene, que no hacen ruido alguno al volar.",
+        "Zafiro": "Noctowl no falla a la hora de cazar a su presa en la oscuridad. El éxito se lo debe a una vista privilegiada, que le permite ver donde apenas hay luz, y a las ligeras y flexibles alas que tiene, que no hacen ruido alguno al volar.",
+        "Esmeralda": "Puede cazar en la oscuridad y es que tiene una vista privilegiada que le permite ver sin apenas luz. Posee unas alas ligeras y flexibles que casi no hacen ruido al volar.",
+        "Rojo Fuego": "Cuando necesita pensar, gira su cabeza 180 grados para agudizar su capacidad intelectual.",
+        "Verde Hoja": "Sus ojos se adaptan muy bien a la oscuridad; cuando hay poca luz, la condensan para poder ver.",
+        "Diamante": "Sus ojos son especiales: pueden distinguir objetos siempre y cuando haya algo de luz.",
+        "Perla": "Si pone la cabeza al revés, significa que está enfrascado en sus pensamientos.",
+        "Platino": "Tiene los ojos muy desarrollados y puede ver con increíble claridad en la oscuridad más densa.",
+        "Oro HeartGold": "Sus ojos están especialmente adaptados, concentrando la luz para poder ver en la oscuridad.",
+        "Plata SoulSilver": "Cuando necesita pensar, gira su cabeza 180° para agudizar su capacidad intelectual",
+        "Negro": "Tiene los ojos muy desarrollados y puede ver con increíble claridad en la oscuridad más densa.",
+        "Blanco": "Tiene los ojos muy desarrollados y puede ver con increíble claridad en la oscuridad más densa.",
+        "Negro 2": "Tiene los ojos muy desarrollados y puede ver con increíble claridad en la oscuridad más densa.",
+        "Blanco 2": "Tiene los ojos muy desarrollados y puede ver con increíble claridad en la oscuridad más densa.",
+        "Pokémon X": "Sus ojos están especialmente adaptados. Concentran la luz para poder ver en la oscuridad.",
+        "Pokémon Y": "Cuando necesita pensar, gira su cabeza 180° para agudizar su capacidad intelectual",
+        "Rubí Omega": "Noctowl no falla a la hora de cazar a su presa en la oscuridad. El éxito se lo debe a una vista privilegiada, que le permite ver donde apenas hay luz, y a las ligeras y flexibles alas que tiene, que no hacen ruido alguno al volar.",
+        "Zafiro Alfa": "Noctowl no falla a la hora de cazar a su presa en la oscuridad. El éxito se lo debe a una vista privilegiada, que le permite ver donde apenas hay luz, y a las ligeras y flexibles alas que tiene, que no hacen ruido alguno al volar.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Apodado el Emperador Nocturno, su aguzada vista lo convierte en un formidable cazador aun en la más impenetrable oscuridad.",
+        "Ultraluna": "Si da media vuelta a la cabeza es señal de que está preocupado y conviene no molestarlo. Quien lo haga se arriesga a recibir un picotazo.",
+        "Espada": "Tiene los ojos muy desarrollados y puede ver con increíble claridad en la oscuridad más absoluta.",
+        "Escudo": "Cuando necesita pensar, gira la cabeza 180° para agudizar su capacidad intelectual.",
+        "Diamante Brillante": "Tiene unos ojos especiales que le permiten ver en la oscuridad sin necesitar apenas luz.",
+        "Perla Reluciente": "Si da media vuelta a la cabeza, significa que está enfrascado en sus pensamientos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Hoothoot",
+            "Nivel 20",
+            "Noctowl"
+        ]
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "dex number": "237",
+    "pokemon name": "Hitmontop",
+    "types": [
+        "lucha"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Experto"
+    ],
+    "hidden abilities": [
+        "Impasible"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "95",
+        "def": "95",
+        "atk esp": "35",
+        "def esp": "110",
+        "speed": "70"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)"
+        ],
+        "Plata": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)"
+        ],
+        "Cristal": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja o Pokémon Colosseum"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja o Pokémon Colosseum"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja o Pokémon Colosseum"
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa después de conseguir la Pokédex Nacional)"
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa después de conseguir la Pokédex Nacional)"
+        ],
+        "Diamante": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew.",
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew.",
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Tyrogue (nivel 20, ataque = defensa)."
+        ],
+        "Leyendas: Arceus": [
+            "Hitmontop no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Si te gustan sus suaves, elegantes y danzarinas patadas, acabarás taladrado.",
+        "Plata": "Lanza patadas mientras gira. Si alcanza mucha velocidad, puede cavar un hoyo en la tierra.",
+        "Cristal": "Tras hacer el pino para despistar a su oponente, comienza a repartir sus increíbles patadas.",
+        "Rubí": "Hitmontop hace el pino con la cabeza y se pone a girar rápido al tiempo que reparte patadas. Esta es una técnica ofensiva y defensiva a la vez. Este Pokémon se desplaza más rápido girando sobre sí que caminando.",
+        "Zafiro": "Hitmontop hace el pino con la cabeza y se pone a girar rápido al tiempo que reparte patadas. Esta es una técnica ofensiva y defensiva a la vez. Este Pokémon se desplaza más rápido girando sobre sí que caminando.",
+        "Esmeralda": "Su técnica de repartir patadas mientras gira rápidamente cabeza abajo es tanto ofensiva como defensiva. Se desplaza más rápido girando que andando.",
+        "Rojo Fuego": "Lanza patadas mientras gira. Si alcanza mucha velocidad, puede cavar un hoyo en la tierra.",
+        "Verde Hoja": "Si te quedas embobado con las suaves, elegantes y danzarinas patadas que da, puedes acabar lleno de magulladuras.",
+        "Diamante": "Gira a gran velocidad al luchar. La fuerza centrífuga multiplica su poder de destrucción por diez.",
+        "Perla": "Gira a gran velocidad al luchar. La fuerza centrífuga multiplica su poder de destrucción por diez.",
+        "Platino": "Gira a gran velocidad al luchar. La fuerza centrífuga multiplica su poder de destrucción por diez.",
+        "Oro HeartGold": "Si te gustan sus suaves, elegantes y danzarinas patadas, acabarás taladrado.",
+        "Plata SoulSilver": "Lanza patadas mientras gira. Si alcanza mucha velocidad, puede cavar un hoyo en la tierra.",
+        "Negro": "Gira a gran velocidad al luchar. La fuerza centrífuga multiplica su poder de destrucción por diez.",
+        "Blanco": "Gira a gran velocidad al luchar. La fuerza centrífuga multiplica su poder de destrucción por diez.",
+        "Negro 2": "Gira a gran velocidad al luchar. La fuerza centrífuga multiplica su poder de destrucción por diez.",
+        "Blanco 2": "Gira a gran velocidad al luchar. La fuerza centrífuga multiplica su poder de destrucción por diez.",
+        "Pokémon X": "Gira a gran velocidad al luchar. La fuerza centrífuga multiplica su poder de destrucción por diez.",
+        "Pokémon Y": "Si te gustan sus suaves, elegantes y danzarinas patadas, acabarás taladrado.",
+        "Rubí Omega": "Hitmontop hace el pino con la cabeza y se pone a girar rápido al tiempo que reparte patadas. Esta es una técnica ofensiva y defensiva a la vez. Este Pokémon se desplaza más rápido girando sobre sí que caminando.",
+        "Zafiro Alfa": "Hitmontop hace el pino con la cabeza y se pone a girar rápido al tiempo que reparte patadas. Esta es una técnica ofensiva y defensiva a la vez. Este Pokémon se desplaza más rápido girando sobre sí que caminando.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Lanza patadas mientras gira. Si alcanza mucha velocidad, puede cavar un hoyo en la tierra.",
+        "Escudo": "Tras hacer el pino para desconcertar a su rival, comienza a propinar sus espectaculares patadas.",
+        "Diamante Brillante": "Lucha girando a gran velocidad como una peonza. La fuerza centrífuga multiplica su poder de destrucción por diez.",
+        "Perla Reluciente": "Lucha girando a gran velocidad como una peonza. La fuerza centrífuga multiplica su poder de destrucción por diez.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Tyrogue",
+            "Nivel 20Ataque > Defensa",
+            "Hitmonlee"
+        ],
+        [
+            "",
+            "Nivel 20Ataque < Defensa",
+            "Hitmonchan"
+        ],
+        [
+            "",
+            "Nivel 20Ataque = Defensa",
+            "Hitmontop"
+        ]
+    ]
+}

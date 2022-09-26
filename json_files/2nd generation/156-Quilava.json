@@ -1,0 +1,169 @@
+{
+    "dex number": "156",
+    "pokemon name": "Quilava",
+    "types": [
+        "fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Absorbe fuego"
+    ],
+    "stats": {
+        "hp": "58",
+        "atk": "64",
+        "def": "58",
+        "atk esp": "80",
+        "def esp": "65",
+        "speed": "80"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: de Cyndaquil (nivel 14)"
+        ],
+        "Plata": [
+            "Evolucionar: de Cyndaquil (nivel 14)"
+        ],
+        "Cristal": [
+            "Evolucionar: de Cyndaquil (nivel 14)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD"
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Cyndaquil (nivel 14)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Cyndaquil (nivel 14)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Cyndaquil (nivel 14)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa",
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa",
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Cyndaquil (nivel 14)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Cyndaquil (nivel 14)"
+        ],
+        "Sol": [
+            "Evolucionar: de Cyndaquil (nivel 14)"
+        ],
+        "Luna": [
+            "Evolucionar: de Cyndaquil (nivel 14)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Quilava no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Quilava no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Cyndaquil (nivel 14)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Cyndaquil (nivel 14)."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: de Cyndaquil (nivel 17).",
+            "Salvaje: Distorsión espaciotemporal: Pantanal Carmesí"
+        ]
+    },
+    "pokedex": {
+        "Oro": "Ten cuidado si te da la espalda en combate. Significa que te va a atacar con su lomo de fuego.",
+        "Plata": "El pelaje de este Pokémon es ignífugo. Puede soportar cualquier ataque de fuego.",
+        "Cristal": "Antes de empezar a luchar, se gira ante su rival para alardear del alcance y la fuerza de sus llamas.",
+        "Rubí": "Quilava mantiene a sus rivales a raya con la intensidad de sus llamas y las ráfagas de aire ígneo. Este Pokémon usa su espectacular ingenio para esquivar ataques hasta cuando abrasa al rival con sus llamas.",
+        "Zafiro": "Quilava mantiene a sus rivales a raya con la intensidad de sus llamas y las ráfagas de aire ígneo. Este Pokémon usa su espectacular ingenio para esquivar ataques hasta cuando abrasa al rival con sus llamas.",
+        "Esmeralda": "Intimida a sus rivales con la intensidad de sus llamas y sus ráfagas de aire ígneo. Es capaz de esquivar ataques con gran agilidad al tiempo que abrasa al rival.",
+        "Rojo Fuego": "El pelaje de este Pokémon es ignífugo. Puede soportar cualquier ataque de fuego.",
+        "Verde Hoja": "Ten cuidado si te da la espalda en combate. Significa que te va a atacar con el lomo en llamas.",
+        "Diamante": "Intimida a sus enemigos con el calor de sus llamas. Arde con mayor fuerza cuando va a luchar.",
+        "Perla": "Intimida a sus enemigos con el calor de sus llamas. Arde con mayor fuerza cuando va a luchar.",
+        "Platino": "Intimida a sus enemigos con el calor de sus llamas. Arde con mayor fuerza cuando va a luchar.",
+        "Oro HeartGold": "Ten cuidado si te da la espalda en combate. Significa que te va a atacar con su lomo de fuego.",
+        "Plata SoulSilver": "El pelaje de este Pokémon es ignífugo. Puede soportar cualquier ataque de fuego.",
+        "Negro": "Intimida a sus enemigos con el calor de sus llamas. Arde con mayor fuerza cuando va a luchar.",
+        "Blanco": "Intimida a sus enemigos con el calor de sus llamas. Arde con mayor fuerza cuando va a luchar.",
+        "Negro 2": "Intimida a sus enemigos con el calor de sus llamas. Arde con mayor fuerza cuando va a luchar.",
+        "Blanco 2": "Intimida a sus enemigos con el calor de sus llamas. Arde con mayor fuerza cuando va a luchar.",
+        "Pokémon X": "Antes de empezar a luchar, se gira ante su rival para alardear del alcance y la fuerza de sus llamas.",
+        "Pokémon Y": "Ten cuidado si te da la espalda en combate. Significa que te va a atacar con su lomo de fuego.",
+        "Rubí Omega": "Quilava mantiene a sus rivales a raya con la intensidad de sus llamas y las ráfagas de aire ígneo. Este Pokémon usa su espectacular ingenio para esquivar ataques hasta cuando abrasa al rival con sus llamas.",
+        "Zafiro Alfa": "Quilava mantiene a sus rivales a raya con la intensidad de sus llamas y las ráfagas de aire ígneo. Este Pokémon usa su espectacular ingenio para esquivar ataques hasta cuando abrasa al rival con sus llamas.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Intimida a sus enemigos con el calor de sus llamas. Su fuego arde con mayor fuerza cuando va a luchar.",
+        "Perla Reluciente": "Intimida a sus enemigos con el calor de sus llamas. Su fuego arde con mayor fuerza cuando va a luchar.",
+        "Leyendas: Arceus": "Posee un misterioso pelaje que nunca prende fuego. Hay que prestar mucha atención si te da la espalda, pues esa es la señal de que se dispone a atacar."
+    },
+    "evolution": [
+        [
+            "Cyndaquil",
+            "Nivel 14(nivel 17 en LPA)",
+            "Quilava",
+            "Nivel 36(fuera de Hisui)",
+            "Typhlosion"
+        ],
+        [
+            "",
+            "",
+            "",
+            "Nivel 36(en Hisui)",
+            "Typhlosion de Hisui"
+        ]
+    ]
+}

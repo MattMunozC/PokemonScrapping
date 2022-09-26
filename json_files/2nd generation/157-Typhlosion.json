@@ -1,0 +1,180 @@
+{
+    "dex number": "157",
+    "pokemon name": "Typhlosion",
+    "types": [
+        "fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Absorbe fuego"
+    ],
+    "stats": {
+        "hp": "78",
+        "atk": "84",
+        "def": "78",
+        "atk esp": "109",
+        "def esp": "85",
+        "speed": "100"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: a Quilava (nivel 36)."
+        ],
+        "Plata": [
+            "Evolucionar: a Quilava (nivel 36)."
+        ],
+        "Cristal": [
+            "Evolucionar: a Quilava (nivel 36)."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Quilava (nivel 36).",
+            "Intercambiar: de Pokémon Colosseum o Pokémon XD."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Evolucionar: a Quilava (nivel 36).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Evolucionar: a Quilava (nivel 36).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Evolucionar: a Quilava (nivel 36).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Quilava (nivel 36).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Quilava (nivel 36).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Evolucionar: a Quilava (nivel 36).",
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Evolucionar: a Quilava (nivel 36).",
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Quilava (nivel 36).",
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Quilava (nivel 36).",
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa.",
+            "Evento: En el Banco de Pokémon hasta el 30 de noviembre de 2015 para aquellos usuarios que tuvieran una suscripción activa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa.",
+            "Evento: En el Banco de Pokémon hasta el 30 de noviembre de 2015 para aquellos usuarios que tuvieran una suscripción activa."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Quilava (nivel 36).",
+            "Evento: En el Banco de Pokémon hasta el 30 de noviembre de 2015 para aquellos usuarios que tuvieran una suscripción activa."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Quilava (nivel 36).",
+            "Evento: En el Banco de Pokémon hasta el 30 de noviembre de 2015 para aquellos usuarios que tuvieran una suscripción activa."
+        ],
+        "Sol": [
+            "Evolucionar: a Quilava (nivel 36)."
+        ],
+        "Luna": [
+            "Evolucionar: a Quilava (nivel 36)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Typhlosion no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Typhlosion no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Quilava (nivel 36)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Quilava (nivel 36)."
+        ],
+        "Leyendas: Arceus": [
+            "Typhlosion no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Si su furia crece, se calienta tanto que cualquier cosa que toque se prenderá al instante.",
+        "Plata": "Tiene una habilidad secreta y devastadora. Causa explosiones al frotar su pelaje.",
+        "Cristal": "Cuando el calor que libera supera los límites, crea una nube a su alrededor: está listo para luchar.",
+        "Rubí": "Typhlosion se oculta tras un trémulo haz de calor que crea mediante sus intensas y sofocantes llamaradas. Este Pokémon causa explosiones de fuego que reducen todo a cenizas.",
+        "Zafiro": "Typhlosion se oculta tras un trémulo haz de calor que crea mediante sus intensas y sofocantes llamaradas. Este Pokémon causa explosiones de fuego que reducen todo a cenizas.",
+        "Esmeralda": "Se oculta tras un trémulo haz de calor que crea mediante intensas y sofocantes llamaradas. Provoca explosiones abrasadoras que reducen todo a cenizas.",
+        "Rojo Fuego": "Tiene una habilidad secreta y devastadora. Causa explosiones al frotar el pelaje.",
+        "Verde Hoja": "Si su furia crece, se calienta tanto que cualquier cosa que toque arderá al instante.",
+        "Diamante": "Ataca con llamaradas. Con ellas crea reflejos de calor para ocultarse.",
+        "Perla": "Ataca con llamaradas. Con ellas crea reflejos de calor para ocultarse.",
+        "Platino": "Ataca con llamaradas. Con ellas crea reflejos de calor para ocultarse.",
+        "Oro HeartGold": "Si su furia crece, se calienta tanto que cualquier cosa que toque se prenderá al instante.",
+        "Plata SoulSilver": "Tiene una habilidad secreta y devastadora. Causa explosiones al frotar su pelaje.",
+        "Negro": "Ataca con llamaradas. Con ellas crea reflejos de calor para ocultarse.",
+        "Blanco": "Ataca con llamaradas. Con ellas crea reflejos de calor para ocultarse.",
+        "Negro 2": "Ataca con llamaradas. Con ellas crea reflejos de calor para ocultarse.",
+        "Blanco 2": "Ataca con llamaradas. Con ellas crea reflejos de calor para ocultarse.",
+        "Pokémon X": "Si su furia crece, se calienta tanto que cualquier cosa que toque se prenderá al instante.",
+        "Pokémon Y": "Tiene una habilidad secreta y devastadora. Causa explosiones al frotar su pelaje.",
+        "Rubí Omega": "Typhlosion se oculta tras un trémulo haz de calor que crea mediante sus intensas y sofocantes llamaradas. Este Pokémon causa explosiones de fuego que reducen todo a cenizas.",
+        "Zafiro Alfa": "Typhlosion se oculta tras un trémulo haz de calor que crea mediante sus intensas y sofocantes llamaradas. Este Pokémon causa explosiones de fuego que reducen todo a cenizas.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Ataca con explosiones de fuego y utiliza sus intensas y sofocantes llamaradas para crear un haz de calor tras el que ocultarse.",
+        "Perla Reluciente": "Ataca con explosiones de fuego y utiliza sus intensas y sofocantes llamaradas para crear un haz de calor tras el que ocultarse.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Cyndaquil",
+            "Nivel 14(nivel 17 en LPA)",
+            "Quilava",
+            "Nivel 36(fuera de Hisui)",
+            "Typhlosion"
+        ],
+        [
+            "",
+            "",
+            "",
+            "Nivel 36(en Hisui)",
+            "Typhlosion de Hisui"
+        ]
+    ]
+}

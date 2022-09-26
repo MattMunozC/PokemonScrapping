@@ -1,0 +1,155 @@
+{
+    "dex number": "232",
+    "pokemon name": "Donphan",
+    "types": [
+        "tierra"
+    ],
+    "abilities": [
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Velo arena"
+    ],
+    "stats": {
+        "hp": "90",
+        "atk": "120",
+        "def": "120",
+        "atk esp": "60",
+        "def esp": "60",
+        "speed": "50"
+    },
+    "location": {
+        "Oro": [
+            "Intercambiar: de Pokémon Plata o Pokémon Cristal."
+        ],
+        "Plata": [
+            "Salvaje: Calle Victoria, Ruta 28 en la hierba.",
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Cristal": [
+            "Salvaje: Calle Victoria, Ruta 45.",
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Rubí": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Zafiro": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Verde Hoja": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Diamante": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Perla": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Platino": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Calle Victoria, Cueva Plateada, Monte Plateado.",
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Oro HeartGold."
+        ],
+        "Negro": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Blanco": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Zona Safari, Monte Espejismo."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Zona Safari, Monte Espejismo."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Donphan no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Donphan no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Phanpy (nivel 25)."
+        ],
+        "Leyendas: Arceus": [
+            "Donphan no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Tiene afilados y duros colmillos, y una gruesa piel. Su placaje es tan fuerte que puede derribar una casa.",
+        "Plata": "Cuanto más grandes son sus colmillos, mayor su estatus en la manada. Los colmillos tardan mucho en crecer.",
+        "Cristal": "Como la piel de este Pokémon es demasiado dura, un ataque normal no logrará ni arañarle.",
+        "Rubí": "A Donphan le encanta enrollarse como una pelota y cargar contra el enemigo rodando a toda velocidad. Una vez ha comenzado a rodar, no es fácil pararlo",
+        "Zafiro": "Si Donphan tuviera que dar un golpe con todo el cuerpo, con lo robusto que es echaría abajo hasta una casa. Estos Pokémon usan su fuerza para ayudar a despejar pasos de montaña cuando hay piedras o lodo.",
+        "Esmeralda": "Donphan es tan fuerte que puede arrastrar fácilmente un camión de descarga. Tiene la piel tan dura como una roca. Para hacerle daño, no bastan los ataques comunes.",
+        "Rojo Fuego": "Cuanto más grandes son los colmillos, mayor es su estatus en la manada. Los colmillos tardan mucho en crecer.",
+        "Verde Hoja": "Tiene afilados y duros colmillos, y una gruesa piel. Su placaje es tan fuerte que puede derribar una casa.",
+        "Diamante": "Se enrolla sobre sí mismo y se lanza rodando contra el enemigo. Puede derribar casas de un golpe.",
+        "Perla": "Se enrolla sobre sí mismo y se lanza rodando contra el enemigo. Puede derribar casas de un golpe.",
+        "Platino": "Se enrolla sobre sí mismo y se lanza rodando contra el enemigo. Puede derribar casas de un golpe.",
+        "Oro HeartGold": "Tiene afilados y duros colmillos, y una gruesa piel. Su Placaje es tan fuerte que puede derribar una casa.",
+        "Plata SoulSilver": "Cuanto más grandes son sus colmillos, mayor su estatus en la manada. Los colmillos tardan mucho en crecer.",
+        "Negro": "Se enrolla sobre sí mismo y se lanza rodando contra el enemigo. Puede derribar casas de un golpe.",
+        "Blanco": "Se enrolla sobre sí mismo y se lanza rodando contra el enemigo. Puede derribar casas de un golpe.",
+        "Negro 2": "Se enrolla sobre sí mismo y se lanza rodando contra el enemigo. Puede derribar casas de un golpe.",
+        "Blanco 2": "Se enrolla sobre sí mismo y se lanza rodando contra el enemigo. Puede derribar casas de un golpe.",
+        "Pokémon X": "Tiene afilados y duros colmillos, y una gruesa piel. Su Placaje es tan fuerte que puede derribar una casa.",
+        "Pokémon Y": "Cuanto más grandes son sus colmillos, mayor su estatus en la manada. Los colmillos tardan mucho en crecer.",
+        "Rubí Omega": "A Donphan le encanta enrollarse como una pelota y cargar contra el enemigo rodando a toda velocidad. Una vez ha comenzado a rodar, no es fácil pararlo",
+        "Zafiro Alfa": "Si Donphan tuviera que dar un golpe con todo el cuerpo, con lo robusto que es echaría abajo hasta una casa. Estos Pokémon usan su fuerza para ayudar a despejar pasos de montaña cuando hay piedras o lodo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Se enrolla sobre sí mismo y se lanza rodando contra el enemigo. Puede derribar casas de un solo golpe.",
+        "Perla Reluciente": "Se enrolla sobre sí mismo y se lanza rodando contra el enemigo. Puede derribar casas de un solo golpe.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Phanpy",
+            "Nivel 25",
+            "Donphan"
+        ]
+    ]
+}

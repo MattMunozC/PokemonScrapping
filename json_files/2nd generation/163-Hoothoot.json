@@ -1,0 +1,176 @@
+{
+    "dex number": "163",
+    "pokemon name": "Hoothoot",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Insomnio",
+        "Vista lince"
+    ],
+    "hidden abilities": [
+        "Cromolente"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "30",
+        "def": "30",
+        "atk esp": "36",
+        "def esp": "56",
+        "speed": "50"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje, por la noche: rutas 1, 2, 29, 30, 31, 35, 36, 37, Parque Nacional."
+        ],
+        "Plata": [
+            "Salvaje, por la noche: rutas 1, 2, 29, 30, 31, 35, 36, 37, Parque Nacional."
+        ],
+        "Cristal": [
+            "Salvaje: usando golpe cabeza en los árboles de Johto.",
+            "Salvaje, por la noche: 1, 2, 5, 25, 29, 30, 31, 32, 34, 35, 36, Encinar, Parque Nacional."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda."
+        ],
+        "Esmeralda": [
+            "Salvaje: extensión de la Zona Safari."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje, por la noche: rutas 210 (norte), 211 (oeste), Gran Pantano",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Salvaje, por la noche: rutas 210 (norte), 211 (oeste), Gran Pantano",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje, por la noche: rutas 205 (norte), 210, 211 (oeste), Bosque Vetusto, Gran Pantano.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje, por la noche: Rutas 1, 2, 29, 30, 31, 35, 36, 37, Bosque Verde y Parque Nacional.",
+            "Golpe cabeza: Rutas 1, 2, 3, 4, 5, 6, 8, 12, 13, 14, 15, 18, 21, 22, 25, 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 43, 47, 48, Bosque Verde, Ciudad Verde, Ciudad Plateada, Ciudad Celeste, Ciudad Fucsia, Pueblo Paleta, Encinar, Ciudad Cerezo, Ciudad Malva, Pueblo Primavera, Parque Nacional, Lago de la Furia y Pueblo Safari (entrada al safari).",
+            "Pokéwalker: Camino Pedregoso, Urbanización y Confín del Cielo.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, por la noche: Rutas 1, 2, 29, 30, 31, 35, 36, 37, Bosque Verde y Parque Nacional.",
+            "Golpe cabeza: Rutas 1, 2, 3, 4, 5, 6, 8, 12, 13, 14, 15, 18, 21, 22, 25, 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 43, 47, 48, Bosque Verde, Ciudad Verde, Ciudad Plateada, Ciudad Celeste, Ciudad Fucsia, Pueblo Paleta, Encinar, Ciudad Cerezo, Ciudad Malva, Pueblo Primavera, Parque Nacional, Lago de la Furia y Pueblo Safari (entrada al safari).",
+            "Pokéwalker: Camino Pedregoso, Urbanización y Confín del Cielo.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Criando: de Noctowl.",
+            "Dream World: Alto Cielo con la habilidad Cromolente."
+        ],
+        "Blanco": [
+            "Criando: de Noctowl.",
+            "Dream World: Alto Cielo con la habilidad Cromolente."
+        ],
+        "Negro 2": [
+            "Criando: de Noctowl.",
+            "RAdar Pokémon: Lente Especial C."
+        ],
+        "Blanco 2": [
+            "Criando: de Noctowl.",
+            "RAdar Pokémon: Lente Especial C."
+        ],
+        "Pokémon X": [
+            "Safari Amistad"
+        ],
+        "Pokémon Y": [
+            "Safari Amistad"
+        ],
+        "Rubí Omega": [
+            " Intercambiar de Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            " Intercambiar de Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Ultrasol": [
+            "Salvaje, por la noche: Jungla Umbría",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Ultraluna": [
+            "Salvaje, por la noche: Jungla Umbría",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 1 (cuando la hierba se mueve), Ruta 2 (área principal), Arboleda Claroscuro (cuando está despejado, nublado, en nieve, tormenta de arena y niebla), Bosque Oniria (zona sur) y Gorro del Gigante (en la zona alta oeste excepto cuando hay ventisca).",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste y Pradera Radiante, nido cerca del Punto de Encuentro."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 1 (cuando la hierba se mueve), Ruta 2 (área principal), Arboleda Claroscuro (cuando está despejado, nublado, en nieve, tormenta de arena y niebla), Bosque Oniria (zona sur) y Gorro del Gigante (en la zona alta oeste excepto cuando hay ventisca).",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste y Pradera Radiante, nido cerca del Punto de Encuentro."
+        ],
+        "Diamante Brillante": [
+            "Salvaje, por la noche: rutas 210 (norte), 211 (oeste), Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Salvaje, por la noche: rutas 210 (norte), 211 (oeste), Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Hoothoot no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Camina con un solo pie. Cambia tan rápidamente de pie que apenas se le ve.",
+        "Plata": "Su percepción del tiempo es exacta. Ocurra lo que ocurra, lleva el ritmo moviendo la cabeza.",
+        "Cristal": "Todos los días empieza a ulular a la misma hora. Hay entrenadores que los usan a modo de reloj.",
+        "Rubí": "Hoothoot tiene un órgano interno que identifica y percibe la rotación de la tierra. Gracias a este órgano, el Pokémon ulula todos los días a la misma hora.",
+        "Zafiro": "Hoothoot tiene un órgano interno que identifica y percibe la rotación de la tierra. Gracias a este órgano, el Pokémon ulula todos los días a la misma hora.",
+        "Esmeralda": "Tiene un órgano interno que percibe la rotación de la tierra. Por esta razón, Hoothoot es capaz de ulular todos los días a la misma hora.",
+        "Rojo Fuego": "Su percepción del tiempo es exacta. Ocurra lo que ocurra, lleva el ritmo moviendo la cabeza.",
+        "Verde Hoja": "Se apoya en una sola pata y cuando hace el cambio, se mueve tan rápido que apenas se nota.",
+        "Diamante": "Siempre se yergue sobre una pata. Nunca apoya ambas, ni siquiera al sufrir un ataque.",
+        "Perla": "Cambia de pata de apoyo tan rápido que es imposible verlo. Llora a la misma hora todos los días.",
+        "Platino": "Da la hora con gran exactitud. En algunos países se le considera toda una autoridad por su sabiduría.",
+        "Oro HeartGold": "Camina con una sola pata. Cambia tan rápidamente de pata que apenas se le ve.",
+        "Plata SoulSilver": "Su percepción del tiempo es exacta. Ocurra lo que ocurrra, lleva el ritmo moviendo la cabeza.",
+        "Negro": "Da la hora con gran exactitud. En algunos países se le considera toda una autoridad por su sabiduría.",
+        "Blanco": "Da la hora con gran exactitud. En algunos países se le considera toda una autoridad por su sabiduría.",
+        "Negro 2": "Da la hora con gran exactitud. En algunos países se le considera toda una autoridad por su sabiduría.",
+        "Blanco 2": "Da la hora con gran exactitud. En algunos países se le considera toda una autoridad por su sabiduría.",
+        "Pokémon X": "Su percepción del tiempo es exacta. Ocurra lo que ocurra, lleva el ritmo moviendo la cabeza.",
+        "Pokémon Y": "Camina con una sola pata. Cambia tan rápidamente de pata que apenas se le ve.",
+        "Rubí Omega": "Hoothoot tiene un órgano interno que identifica y percibe la rotación de la tierra. Gracias a este órgano, el Pokémon ulula todos los días a la misma hora.",
+        "Zafiro Alfa": "Hoothoot tiene un órgano interno que identifica y percibe la rotación de la tierra. Gracias a este órgano, el Pokémon ulula todos los días a la misma hora.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Mueve la cabeza a un ritmo preciso y constante, por lo que en la antigüedad la gente lo usaba como reloj.",
+        "Ultraluna": "Canta todos los días a la misma hora exacta. Por eso en la antigüedad lo veneraban como emisario de la divinidad del tiempo.",
+        "Espada": "Se apoya en una sola pata y, cuando cambia de una a otra, se mueve tan rápido que apenas se percibe.",
+        "Escudo": "Todos los días empieza a ulular a la misma hora, por lo que algunos Entrenadores lo usan a modo de reloj.",
+        "Diamante Brillante": "Siempre se yergue sobre una pata. Nunca apoya ambas, ni siquiera al sufrir un ataque.",
+        "Perla Reluciente": "Cambia la pata sobre la que se apoya tan rápido que es imposible verlo. Ulula a la misma hora todos los días.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Hoothoot",
+            "Nivel 20",
+            "Noctowl"
+        ]
+    ]
+}

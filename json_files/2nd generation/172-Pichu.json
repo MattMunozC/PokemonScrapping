@@ -1,0 +1,186 @@
+{
+    "dex number": "172",
+    "pokemon name": "Pichu",
+    "types": [
+        "eléctrico"
+    ],
+    "abilities": [
+        "Electricidad estática"
+    ],
+    "hidden abilities": [
+        "Pararrayos"
+    ],
+    "stats": {
+        "hp": "20",
+        "atk": "40",
+        "def": "15",
+        "atk esp": "35",
+        "def esp": "35",
+        "speed": "60"
+    },
+    "location": {
+        "Oro": [
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Plata": [
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Cristal": [
+            "Criar: de Pikachu o Raichu",
+            "Especial: Puede nacer del huevo extraño recibido en la guardería de la Ruta 34"
+        ],
+        "Rubí": [
+            "Criar: de Pikachu o Raichu",
+            "Especial: Nace del huevo que entrega Nereida al almacenar 1499 Pokémon en las cajas de Pokémon Box"
+        ],
+        "Zafiro": [
+            "Criar: de Pikachu o Raichu",
+            "Especial: Nace del huevo que entrega Nereida al almacenar 1499 Pokémon en las cajas de Pokémon Box"
+        ],
+        "Esmeralda": [
+            "Criar: de Pikachu o Raichu",
+            "Especial: Nace del huevo que entrega Nereida al almacenar 1499 Pokémon en las cajas de Pokémon Box"
+        ],
+        "Rojo Fuego": [
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Verde Hoja": [
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Diamante": [
+            "Salvaje: Jardín Trofeo",
+            "Criar: de Pikachu o Raichu",
+            "Evento: Repartido por evento (ver más abajo)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Salvaje: Jardín Trofeo",
+            "Criar: de Pikachu o Raichu",
+            "Evento: Repartido por evento (ver más abajo)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Salvaje: Jardín Trofeo",
+            "Criar: de Pikachu o Raichu",
+            "Evento: Repartido por evento (ver más abajo)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Criar: de Pikachu o Raichu",
+            "Parque Compi: Zona pradera",
+            "Evento: Pichu Picoreja, en el Encinar, intercambiando y llevando en primer lugar del equipo al Pichu color Pikachu repartido a las ediciones Diamante, Perla y Platino y un hueco libre en el equipo."
+        ],
+        "Plata SoulSilver": [
+            "Criar: de Pikachu o Raichu",
+            "Parque Compi: Zona pradera",
+            "Evento: Pichu Picoreja, en el Encinar, intercambiando y llevando en primer lugar del equipo al Pichu color Pikachu repartido a las ediciones Diamante, Perla y Platino y un hueco libre en el equipo."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Pokémon X": [
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Pokémon Y": [
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Rubí Omega": [
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Zafiro Alfa": [
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Sol": [
+            "Salvaje: Ruta 1 y Ciudad Hauoli",
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 1 y Ciudad Hauoli",
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 1",
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 1",
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Concentración ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al noroeste y Ribera de Pistón, nido al suroeste. Nidos en Prado Reverencia , Bosque Concentración , Playa Desafío  y Mar Meloso ",
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Concentración ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al noroeste y Ribera de Pistón, nido al suroeste. Nidos en Prado Reverencia , Bosque Concentración , Playa Desafío  y Mar Meloso ",
+            "Criar: de Pikachu o Raichu"
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Jardín Trofeo."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Jardín Trofeo."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Campo Aromaflor y Alacena del Bosque."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Todavía no domina el almacenamiento de electricidad, y descargará un rayo si se divierte o asusta.",
+        "Plata": "A pesar de su pequeño tamaño, ataca incluso a los humanos, algo que le sorprende incluso a él.",
+        "Cristal": "No se le da muy bien el almacenamiento de electricidad. A la mínima descargará energía sin darse cuenta.",
+        "Rubí": "A Pichu le resulta más fácil cargarse de electricidad en días de nubarrones o cuando sopla un aire muy seco. Es posible oír la electricidad estática que emana este Pokémon.",
+        "Zafiro": "Cuando Pichu juega con otros, puede liberar cargas y producir una auténtica lluvia de chispas. Cuando esto ocurre, los Pokémon chillan asustados por tanta chispa.",
+        "Esmeralda": "Sigue sin conseguir retener electricidad. Cuando se asusta, descarga energía de forma accidental. Con todo, a medida que pasa el tiempo va mejorando.",
+        "Rojo Fuego": "A pesar de su pequeño tamaño, ataca incluso a los humanos, algo que le sorprende hasta a él.",
+        "Verde Hoja": "Todavía no domina el almacenamiento de electricidad, y descarga rayos cuando se divierte o se asusta.",
+        "Diamante": "Las bolsas de sus mejillas son aún demasiado pequeñas para almacenar mucha electricidad.",
+        "Perla": "Cuando juegan, se tocan las colas y emiten chispas. Al parecer, es una prueba de valor.",
+        "Platino": "Las bolsas de electricidad de sus mejillas son muy pequeñas. La mínima fuga le provoca una descarga.",
+        "Oro HeartGold": "Todavía no domina el almacenamiento de electricidad, y descargará un rayo si se divierte o asusta.",
+        "Plata SoulSilver": "A pesar de su pequeño tamaño, ataca incluso a los humanos, algo que le sorprende incluso a él.",
+        "Negro": "Las bolsas de electricidad de sus mejillas son muy pequeñas. La mínima fuga le provoca una descarga.",
+        "Blanco": "Las bolsas de electricidad de sus mejillas son muy pequeñas. La mínima fuga le provoca una descarga.",
+        "Negro 2": "Las bolsas de electricidad de sus mejillas son muy pequeñas. La mínima fuga le provoca una descarga.",
+        "Blanco 2": "Las bolsas de electricidad de sus mejillas son muy pequeñas. La mínima fuga le provoca una descarga.",
+        "Pokémon X": "Cuando juegan, se tocan las colas y emiten chispas. Al parecer, es una prueba de valor.",
+        "Pokémon Y": "Todavía no domina el almacenamiento de electricidad, y descargará un rayo si se divierte o asusta.",
+        "Rubí Omega": "A Pichu le resulta más fácil cargarse de electricidad en días de nubarrones o cuando sopla un aire muy seco. Es posible oír la electricidad estática que emana de este Pokémon.",
+        "Zafiro Alfa": "Cuando Pichu juega con otros, puede liberar electricidad y producir una auténtica lluvia de chispas. Cuando esto ocurre, chilla asustado por tanta chispa.",
+        "Sol": "No controla muy bien la electricidad. Como su Entrenador se descuide, Pichu puede acabar paralizado por sus propias descargas.",
+        "Luna": "Es un Pokémon adorable, pero cuando se convive con él, uno tiene que estar preparado para recibir alguna que otra descarga eléctrica.",
+        "Ultrasol": "Aún no controla muy bien la electricidad, por lo que suele emitir descargas involuntarias cuando lo sorprenden o siente alguna emoción intensa.",
+        "Ultraluna": "Posee sacos eléctricos en los carrillos. Cuando se cargan por completo, se siente pletórico de energía y corre y juguetea sin parar.",
+        "Espada": "A pesar de su pequeño tamaño, puede soltar descargas capaces de electrocutar a un adulto, si bien él también acaba sobresaltado.",
+        "Escudo": "Las bolsas de electricidad de sus mejillas son muy pequeñas y, a poco que se desborden, recibe una fuerte descarga.",
+        "Diamante Brillante": "Las bolsas de sus mejillas son aún demasiado pequeñas para almacenar mucha electricidad.",
+        "Perla Reluciente": "Juegan a juntar las puntas de las colas para que salten chispas. Al parecer, es una prueba de valor.",
+        "Leyendas: Arceus": "Cuando se emociona, libera involuntariamente la electricidad que almacena en las bolsas de sus mejillas. Debido a su corta edad, aún no sabe manejar bien la electricidad."
+    },
+    "evolution": [
+        [
+            "Pichu",
+            "Amistad + nivel",
+            "Pikachu",
+            "Piedra trueno ",
+            "Raichu"
+        ],
+        [
+            "",
+            "",
+            "",
+            "Piedra trueno (en Alola)",
+            "Raichu de Alola"
+        ]
+    ]
+}

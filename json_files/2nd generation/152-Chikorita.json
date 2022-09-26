@@ -1,0 +1,162 @@
+{
+    "dex number": "152",
+    "pokemon name": "Chikorita",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Defensa hoja"
+    ],
+    "stats": {
+        "hp": "45",
+        "atk": "49",
+        "def": "65",
+        "atk esp": "49",
+        "def esp": "65",
+        "speed": "45"
+    },
+    "location": {
+        "Oro": [
+            "Especial: es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. Te lo da a elegir el Profesor Elm en su laboratorio de Pueblo Primavera. Solo uno, al nivel 5."
+        ],
+        "Plata": [
+            "Especial: es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. Te lo da a elegir el Profesor Elm en su laboratorio de Pueblo Primavera. Solo uno, al nivel 5."
+        ],
+        "Cristal": [
+            "Especial: es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. Te lo da a elegir el Profesor Elm en su laboratorio de Pueblo Primavera. Solo uno, al nivel 5."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon XD."
+        ],
+        "Esmeralda": [
+            "Especial: Al completar la Pokédex de Hoenn, el Profesor Abedul en su laboratorio de Villa Raíz te da a elegir a uno de los tres iniciales de Johto. Solo uno, al nivel 5.",
+            "Intercambiar: de Pokémon XD."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon XD."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Especial: es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. Te lo da a elegir el Profesor Elm en su laboratorio de Pueblo Primavera. Solo uno, al nivel 5.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Especial: es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. Te lo da a elegir el Profesor Elm en su laboratorio de Pueblo Primavera. Solo uno, al nivel 5.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Banco Pokémon: Transferir de Pokémon Negro, Blanco, Negro 2 y Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Banco Pokémon: Transferir de Pokémon Negro, Blanco, Negro 2 y Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Especial: Es uno de los tres Pokémon que te da a elegir el Profesor Abedul, después de pasarte la liga. Es necesario volver a entrar y salir de tu casa. Solo uno, al nivel 5"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Es uno de los tres Pokémon que te da a elegir el Profesor Abedul, después de pasarte la liga. Es necesario volver a entrar y salir de tu casa. Solo uno, al nivel 5"
+        ],
+        "Sol": [
+            "Escáner insular: en la Ruta 2 (solo los viernes)."
+        ],
+        "Luna": [
+            "Escáner insular: en la Ruta 2 (solo los viernes)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Chikorita no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Chikorita no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Chikorita no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Un dulce aroma se desprende de la hoja de su cabeza. Es dócil y le encanta absorber los rayos de sol.",
+        "Plata": "Sus hojas aromáticas son capaces de medir la humedad y la temperatura.",
+        "Cristal": "Le encanta disfrutar del sol. Usa la hoja que tiene en la cabeza para localizar sitios cálidos.",
+        "Rubí": "Al luchar, Chikorita agita la hoja que tiene para mantener a raya al rival. Pero, al mismo tiempo, libera una suave fragancia que apacigua el encuentro y crea un ambiente agradable y de amistad",
+        "Zafiro": "Al luchar, Chikorita agita la hoja que tiene para mantener a raya al rival. Pero, al mismo tiempo, libera una suave fragancia que apacigua el encuentro y crea un ambiente agradable y de amistad",
+        "Esmeralda": "Al luchar, agita la hoja de la cabeza para impresionar al rival, pero también libera una suave fragancia que apacigua los ánimos y crea un ambiente amistoso.",
+        "Rojo Fuego": "Sus hojas aromáticas son capaces de medir la humedad y la temperatura.",
+        "Verde Hoja": "La hoja de la cabeza desprende un dulce aroma. Es dócil y le encanta absorber rayos de sol.",
+        "Diamante": "Con la hoja de su cabeza puede medir la temperatura y la humedad. Le encanta tomar el sol.",
+        "Perla": "Con la hoja de su cabeza puede medir la temperatura y la humedad. Le encanta tomar el sol.",
+        "Platino": "Con la hoja de su cabeza puede medir la temperatura y la humedad. Le encanta tomar el sol.",
+        "Oro HeartGold": "Un dulce aroma se desprende de la hoja de su cabeza. Es dócil y le encanta absorber los rayos de sol.",
+        "Plata SoulSilver": "Sus hojas aromáticas son capaces de medir la humedad y la temperatura.",
+        "Negro": "Con la hoja de su cabeza puede medir la temperatura y la humedad. Le encanta tomar el sol.",
+        "Blanco": "Con la hoja de su cabeza puede medir la temperatura y la humedad. Le encanta tomar el sol.",
+        "Negro 2": "Con la hoja de su cabeza puede medir la temperatura y la humedad. Le encanta tomar el sol.",
+        "Blanco 2": "Con la hoja de su cabeza puede medir la temperatura y la humedad. Le encanta tomar el sol.",
+        "Pokémon X": "Un dulce aroma se desprende de la hoja de su cabeza. Es dócil y le encanta absorber los rayos de sol.",
+        "Pokémon Y": "Con la hoja de su cabeza puede medir la temperatura y la humedad. Le encanta tomar el sol.",
+        "Rubí Omega": "Al luchar, Chikorita agita la hoja que tiene para mantener a raya al rival. Pero, al mismo tiempo, libera una suave fragancia que apacigua el encuentro y crea un ambiente agradable y de amistad.",
+        "Zafiro Alfa": "Al luchar, Chikorita agita la hoja que tiene para mantener a raya al rival. Pero, al mismo tiempo, libera una suave fragancia que apacigua el encuentro y crea un ambiente agradable y de amistad.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Con la hoja de su cabeza puede medir la temperatura y la humedad. Le encanta tomar el sol.",
+        "Perla Reluciente": "Con la hoja de su cabeza puede medir la temperatura y la humedad. Le encanta tomar el sol.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Chikorita",
+            "Nivel 16",
+            "Bayleef",
+            "Nivel 32",
+            "Meganium"
+        ]
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "dex number": "182",
+    "pokemon name": "Bellossom",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Clorofila"
+    ],
+    "hidden abilities": [
+        "Alma cura"
+    ],
+    "stats": {
+        "hp": "75",
+        "atk": "80",
+        "def": "95",
+        "atk esp": "90",
+        "def esp": "100",
+        "speed": "50"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Plata": [
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Cristal": [
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Rubí": [
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Zafiro": [
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Rojo Fuego": [
+            "Evolucionar: de Gloom (usando una piedra solar), solo después de haber conseguido la Pokédex Nacional."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Rubí y Zafiro o Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Evolucionar: de Gloom (usando una piedra solar)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Evolucionar: de Gloom (usando una piedra solar)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Evolucionar: de Gloom (usando una piedra solar)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Gloom (usando una piedra solar)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Gloom (usando una piedra solar)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Sol": [
+            "Transferir: desde videojuegos anteriores mediante el Banco de Pokémon",
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Luna": [
+            "Transferir: desde videojuegos anteriores mediante el Banco de Pokémon",
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Ultrasol": [
+            "Transferir: desde videojuegos anteriores mediante el Banco de Pokémon",
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Ultraluna": [
+            "Transferir: desde videojuegos anteriores mediante el Banco de Pokémon",
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Espada": [
+            "Salvaje: Espejo del Gigante (encuentro especial cuando está despejado)",
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2 y Arboleda Claroscuro, nido al sur.",
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Escudo": [
+            "Salvaje: Espejo del Gigante (encuentro especial cuando está despejado)",
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2 y Arboleda Claroscuro, nido al sur.",
+            "Evolucionar: de Gloom (usando una piedra solar)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Gloom (usando una piedra solar)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Gloom (usando una piedra solar)."
+        ],
+        "Leyendas: Arceus": [
+            "Bellossom no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Los Bellossom suelen reunirse para bailar. Dicen que sus danzas son un ritual para invocar al sol.",
+        "Plata": "Abundan en los trópicos. Cuando baila, sus pétalos se rozan creando un agradable tintineo.",
+        "Cristal": "Si los Bellossom se ponen a bailar juntos, el roce de los pétalos produce unos sonidos muy relajantes.",
+        "Rubí": "Cuando Bellossom se expone a gran cantidad de luz solar, le empiezan a girar las hojas que le rodean. La danza de este Pokémon es famosa en las zonas del sur.",
+        "Zafiro": "La belleza de las flores que le crecen a Bellossom dependen de lo mal que oliera el Gloom a parte del cual evolucionó. A mayor hedor, mayor belleza. Por la noche este Pokémon cierra sus pétalos y se echa a dormir.",
+        "Esmeralda": "A los pétalos de las flores se les acentúa el color si están expuestas a la luz solar. Cuando persiste el tiempo nublado, dicen que invoca al sol mediante un baile ritual.",
+        "Rojo Fuego": "Abundan en los trópicos. Cuando baila, sus pétalos se rozan creando un agradable tintineo.",
+        "Verde Hoja": "Los Bellossom suelen reunirse para bailar. Dicen que sus danzas son un ritual para invocar al sol.",
+        "Diamante": "Cuando acaba la estación de las lluvias, sale al sol e inicia una peculiar danza.",
+        "Perla": "Cuando acaba la estación de las lluvias, sale al sol e inicia una peculiar danza.",
+        "Platino": "Cuando acaba la estación de las lluvias, sale al sol e inicia una peculiar danza.",
+        "Oro HeartGold": "Los Bellossom suelen reunirse para bailar. Dicen que sus danzas son un ritual para invocar al sol.",
+        "Plata SoulSilver": "Abundan en los trópicos. Cuando baila, sus pétalos se rozan creando un agradable tintineo.",
+        "Negro": "Cuando acaba la estación de las lluvias, sale al sol e inicia una peculiar danza.",
+        "Blanco": "Cuando acaba la estación de las lluvias, sale al sol e inicia una peculiar danza.",
+        "Negro 2": "Cuando acaba la estación de las lluvias, sale al sol e inicia una peculiar danza.",
+        "Blanco 2": "Cuando acaba la estación de las lluvias, sale al sol e inicia una peculiar danza.",
+        "Pokémon X": "Los Bellossom suelen reunirse para bailar. Dicen que sus danzas son un ritual para invocar al sol.",
+        "Pokémon Y": "Cuando acaba la estación de las lluvias, sale al sol e inicia una peculiar danza.",
+        "Rubí Omega": "Cuando Bellossom se expone a gran cantidad de luz solar, le empiezan a girar las hojas que le rodean. La danza de este Pokémon es famosa en las zonas del sur.",
+        "Zafiro Alfa": "La belleza de las flores que le crecen a Bellossom dependen de lo mal que oliera el Gloom a parte del cual evolucionó. A mayor hedor, mayor belleza. Por la noche este Pokémon cierra sus pétalos y se echa a dormir.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Abunda en los trópicos. Al bailar, sus pétalos se rozan y emiten un agradable sonido.",
+        "Escudo": "Los Bellossom se reúnen en ocasiones para ejecutar una especie de danza, considerada un ritual para invocar al sol.",
+        "Diamante Brillante": "Cuando acaba la estación de las lluvias, salen a bailar invitados por los cálidos rayos del sol.",
+        "Perla Reluciente": "Cuando acaba la estación de las lluvias, salen a bailar invitados por los cálidos rayos del sol.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Oddish",
+            "Nivel 21",
+            "Gloom",
+            "Piedra hoja ",
+            "Vileplume"
+        ],
+        [
+            "",
+            "",
+            "",
+            "Piedra solar ",
+            "Bellossom"
+        ]
+    ]
+}

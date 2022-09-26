@@ -1,0 +1,172 @@
+{
+    "dex number": "238",
+    "pokemon name": "Smoochum",
+    "types": [
+        "hielo",
+        "psíquico"
+    ],
+    "abilities": [
+        "Despiste",
+        "Alerta"
+    ],
+    "hidden abilities": [
+        "Hidratación"
+    ],
+    "stats": {
+        "hp": "45",
+        "atk": "30",
+        "def": "15",
+        "atk esp": "85",
+        "def esp": "65",
+        "speed": "65"
+    },
+    "location": {
+        "Oro": [
+            "Criar: de Jynx."
+        ],
+        "Plata": [
+            "Criar: de Jynx."
+        ],
+        "Cristal": [
+            "Criar: de Jynx.",
+            "Especial: es uno de los Pokémon que pueden nacer del huevo extraño entregado en la guardería Pokémon."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego y Pokémon Verde Hoja."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego y Pokémon Verde Hoja."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego y Pokémon Verde Hoja."
+        ],
+        "Rojo Fuego": [
+            "Criar: de Jynx."
+        ],
+        "Verde Hoja": [
+            "Criar: de Jynx."
+        ],
+        "Diamante": [
+            "Manada Pokémon: Lago Agudeza.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Manada Pokémon: Lago Agudeza.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Salvaje: Templo Puntaneva.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Criar: de Jynx.",
+            "Pokéwalker: Cueva Sombría y Campo Amistad.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Criar: de Jynx.",
+            "Pokéwalker: Cueva Sombría y Campo Amistad.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Criar: de Jynx.",
+            "Dream World: Villa Antigua."
+        ],
+        "Blanco": [
+            "Criar: de Jynx.",
+            "Dream World: Villa Antigua."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco.",
+            "Dream World: Villa Antigua.",
+            "RAdar Pokémon: aparece después de haber capturado a Landorus en gotas oníricas azules."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco.",
+            "Dream World: Villa Antigua.",
+            "RAdar Pokémon: aparece después de haber capturado a Landorus en gotas oníricas azules."
+        ],
+        "Pokémon X": [
+            "Salvaje: Gruta Helada (encuentro de horda)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Gruta Helada (encuentro de horda)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Luna": [
+            "Banco de Pokémon: transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Ultrasol": [
+            "Salvaje: Gruta Unemar."
+        ],
+        "Ultraluna": [
+            "Salvaje: Gruta Unemar."
+        ],
+        "Espada": [
+            "Salvaje: Campo Deslizante y Campo Bajocero. "
+        ],
+        "Escudo": [
+            "Salvaje: Campo Deslizante y Campo Bajocero. "
+        ],
+        "Diamante Brillante": [
+            "Manada: Lago Agudeza.",
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Perla Reluciente": [
+            "Manada: Lago Agudeza.",
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Leyendas: Arceus": [
+            "Smoochum no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Sus labios son la parte más sensible de su cuerpo. Siempre los usa para examinar las cosas.",
+        "Plata": "Siempre mueve la cabeza hacia delante y hacia atrás como si quisiera besar a alguien.",
+        "Cristal": "Sus labios son la parte más sensible de su cuerpo. Los utiliza para tratar de identificar objetos.",
+        "Rubí": "Smoochum va corriendo por todos lados, pero también se cae con frecuencia y, en cuanto tiene ocasión, se mira en algún lago para ver si se ha manchado la cara.",
+        "Zafiro": "Smoochum va corriendo por todos lados, pero también se cae con frecuencia y, en cuanto tiene ocasión, se mira en algún lago para ver si se ha manchado la cara.",
+        "Esmeralda": "Smoochum va corriendo por todos lados, pero también se cae con frecuencia y, en cuanto tiene ocasión, se mira en algún lago para ver si se ha manchado la cara.",
+        "Rojo Fuego": "Siempre mueve la cabeza hacia delante y hacia atrás como si quisiera besar a alguien.",
+        "Verde Hoja": "Sus labios son la parte más sensible de su cuerpo. Siempre los usa para examinar las cosas.",
+        "Diamante": "Analiza todo tocándolo con los labios. Así puede recordar las cosas que le gustan y disgustan.",
+        "Perla": "Analiza todo tocándolo con los labios. Así puede recordar las cosas que le gustan y disgustan.",
+        "Platino": "Analiza todo tocándolo con los labios. Así puede recordar las cosas que le gustan y disgustan.",
+        "Oro HeartGold": "Sus labios son la parte más sensible de su cuerpo. Siempre los usa para examinar las cosas.",
+        "Plata SoulSilver": "Siempre mueve la cabeza hacia delante y hacia atrás como si quisiera besar a alguien.",
+        "Negro": "Analiza todo tocándolo con los labios. Así puede recordar las cosas que le gustan y disgustan.",
+        "Blanco": "Analiza todo tocándolo con los labios. Así puede recordar las cosas que le gustan y disgustan.",
+        "Negro 2": "Analiza todo tocándolo con los labios. Así puede recordar las cosas que le gustan y disgustan.",
+        "Blanco 2": "Analiza todo tocándolo con los labios. Así puede recordar las cosas que le gustan y disgustan.",
+        "Pokémon X": "Sus labios son la parte más sensible de su cuerpo. Siempre los usa para examinar las cosas.",
+        "Pokémon Y": "Analiza todo tocándolo con los labios. Así puede recordar las cosas que le gustan y disgustan.",
+        "Rubí Omega": "Smoochum va corriendo por todos lados, pero también se cae con frecuencia y, en cuanto tiene ocasión, se mira en algún lago para ver si se ha manchado la cara.",
+        "Zafiro Alfa": "Smoochum va corriendo por todos lados, pero también se cae con frecuencia y, en cuanto tiene ocasión, se mira en algún lago para ver si se ha manchado la cara.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Cuando quiere examinar algo, lo toca con los labios antes que con las manos. Si está sucio, limpia la mugre lamiendo repetidamente.",
+        "Ultraluna": "Los labios son la parte más sensible de su cuerpo. Para que no se le cuarteen, los mantiene hidratados a diario con savia de los árboles.",
+        "Espada": "En cuanto se le ensucia la cara, aunque sea un poco, se la lava con agua. En el resto del cuerpo, la suciedad no parece importarle mucho.",
+        "Escudo": "Este Pokémon rebosante de curiosidad lo toca todo con los labios para determinar qué cosas le gustan y cuáles no.",
+        "Diamante Brillante": "Analiza todo tocándolo con los labios, los cuales son capaces de recordar las cosas que le gustan y disgustan.",
+        "Perla Reluciente": "Analiza todo tocándolo con los labios, los cuales son capaces de recordar las cosas que le gustan y disgustan.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Smoochum",
+            "Nivel 30",
+            "Jynx"
+        ]
+    ]
+}

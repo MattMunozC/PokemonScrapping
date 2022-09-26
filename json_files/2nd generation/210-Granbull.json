@@ -1,0 +1,158 @@
+{
+    "dex number": "210",
+    "pokemon name": "Granbull",
+    "types": [
+        "hada"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Pies rápidos"
+    ],
+    "hidden abilities": [
+        "Cobardía"
+    ],
+    "stats": {
+        "hp": "90",
+        "atk": "120",
+        "def": "75",
+        "atk esp": "60",
+        "def esp": "60",
+        "speed": "45"
+    },
+    "location": {
+        "Oro": [
+            "Evolucionar: a Snubbull (nivel 23)."
+        ],
+        "Plata": [
+            "Evolucionar: a Snubbull (nivel 23)."
+        ],
+        "Cristal": [
+            "Salvaje, Mañana y día: Ruta 6."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Snubbull (nivel 23)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Diamante": [
+            "Evolucionar: a Snubbull (nivel 23).",
+            "Parque Compi: Zona Pradera"
+        ],
+        "Perla": [
+            "Evolucionar: a Snubbull (nivel 23).",
+            "Parque Compi: Zona Pradera"
+        ],
+        "Platino": [
+            "Evolucionar: a Snubbull (nivel 23).",
+            "Parque Compi: Zona Pradera"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Snubbull (nivel 23)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Snubbull (nivel 23)."
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino o Oro HeartGold y Plata Soulsilver.",
+            "Dream World: con la habilidad Cobardía."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino o Oro HeartGold y Plata Soulsilver.",
+            "Dream World: con la habilidad Cobardía."
+        ],
+        "Negro 2": [
+            "Salvaje: Claro oculto."
+        ],
+        "Blanco 2": [
+            "Salvaje: Claro oculto."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Snubbull (nivel 23)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Snubbull (nivel 23)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Salvaje: Antiguo Paso de Poni, Pendiente de Poni, Bosque de Poni y Prado de Poni."
+        ],
+        "Luna": [
+            "Salvaje: Antiguo Paso de Poni, Pendiente de Poni, Bosque de Poni y Prado de Poni."
+        ],
+        "Ultrasol": [
+            "Salvaje: Antiguo Paso de Poni, Pendiente de Poni y Prado de Poni."
+        ],
+        "Ultraluna": [
+            "Salvaje: Antiguo Paso de Poni, Pendiente de Poni y Prado de Poni."
+        ],
+        "Espada": [
+            "Granbull no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Granbull no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Snubbull (nivel 23)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Snubbull (nivel 23)."
+        ],
+        "Leyendas: Arceus": [
+            "Granbull no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Es muy tímido y asustadizo. Si se siente atacado, se moverá para evitar al enemigo.",
+        "Plata": "Debido a que sus colmillos son muy pesados, siempre va boca abajo. Su mordisco es muy potente.",
+        "Cristal": "Con sólo enseñar las fauces, conseguirá ahuyentar prácticamente a todos los Pokémon que se les cruce.",
+        "Rubí": "Granbull tiene la mandíbula inferior demasiado desarrollada y colmillos enormes y pesados que le obligan a inclinar la cabeza hacia atrás para compensar el peso. Si no se le asusta, no muerde.",
+        "Zafiro": "Granbull tiene la mandíbula inferior demasiado desarrollada y colmillos enormes y pesados que le obligan a inclinar la cabeza hacia atrás para compensar el peso. Si no se le asusta, no muerde.",
+        "Esmeralda": "Tiene una mandíbula inferior enorme y colmillos pesados que le hacen inclinar la cabeza hacia atrás para compensar el peso. Si no le asustan, no muerde.",
+        "Rojo Fuego": "Como le pesan mucho los colmillos, se le va la cabeza hacia delante. Su mordisco es muy potente.",
+        "Verde Hoja": "Es muy tímido y asustadizo. Si se siente atacado, se moverá para evitar al enemigo.",
+        "Diamante": "A pesar de su aspecto, es muy tímido. Sin embargo, cuando se enfada ataca con sus colmillos.",
+        "Perla": "A pesar de su aspecto, es muy tímido. Sin embargo, cuando se enfada ataca con sus colmillos.",
+        "Platino": "A pesar de su aspecto, es muy tímido. Sin embargo, cuando se enfada ataca con sus colmillos.",
+        "Oro HeartGold": "Es muy tímido y asustadizo. Si se siente atacado, se moverá para evitar al enemigo.",
+        "Plata SoulSilver": "Debido a sus pesados colmillos, siempre va con la cabeza baja. Su mordisco es muy potente.",
+        "Negro": "A pesar de su aspecto, es muy tímido. Sin embargo, cuando se enfada ataca con sus colmillos.",
+        "Blanco": "A pesar de su aspecto, es muy tímido. Sin embargo, cuando se enfada ataca con sus colmillos.",
+        "Negro 2": "A pesar de su aspecto, es muy tímido. Sin embargo, cuando se enfada ataca con sus colmillos.",
+        "Blanco 2": "A pesar de su aspecto, es muy tímido. Sin embargo, cuando se enfada ataca con sus colmillos.",
+        "Pokémon X": "A pesar de su aspecto, es muy tímido. Sin embargo, cuando se enfada, ataca con sus colmillos.",
+        "Pokémon Y": "Con sólo enseñar las fauces, conseguirá ahuyentar prácticamente a todos los Pokémon con los que se cruce.",
+        "Rubí Omega": "Granbull tiene la mandíbula inferior demasiado desarrollada y colmillos enormes y pesados que le obligan a inclinar la cabeza hacia atrás para compensar el peso. Si no se le asusta, no muerde.",
+        "Zafiro Alfa": "Granbull tiene la mandíbula inferior demasiado desarrollada y colmillos enormes y pesados que le obligan a inclinar la cabeza hacia atrás para compensar el peso. Si no se le asusta, no muerde.",
+        "Sol": "Ataca con su desarrollada mandíbula y sus enormes colmillos. Rara es la vez que muerde a alguien, a menos que le haya hecho enfadar.",
+        "Luna": "Es más miedica que Snubbull. Resulta muy popular entre la gente joven debido a su aspecto de duro y a su afable personalidad.",
+        "Ultrasol": "Su mandíbula posee una fuerza abrumadora, pero, como no le gusta pelear, rara vez tiene ocasión de demostrarlo.",
+        "Ultraluna": "Es muy popular entre la gente joven, pero su personalidad afable y algo miedosa hacen de él un pésimo guardián.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "A pesar de su aspecto, es muy tímido. Sin embargo, no duda en usar los colmillos para atacar si se enfada.",
+        "Perla Reluciente": "A pesar de su aspecto, es muy tímido. Sin embargo, no duda en usar los colmillos para atacar si se enfada.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Snubbull",
+            "Nivel 23",
+            "Granbull"
+        ]
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "dex number": "174",
+    "pokemon name": "Igglybuff",
+    "types": [
+        "normal",
+        "hada"
+    ],
+    "abilities": [
+        "Gran encanto",
+        "Tenacidad"
+    ],
+    "hidden abilities": [
+        "Compiescolta"
+    ],
+    "stats": {
+        "hp": "90",
+        "atk": "30",
+        "def": "15",
+        "atk esp": "40",
+        "def esp": "20",
+        "speed": "15"
+    },
+    "location": {
+        "Oro": [
+            "Criar: de Jigglypuff o Wigglytuff"
+        ],
+        "Plata": [
+            "Criar: de Jigglypuff o Wigglytuff"
+        ],
+        "Cristal": [
+            "Criar: de Jigglypuff o Wigglytuff",
+            "Especial: es una de las posibles crías que nacen del huevo extraño recibido en la guardería de la Ruta 34"
+        ],
+        "Rubí": [
+            "Criar: de Jigglypuff o Wigglytuff"
+        ],
+        "Zafiro": [
+            "Criar: de Jigglypuff o Wigglytuff"
+        ],
+        "Esmeralda": [
+            "Criar: de Jigglypuff o Wigglytuff"
+        ],
+        "Rojo Fuego": [
+            "Criar: de Jigglypuff o Wigglytuff"
+        ],
+        "Verde Hoja": [
+            "Criar: de Jigglypuff o Wigglytuff"
+        ],
+        "Diamante": [
+            "Salvaje: Jardín Trofeo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Salvaje: Jardín Trofeo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Salvaje: Jardín Trofeo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Criar: de Jigglypuff o Wigglytuff",
+            "Parque Compi: Zona pradera",
+            "Pokéwalker: Campo Amistad"
+        ],
+        "Plata SoulSilver": [
+            "Criar: de Jigglypuff o Wigglytuff",
+            "Parque Compi: Zona pradera",
+            "Pokéwalker: Campo Amistad"
+        ],
+        "Negro": [
+            "Criar: de Jigglypuff o Wigglytuff",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco": [
+            "Criar: de Jigglypuff o Wigglytuff",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Negro 2": [
+            "Criar: de Jigglypuff o Wigglytuff",
+            "RAdar Pokémon: Aparece tras capturar a Tornadus en gotas oníricas verdes o azules"
+        ],
+        "Blanco 2": [
+            "Criar: de Jigglypuff o Wigglytuff",
+            "RAdar Pokémon: Aparece tras capturar a Tornadus en gotas oníricas verdes o azules"
+        ],
+        "Pokémon X": [
+            "Criar: de Jigglypuff o Wigglytuff"
+        ],
+        "Pokémon Y": [
+            "Criar: de Jigglypuff o Wigglytuff"
+        ],
+        "Rubí Omega": [
+            "Criar: de Jigglypuff o Wigglytuff"
+        ],
+        "Zafiro Alfa": [
+            "Criar: de Jigglypuff o Wigglytuff"
+        ],
+        "Sol": [
+            "Salvaje: Ruta 4 y Ruta 6 (día)"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 4 y Ruta 6 (día)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 4 y Ruta 6 (día)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 4 y Ruta 6 (día)"
+        ],
+        "Espada": [
+            "Criar: de Jigglypuff o Wigglytuff",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración , Mar Andana  y Mar Islejos "
+        ],
+        "Escudo": [
+            "Criar: de Jigglypuff o Wigglytuff",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración , Mar Andana  y Mar Islejos "
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Jardín Trofeo."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Jardín Trofeo."
+        ],
+        "Leyendas: Arceus": [
+            "Igglybuff no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Su cuerpo es muy blando. Si se pone a rodar, rebotará contra todo y será imposible de parar.",
+        "Plata": "Su cuerpo realmente flexible y elástico le permite rebotar cuando sea y donde sea.",
+        "Cristal": "Para caminar, en lugar de usar los pies que tiene, opta por dar botes con su cuerpo redondo y blandito.",
+        "Rubí": "Las cuerdas vocales de Igglybuff no están suficientemente desarrolladas. Si tuviera que cantar mucho, se haría daño en la garganta. Este Pokémon suele hacer gárgaras con agua pura de manantial.",
+        "Zafiro": "Igglybuff es suave y tierno, parece un merengue. Emana un aroma dulce y agradable que le sirve para calmar los ánimos de sus oponentes en combate.",
+        "Esmeralda": "Es suave, flexible y capaz de botar. Cuando canta sin parar con todas sus fuerzas, se va poniendo de un color rosa cada vez más intenso.",
+        "Rojo Fuego": "Su cuerpo realmente flexible y elástico le permite rebotar cuando sea y donde sea.",
+        "Verde Hoja": "Su cuerpo es muy blando. Cuando se pone a rodar, rebota contra todo y es imposible de parar.",
+        "Diamante": "Su cuerpo es suave y está hinchado. Cuando empieza a botar, no puede parar.",
+        "Perla": "Su cuerpo es suave y está hinchado. Cuando empieza a botar, no puede parar.",
+        "Platino": "Su cuerpo es suave y está hinchado. Cuando empieza a botar, no puede parar.",
+        "Oro HeartGold": "Su cuerpo es muy blando. Si se pone a rodar, rebotará contra todo y será imposible de parar.",
+        "Plata SoulSilver": "Su cuerpo realmente flexible y elástico le permite rebotar cuando sea y donde sea.",
+        "Negro": "Su cuerpo es suave y está hinchado. Cuando empieza a botar, no puede parar.",
+        "Blanco": "Su cuerpo es suave y está hinchado. Cuando empieza a botar, no puede parar.",
+        "Negro 2": "Su cuerpo suave y elástico desprende un aroma ligeramente dulce. Cuando empieza a botar, no puede parar.",
+        "Blanco 2": "Su cuerpo suave y elástico desprende un aroma ligeramente dulce. Cuando empieza a botar, no puede parar.",
+        "Pokémon X": "Para caminar, en lugar de usar los pies que tiene, opta por dar botes con su cuerpo redondo y blandito.",
+        "Pokémon Y": "Su cuerpo es muy blando. Si se pone a rodar, rebotará contra todo y será imposible de parar.",
+        "Rubí Omega": "Las cuerdas vocales de Igglybuff no están suficientemente desarrolladas. Si tuviera que cantar mucho, se haría daño en la garganta. Este Pokémon suele hacer gárgaras con agua pura de manantial.",
+        "Zafiro Alfa": "Igglybuff es suave y tierno, parece un merengue. Emana un aroma dulce y agradable que le sirve para calmar los ánimos de sus oponentes en combate.",
+        "Sol": "Le apasiona cantar, pero no se le da muy bien. Cuantos más elogios reciba, más mejorarán sus dotes de cantante.",
+        "Luna": "Se desplaza dando botes con su cuerpo. Después de hacer mucho ejercicio, empieza a sudar y desprende un ligero aroma dulce.",
+        "Ultrasol": "Practica constantemente para mejorar su canto, llegando incluso a cantar en sueños.",
+        "Ultraluna": "Si le dejan, se pasa el día entero practicando su canto, así que conviene animarlo a descansar de vez en cuando para que no se destroce la voz.",
+        "Espada": "Le apasiona cantar. Su cuerpo suave y esponjoso desprende un aroma ligeramente dulce.",
+        "Escudo": "Se desplaza dando botes con su cuerpo mullido. Cuando aumenta su temperatura corporal, se va poniendo de un color rosa cada vez más intenso.",
+        "Diamante Brillante": "Su cuerpo es tan blando y elástico que, una vez que empieza a rebotar, ya no puede parar.",
+        "Perla Reluciente": "Su cuerpo es tan blando y elástico que, una vez que empieza a rebotar, ya no puede parar.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Igglybuff",
+            "Amistad + nivel",
+            "Jigglypuff",
+            "Piedra lunar ",
+            "Wigglytuff"
+        ]
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "dex number": "207",
+    "pokemon name": "Gligar",
+    "types": [
+        "tierra",
+        "volador"
+    ],
+    "abilities": [
+        "Corte fuerte",
+        "Velo arena"
+    ],
+    "hidden abilities": [
+        "Inmunidad"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "75",
+        "def": "105",
+        "atk esp": "35",
+        "def esp": "65",
+        "speed": "85"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje, Todo el día: Ruta 45."
+        ],
+        "Plata": [
+            "Intercambiar: de Oro o Cristal."
+        ],
+        "Cristal": [
+            "Salvaje, Todo el día: Ruta 45."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum y Pokémon XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum y Pokémon XD."
+        ],
+        "Esmeralda": [
+            "Salvaje: Zona Safari (extensión sur)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum y Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda, Pokémon Colosseum y Pokémon XD."
+        ],
+        "Diamante": [
+            "Salvaje: Rutas 206, 207, 214, 215, 227, Montaña Dura (Esmeralda insertado en la ranura para juegos de GBA), tras obtener la Pokédex nacional."
+        ],
+        "Perla": [
+            "Salvaje: Rutas 206, 207, 214, 215, 227, Montaña Dura (Esmeralda insertado en la ranura para juegos de GBA), tras obtener la Pokédex nacional."
+        ],
+        "Platino": [
+            "Salvaje: Ruta 206"
+        ],
+        "Oro HeartGold": [
+            "Salvaje, Todo el día: Ruta 45."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Oro HeartGold, Pokémon Diamante, Pokémon Perla y Pokémon Platino."
+        ],
+        "Negro": [
+            "Salvaje: Rutas 11 y 15."
+        ],
+        "Blanco": [
+            "Salvaje: Rutas 11 y 15."
+        ],
+        "Negro 2": [
+            "Salvaje: Rutas 11, 15 y 23.",
+            "Claro oculto: Ruta 23."
+        ],
+        "Blanco 2": [
+            "Salvaje: Rutas 11, 15 y 23.",
+            "Claro oculto: Ruta 23."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 19 (hordas)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 19 (hordas)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X, Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X, Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde Pokémon X y Pokémon Y, Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde Pokémon X y Pokémon Y, Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde Pokémon X y Pokémon Y, Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde Pokémon X y Pokémon Y, Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Espada": [
+            "Gligar no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Gligar no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Caverna Solana, Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Ladera Corona: Risco Riscoso, Ruinas Celestiales, Paso Píleo y Caverna Inmemorial. Tundra Alba: Terraza Glaciar y Senda de la Arena.",
+            "Pokémon alfa: Ruinas Celestiales."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Vuela directo a la cara del objetivo, y acaba con su aterrada víctima inyectándole veneno.",
+        "Plata": "A veces se sujeta a los precipicios. Cuando divisa una presa, despliega sus alas y planea para atacar.",
+        "Cristal": "Crea su nido en precipicios escarpados. Después de planear, va dando saltitos hasta llegar a su nido.",
+        "Rubí": "Gligar planea por el aire sin hacer ningún ruido, como si se deslizara. Este Pokémon se agarra a la cara de su rival con las patas traseras, con forma de garra, y las pinzas de las delanteras, inyectándole veneno por el aguijón.",
+        "Zafiro": "Gligar planea por el aire sin hacer ningún ruido, como si se deslizara. Este Pokémon se agarra a la cara de su rival con las patas traseras, con forma de garra, y las pinzas de las delanteras, inyectándole veneno por el aguijón.",
+        "Esmeralda": "Planea por el aire sin hacer ruido. Se agarra a la cara del rival con las garras traseras y las pinzas delanteras, inyectándole veneno por el aguijón.",
+        "Rojo Fuego": "A veces se sujeta a los precipicios. Cuando divisa una presa, despliega las alas y planea para atacar.",
+        "Verde Hoja": "Vuela directo a la cara de su aterrada víctima, y acaba con ella inyectándole veneno.",
+        "Diamante": "Ataca desde el aire con sus extremidades extendidas. Va directo a la cara de su oponente.",
+        "Perla": "Ataca desde el aire con sus extremidades extendidas. Va directo a la cara de su oponente.",
+        "Platino": "Se desliza y sorprende a sus enemigos lanzándose directamente a la cara para clavarles su aguijón.",
+        "Oro HeartGold": "Vuela directo a la cara del objetivo y acaba con su aterrada víctima inyectándole veneno.",
+        "Plata SoulSilver": "A veces se sujeta a los precipicios. Cuando divisa una presa, despliega sus alas y planea para atacar.",
+        "Negro": "Se desliza y sorprende a sus enemigos lanzándose directamente a la cara para clavarles su aguijón.",
+        "Blanco": "Se desliza y sorprende a sus enemigos lanzándose directamente a la cara para clavarles su aguijón.",
+        "Negro 2": "Se agarra a su presa con firmeza y, aprovechando su estupor, le clava el aguijón de su cola.",
+        "Blanco 2": "Se agarra a su presa con firmeza y, aprovechando su estupor, le clava el aguijón de su cola.",
+        "Pokémon X": "A veces se sujeta a los precipicios. Cuando divisa una presa, despliega las alas y planea para atacar.",
+        "Pokémon Y": "Vuela directo a la cara del objetivo y acaba con su aterrada víctima inyectándole veneno.",
+        "Rubí Omega": "Gligar planea por el aire sin hacer ningún ruido, como si se deslizara. Este Pokémon se agarra a la cara de su rival con las patas traseras, con forma de garra, y las pinzas de las delanteras, inyectándole veneno por el aguijón.",
+        "Zafiro Alfa": "Gligar planea por el aire sin hacer ningún ruido, como si se deslizara. Este Pokémon se agarra a la cara de su rival con las patas traseras, con forma de garra, y las pinzas de las delanteras, inyectándole veneno por el aguijón.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Planea con la ayuda de las membranas de sus extremidades y ataca lanzándose en picado contra el rostro del oponente.",
+        "Perla Reluciente": "Planea con la ayuda de las membranas de sus extremidades y ataca lanzándose en picado contra el rostro del oponente.",
+        "Leyendas: Arceus": "Se agarra a la cara de su presa y, aprovechando su falta de visión, acaba con ella inyectándole veneno con el grueso y temible aguijón de su cola."
+    },
+    "evolution": [
+        [
+            "Gligar",
+            "Nivel (noche) equipado con colmillo agudo ",
+            "Gliscor"
+        ]
+    ]
+}

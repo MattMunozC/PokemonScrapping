@@ -1,0 +1,178 @@
+{
+    "dex number": "195",
+    "pokemon name": "Quagsire",
+    "types": [
+        "agua",
+        "tierra"
+    ],
+    "abilities": [
+        "Absorbe agua",
+        "Humedad"
+    ],
+    "hidden abilities": [
+        "Ignorante"
+    ],
+    "stats": {
+        "hp": "95",
+        "atk": "85",
+        "def": "85",
+        "atk esp": "65",
+        "def esp": "65",
+        "speed": "35"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje Pescando o haciendo Surf en Rutas 10, 12, 13, 14, 15, 26, 27 y 32; Cuevas Plateada y Unión; Ruinas Alfa.",
+            "Evoluciona de Wooper (nivel 20)."
+        ],
+        "Plata": [
+            "Salvaje Pescando o haciendo Surf en Rutas 10, 12, 13, 14, 15, 26, 27 y 32; Cuevas Plateada y Unión; Ruinas Alfa.",
+            "Evoluciona de Wooper (nivel 20)."
+        ],
+        "Cristal": [
+            "Salvaje Pescando o haciendo Surf en Rutas 10, 12, 13, 14, 15, 26, 27 y 32; Cueva Unión y Ruinas Alfa.",
+            "Evoluciona de Wooper (nivel 20)."
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Esmeralda, Rojo Fuego, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Esmeralda, Rojo Fuego, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Esmeralda": [
+            "Salvaje, zona ampliada de la Zona Safari (Hoenn).",
+            "Evoluciona de Wooper (nivel 20)."
+        ],
+        "Rojo Fuego": [
+            "Evoluciona de Wooper (nivel 20)."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Esmeralda, Rojo Fuego, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Diamante": [
+            "Salvaje: ruta 212 (sur) y Gran Pantano",
+            "Evoluciona de Wooper (nivel 20)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Perla": [
+            "Salvaje: ruta 212 (sur) y Gran Pantano",
+            "Evoluciona de Wooper (nivel 20)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Platino": [
+            "Salvaje: ruta 212 (sur) y Gran Pantano.",
+            "Evoluciona de Wooper (nivel 20)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Oro HeartGold": [
+            "Evoluciona de Wooper (nivel 20).",
+            "Salvaje: Rutas 12, 13 y Ruta 32; Cuevas Monte Plateado, Acantilado y Unión; Paso Acantilado y Ruinas Alfa.",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Plata SoulSilver": [
+            "Evoluciona de Wooper (nivel 20).",
+            "Salvaje: Ruta 26.",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Negro": [
+            "Evoluciona de Wooper (nivel 20)."
+        ],
+        "Blanco": [
+            "Evoluciona de Wooper (nivel 20)."
+        ],
+        "Negro 2": [
+            "Manada: Solo en primavera, verano y otoño: Ruta 8."
+        ],
+        "Blanco 2": [
+            "Manada: Solo en primavera, verano y otoño: Ruta 8."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 14, Ruta 19 y Safari Amistad de tipo agua.",
+            "Evolucionar: de Wooper (nivel 20)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 14, Ruta 19 y Safari Amistad de tipo agua.",
+            "Evolucionar: de Wooper (nivel 20)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul."
+        ],
+        "Espada": [
+            "Salvaje: Gorro del Gigante (lluvia, tormenta), Humedal Frescor (Isla Armadura).",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur. Con posible habilidad oculta: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte) y Lago Axew (oeste), nido junto al puente (sur).",
+            "Evolucionar: de Wooper (nivel 20)."
+        ],
+        "Escudo": [
+            "Salvaje: Gorro del Gigante (lluvia, tormenta), Humedal Frescor (Isla Armadura).",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur. Con posible habilidad oculta: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte) y Lago Axew (oeste), nido junto al puente (sur).",
+            "Evolucionar: de Wooper (nivel 20)."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: ruta 212 (sur) y Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable.",
+            "Evoluciona de Wooper (nivel 20)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: ruta 212 (sur) y Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable.",
+            "Evoluciona de Wooper (nivel 20)."
+        ],
+        "Leyendas: Arceus": [
+            "Quagsire no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Este despreocupado Pokémon es de naturaleza tranquila. Siempre que nada, choca con los barcos.",
+        "Plata": "Debido a su despreocupada actitud, a menudo golpea su cabeza contra rocas o barcos al nadar.",
+        "Cristal": "Es resbaladizo. Suele chocarse contra el suelo al tirarse al río de cabeza, pero no le importa demasiado.",
+        "Rubí": "Quagsire caza dejando las fauces abiertas en el agua y esperando a que su presa entre sin darse cuenta. Como se queda quieto, el Pokémon no pasa mucha hambre.",
+        "Zafiro": "Quagsire caza dejando las fauces abiertas en el agua y esperando a que su presa entre sin darse cuenta. Como se queda quieto, el Pokémon no pasa mucha hambre.",
+        "Esmeralda": "Quagsire caza dejando las fauces abiertas en el agua y esperando a que su presa entre sin darse cuenta. Como se queda quieto, no pasa mucha hambre.",
+        "Rojo Fuego": "Debido a su despreocupada actitud, a menudo golpea su cabeza contra rocas o barcos al nadar.",
+        "Verde Hoja": "Este despreocupado Pokémon es de naturaleza tranquila. Siempre que nada, se choca con los barcos.",
+        "Diamante": "Es un Pokémon bastante perezoso. Para pescar permanece en el fondo del río con la boca abierta.",
+        "Perla": "Cuando la temperatura baja por la tarde, emerge del agua y va a la orilla en busca de comida.",
+        "Platino": "Es de naturaleza sencilla. Cuando nada se choca de cabeza contra barcos o rocas y no le importa.",
+        "Oro HeartGold": "Este despreocupado Pokémon es de naturaleza tranquila. Siempre que nada, choca con los barcos.",
+        "Plata SoulSilver": "Debido a su despreocupada actitud, a menudo golpea su cabeza contra rocas o barcos al nadar.",
+        "Negro": "Es de naturaleza sencilla. Cuando nada se choca de cabeza contra barcos o rocas y no le importa.",
+        "Blanco": "Es de naturaleza sencilla. Cuando nada se choca de cabeza contra barcos o rocas y no le importa.",
+        "Negro 2": "Es de naturaleza sencilla. Cuando nada se choca de cabeza contra barcos o rocas y no le importa.",
+        "Blanco 2": "Es de naturaleza sencilla. Cuando nada se choca de cabeza contra barcos o rocas y no le importa.",
+        "Pokémon X": "Es un Pokémon bastante perezoso. Para pescar permanece en el fondo del río con la boca abierta.",
+        "Pokémon Y": "Este despreocupado Pokémon es de naturaleza tranquila. Siempre que nada, choca con los barcos.",
+        "Rubí Omega": "Quagsire caza dejando las fauces abiertas en el agua y esperando a que su presa entre sin darse cuenta. Como se queda quieto, el Pokémon no pasa mucha hambre.",
+        "Zafiro Alfa": "Quagsire caza dejando las fauces abiertas en el agua y esperando a que su presa entre sin darse cuenta. Como se queda quieto, el Pokémon no pasa mucha hambre.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Es de naturaleza tranquila. Permanece impasible cuando, al nadar, choca de cabeza contra rocas de río o el casco de los barcos.",
+        "Escudo": "Su cuerpo siempre resulta escurridizo al tacto. Suele chocarse contra el lecho del río al nadar, pero no le importa demasiado.",
+        "Diamante Brillante": "Un Pokémon bastante perezoso, cuya técnica de pesca consiste en plantarse con la boca abierta en el fondo del río y esperar a que entre algo.",
+        "Perla Reluciente": "Un Pokémon poco avispado. Si se choca de cabeza contra un barco o una roca mientras está nadando, ni se inmuta.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Wooper",
+            "Nivel 20",
+            "Quagsire"
+        ]
+    ]
+}

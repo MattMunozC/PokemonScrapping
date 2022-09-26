@@ -1,0 +1,156 @@
+{
+    "dex number": "201",
+    "pokemon name": "Unown",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "48",
+        "atk": "72",
+        "def": "48",
+        "atk esp": "72",
+        "def esp": "48",
+        "speed": "48"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje: Ruinas Alfa"
+        ],
+        "Plata": [
+            "Salvaje: Ruinas Alfa"
+        ],
+        "Cristal": [
+            "Salvaje: Ruinas Alfa"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rojo Fuego o Pokémon Verde Hoja"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Ruinas Sete, después de resolver el puzzle de Llave Sete"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Ruinas Sete, después de resolver el puzzle de Llave Sete"
+        ],
+        "Diamante": [
+            "Salvaje: Ruinas Sosiego",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Salvaje: Ruinas Sosiego",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje: Ruinas Sosiego",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Ruinas Alfa",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Ruinas Alfa",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Espejismo al sur de la ruta 107."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Espejismo al sur de la ruta 107."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Unown no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Unown no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Ruinas Sosiego."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Ruinas Sosiego."
+        ],
+        "Leyendas: Arceus": [
+            "Especial: Se encuentran en toda la región (ver articulo)",
+            "Salvaje: Ruinas Sosiego (al completar la Pokédex Unown)"
+        ]
+    },
+    "pokedex": {
+        "Oro": "Tienen forma de jeroglíficos sobre lápidas antiguas. Dicen que ambos están relacionados.",
+        "Plata": "Su cuerpo fino y plano aparece siempre en los muros. Su forma parece tener algún significado.",
+        "Cristal": "Se dice que, como hay muchos tipos de Unown, deben de tener numerosas y variadas habilidades.",
+        "Rubí": "Este Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero: si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.",
+        "Zafiro": "Este Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero: si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.",
+        "Esmeralda": "Tienen forma de caracteres antiguos. No se sabe qué surgió primero: la escritura o los distintos Unown, pero se sigue investigando.",
+        "Rojo Fuego": "Su cuerpo fino y plano aparece siempre en los muros. Su forma parece tener algún significado.",
+        "Verde Hoja": "Tienen forma de jeroglíficos sobre lápidas antiguas. Dicen que ambos están relacionados.",
+        "Diamante": "Tienen forma de letras antiguas. Se desconoce qué fue antes: si la escritura o los Unown.",
+        "Perla": "Parecen comunicarse entre ellos telepáticamente. Siempre están pegados a las paredes.",
+        "Platino": "Si están en solitario no pasa nada, pero si se juntan dos o más, se dice que surge un extraño poder.",
+        "Oro HeartGold": "Tienen forma de jeroglíficos sobre lápidas antiguas. Dicen que ambos están relacionados.",
+        "Plata SoulSilver": "Su cuerpo fino y plano aparece siempre en los muros. Su forma parece tener algún significado.",
+        "Negro": "Si están en solitario no pasa nada, pero si se juntan dos o más, se dice que surge un extraño poder.",
+        "Blanco": "Si están en solitario no pasa nada, pero si se juntan dos o más, se dice que surge un extraño poder.",
+        "Negro 2": "Si están en solitario no pasa nada, pero si se juntan dos o más, se dice que surge un extraño poder.",
+        "Blanco 2": "Si están en solitario no pasa nada, pero si se juntan dos o más, se dice que surge un extraño poder.",
+        "Pokémon X": "Su cuerpo fino y plano aparece siempre en los muros. Su forma parece tener algún significado.",
+        "Pokémon Y": "Tienen forma de letras antiguas. Se desconoce qué fue antes: si la escritura o los Unown.",
+        "Rubí Omega": "Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.",
+        "Zafiro Alfa": "Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Su aspecto evoca las letras de una antigua civilización. Se desconoce qué fue antes: si la escritura o los Unown.",
+        "Perla Reluciente": "Vive adherido a muros y parece comunicarse con los suyos mediante telepatía.",
+        "Leyendas: Arceus": "Dada su apariencia extraña, dudo que sea un ser vivo. Mi teoría de que las diversas formas que existen podrían estar basadas en un alfabeto foráneo no ha recibido ningún respaldo."
+    },
+    "evolution": [
+        [
+            "Unown"
+        ]
+    ]
+}

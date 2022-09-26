@@ -1,0 +1,164 @@
+{
+    "dex number": "167",
+    "pokemon name": "Spinarak",
+    "types": [
+        "bicho",
+        "veneno"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Insomnio"
+    ],
+    "hidden abilities": [
+        "Francotirador"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "60",
+        "def": "40",
+        "atk esp": "40",
+        "def esp": "40",
+        "speed": "30"
+    },
+    "location": {
+        "Oro": [
+            "Salvaje:: rutas 2, 30, 31 y 37 (por la noche)"
+        ],
+        "Plata": [
+            "Intercambiar: de Pokémon Oro o Pokémon Cristal"
+        ],
+        "Cristal": [
+            "Salvaje: rutas 2, 30, 31, 36 y 37 y Parque Nacional (por la noche). Usando golpe cabeza en árboles de Johto (todo el día)"
+        ],
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego, Pokémon Verde Hoja, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Esmeralda": [
+            "Salvaje: Zona Safari"
+        ],
+        "Rojo Fuego": [
+            "Salvaje: Bosquejo"
+        ],
+        "Verde Hoja": [
+            "Salvaje: Bosquejo"
+        ],
+        "Diamante": [
+            "Criar: de Ariados",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Criar: de Ariados",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Criar: de Ariados",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Rutas 30, 31 y 37 (por la noche). Ruta 2 (por la mañana y noche)",
+            "Golpe cabeza: Rutas 1, 2, 12, 13, 14, 15, 18, 21, 22, 26, 27, 29, 30, 31, 34, 35, 36, 37, 38, 39, 47, 48, Bosque Verde, Ciudad Verde, Ciudad Fucsia, Pueblo Paleta, Ciudad Cerezo, Ciudad Iris, Pueblo Primavera, Parque Nacional y Zona Safari",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Oro HeartGold",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Criar: de Ariados",
+            "Dream World: Villa Antigua"
+        ],
+        "Blanco": [
+            "Criar: de Ariados",
+            "Dream World: Villa Antigua"
+        ],
+        "Negro 2": [
+            "Criar: de Ariados",
+            "Dream World: Villa Antigua"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro, Pokémon Blanco o Pokémon Negro 2.",
+            "Dream World: Villa Antigua"
+        ],
+        "Pokémon X": [
+            "Criar: de Ariados"
+        ],
+        "Pokémon Y": [
+            "Criar: de Ariados"
+        ],
+        "Rubí Omega": [
+            "Criar: de Ariados"
+        ],
+        "Zafiro Alfa": [
+            "Criar: de Ariados"
+        ],
+        "Sol": [
+            "Salvaje: Ruta 1 (por la noche)"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 1 (por la noche)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 1 (por la noche)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 1 (por la noche)"
+        ],
+        "Espada": [
+            "Spinarak no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Spinarak no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Criar: de Ariados."
+        ],
+        "Perla Reluciente": [
+            "Criar: de Ariados."
+        ],
+        "Leyendas: Arceus": [
+            "Spinarak no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Oro": "Mantiene la misma postura en su telaraña durante días, esperando a que se acerque una presa inocente.",
+        "Plata": "Teje su telaraña con hilo fino pero resistente. Espera pacientemente a que caiga su presa.",
+        "Cristal": "Atrapa a su presa en su telaraña. Deja que caiga en ella y espera inmóvil a que se haga de noche.",
+        "Rubí": "La tela que teje Spinarak puede considerarse como su segundo sistema nervioso. Dicen que puede adivinar qué tipo de presa ha caído en su red con sólo observar las leves vibraciones de los hilos de la tela.",
+        "Zafiro": "La tela que teje Spinarak puede considerarse como su segundo sistema nervioso. Dicen que puede adivinar qué tipo de presa ha caído en su red con sólo observar las leves vibraciones de los hilos de la tela.",
+        "Esmeralda": "La tela que teje puede considerarse como su segundo sistema nervioso. Dicen que adivina qué presa ha caído en su red por las vibraciones de los hilos de la tela.",
+        "Rojo Fuego": "Teje su telaraña con hilo fino pero resistente. Espera pacientemente a que caiga su presa.",
+        "Verde Hoja": "Mantiene la misma postura en su telaraña durante días, esperando a que se acerque una presa inocente.",
+        "Diamante": "Pone trampas tejiendo una red de seda fina y resistente y luego espera inmóvil a su presa.",
+        "Perla": "Pone trampas tejiendo una red de seda fina y resistente y luego espera inmóvil a su presa.",
+        "Platino": "Pone trampas tejiendo una red de seda fina y resistente y luego espera inmóvil a su presa.",
+        "Oro HeartGold": "Mantiene la misma postura en su telaraña durante días, esperando a que se acerque una presa inocente.",
+        "Plata SoulSilver": "Teje su telaraña con hilo fino pero resistente. Espera pacientemente a que caiga su presa.",
+        "Negro": "Pone trampas tejiendo una red de seda fina y resistente y luego espera inmóvil a su presa.",
+        "Blanco": "Pone trampas tejiendo una red de seda fina y resistente y luego espera inmóvil a su presa.",
+        "Negro 2": "Pone trampas tejiendo una red de seda fina y resistente y luego espera inmóvil a su presa.",
+        "Blanco 2": "Pone trampas tejiendo una red de seda fina y resistente y luego espera inmóvil a su presa.",
+        "Pokémon X": "Teje su telaraña con hilo fino pero resistente. Espera pacientemente a que caiga su presa.",
+        "Pokémon Y": "Mantiene la misma postura en su telaraña durante días, esperando a que se acerque una presa inocente.",
+        "Rubí Omega": "La tela que teje Spinarak puede considerarse como su segundo sistema nervioso. Dicen que puede adivinar qué tipo de presa ha caído en su red con sólo observar las leves vibraciones de los hilos de la tela.",
+        "Zafiro Alfa": "La tela que teje Spinarak puede considerarse como su segundo sistema nervioso. Dicen que puede adivinar qué tipo de presa ha caído en su red con sólo observar las leves vibraciones de los hilos de la tela.",
+        "Sol": "Espera con determinación hasta que un Cutiefly cae en su telaraña, pues es su comida favorita. Es un Pokémon extremadamente paciente.",
+        "Luna": "Algunos pescadores confeccionan redes para pescar Pokémon pez con la robusta telaraña que produce Spinarak.",
+        "Ultrasol": "Segrega un hilo de increíble resistencia con el que teje su tela, capaz de soportar el peso de una roca de 10 kg sin romperse.",
+        "Ultraluna": "El veneno de sus colmillos no es demasiado tóxico, pero basta para mantener inmovilizadas a las presas que caen en sus redes.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Pone trampas tejiendo una red de seda fina y resistente y luego espera inmóvil a que sus presas caigan en ella.",
+        "Perla Reluciente": "Pone trampas tejiendo una red de seda fina y resistente y luego espera inmóvil a que sus presas caigan en ella.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Spinarak",
+            "Nivel 22",
+            "Ariados"
+        ]
+    ]
+}
