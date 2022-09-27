@@ -1,0 +1,167 @@
+{
+    "dex number": "268",
+    "pokemon name": "Cascoon",
+    "types": [
+        "bicho"
+    ],
+    "abilities": [
+        "Mudar"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "50",
+        "atk": "35",
+        "def": "55",
+        "atk esp": "25",
+        "def esp": "25",
+        "speed": "15"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Bosque Petalia.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Zafiro": [
+            "Salvaje: Bosque Petalia.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Bosque Petalia.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Intercambiar: de Perla.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Salvaje: en los árboles en los que se puede untar miel (a menudo), Bosque Vetusto.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje: en los árboles en los que se puede untar miel (a menudo), Ruta 205 (zona norte), Bosque Vetusto.",
+            "Evolucionar: de Wurmple (nivel 7,",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Concurso de captura de bichos, después de obtener la Pokédex Nacional.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Concurso de captura de bichos, después de obtener la Pokédex Nacional.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Intercambiar: De Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Evolucionar: de Wurmple (nivel 7, según sus genes)"
+        ],
+        "Negro 2": [
+            "Intercambiar: De Pokémon Blanco."
+        ],
+        "Blanco 2": [
+            "Intercambiar: De Pokémon Blanco."
+        ],
+        "Pokémon X": [
+            "Salvaje: Safari Amistad.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Safari Amistad.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque Petalia.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque Petalia.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Cascoon no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Cascoon no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: en los árboles en los que se puede untar miel (a menudo) y Bosque Vetusto.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Campo Aromaflor y Bosque Recóndito.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Cascoon forma el capullo que lo protege enrollándose por completo en la seda que libera por la boca. Cuando está totalmente recubierto, se prepara para evolucionar en el interior del capullo.",
+        "Zafiro": "Si atacan a Cascoon, se queda inmóvil aunque le hayan hecho mucho daño. Y es que, si se moviera, perdería fuerzas para evolucionar. Aunque nunca olvida el daño que le han hecho.",
+        "Esmeralda": "Para evitar que el enemigo lo descubra, se oculta inmóvil debajo de hojas grandes o entre ramas. También se recubre de hojas secas para camuflarse.",
+        "Rojo Fuego": "Está formado por seda que se endurece poco a poco. Si se resquebraja el capullo, está a punto de evolucionar.",
+        "Verde Hoja": "Está formado por seda que se endurece poco a poco. Si se resquebraja el capullo, está a punto de evolucionar.",
+        "Diamante": "Mantiene el calor en su capullo. Dedica todas las células de su cuerpo a evolucionar.",
+        "Perla": "Se esconde en su duro capullo para repeler ataques. No olvida nunca a sus enemigos.",
+        "Platino": "Jamás olvida a quienes lo atacaron mientras estaba en su capullo. Cuando evoluciona busca venganza.",
+        "Oro HeartGold": "Aguanta los ataques enemigos sin moverse pero ese dolor lo hace más fuerte al evolucionar.",
+        "Plata SoulSilver": "Aguanta los ataques enemigos sin moverse pero ese dolor lo hace más fuerte al evolucionar.",
+        "Negro": "Jamás olvida a quienes lo atacaron mientras estaba en su capullo. Cuando evoluciona busca venganza.",
+        "Blanco": "Jamás olvida a quienes lo atacaron mientras estaba en su capullo. Cuando evoluciona busca venganza.",
+        "Negro 2": "Jamás olvida a quienes lo atacaron mientras estaba en su capullo. Cuando evoluciona busca venganza.",
+        "Blanco 2": "Jamás olvida a quienes lo atacaron mientras estaba en su capullo. Cuando evoluciona busca venganza.",
+        "Pokémon X": "Está formado por seda que se endurece poco a poco. Si se resquebraja el capullo, está a punto de evolucionar.",
+        "Pokémon Y": "Jamás olvida a quienes lo atacaron mientras estaba en su capullo. Cuando evoluciona busca venganza.",
+        "Rubí Omega": "Cascoon forma el capullo que lo protege enrollándose por completo en la seda que libera por la boca. Cuando está totalmente recubierto, se prepara para evolucionar en el interior del capullo.",
+        "Zafiro Alfa": "Si atacan a Cascoon, se queda inmóvil aunque le hayan hecho mucho daño. Y es que, si se moviera, perdería fuerzas para evolucionar. Aunque nunca olvida el daño que le han hecho.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "La temperatura del interior del capullo es muy elevada, pues todas las células de su cuerpo generan la energía necesaria para evolucionar.",
+        "Perla Reluciente": "Protegido por el duro capullo que lo envuelve, soporta inmóvil los ataques, pero no olvida jamás a sus enemigos.",
+        "Leyendas: Arceus": "La seda que lo envuelve es fina pero resistente, y de un color y un lustre superiores a la de Silcoon. Las prendas hechas con ella son muy apreciadas."
+    },
+    "evolution": [
+        [
+            "Wurmple",
+            "Nivel 7",
+            "Silcoon",
+            "",
+            "Nivel 10",
+            "Beautifly"
+        ],
+        [
+            "",
+            "Nivel 7",
+            "Cascoon",
+            "",
+            "Nivel 10",
+            "Dustox"
+        ]
+    ]
+}

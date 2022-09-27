@@ -1,0 +1,154 @@
+{
+    "dex number": "320",
+    "pokemon name": "Wailmer",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Velo agua",
+        "Despiste"
+    ],
+    "hidden abilities": [
+        "Presión"
+    ],
+    "stats": {
+        "hp": "130",
+        "atk": "70",
+        "def": "35",
+        "atk esp": "70",
+        "def esp": "35",
+        "speed": "60"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje, pescando con caña buena y supercaña: rutas 103, 105, 106, 107, 108, 109, 110, 115, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Caverna Abisal, Pueblo Oromar, Ciudad Colosalia."
+        ],
+        "Zafiro": [
+            "Salvaje, pescando con caña buena y supercaña: rutas 103, 105, 106, 107, 108, 109, 110, 115, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Caverna Abisal, Pueblo Oromar, Ciudad Colosalia."
+        ],
+        "Esmeralda": [
+            "Salvaje, pescando con caña buena y supercaña: rutas 103, 105, 106, 107, 108, 109, 110, 115, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Caverna Abisal, Pueblo Oromar, Ciudad Colosalia."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje, pescando con supercaña: rutas 223 y 230.",
+            "Parque Compi: Zona marina."
+        ],
+        "Perla": [
+            "Salvaje, pescando con supercaña: rutas 223 y 230.",
+            "Parque Compi: Zona marina."
+        ],
+        "Platino": [
+            "Salvaje, pescando con supercaña: rutas 223 y 230.",
+            "Parque Compi: Zona marina."
+        ],
+        "Oro HeartGold": [
+            "Especial: Transferir desde el PokéWalker.Zona: Playa Cálida",
+            "Intercambiar: de Pokémon Diamante, Perla o Platino.",
+            "Parque Compi: Zona marina."
+        ],
+        "Plata SoulSilver": [
+            "Especial: Transferir desde el PokéWalker.Zona: Playa Cálida",
+            "Intercambiar: de Pokémon Diamante, Perla o Platino.",
+            "Parque Compi: Zona marina."
+        ],
+        "Negro": [
+            "Salvaje: Pueblo Arenisca y Bahía Arenisca haciendo surf."
+        ],
+        "Blanco": [
+            "Salvaje: Pueblo Arenisca y Bahía Arenisca haciendo surf."
+        ],
+        "Negro 2": [
+            "Salvaje: Surfeando, en sombra de agua en Bahía Arenisca."
+        ],
+        "Blanco 2": [
+            "Salvaje: Surfeando, en sombra de agua en Bahía Arenisca."
+        ],
+        "Pokémon X": [
+            "Surf: Ruta 8."
+        ],
+        "Pokémon Y": [
+            "Surf: Ruta 8."
+        ],
+        "Rubí Omega": [
+            "Salvaje, pescando con caña buena y supercaña: rutas 103, 105, 106, 107, 108, 109, 110, 115, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Caverna Abisal, Pueblo Oromar, Ciudad Colosalia, Calle Victoria."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje, pescando con caña buena y supercaña: rutas 103, 105, 106, 107, 108, 109, 110, 115, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Cueva Cardumen, Ciudad Algaria, Caverna Abisal, Pueblo Oromar, Ciudad Colosalia, Calle Victoria."
+        ],
+        "Sol": [
+            "Pescando: Arrecife de Poni, Prado de Poni y Aldea Marina",
+            "Surf: Prado de Poni"
+        ],
+        "Luna": [
+            "Pescando: Arrecife de Poni, Prado de Poni y Aldea Marina",
+            "Surf: Prado de Poni"
+        ],
+        "Ultrasol": [
+            "Pescando: Arrecife de Poni y Aldea Marina",
+            "Surf: Arrecife de Poni"
+        ],
+        "Ultraluna": [
+            "Pescando: Arrecife de Poni y Aldea Marina",
+            "Surf: Arrecife de Poni"
+        ],
+        "Espada": [
+            "Surfeando o pescando: Ruta 9 (Bahía de Auriga)",
+            "Incursiones Dinamax: Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna."
+        ],
+        "Escudo": [
+            "Surfeando o pescando: Ruta 9 (Bahía de Auriga)",
+            "Incursiones Dinamax: Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna."
+        ],
+        "Diamante Brillante": [
+            "Pescando con supercaña: rutas 223 y 230."
+        ],
+        "Perla Reluciente": [
+            "Pescando con supercaña: rutas 223 y 230."
+        ],
+        "Leyendas: Arceus": [
+            "Wailmer no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Wailmer tiene los espiráculos encima de la cabeza. A este juguetón Pokémon le encanta asustar a la gente expulsando el agua que acumula a través de estos orificios.",
+        "Zafiro": "Wailmer puede almacenar agua dentro de su organismo para convertirse en una pelota y botar por tierra firme. Cuanta más agua trague, mayor altura alcanzará al saltar.",
+        "Esmeralda": "Aunque este Pokémon vive generalmente en el mar, puede sobrevivir en tierra, pero durante poco tiempo. Si se le seca el cuerpo, pierde vitalidad.",
+        "Rojo Fuego": "Cuando traga una gran cantidad de agua, se hincha y se convierte en una pelota. Necesita 1 tonelada de alimento al día.",
+        "Verde Hoja": "Cuando traga una gran cantidad de agua, se hincha y se convierte en una pelota. Necesita 1 tonelada de alimento al día.",
+        "Diamante": "En días soleados se tumba en las playas para jugar y botar como una pelota. Lanza agua por la nariz.",
+        "Perla": "En días soleados se tumba en las playas para jugar y botar como una pelota. Lanza agua por la nariz.",
+        "Platino": "En días soleados se tumba en las playas para jugar y botar como una pelota. Lanza agua por la nariz.",
+        "Oro HeartGold": "Le gusta botar como una pelota de playa. Cuanta más agua de mar traga, más alto puede llegar.",
+        "Plata SoulSilver": "Le gusta botar como una pelota de playa. Cuanta más agua de mar traga, más alto puede llegar.",
+        "Negro": "En días soleados se tumba en las playas para jugar y botar como una pelota. Lanza agua por la nariz.",
+        "Blanco": "En días soleados se tumba en las playas para jugar y botar como una pelota. Lanza agua por la nariz.",
+        "Negro 2": "Engulle una tonelada de comida al día. Le gusta jugar expulsando con energía el agua marina por sus espiráculos.",
+        "Blanco 2": "Engulle una tonelada de comida al día. Le gusta jugar expulsando con energía el agua marina por sus espiráculos.",
+        "Pokémon X": "Le gusta botar como una pelota de playa. Cuanta más agua de mar traga, más alto puede llegar.",
+        "Pokémon Y": "Engulle una tonelada de comida al día. Le gusta jugar expulsando con energía el agua marina por sus espiráculos.",
+        "Rubí Omega": "Wailmer tiene los espiráculos encima de la cabeza. A este juguetón Pokémon le encanta asustar a la gente expulsando el agua que acumula a través de estos orificios.",
+        "Zafiro Alfa": "Wailmer puede almacenar agua dentro de su organismo para convertirse en una pelota y botar por tierra firme. Cuanta más agua trague, mayor altura alcanzará al saltar.",
+        "Sol": "A este Pokémon le gusta dar sustos a la gente. Se divierte tragando mucha agua de mar para hincharse como una bola y dar grandes saltos.",
+        "Luna": "Wailmer se come una tonelada de Wishiwashi cada día. Le gusta llamar la atención expulsando chorros de agua marina por su espiráculo.",
+        "Ultrasol": "Nada con la boca abierta para engullir alimento y cantidades ingentes de agua de mar, cuyo exceso expulsa luego por el espiráculo.",
+        "Ultraluna": "En raras ocasiones, bancos enteros quedan varados en la playa, tal vez debido a que en un pasado vivía en tierra firme.",
+        "Espada": "Wailmer se come una tonelada de Wishiwashi cada día. Le gusta llamar la atención expulsando chorros de agua marina por su espiráculo.",
+        "Escudo": "Cuando traga una gran cantidad de agua marina, se hincha hasta parecer una pelota. Necesita una tonelada de alimento al día.",
+        "Diamante Brillante": "En días soleados juega en la playa botando como una pelota. Lanza agua por sus espiráculos.",
+        "Perla Reluciente": "En días soleados juega en la playa botando como una pelota. Lanza agua por sus espiráculos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Wailmer",
+            "Nivel 40",
+            "Wailord"
+        ]
+    ]
+}

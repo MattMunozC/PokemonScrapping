@@ -1,0 +1,151 @@
+{
+    "dex number": "254",
+    "pokemon name": "Sceptile",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Liviano"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "85",
+        "def": "65",
+        "atk esp": "105",
+        "def esp": "85",
+        "speed": "120"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Grovyle (nivel 36)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Grovyle (nivel 36)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Grovyle (nivel 36)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Grovyle (nivel 36).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Grovyle (nivel 36).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Grovyle (nivel 36)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Grovyle (nivel 36)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Evolucionar: de Grovyle (nivel 36)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: de Grovyle (nivel 36)."
+        ],
+        "Espada": [
+            "Aventura Dinamax ",
+            "Evolucionar: de Grovyle (nivel 36)."
+        ],
+        "Escudo": [
+            "Aventura Dinamax ",
+            "Evolucionar: de Grovyle (nivel 36)."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Grovyle (nivel 36)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Grovyle (nivel 36)."
+        ],
+        "Leyendas: Arceus": [
+            "Sceptile no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Las hojas que le salen a Sceptile del cuerpo tienen unos bordes muy afilados. Este Pokémon es muy ágil, va saltando de rama en rama y se lanza sobre el enemigo por la espalda.",
+        "Zafiro": "A Sceptile le crecen en la espalda unas semillas llenas de nutrientes que sirven para revitalizar los árboles. De hecho, se dedica a cuidarlos con mimo para que crezcan bien.",
+        "Esmeralda": "Cuando está en la selva, posee una fuerza sin igual. Este Pokémon se ocupa de que los árboles y las plantas crezcan bien. Regula su temperatura corporal con la luz del sol.",
+        "Rojo Fuego": "A Sceptile le crecen en la espalda unas semillas llenas de nutrientes que sirven para revitalizar los árboles. De hecho, se dedica a cuidarlos con mimo para que crezcan bien.",
+        "Verde Hoja": "A Sceptile le crecen en la espalda unas semillas llenas de nutrientes que sirven para revitalizar los árboles. De hecho, se dedica a cuidarlos con mimo para que crezcan bien.",
+        "Diamante": "Las hojas de sus brazos pueden cortar gruesos árboles. Invencible en los combates en la jungla.",
+        "Perla": "Las hojas de sus brazos pueden cortar gruesos árboles. Invencible en los combates en la jungla.",
+        "Platino": "Las hojas de sus brazos pueden cortar gruesos árboles. Invencible en los combates en la jungla.",
+        "Oro HeartGold": "Corre con elegancia de un lugar a otro de la selva y usa las afiladas hojas de sus brazos para cazar.",
+        "Plata SoulSilver": "Corre con elegancia de un lugar a otro de la selva y usa las afiladas hojas de sus brazos para cazar.",
+        "Negro": "Las hojas de sus brazos pueden cortar gruesos árboles. Invencible en los combates en la jungla.",
+        "Blanco": "Las hojas de sus brazos pueden cortar gruesos árboles. Invencible en los combates en la jungla.",
+        "Negro 2": "Las hojas de sus brazos pueden cortar gruesos árboles. Invencible en los combates en la jungla.",
+        "Blanco 2": "Las hojas de sus brazos pueden cortar gruesos árboles. Invencible en los combates en la jungla.",
+        "Pokémon X": "Las hojas de sus brazos pueden cortar gruesos árboles. Invencible en los combates en la jungla.",
+        "Pokémon Y": "Corre con elegancia de un lugar a otro de la selva y usa las afiladas hojas de sus brazos para cazar.",
+        "Rubí Omega": "Las hojas que le salen a Sceptile del cuerpo tienen unos bordes muy afilados. Este Pokémon es muy ágil, va saltando de rama en rama y se lanza sobre el enemigo por la espalda.",
+        "Zafiro Alfa": "A Sceptile le crecen en la espalda unas semillas llenas de nutrientes que sirven para revitalizar los árboles. De hecho, se dedica a cuidarlos con mimo para que crezcan bien.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Las hojas que tiene en los brazos son tan afiladas que pueden cortar gruesos árboles. Es invencible cuando combate en la selva.",
+        "Perla Reluciente": "Las hojas que tiene en los brazos son tan afiladas que pueden cortar gruesos árboles. Es invencible cuando combate en la selva.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Treecko",
+            "Nivel 16",
+            "Grovyle",
+            "Nivel 36",
+            "Sceptile"
+        ]
+    ]
+}

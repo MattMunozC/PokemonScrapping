@@ -1,0 +1,155 @@
+{
+    "dex number": "357",
+    "pokemon name": "Tropius",
+    "types": [
+        "planta",
+        "volador"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Poder solar"
+    ],
+    "hidden abilities": [
+        "Cosecha"
+    ],
+    "stats": {
+        "hp": "99",
+        "atk": "68",
+        "def": "83",
+        "atk esp": "72",
+        "def esp": "87",
+        "speed": "51"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Ruta 119"
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 119"
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 119"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon Colosseum"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon Colosseum"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Platino",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Platino",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Salvaje, mañana y día: Gran Pantano",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Platino",
+            "Pokéwalker: Gran Bosque",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Platino",
+            "Pokéwalker: Gran Bosque",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Salvaje: Ruta 14",
+            "Dream World: Alto Cielo"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 14",
+            "Dream World: Alto Cielo"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 18",
+            "Dream World: Alto Cielo"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 18",
+            "Dream World: Alto Cielo"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo volador"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo volador"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 119 y Ruta 120"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 119 y Ruta 120"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Isla Exeggutor",
+            "Poké Resort: Cayo Recreo, tras superar la Liga Pokémon"
+        ],
+        "Ultraluna": [
+            "Salvaje: Isla Exeggutor",
+            "Poké Resort: Cayo Recreo, tras superar la Liga Pokémon"
+        ],
+        "Espada": [
+            "Tropius no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Tropius no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable."
+        ],
+        "Leyendas: Arceus": [
+            "Tropius no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "A los niños les encantan los racimos de fruta que Tropius tiene en el cuello. Este Pokémon siempre come fruta; le encanta. De hecho, ése parece ser el motivo por el que él mismo da fruta.",
+        "Zafiro": "Los niños de la zona sur de los trópicos se comen los racimos de fruta que le crecen a Tropius alrededor del cuello. Este Pokémon vuela batiendo las hojas que tiene en el lomo como si fueran alas.",
+        "Esmeralda": "Logra volar agitando sus amplias hojas. El racimo de fruta que le crece alrededor del cuello es de una dulzura exquisita. En primavera, libera polen por el cuello.",
+        "Rojo Fuego": "Habita las junglas tropicales. Los racimos de fruta que le rodean el cuello son deliciosos. Da fruto dos veces al año.",
+        "Verde Hoja": "Habita las junglas tropicales. Los racimos de fruta que le rodean el cuello son deliciosos. Da fruto dos veces al año.",
+        "Diamante": "Como solo comía su fruta favorita, al final terminó creciéndole en su propio cuello.",
+        "Perla": "Como solo comía su fruta favorita, al final terminó creciéndole en su propio cuello.",
+        "Platino": "Como solo comía un tipo de fruta, al final acabó creciéndole en el cuello.",
+        "Oro HeartGold": "Los racimos de su cuello dan fruto cada 6 meses. A los niños de zonas tropicales les encanta su dulzor.",
+        "Plata SoulSilver": "Los racimos de su cuello dan fruto cada 6 meses. A los niños de zonas tropicales les encanta su dulzor.",
+        "Negro": "Como solo comía un tipo de fruta, al final acabó creciéndole en el cuello.",
+        "Blanco": "Como solo comía un tipo de fruta, al final acabó creciéndole en el cuello.",
+        "Negro 2": "Puede volar al agitar sus grandes hojas. Reparte entre los niños la codiciada fruta dulce que crece de su cuello.",
+        "Blanco 2": "Puede volar al agitar sus grandes hojas. Reparte entre los niños la codiciada fruta dulce que crece de su cuello.",
+        "Pokémon X": "Puede volar al agitar sus grandes hojas. Reparte entre los niños la codiciada fruta dulce que crece de su cuello.",
+        "Pokémon Y": "Los racimos de su cuello dan fruto cada seis meses. A los niños de zonas tropicales les encantan su dulzor.",
+        "Rubí Omega": "A los niños les encantan los racimos de fruta que Tropius tiene en el cuello. Este Pokémon siempre come fruta; le encanta. De hecho, ese parece ser el motivo por el que él mismo da fruta.",
+        "Zafiro Alfa": "Los niños de la zona sur de los trópicos se comen los racimos de fruta que le crecen a Tropius alrededor del cuello. Este Pokémon vuela batiendo las hojas que tiene en el lomo como si fueran alas.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Los frutos que crecen en el cuello del Tropius de la región de Alola son mucho más dulces y ricos que los de otros lugares.",
+        "Ultraluna": "A la gente le encanta la deliciosa fruta de sus racimos. En las regiones cálidas abundan las granjas que se dedican a criar Tropius.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Al alimentarse exclusivamente de su fruta favorita, esta terminó creciéndole en el cuello.",
+        "Perla Reluciente": "Al alimentarse exclusivamente de su fruta favorita, esta terminó creciéndole en el cuello.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Tropius"
+        ]
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "dex number": "274",
+    "pokemon name": "Nuzleaf",
+    "types": [
+        "planta",
+        "siniestro"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Madrugar"
+    ],
+    "hidden abilities": [
+        "Hurto"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "70",
+        "def": "40",
+        "atk esp": "60",
+        "def esp": "40",
+        "speed": "60"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: ruta 114.",
+            "Evolucionar: de Seedot (nivel 14)."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rubí o Esmeralda."
+        ],
+        "Esmeralda": [
+            "Salvaje: ruta 114.",
+            "Evolucionar: de Seedot (nivel 14). Manada en la ruta 114 anunciada por televisión."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí o Esmeralda."
+        ],
+        "Diamante": [
+            "Insertando un videojuego de GBA: ruta 229 (Pokémon Rubí).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Insertando un videojuego de GBA: ruta 229 (Pokémon Rubí).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Insertando un videojuego de GBA: rutas 210 (zona sur) y 229 (Pokémon Rubí).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Seedot (nivel 14).",
+            " Salvaje: Zona Safari.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Seedot (nivel 14).",
+            " Salvaje: Zona Safari.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Evolucionar: de Seedot (nivel 14)."
+        ],
+        "Blanco": [
+            "Evolucionar: de Seedot (nivel 14)."
+        ],
+        "Negro 2": [
+            "Salvaje: Reserva Natural"
+        ],
+        "Blanco 2": [
+            "Salvaje: Reserva Natural"
+        ],
+        "Pokémon X": [
+            "Salvaje: Safari Amistad"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Safari Amistad"
+        ],
+        "Rubí Omega": [
+            "Salvaje: ruta 114.",
+            "Evolucionar: de Seedot (nivel 14)"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon Rubí Omega, Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde."
+        ],
+        "Espada": [
+            "Salvaje: Ruta 5",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro.",
+            "Evolucionar: de Seedot (nivel 14)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: de Seedot (nivel 14)."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Nuzleaf no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Nuzleaf habita bosques muy poblados. Y, en ocasiones, se atreve a salir para asustar a la gente. A este Pokémon no le gusta nada que le pellizquen la nariz.",
+        "Zafiro": "Nuzleaf saca la hoja que tiene en la cabeza y la usa como flauta. El sonido que emite infunde miedo e incertidumbre a quien se encuentre perdido por el bosque.",
+        "Esmeralda": "Vive en los bosques y se le da muy bien subirse a los árboles. La nariz que tiene, grande y puntiaguda, es su punto débil. Si se la pellizcan, pierde fuerza.",
+        "Rojo Fuego": "Vive en los agujeros de los troncos de los árboles. Cuando usa la hoja de la cabeza como flauta, asusta a la gente.",
+        "Verde Hoja": "Vive en los agujeros de los troncos de los árboles. Cuando usa la hoja de la cabeza como flauta, asusta a la gente.",
+        "Diamante": "Cuando usa la hoja de su cabeza como flauta asusta a la gente. Vive en lo más profundo de los bosques.",
+        "Perla": "Cuando usa la hoja de su cabeza como flauta asusta a la gente. Vive en lo más profundo de los bosques.",
+        "Platino": "Cuando usa la hoja de su cabeza como flauta asusta a la gente. Vive en lo más profundo de los bosques.",
+        "Oro HeartGold": "Vive en lo más profundo del bosque. Utiliza la hoja de su cabeza como flauta con un sonido perturbador.",
+        "Plata SoulSilver": "Vive en lo más profundo del bosque. Utiliza la hoja de su cabeza como flauta con un sonido perturbador.",
+        "Negro": "Cuando usa la hoja de su cabeza como flauta asusta a la gente. Vive en lo más profundo de los bosques.",
+        "Blanco": "Cuando usa la hoja de su cabeza como flauta asusta a la gente. Vive en lo más profundo de los bosques.",
+        "Negro 2": "Cuando usa la hoja de su cabeza como flauta asusta a la gente. Vive en lo más profundo de los bosques.",
+        "Blanco 2": "Cuando usa la hoja de su cabeza como flauta asusta a la gente. Vive en lo más profundo de los bosques.",
+        "Pokémon X": "Cuando usa la hoja de su cabeza como flauta asusta a la gente. Vive en lo más profundo de los bosques.",
+        "Pokémon Y": "Vive en lo más profundo del bosque. Utiliza la hoja de su cabeza como flauta con un sonido perturbador.",
+        "Rubí Omega": "Nuzleaf habita bosques muy poblados. Y, en ocasiones, se atreve a salir para asustar a la gente. A este Pokémon no le gusta nada que le pellizquen la nariz.",
+        "Zafiro Alfa": "Nuzleaf saca la hoja que tiene en la cabeza y la usa como flauta. El sonido que emite infunde miedo e incertidumbre a quien se encuentre perdido por el bosque.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Vive en lo más profundo del bosque. Utiliza la hoja de la cabeza como flauta para emitir un sonido perturbador.",
+        "Escudo": "Vive en las oquedades de los árboles grandes. El sonido que emite al usar la hoja de la cabeza como flauta asusta a quienes lo escuchan.",
+        "Diamante Brillante": "Cuando usa la hoja de su cabeza como flauta, emite un tono que asusta a la gente. Vive en lo más profundo de los bosques.",
+        "Perla Reluciente": "Cuando usa la hoja de su cabeza como flauta, emite un tono que asusta a la gente. Vive en lo más profundo de los bosques.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Seedot",
+            "Nivel 14",
+            "Nuzleaf",
+            "Piedra hoja ",
+            "Shiftry"
+        ]
+    ]
+}

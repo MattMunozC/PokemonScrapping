@@ -1,0 +1,161 @@
+{
+    "dex number": "269",
+    "pokemon name": "Dustox",
+    "types": [
+        "bicho",
+        "veneno"
+    ],
+    "abilities": [
+        "Polvo escudo"
+    ],
+    "hidden abilities": [
+        "Ojo compuesto"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "50",
+        "def": "70",
+        "atk esp": "50",
+        "def esp": "90",
+        "speed": "65"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Cascoon (nivel 10)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Cascoon (nivel 10)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Cascoon (nivel 10)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 224.",
+            "Evolucionar: de Cascoon (nivel 10)",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Salvaje: ruta 230, Bosque Vetusto.",
+            "Evolucionar: de Cascoon (nivel 10).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje: rutas 205 (zona norte), Ruta 224 y 229, Bosque Vetusto.",
+            "Evolucionar: de Cascoon (nivel 10).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Concurso de captura de bichos, después de obtener la Pokédex Nacional.",
+            "Evolucionar: de Cascoon (nivel 10)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Cascoon (nivel 10)."
+        ],
+        "Negro": [
+            "Intercambiar: De Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Evolucionar: de Cascoon (nivel 10)"
+        ],
+        "Negro 2": [
+            "Intercambiar: De Pokémon Blanco."
+        ],
+        "Blanco 2": [
+            "Intercambiar: De Pokémon Blanco."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Cascoon (nivel 10)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Cascoon (nivel 10)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Cascoon (nivel 10)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Cascoon (nivel 10)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Dustox no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Dustox no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Cascoon (nivel 10)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: ruta 230, Bosque Vetusto.",
+            "Evolucionar: de Cascoon (nivel 10)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Campo aromaflor, Bosque Recóndito, Foresta Funesta.",
+            "Evolucionar: de Cascoon (nivel 10)."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Los Dustox se acercan a la luz de forma instintiva. De hecho, se agrupan en enjambres alrededor de las luces de las ciudades y causan estragos en las hojas de los árboles que están a pie de calle para alimentarse.",
+        "Zafiro": "Cuando Dustox bate las alas, libera un polvillo fino que en realidad es un peligroso veneno que puede resultar dañino hasta al más fuerte de los fuertes. Las antenas le sirven de radar para buscar comida.",
+        "Esmeralda": "Es un Pokémon nocturno que llega desde campos y montañas atraído por las luces. Al batir las alas, libera un polvillo muy tóxico.",
+        "Rojo Fuego": "Si siente que está en peligro, libera un polvillo venenoso. Se reúne con más de su especie cerca de las luces de la calle.",
+        "Verde Hoja": "Si siente que está en peligro, libera un polvillo venenoso. Se reúne con más de su especie cerca de las luces de la calle.",
+        "Diamante": "Pokémon nocturno. Atraído por las luces de la ciudad, se come las hojas y arbustos de las avenidas.",
+        "Perla": "Cuando se le ataca, bate las alas con fuerza para esparcir polvo tóxico. Es un Pokémon nocturno.",
+        "Platino": "Bate las alas para esparcir polvo tóxico. De noche se come las hojas de los árboles de las avenidas.",
+        "Oro HeartGold": "Hace frente a los ataques de sus enemigos esparciendo un polvo tóxico. Es un Pokémon nocturno.",
+        "Plata SoulSilver": "Hace frente a los ataques de sus enemigos esparciendo un polvo tóxico. Es un Pokémon nocturno.",
+        "Negro": "Bate las alas para esparcir polvo tóxico. De noche se come las hojas de los árboles de las avenidas.",
+        "Blanco": "Bate las alas para esparcir polvo tóxico. De noche se come las hojas de los árboles de las avenidas.",
+        "Negro 2": "Bate las alas para esparcir polvo tóxico. De noche se come las hojas de los árboles de las avenidas.",
+        "Blanco 2": "Bate las alas para esparcir polvo tóxico. De noche se come las hojas de los árboles de las avenidas.",
+        "Pokémon X": "Pokémon nocturno. Atraído por las luces de la ciudad, se come las hojas y arbustos de las avenidas.",
+        "Pokémon Y": "Cuando se le ataca, bate las alas con fuerza para esparcir polvo tóxico. Es un Pokémon nocturno.",
+        "Rubí Omega": "Los Dustox se acercan a la luz de forma instintiva. De hecho, se agrupan en enjambres alrededor de las luces de las ciudades y causan estragos en las hojas de los árboles que están a pie de calle para alimentarse.",
+        "Zafiro Alfa": "Cuando Dustox bate las alas, libera un polvillo fino que en realidad es un peligroso veneno que puede resultar dañino hasta al más fuerte de los fuertes. Las antenas le sirven de radar para buscar comida.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Pokémon nocturno. Atraído por las luces de la ciudad, se come las hojas y arbustos de las avenidas.",
+        "Perla Reluciente": "Cuando lo atacan, bate las alas con fuerza para esparcir polvo tóxico. Es un Pokémon nocturno.",
+        "Leyendas: Arceus": "Se sienten atraídos por las hogueras en noches muy oscuras. Mantenerlos alejados de los poblados resulta muy difícil, ya que esparcen un polvillo muy venenoso al contacto."
+    },
+    "evolution": [
+        [
+            "Wurmple",
+            "Nivel 7",
+            "Silcoon",
+            "",
+            "Nivel 10",
+            "Beautifly"
+        ],
+        [
+            "",
+            "Nivel 7",
+            "Cascoon",
+            "",
+            "Nivel 10",
+            "Dustox"
+        ]
+    ]
+}

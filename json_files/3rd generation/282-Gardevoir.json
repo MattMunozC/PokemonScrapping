@@ -1,0 +1,162 @@
+{
+    "dex number": "282",
+    "pokemon name": "Gardevoir",
+    "types": [
+        "psíquico",
+        "hada"
+    ],
+    "abilities": [
+        "Sincronía",
+        "Rastro"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": "68",
+        "atk": "65",
+        "def": "65",
+        "atk esp": "125",
+        "def esp": "115",
+        "speed": "80"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o XD: Tempestad oscura."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o XD: Tempestad oscura."
+        ],
+        "Diamante": [
+            "Evolucionar: de Kirlia (nivel 30).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Evolucionar: de Kirlia (nivel 30).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Evolucionar: de Kirlia (nivel 30).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Kirlia (nivel 30).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Kirlia (nivel 30).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Negro 2": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Espada": [
+            "Salvaje: Cuenca Polvorienta (niebla), Lago del Enfado (niebla. Encuentro especial en clima soleado, tormenta y niebla), Pradera Radiante (niebla).",
+            "Incursiones Dinamax: Lago del Enfado, nido al norte junto al lago y Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón. Con posible habilidad oculta: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Pradera Radiante, nido al sureste junto al acantilado, Ribera de Pistón, nido al este, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón.",
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Escudo": [
+            "Salvaje: Cuenca Polvorienta (niebla), Lago del Enfado (niebla. Encuentro especial en clima soleado, tormenta y niebla), Pradera Radiante (niebla).",
+            "Incursiones Dinamax: Lago del Enfado, nido al norte junto al lago y Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón. Con posible habilidad oculta: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Pradera Radiante, nido al sureste junto al acantilado, Ribera de Pistón, nido al este, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón.",
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Kirlia (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Pokémon alfa: Peñasco Espíritu",
+            "Evolucionar: de Kirlia (nivel 30).",
+            "Aparición masiva de Pokémon: de Kirlia con probabilidad."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Gardevoir es capaz de leer el futuro. Si siente que su entrenador está en peligro inminente, dicen que libera automáticamente toda su energía psicoquinética.",
+        "Zafiro": "Gardevoir tiene el poder psicoquinético de alterar las dimensiones y crear un agujero negro pequeño. Este Pokémon intenta proteger siempre a su entrenador aunque tenga que arriesgar su propia vida.",
+        "Esmeralda": "Al parecer, no siente la fuerza de la gravedad porque se sostiene gracias a la energía psicoquinética. Por proteger a su Entrenador, sería capaz de todo.",
+        "Rojo Fuego": "Tiene la capacidad de predecir el futuro. Cuando protege a su entrenador se vuelve más fuerte.",
+        "Verde Hoja": "Tiene la capacidad de predecir el futuro. Cuando protege a su entrenador se vuelve más fuerte.",
+        "Diamante": "Protegerá al entrenador que le merezca la pena con su último aliento. Puede ver el futuro.",
+        "Perla": "Protegerá al entrenador que le merezca la pena con su último aliento. Puede ver el futuro.",
+        "Platino": "Para proteger a su Entrenador emplea todo su poder psíquico en crear un pequeño agujero negro.",
+        "Oro HeartGold": "Si se siente muy unido a su Entrenador, utilizará todo su poder psíquico para protegerlo.",
+        "Plata SoulSilver": "Si se siente muy unido a su Entrenador, utilizará todo su poder psíquico para protegerlo.",
+        "Negro": "Para proteger a su Entrenador emplea todo su poder psíquico en crear un pequeño agujero negro.",
+        "Blanco": "Para proteger a su Entrenador emplea todo su poder psíquico en crear un pequeño agujero negro.",
+        "Negro 2": "Para proteger a su Entrenador emplea todo su poder psíquico en crear un pequeño agujero negro.",
+        "Blanco 2": "Para proteger a su Entrenador emplea todo su poder psíquico en crear un pequeño agujero negro.",
+        "Pokémon X": "Para proteger a su Entrenador emplea todo su poder psíquico en crear un pequeño agujero negro.",
+        "Pokémon Y": "Tiene la capacidad de predecir el futuro. Cuando protege a su entrenador se vuelve más fuerte.",
+        "Rubí Omega": "Gardevoir es capaz de leer el futuro. Si siente que su entrenador está en peligro inminente, dicen que libera automáticamente toda su energía psicoquinética.",
+        "Zafiro Alfa": "Gardevoir tiene el poder psicoquinético de alterar las dimensiones y crear un agujero negro pequeño. Este Pokémon intenta proteger siempre a su entrenador aunque tenga que arriesgar su propia vida.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Tiene la capacidad de predecir el futuro. Para proteger a su Entrenador, emplea hasta la última gota de su poder psíquico.",
+        "Escudo": "Para proteger a su Entrenador, emplea todo su poder psíquico en crear un pequeño agujero negro.",
+        "Diamante Brillante": "Daría su vida por proteger a un Entrenador en el que confía. Puede ver el futuro.",
+        "Perla Reluciente": "Daría su vida por proteger a un Entrenador en el que confía. Puede ver el futuro.",
+        "Leyendas: Arceus": "No duda en proteger a su adorado maestro. Su vestido de color blanco puro, que recuerda al de una dama, es la vestimenta de aquel que está dispuesto a arriesgar su vida."
+    },
+    "evolution": [
+        [
+            "Ralts",
+            "Nivel 20",
+            "Kirlia",
+            "Nivel 30",
+            "Gardevoir"
+        ],
+        [
+            "",
+            "",
+            "",
+            "♂ + Piedra alba ",
+            "Gallade"
+        ]
+    ]
+}

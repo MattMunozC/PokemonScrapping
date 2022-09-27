@@ -1,0 +1,155 @@
+{
+    "dex number": "284",
+    "pokemon name": "Masquerain",
+    "types": [
+        "bicho",
+        "volador"
+    ],
+    "abilities": [
+        "Intimidación"
+    ],
+    "hidden abilities": [
+        "Nerviosismo"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "60",
+        "def": "62",
+        "atk esp": "80",
+        "def esp": "82",
+        "speed": "60"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Surskit (nivel 22)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Surskit (nivel 22)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Surskit (nivel 22)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Evolucionar: de Surskit (nivel 22).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Perla": [
+            "Evolucionar: de Surskit (nivel 22).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Platino": [
+            "Surf: Ruta 229.",
+            "Evolucionar: de Surskit (nivel 22).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Evolucionar: de Surskit (nivel 22)."
+        ],
+        "Negro 2": [
+            "Manada: Ruta 11 (Teselia)"
+        ],
+        "Blanco 2": [
+            "Manada: Ruta 11 (Teselia)"
+        ],
+        "Pokémon X": [
+            " Salvaje, haciendo surf: Ruta 3.",
+            "Especial: Safari Amistad, en algunos safaris de tipo bicho."
+        ],
+        "Pokémon Y": [
+            " Salvaje, haciendo surf: Ruta 3.",
+            "Especial: Safari Amistad, en algunos safaris de tipo bicho."
+        ],
+        "Rubí Omega": [
+            "Surf: Rutas 102, 111, 114, 117, 120, 123 y Ciudad Petalia.",
+            "Evolucionar: de Surskit (nivel 22)."
+        ],
+        "Zafiro Alfa": [
+            "Surf: Rutas 102, 111, 114, 117, 120, 123 y Ciudad Petalia.",
+            "Evolucionar: de Surskit (nivel 22)."
+        ],
+        "Sol": [
+            "Salvaje, hierba alta: Parque de Malíe (noche)",
+            "Evolucionar: de Surskit (nivel 22)"
+        ],
+        "Luna": [
+            "Salvaje, hierba alta: Parque de Malíe (noche)",
+            "Evolucionar: de Surskit (nivel 22)"
+        ],
+        "Ultrasol": [
+            "Salvaje, hierba alta: Parque de Malíe (noche)",
+            "Evolucionar: de Surskit (nivel 22)"
+        ],
+        "Ultraluna": [
+            "Salvaje, hierba alta: Parque de Malíe (noche)",
+            "Evolucionar: de Surskit (nivel 22)"
+        ],
+        "Espada": [
+            "Masquerain no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Masquerain no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Surskit (nivel 22)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Surskit (nivel 22)."
+        ],
+        "Leyendas: Arceus": [
+            "Masquerain no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Masquerain intimida a sus enemigos con los ojos que tiene dibujados en las antenas. Este Pokémon bate las cuatro alas que tiene para volar libremente en cualquier dirección (hasta de lado y hacia atrás) como un helicóptero.",
+        "Zafiro": "Masquerain tiene unas antenas con ojos dibujados que le dan aspecto de estar enfadado. Si tiene los “ojos” medio cerrados y con aspecto triste, es probable que esté a punto de caer un buen aguacero.",
+        "Esmeralda": "Intimida al enemigo con los ojos que tiene dibujados en las antenas. Como no puede volar si se le mojan las alas, se protege de la lluvia bajo aleros y grandes árboles.",
+        "Rojo Fuego": "En las antenas tiene un par de ojos dibujados. Cuando llueve, se le vuelven muy pesadas y le impiden luchar.",
+        "Verde Hoja": "En las antenas tiene un par de ojos dibujados. Cuando llueve, se le vuelven muy pesadas y le impiden luchar.",
+        "Diamante": "Sus antenas tienen dibujos de ojos, mientras que sus alas le permiten volar en cualquier dirección.",
+        "Perla": "Sus antenas tienen dibujos de ojos, mientras que sus alas le permiten volar en cualquier dirección.",
+        "Platino": "Sus antenas tienen dibujos de ojos, mientras que sus alas le permiten volar en cualquier dirección.",
+        "Oro HeartGold": "Sus cuatro alas le permiten volar en cualquier dirección a su antojo.",
+        "Plata SoulSilver": "Sus cuatro alas le permiten volar en cualquier dirección a su antojo.",
+        "Negro": "Sus antenas tienen dibujos de ojos, mientras que sus alas le permiten volar en cualquier dirección.",
+        "Blanco": "Sus antenas tienen dibujos de ojos, mientras que sus alas le permiten volar en cualquier dirección.",
+        "Negro 2": "Sus antenas tienen dibujos de ojos, mientras que sus alas le permiten volar en cualquier dirección.",
+        "Blanco 2": "Sus antenas tienen dibujos de ojos, mientras que sus alas le permiten volar en cualquier dirección.",
+        "Pokémon X": "Sus antenas tienen dibujos de ojos, mientras que sus alas le permiten volar en cualquier dirección.",
+        "Pokémon Y": "Sus cuatro alas le permiten volar en cualquier dirección a su antojo.",
+        "Rubí Omega": "Masquerain intimida a sus enemigos con los ojos que tiene dibujados en las antenas. Este Pokémon bate las cuatro alas que tiene para volar libremente en cualquier dirección, hasta de lado y hacia atrás, como un helicóptero.",
+        "Zafiro Alfa": "Masquerain tiene unas antenas con ojos dibujados que le dan aspecto de estar enfadado. Si tiene los “ojos” medio cerrados y con aspecto triste, es probable que esté a punto de caer un buen aguacero.",
+        "Sol": "Amenaza a sus enemigos con las grandes pupilas de sus antenas. Sus cuatro alas le permiten volar en cualquier dirección.",
+        "Luna": "Sus alas y antenas son muy sensibles a la humedad. Cuando deja de llover se dirige volando hacia el sol para secarlas.",
+        "Ultrasol": "Intimida a sus enemigos con las grandes pupilas de sus antenas. Si esto no funciona, bate sus cuatro alas para huir.",
+        "Ultraluna": "Sus grandes antenas en forma de ojos tienden a absorber humedad. Los días de lluvia, se refugia en cavidades de los árboles y espera paciente.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Sus antenas tienen dibujos de ojos. Las cuatro alas que posee le permiten volar en cualquier dirección.",
+        "Perla Reluciente": "Sus antenas tienen dibujos de ojos. Las cuatro alas que posee le permiten volar en cualquier dirección.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Surskit",
+            "Nivel 22",
+            "Masquerain"
+        ]
+    ]
+}

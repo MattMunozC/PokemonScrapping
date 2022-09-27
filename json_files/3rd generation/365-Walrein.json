@@ -1,0 +1,156 @@
+{
+    "dex number": "365",
+    "pokemon name": "Walrein",
+    "types": [
+        "hielo",
+        "agua"
+    ],
+    "abilities": [
+        "Sebo",
+        "Gélido"
+    ],
+    "hidden abilities": [
+        "Despiste"
+    ],
+    "stats": {
+        "hp": "110",
+        "atk": "80",
+        "def": "90",
+        "atk esp": "95",
+        "def esp": "90",
+        "speed": "65"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar:: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Verde Hoja": [
+            "Intercambiar:: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla o Pokémon Platino"
+        ],
+        "Perla": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Platino": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Negro": [
+            "Surfeando: Bahía Arenisca (solo en invierno)",
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Blanco": [
+            "Surfeando: Bahía Arenisca (solo en invierno)",
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Negro 2": [
+            "Surfeando: Bahía Arenisca (solo en invierno)",
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Blanco 2": [
+            "Surfeando: Bahía Arenisca (solo en invierno)",
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Sol": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Luna": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Espada": [
+            "Salvaje: Mar Gélido ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante  y  Mar Gélido ",
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Escudo": [
+            "Salvaje: Mar Gélido ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante  y  Mar Gélido ",
+            "Evolucionar: a Sealeo (nivel 44)"
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar.",
+            "Evolucionar: a Sealeo (nivel 44)."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar.",
+            "Evolucionar: a Sealeo (nivel 44)."
+        ],
+        "Leyendas: Arceus": [
+            "Pokémon Salvaje: Costa Cobalto: Playa Ginkgo y Costa Ínsola.",
+            "Pokémon alfa: Playa Ginkgo.",
+            "Evolucionar: a Sealeo (nivel 44)."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Walrein tiene unos exagerados colmillos con los que puede hacer añicos bloques de hielo de hasta 10 toneladas de una sola dentellada. La gruesa capa de grasa de ballena que lo recubre le protege de temperaturas inferiores a 0 grados.",
+        "Zafiro": "Walrein va nadando por mares glaciales y destrozando icebergs con los enormes e imponentes colmillos que tiene. La capa de grasa de ballena que le rodea hace que los ataques enemigos reboten y no le hagan ningún daño.",
+        "Esmeralda": "Para proteger a su manada, el líder luchará hasta el final contra todo lo que invada su territorio. En el transcurso del combate, es posible que pierda los colmillos.",
+        "Rojo Fuego": "Nada por mares glaciales destrozando bloques de hielo con sus enormes colmillos. Lo protege una capa de grasa.",
+        "Verde Hoja": "Nada por mares glaciales destrozando bloques de hielo con sus enormes colmillos. Lo protege una capa de grasa.",
+        "Diamante": "Rompe el hielo con sus colmillos. Su gruesa capa de grasa le protege del frío y de los enemigos.",
+        "Perla": "Rompe el hielo con sus colmillos. Su gruesa capa de grasa le protege del frío y de los enemigos.",
+        "Platino": "Rompe el hielo con sus colmillos. Su gruesa capa de grasa le protege del frío y de los enemigos.",
+        "Oro HeartGold": "Sus fuertes colmillos destrozan los témpanos hielo. Su capa de grasa lo protege de sus enemigos.",
+        "Plata SoulSilver": "Sus fuertes colmillos destrozan los témpanos hielo. Su capa de grasa lo protege de sus enemigos.",
+        "Negro": "Rompe el hielo con sus colmillos. Su gruesa capa de grasa le protege del frío y de los enemigos.",
+        "Blanco": "Rompe el hielo con sus colmillos. Su gruesa capa de grasa le protege del frío y de los enemigos.",
+        "Negro 2": "Su gran capa de masa lo protege del frío y de los ataques enemigos. Parte el hielo con sus preciados colmillos.",
+        "Blanco 2": "Su gran capa de masa lo protege del frío y de los ataques enemigos. Parte el hielo con sus preciados colmillos.",
+        "Pokémon X": "Rompe el hielo con sus colmillos. Su gruesa capa de grasa le protege del frío y de los enemigos.",
+        "Pokémon Y": "Sus fuertes colmillos destrozan los témpanos hielo. Su capa de grasa lo protege de sus enemigos.",
+        "Rubí Omega": "Walrein tiene unos exagerados colmillos con los que puede hacer añicos bloques de hielo de hasta 10 toneladas de una sola dentellada. La gruesa capa de grasa que lo recubre le protege de temperaturas inferiores a 0 °C.",
+        "Zafiro Alfa": "Walrein va nadando por mares glaciales y destrozando icebergs con los enormes e imponentes colmillos que tiene. La gruesa capa de grasa que tiene en el cuerpo hace que los ataques enemigos reboten y no le hagan ningún daño.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Forman manadas de unos 20 o 30 individuos. Si el grupo se ve atacado por un enemigo, el líder se interpondrá para proteger al resto.",
+        "Escudo": "Sus colmillos nunca dejan de crecer. Aunque los pierda en un combate, al cabo de un año ya los habrá regenerado por completo.",
+        "Diamante Brillante": "Rompe el hielo con sus colmillos. Su gruesa capa de grasa lo protege del frío y de los ataques enemigos.",
+        "Perla Reluciente": "Rompe el hielo con sus colmillos. Su gruesa capa de grasa lo protege del frío y de los ataques enemigos.",
+        "Leyendas: Arceus": "Sus gruesos colmillos son tan fuertes que pueden atravesar témpanos de hielo, aunque a veces llegan a romperse. Si eso pasa, al año siguiente les vuelven a crecer. Son típicos de Hisui."
+    },
+    "evolution": [
+        [
+            "Spheal",
+            "Nivel 32",
+            "Sealeo",
+            "Nivel 44",
+            "Walrein"
+        ]
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "dex number": "266",
+    "pokemon name": "Silcoon",
+    "types": [
+        "bicho"
+    ],
+    "abilities": [
+        "Mudar"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "50",
+        "atk": "35",
+        "def": "55",
+        "atk esp": "25",
+        "def esp": "25",
+        "speed": "15"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Bosque Petalia.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Zafiro": [
+            "Salvaje: Bosque Petalia.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Bosque Petalia.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: en los árboles en los que se puede untar miel (a menudo), Bosque Vetusto.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Intercambiar: de Diamante.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje: en los árboles en los que se puede untar miel (a menudo), Ruta 205 (zona norte), Bosque Vetusto.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Concurso de captura de bichos, después de obtener la Pokédex Nacional.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Concurso de captura de bichos, después de obtener la Pokédex Nacional.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Intercambiar: De Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Evolucionar: de Wurmple (nivel 7, segun sus genes)."
+        ],
+        "Negro 2": [
+            "Intercambiar: De Pokémon Blanco."
+        ],
+        "Blanco 2": [
+            "Intercambiar: De Pokémon Blanco."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Wurmple (nivel 7, segun sus genes)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Wurmple (nivel 7, segun sus genes)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque Petalia.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque Petalia.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Silcoon no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Silcoon no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: en los árboles en los que se puede untar miel (a menudo) y Bosque Vetusto.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Campo Aromaflor y Bosque Recóndito.",
+            "Evolucionar: de Wurmple (nivel 7, según su genética)."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Silcoon usa la seda que produce para atarse a la rama de un árbol y sujetarse bien. Y se queda ahí colgado a la espera de su evolución, asomado por un agujero del capullo de seda.",
+        "Zafiro": "Se pensaba que Silcoon podía aguantar el hambre y no consumir nada antes de evolucionar. Sin embargo, ahora se cree que sacia su necesidad bebiendo el agua de la lluvia que se le queda sobre la piel.",
+        "Esmeralda": "Se prepara para la evolución usando la energía que almacenó mientras era un Wurmple. Los dos ojos que tiene le sirven para vigilar lo que ocurre en su territorio.",
+        "Rojo Fuego": "Ahorra energía moviéndose lo menos posible. Se dedica a beber el agua de la lluvia a la espera de su evolución.",
+        "Verde Hoja": "Ahorra energía moviéndose lo menos posible. Se dedica a beber el agua de la lluvia a la espera de su evolución.",
+        "Diamante": "La seda que segrega su cuerpo le permite agarrarse a los árboles y esperar su evolución.",
+        "Perla": "Bebe el rocío que recoge en su seda mientras espera evolucionar. Se defiende en su capullo.",
+        "Platino": "Se agarra con su seda a las ramas de un árbol y espera su evolución bebiendo agua de lluvia.",
+        "Oro HeartGold": "Se aferra a las ramas de los árboles con los hilos que teje. Espera inmóvil su evolución.",
+        "Plata SoulSilver": "Se aferra a las ramas de los árboles con los hilos que teje. Espera inmóvil su evolución.",
+        "Negro": "Se agarra con su seda a las ramas de un árbol y espera su evolución bebiendo agua de lluvia.",
+        "Blanco": "Se agarra con su seda a las ramas de un árbol y espera su evolución bebiendo agua de lluvia.",
+        "Negro 2": "Se agarra con su seda a las ramas de un árbol y espera su evolución bebiendo agua de lluvia.",
+        "Blanco 2": "Se agarra con su seda a las ramas de un árbol y espera su evolución bebiendo agua de lluvia.",
+        "Pokémon X": "Se agarra con su seda a las ramas de un árbol y espera su evolución bebiendo agua de lluvia.",
+        "Pokémon Y": "Bebe el rocío que recoge en su seda mientras espera evolucionar. Se defiende en su capullo.",
+        "Rubí Omega": "Silcoon usa la seda que produce par aaferrarse a la rama de un árbol y sujetarse bien. Se queda ahí colgado a la espera de su evolución, mientras lo observa todo a través de dos pequeños agujeros en su capullo de seda.",
+        "Zafiro Alfa": "Se pensaba que Silcoon podía aguantar el hambre y no consumir nada antes de evolucionar. Sin embargo, ahora se cree que sacia su sed bebiendo el agua de la lluvia que se le queda sobre la seda del capullo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "La seda que segrega su cuerpo le permite aferrarse a las ramas de los árboles, donde aguarda pacientemente su evolución.",
+        "Perla Reluciente": "Bebe el rocío que recoge con la seda mientras espera su evolución. Su duro capullo lo protege de posibles ataques.",
+        "Leyendas: Arceus": "Envuelto en una seda muy fina, acumula energía para evolucionar. Se mueve con dificultad al tener las extremidades inmovilizadas, pero lo observa todo y no pierde detalle."
+    },
+    "evolution": [
+        [
+            "Wurmple",
+            "Nivel 7",
+            "Silcoon",
+            "",
+            "Nivel 10",
+            "Beautifly"
+        ],
+        [
+            "",
+            "Nivel 7",
+            "Cascoon",
+            "",
+            "Nivel 10",
+            "Dustox"
+        ]
+    ]
+}

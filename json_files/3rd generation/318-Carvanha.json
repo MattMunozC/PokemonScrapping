@@ -1,0 +1,154 @@
+{
+    "dex number": "318",
+    "pokemon name": "Carvanha",
+    "types": [
+        "agua",
+        "siniestro"
+    ],
+    "abilities": [
+        "Piel tosca"
+    ],
+    "hidden abilities": [
+        "Impulso"
+    ],
+    "stats": {
+        "hp": "45",
+        "atk": "90",
+        "def": "20",
+        "atk esp": "65",
+        "def esp": "20",
+        "speed": "65"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje, pescando con caña buena y supercaña: rutas 118 y 119."
+        ],
+        "Zafiro": [
+            "Salvaje, pescando con caña buena y supercaña: rutas 118 y 119."
+        ],
+        "Esmeralda": [
+            "Salvaje, pescando con caña buena y supercaña: rutas 118 y 119."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje, pescando con supercaña: Gran Pantano.",
+            "Parque Compi: Zona marina."
+        ],
+        "Perla": [
+            "Salvaje, pescando con supercaña: Gran Pantano.",
+            "Parque Compi: Zona marina."
+        ],
+        "Platino": [
+            "Salvaje, pescando con supercaña: Gran Pantano.",
+            "Parque Compi: Zona marina."
+        ],
+        "Oro HeartGold": [
+            "Especial: Transferir desde el PokéWalker. Zona: Playa Cálida.",
+            "Intercambiar: de Pokémon Diamante, Perla o Platino.",
+            "Parque Compi: Zona marina."
+        ],
+        "Plata SoulSilver": [
+            "Especial: Transferir desde el PokéWalker. Zona: Playa Cálida.",
+            "Intercambiar: de Pokémon Diamante, Perla o Platino.",
+            "Parque Compi: Zona marina."
+        ],
+        "Negro": [
+            "Salvaje, pescando con supercaña: Puente Villa.",
+            "Dream World: Mar Brillante."
+        ],
+        "Blanco": [
+            "Salvaje, pescando con supercaña: Puente Villa.",
+            "Dream World: Mar Brillante."
+        ],
+        "Negro 2": [
+            "Salvaje, pescando con supercaña: Puente Villa.",
+            "Dream World: Mar Brillante."
+        ],
+        "Blanco 2": [
+            "Salvaje, pescando con supercaña: Puente Villa.",
+            "Dream World: Mar Brillante."
+        ],
+        "Pokémon X": [
+            "Salvaje, pescando con caña buena: ruta 22."
+        ],
+        "Pokémon Y": [
+            "Salvaje, pescando con caña buena: ruta 22."
+        ],
+        "Rubí Omega": [
+            "Salvaje, pescando con caña buena y supercaña: rutas 118 y 119."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje, pescando con caña buena y supercaña: rutas 118 y 119."
+        ],
+        "Sol": [
+            "Criando: de Sharpedo."
+        ],
+        "Luna": [
+            "Criando: de Sharpedo."
+        ],
+        "Ultrasol": [
+            "Pescando: Arrecife de Poni"
+        ],
+        "Ultraluna": [
+            "Pescando: Arrecife de Poni"
+        ],
+        "Espada": [
+            "Salvaje: Llano Entrenamiento"
+        ],
+        "Escudo": [
+            "Salvaje: Llano Entrenamiento"
+        ],
+        "Diamante Brillante": [
+            "Pescando con supercaña: Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Pescando con supercaña: Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Carvanha no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Carvanha, gracias a las descomunales fauces de afilados colmillos que tiene, es capaz de hacer trizas un barco. Son muchas las naves que han sufrido el ataque de este Pokémon y han acabado naufragando.",
+        "Zafiro": "Si algo o alguien invade el territorio de los Carvanha, se acercarán en masa y harán trizas al intruso con los afilados colmillos. Sin embargo, cuando están en solitario, estos Pokémon se vuelven tímidos de repente.",
+        "Esmeralda": "Los Carvanha van en grupo atacando barcos hasta que los hunden. Aunque dicen que es un Pokémon muy violento, huye presa de la timidez en cuanto se queda solo.",
+        "Rojo Fuego": "Habita caudalosos ríos que atraviesan las junglas. Si alguien invade su territorio, acude con más de su especie.",
+        "Verde Hoja": "Habita caudalosos ríos que atraviesan las junglas. Si alguien invade su territorio, acude con más de su especie.",
+        "Diamante": "Rodean a los enemigos que osan invadir su territorio. Sus afilados colmillos dañan los barcos.",
+        "Perla": "Rodean a los enemigos que osan invadir su territorio. Sus afilados colmillos dañan los barcos.",
+        "Platino": "Rodean a los enemigos que osan invadir su territorio. Sus afilados colmillos dañan los barcos.",
+        "Oro HeartGold": "Atacan en grupo a los barcos y los hunden a base de bocados. Habitan en los ríos de la jungla.",
+        "Plata SoulSilver": "Atacan en grupo a los barcos y los hunden a base de bocados. Habitan en los ríos de la jungla.",
+        "Negro": "Rodean a los enemigos que osan invadir su territorio. Sus afilados colmillos dañan los barcos.",
+        "Blanco": "Rodean a los enemigos que osan invadir su territorio. Sus afilados colmillos dañan los barcos.",
+        "Negro 2": "Rodean a los enemigos que osan invadir su territorio. Sus afilados colmillos dañan los barcos.",
+        "Blanco 2": "Rodean a los enemigos que osan invadir su territorio. Sus afilados colmillos dañan los barcos.",
+        "Pokémon X": "Atacan en grupo a los barcos y los hunden a base de bocados. Habitan en los ríos de la jungla.",
+        "Pokémon Y": "Habita caudalosos ríos que atraviesan las junglas. Si alguien invade su territorio, acude con más de su especie.",
+        "Rubí Omega": "Carvanha, gracias a las descomunales fauces de afilados colmillos que tiene, es capaz de hacer trizas un barco. Son muchas las naves que han sufrido el ataque de este Pokémon y han acabado naufragando.",
+        "Zafiro Alfa": "Si algo o alguien invade el territorio de los Carvanha, se acercarán en masa y harán trizas al intruso con los afilados colmillos. Sin embargo, cuando están en solitario, estos Pokémon se vuelven tímidos de repente.",
+        "Sol": "Cada banco de Carvanha tiene su propio territorio. En cuanto detectan a un intruso, sacan los dientes y lo atacan sin miramientos.",
+        "Luna": "En cuanto huelen la menor cantidad de sangre, todo el grupo ataca a la presa, pero cuando van en solitario se amilanan fácilmente.",
+        "Ultrasol": "Es algo timorato, por lo que nunca va solo. Pero, en cuanto se reúnen cinco ejemplares, de pronto se convierten en una fuerza de la naturaleza.",
+        "Ultraluna": "Puede destrozar a bocados fácilmente un barco de madera con sus potentes mandíbulas y colmillos. Compite por presas con los Basculin.",
+        "Espada": "Nunca aborda a su presa en solitario, sino que espera a que lleguen sus semejantes para atacar en grupo.",
+        "Escudo": "Los marineros evitan por completo las zonas donde habita este Pokémon de afilados colmillos y fuertes mandíbulas.",
+        "Diamante Brillante": "Atacan en grupo a quienes osan invadir su territorio. Son capaces de hacer trizas los cascos de los barcos con sus afilados colmillos.",
+        "Perla Reluciente": "Atacan en grupo a quienes osan invadir su territorio. Son capaces de hacer trizas los cascos de los barcos con sus afilados colmillos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Carvanha",
+            "Nivel 30",
+            "Sharpedo"
+        ]
+    ]
+}

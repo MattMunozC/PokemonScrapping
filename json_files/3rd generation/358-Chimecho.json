@@ -1,0 +1,148 @@
+{
+    "dex number": "358",
+    "pokemon name": "Chimecho",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "65",
+        "atk": "50",
+        "def": "70",
+        "atk esp": "95",
+        "def esp": "80",
+        "speed": "65"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Cima del Monte Pírico."
+        ],
+        "Zafiro": [
+            "Salvaje: Cima del Monte Pírico."
+        ],
+        "Esmeralda": [
+            "Salvaje: Cima del Monte Pírico."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Rubí, Zafiro o Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Rubí, Zafiro o Esmeralda"
+        ],
+        "Diamante": [
+            "Salvaje: Fuente Despedida, Monte Corona"
+        ],
+        "Perla": [
+            "Salvaje: Fuente Despedida, Monte Corona"
+        ],
+        "Platino": [
+            "Salvaje: Cueva Retorno, Monte Corona"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari, tras obtener los bloques y la Pokédex Nacional."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari, tras obtener los bloques y la Pokédex Nacional."
+        ],
+        "Negro": [
+            "Salvaje: Santuario Abundancia.",
+            "Dream World: en la Villa Antigua."
+        ],
+        "Blanco": [
+            "Salvaje: Santuario Abundancia.",
+            "Dream World: en la Villa Antigua."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Negro y Blanco.",
+            "Dream World: en la Villa Antigua."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Negro y Blanco.",
+            "Dream World: en la Villa Antigua."
+        ],
+        "Pokémon X": [
+            "Evolucionar a Chingling por amistad entre las 20:00 y las 04:00."
+        ],
+        "Pokémon Y": [
+            "Evolucionar a Chingling por amistad entre las 20:00 y las 04:00."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cima del Monte Pírico.",
+            "Evolucionar a Chingling por amistad entre las 20:00 y las 04:00."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cima del Monte Pírico.",
+            "Evolucionar a Chingling por amistad entre las 20:00 y las 04:00."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Chimecho no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Chimecho no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Fuente Despedida y Monte Corona.",
+            "Evolucionar: de Chingling. Cuando alcance un alto grado de amistad, tras subir un nivel por la noche."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Fuente Despedida y Monte Corona.",
+            "Evolucionar: de Chingling. Cuando alcance un alto grado de amistad, tras subir un nivel por la noche."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Ladera Corona: Senda Celestial. Tundra Alba: Lago Agudeza.",
+            "Evolucionar: a Chingling tras alcanzar un alto grado de amistad por la noche.",
+            "Pokémon alfa: Lago Agudeza."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Chimecho hace que sus gritos resuenen con eco en su interior. Cuando se enfada, los chillidos se convierten en ondas ultrasónicas capaces de derribar a los enemigos voladores.",
+        "Zafiro": "Cuando hay viento fuerte, Chimecho chilla colgado de la rama de un árbol o de los aleros de un edificio por la ventosa que tiene en la cabeza. Este Pokémon usa la larga cola que tiene para agarrar bayas y comérselas.",
+        "Esmeralda": "Se ponen a volar sin parar cuando llega la estación cálida. Se comunica con otros a través de siete tipos de grito distintos muy característicos.",
+        "Rojo Fuego": "Se desplaza aprovechando los vientos. Usa la larga cola que tiene para agarrar bayas y frutos secos, que le encantan.",
+        "Verde Hoja": "Se desplaza aprovechando los vientos. Usa la larga cola que tiene para agarrar bayas y frutos secos, que le encantan.",
+        "Diamante": "Sus gritos sacuden el aire para derribar a los rivales voladores. Habla con siete tipos de gritos.",
+        "Perla": "Emite ondas ultrasónicas que le permiten flotar en el viento para viajar grandes distancias.",
+        "Platino": "Sus gritos resuenan en su cuerpo hueco y emergen como hermosas notas que aturden a los enemigos.",
+        "Oro HeartGold": "Se cuelga de ramas y aleros con la ventosa de su cabeza. Tiene siete tipos de gritos diferentes.",
+        "Plata SoulSilver": "Se cuelga de ramas y aleros con la ventosa de su cabeza. Tiene siete tipos de gritos diferentes.",
+        "Negro": "Sus gritos resuenan en su cuerpo hueco y emergen como hermosas notas que aturden a los enemigos.",
+        "Blanco": "Sus gritos resuenan en su cuerpo hueco y emergen como hermosas notas que aturden a los enemigos.",
+        "Negro 2": "Sus gritos resuenan en su cuerpo hueco y emergen como hermosas notas que aturden a los enemigos.",
+        "Blanco 2": "Sus gritos resuenan en su cuerpo hueco y emergen como hermosas notas que aturden a los enemigos.",
+        "Pokémon X": "Se cuelga de ramas y aleros con la ventosa de su cabeza. Tiene siete tipos de gritos diferentes.",
+        "Pokémon Y": "Emite ondas ultrasónicas que le permiten flotar en el viento para viajar grandes distancias.",
+        "Rubí Omega": "Chimecho hace que sus gritos resuenen con eco en su interior. Cuando se enfada, los chillidos se convierten en ondas ultrasónicas capaces de derribar a los enemigos voladores.",
+        "Zafiro Alfa": "Cuando hay viento fuerte, Chimecho chilla colgado de la rama de un árbol o de los aleros de un edificio por la ventosa que tiene en la cabeza. Este Pokémon usa la larga cola que tiene para agarrar bayas y comérselas.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Sus gritos sacuden el aire para que sus rivales salgan volando. Se comunican entre sí entonando siete tipos de gritos diferentes.",
+        "Perla Reluciente": "Emite ondas ultrasónicas y flota dejándose llevar por el viento para viajar grandes distancias.",
+        "Leyendas: Arceus": "Emite unas ondas de aire capaces de derribar a presas mayores que él. Creemos que amplifica el sonido del viento en el interior de su cuerpo."
+    },
+    "evolution": [
+        [
+            "Chingling",
+            "Amistad + nivel (noche) ",
+            "Chimecho"
+        ]
+    ]
+}

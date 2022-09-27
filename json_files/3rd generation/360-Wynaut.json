@@ -1,0 +1,153 @@
+{
+    "dex number": "360",
+    "pokemon name": "Wynaut",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Sombra trampa"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": "95",
+        "atk": "23",
+        "def": "48",
+        "atk esp": "23",
+        "def esp": "48",
+        "speed": "23"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Isla Espejismo.",
+            "Criando: a Wobbuffet equipado con incienso suave.",
+            "Especial: Nace de un huevo que se obtiene en Pueblo Lavacalda."
+        ],
+        "Zafiro": [
+            "Salvaje: Isla Espejismo.",
+            "Criando: a Wobbuffet equipado con incienso suave.",
+            "Especial: Nace de un huevo que se obtiene en Pueblo Lavacalda."
+        ],
+        "Esmeralda": [
+            "Salvaje: Isla Espejismo.",
+            "Criando: a Wobbuffet equipado con incienso suave.",
+            "Especial: Nace de un huevo que se obtiene en Pueblo Lavacalda."
+        ],
+        "Rojo Fuego": [
+            "Criando: a Wobbuffet equipado con incienso suave."
+        ],
+        "Verde Hoja": [
+            "Criando: a Wobbuffet equipado con incienso suave."
+        ],
+        "Diamante": [
+            "Criando: a Wobbuffet equipado con incienso suave.",
+            "Parque Compi: Zona Pradera"
+        ],
+        "Perla": [
+            "Criando: a Wobbuffet equipado con incienso suave.",
+            "Parque Compi: Zona Pradera"
+        ],
+        "Platino": [
+            "Criando: a Wobbuffet equipado con incienso suave.",
+            "Parque Compi: Zona Pradera"
+        ],
+        "Oro HeartGold": [
+            "Criando: a Wobbuffet equipado con incienso suave."
+        ],
+        "Plata SoulSilver": [
+            "Criando: a Wobbuffet equipado con incienso suave."
+        ],
+        "Negro": [
+            "Manada: Ruta 2."
+        ],
+        "Blanco": [
+            "Manada: Ruta 2."
+        ],
+        "Negro 2": [
+            "Criando: a Wobbuffet equipado con incienso suave."
+        ],
+        "Blanco 2": [
+            "Criando: a Wobbuffet equipado con incienso suave."
+        ],
+        "Pokémon X": [
+            "Criando: a Wobbuffet equipado con incienso suave."
+        ],
+        "Pokémon Y": [
+            "Criando: a Wobbuffet equipado con incienso suave."
+        ],
+        "Rubí Omega": [
+            "Criando: a Wobbuffet equipado con incienso suave.",
+            "Especial: Nace de un huevo que se obtiene en Pueblo Lavacalda."
+        ],
+        "Zafiro Alfa": [
+            "Criando: a Wobbuffet equipado con incienso suave.",
+            "Especial: Nace de un huevo que se obtiene en Pueblo Lavacalda."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3 y Ribera de Pistón, nido al este.",
+            "Criando: a Wobbuffet equipado con incienso suave."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3 y Ribera de Pistón, nido al este.",
+            "Criando: a Wobbuffet equipado con incienso suave."
+        ],
+        "Diamante Brillante": [
+            "Criar: de Wobbuffet equipado con incienso suave."
+        ],
+        "Perla Reluciente": [
+            "Criar: de Wobbuffet equipado con incienso suave."
+        ],
+        "Leyendas: Arceus": [
+            "Wynaut no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Wynaut está siempre con una gran sonrisa puesta. Para ver si está enfadado, basta con mirarle la cola. Cuando se le molesta, se pone a dar golpetazos en el suelo.",
+        "Zafiro": "Los Wynaut se agrupan cuando hay luna para jugar achuchándose unos a otros. Cuanto más se achuchan, más ganan en resistencia y lanzan fuertes contraataques con más facilidad.",
+        "Esmeralda": "Wynaut disfruta comiendo fruta dulce. Es vivo al escogerla: usa los brazos con pinta de oreja que tiene. Se reúne con otros en huertos frutales, atraído por el aroma.",
+        "Rojo Fuego": "Suelen ir en grupo y a la hora de dormir se resguardan en una cueva.",
+        "Verde Hoja": "Suelen ir en grupo y a la hora de dormir se resguardan en una cueva.",
+        "Diamante": "Se fortalecen empujándose unos a otros en grupos. Les encantan los dulces.",
+        "Perla": "Se fortalecen empujándose unos a otros en grupos. Les encantan los dulces.",
+        "Platino": "Se fortalecen empujándose unos a otros en grupos. Les encantan los dulces.",
+        "Oro HeartGold": "Suelen ir en grupo. Templan su paciencia jugando a empujarse los unos a los otros.",
+        "Plata SoulSilver": "Suelen ir en grupo. Templan su paciencia jugando a empujarse los unos a los otros.",
+        "Negro": "Se fortalecen empujándose unos a otros en grupos. Les encantan los dulces.",
+        "Blanco": "Se fortalecen empujándose unos a otros en grupos. Les encantan los dulces.",
+        "Negro 2": "Se fortalecen empujándose unos a otros en grupos. Les encantan los dulces.",
+        "Blanco 2": "Se fortalecen empujándose unos a otros en grupos. Les encantan los dulces.",
+        "Pokémon X": "Suelen ir en grupo y a la hora de dormir se resguardan en una cueva.",
+        "Pokémon Y": "Se fortalecen empujándose unos a otros en grupos. Les encantan los dulces.",
+        "Rubí Omega": "Wynaut está siempre con una gran sonrisa puesta. Para ver si esta enfadado, basta con mirarle la cola. Cuando se le molesta, se pone a dar golpetazos en el suelo",
+        "Zafiro Alfa": "Los Wynaut se agrupan cuando hay luna para jugar achuchándose unos a otros. Cuanto más se achuchan, más ganan en resistencia y lanzan fuertes contraataques con más facilidad.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Suelen ir en grupo. Templan su paciencia jugando a empujarse los unos a los otros.",
+        "Escudo": "Suelen ir en grupo y, a la hora de dormir, se pegan unos a otros para descansar resguardados en cuevas.",
+        "Diamante Brillante": "Forman corros y se empujan entre sí para ganar resistencia. Les encanta la fruta dulce.",
+        "Perla Reluciente": "Forman corros y se empujan entre sí para ganar resistencia. Les encanta la fruta dulce.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Wynaut",
+            "Nivel 15",
+            "Wobbuffet"
+        ]
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "dex number": "304",
+    "pokemon name": "Aron",
+    "types": [
+        "acero",
+        "roca"
+    ],
+    "abilities": [
+        "Robustez",
+        "Cabeza roca"
+    ],
+    "hidden abilities": [
+        "Metal pesado"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "70",
+        "def": "100",
+        "atk esp": "40",
+        "def esp": "40",
+        "speed": "30"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Cueva Granito y Calle Victoria"
+        ],
+        "Zafiro": [
+            "Salvaje: Cueva Granito y Calle Victoria"
+        ],
+        "Esmeralda": [
+            "Salvaje: Cueva Granito y Calle Victoria"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pokéradar: Forja Fuego",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Diamante o Pokémon Platino",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Pokéradar: Forja Fuego",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari, después de haber obtenido la Pokédex Nacional",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari, después de haber obtenido la Pokédex Nacional",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco",
+            "Dream World: Cueva Helada"
+        ],
+        "Negro 2": [
+            "Salvaje: Cueva Loza",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco 2": [
+            "Salvaje: Cueva Loza",
+            "Dream World: Cueva Helada"
+        ],
+        "Pokémon X": [
+            "Salvaje: Cueva Desenlace"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon X, Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Granito",
+            "Encuentro de horda: Calle Victoria"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Granito",
+            "Encuentro de horda: Calle Victoria"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Aggron"
+        ],
+        "Ultraluna": [
+            "Criar: de Aggron"
+        ],
+        "Espada": [
+            "Salvaje: Lago Bolaguna  y Gruta del Lago ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Lago Bolaguna  y Gruta del Lago ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Forja Fuego.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Leyendas: Arceus": [
+            "Aron no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Este Pokémon tiene el cuerpo de acero. Para mantenerlo, se alimenta del hierro que saca de las montañas. A veces, causa verdaderos problemas, pues se come puentes y vías de tren.",
+        "Zafiro": "Aron tiene el cuerpo de acero. Con una carga hecha con toda la fuerza es capaz de demoler hasta un camión de basura. Y, a continuación, comérselo.",
+        "Esmeralda": "Está cubierto por una coraza de acero que se regenera cuando evoluciona. La coraza vieja, ya estropeada, se recicla para fabricar productos de hierro.",
+        "Rojo Fuego": "Se alimenta de hierro para fortalecer su cuerpo de acero. Es un problema, pues devora puentes y vías de tren.",
+        "Verde Hoja": "Se alimenta de hierro para fortalecer su cuerpo de acero. Es un problema, pues devora puentes y vías de tren.",
+        "Diamante": "Suele vivir en lugares inaccesibles de las montañas, pero el hambre lo empuja a comer raíles y coches.",
+        "Perla": "Suele vivir en lugares inaccesibles de las montañas, pero el hambre lo empuja a comer raíles y coches.",
+        "Platino": "Suele vivir en lugares inaccesibles de las montañas, pero el hambre lo empuja a comer raíles y coches.",
+        "Oro HeartGold": "Al evolucionar, la coraza de acero que recubre todo su cuerpo se cae para crear una nueva.",
+        "Plata SoulSilver": "Al evolucionar, la coraza de acero que recubre todo su cuerpo se cae para crear una nueva.",
+        "Negro": "Suele vivir en lugares inaccesibles de las montañas, pero el hambre lo empuja a comer raíles y coches.",
+        "Blanco": "Suele vivir en lugares inaccesibles de las montañas, pero el hambre lo empuja a comer raíles y coches.",
+        "Negro 2": "Se alimenta de hierro para construir su cuerpo de acero. Aron es un incordio porque a menudo se come vías de tren.",
+        "Blanco 2": "Se alimenta de hierro para construir su cuerpo de acero. Aron es un incordio porque a menudo se come vías de tren.",
+        "Pokémon X": "Suele vivir en lugares inaccesibles de las montañas, pero el hambre lo empuja a comer raíles y coches.",
+        "Pokémon Y": "Al evolucionar, la coraza de acero que recubre todo su cuerpo se cae para crear una nueva.",
+        "Rubí Omega": "Este Pokémon tiene el cuerpo de acero. Para mantenerlo, se alimenta del hierro que saca de las montañas. A veces, causa verdaderos problemas, pues se come puentes y vías de tren.",
+        "Zafiro Alfa": "Aron tiene el cuerpo de acero. Con una carga hecha con toda la fuerza es capaz de demoler hasta un camión de basura. Y, a continuación, comérselo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Se alimenta de minerales de hierro o, en ocasiones, de vías de tren para producir la coraza de acero que le protege el cuerpo.",
+        "Escudo": "Antiguamente se recogía la coraza de acero que este Pokémon desprende al evolucionar y se empleaba para distintos usos.",
+        "Diamante Brillante": "Suele vivir en lugares inaccesibles de las montañas, pero el hambre lo empuja a comer raíles y coches.",
+        "Perla Reluciente": "Suele vivir en lugares inaccesibles de las montañas, pero el hambre lo empuja a comer raíles y coches.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Aron",
+            "Nivel 32",
+            "Lairon",
+            "Nivel 42",
+            "Aggron"
+        ]
+    ]
+}

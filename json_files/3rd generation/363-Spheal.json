@@ -1,0 +1,154 @@
+{
+    "dex number": "363",
+    "pokemon name": "Spheal",
+    "types": [
+        "hielo",
+        "agua"
+    ],
+    "abilities": [
+        "Sebo",
+        "Gélido"
+    ],
+    "hidden abilities": [
+        "Despiste"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "40",
+        "def": "50",
+        "atk esp": "55",
+        "def esp": "50",
+        "speed": "25"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Cueva Cardumen"
+        ],
+        "Zafiro": [
+            "Salvaje: Cueva Cardumen"
+        ],
+        "Esmeralda": [
+            "Salvaje: Cueva Cardumen"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Perla": [
+            "Surfeando: Ruta 226 y Ruta 230"
+        ],
+        "Platino": [
+            "Criar: de Sealeo o Walrein",
+            "Parque Compi: Zona Marina"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari"
+        ],
+        "Negro": [
+            "Surfeando: Bahía Arenisca (solo en invierno)",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco": [
+            "Surfeando: Bahía Arenisca (solo en invierno)",
+            "Dream World: Cueva Helada"
+        ],
+        "Negro 2": [
+            "Surfeando: Bahía Arenisca (solo en invierno)",
+            "Claro oculto: Ruta 13",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco 2": [
+            "Surfeando: Bahía Arenisca (solo en invierno)",
+            "Claro oculto: Ruta 13",
+            "Dream World: Cueva Helada"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo hielo"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo hielo"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Cardumen"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Cardumen"
+        ],
+        "Sol": [
+            "Escáner insular: Ruta 7 (solo los lunes)"
+        ],
+        "Luna": [
+            "Escáner insular: Ruta 7 (solo los lunes)"
+        ],
+        "Ultrasol": [
+            "Escáner insular: Ruta 7 (solo los lunes)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Ruta 7 (solo los lunes)"
+        ],
+        "Espada": [
+            "Salvaje: Mar Gélido ",
+            "Incursiones Dinamax: Lecho del Gigante  y Mar Gélido "
+        ],
+        "Escudo": [
+            "Salvaje: Mar Gélido ",
+            "Incursiones Dinamax: Lecho del Gigante  y Mar Gélido "
+        ],
+        "Diamante Brillante": [
+            "Criar: de Walrein."
+        ],
+        "Perla Reluciente": [
+            "Surfeando: Ruta 226 y Ruta 230.",
+            "Grutas del Subsuelo: Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje:Costa Cobalto: Playa Ginkgo."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Spheal se desplaza por el suelo más rápido rodando que caminando. Cuando come con otros de su especie, todos se ponen a aplaudir para expresar su alegría. Por eso, a veces son algo escandalosos.",
+        "Zafiro": "Spheal se desplaza siempre rodando gracias al cuerpo esférico que tiene. Al comenzar la época glacial, es fácil verle rodando por superficies heladas y atravesando el mar.",
+        "Esmeralda": "Está cubierto por completo con un grueso pelaje. Gracias a él, nunca siente frío: ni cuando rueda sobre placas de hielo ni cuando bucea en el mar.",
+        "Rojo Fuego": "Tiene un suave pelaje que lo protege del frío cuando se revuelca por el hielo.",
+        "Verde Hoja": "Tiene un suave pelaje que lo protege del frío cuando se revuelca por el hielo.",
+        "Diamante": "Rueda por los témpanos de hielo hasta la orilla, ya que su cuerpo no está bien adaptado para nadar.",
+        "Perla": "Rueda por los témpanos de hielo hasta la orilla, ya que su cuerpo no está bien adaptado para nadar.",
+        "Platino": "Rueda por los témpanos de hielo hasta la orilla, ya que su cuerpo no está bien adaptado para nadar.",
+        "Oro HeartGold": "Cruza el mar rodando sobre témpanos de hielo. Su mullido pelaje lo protege de la congelación.",
+        "Plata SoulSilver": "Cruza el mar rodando sobre témpanos de hielo. Su mullido pelaje lo protege de la congelación.",
+        "Negro": "Rueda por los témpanos de hielo hasta la orilla, ya que su cuerpo no está bien adaptado para nadar.",
+        "Blanco": "Rueda por los témpanos de hielo hasta la orilla, ya que su cuerpo no está bien adaptado para nadar.",
+        "Negro 2": "Como no saben nadar muy bien, se mueven rápidamente rodando. Cuando están alegres, dan palmadas con las aletas.",
+        "Blanco 2": "Como no saben nadar muy bien, se mueven rápidamente rodando. Cuando están alegres, dan palmadas con las aletas.",
+        "Pokémon X": "Como no saben nadar muy bien, se mueven rápidamente rodando. Cuando están alegres, dan palmadas con las aletas.",
+        "Pokémon Y": "Tiene un suave pelaje que lo protege del frío cuando se revuelca por el hielo.",
+        "Rubí Omega": "Spheal se desplaza por el suelo más rápido rodando que caminando. Cuando come con otros de su especie, todos se ponen a aplaudir para expresar su alegría. Por eso, a veces son algo escandalosos.",
+        "Zafiro Alfa": "Spheal se desplaza siempre rodando gracias al cuerpo esférico que tiene. Al comenzar la época glacial, es fácil verle rodando por superficies heladas y atravesando el mar.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "La gruesa capa de grasa bajo la piel le confiere una forma perfectamente esférica. Se desplaza más rápido rodando que caminando.",
+        "Escudo": "Flota entre las olas para examinar el océano. Si encuentra una presa, avisa enseguida a los Walrein de su manada.",
+        "Diamante Brillante": "Rueda sobre placas de hielo para alcanzar la orilla, ya que, debido a su morfología, es muy mal nadador.",
+        "Perla Reluciente": "Rueda sobre placas de hielo para alcanzar la orilla, ya que, debido a su morfología, es muy mal nadador.",
+        "Leyendas: Arceus": "Prefiere vivir en los témpanos cercanos a la costa y no quedarse en tierra firme, donde hay más depredadores. Su pelaje es muy aislante, por lo que soporta el frío extremo sin problema."
+    },
+    "evolution": [
+        [
+            "Spheal",
+            "Nivel 32",
+            "Sealeo",
+            "Nivel 44",
+            "Walrein"
+        ]
+    ]
+}

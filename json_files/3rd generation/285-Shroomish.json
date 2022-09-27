@@ -1,0 +1,150 @@
+{
+    "dex number": "285",
+    "pokemon name": "Shroomish",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Efecto espora",
+        "Antídoto (habilidad)"
+    ],
+    "hidden abilities": [
+        "Pies rápidos"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "40",
+        "def": "60",
+        "atk esp": "40",
+        "def esp": "60",
+        "speed": "35"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Bosque Petalia."
+        ],
+        "Zafiro": [
+            "Salvaje: Bosque Petalia."
+        ],
+        "Esmeralda": [
+            "Salvaje: Bosque Petalia."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: Gran Pantano (después de obtener la Pokédex Nacional).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Salvaje: Gran Pantano (después de obtener la Pokédex Nacional).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje: Gran Pantano (después de obtener la Pokédex Nacional).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Golpe cabeza: Bosque Verde en uno de los cuatro árboles de la esquina inferior derecha del bosque (su ubicación varía del juego).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Golpe cabeza: Bosque Verde en uno de los cuatro árboles de la esquina inferior derecha del bosque (su ubicación varía del juego).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Manada Pokémon: Ruta 11",
+            "Dream World: Parque de los Sueños, con la habilidad Pies rápidos."
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro.",
+            "Dream World: Parque de los Sueños, con la habilidad Pies rápidos."
+        ],
+        "Negro 2": [
+            "Criando: de Breloom",
+            "Dream World: Parque de los Sueños, con la habilidad Pies rápidos."
+        ],
+        "Blanco 2": [
+            "Criando: de Breloom",
+            "Dream World: Parque de los Sueños, con la habilidad Pies rápidos."
+        ],
+        "Pokémon X": [
+            "Criando: de Breloom."
+        ],
+        "Pokémon Y": [
+            "Criando: de Breloom."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque Petalia."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque Petalia."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Shroomish no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Shroomish no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Gran Pantano (después de obtener la Pokédex Nacional)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Gran Pantano (después de obtener la Pokédex Nacional)."
+        ],
+        "Leyendas: Arceus": [
+            "Shroomish no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Los Shroomish viven en zonas húmedas en la profunda oscuridad del bosque. Suelen quedarse tranquilamente bajo las hojas caídas. Se alimentan del abono que éstas generan al empezar a pudrirse.",
+        "Zafiro": "Si Shroomish siente peligro, agita el cuerpo y libera esporas venenosas por la cabeza. Estas esporas son tan tóxicas que pueden hacer que se marchiten los árboles y hasta las malas hierbas.",
+        "Esmeralda": "Le encanta alimentarse de la tierra abonada y húmeda de los bosques. Si vas a un bosque después de que haya llovido, verás a Shroomish engullendo tierra.",
+        "Rojo Fuego": "Prefiere los sitios húmedos. De día está tranquilamente en el bosque, a la sombra. Expulsa polvo tóxico por la cabeza.",
+        "Verde Hoja": "Prefiere los sitios húmedos. De día está tranquilamente en el bosque, a la sombra. Expulsa polvo tóxico por la cabeza.",
+        "Diamante": "Lanza esporas venenosas desde la parte superior de la cabeza. Inhalarlas es muy doloroso.",
+        "Perla": "Lanza esporas venenosas desde la parte superior de la cabeza. Inhalarlas es muy doloroso.",
+        "Platino": "Lanza esporas venenosas desde la parte superior de la cabeza. Inhalarlas es muy doloroso.",
+        "Oro HeartGold": "Si presiente peligro, se protege esparciendo esporas venenosas desde la parte superior de su cabeza.",
+        "Plata SoulSilver": "Si presiente peligro, se protege esparciendo esporas venenosas desde la parte superior de su cabeza.",
+        "Negro": "Lanza esporas venenosas desde la parte superior de la cabeza. Inhalarlas es muy doloroso.",
+        "Blanco": "Lanza esporas venenosas desde la parte superior de la cabeza. Inhalarlas es muy doloroso.",
+        "Negro 2": "Lanza esporas venenosas desde la parte superior de la cabeza. Inhalarlas es muy doloroso.",
+        "Blanco 2": "Lanza esporas venenosas desde la parte superior de la cabeza. Inhalarlas es muy doloroso.",
+        "Pokémon X": "Prefiere los sitios húmedos. De día está tranquilamente en el bosque, a la sombra. Expulsa polvo tóxico por la cabeza.",
+        "Pokémon Y": "Lanza esporas venenosas desde la parte superior de la cabeza. Inhalarlas es muy doloroso.",
+        "Rubí Omega": "Los Shroomish viven en zonas húmedas en la profunda oscuridad del bosque. Suelen quedarse tranquilamente bajo las hojas caídas. Se alimentan del abono que éstas generan al empezar a pudrirse.",
+        "Zafiro Alfa": "Si Shroomish siente peligro, agita el cuerpo y libera esporas venenosas por la cabeza. Estas esporas son tan tóxicas que pueden hacer que se marchiten los árboles y hasta las malas hierbas.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Lanza esporas venenosas desde la parte superior de la cabeza. Inhalarlas provoca dolor articular.",
+        "Perla Reluciente": "Lanza esporas venenosas desde la parte superior de la cabeza. Inhalarlas provoca dolor articular.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Shroomish",
+            "Nivel 23",
+            "Breloom"
+        ]
+    ]
+}

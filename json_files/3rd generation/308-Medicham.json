@@ -1,0 +1,164 @@
+{
+    "dex number": "308",
+    "pokemon name": "Medicham",
+    "types": [
+        "lucha",
+        "psíquico"
+    ],
+    "abilities": [
+        "Energía pura"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "60",
+        "def": "75",
+        "atk esp": "60",
+        "def esp": "75",
+        "speed": "80"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Calle Victoria (sótanos 1 y 2).",
+            "Evolucionar: de Meditite (nivel 37)."
+        ],
+        "Zafiro": [
+            "Salvaje: Calle Victoria (sótanos 1 y 2).",
+            "Evolucionar: de Meditite (nivel 37)."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Colosseum o Pokémon XD.",
+            "Evolucionar: de Meditite (nivel 37)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Colosseum o Pokémon XD.",
+            "Evolucionar: de Meditite (nivel 37)."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Colosseum o Pokémon XD.",
+            "Evolucionar: de Meditite (nivel 37)."
+        ],
+        "Diamante": [
+            "Salvaje: ruta 217, Orilla Agudeza, Monte Corona (cima), Calle Victoria.",
+            "Evolucionar: de Meditite (nivel 37).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Salvaje: ruta 217, Orilla Agudeza, Monte Corona (cima), Calle Victoria.",
+            "Evolucionar: de Meditite (nivel 37).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Salvaje: Monte Corona.",
+            "Evolucionar: de Meditite (nivel 37).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari.",
+            "Evolucionar: de Meditite (nivel 37).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari.",
+            "Evolucionar: de Meditite (nivel 37).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino o Oro HeartGold y Plata SoulSilver.",
+            "Evolucionar: de Meditite (nivel 37).",
+            "Dream World: con la habilidad Telepatía."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino o Oro HeartGold y Plata SoulSilver.",
+            "Evolucionar: de Meditite (nivel 37).",
+            "Dream World: con la habilidad Telepatía."
+        ],
+        "Negro 2": [
+            "Claro oculto: Bosque Azulejo."
+        ],
+        "Blanco 2": [
+            "Claro oculto: Bosque Azulejo."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Meditite (nivel 37)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Meditite (nivel 37)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Calle Victoria (entrada, primera planta y sótano).",
+            "Evolucionar: de Meditite (nivel 37)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Calle Victoria (entrada, primera planta y sótano).",
+            "Evolucionar: de Meditite (nivel 37)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo."
+        ],
+        "Espada": [
+            "Medicham no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Medicham no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: ruta 217, Orilla Agudeza, Monte Corona y Calle Victoria.",
+            "Evolucionar: de Meditite (nivel 37)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: ruta 217, Orilla Agudeza, Monte Corona y Calle Victoria.",
+            "Evolucionar: de Meditite (nivel 37)."
+        ],
+        "Leyendas: Arceus": [
+            "Medicham no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Dicen que, a través de la meditación, Medicham aumenta su energía interior y agudiza el sexto sentido que tiene. Este Pokémon suele esconderse mezclándose con el campo y las montañas.",
+        "Zafiro": "A través de la meditación, Medicham desarrolló su sexto sentido y aprendió a usar poderes psicoquinéticos. Se sabe que este Pokémon puede pasarse un mes meditando y sin comer.",
+        "Esmeralda": "Gracias a agotadoras sesiones de yoga, ha adquirido la capacidad de prever las acciones del enemigo. Lucha realizando movimientos elegantes y rítmicos.",
+        "Rojo Fuego": "Evita los ataques moviéndose de forma elegante, como si bailara. Ataca dando un golpe devastador y moviéndose igual.",
+        "Verde Hoja": "Evita los ataques moviéndose de forma elegante, como si bailara. Ataca dando un golpe devastador y moviéndose igual.",
+        "Diamante": "El yoga ha perfeccionado su sexto sentido. Sus movimientos son extremadamente elegantes.",
+        "Perla": "Perfecciona su poder espiritual con una meditación diaria. Puede sentir lo que piensan los demás.",
+        "Platino": "Cuando ayuna adquiere la habilidad de ver el aura de sus adversarios.",
+        "Oro HeartGold": "Puede prever los movimientos de su rival usando sus poderes psíquicos, fortalecidos por el yoga.",
+        "Plata SoulSilver": "Puede prever los movimientos de su rival usando sus poderes psíquicos, fortalecidos por el yoga.",
+        "Negro": "Cuando ayuna adquiere la habilidad de ver el aura de sus adversarios.",
+        "Blanco": "Cuando ayuna adquiere la habilidad de ver el aura de sus adversarios.",
+        "Negro 2": "Cuando ayuna adquiere la habilidad de ver el aura de sus adversarios.",
+        "Blanco 2": "Cuando ayuna adquiere la habilidad de ver el aura de sus adversarios.",
+        "Pokémon X": "Evita los ataques moviéndose de forma elegante, como si bailara. Ataca dando un golpe devastador y moviéndose igual.",
+        "Pokémon Y": "Puede prever los movimientos de su rival usando sus poderes psíquicos, fortalecidos por el yoga.",
+        "Rubí Omega": "Dicen que, a través de la meditación, Medicham aumenta su energía interior y agudiza el sexto sentido que tiene. Este Pokémon suele esconderse mezclándose con el campo y las montañas.",
+        "Zafiro Alfa": "A través de la meditación, Medicham desarrolló su sexto sentido y aprendió a usar poderes psicoquinéticos. Se sabe que este Pokémon puede pasarse un mes meditando y sin comer.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "El yoga le ha permitido desarrollar su sexto sentido. Sus movimientos son tan gráciles como una elegante danza.",
+        "Perla Reluciente": "Meditar a diario le ha permitido desarrollar su poder espiritual y adquirir la capacidad de leer los pensamientos de sus adversarios.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Meditite",
+            "Nivel 37",
+            "Medicham"
+        ]
+    ]
+}

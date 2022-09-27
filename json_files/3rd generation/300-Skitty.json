@@ -1,0 +1,157 @@
+{
+    "dex number": "300",
+    "pokemon name": "Skitty",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Gran encanto",
+        "Normalidad"
+    ],
+    "hidden abilities": [
+        "Piel milagro"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "45",
+        "def": "45",
+        "atk esp": "35",
+        "def esp": "35",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Ruta 116",
+            "Intercambiar: por un Pikachu en Ciudad Arborada",
+            "Especial: huevo entregado por Nereida al almacenar 500 Pokémon en Pokémon Box"
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 116",
+            "Intercambiar: por un Pikachu en Ciudad Arborada",
+            "Especial: huevo entregado por Nereida al almacenar 500 Pokémon en Pokémon Box"
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 116",
+            "Especial: huevo entregado por Nereida al almacenar 500 Pokémon en Pokémon Box"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Manada: Ruta 222",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Manada: Ruta 222",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Manada: Ruta 222",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Pokéwalker: Llano de Hoenn",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Pokéwalker: Llano de Hoenn",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino o Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino o Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco 2"
+        ],
+        "Blanco 2": [
+            "Salvaje: Solar de Ciudad Porcelana"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 4."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 4."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 116",
+            "Intercambiar: por un Spinda en Ciudad Arborada"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 116",
+            "Intercambiar: por un Spinda en Ciudad Arborada"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Skitty no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Skitty no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Manada: Ruta 222.",
+            "Grutas del Subsuelo: Cueva Menor y Cueva Espaciosa."
+        ],
+        "Perla Reluciente": [
+            "Manada: Ruta 222.",
+            "Grutas del Subsuelo: Cueva Menor y Cueva Espaciosa."
+        ],
+        "Leyendas: Arceus": [
+            "Skitty no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "A Skitty le encanta mover cosas e ir detrás de ellas. Es de todos sabido que se dedica a ir detrás de su propia cola y que, al final, acaba mareándose.",
+        "Zafiro": "Skitty es conocido por la costumbre que tiene de juguetear y de intentar pillarse la cola. En estado salvaje, habita en las cavidades de los troncos de los árboles del bosque. Es la mascota de muchos por lo dulce que parece.",
+        "Esmeralda": "La forma de ser de Skitty, entrañable y adorable, lo hace tremendamente popular. En combate, hincha la cola y amenaza a su rival con un agudo gruñido.",
+        "Rojo Fuego": "Dicen que cuesta ganarse su confianza, pero que es muy dulce y que se porta muy bien.",
+        "Verde Hoja": "Dicen que cuesta ganarse su confianza, pero que es muy dulce y que se porta muy bien.",
+        "Diamante": "No puede evitar ir tras las cosas que se mueven. Hasta corre en círculos persiguiéndose la cola.",
+        "Perla": "No puede evitar ir tras las cosas que se mueven. Hasta corre en círculos persiguiéndose la cola.",
+        "Platino": "No puede evitar ir tras las cosas que se mueven. Hasta corre en círculos persiguiéndose la cola.",
+        "Oro HeartGold": "Le gusta perseguir su propia cola y entornar los ojos. Cuesta ganarse su confianza.",
+        "Plata SoulSilver": "Le gusta perseguir su propia cola y entornar los ojos. Cuesta ganarse su confianza.",
+        "Negro": "No puede evitar ir tras las cosas que se mueven. Hasta corre en círculos persiguiéndose la cola.",
+        "Blanco": "No puede evitar ir tras las cosas que se mueven. Hasta corre en círculos persiguiéndose la cola.",
+        "Negro 2": "Le gusta jugar persiguiéndose la cola hasta que se marea, mostrando así su lado más mono.",
+        "Blanco 2": "Le gusta jugar persiguiéndose la cola hasta que se marea, mostrando así su lado más mono.",
+        "Pokémon X": "No puede evitar ir tras las cosas que se mueven. Hasta corre en círculos persiguiéndose la cola.",
+        "Pokémon Y": "Le gusta jugar persiguiéndose la cola hasta que se marea, mostrando así su lado más mono.",
+        "Rubí Omega": "A Skitty le encanta mover cosas e ir detrás de ellas. Es de todos sabido que se dedica a ir detrás de su propia cola y que, al final, acaba mareándose.",
+        "Zafiro Alfa": "Skitty es conocido por la costumbre que tiene de juguetear y de intentar pillarse la cola. En estado salvaje, habita en las cavidades de los troncos de los árboles del bosque. Es la mascota de muchos por lo dulce que parece.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "No puede evitar ir tras las cosas que se mueven. Hasta corre en círculos persiguiéndose la cola.",
+        "Perla Reluciente": "No puede evitar ir tras las cosas que se mueven. Hasta corre en círculos persiguiéndose la cola.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Skitty",
+            "Piedra lunar ",
+            "Delcatty"
+        ]
+    ]
+}

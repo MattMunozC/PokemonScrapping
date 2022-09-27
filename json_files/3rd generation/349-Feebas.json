@@ -1,0 +1,158 @@
+{
+    "dex number": "349",
+    "pokemon name": "Feebas",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Despiste"
+    ],
+    "hidden abilities": [
+        "Adaptable"
+    ],
+    "stats": {
+        "hp": "20",
+        "atk": "15",
+        "def": "20",
+        "atk esp": "10",
+        "def esp": "55",
+        "speed": "80"
+    },
+    "location": {
+        "Rubí": [
+            "Pescando: Ruta 119, con cualquier caña (ver explicación de captura más abajo)"
+        ],
+        "Zafiro": [
+            "Pescando: Ruta 119, con cualquier caña (ver explicación de captura más abajo)"
+        ],
+        "Esmeralda": [
+            "Pescando: Ruta 119, con cualquier caña (ver explicación de captura más abajo)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pescando: Monte Corona con caña buena o supercaña (ver explicación de captura más abajo).",
+            "Parque Compi: Zona marina"
+        ],
+        "Perla": [
+            "Pescando: Monte Corona con caña buena o supercaña (ver explicación de captura más abajo).",
+            "Parque Compi: Zona marina"
+        ],
+        "Platino": [
+            "Pescando: Monte Corona con caña buena o supercaña (ver explicación de captura más abajo).",
+            "Parque Compi: Zona marina"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Pokéwalker: Cueva Calma",
+            "Parque Compi: Zona marina"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Pokéwalker: Cueva Calma",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Pescando: Ruta 1 con supercaña",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco": [
+            "Pescando: Ruta 1 con supercaña",
+            "Dream World: Mar Brillante"
+        ],
+        "Negro 2": [
+            "Pescando: Ruta 1 con supercaña",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Pescando: Ruta 1 con supercaña",
+            "Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Pescando: Ruta 119, con cualquier caña (ver explicación de captura más abajo)"
+        ],
+        "Zafiro Alfa": [
+            "Pescando: Ruta 119, con cualquier caña (ver explicación de captura más abajo)"
+        ],
+        "Sol": [
+            "Pescando: Colina Saltagua"
+        ],
+        "Luna": [
+            "Pescando: Colina Saltagua"
+        ],
+        "Ultrasol": [
+            "Pescando: Colina Saltagua"
+        ],
+        "Ultraluna": [
+            "Pescando: Colina Saltagua"
+        ],
+        "Espada": [
+            "Salvaje: Lecho del Gigante , Suela del Gigante  y Grutas Sonamar ",
+            "Pescando: Ruta 2 y Lago Bolaguna ",
+            "Incursiones Dinamax: Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna."
+        ],
+        "Escudo": [
+            "Salvaje: Lecho del Gigante , Suela del Gigante  y Grutas Sonamar ",
+            "Pescando: Ruta 2 y Lago Bolaguna ",
+            "Incursiones Dinamax: Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna."
+        ],
+        "Diamante Brillante": [
+            "Pescando: Monte Corona con caña buena o supercaña (ver explicación de captura más abajo)."
+        ],
+        "Perla Reluciente": [
+            "Pescando: Monte Corona con caña buena o supercaña (ver explicación de captura más abajo)."
+        ],
+        "Leyendas: Arceus": [
+            "Feebas no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Feebas tiene las aletas melladas y rasgadas desde que nace. Debido a este aspecto poco imponente, son pocos los que lo tienen en cuenta. Este Pokémon puede vivir tanto en agua salada como dulce.",
+        "Zafiro": "Aunque Feebas tenga un cuerpo poco compacto, posee una tremenda y constante fuerza vital que le permite vivir en cualquier lugar. Con todo, es un Pokémon lento y simplón; es fácil de atrapar.",
+        "Esmeralda": "Feebas vive en charcas llenas de algas. Parece que el aspecto terriblemente descuidado que ofrece sea la causa de que pocos entrenadores lo críen.",
+        "Rojo Fuego": "A los investigadores no les interesa mucho por el aspecto poco imponente que tiene. Habita estanques que tengan algas.",
+        "Verde Hoja": "A los investigadores no les interesa mucho por el aspecto poco imponente que tiene. Habita estanques que tengan algas.",
+        "Diamante": "Se caracterizan por su aspecto endeble. Se agrupan en gran número en lugares muy concretos.",
+        "Perla": "Come de todo, por lo que puede vivir en aguas contaminadas. Nadie le presta atención.",
+        "Platino": "Su apariencia deja bastante que desear, pero es muy resistente y puede sobrevivir con poca agua.",
+        "Oro HeartGold": "Es el Pokémon con peor aspecto. Vive en grupo en lechos de ríos con abundantes plantas acuáticas.",
+        "Plata SoulSilver": "Es el Pokémon con peor aspecto. Vive en grupo en lechos de ríos con abundantes plantas acuáticas.",
+        "Negro": "Su apariencia deja bastante que desear, pero es muy resistente y puede sobrevivir con poca agua.",
+        "Blanco": "Su apariencia deja bastante que desear, pero es muy resistente y puede sobrevivir con poca agua.",
+        "Negro 2": "Su apariencia deja bastante que desear, pero es muy resistente y puede sobrevivir con poca agua.",
+        "Blanco 2": "Su apariencia deja bastante que desear, pero es muy resistente y puede sobrevivir con poca agua.",
+        "Pokémon X": "Come de todo, por lo que puede vivir en aguas contaminadas. Nadie le presta atención.",
+        "Pokémon Y": "Es el Pokémon con peor aspecto. Vive en grupo en lechos de ríos con abundantes plantas acuáticas.",
+        "Rubí Omega": "Feebas tiene las aletas melladas y rasgadas desde que nace. Debido a este aspecto poco imponente, son pocos los que lo tienen en cuenta. Este Pokémon puede vivir tanto en agua salada como dulce.",
+        "Zafiro Alfa": "Aunque Feebas tenga el cuerpo mellado, posee una tremenda y constante fuerza vital que le permite vivir en cualquier lugar. Con todo, es un Pokémon lento y simplón; es fácil de atrapar.",
+        "Sol": "Este Pokémon es tan resistente que puede vivir sin problema hasta en las aguas más sucias, pero no es muy popular a causa de su aspecto.",
+        "Luna": "Como su aspecto deja bastante que desear, no se le aprecia mucho. Aun así, su gran vitalidad puede ser muy interesante para la ciencia.",
+        "Ultrasol": "Debido a su cuerpo mellado y su feo aspecto, no es muy apetecible como presa ni popular entre los Entrenadores y por eso está proliferando.",
+        "Ultraluna": "Debido a su aspecto tan descuidado, la mayoría de la gente no le presta atención. Sin embargo, hay personas que coleccionan solo Feebas.",
+        "Espada": "Su aspecto poco agraciado hace que no sea muy popular, pero su gran vitalidad resulta de gran interés para la ciencia.",
+        "Escudo": "Su apariencia deja bastante que desear, pero es muy resistente y puede sobrevivir con poca agua.",
+        "Diamante Brillante": "Se caracteriza por tener un aspecto descuidado. Su numerosa población se halla distribuida y concentrada en lugares muy concretos.",
+        "Perla Reluciente": "Come de todo, por lo que puede vivir incluso en aguas contaminadas. Nadie le presta atención.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Feebas",
+            "Belleza alta + nivel2; ointercambio equipado conescama bella 3",
+            "Milotic"
+        ]
+    ]
+}

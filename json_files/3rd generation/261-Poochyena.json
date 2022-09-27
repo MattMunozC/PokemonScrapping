@@ -1,0 +1,151 @@
+{
+    "dex number": "261",
+    "pokemon name": "Poochyena",
+    "types": [
+        "siniestro"
+    ],
+    "abilities": [
+        "Fuga",
+        "Pies rápidos"
+    ],
+    "hidden abilities": [
+        "Cobardía"
+    ],
+    "stats": {
+        "hp": "35",
+        "atk": "55",
+        "def": "35",
+        "atk esp": "30",
+        "def esp": "30",
+        "speed": "35"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: rutas 101, 102 y 103."
+        ],
+        "Zafiro": [
+            "Salvaje: rutas 101, 102 y 103."
+        ],
+        "Esmeralda": [
+            "Salvaje: rutas 101, 102, 103, 104, 110, 116, 117, 120, 121 y 123, Bosque Petalia."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Pokémon XD."
+        ],
+        "Diamante": [
+            "Criando: de Mightyena.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Diamante, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Pokéradar: ruta 214.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Manada Pokémon: ruta 1.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Manada Pokémon: ruta 1.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco.",
+            "Dream World: Bosque Pequeño con la habilidad Cobardía."
+        ],
+        "Blanco": [
+            "Manada: Ruta 9",
+            "Dream World: Bosque Pequeño con la habilidad Cobardía."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco.",
+            "Dream World: Bosque Pequeño con la habilidad Cobardía."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco.",
+            "Dream World: Bosque Pequeño con la habilidad Cobardía."
+        ],
+        "Pokémon X": [
+            "Criando: de Mightyena."
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon X.",
+            "Poké Trasladador: Transferir de Pokémon Blanco."
+        ],
+        "Rubí Omega": [
+            "Salvaje: rutas 101, 102 y 103."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: rutas 101, 102 y 103."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Poochyena no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Poochyena no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Leyendas: Arceus": [
+            "Poochyena no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "La primera reacción que Poochyena tiene al ver algo moverse es darle un mordisco. Este Pokémon persigue a su presa hasta que cae agotada. Aunque a veces, sale huyendo si su presa le responde con un ataque.",
+        "Zafiro": "Poochyena es un Pokémon omnívoro. Se come lo que sea. El gran tamaño de los colmillos respecto al resto del cuerpo le dan una característica especial. Este Pokémon hace que se le erice la cola para intentar intimidar a su rival.",
+        "Esmeralda": "Amenaza al enemigo enseñándole con violencia los colmillos. Persigue a su presa cuando huye, pero, si le atacan, sale huyendo a todo correr.",
+        "Rojo Fuego": "Es tenaz, por naturaleza. Tiene un sentido del olfato tan agudo que nunca se le escapa la presa que quiere.",
+        "Verde Hoja": "Es tenaz, por naturaleza. Tiene un sentido del olfato tan agudo que nunca se le escapa la presa que quiere.",
+        "Diamante": "Es muy persistente. Si se fija en una presa, no la dejará hasta que caiga agotada.",
+        "Perla": "Es muy persistente. Si se fija en una presa, no la dejará hasta que caiga agotada.",
+        "Platino": "Es muy persistente. Si se fija en una presa, no la dejará hasta que caiga agotada.",
+        "Oro HeartGold": "Si se fija en una presa, no cejará hasta que se canse, pero si esta contraataca, se acobardará.",
+        "Plata SoulSilver": "Si se fija en una presa, no cejará hasta que se canse, pero si esta contraataca, se acobardará.",
+        "Negro": "Es muy persistente. Si se fija en una presa, no la dejará hasta que caiga agotada.",
+        "Blanco": "Es muy persistente. Si se fija en una presa, no la dejará hasta que caiga agotada.",
+        "Negro 2": "Es muy persistente. Si se fija en una presa, no la dejará hasta que caiga agotada.",
+        "Blanco 2": "Es muy persistente. Si se fija en una presa, no la dejará hasta que caiga agotada.",
+        "Pokémon X": "Es muy persistente. Si se fija en una presa, no la dejará hasta que caiga agotada.",
+        "Pokémon Y": "Es tenaz por naturaleza. Tiene un sentido del olfato tan agudo que nunca se le escapa la presa que quiere.",
+        "Rubí Omega": "La primera reacción que Poochyena tiene al ver algo moverse es darle un mordisco. Este Pokémon persigue a su presa hasta que cae agotada. Aunque a veces, sale huyendo si su presa le responde con un ataque.",
+        "Zafiro Alfa": "Poochyena es un Pokémon omnívoro. Se come lo que sea. Le caracteriza el gran tamaño de sus colmillos respecto al resto del cuerpo. Este Pokémon hace que se le erice la cola para intentar intimidar a su rival.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Es muy persistente. Si se fija en una presa, no dejará de perseguirla hasta que caiga agotada.",
+        "Perla Reluciente": "Es muy persistente. Si se fija en una presa, no dejará de perseguirla hasta que caiga agotada.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Poochyena",
+            "Nivel 18",
+            "Mightyena"
+        ]
+    ]
+}

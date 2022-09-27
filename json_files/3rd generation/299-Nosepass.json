@@ -1,0 +1,148 @@
+{
+    "dex number": "299",
+    "pokemon name": "Nosepass",
+    "types": [
+        "roca"
+    ],
+    "abilities": [
+        "Imán (habilidad)",
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Poder arena"
+    ],
+    "stats": {
+        "hp": "30",
+        "atk": "45",
+        "def": "135",
+        "atk esp": "45",
+        "def esp": "90",
+        "speed": "30"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Cueva Granito, usando golpe roca en las rocas del segundo sótano."
+        ],
+        "Zafiro": [
+            "Salvaje: Cueva Granito, usando golpe roca en las rocas del segundo sótano."
+        ],
+        "Esmeralda": [
+            "Salvaje: Cueva Granito, usando golpe roca en las rocas del segundo sótano."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Manada: ruta 206.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Manada: ruta 206.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Salvaje: Monte Corona.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Dream World: Cueva Helada con la habilidad Poder arena."
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Dream World: Cueva Helada con la habilidad Poder arena."
+        ],
+        "Negro 2": [
+            "Salvaje: Cueva Electrorroca, Túnel Yakón, Ruta 6 (en el Claro oculto que está a la entrada de la Cueva Loza, al noreste)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Cueva Electrorroca, Túnel Yakón, Ruta 6 (en el Claro oculto que está a la entrada de la Cueva Loza, al noreste)."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 10 (horda)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 10 (horda)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Granito, usando golpe roca en las rocas del segundo sótano."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Granito, usando golpe roca en las rocas del segundo sótano."
+        ],
+        "Sol": [
+            "Salvaje: Afueras de Akala."
+        ],
+        "Luna": [
+            "Salvaje: Afueras de Akala."
+        ],
+        "Ultrasol": [
+            "Salvaje: Afueras de Akala."
+        ],
+        "Ultraluna": [
+            "Salvaje: Afueras de Akala."
+        ],
+        "Espada": [
+            "Nosepass no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Nosepass no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Manada: ruta 206."
+        ],
+        "Perla Reluciente": [
+            "Manada: ruta 206."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Ladera Corona: Ruinas Celestiales y Caverna Inmemorial."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Nosepass siempre está con el pico magnético que tiene orientado hacia el norte. Si se encuentra con otro ejemplar de su especie, no puede mirarle de frente porque sus polos magnéticos se repelen.",
+        "Zafiro": "De Nosepass se llegó a decir que era totalmente estático; siempre con el pico orientado hacia el norte. Sin embargo, tras recientes estudios se ha visto que sí se mueve en realidad, apenas un centímetro al año.",
+        "Esmeralda": "Su cuerpo emite un magnetismo de gran alcance. Se alimenta de las presas que atrae. La fuerza que ejerce se intensifica en las estaciones frías.",
+        "Rojo Fuego": "Siempre está con el pico magnético orientado hacia el norte. Quienes viajan toman a Nosepass como referencia.",
+        "Verde Hoja": "Siempre está con el pico magnético orientado hacia el norte. Quienes viajan toman a Nosepass como referencia.",
+        "Diamante": "Su nariz es un imán. Por eso el rostro de este Pokémon siempre se orienta al norte.",
+        "Perla": "Su nariz es un imán. Por eso el rostro de este Pokémon siempre se orienta al norte.",
+        "Platino": "Se protege del peligro aumentando su magnetismo y atrayendo objetos de hierro hacia sí.",
+        "Oro HeartGold": "Si dos NOSEPASS aproximan sus narices, su fuerza magnética impedirá que puedan juntarse.",
+        "Plata SoulSilver": "Si dos NOSEPASS aproximan sus narices, su fuerza magnética impedirá que puedan juntarse.",
+        "Negro": "Se protege del peligro aumentando su magnetismo y atrayendo objetos de hierro hacia sí.",
+        "Blanco": "Se protege del peligro aumentando su magnetismo y atrayendo objetos de hierro hacia sí.",
+        "Negro 2": "Siempre apunta al norte con su nariz imantada. Con ella reviste su cuerpo de objetos metálicos para protegerse.",
+        "Blanco 2": "Siempre apunta al norte con su nariz imantada. Con ella reviste su cuerpo de objetos metálicos para protegerse.",
+        "Pokémon X": "Siempre apunta al norte con su nariz imantada. Con ella reviste su cuerpo de objetos metálicos para protegerse.",
+        "Pokémon Y": "Siempre está con el pico magnético orientado hacia el norte. Quienes viajan toman a Nosepass como referencia.",
+        "Rubí Omega": "Nosepass siempre está con el pico magnético que tiene orientado hacia el norte. Si se encuentra con otro ejemplar de su especie, no puede mirarle de frente porque sus polos magnéticos se repelen.",
+        "Zafiro Alfa": "De Nosepass se llegó a decir que era totalmente estático; siempre con el pico orientado hacia el norte. Sin embargo, tras recientes estudios se ha visto que sí se mueve en realidad, apenas un centímetro al año.",
+        "Sol": "Los Nosepass tienen una nariz brújula infalible, por lo que los Entrenadores viajeros suelen llevar uno consigo.",
+        "Luna": "Atraen a sus presas usando su potente fuerza magnética. En algunos casos también atraen metales para proteger sus cuerpos.",
+        "Ultrasol": "Solo se desplaza un centímetro al año, pero, si se siente amenazado, gira sobre sí mismo y se hunde bajo tierra en un abrir y cerrar de ojos.",
+        "Ultraluna": "Su potente fuerza magnética le permite atraer a sus presas sin necesidad de moverse, aunque a veces también atrae a sus enemigos naturales.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Su nariz es un imán. Por eso, el rostro de este Pokémon siempre se orienta hacia el norte.",
+        "Perla Reluciente": "Su nariz es un imán. Por eso, el rostro de este Pokémon siempre se orienta hacia el norte.",
+        "Leyendas: Arceus": "Su nariz roja funciona como las brújulas tradicionales y siempre apunta al norte. Cuando los habitantes de Hisui descubrieron este hecho, empezaron a emplearlos como guía en sus viajes."
+    },
+    "evolution": [
+        [
+            "Nosepass",
+            "Subir un nivel en uncampo magnético especialPiedra trueno2",
+            "Probopass"
+        ]
+    ]
+}

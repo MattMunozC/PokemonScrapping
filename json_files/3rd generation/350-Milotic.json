@@ -1,0 +1,154 @@
+{
+    "dex number": "350",
+    "pokemon name": "Milotic",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Escama especial",
+        "Tenacidad"
+    ],
+    "hidden abilities": [
+        "Gran encanto"
+    ],
+    "stats": {
+        "hp": "95",
+        "atk": "60",
+        "def": "79",
+        "atk esp": "100",
+        "def esp": "125",
+        "speed": "81"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Feebas (belleza + nivel)"
+        ],
+        "Zafiro": [
+            "Evolucionar: de Feebas (belleza + nivel)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Feebas (belleza + nivel)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Evolucionar: de Feebas (belleza + nivel)",
+            "Parque Compi: Zona marina."
+        ],
+        "Perla": [
+            "Evolucionar: de Feebas (belleza + nivel)",
+            "Parque Compi: Zona marina."
+        ],
+        "Platino": [
+            "Evolucionar: de Feebas (belleza + nivel)",
+            "Parque Compi: Zona marina."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Feebas (belleza + nivel)",
+            "Parque Compi: Zona marina."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Feebas (belleza + nivel)",
+            "Parque Compi: Zona marina."
+        ],
+        "Negro": [
+            "Salvaje: Pescando en la ruta 1 en las sombras de agua.",
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Blanco": [
+            "Salvaje: Pescando en la ruta 1 en las sombras de agua.",
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Negro 2": [
+            "Salvaje: Pescando en la ruta 1 en las sombras de agua.",
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Pescando en la ruta 1 en las sombras de agua.",
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Sol": [
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Luna": [
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado y Lago Milotic (sur) (encuentro especial con niebla), Lecho del Gigante en el río que delimita el mismo con el Lago Bolaguna (aparición con niebla) ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna.",
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado y Lago Milotic (sur) (encuentro especial con niebla), Lecho del Gigante en el río que delimita el mismo con el Lago Bolaguna (aparición con niebla) ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna.",
+            "Evolucionar: de Feebas (belleza + nivel o intercambio con escama bella equipada)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Feebas (belleza + nivel)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Feebas (belleza + nivel)."
+        ],
+        "Leyendas: Arceus": [
+            "Milotic no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "De Milotic se dice que es el Pokémon más bello. Tiene la capacidad de calmar sentimientos tales como el miedo y la hostilidad, y apaciguar las relaciones de áspera enemistad.",
+        "Zafiro": "Milotic vive en lo más profundo de los lagos. Cuando intensifica el color rosa de la piel, libera una fuerte onda de energía que tranquiliza a todo el que tenga el ánimo alterado.",
+        "Esmeralda": "Dicen que vive en el fondo de los grandes lagos. Se le considera el Pokémon más bello que existe y se le ha representado en multitud de pinturas y estatuas.",
+        "Rojo Fuego": "Milotic es impresionantemente bello. Quienes lo ven, temen perder las ganas de luchar contra él.",
+        "Verde Hoja": "Milotic es impresionantemente bello. Quienes lo ven, temen perder las ganas de luchar contra él.",
+        "Diamante": "Se dice que emerge del fondo de los lagos cuando la gente discute para apaciguarla.",
+        "Perla": "Es el Pokémon más hermoso del mundo. Milotic ha inspirado numerosas obras de arte.",
+        "Platino": "Sus preciosas escamas tienen todos los colores del arco iris y cambian de color según el ángulo de visión.",
+        "Oro HeartGold": "Se dice que su hermosa figura puede apaciguar el corazón de aquellos que tienen un carácter agriado.",
+        "Plata SoulSilver": "Se dice que su hermosa figura puede apaciguar el corazón de aquellos que tienen un carácter agriado.",
+        "Negro": "Sus preciosas escamas tienen todos los colores del arco iris y cambian de color según el ángulo de visión.",
+        "Blanco": "Sus preciosas escamas tienen todos los colores del arco iris y cambian de color según el ángulo de visión.",
+        "Negro 2": "Sus preciosas escamas tienen todos los colores del arco iris y cambian de color según el ángulo de visión.",
+        "Blanco 2": "Sus preciosas escamas tienen todos los colores del arco iris y cambian de color según el ángulo de visión.",
+        "Pokémon X": "Milotic es impresionantemente bello. Quienes lo ven, temen perder las ganas de luchar contra él.",
+        "Pokémon Y": "Es el Pokémon más hermoso del mundo. Milotic ha inspirado numerosas obras de arte.",
+        "Rubí Omega": "De Milotic se dice que es el Pokémon más bello. Tiene la capacidad de calmar sentimientos tales como el miedo y la hostilidad, y apaciguar las relaciones de áspera enemistad.",
+        "Zafiro Alfa": "Milotic vive en lo más profundo de los lagos. Cuando intensifica el color rosa de la piel, libera una fuerte onda de energía que tranquiliza a todo el que tenga el ánimo alterado.",
+        "Sol": "Se dice que es el Pokémon más bello. Ha sido la fuente de inspiración de un gran número de artistas.",
+        "Luna": "Milotic vive en lo más profundo de lagos de agua cristalina. En tiempos de guerra aparece para calmar el corazón de los hombres.",
+        "Ultrasol": "Dicen que es el Pokémon más bello, pero es algo que los Entrenadores forofos de los Feebas ponen en tela de juicio.",
+        "Ultraluna": "Vive en lo más profundo de los grandes lagos. Se dice que su gran belleza purifica el corazón de todos aquellos que lo contemplen.",
+        "Espada": "Se dice que es el Pokémon más bello. Ha sido la fuente de inspiración de un sinnúmero de artistas.",
+        "Escudo": "Se dice que su hermosa figura puede apaciguar el corazón de aquellos que tengan el ánimo alterado.",
+        "Diamante Brillante": "Se dice que, cuando la gente discute, emerge del fondo de los lagos para sosegar sus agitados corazones.",
+        "Perla Reluciente": "Se trata del Pokémon más hermoso del mundo. Ha servido de fuente de inspiración para numerosas obras de arte.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Feebas",
+            "Belleza alta + nivel2; ointercambio equipado conescama bella 3",
+            "Milotic"
+        ]
+    ]
+}

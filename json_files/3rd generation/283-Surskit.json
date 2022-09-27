@@ -1,0 +1,157 @@
+{
+    "dex number": "283",
+    "pokemon name": "Surskit",
+    "types": [
+        "bicho",
+        "agua"
+    ],
+    "abilities": [
+        "Nado rápido"
+    ],
+    "hidden abilities": [
+        "Cura lluvia"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "30",
+        "def": "32",
+        "atk esp": "50",
+        "def esp": "52",
+        "speed": "65"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Rutas 102, 114, 117 y 120.",
+            "Surf: Rutas 102, 111, 114, 117 y 120."
+        ],
+        "Zafiro": [
+            "Salvaje: Rutas 102, 114, 117 y 120.",
+            "Surf: Rutas 102, 111, 114, 117 y 120."
+        ],
+        "Esmeralda": [
+            "Salvaje: Rutas 102, 114, 117 y 120 (solo una vez se hayan mezclado récords con Pokémon Rubí o Pokémon Zafiro).",
+            "Surf: rutas 102, 111, 114, 117 y 120 (solo una vez se hayan mezclado récords con Pokémon Rubí o Pokémon Zafiro)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Manada: Lago Veraz.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Perla": [
+            "Manada: Lago Veraz.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Platino": [
+            "Surf: Ruta 229.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari, después de haber conseguido la Pokédex Nacional y los bloques.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari, después de haber conseguido la Pokédex Nacional y los bloques.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Negro": [
+            "Intercambiar de Pokémon Blanco.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Blanco": [
+            "Surf: Bosque Blanco.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Negro 2": [
+            "Criando: de Masquerain",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Blanco 2": [
+            "Criando: de Masquerain",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Pokémon X": [
+            "Criando: de Masquerain"
+        ],
+        "Pokémon Y": [
+            "Criando: de Masquerain"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Rutas 102, 114 y 117.",
+            "Surf: Rutas 102, 111, 114, 117, 120, 123 y Ciudad Petalia."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Rutas 102, 114 y 117.",
+            "Surf: Rutas 102, 111, 114, 117, 120, 123 y Ciudad Petalia."
+        ],
+        "Sol": [
+            "Salvaje: Colina Saltagua (noche)"
+        ],
+        "Luna": [
+            "Salvaje: Colina Saltagua (noche)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Colina Saltagua (noche)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Colina Saltagua (noche)"
+        ],
+        "Espada": [
+            "Surskit no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Surskit no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Manada: Lago Veraz.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Manada: Lago Veraz.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Surskit no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Surskit segrega un aceite por la punta de las patas que le permite caminar sobre el agua como si fuera patinando. Este Pokémon se alimenta de microorganismos en charcas y lagos.",
+        "Zafiro": "Cuando Surskit siente que hay peligro, segrega un néctar espeso y dulce por la cabeza. Hay Pokémon a los que les encanta bebérselo.",
+        "Esmeralda": "Se agrupan en charcos después de la lluvia de la tarde, moviéndose por la superficie del agua como si se deslizaran. Segregan una miel de dulce aroma por la cabeza.",
+        "Rojo Fuego": "Vive en estanques, pero cuando se desata una tormenta puede aparecer en los charcos que se forman en las ciudades.",
+        "Verde Hoja": "Vive en estanques, pero cuando se desata una tormenta puede aparecer en los charcos que se forman en las ciudades.",
+        "Diamante": "Parece que patina sobre el agua. Atrae a las presas con el suave aroma de su cabeza.",
+        "Perla": "Parece que patina sobre el agua. Atrae a las presas con el suave aroma de su cabeza.",
+        "Platino": "Parece que patina sobre el agua. Atrae a las presas con el suave aroma de su cabeza.",
+        "Oro HeartGold": "Del extremo de su cabeza mana un líquido de aroma almibarado. Vive en estanques repletos de plantas.",
+        "Plata SoulSilver": "Del extremo de su cabeza mana un líquido de aroma almibarado. Vive en estanques repletos de plantas.",
+        "Negro": "Parece que patina sobre el agua. Atrae a las presas con el suave aroma de su cabeza.",
+        "Blanco": "Parece que patina sobre el agua. Atrae a las presas con el suave aroma de su cabeza.",
+        "Negro 2": "Parece que patina sobre el agua. Atrae a las presas con el suave aroma de su cabeza.",
+        "Blanco 2": "Parece que patina sobre el agua. Atrae a las presas con el suave aroma de su cabeza.",
+        "Pokémon X": "Vive en estanques, pero cuando se desata una tormenta puede aparecer en los charcos que se forman en las ciudades.",
+        "Pokémon Y": "Parece que patina sobre el agua. Atrae a las presas con el suave aroma de su cabeza.",
+        "Rubí Omega": "Surskit segrega un aceite por la punta de las patas que le permite caminar sobre el agua como si fuera patinando. Este Pokémon se alimenta de microorganismos en charcas y lagos.",
+        "Zafiro Alfa": "Cuando Surskit siente que hay peligro, segrega un néctar espeso y dulce por la cabeza. Hay Pokémon a los que les encanta bebérselo.",
+        "Sol": "Se mueve como si patinara sobre el agua. Suele pelearse con Dewpider por la comida.",
+        "Luna": "Si se encuentra en peligro, segrega un líquido dulce que los Pokémon pájaro encuentran desagradable.",
+        "Ultrasol": "Si se siente amenazado, segrega un líquido dulce por la cabeza. El sirope elaborado con ese líquido resulta delicioso untado en pan.",
+        "Ultraluna": "Vive en estanques y pantanales donde abunde la flora acuática y compite fieramente con los Dewpider por el territorio y el sustento.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Se mueve como si patinara sobre el agua. Atrae a las presas con el aroma dulzón que desprende por el extremo de su cabeza.",
+        "Perla Reluciente": "Se mueve como si patinara sobre el agua. Atrae a las presas con el aroma dulzón que desprende por el extremo de su cabeza.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Surskit",
+            "Nivel 22",
+            "Masquerain"
+        ]
+    ]
+}

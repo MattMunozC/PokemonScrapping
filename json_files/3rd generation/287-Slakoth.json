@@ -1,0 +1,149 @@
+{
+    "dex number": "287",
+    "pokemon name": "Slakoth",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Ausente"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "60",
+        "atk": "60",
+        "def": "60",
+        "atk esp": "35",
+        "def esp": "35",
+        "speed": "30"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Bosque Petalia."
+        ],
+        "Zafiro": [
+            "Salvaje: Bosque Petalia."
+        ],
+        "Esmeralda": [
+            "Salvaje: Bosque Petalia."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Manada: Bosque Vetusto.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Manada: Bosque Vetusto.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Manada: Bosque Vetusto.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Golpe cabeza: Ruta 25",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Golpe cabeza: Ruta 25",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Intercambiar de: Pokémon Blanco.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco": [
+            "Salvaje en: Bosque Blanco",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Negro 2": [
+            "Criando: de Vigoroth",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            "Criando: de Vigoroth",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque Petalia"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque Petalia"
+        ],
+        "Sol": [
+            "Criando: de Vigoroth o Slaking."
+        ],
+        "Luna": [
+            "Criando: de Vigoroth o Slaking."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Slakoth no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Slakoth no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Manada: Bosque Vetusto."
+        ],
+        "Perla Reluciente": [
+            "Manada: Bosque Vetusto."
+        ],
+        "Leyendas: Arceus": [
+            "Slakoth no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Slakoth se pasa más de veinte horas al día tumbado. Como se mueve tan poco, necesita muy poca comida. De hecho, la única toma que hace al día la componen tan solo tres hojas.",
+        "Zafiro": "A Slakoth le late el corazón una vez por minuto. Ya puede pasar lo que pase, que este Pokémon no mueve un dedo. Está todo el día holgazaneando. Es muy raro verlo en movimiento.",
+        "Esmeralda": "Duerme prácticamente día y noche. Nunca cambia de madriguera, aunque a veces suele recorrer grandes distancias nadando en las aguas de los ríos.",
+        "Rojo Fuego": "Se pasa 20 horas al día durmiendo. Una de sus habilidades es hacer que le entre sueño al que tiene al lado.",
+        "Verde Hoja": "Se pasa 20 horas al día durmiendo. Una de sus habilidades es hacer que le entre sueño al que tiene al lado.",
+        "Diamante": "Pasa la mayor parte del día repanchingado. Entra sueño solo de verlo.",
+        "Perla": "Pasa la mayor parte del día repanchingado. Entra sueño solo de verlo.",
+        "Platino": "Pasa la mayor parte del día repanchingado. Entra sueño solo de verlo.",
+        "Oro HeartGold": "Slakoth se pasa todo el día holgazaneando y solo con verlo a uno le da mucha pereza.",
+        "Plata SoulSilver": "Slakoth se pasa todo el día holgazaneando y solo con verlo a uno le da mucha pereza.",
+        "Negro": "Pasa la mayor parte del día repanchingado. Entra sueño solo de verlo.",
+        "Blanco": "Pasa la mayor parte del día repanchingado. Entra sueño solo de verlo.",
+        "Negro 2": "Si se come tres hojas al día ya queda satisfecho. Aparte de eso, se pasa durmiendo 20 horas al día.",
+        "Blanco 2": "Si se come tres hojas al día ya queda satisfecho. Aparte de eso, se pasa durmiendo 20 horas al día.",
+        "Pokémon X": "Slakoth se pasa todo el día holgazaneando y solo con verlo a uno le da mucha pereza.",
+        "Pokémon Y": "Si se come tres hojas al día ya queda satisfecho. Aparte de eso, se pasa durmiendo 20 horas al día.",
+        "Rubí Omega": "Slakoth se pasa más de veinte horas al día tumbado. Como se mueve tan poco, necesita muy poca comida. De hecho, la única toma que hace al día la componen tan solo tres hojas.",
+        "Zafiro Alfa": "A Slakoth le late el corazón una vez por minuto. Ya puede pasar lo que pase, que este Pokémon no mueve un dedo. Está todo el día holgazaneando. Es muy raro verlo en movimiento.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Pasa la mayor parte del día tumbado. Entra sueño solo de verlo.",
+        "Perla Reluciente": "Pasa la mayor parte del día tumbado. Entra sueño solo de verlo.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Slakoth",
+            "Nivel 18",
+            "Vigoroth",
+            "Nivel 36",
+            "Slaking"
+        ]
+    ]
+}

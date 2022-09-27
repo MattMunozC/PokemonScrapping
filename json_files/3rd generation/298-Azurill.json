@@ -1,0 +1,165 @@
+{
+    "dex number": "298",
+    "pokemon name": "Azurill",
+    "types": [
+        "normal",
+        "hada"
+    ],
+    "abilities": [
+        "Sebo",
+        "Potencia"
+    ],
+    "hidden abilities": [
+        "Herbívoro"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "20",
+        "def": "40",
+        "atk esp": "20",
+        "def esp": "40",
+        "speed": "20"
+    },
+    "location": {
+        "Rubí": [
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Zafiro": [
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Esmeralda": [
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon Verde Hoja"
+        ],
+        "Verde Hoja": [
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Diamante": [
+            "Salvaje: Jardín Trofeo y Gran Pantano",
+            "Criar: de Marill o Azumarill con incienso marino",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Perla": [
+            "Salvaje: Jardín Trofeo y Gran Pantano",
+            "Criar: de Marill o Azumarill con incienso marino",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Platino": [
+            "Salvaje: Jardín Trofeo",
+            "Criar: de Marill o Azumarill con incienso marino",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari (sabana)",
+            "Criar: de Marill o Azumarill con incienso marino",
+            "Pokéwalker: Playa Cálida",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari (sabana)",
+            "Criar: de Marill o Azumarill con incienso marino",
+            "Pokéwalker: Playa Cálida",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco",
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 20 y Rancho Ocre",
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 20 y Rancho Ocre",
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 3 y Ruta 22",
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 3 y Ruta 22",
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Rubí Omega": [
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Zafiro Alfa": [
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Sol": [
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Luna": [
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Cueva Contienda ",
+            "incursiones Dinamax: nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración , Mar Islejos ",
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Escudo": [
+            "Salvaje: Cueva Contienda ",
+            "incursiones Dinamax: nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración , Mar Islejos ",
+            "Criar: de Marill o Azumarill con incienso marino"
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Jardín Trofeo y Gran Pantano."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Jardín Trofeo y Gran Pantano."
+        ],
+        "Leyendas: Arceus": [
+            "Azurill no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Azurill enrolla la cola como si fuera un lazo y la despliega a continuación todo lo que puede. De esta forma, un Azurill llega a lanzarse a sí mismo hasta 10 metros.",
+        "Zafiro": "Azurill tiene una especie de pelota en la cola, que contiene los nutrientes necesarios para crecer. Es fácil ver a este Pokémon saltando y jugueteando sentado encima de la misma.",
+        "Esmeralda": "Su cola es una especie de pelota de goma que bota y contiene los nutrientes que necesita. En días soleados, se reúne con otros en la orilla para jugar chapoteando.",
+        "Rojo Fuego": "En combate lanza la cola, que es mayor que él mismo, para atacar. Cuando está en el agua le sirve de flotador.",
+        "Verde Hoja": "En combate lanza la cola, que es mayor que él mismo, para atacar. Cuando está en el agua le sirve de flotador.",
+        "Diamante": "Vive cerca del agua. En la tierra se mueve muy rápido botando sobre su gran cola.",
+        "Perla": "Vive cerca del agua. En la tierra se mueve muy rápido botando sobre su gran cola.",
+        "Platino": "Su cola rebota como una pelota. Para luchar contra enemigos más grandes, la agita en el aire.",
+        "Oro HeartGold": "Almacena los nutrientes necesarios para su crecimiento en una bola al final de su cola.",
+        "Plata SoulSilver": "Almacena los nutrientes necesarios para su crecimiento en una bola al final de su cola.",
+        "Negro": "Su cola rebota como una pelota. Para luchar contra enemigos más grandes, la agita en el aire.",
+        "Blanco": "Su cola rebota como una pelota. Para luchar contra enemigos más grandes, la agita en el aire.",
+        "Negro 2": "Para hacer frente a oponentes más grandes que él, agita su gran cola, llena de nutrientes, de un lado a otro.",
+        "Blanco 2": "Para hacer frente a oponentes más grandes que él, agita su gran cola, llena de nutrientes, de un lado a otro.",
+        "Pokémon X": "Vive cerca del agua. En la tierra se mueve muy rápido botando sobre su gran cola.",
+        "Pokémon Y": "Para hacer frente a oponentes más grandes que él, agita su gran cola, llena de nutrientes, de un lado a otro.",
+        "Rubí Omega": "Azurill enrolla la cola como si fuera un lazo y la despliega a continuación todo lo que puede. De esta forma, un Azurill llega a lanzarse a sí mismo hasta 10 metros.",
+        "Zafiro Alfa": "Azurill tiene una especie de pelota en la cola, que contiene los nutrientes necesarios para crecer. Es fácil ver a este Pokémon saltando y jugueteando sentado encima de la misma.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "La bola que tiene en la cola rebota como una pelota de goma y está repleta de los nutrientes que este Pokémon necesita para crecer.",
+        "Escudo": "Es un Pokémon tranquilo, pero, si se le hace enfadar, atacará utilizando la enorme bola que tiene en la cola.",
+        "Diamante Brillante": "Vive cerca del agua. Cuando está en tierra firme, se desplaza a gran velocidad botando sobre su gran cola.",
+        "Perla Reluciente": "Su cola está repleta de los nutrientes necesarios para su crecimiento. Juega botando sobre ella.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Azurill",
+            "Amistad + nivel",
+            "Marill",
+            "Nivel 18",
+            "Azumarill"
+        ]
+    ]
+}

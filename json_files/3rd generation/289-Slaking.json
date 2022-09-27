@@ -1,0 +1,147 @@
+{
+    "dex number": "289",
+    "pokemon name": "Slaking",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Ausente"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "150",
+        "atk": "160",
+        "def": "100",
+        "atk esp": "95",
+        "def esp": "65",
+        "speed": "100"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Vigoroth (nivel 36)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Vigoroth (nivel 36)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Vigoroth (nivel 36)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Evolucionar: de Vigoroth (nivel 36).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Evolucionar: de Vigoroth (nivel 36).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Evolucionar: de Vigoroth (nivel 36).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Vigoroth (nivel 36).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Vigoroth (nivel 36).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Evolucionar: de Vigoroth (nivel 36)."
+        ],
+        "Blanco": [
+            "Evolucionar: de Vigoroth (nivel 36)."
+        ],
+        "Negro 2": [
+            "Salvaje: Bosque Azulejo."
+        ],
+        "Blanco 2": [
+            "Salvaje: Bosque Azulejo."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar de Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar de Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Vigoroth (nivel 36)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Vigoroth (nivel 36)."
+        ],
+        "Sol": [
+            "Evolucionar: de Vigoroth (nivel 36)."
+        ],
+        "Luna": [
+            "Evolucionar: de Vigoroth (nivel 36)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Slaking no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Slaking no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Vigoroth (nivel 36)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Vigoroth (nivel 36)."
+        ],
+        "Leyendas: Arceus": [
+            "Slaking no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Slaking se pasa todo el día tumbado vagueando. Se come la hierba que tiene a su alcance y, una vez ha acabado con ella, se va de mala gana a otro sitio.",
+        "Zafiro": "Cuando Slaking se instala a vivir en una zona, aparecen círculos de un metro de radio de terreno baldío, pues se come todo el césped que pilla mientras está tumbado boca abajo.",
+        "Esmeralda": "Cuando es temporada, los Slaking se agrupan cerca de los árboles y esperan con paciencia a que la fruta madura caiga.",
+        "Rojo Fuego": "Es el Pokémon más vago que hay. Con todo, puede liberar de una vez una cantidad tremenda de energía acumulada.",
+        "Verde Hoja": "Es el Pokémon más vago que hay. Con todo, puede liberar de una vez una cantidad tremenda de energía acumulada.",
+        "Diamante": "El Pokémon más perezoso del mundo. Si está tumbado, es que reúne fuerzas para contraatacar.",
+        "Perla": "El Pokémon más perezoso del mundo. Si está tumbado, es que reúne fuerzas para contraatacar.",
+        "Platino": "El Pokémon más perezoso del mundo. Si está tumbado, es que reúne fuerzas para contraatacar.",
+        "Oro HeartGold": "El Pokémon más perezoso del mundo. Cambia de lugar para coger la comida al alcance de su mano.",
+        "Plata SoulSilver": "El Pokémon más perezoso del mundo. Cambia de lugar para coger la comida al alcance de su mano.",
+        "Negro": "El Pokémon más perezoso del mundo. Si está tumbado, es que reúne fuerzas para contraatacar.",
+        "Blanco": "El Pokémon más perezoso del mundo. Si está tumbado, es que reúne fuerzas para contraatacar.",
+        "Negro 2": "Vive tumbado todo el día, girándose exclusivamente de un lado a otro si no le queda más hierba para comer.",
+        "Blanco 2": "Vive tumbado todo el día, girándose exclusivamente de un lado a otro si no le queda más hierba para comer.",
+        "Pokémon X": "El Pokémon más perezoso del mundo. Si está tumbado, es que reúne fuerzas para contraatacar.",
+        "Pokémon Y": "Es el Pokémon más vago que hay. Con todo, puede liberar de una vez una cantidad tremenda de energía acumulada.",
+        "Rubí Omega": "Slaking se pasa todo el día tumbado vagueando. Se come la hierba que tiene a su alcance y, una vez ha acabado con ella, se va de mala gana a otro sitio.",
+        "Zafiro Alfa": "Cuando Slaking se instala a vivir en una zona, aparecen círculos de un metro de radio de terreno baldío, pues se come todo el césped que pilla mientras está tumbado boca abajo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "El Pokémon más perezoso del mundo. Cuando parece que está ganduleando, en realidad está reuniendo fuerzas para contraatacar.",
+        "Perla Reluciente": "El Pokémon más perezoso del mundo. Cuando parece que está ganduleando, en realidad está reuniendo fuerzas para contraatacar.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Slakoth",
+            "Nivel 18",
+            "Vigoroth",
+            "Nivel 36",
+            "Slaking"
+        ]
+    ]
+}

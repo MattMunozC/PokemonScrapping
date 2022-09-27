@@ -1,0 +1,157 @@
+{
+    "dex number": "355",
+    "pokemon name": "Duskull",
+    "types": [
+        "fantasma"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": [
+        "Cacheo"
+    ],
+    "stats": {
+        "hp": "20",
+        "atk": "40",
+        "def": "90",
+        "atk esp": "30",
+        "def esp": "90",
+        "speed": "25"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Ruta 121, Ruta 123 y Monte Pírico"
+        ],
+        "Zafiro": [
+            "Salvaje: Monte Pírico"
+        ],
+        "Esmeralda": [
+            "Salvaje: Monte Pírico"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pokéradar: Ruta 224",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Pokéradar: Ruta 224",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Salvaje: Ruta 209, Torre Perdida y Cueva Retorno",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona boscosa",
+            "Pokéwalker: Vía Campeón"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona boscosa",
+            "Pokéwalker: Vía Campeón"
+        ],
+        "Negro": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Villa Antigua"
+        ],
+        "Blanco": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Villa Antigua"
+        ],
+        "Negro 2": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Villa Antigua"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Villa Antigua"
+        ],
+        "Pokémon X": [
+            "Criar: de Dusclops o Dusknoir"
+        ],
+        "Pokémon Y": [
+            "Criar: de Dusclops o Dusknoir"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Monte Pírico"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Monte Pírico"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Antigua Atalaya.",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte y Llanura Pétrea, nido al noreste junto a una pared 2."
+        ],
+        "Escudo": [
+            "Salvaje: Antigua Atalaya.",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte y Llanura Pétrea, nido al noreste junto a una pared 2."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Ruta 224.",
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Ruta 224.",
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje solo de noche: Costa Cobalto: Arboleda Tétrica. Tundra Alba: Desfiladero Alud y Senda de la Arena."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Duskull puede atravesar los muros, sea cual sea el grosor que tengan. Cuando este Pokémon elige su objetivo, lo persigue hábilmente hasta el amanecer.",
+        "Zafiro": "Duskull vaga perdido por la oscuridad de la noche. Cuando los niños se portan mal y desobedecen a sus padres, se les dice que este Pokémon aparecerá y se los llevará con él.",
+        "Esmeralda": "Una única mirada lanzada por su ojo escarlata basta para dejar petrificado de miedo al rival más fuerte. Deambula sin rumbo al amparo de la noche.",
+        "Rojo Fuego": "Se vuelve invisible para acercarse sigilosamente al enemigo. Tiene la habilidad de atravesar anchos muros.",
+        "Verde Hoja": "Se vuelve invisible para acercarse sigilosamente al enemigo. Tiene la habilidad de atravesar anchos muros.",
+        "Diamante": "Persigue a su presa como un perro allá donde vaya. No obstante, abandona la caza al amanecer.",
+        "Perla": "Persigue a su presa como un perro allá donde vaya. No obstante, abandona la caza al amanecer.",
+        "Platino": "Le encanta atravesar paredes para asustar a los niños malos y hacerles llorar.",
+        "Oro HeartGold": "Corre el rumor de que, por las noches, se lleva a los niños que no son obedientes.",
+        "Plata SoulSilver": "Corre el rumor de que, por las noches, se lleva a los niños que no son obedientes.",
+        "Negro": "Le encanta atravesar paredes para asustar a los niños malos y hacerles llorar.",
+        "Blanco": "Le encanta atravesar paredes para asustar a los niños malos y hacerles llorar.",
+        "Negro 2": "Le encanta atravesar paredes para asustar a los niños malos y hacerles llorar.",
+        "Blanco 2": "Le encanta atravesar paredes para asustar a los niños malos y hacerles llorar.",
+        "Pokémon X": "Persigue a su presa sin descanso allá donde vaya. No obstante, abandona la caza al amanecer.",
+        "Pokémon Y": "Corre el rumor de que, por las noches, se lleva a los niños que no son obedientes.",
+        "Rubí Omega": "Duskull puede atravesar los muros, sea cual sea el grosor que tengan. Cuando este Pokémon elige su objetivo, lo persigue hábilmente hasta el amanecer.",
+        "Zafiro Alfa": "Duskull vaga perdido por la oscuridad de la noche. Cuando los niños se portan mal y desobedecen a sus padres, se les dice que este Pokémon aparecerá y se los llevará con él.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Corre el rumor de que, por las noches, se lleva a los niños que no son obedientes.",
+        "Escudo": "Se vuelve invisible para acercarse sigilosamente a su presa. Es capaz de atravesar anchos muros.",
+        "Diamante Brillante": "Persigue a su presa allá donde vaya con gran tenacidad, pero abandona la caza al amanecer.",
+        "Perla Reluciente": "Persigue a su presa allá donde vaya con gran tenacidad, pero abandona la caza al amanecer.",
+        "Leyendas: Arceus": "Dicen que los niños de Hisui enmiendan su actitud tras escuchar las historias de los Duskull que merodean de madrugada y se llevan consigo a aquellos que se portan mal."
+    },
+    "evolution": [
+        [
+            "Duskull",
+            "Nivel 37",
+            "Dusclops",
+            "Intercambio equipadocon tela terrible ",
+            "Dusknoir"
+        ]
+    ]
+}

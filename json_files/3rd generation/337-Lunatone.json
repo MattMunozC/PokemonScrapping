@@ -1,0 +1,143 @@
+{
+    "dex number": "337",
+    "pokemon name": "Lunatone",
+    "types": [
+        "roca",
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "90",
+        "atk": "55",
+        "def": "65",
+        "atk esp": "95",
+        "def esp": "85",
+        "speed": "70"
+    },
+    "location": {
+        "Rubí": [
+            "Intercambiar: de Pokémon Zafiro."
+        ],
+        "Zafiro": [
+            "Salvaje: Cascada Meteoro."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Zafiro."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Zafiro."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Zafiro."
+        ],
+        "Diamante": [
+            "Insertando un videojuego de GBA: Lago Veraz, Lago Agudeza, Lago Valor, Monte Corona, Fuente Despedida, Cueva Retorno (Pokémon Zafiro).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Insertando un videojuego de GBA: Lago Veraz, Lago Agudeza, Lago Valor, Monte Corona, Fuente Despedida, Cueva Retorno (Pokémon Zafiro).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Insertando un videojuego de GBA: Lago Veraz, Lago Agudeza, Lago Valor, Monte Corona, Fuente Despedida, Cueva Retorno (Pokémon Zafiro).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Salvaje: Ruta 13 y Boquete Gigante."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 13 y Boquete Gigante."
+        ],
+        "Negro 2": [
+            "Salvaje: Rutas 13, 22 y Boquete Gigante."
+        ],
+        "Blanco 2": [
+            "Salvaje: Rutas 13, 22 y Boquete Gigante."
+        ],
+        "Pokémon X": [
+            "Salvaje: Cueva Brillante."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva Brillante."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Zafiro Alfa, Pokémon X o Pokemon Y."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cascada Meteoro."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Gorro del Gigante, Ruta 8 (Galar)",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Lunatone no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Lunatone fue descubierto en el lugar de impacto de un meteorito. Por eso, hay quien especula con la idea de que procede del espacio. Con todo, hasta el día de hoy nadie ha podido probar esta teoría.",
+        "Zafiro": "Lunatone entra en actividad en épocas de luna llena más o menos. No camina, se desplaza flotando por el aire. Tiene unos ojos rojos sobrecogedores que cortan la respiración a todo aquel que los ve.",
+        "Esmeralda": "Llega a ser muy activo en las noches de luna llena. Este Pokémon fue descubierto hace 40 años en el lugar en el que había caído un meteorito.",
+        "Rojo Fuego": "Su energía fluye y refluye según el ciclo de la Luna; cuando está expuesto a ella, rebosa vitalidad.",
+        "Verde Hoja": "Su energía fluye y refluye según el ciclo de la Luna; cuando está expuesto a ella, rebosa vitalidad.",
+        "Diamante": "Se piensa que está muy influido por las fases lunares, ya que solo actúa en noches de luna llena.",
+        "Perla": "Se piensa que está muy influido por las fases lunares, ya que solo actúa en noches de luna llena.",
+        "Platino": "Se piensa que está muy influido por las fases lunares, ya que solo actúa en noches de luna llena.",
+        "Oro HeartGold": "Descubierto hace 40 años junto a un meteorito. Duerme a sus enemigos con sólo mirarlos.",
+        "Plata SoulSilver": "Descubierto hace 40 años junto a un meteorito. Duerme a sus enemigos con sólo mirarlos.",
+        "Negro": "Se piensa que está muy influido por las fases lunares, ya que solo actúa en noches de luna llena.",
+        "Blanco": "Se piensa que está muy influido por las fases lunares, ya que solo actúa en noches de luna llena.",
+        "Negro 2": "Se piensa que las fases lunares tienen relación con la fluctuación de su poder. Está activo las noches de luna llena.",
+        "Blanco 2": "Se piensa que las fases lunares tienen relación con la fluctuación de su poder. Está activo las noches de luna llena.",
+        "Pokémon X": "Se piensa que está muy influido por las fases lunares, ya que solo actúa en noches de luna llena.",
+        "Pokémon Y": "Descubierto hace 40 años junto a un meteorito. Duerme a sus enemigos con sólo mirarlos.",
+        "Rubí Omega": "Lunatone fue descubierto en el lugar de impacto de un meteorito. Por eso, hay quien especula con la idea de que procede del espacio. Con todo, hasta el día de hoy nadie ha podido probar esta teoría.",
+        "Zafiro Alfa": "Lunatone entra en actividad en épocas de luna llena más o menos. No camina, se desplaza flotando por el aire. Tiene unos ojos rojos sobrecogedores que cortan la respiración a todo aquel que los ve.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Se piensa que las fases lunares tienen relación con la fluctuación de su poder. Se vuelve activo las noches de luna llena.",
+        "Escudo": "Fue descubierto hace 40 años en el lugar donde había caído un meteorito. Le basta fulminar a sus enemigos con la mirada para dormirlos.",
+        "Diamante Brillante": "Se dice que guarda algún tipo de relación con las fases lunares, ya que en las noches de luna llena se muestra especialmente activo.",
+        "Perla Reluciente": "Se dice que guarda algún tipo de relación con las fases lunares, ya que en las noches de luna llena se muestra especialmente activo.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Lunatone"
+        ]
+    ]
+}

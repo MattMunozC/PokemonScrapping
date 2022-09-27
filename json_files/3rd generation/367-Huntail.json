@@ -1,0 +1,156 @@
+{
+    "dex number": "367",
+    "pokemon name": "Huntail",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Nado rápido"
+    ],
+    "hidden abilities": [
+        "Velo agua"
+    ],
+    "stats": {
+        "hp": "55",
+        "atk": "104",
+        "def": "105",
+        "atk esp": "94",
+        "def esp": "75",
+        "speed": "52"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro y Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro y Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)",
+            "Parque Compi: Zona marina"
+        ],
+        "Perla": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)",
+            "Parque Compi: Zona marina"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Diamante y Pokémon Perla"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)",
+            "Parque Compi: Zona marina"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Salvaje, Pescando en remolino de agua con supercaña: Ruta 4",
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Negro 2": [
+            "Salvaje, Pescando en remolino de agua con supercaña: Ruta 4",
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Pokémon X": [
+            "Salvaje, Pescando con Super caña: Ruta 12",
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Pescando: Mar de Melemele y Ruta 15 (como refuerzo de Clamperl; solo de noche)",
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Ultraluna": [
+            "Pescando: Mar de Melemele y Ruta 15 (como refuerzo de Clamperl; solo de noche)",
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)"
+        ],
+        "Espada": [
+            "Huntail no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Huntail no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Clamperl (intercambio equipado con diente marino)."
+        ],
+        "Leyendas: Arceus": [
+            "Huntail no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Huntail ha pasado desapercibido durante mucho tiempo por vivir en las profundidades del mar. El sentido de la vista de este Pokémon le permite ver en las oscuras y lodosas profundidades del océano.",
+        "Zafiro": "Huntail tiene una cola en forma de pez, que usa para atraer a su presa. Una vez la tiene cerca, la engulle sin más. Este Pokémon nada haciendo serpentear el cuerpo como si fuera un reptil.",
+        "Esmeralda": "Para soportar la machacante presión del mar a gran profundidad, desarrolla una espina dorsal muy gruesa y fuerte. La cola, con forma de pez, tiene ojos que brillan.",
+        "Rojo Fuego": "Vive en los abismos marinos, donde no se filtra la luz. Tiene una cola en forma de pez, que enciende para atraer a su presa.",
+        "Verde Hoja": "Vive en los abismos marinos, donde no se filtra la luz. Tiene una cola en forma de pez, que enciende para atraer a su presa.",
+        "Diamante": "Vive en los fondos marinos. Atrae a sus confiadas presas con la cola, que tiene forma de pez.",
+        "Perla": "Vive en los fondos marinos. Atrae a sus confiadas presas con la cola, que tiene forma de pez.",
+        "Platino": "Vive en los fondos marinos. Atrae a sus confiadas presas con la cola, que tiene forma de pez.",
+        "Oro HeartGold": "Vive en oscuros abismos marinos. Usa su cola como si fuera un ser vivo para atraer a sus presas.",
+        "Plata SoulSilver": "Vive en oscuros abismos marinos. Usa su cola como si fuera un ser vivo para atraer a sus presas.",
+        "Negro": "Vive en los fondos marinos. Atrae a sus confiadas presas con la cola, que tiene forma de pez.",
+        "Blanco": "Vive en los fondos marinos. Atrae a sus confiadas presas con la cola, que tiene forma de pez.",
+        "Negro 2": "Vive en los fondos marinos. Atrae a sus confiadas presas con la cola, que tiene forma de pez.",
+        "Blanco 2": "Vive en los fondos marinos. Atrae a sus confiadas presas con la cola, que tiene forma de pez.",
+        "Pokémon X": "Vive en los abismos marinos, donde no se filtra la luz. Tiene una cola en forma de pez, que enciende para atraer a su presa.",
+        "Pokémon Y": "Vive en los fondos marinos. Atrae a sus confiadas presas con la cola, que tiene forma de pez.",
+        "Rubí Omega": "Huntail ha pasado desapercibido durante mucho tiempo por vivir en las profundidades del mar. El sentido de la vista de este Pokémon le permite ver en las oscuras y lodosas profundidades del océano.",
+        "Zafiro Alfa": "Huntail tiene una cola en forma de pez, que usa para atraer a su presa. Una vez la tiene cerca, la engulle sin más. Este Pokémon nada haciendo serpentear el cuerpo como si fuera un reptil.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Curiosamente, no es un gran nadador. Agita la cola para atraer a sus presas y, cuando estas se acercan, las engulle de golpe.",
+        "Ultraluna": "Vive en los fondos marinos. Según una leyenda, que un Huntail aparezca varado en la playa es señal de mal augurio.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Vive en los fondos marinos. Atrae a sus confiadas presas con la cola, que tiene forma de pececito.",
+        "Perla Reluciente": "Vive en los fondos marinos. Atrae a sus confiadas presas con la cola, que tiene forma de pececito.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Clamperl",
+            "Intercambio equipadocon diente marino ",
+            "Huntail"
+        ],
+        [
+            "",
+            "Intercambio equipadocon escama marina ",
+            "Gorebyss"
+        ]
+    ]
+}

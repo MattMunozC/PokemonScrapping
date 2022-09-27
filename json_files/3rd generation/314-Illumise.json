@@ -1,0 +1,152 @@
+{
+    "dex number": "314",
+    "pokemon name": "Illumise",
+    "types": [
+        "bicho"
+    ],
+    "abilities": [
+        "Despiste",
+        "Cromolente"
+    ],
+    "hidden abilities": [
+        "Bromista"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "47",
+        "def": "75",
+        "atk esp": "73",
+        "def esp": "85",
+        "speed": "85"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: ruta 117."
+        ],
+        "Zafiro": [
+            "Salvaje: ruta 117."
+        ],
+        "Esmeralda": [
+            "Salvaje: ruta 117."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: ruta 229.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Salvaje: ruta 229.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Salvaje: ruta 229.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Concurso de captura de bichos, Zona Safari.",
+            "Parque Compi: Zona rocosa.",
+            "Pokéwalker: Llano de Hoenn."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Concurso de captura de bichos, Zona Safari.",
+            "Parque Compi: Zona rocosa.",
+            "Pokéwalker: Llano de Hoenn."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco",
+            "Dream World: Villa Antigua."
+        ],
+        "Blanco": [
+            "Manada: Ruta 3",
+            "Dream World: Villa Antigua."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco 2",
+            "Dream World: Villa Antigua."
+        ],
+        "Blanco 2": [
+            "Manada: Ruta 3",
+            "Dream World: Villa Antigua."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 7"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 7"
+        ],
+        "Rubí Omega": [
+            "Salvaje: ruta 117."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: ruta 117."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Illumise no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Illumise no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: ruta 229.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: ruta 229.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Leyendas: Arceus": [
+            "Illumise no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Illumise atrae con su dulce aroma a enjambres de Volbeat. Una vez los ha agrupado, les guía en el vuelo para que dibujen formas geométricas en el lienzo del oscuro cielo.",
+        "Zafiro": "Illumise guía en el vuelo a un grupo de iluminados Volbeat para que hagan dibujos en el oscuro cielo. Según dicen, cuanto más complejos sean los dibujos, más le respetan los miembros de su grupo.",
+        "Esmeralda": "Este Pokémon nocturno sólo está activo de noche. Guía a un enjambre de Volbeat para que hagan dibujos en el cielo de la noche y saben hacer hasta 200 distintos.",
+        "Rojo Fuego": "De noche, guía a Volbeat para que dibuje formas en el cielo con la luz que emite. Hay quienes estudian los dibujos.",
+        "Verde Hoja": "De noche, guía a Volbeat para que dibuje formas en el cielo con la luz que emite. Hay quienes estudian los dibujos.",
+        "Diamante": "Su aroma guía a Volbeat para que haga señales luminosas en el cielo oscuro.",
+        "Perla": "Su aroma guía a Volbeat para que haga señales luminosas en el cielo oscuro.",
+        "Platino": "Su aroma guía a Volbeat para que haga señales luminosas en el cielo oscuro.",
+        "Oro HeartGold": "Con su dulce aroma guía a Volbeat para que tracen hasta 200 dibujos distintos en el cielo nocturno.",
+        "Plata SoulSilver": "Con su dulce aroma guía a Volbeat para que tracen hasta 200 dibujos distintos en el cielo nocturno.",
+        "Negro": "Su aroma guía a Volbeat para que haga señales luminosas en el cielo oscuro.",
+        "Blanco": "Su aroma guía a Volbeat para que haga señales luminosas en el cielo oscuro.",
+        "Negro 2": "Su suave aroma guía a Volbeat para que haga señales luminosas en el cielo nocturno.",
+        "Blanco 2": "Su suave aroma guía a Volbeat para que haga señales luminosas en el cielo nocturno.",
+        "Pokémon X": "Con su dulce aroma guía a grupos de Volbeat para que tracen hasta 200 dibujos distintos en el cielo nocturno.",
+        "Pokémon Y": "Su suave aroma guía a Volbeat para que haga señales luminosas en el cielo nocturno.",
+        "Rubí Omega": "Illumise atrae mediante su dulce aroma a enjambres de Volbeat. Una vez que los ha agrupado, les guía en el vuelo para que dibujen formas geométricas en el lienzo del oscuro cielo.",
+        "Zafiro Alfa": "Illumise guía en el vuelo a un grupo de iluminados Volbeat para que hagan dibujos en el oscuro cielo. Según dicen, cuanto más complejos sean los dibujos, más le respetan los miembros de su grupo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Su aroma dulzón guía a los Volbeat para que tracen dibujos luminosos en el cielo nocturno.",
+        "Perla Reluciente": "Su aroma dulzón guía a los Volbeat para que tracen dibujos luminosos en el cielo nocturno.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Illumise"
+        ]
+    ]
+}

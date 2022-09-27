@@ -1,0 +1,150 @@
+{
+    "dex number": "260",
+    "pokemon name": "Swampert",
+    "types": [
+        "agua",
+        "tierra"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Humedad"
+    ],
+    "stats": {
+        "hp": "100",
+        "atk": "110",
+        "def": "90",
+        "atk esp": "85",
+        "def esp": "90",
+        "speed": "60"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Marshtomp (nivel 36)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Marshtomp (nivel 36)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Marshtomp (nivel 36)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Marshtomp (nivel 36).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Marshtomp (nivel 36).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla y Platino o Pokémon Oro HeartGold y Plata SoulSilver"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla y Platino o Pokémon Oro HeartGold y Plata SoulSilver"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla y Platino o Pokémon Oro HeartGold y Plata SoulSilver"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla y Platino o Pokémon Oro HeartGold y Plata SoulSilver"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador transferir de Pokémon Blanco, Pokémon Negro, Pokémon Blanco 2 y Pokémon Negro 2",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador transferir de Pokémon Blanco, Pokémon Negro, Pokémon Blanco 2 y Pokémon Negro 2",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Marshtomp al nivel 36."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Marshtomp al nivel 36."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Evolucionar: de Marshtomp (nivel 36)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: de Marshtomp (nivel 36)."
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Marshtomp (nivel 36)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Marshtomp (nivel 36)."
+        ],
+        "Leyendas: Arceus": [
+            "Swampert no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Swampert es muy fuerte. Puede arrastrar una roca de una tonelada sin ningún problema. Este Pokémon tiene un sentido de la vista muy desarrollado. Puede ver hasta debajo de aguas cenagosas.",
+        "Zafiro": "Swampert puede predecir con las aletas los cambios que producen las corrientes. Si está a punto de estallar una tormenta, empezará a apilar piedras para resguardarse.",
+        "Esmeralda": "Si detecta que se acerca una tormenta, protege su nido apilando cantos rodados para protegerlo del fuerte oleaje. Nada tan rápido como una moto acuática.",
+        "Rojo Fuego": "Tiene unos brazos duros como el acero. De una batida puede dejar molido al enemigo. Construye su nido en la playa.",
+        "Verde Hoja": "Tiene unos brazos duros como el acero. De una batida puede dejar molido al enemigo. Construye su nido en la playa.",
+        "Diamante": "Puede nadar y arrastrar un barco grande. Golpea a sus enemigos con sus gruesos brazos.",
+        "Perla": "Puede nadar y arrastrar un barco grande. Golpea a sus enemigos con sus gruesos brazos.",
+        "Platino": "Puede nadar y arrastrar un barco grande. Golpea a sus enemigos con sus gruesos brazos.",
+        "Oro HeartGold": "Con sus brazos duros como el acero puede partir rocas gigantescas en mil pedazos de un solo golpe.",
+        "Plata SoulSilver": "Con sus brazos duros como el acero puede partir rocas gigantescas en mil pedazos de un solo golpe.",
+        "Negro": "Puede nadar y arrastrar un barco grande. Golpea a sus enemigos con sus gruesos brazos.",
+        "Blanco": "Puede nadar y arrastrar un barco grande. Golpea a sus enemigos con sus gruesos brazos.",
+        "Negro 2": "Puede nadar y arrastrar un barco grande. Golpea a sus enemigos con sus gruesos brazos.",
+        "Blanco 2": "Puede nadar y arrastrar un barco grande. Golpea a sus enemigos con sus gruesos brazos.",
+        "Pokémon X": "Con sus brazos duros como el acero puede partir rocas gigantescas en mil pedazos de un solo golpe.",
+        "Pokémon Y": "Puede nadar y arrastrar un barco grande. Golpea a sus enemigos con sus gruesos brazos.",
+        "Rubí Omega": "Swampert es muy fuerte. Puede arrastrar una roca que pese más de una tonelada sin ningún problema. Este Pokémon tiene el sentido de la vista muy desarrollado. Es capaz de ver hasta en aguas cenagosas.",
+        "Zafiro Alfa": "Swampert puede predecir tormentas al percibir con las aletas los sutiles cambios que producen las olas y las corrientes. Si está a punto de estallar una tormenta, empezará a apilar piedras para resguardarse.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Su gran fuerza le permite nadar arrastrando un barco de gran tamaño. Golpea a sus enemigos con sus gruesos brazos.",
+        "Perla Reluciente": "Su gran fuerza le permite nadar arrastrando un barco de gran tamaño. Golpea a sus enemigos con sus gruesos brazos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Mudkip",
+            "Nivel 16",
+            "Marshtomp",
+            "Nivel 36",
+            "Swampert"
+        ]
+    ]
+}

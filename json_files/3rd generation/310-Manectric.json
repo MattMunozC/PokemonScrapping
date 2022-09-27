@@ -1,0 +1,159 @@
+{
+    "dex number": "310",
+    "pokemon name": "Manectric",
+    "types": [
+        "eléctrico"
+    ],
+    "abilities": [
+        "Electricidad estática",
+        "Pararrayos"
+    ],
+    "hidden abilities": [
+        "Menos"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "75",
+        "def": "60",
+        "atk esp": "105",
+        "def esp": "60",
+        "speed": "105"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: ruta 118.",
+            "Evolucionar: de Electrike (nivel 26)."
+        ],
+        "Zafiro": [
+            "Salvaje: ruta 118.",
+            "Evolucionar: de Electrike (nivel 26)."
+        ],
+        "Esmeralda": [
+            "Salvaje: ruta 118.",
+            "Evolucionar: de Electrike (nivel 26)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Evolucionar: de Electrike (nivel 26).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Evolucionar: de Electrike (nivel 26).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Evolucionar: de Electrike (nivel 26).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari.",
+            "Evolucionar: de Electrike (nivel 26).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari.",
+            "Evolucionar: de Electrike (nivel 26).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Evolucionar: de Electrike (nivel 26)."
+        ],
+        "Blanco": [
+            "Evolucionar: de Electrike (nivel 26)."
+        ],
+        "Negro 2": [
+            "Especial: Claro Oculto."
+        ],
+        "Blanco 2": [
+            "Especial: Claro Oculto."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Electrike (nivel 26).",
+            "Salvaje: Safari Amistad."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Electrike (nivel 26).",
+            "Salvaje: Safari Amistad."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Electrike (nivel 26)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Electrike (nivel 26)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 12"
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Área Silvestre: Ojo de Axew, Gorro del Gigante, Silla del Gigante, Pradera Radiante.",
+            "Incursiones Dinamax: Gorro del Gigante, nido al noroeste y Ribera de Pistón, nido al suroeste.",
+            "Evolucionar: de Electrike (nivel 26)."
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Área Silvestre: Ojo de Axew, Gorro del Gigante, Silla del Gigante, Pradera Radiante.",
+            "Incursiones Dinamax: Gorro del Gigante, nido al noroeste y Ribera de Pistón, nido al suroeste.",
+            "Evolucionar: de Electrike (nivel 26)."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Electrike (nivel 26)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Electrike (nivel 26)."
+        ],
+        "Leyendas: Arceus": [
+            "Manectric no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Manectric está continuamente descargando electricidad por la melena, y a veces causa incendios en el bosque con las chispas que suelta. Cuando entra en combate, este Pokémon crea nubarrones.",
+        "Zafiro": "Manectric acumula en las melenas la electricidad que hay en el ambiente, y la descarga a través de ellas en grandes dosis. Este Pokémon crea nubarrones que se le quedan por encima de la cabeza.",
+        "Esmeralda": "Como los rayos caen cerca de donde está, se pensó que Manectric nacía de ellos. En combate, crea nubes de tormenta.",
+        "Rojo Fuego": "No suele aparecer ante la gente. Dicen que suele colocar su nido donde caen los rayos.",
+        "Verde Hoja": "No suele aparecer ante la gente. Dicen que suele colocar su nido donde caen los rayos.",
+        "Diamante": "Descarga electricidad desde su melena. Crea nubarrones desde los que lanza rayos.",
+        "Perla": "Descarga electricidad desde su melena. Crea nubarrones desde los que lanza rayos.",
+        "Platino": "Descarga electricidad desde su melena. Crea nubarrones desde los que lanza rayos.",
+        "Oro HeartGold": "Se dice que coloca sus nidos donde caen rayos. Descarga electricidad desde su melena.",
+        "Plata SoulSilver": "Se dice que coloca sus nidos donde caen rayos. Descarga electricidad desde su melena.",
+        "Negro": "Descarga electricidad desde su melena. Crea nubarrones desde los que lanza rayos.",
+        "Blanco": "Descarga electricidad desde su melena. Crea nubarrones desde los que lanza rayos.",
+        "Negro 2": "Descarga electricidad desde su melena. Crea nubarrones desde los que lanza rayos.",
+        "Blanco 2": "Descarga electricidad desde su melena. Crea nubarrones desde los que lanza rayos.",
+        "Pokémon X": "No suele aparecer ante la gente. Dicen que suele colocar su nido donde caen los rayos.",
+        "Pokémon Y": "Descarga electricidad desde su melena. Crea nubarrones desde los que lanza rayos.",
+        "Rubí Omega": "Manectric está continuamente descargando electricidad por las melenas, y a veces causa incendios en el bosque con las chispas que suelta. Cuando entra en combate, este Pokémon crea nubarrones.",
+        "Zafiro Alfa": "Manectric acumula en las melenas la electricidad que hay en el ambiente, y la descarga a través de ellas en grandes dosis. Este Pokémon crea nubarrones que se le quedan por encima de la cabeza.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "\nManectric: Cuando se dan nubes de tormenta un tanto inusuales, este Pokémon suele hallarse debajo. Se dice que se mueve a la velocidad del rayo.\nMega-Manectric: La megaevolución hace que se acumule en su interior más electricidad de la que es capaz de utilizar.",
+        "Ultraluna": "\nManectric: La electricidad estimula su musculatura para que pueda moverse a gran velocidad y le ayuda a recuperarse del dolor muscular rápidamente.\nMega-Manectric: La electricidad se acumula en su cuerpo y lo pone de mal humor. Desata su fuerza explosiva con la velocidad de un rayo.",
+        "Espada": "La electricidad estimula su musculatura para que pueda moverse a gran velocidad y le ayuda a recuperarse del dolor muscular rápidamente.",
+        "Escudo": "Rara vez aparece ante la gente. Dicen que suele colocar su madriguera donde caen rayos.",
+        "Diamante Brillante": "Descarga electricidad desde la melena. Crea nubarrones sobre su cabeza, desde los que lanza rayos.",
+        "Perla Reluciente": "Descarga electricidad desde la melena. Crea nubarrones sobre su cabeza, desde los que lanza rayos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Electrike",
+            "Nivel 26",
+            "Manectric"
+        ]
+    ]
+}

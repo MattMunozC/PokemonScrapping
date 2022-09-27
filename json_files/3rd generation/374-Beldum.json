@@ -1,0 +1,164 @@
+{
+    "dex number": "374",
+    "pokemon name": "Beldum",
+    "types": [
+        "acero",
+        "psíquico"
+    ],
+    "abilities": [
+        "Cuerpo puro"
+    ],
+    "hidden abilities": [
+        "Metal liviano"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "55",
+        "def": "80",
+        "atk esp": "35",
+        "def esp": "60",
+        "speed": "30"
+    },
+    "location": {
+        "Rubí": [
+            "Especial: Lo regala Máximo Peñas dejándolo dentro de una Poké Ball en su casa de Ciudad Algaria, tras vencer la Liga Pokémon. Sólo uno, al nivel 5."
+        ],
+        "Zafiro": [
+            "Especial: Lo regala Máximo Peñas dejándolo dentro de una Poké Ball en su casa de Ciudad Algaria, tras vencer la Liga Pokémon. Sólo uno, al nivel 5."
+        ],
+        "Esmeralda": [
+            "Especial: Lo regala Máximo Peñas dejándolo dentro de una Poké Ball en su casa de Ciudad Algaria, después de obtener la Pokédex Nacional al vencer la Liga Pokémon. Sólo uno, al nivel 5."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Manada: en la ruta 228.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Manada: en la ruta 228.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Manada: en la ruta 228.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Intercambio del videojuego: con Máximo Peñas en Silph S.A., dándole a cambio un Forretress.",
+            "Zona Safari, después de haber obtenido la Pokédex Nacional y obtener los bloques.",
+            "Transfiriéndolo desde el Pokéwalker: Vía Campeón.",
+            "Criando: de Metang o Metagross."
+        ],
+        "Plata SoulSilver": [
+            "Intercambio del videojuego: con Máximo Peñas en Silph S.A., dándole a cambio un Forretress.",
+            "Zona Safari, después de haber obtenido la Pokédex Nacional y obtener los bloques.",
+            "Transfiriéndolo desde el Pokéwalker: Vía Campeón.",
+            "Criando: de Metang o Metagross."
+        ],
+        "Negro": [
+            "Criando: de Metang o Metagross.",
+            "Dream World: en el Monte Escarpado."
+        ],
+        "Blanco": [
+            "Criando: de Metang o Metagross.",
+            "Dream World: en el Monte Escarpado."
+        ],
+        "Negro 2": [
+            "Criando: de Metang o Metagross.",
+            "Dream World: en el Monte Escarpado.",
+            "RAdar Pokémon: Lente Especial A."
+        ],
+        "Blanco 2": [
+            "Criando: de Metang o Metagross.",
+            "Dream World: en el Monte Escarpado.",
+            "RAdar Pokémon: Lente Especial A."
+        ],
+        "Pokémon X": [
+            "Criando: de Metang o Metagross."
+        ],
+        "Pokémon Y": [
+            "Criando: de Metang o Metagross."
+        ],
+        "Rubí Omega": [
+            "Especial: Se puede conseguir uno Variocolor equipado con una Metagrossita mediante un evento realizado a través de Nintendo Network, desde el lanzamiento del juego en cada continente hasta el 14 de Enero de 2015.",
+            "Especial: Te lo regala Máximo Peñas dejándolo dentro de una Poké Ball en su casa de Ciudad Algaria, Después del Episodio Delta. Sólo uno, al nivel 1."
+        ],
+        "Zafiro Alfa": [
+            "Especial: Se puede conseguir uno Variocolor equipado con una Metagrossita mediante un evento realizado a través de Nintendo Network, desde el lanzamiento del juego en cada continente hasta el 14 de Enero de 2015.",
+            "Especial: Te lo regala Máximo Peñas dejándolo dentro de una Poké Ball en su casa de Ciudad Algaria, Después del Episodio Delta. Sólo uno, al nivel 1."
+        ],
+        "Sol": [
+            "Salvaje: Pico Hokulani"
+        ],
+        "Luna": [
+            "Salvaje: Pico Hokulani"
+        ],
+        "Ultrasol": [
+            "Salvaje: Pico Hokulani"
+        ],
+        "Ultraluna": [
+            "Salvaje: Pico Hokulani"
+        ],
+        "Espada": [
+            "Salvaje: Desfiladero Nevado ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Mar Gélido "
+        ],
+        "Escudo": [
+            "Salvaje: Desfiladero Nevado ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Mar Gélido "
+        ],
+        "Diamante Brillante": [
+            "Manada: ruta 228.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Perla Reluciente": [
+            "Manada: ruta 228.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Leyendas: Arceus": [
+            "Beldum no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "En lugar de sangre, Beldum tiene una poderosa fuerza magnética corriéndole por las venas. Este Pokémon se comunica enviando controlados impulsos magnéticos.",
+        "Zafiro": "Beldum se mantiene flotando en el aire gracias a la fuerza magnética que genera y que repele la gravedad. Para dormir, este Pokémon se ancla a los riscos usando los ganchos que tiene.",
+        "Esmeralda": "Cuando los Beldum van en enjambre, se mueven al unísono en perfecta armonía, como si fueran un solo Pokémon. Se comunican por ondas cerebrales.",
+        "Rojo Fuego": "Usa ondas magnéticas para comunicarse con los de su misma especie. Las células de su organismo están magnetizadas.",
+        "Verde Hoja": "Usa ondas magnéticas para comunicarse con los de su misma especie. Las células de su organismo están magnetizadas.",
+        "Diamante": "Se comunican mediante pulsos magnéticos. Cuando van en grupos, se mueven al unísono.",
+        "Perla": "Se comunican mediante pulsos magnéticos. Cuando van en grupos, se mueven al unísono.",
+        "Platino": "Se comunican mediante pulsos magnéticos. Cuando van en grupos, se mueven al unísono.",
+        "Oro HeartGold": "Los pulsos magnéticos de su cuerpo repelen la gravedad, lo que le permite flotar en el aire.",
+        "Plata SoulSilver": "Los pulsos magnéticos de su cuerpo repelen la gravedad, lo que le permite flotar en el aire.",
+        "Negro": "Se comunican mediante pulsos magnéticos. Cuando van en grupos, se mueven al unísono.",
+        "Blanco": "Se comunican mediante pulsos magnéticos. Cuando van en grupos, se mueven al unísono.",
+        "Negro 2": "Todas sus células cuentan con carga magnética, y se comunica con los suyos a través de pulsos electromagnéticos.",
+        "Blanco 2": "Todas sus células cuentan con carga magnética, y se comunica con los suyos a través de pulsos electromagnéticos.",
+        "Pokémon X": "Los pulsos magnéticos de su cuerpo repelen la gravedad, lo que le permite flotar en el aire.",
+        "Pokémon Y": "Se comunican mediante pulsos magnéticos. Cuando van en grupos, se mueven al unísono.",
+        "Rubí Omega": "En lugar de sangre, Beldum tiene una poderosa fuerza magnética corriéndole por las venas. Este Pokémon se comunica enviando controlados impulsos magnéticos.",
+        "Zafiro Alfa": "Beldum se mantiene flotando en el aire gracias a la fuerza magnética que genera y que repele la gravedad. Para dormir, este Pokémon se ancla a los riscos usando los ganchos que tiene.",
+        "Sol": "Todas las células de su cuerpo son imanes. Se comunica con los suyos mediante magnetismo.",
+        "Luna": "Atrae a sus rivales con el magnetismo que emite, y, cuando están cerca, los despedaza con las garras que tiene en la parte trasera.",
+        "Ultrasol": "En vez de torrente sanguíneo, el cuerpo de este Pokémon cuenta con corrientes magnéticas. Es recomendable darle un imán si se encuentra mal.",
+        "Ultraluna": "Cuando se le provoca, no solo monta en cólera, sino que emite también un potente magnetismo que inutiliza ciertos tipos de máquinas.",
+        "Espada": "Atrae con fuerza a sus enemigos debido al magnetismo que emite por la parte trasera y les clava sus afilados ganchos.",
+        "Escudo": "Las células de su cuerpo están hechas de imanes. En lugar de sangre, una fuerza magnética recorre su cuerpo.",
+        "Diamante Brillante": "Se comunican mediante pulsos magnéticos. Cuando van en grupo, se mueven al unísono.",
+        "Perla Reluciente": "Se comunican mediante pulsos magnéticos. Cuando van en grupo, se mueven al unísono.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Beldum",
+            "Nivel 20",
+            "Metang",
+            "Nivel 45",
+            "Metagross"
+        ]
+    ]
+}

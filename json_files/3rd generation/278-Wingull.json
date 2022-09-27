@@ -1,0 +1,164 @@
+{
+    "dex number": "278",
+    "pokemon name": "Wingull",
+    "types": [
+        "agua",
+        "volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Hidratación"
+    ],
+    "hidden abilities": [
+        "Cura lluvia"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "30",
+        "def": "30",
+        "atk esp": "55",
+        "def esp": "30",
+        "speed": "85"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Rutas 103, 104, 110, 115, 118, 121 y 123, Monte Pírico (exterior).",
+            "Salvaje, haciendo surf: rutas 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Ciudad Algaria, Pueblo Oromar, Ciudad Colosalia."
+        ],
+        "Zafiro": [
+            "Salvaje: Rutas 103, 104, 110, 115, 118, 121 y 123, Monte Pírico (exterior).",
+            "Salvaje, haciendo surf: rutas 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Ciudad Algaria, Pueblo Oromar, Ciudad Colosalia."
+        ],
+        "Esmeralda": [
+            "Salvaje: Rutas 103, 104, 110, 115, 118, 121 y 123, Monte Pírico (exterior).",
+            "Salvaje, haciendo surf: rutas 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Ciudad Algaria, Pueblo Oromar, Ciudad Colosalia."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: Rutas 205, 213, 218, 219, 220, 221, 222 y 229, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Pradera, Valle Eólico, Gran Pantano",
+            "Parque Compi: Zona marina."
+        ],
+        "Perla": [
+            "Salvaje: Rutas 205, 213, 218, 219, 220, 221, 222 y 229, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Pradera, Valle Eólico, Gran Pantano",
+            "Parque Compi: Zona marina."
+        ],
+        "Platino": [
+            "Salvaje: Rutas 213, 219, 220, 221, 222 y 226, Ciudad Pradera, Ciudad Marina, Calle Victoria, Isla Hierro.",
+            "Parque Compi: Zona marina."
+        ],
+        "Oro HeartGold": [
+            "Manada Pokémon: Ciudad Carmín.",
+            "Parque Compi: Zona marina."
+        ],
+        "Plata SoulSilver": [
+            "Manada Pokémon: Ciudad Carmín.",
+            "Parque Compi: Zona marina."
+        ],
+        "Negro": [
+            "Salvaje, surfeando: Ruta 13, Pueblo Arenisca, Bahía Arenisca."
+        ],
+        "Blanco": [
+            "Salvaje, surfeando: Ruta 13, Pueblo Arenisca, Bahía Arenisca."
+        ],
+        "Negro 2": [
+            "Criando: de Pelipper"
+        ],
+        "Blanco 2": [
+            "Criando: de Pelipper"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 8 (horda), Ruta 12 (horda), Bahía Azul."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 8 (horda), Ruta 12 (horda), Bahía Azul."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Rutas 103, 104, 110, 115, 118, Monte Pírico y Firmamento.",
+            "Surf: Rutas 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 122, 134, Pueblo Azuliza, Ciudad Portual, Malvamar, Ciudad Calagua.",
+            "Encuentro de horda: Rutas 103, 121, 123."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Rutas 103, 104, 110, 115, 118, Monte Pírico y Firmamento.",
+            "Surf: Rutas 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 122, 134, Pueblo Azuliza, Ciudad Portual, Malvamar, Ciudad Calagua.",
+            "Encuentro de horda: Rutas 103, 121, 123."
+        ],
+        "Sol": [
+            "Salvaje: Afueras de Hauoli, Ruta 5, Ruta 7, Ruta 8, Ciudad Hauoli, Mar de Melemele, Bahía Kalae y Playa de Hanohano",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Luna": [
+            "Salvaje: Afueras de Hauoli, Ruta 5, Ruta 7, Ruta 8, Ciudad Hauoli, Mar de Melemele, Bahía Kalae y Playa de Hanohano",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Ultrasol": [
+            "Salvaje: Afueras de Hauoli, Ruta 5, Ruta 7, Ruta 8, Ciudad Hauoli, Mar de Melemele, Bahía Kalae y Playa de Hanohano",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Ultraluna": [
+            "Salvaje: Afueras de Hauoli, Ruta 5, Ruta 7, Ruta 8, Ciudad Hauoli, Mar de Melemele, Bahía Kalae y Playa de Hanohano",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Espada": [
+            "Salvaje: Área Silvestre: Pradera Radiante, Lago Axew (este), Lago Axew (oeste), Antigua Atalaya, Lago Milotic (sur), Lago Milotic (norte).",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste y Lago Axew (este), nido frente a la entrada a ciudad Pistón."
+        ],
+        "Escudo": [
+            "Salvaje: Área Silvestre: Pradera Radiante, Lago Axew (este), Lago Axew (oeste), Antigua Atalaya, Lago Milotic (sur), Lago Milotic (norte).",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste y Lago Axew (este), nido frente a la entrada a ciudad Pistón."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Rutas 213, 218, 221 y 222, Forja Fuego.",
+            "Surf: Rutas 205 (sur), 213, 218, 219, 220, 221, 222 y 229, Valle Eólico, Forja Fuego, Isla Hierro, Ciudad Canal y Ciudad Pradera.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Rutas 213, 218, 221 y 222, Forja Fuego.",
+            "Surf: Rutas 205 (sur), 213, 218, 219, 220, 221, 222 y 229, Valle Eólico, Forja Fuego, Isla Hierro, Ciudad Canal y Ciudad Pradera.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Wingull no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Wingull tiene la costumbre de llevar a su presa y objetos de valor en el pico, y esconderlos en distintos sitios. Este Pokémon vuela dejándose llevar por las corrientes de aire como si fuera patinando por el cielo.",
+        "Zafiro": "Wingull emerge del mar y asciende desplegando las largas y estrechas alas que posee. Este Pokémon tiene un pico largo que le resulta muy útil para pescar.",
+        "Esmeralda": "Hace su nido en acantilados escarpados, a la orilla del mar. Como le cuesta batir las alas durante mucho tiempo, se deja llevar por las corrientes de aire ascendentes.",
+        "Rojo Fuego": "Vuela y planea siguiendo la brisa oceánica. En invierno esconde comida cerca de su nido.",
+        "Verde Hoja": "Vuela y planea siguiendo la brisa oceánica. En invierno esconde comida cerca de su nido.",
+        "Diamante": "Anida en acantilados y alcanza gran altura aprovechando las corrientes ascendentes.",
+        "Perla": "Sus largas alas aprovechan los vientos marinos para planear. Cuando descansa, las pliega.",
+        "Platino": "Aprovecha las corrientes ascendentes para ganar altura. Suele llevar comida en el pico.",
+        "Oro HeartGold": "Se eleva a gran altura sin aletear usando las corrientes de aire. Anida en acantilados.",
+        "Plata SoulSilver": "Se eleva a gran altura sin aletear usando las corrientes de aire. Anida en acantilados.",
+        "Negro": "Aprovecha las corrientes ascendentes para ganar altura. Suele llevar comida en el pico.",
+        "Blanco": "Aprovecha las corrientes ascendentes para ganar altura. Suele llevar comida en el pico.",
+        "Negro 2": "Hace sus nidos en acantilados escarpados. Aprovecha la brisa marina para volar a lo más alto del cielo.",
+        "Blanco 2": "Hace sus nidos en acantilados escarpados. Aprovecha la brisa marina para volar a lo más alto del cielo.",
+        "Pokémon X": "Sus largas alas aprovechan los vientos marinos para planear. Cuando descansa, las pliega.",
+        "Pokémon Y": "Anida en acantilados y alcanza gran altura aprovechando las corrientes ascendentes.",
+        "Rubí Omega": "Wingull tiene la costumbre de llevar a su presa y objetos de valor en el pico, y esconderlos en distintos sitios. Este Pokémon vuela dejándose llevar por las corrientes de aire como si fuera patinando por el cielo.",
+        "Zafiro Alfa": "Wingull emerge del mar y asciende desplegando las largas y estrechas alas que posee. Este Pokémon tiene un pico largo que le resulta muy útil para pescar.",
+        "Sol": "Sus huesos livianos y sus grandes alas le permiten dejarse llevar por el viento y surcar los cielos grácilmente.",
+        "Luna": "Suele sobrevolar los bancos de Pokémon pez, por lo que los pescadores siguen a Wingull cuando buscan buenas capturas.",
+        "Ultrasol": "Tiene alas largas y finas. Se deja llevar por las corrientes ascendentes y luego planea a alta cota grácilmente.",
+        "Ultraluna": "Anida en los riscos junto a la costa y sobrevuela el mar trazando círculos en busca de algún Wishiwashi que llevarse al buche.",
+        "Espada": "Construye sus nidos en acantilados escarpados. Aprovecha la brisa marina para elevarse hacia el inmenso cielo y planear.",
+        "Escudo": "Aprovecha las corrientes de aire para ganar altura sin necesidad de batir las alas. Anida en acantilados costeros.",
+        "Diamante Brillante": "Anida en acantilados y alcanza grandes alturas aprovechando las corrientes ascendentes.",
+        "Perla Reluciente": "Sus largas alas le permiten planear aprovechando la brisa marina. Cuando descansa, las pliega.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Wingull",
+            "Nivel 25",
+            "Pelipper"
+        ]
+    ]
+}

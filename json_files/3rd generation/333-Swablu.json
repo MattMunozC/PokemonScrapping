@@ -1,0 +1,153 @@
+{
+    "dex number": "333",
+    "pokemon name": "Swablu",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Cura natural"
+    ],
+    "hidden abilities": [
+        "Aclimatación"
+    ],
+    "stats": {
+        "hp": "45",
+        "atk": "40",
+        "def": "60",
+        "atk esp": "40",
+        "def esp": "75",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: rutas 114 y 115.",
+            "Especial: Nace del huevo que te da Nereida en Pokémon Box la primera vez que utilizas el juego."
+        ],
+        "Zafiro": [
+            "Salvaje: rutas 114 y 115.",
+            "Especial: Nace del huevo que te da Nereida en Pokémon Box la primera vez que utilizas el juego."
+        ],
+        "Esmeralda": [
+            "Salvaje: rutas 114 y 115.",
+            "Especial: Nace del huevo que te da Nereida en Pokémon Box la primera vez que utilizas el juego."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon Colosseum."
+        ],
+        "Diamante": [
+            "Pokéradar: ruta 211.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Pokéradar: ruta 211.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Salvaje: ruta 210.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Manada: ruta 45.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Manada: ruta 45.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Criando: de Altaria.",
+            "Dream World: con la habilidad Aclimatación."
+        ],
+        "Blanco": [
+            "Criando: de Altaria.",
+            "Dream World: con la habilidad Aclimatación."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 14 y Santuario Abundancia."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 14 y Santuario Abundancia."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 21 (en hordas)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 21 (en hordas)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: rutas 114 y 115 y en Pilar Celeste."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: rutas 114 y 115 y en Pilar Celeste."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Criando: de Altaria"
+        ],
+        "Ultraluna": [
+            "Criando: de Altaria"
+        ],
+        "Espada": [
+            "Salvaje: Lecho del Gigante, Campo Deslizante , Campo Bajocero , Encrucijada Tresvías , Lago Bolaguna , Lecho del Gigante , Mar Gélido , Senda Blancacima  y Suela del Gigante ."
+        ],
+        "Escudo": [
+            "Salvaje: Lecho del Gigante, Campo Deslizante , Campo Bajocero , Encrucijada Tresvías , Lago Bolaguna , Lecho del Gigante , Mar Gélido , Senda Blancacima  y Suela del Gigante ."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: ruta 211 (este).",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arroyo, Cueva Fluvial, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: ruta 211 (este).",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arroyo, Cueva Fluvial, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Leyendas: Arceus": [
+            "Swablu no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Tiene unas alas ligeras y esponjosas que parecen nubes de algodón. A este Pokémon no le asusta la gente. De hecho, se te puede posar en la cabeza y servirte de gorro sedoso.",
+        "Zafiro": "A Swablu le encanta limpiarlo todo. Si ve algo sucio, lo dejará como nuevo y reluciente con las alas de algodón que tiene. Cuando se le ensucian, busca un manantial y las limpia.",
+        "Esmeralda": "Tiene unas alas como nubes de algodón. Transcurrido el invierno, en el que la comida escasea, bandadas de Swablu migran a los pueblos en primavera.",
+        "Rojo Fuego": "Está continuamente acicalándose las alas de algodón que tiene. Si se ensucia, se da una ducha para limpiarse enseguida.",
+        "Verde Hoja": "Está continuamente acicalándose las alas de algodón que tiene. Si se ensucia, se da una ducha para limpiarse enseguida.",
+        "Diamante": "Sus alas parecen nubes de algodón. Si se posa sobre una cabeza, tiene pinta de gorro.",
+        "Perla": "Sus alas parecen nubes de algodón. Si se posa sobre una cabeza, tiene pinta de gorro.",
+        "Platino": "Si su cuerpo o su entorno no están limpios, no puede relajarse. Utiliza sus alas para limpiar la suciedad.",
+        "Oro HeartGold": "En los manantiales limpia sus alas, que parecen nubes de algodón. Le gusta posarse sobre la gente.",
+        "Plata SoulSilver": "En los manantiales limpia sus alas, que parecen nubes de algodón. Le gusta posarse sobre la gente.",
+        "Negro": "Si su cuerpo o su entorno no están limpios, no puede relajarse. Utiliza sus alas para limpiar la suciedad.",
+        "Blanco": "Si su cuerpo o su entorno no están limpios, no puede relajarse. Utiliza sus alas para limpiar la suciedad.",
+        "Negro 2": "Se desconoce el porqué, pero le encanta posarse sobre la cabeza de los humanos y fingir que es un gorro.",
+        "Blanco 2": "Se desconoce el porqué, pero le encanta posarse sobre la cabeza de los humanos y fingir que es un gorro.",
+        "Pokémon X": "Se desconoce el porqué, pero le encanta posarse sobre la cabeza de los humanos y fingir que es un gorro.",
+        "Pokémon Y": "Está continuamente acicalándose las alas de algodón que tiene. Si se ensucia, se da una ducha para limpiarse enseguida.",
+        "Rubí Omega": "Swablu tiene unas alas ligeras y esponjosas que parecen nubes de algodón. A este Pokémon no le asusta la gente. De hecho, puede llegar a posarse en la cabeza de alguien y servirle de gorro sedoso.",
+        "Zafiro Alfa": "A Swablu le encanta limpiarlo todo. Si ve algo sucio, lo dejará como nuevo y reluciente con las alas de algodón que tiene. Cuando se le ensucian, busca un manantial y las limpia.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Sus alas algodonadas contienen aire, lo que les aporta un tacto suave y esponjoso. Se las acicala continuamente.",
+        "Escudo": "Sus alas parecen nubes algodonadas y lo ocultan de sus rivales. Se cree que se volvieron blancas con el paso de las generaciones.",
+        "Diamante Brillante": "Sus alas parecen nubes de algodón. Cuando se posa sobre la cabeza de alguien, es fácil confundirlo con un gorro.",
+        "Perla Reluciente": "Sus alas parecen nubes de algodón. Cuando se posa sobre la cabeza de alguien, es fácil confundirlo con un gorro.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Swablu",
+            "Nivel 35",
+            "Altaria"
+        ]
+    ]
+}

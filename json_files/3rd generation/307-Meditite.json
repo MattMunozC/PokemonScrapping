@@ -1,0 +1,152 @@
+{
+    "dex number": "307",
+    "pokemon name": "Meditite",
+    "types": [
+        "lucha",
+        "psíquico"
+    ],
+    "abilities": [
+        "Energía pura"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": "30",
+        "atk": "40",
+        "def": "55",
+        "atk esp": "40",
+        "def esp": "55",
+        "speed": "60"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Monte Pírico (exterior), Calle Victoria (primer sótano)."
+        ],
+        "Zafiro": [
+            "Salvaje: Monte Pírico (exterior), Calle Victoria (primer sótano)."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rubí y Zafiro."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí y Zafiro."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí y Zafiro."
+        ],
+        "Diamante": [
+            "Salvaje: rutas 208, 210 (norte), 211, 216 y 217, Monte Corona, Orilla Agudeza.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Salvaje: rutas 208, 210 (norte), 211, 216 y 217, Monte Corona, Orilla Agudeza.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Salvaje: rutas 208, 210 (norte), 211, 216 y 217, Monte Corona, Orilla Agudeza.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Sinnoh: Torre Bellsprout, Torre Hojalata, y Torre Quemada.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Sinnoh: Torre Bellsprout, Torre Hojalata, y Torre Quemada.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Pokétransfer: Pokémon Perla, Diamante, Pokémon Platino, Oro HeartGold, Plata SoulSilver.",
+            "Dream World: Con la habilidad Telepatía"
+        ],
+        "Blanco": [
+            "Pokétransfer: Pokémon Perla, Diamante, Pokémon Platino, Oro HeartGold, Plata SoulSilver.",
+            "Dream World: Con la habilidad Telepatía"
+        ],
+        "Negro 2": [
+            "Criando: de Medicham"
+        ],
+        "Blanco 2": [
+            "Criando: de Medicham"
+        ],
+        "Pokémon X": [
+            "Salvaje: Gruta Tierraunida",
+            "Safari Amistad : Zona Lucha, al nivel 30"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Gruta Tierraunida",
+            "Safari Amistad : Zona Lucha, al nivel 30"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Monte Pírico (exterior)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Monte Pírico (exterior)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Criando: de Medicham"
+        ],
+        "Ultraluna": [
+            "Criando: de Medicham"
+        ],
+        "Espada": [
+            "Meditite no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Meditite no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: rutas 208, 210 (norte), 211 (este y oeste), 216 y 217, Monte Corona y Orilla Agudeza.",
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Nevisca y Cueva Ventisca."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: rutas 208, 210 (norte), 211 (este y oeste), 216 y 217, Monte Corona y Orilla Agudeza.",
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Nevisca y Cueva Ventisca."
+        ],
+        "Leyendas: Arceus": [
+            "Meditite no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Meditite lleva a cabo un entrenamiento mental exhaustivo en lo más profundo de las montañas. Aunque, cuando medita, pierde toda la concentración y se descentra. Por eso no deja nunca de entrenarse.",
+        "Zafiro": "Meditite aumenta su energía interior mediante meditación. Para subsistir le basta con una baya al día. El comer poco entra dentro de su entrenamiento.",
+        "Esmeralda": "Medita sin parar durante muchas horas al día. Su práctica del yoga es rigurosa; como resultado, logra canalizar su energía espiritual hasta llegar a volar.",
+        "Rojo Fuego": "A diario va a yoga, no se pierde ni una sesión. Mediante la meditación, aumenta su fuerza interior.",
+        "Verde Hoja": "A diario va a yoga, no se pierde ni una sesión. Mediante la meditación, aumenta su fuerza interior.",
+        "Diamante": "Solo come una baya al día. El ayuno fortalece su espíritu y su capacidad de concentración.",
+        "Perla": "Practica yoga todos los días y aumenta su poder espiritual a través de la meditación.",
+        "Platino": "Se entrena en la profundidad de las montañas. Cuando aumenta su poder espiritual con meditación, levita.",
+        "Oro HeartGold": "Solo come una baya al día. Medita para fortalecer su espíritu y llega a levitar.",
+        "Plata SoulSilver": "Solo come una baya al día. Medita para fortalecer su espíritu y llega a levitar.",
+        "Negro": "Se entrena en la profundidad de las montañas. Cuando aumenta su poder espiritual con meditación, levita.",
+        "Blanco": "Se entrena en la profundidad de las montañas. Cuando aumenta su poder espiritual con meditación, levita.",
+        "Negro 2": "Se entrena en la profundidad de las montañas. Cuando aumenta su poder espiritual con meditación, levita.",
+        "Blanco 2": "Se entrena en la profundidad de las montañas. Cuando aumenta su poder espiritual con meditación, levita.",
+        "Pokémon X": "Se entrena en la profundidad de las montañas. Cuando aumenta su poder espiritual con meditación, levita.",
+        "Pokémon Y": "Solo come una baya al día. El ayuno fortalece su espíritu y su capacidad de concentración.",
+        "Rubí Omega": "Meditite lleva a cabo un entrenamiento mental exhausto en lo más profundo de las montañas. Aunque, cuando medita, pierde toda la concentración y se descentra. Por eso, no deja nunca de entrenarse.",
+        "Zafiro Alfa": "Meditite aumenta su energia interior mediante meditacion. Para subsistir le basta con una baya al día. El comer poco entra dentro de su entrenamiento.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Fortalece su espíritu mediante la meditación. Al parecer, solo come una baya al día.",
+        "Perla Reluciente": "Practica yoga todos los días y aumenta su poder espiritual a través de la meditación.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Meditite",
+            "Nivel 37",
+            "Medicham"
+        ]
+    ]
+}

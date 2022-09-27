@@ -1,0 +1,149 @@
+{
+    "dex number": "377",
+    "pokemon name": "Regirock",
+    "types": [
+        "roca"
+    ],
+    "abilities": [
+        "Cuerpo puro"
+    ],
+    "hidden abilities": [
+        "Robustez"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "100",
+        "def": "200",
+        "atk esp": "50",
+        "def esp": "100",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Especial: Ruinas del Desierto (solo uno; ver sección captura)"
+        ],
+        "Zafiro": [
+            "Especial: Ruinas del Desierto (solo uno; ver sección captura)"
+        ],
+        "Esmeralda": [
+            "Especial: Ruinas del Desierto (solo uno; ver sección captura)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Parque Compi: Zona Rocosa",
+            "Intercambiar: de Pokémon Platino"
+        ],
+        "Perla": [
+            "Parque Compi: Zona Rocosa",
+            "Intercambiar: de Pokémon Platino"
+        ],
+        "Platino": [
+            "Parque Compi: Zona Rocosa",
+            "Especial: Ruinas Pico Roca (solo uno). Se necesita llevar un Regigigas de evento en el equipo."
+        ],
+        "Oro HeartGold": [
+            "Parque Compi: Zona Rocosa",
+            "Intercambiar: de Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Parque Compi: Zona Rocosa",
+            "Intercambiar: de Pokémon Platino"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro Heartgold o Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2 y Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro Heartgold o Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2 y Pokémon Blanco 2"
+        ],
+        "Negro 2": [
+            "Especial: Ruinas Subterráneas (solo uno). Se necesita activar la Clave Pico Roca."
+        ],
+        "Blanco 2": [
+            "Especial: Ruinas Subterráneas (solo uno). Se necesita activar la Clave Pico Roca."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Especial: Ruinas del Desierto (solo uno; ver sección captura)"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Ruinas del Desierto (solo uno; ver sección captura)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo (solo uno)"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo (solo uno)"
+        ],
+        "Espada": [
+            "Especial: Ruinas Pico Roca (solo uno)"
+        ],
+        "Escudo": [
+            "Especial: Ruinas Pico Roca (solo uno)"
+        ],
+        "Diamante Brillante": [
+            "Especial: Parque Hansa (Sala del Inicio)."
+        ],
+        "Perla Reluciente": [
+            "Especial: Parque Hansa (Sala del Inicio)."
+        ],
+        "Leyendas: Arceus": [
+            "Regirock no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "A Regirock lo mantuvieron encerrado y lejos hace tiempo. Dicen que, si resulta dañado en combate, se pone él mismo a buscar piedras parecidas a las suyas y se las pone para recomponerse.",
+        "Zafiro": "Regirock está formado en su totalidad por piedras. Debido a un estudio reciente, se descubrió que cada una de las piedras había sido desenterrada en sitios distintos.",
+        "Esmeralda": "Está enteramente formado por rocas y cantos rodados. Si se le desprendieran partes del cuerpo en combate, Regirock se repararía agregando rocas nuevas.",
+        "Rojo Fuego": "Está formado enteramente por rocas. No parece que tenga sitio para corazón ni cerebro. Es un misterio de la ciencia.",
+        "Verde Hoja": "Está formado enteramente por rocas. No parece que tenga sitio para corazón ni cerebro. Es un misterio de la ciencia.",
+        "Diamante": "Su cuerpo está hecho de roca. Si se astilla durante el combate, emplea piedras para repararlo.",
+        "Perla": "Su cuerpo está hecho de roca. Si se astilla durante el combate, emplea piedras para repararlo.",
+        "Platino": "Su cuerpo está hecho de roca. Si se astilla durante el combate, emplea piedras para repararlo.",
+        "Oro HeartGold": "Las rocas que componen el cuerpo de Regirock pueden encontrarse en todos los estratos geológicos.",
+        "Plata SoulSilver": "Las rocas que componen el cuerpo de Regirock pueden encontrarse en todos los estratos geológicos.",
+        "Negro": "Su cuerpo está hecho de roca. Si se astilla durante el combate, emplea piedras para repararlo.",
+        "Blanco": "Su cuerpo está hecho de roca. Si se astilla durante el combate, emplea piedras para repararlo.",
+        "Negro 2": "Su cuerpo está hecho de roca. Si se astilla durante el combate, emplea piedras para repararlo.",
+        "Blanco 2": "Su cuerpo está hecho de roca. Si se astilla durante el combate, emplea piedras para repararlo.",
+        "Pokémon X": "Su cuerpo está hecho de roca. Si se astilla durante el combate, emplea piedras para repararlo.",
+        "Pokémon Y": "Las rocas que componen el cuerpo de Regirock pueden encontrarse en todos los estratos geológicos.",
+        "Rubí Omega": "A Regirock lo mantuvieron encerrado y lejos hace tiempo. Dicen que, si resulta dañado en combate, se pone él mismo a buscar piedras parecidas a las suyas y se las pone para recomponerse.",
+        "Zafiro Alfa": "Regirock está formado en su totalidad por piedras. En un estudio reciente, se descubrió que cada una de las piedras había sido desenterrada en sitios distintos.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Todo su cuerpo está hecho de roca. Si alguna parte se erosiona, la recompone con más rocas.",
+        "Escudo": "Su cuerpo rocoso ha sido examinado con las técnicas científicas más avanzadas, pero no se han encontrado ni su cerebro ni su corazón.",
+        "Diamante Brillante": "Todo su cuerpo está hecho de roca. Si se astilla durante el combate, se adhiere rocas para repararlo.",
+        "Perla Reluciente": "Todo su cuerpo está hecho de roca. Si se astilla durante el combate, se adhiere rocas para repararlo.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Regirock"
+        ]
+    ]
+}

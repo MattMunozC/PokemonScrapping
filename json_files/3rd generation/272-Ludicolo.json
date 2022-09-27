@@ -1,0 +1,153 @@
+{
+    "dex number": "272",
+    "pokemon name": "Ludicolo",
+    "types": [
+        "agua",
+        "planta"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Cura lluvia"
+    ],
+    "hidden abilities": [
+        "Ritmo propio"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "70",
+        "def": "70",
+        "atk esp": "90",
+        "def esp": "100",
+        "speed": "70"
+    },
+    "location": {
+        "Rubí": [
+            "Intercambiar: de Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Zafiro": [
+            "Evolucionar: de Lombre (usando piedra agua)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Lombre (usando piedra agua)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Evolucionar: de Lombre (usando piedra agua)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Perla": [
+            "Evolucionar: de Lombre (usando piedra agua)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Platino": [
+            "Evolucionar: de Lombre (usando piedra agua)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Lombre (usando piedra agua)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Lombre (usando piedra agua)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Negro": [
+            "Evolucionar: de Lombre (usando piedra agua)"
+        ],
+        "Blanco": [
+            "Evolucionar: de Lombre (usando piedra agua)"
+        ],
+        "Negro 2": [
+            "Evolucionar: de Lombre (usando piedra agua)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Lombre (usando piedra agua)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Lombre (usando piedra agua)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Lombre (usando piedra agua)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X, Pokémon Y o Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Lombre (usando piedra agua)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: de Lombre (usando piedra agua)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: de Lombre (usando piedra agua)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo."
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Área Silvestre: Arboleda Claroscuro o Evolucionar: de Lombre (usando piedra agua)",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2 y Arboleda Claroscuro, nido al sur. Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al sur, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Lombre (usando piedra agua)."
+        ],
+        "Leyendas: Arceus": [
+            "Ludicolo no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Ludicolo empieza a bailar en cuanto oye música alegre y de fiesta. Dicen que este Pokémon aparece cuando oye cantar a los niños que van de excursión para hacer senderismo.",
+        "Zafiro": "Las células de Ludicolo se revolucionan y llenan de energía cuando oye sonidos rítmicos y alegres. En combate hace gala también de esta cantidad desmesurada de energía.",
+        "Esmeralda": "Cuando oye música festiva, las células se le revolucionan y comienza a bailar con mucho ritmo. No se acobarda ni delante del enemigo más fuerte.",
+        "Rojo Fuego": "El ritmo de la música alegre y animada activa las células de Ludicolo y éstas les dan fuerza.",
+        "Verde Hoja": "El ritmo de la música alegre y animada activa las células de Ludicolo y éstas les dan fuerza.",
+        "Diamante": "Cuando oye música alegre sus músculos se llenan de energía y no puede evitar ponerse a bailar.",
+        "Perla": "Cuando oye música alegre sus músculos se llenan de energía y no puede evitar ponerse a bailar.",
+        "Platino": "Cuando oye música alegre sus músculos se llenan de energía y no puede evitar ponerse a bailar.",
+        "Oro HeartGold": "Mover su cuerpo al ritmo de música festiva puede hacer que aumente su energía.",
+        "Plata SoulSilver": "Mover su cuerpo al ritmo de música festiva puede hacer que aumente su energía.",
+        "Negro": "Cuando oye música alegre sus músculos se llenan de energía y no puede evitar ponerse a bailar.",
+        "Blanco": "Cuando oye música alegre sus músculos se llenan de energía y no puede evitar ponerse a bailar.",
+        "Negro 2": "Cuando oye música alegre sus músculos se llenan de energía y no puede evitar ponerse a bailar.",
+        "Blanco 2": "Cuando oye música alegre sus músculos se llenan de energía y no puede evitar ponerse a bailar.",
+        "Pokémon X": "Cuando oye música alegre sus músculos se llenan de energía y no puede evitar ponerse a bailar.",
+        "Pokémon Y": "El ritmo de la música alegre y animada activa las células de Ludicolo y éstas les dan fuerza.",
+        "Rubí Omega": "Ludicolo empieza a bailar en cuanto oye música alegre y de fiesta. Dicen que este Pokémon aparece cuando oye cantar a los niños que van de excursión para hacer senderismo.",
+        "Zafiro Alfa": "Las células de Ludicolo se revolucionan y llenan de energía cuando oye sonidos rítmicos y alegres. En combate hace gala también de esta cantidad desmesurada de energía.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "El ritmo de la música alegre estimula sus células y aumenta su fuerza.",
+        "Escudo": "Mover su cuerpo al ritmo de música festiva puede hacer que aumente su fuerza.",
+        "Diamante Brillante": "Cuando oye música alegre, sus músculos se llenan de energía y no puede evitar ponerse a bailar.",
+        "Perla Reluciente": "Cuando oye música alegre, sus músculos se llenan de energía y no puede evitar ponerse a bailar.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Lotad",
+            "Nivel 14",
+            "Lombre",
+            "Piedra agua ",
+            "Ludicolo"
+        ]
+    ]
+}

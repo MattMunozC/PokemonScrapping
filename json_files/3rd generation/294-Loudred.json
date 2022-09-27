@@ -1,0 +1,158 @@
+{
+    "dex number": "294",
+    "pokemon name": "Loudred",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Insonorizar"
+    ],
+    "hidden abilities": [
+        "Intrépido"
+    ],
+    "stats": {
+        "hp": "84",
+        "atk": "71",
+        "def": "43",
+        "atk esp": "71",
+        "def esp": "43",
+        "speed": "48"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Calle Victoria (planta baja).",
+            "Evolucionar: de Whismur (nivel 20)."
+        ],
+        "Zafiro": [
+            "Salvaje: Calle Victoria (planta baja).",
+            "Evolucionar: de Whismur (nivel 20)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Calle Victoria (planta baja), Gruta Desértica.",
+            "Evolucionar: de Whismur (nivel 20)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Pokéradar: Cima del Monte Corona.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Pokéradar: Cima del Monte Corona.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Pokéradar: Cima del Monte Corona.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Whismur (nivel 20).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Whismur (nivel 20).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Evolucionar: de Whismur (nivel 20)."
+        ],
+        "Blanco": [
+            "Evolucionar: de Whismur (nivel 20)."
+        ],
+        "Negro 2": [
+            "PokéTransfer: Transferir de Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "PokéTransfer: Transferir de Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Whismur (nivel 20)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Whismur (nivel 20)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Calle Victoria (entrada, primera planta y sótano).",
+            "Evolucionar: de Whismur (nivel 20)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Calle Victoria (entrada, primera planta y sótano).",
+            "Evolucionar: de Whismur (nivel 20)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Cueva Contienda ",
+            "Incursiones Dinamax: nidos en Humedal Frescor , Cueva Tenacidad  y Llano Entrenamiento "
+        ],
+        "Escudo": [
+            "Salvaje: Cueva Contienda ",
+            "Incursiones Dinamax: nidos en Humedal Frescor , Cueva Tenacidad  y Llano Entrenamiento "
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Monte Corona.",
+            "Evolucionar: de Whismur (nivel 20)."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Monte Corona.",
+            "Evolucionar: de Whismur (nivel 20)."
+        ],
+        "Leyendas: Arceus": [
+            "Loudred no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Los bramidos de Loudred pueden echar abajo una casa reforzada con vigas de madera. Este Pokémon usa el vozarrón que tiene para castigar a sus rivales. Las orejas redondas le sirven de altavoces.",
+        "Zafiro": "Loudred grita a la vez que da pisotones. Una vez que deja de chillar, se queda ensordecido durante un buen rato; lo que considera su punto débil.",
+        "Esmeralda": "Orienta los altavoces redondos que tiene en la cabeza para atacar a su rival con ondas ultrasónicas a gran volumen. Genera energía dando pisotones en el suelo.",
+        "Rojo Fuego": "Cuando patalea y ruge, genera ondas ultrasónicas con las que puede destruir hasta una casa.",
+        "Verde Hoja": "Cuando patalea y ruge, genera ondas ultrasónicas con las que puede destruir hasta una casa.",
+        "Diamante": "Las ondas de sus gritos pueden voltear a un camión. Patea el suelo para ganar potencia.",
+        "Perla": "Las ondas de sus gritos pueden voltear a un camión. Patea el suelo para ganar potencia.",
+        "Platino": "Las ondas de sus gritos pueden voltear a un camión. Patea el suelo para ganar potencia.",
+        "Oro HeartGold": "Aspira profundamente y luego, usando sus fuertes abdominales, suelta un potente vozarrón.",
+        "Plata SoulSilver": "Aspira profundamente y luego, usando sus fuertes abdominales, suelta un potente vozarrón.",
+        "Negro": "Las ondas de sus gritos pueden voltear a un camión. Patea el suelo para ganar potencia.",
+        "Blanco": "Las ondas de sus gritos pueden voltear a un camión. Patea el suelo para ganar potencia.",
+        "Negro 2": "Las ondas de sus gritos pueden voltear a un camión. Patea el suelo para ganar potencia.",
+        "Blanco 2": "Las ondas de sus gritos pueden voltear a un camión. Patea el suelo para ganar potencia.",
+        "Pokémon X": "Aspira profundamente y luego, usando sus fuertes abdominales, suelta un potente vozarrón.",
+        "Pokémon Y": "Las ondas de sus gritos pueden voltear un camión. Patea el suelo para ganar potencia.",
+        "Rubí Omega": "Los bramidos de Loudred pueden echar abajo una casa reforzada con vigas de madera. Este Pokémon usa el vozarrón que tiene para castigar a sus rivales. Las orejas redondas le sirven de altavoces.",
+        "Zafiro Alfa": "Loudred grita a la vez que da pisotones. Una vez que deja de chillar, se queda ensordecido durante un buen rato; lo que considera su punto débil.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "A través de las orejas, que le sirven de altavoces, emite ondas sonoras capaces de echar abajo una casa.",
+        "Escudo": "Su voz no afecta solo al oído. Sus ondas sonoras provocan variaciones de presión en el aire que hacen que sus enemigos salgan despedidos.",
+        "Diamante Brillante": "Las ondas de sus gritos pueden voltear un camión. Patea el suelo para ganar potencia.",
+        "Perla Reluciente": "Las ondas de sus gritos pueden voltear un camión. Patea el suelo para ganar potencia.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Whismur",
+            "Nivel 20",
+            "Loudred",
+            "Nivel 40",
+            "Exploud"
+        ]
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "dex number": "271",
+    "pokemon name": "Lombre",
+    "types": [
+        "agua",
+        "planta"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Cura lluvia"
+    ],
+    "hidden abilities": [
+        "Ritmo propio"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "50",
+        "def": "50",
+        "atk esp": "60",
+        "def esp": "70",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Lotad (nivel 14)."
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 114.",
+            "Evolucionar: de Lotad (nivel 14)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 114.",
+            "Evolucionar: de Lotad (nivel 14)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Insertando un videojuego de GBA: Rutas 212 (zona sur) y 229 (Pokémon Zafiro).",
+            "Evolucionar: de Lotad (nivel 14).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Perla": [
+            "Insertando un videojuego de GBA: Rutas 212 (zona sur) y 229 (Pokémon Zafiro).",
+            "Evolucionar: de Lotad (nivel 14).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Platino": [
+            "Insertando un videojuego de GBA: Rutas 212 (zona sur) y 229 (Pokémon Zafiro).",
+            "Evolucionar: de Lotad (nivel 14).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari, después de haber obtenido los bloques.",
+            "Evolucionar: de Lotad (nivel 14).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari, después de haber obtenido los bloques.",
+            "Evolucionar: de Lotad (nivel 14).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Negro 2 y Blanco 2.",
+            "Evolucionar: de Lotad (nivel 14)."
+        ],
+        "Blanco": [
+            "Evolucionar: de Lotad (nivel 14)."
+        ],
+        "Negro 2": [
+            "Claro Oculto: Ruta 3."
+        ],
+        "Blanco 2": [
+            "Claro Oculto: Ruta 3."
+        ],
+        "Pokémon X": [
+            "Salvaje: Rutas  15, 16 y 21, Pueblo Mosaico, Villa Pokémon y Calle Victoria."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Rutas  15, 16 y 21, Pueblo Mosaico, Villa Pokémon y Calle Victoria."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon Zafiro Alfa, Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 114.",
+            "Evolucionar: de Lotad (nivel 14)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul."
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 5.",
+            "Área Silvestre: Arboleda Claroscuro, Gorro del Gigante, Silla del Gigante, Lago Milotic (sur).",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro.",
+            "Evolucionar: de Lotad (nivel 14)."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: de Lotad (nivel 14)."
+        ],
+        "Leyendas: Arceus": [
+            "Lombre no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Lombre es, además de travieso, nocturno; entra en acción de noche. Cuando ve a gente pescando, se pone a tirar del sedal por debajo del agua y se divierte viendo la cara de enfado que se les queda.",
+        "Zafiro": "Lombre está completamente recubierto por una película viscosa y resbaladiza. La sensación que te produce al rozarte con las manos es muy desagradable. A veces se confunde a este Pokémon con un niño pequeño.",
+        "Esmeralda": "De noche, le encanta surgir de repente del río para asustar a la gente. Se alimenta del musgo que crece en las rocas de las cuencas de los ríos.",
+        "Rojo Fuego": "Vive en el agua y, cuando hace sol, se queda en la orilla. De día duerme sobre las algas y de noche entra en acción.",
+        "Verde Hoja": "Vive en el agua y, cuando hace sol, se queda en la orilla. De día duerme sobre las algas y de noche entra en acción.",
+        "Diamante": "Tiene carácter travieso. Si ve un pescador, tira del anzuelo para confundirlo.",
+        "Perla": "Tiene carácter travieso. Si ve un pescador, tira del anzuelo para confundirlo.",
+        "Platino": "Tiene carácter travieso. Si ve un pescador, tira del anzuelo para confundirlo.",
+        "Oro HeartGold": "Pokémon nocturno que entra en acción al caer la tarde. Se alimenta de musgos del lecho de los ríos.",
+        "Plata SoulSilver": "Pokémon nocturno que entra en acción al caer la tarde. Se alimenta de musgos del lecho de los ríos.",
+        "Negro": "Tiene carácter travieso. Si ve un pescador, tira del anzuelo para confundirlo.",
+        "Blanco": "Tiene carácter travieso. Si ve un pescador, tira del anzuelo para confundirlo.",
+        "Negro 2": "Tiene carácter travieso. Si ve un pescador, tira del anzuelo para confundirlo.",
+        "Blanco 2": "Tiene carácter travieso. Si ve un pescador, tira del anzuelo para confundirlo.",
+        "Pokémon X": "Vive en el agua y, cuando hace sol, se queda en la orilla. De día duerme sobre las algas y de noche entra en acción.",
+        "Pokémon Y": "Tiene carácter travieso. Si ve un pescador, tira del anzuelo para confundirlo.",
+        "Rubí Omega": "Lombre es, además de travieso, nocturno; entra en acción de noche. Cuando ve a gente pescando, se pone a tirar del sedal por debajo del agua y se divierte viendo la cara de enfado que se les queda.",
+        "Zafiro Alfa": "Lombre está completamente recubierto por una película viscosa y resbaladiza. La sensación que produce cuando roza a alguien con las manos es muy desagradable. A veces se confunde a este Pokémon con un niño pequeño.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon nocturno entra en acción al caer la tarde. Se alimenta del musgo que crece en el lecho de los ríos.",
+        "Escudo": "Vive en las riberas bañadas por el sol. De día duerme sobre un lecho de plantas acuáticas y de noche entra en acción.",
+        "Diamante Brillante": "Tiene un carácter travieso. Si ve un pescador, se divierte tirando del anzuelo para tomarle el pelo.",
+        "Perla Reluciente": "Tiene un carácter travieso. Si ve un pescador, se divierte tirando del anzuelo para tomarle el pelo.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Lotad",
+            "Nivel 14",
+            "Lombre",
+            "Piedra agua ",
+            "Ludicolo"
+        ]
+    ]
+}

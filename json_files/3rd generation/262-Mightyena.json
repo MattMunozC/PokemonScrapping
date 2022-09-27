@@ -1,0 +1,153 @@
+{
+    "dex number": "262",
+    "pokemon name": "Mightyena",
+    "types": [
+        "siniestro"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Pies rápidos"
+    ],
+    "hidden abilities": [
+        "Autoestima"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "90",
+        "def": "70",
+        "atk esp": "60",
+        "def esp": "60",
+        "speed": "70"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Poochyena (nivel 18)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Poochyena (nivel 18)."
+        ],
+        "Esmeralda": [
+            "Salvaje: rutas 120, 121 y 123.",
+            "Evolucionar: de Poochyena (nivel 18)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Pokémon XD."
+        ],
+        "Diamante": [
+            "Pokéradar: rutas 214 y 215.",
+            "Evolucionar: de Poochyena (nivel 18).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Diamante.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Evolucionar: de Poochyena (nivel 18).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Poochyena (nivel 18).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Poochyena (nivel 18).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Evolucionar: de Poochyena (nivel 18)."
+        ],
+        "Blanco": [
+            "Evolucionar: de Poochyena (nivel 18)."
+        ],
+        "Negro 2": [
+            "Evolucionar: de Poochyena (nivel 18)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Poochyena (nivel 18)."
+        ],
+        "Pokémon X": [
+            "Salvaje: ruta 15.",
+            "Salvaje: Safari Amistad."
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon X.",
+            "Salvaje: Safari Amistad."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Poochyena (nivel 18)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Poochyena (nivel 18)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Mightyena no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Mightyena no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: rutas 214 y 215.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Témpano, Cueva Carámbano y Caverna Glaciar.",
+            "Evolucionar: de Poochyena (nivel 18)."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Témpano, Cueva Carámbano y Caverna Glaciar.",
+            "Evolucionar: de Poochyena (nivel 18)."
+        ],
+        "Leyendas: Arceus": [
+            "Mightyena no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Es muy fácil prever cuando va a atacar Mightyena; se pone a gruñir con fuerza y se estira. Este Pokémon da unos mordiscos tremendos con los afilados colmillos que tiene.",
+        "Zafiro": "Mightyena se desplaza y vive con su jauría en estado salvaje. Por eso, acostumbrado a esta libertad, obedece al entrenador al que considere realmente dotado de habilidades superiores al resto.",
+        "Esmeralda": "Mightyena vive con su jauría en estado salvaje. Siempre obedece a su entrenador. Derrota al enemigo gracias a un trabajo en equipo perfectamente coordinado.",
+        "Rojo Fuego": "Siempre obedece a los buenos entrenadores. Está acostumbrado a vivir en jaurías en estado salvaje.",
+        "Verde Hoja": "Siempre obedece a los buenos entrenadores. Está acostumbrado a vivir en jaurías en estado salvaje.",
+        "Diamante": "Ataca a sus presas en manada. Nunca desobedece las órdenes de un entrenador avezado.",
+        "Perla": "Ataca a sus presas en manada. Nunca desobedece las órdenes de un entrenador avezado.",
+        "Platino": "Ataca a sus presas en manada. Nunca desobedece las órdenes de un entrenador avezado.",
+        "Oro HeartGold": "Forman manadas de diez individuos y cercan a sus presas valiéndose de un trabajo en equipo impecable.",
+        "Plata SoulSilver": "Forman manadas de diez individuos y cercan a sus presas valiéndose de un trabajo en equipo impecable.",
+        "Negro": "Ataca a sus presas en manada. Nunca desobedece las órdenes de un entrenador avezado.",
+        "Blanco": "Ataca a sus presas en manada. Nunca desobedece las órdenes de un entrenador avezado.",
+        "Negro 2": "Ataca a sus presas en manada. Nunca desobedece las órdenes de un entrenador avezado.",
+        "Blanco 2": "Ataca a sus presas en manada. Nunca desobedece las órdenes de un entrenador avezado.",
+        "Pokémon X": "Siempre obedece a los buenos Entrenadores. Está acostumbrado a vivir en jaurías en estado salvaje.",
+        "Pokémon Y": "Forman manadas de diez individuos y cercan a sus presas valiéndose de un trabajo en equipo impecable.",
+        "Rubí Omega": "Es muy fácil prever cuando va a atacar Mightyena; se pone a gruñir con fuerza y se estira. Este Pokémon da unos mordiscos tremendos con los afilados colmillos que tiene.",
+        "Zafiro Alfa": "Mightyena se desplaza y vive con su jauría en estado salvaje. Por eso, acostumbrado a esta libertad, obedece al entrenador al que considere realmente dotado de habilidades superiores al resto.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Arrincona a sus presas moviéndose en manada. Nunca desobedece las órdenes de un Entrenador avezado.",
+        "Perla Reluciente": "Arrincona a sus presas moviéndose en manada. Nunca desobedece las órdenes de un Entrenador avezado.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Poochyena",
+            "Nivel 18",
+            "Mightyena"
+        ]
+    ]
+}

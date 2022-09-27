@@ -1,0 +1,147 @@
+{
+    "dex number": "286",
+    "pokemon name": "Breloom",
+    "types": [
+        "planta",
+        "lucha"
+    ],
+    "abilities": [
+        "Efecto espora",
+        "Antídoto (habilidad)"
+    ],
+    "hidden abilities": [
+        "Experto"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "130",
+        "def": "80",
+        "atk esp": "60",
+        "def esp": "60",
+        "speed": "70"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Shroomish (nivel 23)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Shroomish (nivel 23)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Shroomish (nivel 23)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Pokémon XD."
+        ],
+        "Diamante": [
+            "Evolucionar: de Shroomish (nivel 23).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Evolucionar: de Shroomish (nivel 23).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Evolucionar: de Shroomish (nivel 23).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Shroomish (nivel 23).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Shroomish (nivel 23).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Evolucionar: de Shroomish (nivel 23)."
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro"
+        ],
+        "Negro 2": [
+            "Salvaje:Bosque Azulejo, Claro Oculto"
+        ],
+        "Blanco 2": [
+            "Salvaje:Bosque Azulejo, Claro Oculto"
+        ],
+        "Pokémon X": [
+            "Safari Amistad: en safaris de tipo lucha."
+        ],
+        "Pokémon Y": [
+            "Safari Amistad: en safaris de tipo lucha."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Shroomish (nivel 23)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Shroomish (nivel 23)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Breloom no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Breloom no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Shroomish (nivel 23)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Shroomish (nivel 23)."
+        ],
+        "Leyendas: Arceus": [
+            "Breloom no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Breloom se acerca al enemigo realizando un juego de piernas ágil y enérgico. Y, a continuación, le da unos puñetazos con los brazos elásticos que tiene. Las técnicas de lucha que usa dejan en ridículo al boxeador más profesional.",
+        "Zafiro": "Las semillas que Breloom tiene prendidas de la cola están formadas por sólidas esporas tóxicas. Comérselas puede resultar fatal. Hasta el más mínimo bocado puede hacerte polvo el estómago.",
+        "Esmeralda": "Libera esporas por los orificios de la cubierta de la cabeza. Le encanta el clima cálido y húmedo. Se nutre de árboles y plantas que hay en el campo y en el bosque.",
+        "Rojo Fuego": "Las semillas de la cola contienen esporas tóxicas. Vence al rival dándole puñetazos rápidos y casi invisibles.",
+        "Verde Hoja": "Las semillas de la cola contienen esporas tóxicas. Vence al rival dándole puñetazos rápidos y casi invisibles.",
+        "Diamante": "Sus cortos brazos se expanden cuando da puñetazos. Tiene una técnica pugilística muy depurada.",
+        "Perla": "Sus cortos brazos se expanden cuando da puñetazos. Tiene una técnica pugilística muy depurada.",
+        "Platino": "Sus cortos brazos se expanden cuando da puñetazos. Tiene una técnica pugilística muy depurada.",
+        "Oro HeartGold": "Esparce esporas venenosas muy nocivas y asesta puñetazos de gran intensidad a sus enemigos.",
+        "Plata SoulSilver": "Esparce esporas venenosas muy nocivas y asesta puñetazos de gran intensidad a sus enemigos.",
+        "Negro": "Sus cortos brazos se expanden cuando da puñetazos. Tiene una técnica pugilística muy depurada.",
+        "Blanco": "Sus cortos brazos se expanden cuando da puñetazos. Tiene una técnica pugilística muy depurada.",
+        "Negro 2": "Sus cortos brazos se expanden cuando da puñetazos. Tiene una técnica pugilística muy depurada.",
+        "Blanco 2": "Sus cortos brazos se expanden cuando da puñetazos. Tiene una técnica pugilística muy depurada.",
+        "Pokémon X": "Sus cortos brazos se expanden cuando da puñetazos. Tiene una técnica pugilística muy depurada.",
+        "Pokémon Y": "Esparce esporas venenosas muy nocivas y asesta puñetazos de gran intensidad a sus enemigos.",
+        "Rubí Omega": "Breloom se acerca al enemigo realizando un juego de piernas ágil y enérgico. Y, a continuación, le da unos puñetazos con los brazos elásticos que tiene. Las técnicas de lucha que usa dejan en ridículo al boxeador más profesional.",
+        "Zafiro Alfa": "Las semillas que Breloom tiene prendidas de la cola están formadas por sólidas esporas tóxicas. Comérselas puede resultar fatal. Hasta el más mínimo bocado puede hacerte polvo el estómago.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Sus cortos brazos se expanden cuando asesta puñetazos. Tiene una técnica pugilística muy depurada.",
+        "Perla Reluciente": "Sus cortos brazos se expanden cuando asesta puñetazos. Tiene una técnica pugilística muy depurada.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Shroomish",
+            "Nivel 23",
+            "Breloom"
+        ]
+    ]
+}

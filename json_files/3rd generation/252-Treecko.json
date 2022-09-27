@@ -1,0 +1,149 @@
+{
+    "dex number": "252",
+    "pokemon name": "Treecko",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Liviano"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "45",
+        "def": "35",
+        "atk esp": "65",
+        "def esp": "55",
+        "speed": "70"
+    },
+    "location": {
+        "Rubí": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir el profesor Abedul en la Ruta 101 (solo uno)"
+        ],
+        "Zafiro": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir el profesor Abedul en la Ruta 101 (solo uno)"
+        ],
+        "Esmeralda": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir el profesor Abedul en la Ruta 101 (solo uno)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro y Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro y Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver.",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver.",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver.",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Regalo: Es uno de los Pokémon iniciales que da a elegir Máximo Peñas en Silph S.A. tras haber conseguido las 16 medallas y haber vencido a Rojo",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Regalo: Es uno de los Pokémon iniciales que da a elegir Máximo Peñas en Silph S.A. tras haber conseguido las 16 medallas y haber vencido a Rojo",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir el profesor Abedul en la Ruta 101 (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir el profesor Abedul en la Ruta 101 (solo uno)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Criar: de Grovyle o Sceptile"
+        ],
+        "Ultraluna": [
+            "Criar: de Grovyle o Sceptile"
+        ],
+        "Espada": [
+            "Criar: de Grovyle o Sceptile"
+        ],
+        "Escudo": [
+            "Criar: de Grovyle o Sceptile"
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Treecko no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Treecko tiene unos ganchos pequeños en las plantas de los pies con los que puede escalar superficies verticales. Este Pokémon ataca dando un golpetazo con la cola.",
+        "Zafiro": "Treecko es carismático, tranquilo y tiene gran capacidad de autocontrol; no pierde la calma en ninguna situación. Si algún rival se le queda mirando fijamente, le devolverá la mirada sin ceder ni lo más mínimo de su territorio.",
+        "Esmeralda": "Hace su nido en un árbol gigante y defiende ferozmente su territorio de cualquier peligro. Dicen que es el protector de los árboles del bosque.",
+        "Rojo Fuego": "Escala superficies verticales muy rápido. Con la cola detecta la humedad y prevé el tiempo que va a hacer.",
+        "Verde Hoja": "Escala superficies verticales muy rápido. Con la cola detecta la humedad y prevé el tiempo que va a hacer.",
+        "Diamante": "Las plantas de sus pies tienen púas diminutas que le permiten andar por paredes y techos.",
+        "Perla": "Las plantas de sus pies tienen púas diminutas que le permiten andar por paredes y techos.",
+        "Platino": "Las plantas de sus pies tienen púas diminutas que le permiten andar por paredes y techos.",
+        "Oro HeartGold": "Tiene pequeñas púas en las plantas de los pies que le permiten andar por techos y paredes sin caerse.",
+        "Plata SoulSilver": "Tiene pequeñas púas en las plantas de los pies que le permiten andar por techos y paredes sin caerse.",
+        "Negro": "Las plantas de sus pies tienen púas diminutas que le permiten andar por paredes y techos.",
+        "Blanco": "Las plantas de sus pies tienen púas diminutas que le permiten andar por paredes y techos.",
+        "Negro 2": "Las plantas de sus pies tienen púas diminutas que le permiten andar por paredes y techos.",
+        "Blanco 2": "Las plantas de sus pies tienen púas diminutas que le permiten andar por paredes y techos.",
+        "Pokémon X": "Escala superficies verticales muy rápido. Con la cola detecta la humedad y prevé el tiempo que va a hacer.",
+        "Pokémon Y": "Tiene pequeñas púas en las plantas de los pies que le permiten andar por techos y paredes sin caerse.",
+        "Rubí Omega": "Treecko tiene unos ganchos pequeños en las plantas de los pies con los que puede escalar superficies verticales. Este Pokémon ataca dando un golpetazo con la cola.",
+        "Zafiro Alfa": "Treecko es tranquilo y tiene gran capacidad de autocontrol; no pierde la calma en ninguna situación. Si algún rival se le queda mirando fijamente, le devolverá la mirada sin ceder ni lo más mínimo de su territorio.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Tiene las plantas de los pies llenas de unas púas diminutas que le permiten andar por paredes y techos.",
+        "Perla Reluciente": "Tiene las plantas de los pies llenas de unas púas diminutas que le permiten andar por paredes y techos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Treecko",
+            "Nivel 16",
+            "Grovyle",
+            "Nivel 36",
+            "Sceptile"
+        ]
+    ]
+}

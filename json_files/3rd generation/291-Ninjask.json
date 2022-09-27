@@ -1,0 +1,150 @@
+{
+    "dex number": "291",
+    "pokemon name": "Ninjask",
+    "types": [
+        "bicho",
+        "volador"
+    ],
+    "abilities": [
+        "Impulso"
+    ],
+    "hidden abilities": [
+        "Allanamiento"
+    ],
+    "stats": {
+        "hp": "61",
+        "atk": "90",
+        "def": "45",
+        "atk esp": "50",
+        "def esp": "50",
+        "speed": "160"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Nincada (nivel 20)"
+        ],
+        "Zafiro": [
+            "Evolucionar: de Nincada (nivel 20)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Nincada (nivel 20)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Evolucionar: de Nincada (nivel 20)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Evolucionar: de Nincada (nivel 20)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Evolucionar: de Nincada (nivel 20)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Nincada (nivel 20)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Nincada (nivel 20)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Pokétransfer: transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Blanco": [
+            "Pokétransfer: transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Negro 2": [
+            "Pokétransfer: transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Nincada (nivel 20)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Nincada (nivel 20)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Nincada (nivel 20)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Nincada (nivel 20)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Pradera Radiante.",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Pradera Radiante, nido en la zona de pasto al este y Valle Entrepuentes, nido al este junto a la pared."
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante.",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Pradera Radiante, nido en la zona de pasto al este y Valle Entrepuentes, nido al este junto a la pared."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Nincada (nivel 20)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Nincada (nivel 20)."
+        ],
+        "Leyendas: Arceus": [
+            "Ninjask no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Ninjask se mueve de un lado a otro a tal velocidad que es imposible verlo. Sin embargo, como su zumbido no deja de oírse, se pensó durante mucho tiempo que este Pokémon era invisible.",
+        "Zafiro": "Si Ninjask no recibe un entrenamiento adecuado, desobedece a su entrenador y empieza a dar zumbidos sin parar. Es muy buen Pokémon; todos dicen que pone a prueba las habilidades de su entrenador.",
+        "Esmeralda": "Como se mueve de un lado a otro a una velocidad de vértigo, es casi imposible verlo. Oír su zumbido durante mucho tiempo llega a dar dolor de cabeza.",
+        "Rojo Fuego": "Este Pokémon es tan rápido que puede esquivar cualquier ataque. Le encanta alimentarse de la savia de los árboles.",
+        "Verde Hoja": "Este Pokémon es tan rápido que puede esquivar cualquier ataque. Le encanta alimentarse de la savia de los árboles.",
+        "Diamante": "Se mueve tan rápido que a veces resulta invisible. Le atrae la savia de los árboles.",
+        "Perla": "Se mueve tan rápido que a veces resulta invisible. Le atrae la savia de los árboles.",
+        "Platino": "Se mueve tan rápido que a veces resulta invisible. Le atrae la savia de los árboles.",
+        "Oro HeartGold": "Escuchar su zumbido de forma continuada provoca jaquecas. Casi no se le ve de lo rápido que es.",
+        "Plata SoulSilver": "Escuchar su zumbido de forma continuada provoca jaquecas. Casi no se le ve de lo rápido que es.",
+        "Negro": "Se mueve tan rápido que a veces resulta invisible. Le atrae la savia de los árboles.",
+        "Blanco": "Se mueve tan rápido que a veces resulta invisible. Le atrae la savia de los árboles.",
+        "Negro 2": "Se mueve tan rápido que a veces resulta invisible. Le atrae la savia de los árboles.",
+        "Blanco 2": "Se mueve tan rápido que a veces resulta invisible. Le atrae la savia de los árboles.",
+        "Pokémon X": "Escuchar su zumbido de forma continuada provoca jaquecas. Casi no se le ve de lo rápido que es.",
+        "Pokémon Y": "Se mueve tan rápido que a veces resulta invisible. Le atrae la savia de los árboles.",
+        "Rubí Omega": "Ninjask se mueve de un lado a otro a tal velocidad que es imposible verlo. Sin embargo, como su zumbido no deja de oírse, se pensó durante mucho tiempo que este Pokémon era invisible.",
+        "Zafiro Alfa": "Si Ninjask no recibe un entrenamiento adecuado, desobedece a su entrenador y empieza a dar zumbidos sin parar. Por ello, se dice que pone a prueba las habilidades de su entrenador.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Escuchar su zumbido de forma continuada provoca jaquecas persistentes. Se mueve con tanta rapidez que es casi imposible verlo.",
+        "Escudo": "Este Pokémon es tan rápido que, según dicen, puede esquivar cualquier ataque. Le encanta alimentarse de la dulce savia de los árboles.",
+        "Diamante Brillante": "Se mueve tan rápido que a veces resulta invisible. Le atrae la savia de los árboles.",
+        "Perla Reluciente": "Se mueve tan rápido que a veces resulta invisible. Le atrae la savia de los árboles.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Nincada",
+            "Nivel 20",
+            "Ninjask",
+            "+ (si hay espacio en el equipoy teniendo una Poké Ball)",
+            "Shedinja"
+        ]
+    ]
+}

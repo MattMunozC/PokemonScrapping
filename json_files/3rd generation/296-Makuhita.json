@@ -1,0 +1,149 @@
+{
+    "dex number": "296",
+    "pokemon name": "Makuhita",
+    "types": [
+        "lucha"
+    ],
+    "abilities": [
+        "Agallas",
+        "Sebo"
+    ],
+    "hidden abilities": [
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": "72",
+        "atk": "60",
+        "def": "30",
+        "atk esp": "20",
+        "def esp": "30",
+        "speed": "25"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Cueva Granito (planta baja y primer sótano), Calle Victoria (planta baja).",
+            "Intercambio del videojuego: por un Slakoth en una casa al lado del gimnasio, en Ciudad Férrica."
+        ],
+        "Zafiro": [
+            "Salvaje: Cueva Granito (planta baja y primer sótano), Calle Victoria (planta baja).",
+            "Intercambio del videojuego: por un Slakoth en una casa al lado del gimnasio, en Ciudad Férrica."
+        ],
+        "Esmeralda": [
+            "Salvaje: Cueva Granito (planta baja y primer sótano), Calle Victoria (planta baja)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Diamante": [
+            "Manada: ruta 225.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Manada: ruta 225.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Manada: ruta 225.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Hoenn: Pozo Slowpoke, Cueva Unión, Cueva Oscura, Islas Remolino, Monte Plateado, Ruta Helada, Cueva Acantilado, Cueva Diglett, Monte Moon, Cueva Celeste, Túnel Roca, Islas Espuma, Calle Victoria, Cataratas Tohjo.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Hoenn: Pozo Slowpoke, Cueva Unión, Cueva Oscura, Islas Remolino, Monte Plateado, Ruta Helada, Cueva Acantilado, Cueva Diglett, Monte Moon, Cueva Celeste, Túnel Roca, Islas Espuma, Calle Victoria, Cataratas Tohjo.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino u Oro HeartGold y Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino u Oro HeartGold y Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Criando: de Hariyama"
+        ],
+        "Blanco 2": [
+            "Criando: de Hariyama"
+        ],
+        "Pokémon X": [
+            "Criando: de Hariyama"
+        ],
+        "Pokémon Y": [
+            "Criando: de Hariyama"
+        ],
+        "Rubí Omega": [
+            "Intercambio del videojuego: por un Slakoth en una casa al lado del gimnasio, en Ciudad Férrica.",
+            "Salvaje: Cueva Granito (planta baja)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Granito (planta baja)"
+        ],
+        "Sol": [
+            "Salvaje: Ruta 2"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 2"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 2"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 2"
+        ],
+        "Espada": [
+            "Makuhita no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Makuhita no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Manada: ruta 225."
+        ],
+        "Perla Reluciente": [
+            "Manada: ruta 225."
+        ],
+        "Leyendas: Arceus": [
+            "Makuhita no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Makuhita es tenaz. Da igual las veces que lo venzan; volverá a ponerse en pie y a atacar. De hecho, cada vez que se recupera, acumula más energía para poder evolucionar.",
+        "Zafiro": "Makuhita tiene un ánimo inagotable. Nunca pierde la esperanza. Come mucho, duerme bastante y se entrena de forma metódica. Siguiendo estos hábitos de vida, este Pokémon tiene siempre mucha energía.",
+        "Esmeralda": "Lo que más le gusta es fortalecer su cuerpo. Si notas que el suelo de una cueva tiembla y el sonido retumba, es porque Makuhita está entrenándose.",
+        "Rojo Fuego": "A base de duro entrenamiento se hace cada vez más fuerte. Es tan resistente que puede soportar cualquier ataque.",
+        "Verde Hoja": "A base de duro entrenamiento se hace cada vez más fuerte. Es tan resistente que puede soportar cualquier ataque.",
+        "Diamante": "Endurece su cuerpo golpeando grandes árboles. Cerca de su hogar suele haber árboles golpeados.",
+        "Perla": "Endurece su cuerpo golpeando grandes árboles. Cerca de su hogar suele haber árboles golpeados.",
+        "Platino": "Endurece su cuerpo golpeando grandes árboles. Cerca de su hogar suele haber árboles golpeados.",
+        "Oro HeartGold": "Endurece su cuerpo golpeando grandes árboles sin perder jamás el ánimo.",
+        "Plata SoulSilver": "Endurece su cuerpo golpeando grandes árboles sin perder jamás el ánimo.",
+        "Negro": "Endurece su cuerpo golpeando grandes árboles. Cerca de su hogar suele haber árboles golpeados.",
+        "Blanco": "Endurece su cuerpo golpeando grandes árboles. Cerca de su hogar suele haber árboles golpeados.",
+        "Negro 2": "Endurece su cuerpo golpeando grandes árboles. Cerca de su hogar suele haber árboles golpeados.",
+        "Blanco 2": "Endurece su cuerpo golpeando grandes árboles. Cerca de su hogar suele haber árboles golpeados.",
+        "Pokémon X": "Endurece su cuerpo golpeando grandes árboles sin perder jamás el ánimo.",
+        "Pokémon Y": "A base de duro entrenamiento se hace cada vez más fuerte. Es tan resistente que puede soportar cualquier ataque.",
+        "Rubí Omega": "Makuhita es tenaz. Da igual las veces que lo venzan; volverá a ponerse en pie y a atacar. De hecho, cada vez que se recupera, acumula más energía para poder evolucionar.",
+        "Zafiro Alfa": "Makuhita tiene un ánimo inagotable. Nunca pierde la esperanza. Come mucho, duerme bastante y se entrena de forma metódica. Siguiendo estos hábitos de vida, este Pokémon tiene siempre mucha energía.",
+        "Sol": "Aunque son originarios de otras regiones, los Makuhita de Alola son ahora los más populares de todos.",
+        "Luna": "Su jornada gira en torno al entrenamiento intensivo, que solo interrumpe para comer y para echarse una siestecilla.",
+        "Ultrasol": "Entrena golpeando los troncos de los árboles con la mano abierta. A veces le da por error a un Exeggutor y este lo lanza volando.",
+        "Ultraluna": "Dicen que los Entrenadores dan de comer a sus Makuhita un guiso tradicional para que se hagan más fuertes todavía.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Endurece su cuerpo golpeando árboles gruesos. Cerca de su hogar suele haber una gran cantidad de árboles derribados.",
+        "Perla Reluciente": "Endurece su cuerpo golpeando árboles gruesos. Cerca de su hogar suele haber una gran cantidad de árboles derribados.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Makuhita",
+            "Nivel 24",
+            "Hariyama"
+        ]
+    ]
+}

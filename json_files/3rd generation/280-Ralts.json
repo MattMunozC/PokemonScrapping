@@ -1,0 +1,165 @@
+{
+    "dex number": "280",
+    "pokemon name": "Ralts",
+    "types": [
+        "psíquico",
+        "hada"
+    ],
+    "abilities": [
+        "Sincronía",
+        "Rastro"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": "28",
+        "atk": "25",
+        "def": "25",
+        "atk esp": "45",
+        "def esp": "35",
+        "speed": "40"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: ruta 102."
+        ],
+        "Zafiro": [
+            "Salvaje: ruta 102."
+        ],
+        "Esmeralda": [
+            "Salvaje: ruta 102."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Pokéradar: rutas 203 y 204.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Pokéradar: rutas 203 y 204.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Salvaje: rutas 208, 209 y 212.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Manada Pokémon: ruta 34.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Manada Pokémon: ruta 34.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco."
+        ],
+        "Negro 2": [
+            "Intercambiar: por cualquier Pokémon con Julián/Belinda en Ciudad Mayólica al llamarla un cierto número de veces. Está al nivel 50, equipado con una galleta lava y tiene la habilidad telepatía.",
+            "Dream World: En la Villa Antigua (10.000 puntos)."
+        ],
+        "Blanco 2": [
+            "Intercambiar: por cualquier Pokémon con Julián/Belinda en Ciudad Mayólica al llamarla un cierto número de veces. Está al nivel 50, equipado con una galleta lava y tiene la habilidad telepatía.",
+            "Dream World: En la Villa Antigua (10.000 puntos)."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 4.",
+            "Especial: Te lo intercambia Dianta después de la liga por cualquier Pokémon, en Ciudad Luminalia en el café Soleil. Tiene equipada una Gardevoirita."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 4.",
+            "Especial: Te lo intercambia Dianta después de la liga por cualquier Pokémon, en Ciudad Luminalia en el café Soleil. Tiene equipada una Gardevoirita."
+        ],
+        "Rubí Omega": [
+            "Salvaje: ruta 102."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: ruta 102."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Escáner insular: Ruta 6 (domingo)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Ruta 6 (domingo)"
+        ],
+        "Espada": [
+            "Salvaje: Arboleda Claroscuro , Lago Milotic (norte) , Pradera Radiante (nublado y niebla), Lago Milotic (sur) , Antigua Atalaya , Lago Axew (oeste): (Niebla)",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Pradera Radiante, nido al sureste junto al acantilado, Ribera de Pistón, nido al este, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón."
+        ],
+        "Escudo": [
+            "Salvaje: Arboleda Claroscuro , Lago Milotic (norte) , Pradera Radiante (nublado y niebla), Lago Milotic (sur) , Antigua Atalaya , Lago Axew (oeste): (Niebla)",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Pradera Radiante, nido al sureste junto al acantilado, Ribera de Pistón, nido al este, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: rutas 203 y 204.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: rutas 203 y 204.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Tundra Alba: Peñasco Espíritu , Templo Puntaneva. Pantanal Carmesí: Ciénaga Bocazas , Ruinas de la Niebla.",
+            "Aparición masiva de Pokémon: Tundra Alba"
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Ralts recibe las sensaciones de la gente por los colmillos que tiene encima y detrás de la cabeza. No es común que este Pokémon aparezca en público pero cuando lo hace, se acerca si ve buena disposición en la gente.",
+        "Zafiro": "Ralts tiene la habilidad de percibir las sensaciones que tiene la gente. Si su entrenador está alegre, este Pokémon se pondrá igualmente contento.",
+        "Esmeralda": "Ralts tiene la capacidad de detectar las sensaciones de la gente y de los Pokémon gracias a los cuernos de la cabeza. Si percibe energía negativa, se protegerá.",
+        "Rojo Fuego": "Capta muy bien lo que sienten las personas y los Pokémon. Cuando nota cierta hostilidad, se esconde.",
+        "Verde Hoja": "Capta muy bien lo que sienten las personas y los Pokémon. Cuando nota cierta hostilidad, se esconde.",
+        "Diamante": "Su cuerno le permite presentir las emociones humanas. Se dice que se aparece a la gente amable.",
+        "Perla": "Su cuerno le permite presentir las emociones humanas. Se dice que se aparece a la gente amable.",
+        "Platino": "Si sus cuernos perciben emociones positivas de personas o Pokémon, su cuerpo se calienta un poco.",
+        "Oro HeartGold": "Gracias al cuerno rojo de su cabeza puede captar lo que sienten las personas.",
+        "Plata SoulSilver": "Gracias al cuerno rojo de su cabeza puede captar lo que sienten las personas.",
+        "Negro": "Si sus cuernos perciben emociones positivas de personas o Pokémon, su cuerpo se calienta un poco.",
+        "Blanco": "Si sus cuernos perciben emociones positivas de personas o Pokémon, su cuerpo se calienta un poco.",
+        "Negro 2": "Si sus cuernos perciben emociones positivas de personas o Pokémon, su cuerpo se calienta un poco.",
+        "Blanco 2": "Si sus cuernos perciben emociones positivas de personas o Pokémon, su cuerpo se calienta un poco.",
+        "Pokémon X": "Si sus cuernos perciben emociones positivas de personas o Pokémon, su cuerpo se calienta un poco.",
+        "Pokémon Y": "Capta muy bien lo que sienten las personas y los Pokémon. Cuando nota cierta hostilidad, se esconde.",
+        "Rubí Omega": "Percibe las sensaciones de la gente por los cuernos que tiene encima y detrás de la cabeza. No es común que este Pokémon aparezca en público, pero cuando lo hace se acerca si ve buena disposición en la gente.",
+        "Zafiro Alfa": "Ralts tiene la habilidad de percibir las sensaciones que tiene la gente. Si su entrenador está alegre, este Pokémon se pondrá igualmente contento.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Capta muy bien lo que sienten las personas y los Pokémon. Cuando nota cierta hostilidad, se esconde.",
+        "Escudo": "Si sus cuernos perciben emociones positivas de personas o Pokémon, su cuerpo se calienta un poco.",
+        "Diamante Brillante": "Percibe las emociones humanas gracias a los cuernos. Dicen que se aparece a la gente alegre.",
+        "Perla Reluciente": "Percibe las emociones humanas gracias a los cuernos. Dicen que se aparece a la gente alegre.",
+        "Leyendas: Arceus": "Tiende a preferir la compañía de las personas alegres, sin importar su edad o sexo. Debemos investigarlo más a fondo."
+    },
+    "evolution": [
+        [
+            "Ralts",
+            "Nivel 20",
+            "Kirlia",
+            "Nivel 30",
+            "Gardevoir"
+        ],
+        [
+            "",
+            "",
+            "",
+            "♂ + Piedra alba ",
+            "Gallade"
+        ]
+    ]
+}

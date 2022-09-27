@@ -1,0 +1,146 @@
+{
+    "dex number": "386",
+    "pokemon name": "Deoxys",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Presión"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "50",
+        "atk": "150",
+        "def": "50",
+        "atk esp": "150",
+        "def esp": "50",
+        "speed": "150"
+    },
+    "location": {
+        "Rubí": [
+            "Intercambiar: de Pokémon Rojo Fuego y Pokémon Verde Hoja o Pokémon Esmeralda."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rojo Fuego y Pokémon Verde Hoja o Pokémon Esmeralda."
+        ],
+        "Esmeralda": [
+            "Salvaje: En la Isla Origen. Se necesita el Ori-Tícket que solo se puede obtener a través de eventos",
+            "Especial: Glitch del Ori-ticket."
+        ],
+        "Rojo Fuego": [
+            "Salvaje: En la Isla Origen. Se necesita el Ori-Tícket que solo se puede obtener a través de eventos"
+        ],
+        "Verde Hoja": [
+            "Salvaje: En la Isla Origen. Se necesita el Ori-Tícket que solo se puede obtener a través de eventos"
+        ],
+        "Diamante": [
+            "Especial: Transferir desde Pokémon Ranger: Trazos de Luz",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Especial: Transferir desde Pokémon Ranger: Trazos de Luz",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Especial: Transferir desde Pokémon Ranger: Trazos de Luz",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Especial: Transferir desde Pokémon Ranger: Trazos de Luz",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Especial: Transferir desde Pokémon Ranger: Trazos de Luz",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Negro 2": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Blanco 2": [
+            "PokéTransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: En el Episodio Delta, tras la destrucción del meteorito (solo uno). Si no se captura en ese momento, al completar la liga por segunda vez, aparecerá Deoxys en la cima del Pilar Celeste"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: En el Episodio Delta, tras la destrucción del meteorito (solo uno). Si no se captura en ese momento, al completar la liga por segunda vez, aparecerá Deoxys en la cima del Pilar Celeste"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Deoxys no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Deoxys no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Especial: Transferir desde Pokémon HOME"
+        ],
+        "Perla Reluciente": [
+            "Especial: Transferir desde Pokémon HOME"
+        ],
+        "Leyendas: Arceus": [
+            "Deoxys no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Tras estar expuesto a un rayo láser, el ADN de un virus espacial sufrió una mutación y dio origen a Deoxys. Según parece el órgano cristalino que este Pokémon tiene en el torso es el cerebro.",
+        "Zafiro": "Deoxys surgió a partir de un virus espacial. Tiene un alto nivel intelectual y poderes psicoquinéticos. Este Pokémon dispara rayos láser por el órgano cristalino que tiene en el torso.",
+        "Esmeralda": "Es el resultado de la mutación que sufrió un virus espacial expuesto a un rayo láser. Se caracteriza por tener una velocidad y agilidad superiores a las del resto.",
+        "Rojo Fuego": "Deoxys se ha convertido en un Pokémon agresivo. Engaña al enemigo cambiando de aspecto.",
+        "Verde Hoja": "Cuando cambia de aspecto, emite una intensa luz. Absorbe los efectos de los ataques alterando su estructura celular.",
+        "Diamante": "Surgió a raíz de la mutación de ADN de un virus alienígena que cayó a la Tierra en un meteorito.",
+        "Perla": "Surgió a raíz de la mutación de ADN de un virus alienígena que cayó a la Tierra en un meteorito.",
+        "Platino": "Surgió a raíz de la mutación de ADN de un virus alienígena que cayó a la Tierra en un meteorito.",
+        "Oro HeartGold": "Pokémon surgido a raíz de la mutación de un virus alienígena. Aparece cerca de la aurora.",
+        "Plata SoulSilver": "Pokémon surgido a raíz de la mutación de un virus alienígena. Aparece cerca de la aurora.",
+        "Negro": "Surgió a raíz de la mutación de ADN de un virus alienígena que cayó a la Tierra en un meteorito.",
+        "Blanco": "Surgió a raíz de la mutación de ADN de un virus alienígena que cayó a la Tierra en un meteorito.",
+        "Negro 2": "Surgió a raíz de la mutación de ADN de un virus alienígena que cayó a la Tierra en un meteorito.",
+        "Blanco 2": "Surgió a raíz de la mutación de ADN de un virus alienígena que cayó a la Tierra en un meteorito.",
+        "Pokémon X": "Surgió a raíz de la mutación de ADN de un virus alienígena que cayó a la Tierra en un meteorito.",
+        "Pokémon Y": "Pokémon surgido a raíz de la mutación de un virus alienígena. Aparece cerca de la aurora.",
+        "Rubí Omega": "Tras estar expuesto a un rayo láser, el ADN de un virus espacial sufrió una mutación y dio origen a Deoxys. Según parece el órgano cristalino que este Pokémon tiene en el torso es el cerebro.",
+        "Zafiro Alfa": "Deoxys surgió a partir de un virus espacial. Tiene un alto nivel intelectual y poderes psicoquinéticos. Este Pokémon dispara rayos láser por el órgano cristalino que tiene en el torso.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Surgió a raíz de la mutación de ADN de un virus alienígena que llegó del espacio en un meteorito.",
+        "Perla Reluciente": "Surgió a raíz de la mutación de ADN de un virus alienígena que llegó del espacio en un meteorito.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Deoxys"
+        ]
+    ]
+}

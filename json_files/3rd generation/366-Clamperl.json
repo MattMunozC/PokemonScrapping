@@ -1,0 +1,149 @@
+{
+    "dex number": "366",
+    "pokemon name": "Clamperl",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Caparazón"
+    ],
+    "hidden abilities": [
+        "Cobardía"
+    ],
+    "stats": {
+        "hp": "35",
+        "atk": "64",
+        "def": "85",
+        "atk esp": "74",
+        "def esp": "55",
+        "speed": "32"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje, buceando: Rutas 124 y 126"
+        ],
+        "Zafiro": [
+            "Salvaje, buceando: Rutas 124 y 126"
+        ],
+        "Esmeralda": [
+            "Salvaje, buceando: Rutas 124 y 126"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pescando, supercaña: Rutas 219 y 221"
+        ],
+        "Perla": [
+            "Pescando, supercaña: Rutas 219 y 221"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Oro HeartGold": [
+            "Manada Pokémon, surfeando: Ruta 19"
+        ],
+        "Plata SoulSilver": [
+            "Manada Pokémon, surfeando: Ruta 19"
+        ],
+        "Negro": [
+            "Pescando, supercaña: Ruta 4"
+        ],
+        "Blanco": [
+            "Pescando, supercaña: Ruta 4"
+        ],
+        "Negro 2": [
+            "Pescando, supercaña: Ruta 4"
+        ],
+        "Blanco 2": [
+            "Pescando, supercaña: Ruta 4"
+        ],
+        "Pokémon X": [
+            "Pescando, caña buena: Ruta 12"
+        ],
+        "Pokémon Y": [
+            "Pescando, caña buena: Ruta 12"
+        ],
+        "Rubí Omega": [
+            "Salvaje, buceando: Rutas 107, 124, 126, 128, 129 y 130"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje, buceando: Rutas 107, 124, 126, 128, 129 y 130"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Pescando: Ruta 15 y Mar de Melemele"
+        ],
+        "Ultraluna": [
+            "Pescando: Ruta 15 y Mar de Melemele"
+        ],
+        "Espada": [
+            "Clamperl no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Clamperl no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Pescando con supercaña: Rutas 219 y 221",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Pescando con supercaña: Rutas 219 y 221",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Clamperl no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "La sólida concha que rodea a Clamperl no sólo le sirve para protegerse, sino también para poner un cepo y atrapar a su presa. Cuando la concha alcanza su mayor tamaño, presenta muescas y rasguños por todas partes.",
+        "Zafiro": "Clamperl crece protegido por la sólida concha que tiene. Si vemos que el cuerpo no le cabe, será porque está a punto de evolucionar.",
+        "Esmeralda": "Un Clamperl cierra de golpe la concha para evitar que escape su presa. Dicen que la perla que crea al evolucionar está dotada de una misteriosa energía.",
+        "Rojo Fuego": "Está protegido por una sólida concha. Puede llegar a formar una perla extraordinaria.",
+        "Verde Hoja": "Está protegido por una sólida concha. Puede llegar a formar una perla extraordinaria.",
+        "Diamante": "Durante toda su vida, crea una sola perla que, según se dice, aumenta los poderes psíquicos.",
+        "Perla": "Durante toda su vida, crea una sola perla que, según se dice, aumenta los poderes psíquicos.",
+        "Platino": "Durante toda su vida, crea una sola perla que, según se dice, aumenta los poderes psíquicos.",
+        "Oro HeartGold": "Produce durante toda su vida una sola perla que aumenta sus poderes psíquicos al evolucionar.",
+        "Plata SoulSilver": "Produce durante toda su vida una sola perla que aumenta sus poderes psíquicos al evolucionar.",
+        "Negro": "Durante toda su vida, crea una sola perla que, según se dice, aumenta los poderes psíquicos.",
+        "Blanco": "Durante toda su vida, crea una sola perla que, según se dice, aumenta los poderes psíquicos.",
+        "Negro 2": "Durante toda su vida, crea una sola perla que, según se dice, aumenta los poderes psíquicos.",
+        "Blanco 2": "Durante toda su vida, crea una sola perla que, según se dice, aumenta los poderes psíquicos.",
+        "Pokémon X": "Produce durante toda su vida una sola perla que aumenta sus poderes psíquicos al evolucionar.",
+        "Pokémon Y": "Está protegido por una sólida concha. Puede llegar a formar una perla extraordinaria.",
+        "Rubí Omega": "La sólida concha que rodea a Clamperl no solo le sirve para protegerse, sino también de cepo para atrapar a su presa. Cuando la concha alcanza su mayor tamaño, presenta muescas y rasguños por todas partes.",
+        "Zafiro Alfa": "Clamperl crece protegido por la sólida concha que tiene. Si vemos que el cuerpo no le cabe, será porque está a punto de evolucionar.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Este Pokémon, que no aparenta ser carnívoro, atrapa a sus presas con ambas conchas y no las suelta hasta que dejan de moverse.",
+        "Ultraluna": "La perla que contiene vale un potosí. De hecho, su precio puede llegar a ser incluso más de diez veces superior al de la perla de Shellder.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Durante toda su vida, crea una sola perla que, según se dice, aumenta los poderes psíquicos.",
+        "Perla Reluciente": "Durante toda su vida, crea una sola perla que, según se dice, aumenta los poderes psíquicos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Clamperl",
+            "Intercambio equipadocon diente marino ",
+            "Huntail"
+        ],
+        [
+            "",
+            "Intercambio equipadocon escama marina ",
+            "Gorebyss"
+        ]
+    ]
+}

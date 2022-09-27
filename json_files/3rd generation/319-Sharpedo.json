@@ -1,0 +1,165 @@
+{
+    "dex number": "319",
+    "pokemon name": "Sharpedo",
+    "types": [
+        "agua",
+        "siniestro"
+    ],
+    "abilities": [
+        "Piel tosca"
+    ],
+    "hidden abilities": [
+        "Impulso"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "120",
+        "def": "40",
+        "atk esp": "95",
+        "def esp": "40",
+        "speed": "95"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje, pescando con supercaña: rutas 103, 118, 122, 124, 125, 126, 127, 129, 130, 131, 132, 133, 134, Ciudad Algaria y Pueblo Oromar",
+            "Evolucionar: de Carvanha (nivel 30)"
+        ],
+        "Zafiro": [
+            "Salvaje, pescando con supercaña: rutas 103, 118, 122, 124, 125, 126, 127, 129, 130, 131, 132, 133, 134, Ciudad Algaria y Pueblo Oromar",
+            "Evolucionar: de Carvanha (nivel 30)"
+        ],
+        "Esmeralda": [
+            "Salvaje, pescando con supercaña: rutas 103, 118, 122, 124, 125, 126, 127, 129, 130, 131, 132, 133, 134, Ciudad Algaria y Pueblo Oromar",
+            "Evolucionar: de Carvanha (nivel 30)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Salvaje, pescando con supercaña: rutas 213 y 222",
+            "Evolucionar: de Carvanha (nivel 30)",
+            "Parque Compi: Zona marina."
+        ],
+        "Perla": [
+            "Salvaje, pescando con supercaña: rutas 213 y 222",
+            "Evolucionar: de Carvanha (nivel 30)",
+            "Parque Compi: Zona marina."
+        ],
+        "Platino": [
+            "Evolucionar: de Carvanha (nivel 30)",
+            "Parque Compi: Zona marina."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Carvanha (nivel 30)",
+            "Parque Compi: Zona marina."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Carvanha (nivel 30)",
+            "Parque Compi: Zona marina."
+        ],
+        "Negro": [
+            "Salvaje, pescando con supercaña: Puente Villa",
+            "Evolucionar: de Carvanha (nivel 30)"
+        ],
+        "Blanco": [
+            "Salvaje, pescando con supercaña: Puente Villa",
+            "Evolucionar: de Carvanha (nivel 30)"
+        ],
+        "Negro 2": [
+            "Salvaje, pescando con supercaña: Puente Villa",
+            "Evolucionar: de Carvanha (nivel 30)"
+        ],
+        "Blanco 2": [
+            "Salvaje, pescando con supercaña: Puente Villa",
+            "Evolucionar: de Carvanha (nivel 30)"
+        ],
+        "Pokémon X": [
+            "Salvaje ruta 22"
+        ],
+        "Pokémon Y": [
+            "Salvaje ruta 22"
+        ],
+        "Rubí Omega": [
+            "Salvaje, pescando con supercaña: rutas 118, y 119",
+            "Evolucionar: de Carvanha (nivel 30)",
+            "Especial: Regalo de una recluta del Equipo Aqua en una casa del Resort Batalla"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje, pescando con supercaña: rutas 118, y 119",
+            "Evolucionar: de Carvanha (nivel 30)",
+            "Especial: Regalo de una recluta del Equipo Aqua en una casa del Resort Batalla"
+        ],
+        "Sol": [
+            "Salvaje, pescando: Arrecife de Poni"
+        ],
+        "Luna": [
+            "Salvaje, pescando: Arrecife de Poni"
+        ],
+        "Ultrasol": [
+            "Salvaje, pescando: Arrecife de Poni (como refuerzo de Carvanha)",
+            "Evolucionar: de Carvanha (nivel 30)"
+        ],
+        "Ultraluna": [
+            "Salvaje, pescando: Arrecife de Poni (como refuerzo de Carvanha)",
+            "Evolucionar: de Carvanha (nivel 30)"
+        ],
+        "Espada": [
+            "Salvaje: Llano Entrenamiento, Mar Andana y Mar Gimnástico ",
+            "Evolucionar: de Carvanha (nivel 30)"
+        ],
+        "Escudo": [
+            "Salvaje: Llano Entrenamiento, Mar Andana y Mar Gimnástico ",
+            "Evolucionar: de Carvanha (nivel 30)"
+        ],
+        "Diamante Brillante": [
+            "Pescando con supercaña: rutas 213 y 222.",
+            "Evolucionar: de Carvanha (nivel 30)."
+        ],
+        "Perla Reluciente": [
+            "Pescando con supercaña: rutas 213 y 222.",
+            "Evolucionar: de Carvanha (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Sharpedo no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Conocido como \"el terror de los mares\", Sharpedo es temido por todos. Si este Pokémon pierde las escalofriantes mandíbulas que tiene, las recupera en breve. Basta con un Sharpedo para destrozar un buque-cisterna.",
+        "Zafiro": "Sharpedo puede alcanzar nadando los 120 kilómetros por hora agitando la aleta trasera y propulsándose por el agua. El punto flaco de este Pokémon es la imposibilidad que tiene de nadar largas distancias.",
+        "Esmeralda": "Este Pokémon, muy violento y astuto, es el terror de los mares. La textura de su piel reduce al mínimo la resistencia al agua. Llega a alcanzar los 120 km por hora.",
+        "Rojo Fuego": "Es el terror de los mares; traspasa el hierro con los colmillos. Nada agitando la aleta trasera propulsándose por el agua.",
+        "Verde Hoja": "Es el terror de los mares; traspasa el hierro con los colmillos. Nada agitando la aleta trasera propulsándose por el agua.",
+        "Diamante": "Con sus colmillos puede atravesar el acero. Nada a 120 Km por hora. Le llaman el \"terror de los mares\".",
+        "Perla": "Con sus colmillos puede atravesar el acero. Nada a 120 Km por hora. Le llaman el \"terror de los mares\".",
+        "Platino": "Con sus colmillos puede atravesar el acero. Nada a 120 Km por hora. Le llaman el \"terror de los mares\".",
+        "Oro HeartGold": "Puede nadar a 75mph gracias a chorros de agua a través de su cuerpo. Es el bandido del mar.",
+        "Plata SoulSilver": "Puede nadar a 75mph gracias a chorros de agua a través de su cuerpo. Es el bandido del mar.",
+        "Negro": "Con sus colmillos puede atravesar el acero. Nada a 120 Km por hora. Le llaman el \"terror de los mares\".",
+        "Blanco": "Con sus colmillos puede atravesar el acero. Nada a 120 Km por hora. Le llaman el \"terror de los mares\".",
+        "Negro 2": "Con sus colmillos puede atravesar el acero. Nada a 120 Km por hora. Le llaman el \"terror de los mares\".",
+        "Blanco 2": "Con sus colmillos puede atravesar el acero. Nada a 120 Km por hora. Le llaman el \"terror de los mares\".",
+        "Pokémon X": "Con sus colmillos puede atravesar el acero. Nada a 120 km/h. Le llaman el Terror de los Mares.",
+        "Pokémon Y": "Propulsándose con sus aletas, nada a 120 km/h. Es el terror de los mares.",
+        "Rubí Omega": "Conocido como \"el terror de los mares\", Sharpedo es temido por todos. Si este Pokémon pierde las escalofriantes mandíbulas que tiene, las recupera en breve. Basta con un Sharpedo para destrozar un buque-cisterna.",
+        "Zafiro Alfa": "Sharpedo puede alcanzar nadando los 120 km/h agitando la aleta trasera y propulsándose por el agua. El punto flaco de este Pokémon es la imposibilidad que tiene de nadar largas distancias.",
+        "Sol": "Puede nadar a 120 km/h y abatir a su presa con sus colmillos, capaces de destrozar incluso el metal. Su apodo es el Terror de los Mares.",
+        "Luna": "Este Pokémon tiene un pasado triste, ya que antaño fue pescado en exceso por lo deliciosa que era su aleta dorsal.",
+        "Ultrasol": "\nSharpedo: Existe la creencia de que sus dientes traen buena suerte en la mar, por lo que se usan para la elaboración de amuletos y adornos.\nMega-Sharpedo: Las marcas amarillas son cicatrices antiguas. La energía de la megaevolución provoca que empiecen a dolerle otra vez.",
+        "Ultraluna": "\nSharpedo: Nada tragando agua marina, que le sirve de propulsión al expelerla por detrás. Su olfato es extremadamente sensible al olor de la sangre.\nMega-Sharpedo: Al embestir, saca unas espinas cortantes de la cabeza que se clavan en el cuerpo del rival y le causan heridas profundas.",
+        "Espada": "En cuanto detecta el olor de una presa, expele agua marina para propulsarse hacia delante y atacar a una velocidad de 120 km/h.",
+        "Escudo": "Conocido como el Terror de los Mares, ataca sin excepción a todo barco que ose adentrarse en su territorio oceánico.",
+        "Diamante Brillante": "Con sus colmillos puede atravesar el acero. Nada a 120 km/h y lo llaman el Terror de los Mares.",
+        "Perla Reluciente": "Con sus colmillos puede atravesar el acero. Nada a 120 km/h y lo llaman el Terror de los Mares.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Carvanha",
+            "Nivel 30",
+            "Sharpedo"
+        ]
+    ]
+}

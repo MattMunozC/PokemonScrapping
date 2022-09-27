@@ -1,0 +1,150 @@
+{
+    "dex number": "259",
+    "pokemon name": "Marshtomp",
+    "types": [
+        "agua",
+        "tierra"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Humedad"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "85",
+        "def": "70",
+        "atk esp": "60",
+        "def esp": "70",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Mudkip (nivel 16)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Mudkip (nivel 16)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Mudkip (nivel 16)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Mudkip (nivel 16).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Mudkip (nivel 16).",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Mudkip (nivel 16)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Mudkip (nivel 16)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Escáner insular: Colina Saltagua (sábado)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Colina Saltagua (sábado)"
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Mudkip (nivel 16)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Mudkip (nivel 16)."
+        ],
+        "Leyendas: Arceus": [
+            "Marshtomp no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "El cuerpo de Marshtomp está cubierto por una fina película pegajosa gracias a la cual puede vivir en tierra. Cuando la marea está baja, a este Pokémon le encanta jugar en el fango.",
+        "Zafiro": "Marshtomp se desplaza más rápido por el lodo que por el agua. Los cuartos traseros de este Pokémon muestran un desarrollo más que evidente, que le han proporcionado la habilidad de andar sólo sobre las patas traseras.",
+        "Esmeralda": "Tiene unas patas traseras fortísimas que le permiten mantenerse erguido. Como se debilita si se le seca la piel, juega en el lodo para mantenerse hidratado.",
+        "Rojo Fuego": "Está en su salsa cuando se encuentra en zonas lodosas de suelo resbaladizo. Si lucha en este medio, es impresionante.",
+        "Verde Hoja": "Está en su salsa cuando se encuentra en zonas lodosas de suelo resbaladizo. Si lucha en este medio, es impresionante.",
+        "Diamante": "Sus piernas robustas impiden que pierda el equilibrio y caiga, incluso en el barro. Duerme bajo la arena.",
+        "Perla": "Sus piernas robustas impiden que pierda el equilibrio y caiga, incluso en el barro. Duerme bajo la arena.",
+        "Platino": "Sus piernas robustas impiden que pierda el equilibrio y caiga, incluso en el barro. Duerme bajo la arena.",
+        "Oro HeartGold": "Vive en el lodo, lo que contribuye a que sus piernas sean extremadamente robustas.",
+        "Plata SoulSilver": "Vive en el lodo, lo que contribuye a que sus piernas sean extremadamente robustas.",
+        "Negro": "Sus piernas robustas impiden que pierda el equilibrio y caiga, incluso en el barro. Duerme bajo la arena.",
+        "Blanco": "Sus piernas robustas impiden que pierda el equilibrio y caiga, incluso en el barro. Duerme bajo la arena.",
+        "Negro 2": "Sus piernas robustas impiden que pierda el equilibrio y caiga, incluso en el barro. Duerme bajo la arena.",
+        "Blanco 2": "Sus piernas robustas impiden que pierda el equilibrio y caiga, incluso en el barro. Duerme bajo la arena.",
+        "Pokémon X": "Sus piernas robustas impiden que pierda el equilibrio y caiga, incluso en el barro. Duerme bajo la arena.",
+        "Pokémon Y": "Vive en el lodo, lo que contribuye a que sus piernas sean extremadamente robustas.",
+        "Rubí Omega": "El cuerpo de Marshtomp está cubierto por una fina película pegajosa gracias a la cual puede vivir en tierra. Cuando la marea está baja, a este Pokémon le encanta jugar en el fango.",
+        "Zafiro Alfa": "Marshtomp se desplaza más rápido por el lodo que por el agua. Los cuartos traseros de este Pokémon muestran un desarrollo más que evidente, lo que le permite andar solo sobre las patas traseras.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Sus patas robustas impiden que pierda el equilibrio y se caiga, incluso en el barro. Duerme enterrado en el lodo.",
+        "Perla Reluciente": "Sus patas robustas impiden que pierda el equilibrio y se caiga, incluso en el barro. Duerme enterrado en el lodo.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Mudkip",
+            "Nivel 16",
+            "Marshtomp",
+            "Nivel 36",
+            "Swampert"
+        ]
+    ]
+}

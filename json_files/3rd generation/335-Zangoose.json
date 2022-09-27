@@ -1,0 +1,149 @@
+{
+    "dex number": "335",
+    "pokemon name": "Zangoose",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Inmunidad"
+    ],
+    "hidden abilities": [
+        "Ímpetu tóxico"
+    ],
+    "stats": {
+        "hp": "73",
+        "atk": "115",
+        "def": "60",
+        "atk esp": "60",
+        "def esp": "60",
+        "speed": "90"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: ruta 114."
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rubí."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rubí."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí."
+        ],
+        "Diamante": [
+            "Insertando un videojuego de GBA: rutas 208 y 210 (Norte) (con Pokémon Rubí insertado).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Insertando un videojuego de GBA: rutas 208 y 210 (Norte) (con Pokémon Rubí insertado).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Insertando un videojuego de GBA: rutas 208 y 210 (Norte) (con Pokémon Rubí insertado).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Salvaje: Ruta 11 y Puente Villa.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 11 y Puente Villa.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 7, 11 y Puente Villa.",
+            "Claro Oculto: 7 y 23.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 7, 11 y Puente Villa.",
+            "Claro Oculto: 7 y 23.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 8."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 8 (Solo hordas)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: ruta 114."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar de Pokémon Rubí Omega, Pokémon X o Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Zangoose no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Zangoose no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Zangoose no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Los ecos del combate mantenido con su rival más feroz, Seviper, resuenan aún en cada célula de Zangoose. Este Pokémon esquiva los ataques con auténtica destreza.",
+        "Zafiro": "Zangoose suele caminar a cuatro patas, pero cuando se enfada se pone de pie sobre las traseras y saca las zarpas. Este Pokémon tiene desde hace varias generaciones una áspera rivalidad con Seviper.",
+        "Esmeralda": "Cuando lucha, se yergue sobre las patas traseras y ataca con sus afiladas zarpas. El pelaje se le eriza si se encuentra con un Seviper.",
+        "Rojo Fuego": "Cuando se encuentra con un rival, se le eriza el pelaje y se pone en guardia. Las zarpas que tiene son su mejor arma.",
+        "Verde Hoja": "Cuando se encuentra con un rival, se le eriza el pelaje y se pone en guardia. Las zarpas que tiene son su mejor arma.",
+        "Diamante": "Hace muchos años que se enfrenta a Seviper. Su arma más eficaz son sus zarpas afiladas.",
+        "Perla": "Hace muchos años que se enfrenta a Seviper. Su arma más eficaz son sus zarpas afiladas.",
+        "Platino": "Hace muchos años que se enfrenta a Seviper. Su arma más eficaz son sus zarpas afiladas.",
+        "Oro HeartGold": "Se le eriza todo el pelaje con solo oler un Seviper. Con sus afiladas zarpas puede rajar a sus enemigos.",
+        "Plata SoulSilver": "Se le eriza todo el pelaje con solo oler un Seviper. Con sus afiladas zarpas puede rajar a sus enemigos.",
+        "Negro": "Hace muchos años que se enfrenta a Seviper. Su arma más eficaz son sus zarpas afiladas.",
+        "Blanco": "Hace muchos años que se enfrenta a Seviper. Su arma más eficaz son sus zarpas afiladas.",
+        "Negro 2": "Le une una relación de enemistad con Seviper. Al toparse con alguien, alarga sus afiladas zarpas para intimidarlo.",
+        "Blanco 2": "Le une una relación de enemistad con Seviper. Al toparse con alguien, alarga sus afiladas zarpas para intimidarlo.",
+        "Pokémon X": "Hace muchos años que se enfrenta a Seviper. Su arma más eficaz son sus zarpas afiladas.",
+        "Pokémon Y": "Se le eriza todo el pelaje con solo oler un Seviper. Con sus afiladas zarpas puede rajar a sus enemigos.",
+        "Rubí Omega": "Los ecos del combate mantenido con su rival más feroz, Seviper, resuenan aún en cada célula de Zangoose. Este Pokémon esquiva los ataques con auténtica destreza.",
+        "Zafiro Alfa": "Zangoose suele caminar a cuatro patas, pero cuando se enfada se pone de pie sobre las traseras y saca las zarpas. Este Pokémon tiene desde hace varias generaciones una áspera rivalidad con Seviper.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Este Pokémon lleva enfrentado a los Seviper desde hace varias generaciones. Su arma más eficaz son sus afiladas zarpas.",
+        "Perla Reluciente": "Este Pokémon lleva enfrentado a los Seviper desde hace varias generaciones. Su arma más eficaz son sus afiladas zarpas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Zangoose"
+        ]
+    ]
+}

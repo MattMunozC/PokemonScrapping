@@ -1,0 +1,156 @@
+{
+    "dex number": "273",
+    "pokemon name": "Seedot",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Madrugar"
+    ],
+    "hidden abilities": [
+        "Hurto"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "40",
+        "def": "50",
+        "atk esp": "30",
+        "def esp": "30",
+        "speed": "30"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: rutas 102 y 114"
+        ],
+        "Zafiro": [
+            "Salvaje: ruta 117 (manada anunciada en TV, solo tras mezclar récords con Pokémon Esmeralda)"
+        ],
+        "Esmeralda": [
+            "Salvaje: rutas 102, 117 y 120",
+            "Intercambio: por un Ralts en Ciudad Férrica"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Insertando un videojuego de GBA, Pokémon Rubí: rutas 203 y 204 y Bosque Vetusto",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Insertando un videojuego de GBA, Pokémon Rubí: rutas 203 y 204 y Bosque Vetusto",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Insertando un videojuego de GBA, Pokémon Rubí: rutas 203, 204, 205 (zona norte) y 212 (zona sur)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari (parterre)",
+            "Golpe cabeza: Bosque Verde (árbol especial)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari (parterre)",
+            "Golpe cabeza: Bosque Verde (árbol especial)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Negro 2": [
+            "Criando: de Nuzleaf o Shiftry",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco 2": [
+            "Criando: de Nuzleaf o Shiftry",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Pokémon X": [
+            "Criando: de Nuzleaf o Shiftry"
+        ],
+        "Pokémon Y": [
+            "Criando: de Nuzleaf o Shiftry"
+        ],
+        "Rubí Omega": [
+            "Salvaje: rutas 102 y 114"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X, Pokémon Y o Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Criando: de Nuzleaf"
+        ],
+        "Ultraluna": [
+            "Criando: de Nuzleaf"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 2.",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro."
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Seedot no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Seedot se queda enganchado a las ramas de los árboles por el extremo que tiene en la cabeza. Mientras está ahí colgado, aprovecha para tomar toda la humedad del árbol. Cuanto más agua bebe, más lustroso se le ve.",
+        "Zafiro": "Seedot es igualito que una bellota colgada de la rama de un árbol. A veces asusta a más de un Pokémon con movimientos repentinos. Seedot suele acicalarse con hojas una vez al día.",
+        "Esmeralda": "Se cuelga de las ramas y absorbe sus nutrientes. Cuando acaba de comer, se queda tan lleno que acaba cayéndose al suelo y dándose un tortazo.",
+        "Rojo Fuego": "Cuando se queda inmóvil, parece una bellota de verdad. Le encanta sorprender a los Pidgey cuando van buscando grano.",
+        "Verde Hoja": "Cuando se queda inmóvil, parece una bellota de verdad. Le encanta sorprender a los Pidgey cuando van buscando grano.",
+        "Diamante": "Cuando cuelga de las ramas parece una bellota. Le encanta asustar a otros Pokémon.",
+        "Perla": "Cuando cuelga de las ramas parece una bellota. Le encanta asustar a otros Pokémon.",
+        "Platino": "Cuando cuelga de las ramas parece una bellota. Le encanta asustar a otros Pokémon.",
+        "Oro HeartGold": "Se cuelga de las ramas con el extremo de su cabeza. A veces se cae cuando soplan vientos fuertes.",
+        "Plata SoulSilver": "Se cuelga de las ramas con el extremo de su cabeza. A veces se cae cuando soplan vientos fuertes.",
+        "Negro": "Cuando cuelga de las ramas parece una bellota. Le encanta asustar a otros Pokémon.",
+        "Blanco": "Cuando cuelga de las ramas parece una bellota. Le encanta asustar a otros Pokémon.",
+        "Negro 2": "Cuando cuelga de las ramas parece una bellota. Le encanta asustar a otros Pokémon.",
+        "Blanco 2": "Cuando cuelga de las ramas parece una bellota. Le encanta asustar a otros Pokémon.",
+        "Pokémon X": "Se cuelga de las ramas con el extremo de su cabeza. A veces se cae cuando soplan vientos fuertes.",
+        "Pokémon Y": "Cuando cuelga de las ramas parece una bellota. Le encanta asustar a otros Pokémon.",
+        "Rubí Omega": "Seedot se queda enganchado a las ramas de los árboles por el extremo que tiene en la cabeza. Mientras está ahí colgado, aprovecha para tomar la humedad del árbol. Cuanta más agua bebe, más lustroso se le ve.",
+        "Zafiro Alfa": "Seedot es igualito que una bellota colgada de la rama de un árbol. A veces asusta a más de un Pokémon con movimientos repentinos. Seedot suele acicalarse con hojas una vez al día.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Cuando se queda inmóvil, parece una bellota de verdad. Le encanta sorprender a los Pokémon que se acercan a picotearlo.",
+        "Escudo": "Se cuelga de las ramas con el extremo de la cabeza. A veces se cae cuando soplan vientos fuertes.",
+        "Diamante Brillante": "Cuando cuelga de las ramas, parece una bellota. Le encanta asustar a los Pokémon que intentan picotearlo.",
+        "Perla Reluciente": "Cuando cuelga de las ramas, parece una bellota. Le encanta asustar a los Pokémon que intentan picotearlo.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Seedot",
+            "Nivel 14",
+            "Nuzleaf",
+            "Piedra hoja ",
+            "Shiftry"
+        ]
+    ]
+}

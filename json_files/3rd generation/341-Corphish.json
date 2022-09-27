@@ -1,0 +1,156 @@
+{
+    "dex number": "341",
+    "pokemon name": "Corphish",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Corte fuerte",
+        "Caparazón"
+    ],
+    "hidden abilities": [
+        "Adaptable"
+    ],
+    "stats": {
+        "hp": "43",
+        "atk": "80",
+        "def": "65",
+        "atk esp": "50",
+        "def esp": "35",
+        "speed": "35"
+    },
+    "location": {
+        "Rubí": [
+            "Pescando, caña buena o supercaña: Ruta 102, Ruta 117 y Ciudad Petalia"
+        ],
+        "Zafiro": [
+            "Pescando, caña buena o supercaña: Ruta 102, Ruta 117 y Ciudad Petalia"
+        ],
+        "Esmeralda": [
+            "Pescando, caña buena o supercaña: Ruta 102, Ruta 117 y Ciudad Petalia"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pescando, supercaña: Pueblo Caelestis",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Perla": [
+            "Pescando, supercaña: Pueblo Caelestis",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Platino": [
+            "Pescando, supercaña: Pueblo Caelestis",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Oro HeartGold": [
+            "Pescando, caña buena: Zona Safari",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Plata SoulSilver": [
+            "Pescando, caña buena: Zona Safari",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Pokémon Dream World: Mar Brillante"
+        ],
+        "Blanco": [
+            "Salvaje, surf: Bosque Blanco",
+            "Pokémon Dream World: Mar Brillante"
+        ],
+        "Negro 2": [
+            "Salvaje, surf: Ruta 3 y Ciudad Gres",
+            "Pokémon Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Salvaje, surf: Ruta 3 y Ciudad Gres",
+            "Pokémon Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Pescando, caña buena: Ruta 3 y Palacio Cénit"
+        ],
+        "Pokémon Y": [
+            "Pescando, caña buena: Ruta 3 y Palacio Cénit"
+        ],
+        "Rubí Omega": [
+            "Pescando, caña buena o supercaña: Ruta 102, Ruta 117, Ruta 123 y Ciudad Petalia"
+        ],
+        "Zafiro Alfa": [
+            "Pescando, caña buena o supercaña: Ruta 102, Ruta 117, Ruta 123 y Ciudad Petalia"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Pescando: Cañón de Poni"
+        ],
+        "Ultraluna": [
+            "Pescando: Cañón de Poni"
+        ],
+        "Espada": [
+            "Salvaje: Lago Milotic (sur).",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Espejo del Gigante, nido en la laguna, Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur) y Lago Milotic (sur), nido en el centro."
+        ],
+        "Escudo": [
+            "Salvaje: Lago Milotic (sur).",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Espejo del Gigante, nido en la laguna, Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur) y Lago Milotic (sur), nido en el centro."
+        ],
+        "Diamante Brillante": [
+            "Pescando con supercaña: Pueblo Caelestis.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Pescando con supercaña: Pueblo Caelestis.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Corphish no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "En un principio, se importaban Corphish como mascota. Pero, al final, se hicieron salvajes. Este Pokémon es muy resistente y ha aumentado su población de forma considerable.",
+        "Zafiro": "Corphish atrapa a su presa con finas pinzas. En lo referente a comida no es delicado; se come lo que sea. Tampoco tiene ningún problema en vivir en aguas sucias.",
+        "Esmeralda": "Una vez que agarra a su presa con sus grandes pinzas, no la suelta pase lo que pase. Es un Pokémon resistente que puede subsistir en cualquier medio.",
+        "Rojo Fuego": "Viene de muy lejos. Es una criatura resistente que se reproduce con rapidez, incluso en aguas contaminadas.",
+        "Verde Hoja": "Viene de muy lejos. Es una criatura resistente que se reproduce con rapidez, incluso en aguas contaminadas.",
+        "Diamante": "Su organismo le permite adaptarse a cualquier entorno. Sus pinzas nunca sueltan a su presa.",
+        "Perla": "Su organismo le permite adaptarse a cualquier entorno. Sus pinzas nunca sueltan a su presa.",
+        "Platino": "Su organismo le permite adaptarse a cualquier entorno. Sus pinzas nunca sueltan a su presa.",
+        "Oro HeartGold": "Llegó del extranjero y se halla en estado salvaje. Puede vivir hasta en los ríos más sucios.",
+        "Plata SoulSilver": "Llegó del extranjero y se halla en estado salvaje. Puede vivir hasta en los ríos más sucios.",
+        "Negro": "Su organismo le permite adaptarse a cualquier entorno. Sus pinzas nunca sueltan a su presa.",
+        "Blanco": "Su organismo le permite adaptarse a cualquier entorno. Sus pinzas nunca sueltan a su presa.",
+        "Negro 2": "Por sucio o contaminado que esté el río, se adaptan rápido y se multiplican. Poseen una gran fuerza vital.",
+        "Blanco 2": "Por sucio o contaminado que esté el río, se adaptan rápido y se multiplican. Poseen una gran fuerza vital.",
+        "Pokémon X": "Por sucio o contaminado que esté el río, se adaptan rápido y se multiplican. Poseen una gran fuerza vital.",
+        "Pokémon Y": "Su organismo le permite adaptarse a cualquier entorno. Sus pinzas nunca sueltan a su presa.",
+        "Rubí Omega": "En un principio, se importaban Corphish como mascota. Pero, al final, se hicieron salvajes. Este Pokémon es muy resistente y ha aumentado su población de forma considerable.",
+        "Zafiro Alfa": "Corphish atrapa a su presa con finas pinzas. En lo referente a comida no es delicado; se come lo que sea. Tampoco tiene ningún problema en vivir en aguas sucias.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Son muchos los entrenadores que lo liberan sin terminar de criarlo, y su población ha crecido tanto que se les ha empezado a avistar en Alola.",
+        "Ultraluna": "Posee una excelente capacidad para adaptarse a su entorno. Solo Corphish o Feebas habitan las aguas estancadas de los canales.",
+        "Espada": "Por muy sucio o contaminado que esté el río, se adaptan rápido y se multiplican. Poseen una gran fuerza vital.",
+        "Escudo": "Si bien procede del extranjero, ahora se halla en estado salvaje. Puede vivir hasta en los ríos más sucios.",
+        "Diamante Brillante": "Su organismo le permite adaptarse a cualquier entorno. Sus pinzas nunca sueltan a su presa.",
+        "Perla Reluciente": "Su organismo le permite adaptarse a cualquier entorno. Sus pinzas nunca sueltan a su presa.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Corphish",
+            "Nivel 30",
+            "Crawdaunt"
+        ]
+    ]
+}

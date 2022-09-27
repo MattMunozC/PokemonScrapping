@@ -1,0 +1,157 @@
+{
+    "dex number": "368",
+    "pokemon name": "Gorebyss",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Nado rápido"
+    ],
+    "hidden abilities": [
+        "Hidratación"
+    ],
+    "stats": {
+        "hp": "55",
+        "atk": "84",
+        "def": "105",
+        "atk esp": "114",
+        "def esp": "75",
+        "speed": "52"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)",
+            "Parque Compi: Zona marina"
+        ],
+        "Perla": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)",
+            "Parque Compi: Zona marina"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Diamante o Pokémon Perla",
+            "Parque Compi: Zona marina"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)",
+            "Parque Compi: Zona marina"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Blanco": [
+            "Salvaje, pescando en remolino de agua: Ruta 4",
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Blanco 2": [
+            "Salvaje, pescando en remolino de agua: Ruta 4",
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Pokémon Y": [
+            "Salvaje, pescando con supercaña: Ruta 12",
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Pescando: Mar de Melemele y Ruta 15 (como refuerzo de Clamperl; solo de día)",
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Ultraluna": [
+            "Pescando: Mar de Melemele y Ruta 15 (como refuerzo de Clamperl; solo de día)",
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)"
+        ],
+        "Espada": [
+            "Gorebyss no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Gorebyss no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Clamperl (intercambio equipado con escama marina)."
+        ],
+        "Leyendas: Arceus": [
+            "Gorebyss no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Gorebyss vive en los Mares del Sur, en lo más profundo; de ahí que tenga el cuerpo preparado para soportar la presión tan grande que hay en el fondo marino, y que no le hagan daño los ataques comunes.",
+        "Zafiro": "Aunque Gorebyss es la imagen de la elegancia y la belleza al nadar, es también la definición de la crueldad. Al detectar a su presa, este Pokémon le hinca los finos dientes que tiene y le absorbe los fluidos corporales.",
+        "Esmeralda": "Gorebyss absorbe los fluidos corporales de su presa a través de la boca, que es fina y tubular. Cuando acaba de comer, se le acentúa el tono rosado.",
+        "Rojo Fuego": "Tiene una forma de nadar de lo más elegante. Se alimenta de las algas marinas que crecen entre las rocas.",
+        "Verde Hoja": "Tiene una forma de nadar de lo más elegante. Se alimenta de las algas marinas que crecen entre las rocas.",
+        "Diamante": "Vive en el fondo del mar. En primavera, su cuerpo rosado adquiere colores más vivos.",
+        "Perla": "Vive en el fondo del mar. En primavera, su cuerpo rosado adquiere colores más vivos.",
+        "Platino": "Vive en el fondo del mar. En primavera, su cuerpo rosado adquiere colores más vivos.",
+        "Oro HeartGold": "Su cuerpo se torna de un rosa vivo en primavera debido a que aumenta la temperatura del fondo del mar.",
+        "Plata SoulSilver": "Su cuerpo se torna de un rosa vivo en primavera debido a que aumenta la temperatura del fondo del mar.",
+        "Negro": "Vive en el fondo del mar. En primavera, su cuerpo rosado adquiere colores más vivos.",
+        "Blanco": "Vive en el fondo del mar. En primavera, su cuerpo rosado adquiere colores más vivos.",
+        "Negro 2": "Vive en el fondo del mar. En primavera, su cuerpo rosado adquiere colores más vivos.",
+        "Blanco 2": "Vive en el fondo del mar. En primavera, su cuerpo rosado adquiere colores más vivos.",
+        "Pokémon X": "Vive en el fondo del mar. En primavera, su cuerpo rosado adquiere colores más vivos.",
+        "Pokémon Y": "Tiene una forma de nadar de lo más elegante. Se alimenta de las algas marinas que crecen entre las rocas.",
+        "Rubí Omega": "Gorebyss vive en los Mares del Sur, en lo más profundo; de ahí que tenga el cuerpo preparado para soportar la presión tan grande que hay en el fondo marino, y que no le hagan daño los ataques comunes.",
+        "Zafiro Alfa": "Aunque Gorebyss es la imagen de la elegancia y la belleza al nadar, es también la definición de la crueldad. Al detectar a su presa, este Pokémon le hinca los finos dientes que tiene y le absorbe los fluidos corporales.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Su color de piel varía en base a la temperatura del agua, y los que viven en Alola adoptan colores tan vivos que llegan a deslumbrar.",
+        "Ultraluna": "Absorbe los fluidos corporales de su presa. Los restos que deja caen hasta el lecho marino y se convierten en alimento para otros Pokémon.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Vive en el fondo del mar. Por alguna razón, en primavera su cuerpo rosado adquiere colores más vivos.",
+        "Perla Reluciente": "Vive en el fondo del mar. Por alguna razón, en primavera su cuerpo rosado adquiere colores más vivos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Clamperl",
+            "Intercambio equipadocon diente marino ",
+            "Huntail"
+        ],
+        [
+            "",
+            "Intercambio equipadocon escama marina ",
+            "Gorebyss"
+        ]
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "dex number": "327",
+    "pokemon name": "Spinda",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Ritmo propio",
+        "Tumbos"
+    ],
+    "hidden abilities": [
+        "Respondón"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "60",
+        "def": "60",
+        "atk esp": "60",
+        "def esp": "60",
+        "speed": "60"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Ruta 113"
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 113"
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 113"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Manada Pokémon: Ruta 227",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Manada Pokémon: Ruta 227",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Manada Pokémon: Ruta 227",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Salvaje, sonidos de Hoenn: Torre Bellsprout, Torre Campana, Torre Quemada",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, sonidos de Hoenn: Torre Bellsprout, Torre Campana, Torre Quemada",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Monte Escarpado"
+        ],
+        "Negro 2": [
+            "Intercambiar: por cualquier Pokémon con Julián/Belinda en Ciudad Mayólica",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco 2": [
+            "Intercambiar: por cualquier Pokémon con Julián/Belinda en Ciudad Mayólica",
+            "Dream World: Monte Escarpado"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 21"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 21"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 113"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 113"
+        ],
+        "Sol": [
+            "Salvaje: Colina Dequilate"
+        ],
+        "Luna": [
+            "Salvaje: Colina Dequilate"
+        ],
+        "Ultrasol": [
+            "Salvaje: Colina Dequilate"
+        ],
+        "Ultraluna": [
+            "Salvaje: Colina Dequilate"
+        ],
+        "Espada": [
+            "Spinda no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Spinda no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Manada: Ruta 227."
+        ],
+        "Perla Reluciente": [
+            "Manada: Ruta 227."
+        ],
+        "Leyendas: Arceus": [
+            "Spinda no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Dicen que no hay dos Spinda que tengan los mismos dibujos en el pelaje. Este Pokémon tiene una forma de andar inestable, va tambaleándose. Da la sensación de ir bailando.",
+        "Zafiro": "No hay dos Spinda con los mismos dibujos en el pelaje. Este Pokémon se mueve de forma muy curiosa. Da la impresión de estar mareado. Se tambalea y puede llegar a causar confusión a su enemigo.",
+        "Esmeralda": "Se le diferencia por los dibujos del pelaje; no hay dos iguales. Su forma de andar, inestable y torpe, logra confundir al enemigo y hacer que su puntería falle.",
+        "Rojo Fuego": "Dicen que no hay dos Spinda iguales. Realizan movimientos extraños para confundir al rival.",
+        "Verde Hoja": "Dicen que no hay dos Spinda iguales. Realizan movimientos extraños para confundir al rival.",
+        "Diamante": "No hay dos Spinda que tengan idénticos pelajes. Su tambaleo al bailar confunde a los rivales.",
+        "Perla": "No hay dos Spinda que tengan idénticos pelajes. Su tambaleo al bailar confunde a los rivales.",
+        "Platino": "No hay dos Spinda que tengan idénticos pelajes. Su tambaleo al bailar confunde a los rivales.",
+        "Oro HeartGold": "La probabilidad de que dos Spinda con dibujos idénticos en su pelaje se encuentren es casi inexistente.",
+        "Plata SoulSilver": "La probabilidad de que dos Spinda con dibujos idénticos en su pelaje se encuentren es casi inexistente.",
+        "Negro": "No hay dos Spinda que tengan idénticos pelajes. Su tambaleo al bailar confunde a los rivales.",
+        "Blanco": "No hay dos Spinda que tengan idénticos pelajes. Su tambaleo al bailar confunde a los rivales.",
+        "Negro 2": "No hay dos Spinda que tengan idénticos pelajes. Su tambaleo al bailar confunde a los rivales.",
+        "Blanco 2": "No hay dos Spinda que tengan idénticos pelajes. Su tambaleo al bailar confunde a los rivales.",
+        "Pokémon X": "No hay dos Spinda que tengan idénticos pelajes. Su tambaleo al bailar confunde a los rivales.",
+        "Pokémon Y": "La probabilidad de que dos Spinda con dibujos idénticos en su pelaje se encuentren es casi inexistente.",
+        "Rubí Omega": "Dicen que no hay dos Spinda que tengan los mismos dibujos en el pelaje. Este Pokémon tiene una forma de andar inestable, va tambaleándose. Da la sensación de ir bailando.",
+        "Zafiro Alfa": "No hay dos Spinda con los mismos dibujos en el pelaje. Este Pokémon se mueve de forma muy curiosa. Da la impresión de estar mareado. Se tambalea y puede llegar a causar confusión a su enemigo.",
+        "Sol": "Aunque Spinda pretende avanzar en línea recta, no puede evitar andar tambaleándose.",
+        "Luna": "Cada Spinda tiene dibujos diferentes en su pelaje. Dicen que algunos estudiosos disfrutan analizando los distintos patrones.",
+        "Ultrasol": "Se mueve tambaleándose de un lado para otro y termina mareado si camina durante un largo período.",
+        "Ultraluna": "Los dibujos en el pelaje de cada Spinda son diferentes. Esquiva de forma asombrosa los ataques de los rivales gracias a sus tambaleos.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "No hay dos Spinda que tengan pelajes idénticos. Su tambaleo al andar hace que sus rivales yerren el blanco.",
+        "Perla Reluciente": "No hay dos Spinda que tengan pelajes idénticos. Su tambaleo al andar hace que sus rivales yerren el blanco.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Spinda"
+        ]
+    ]
+}

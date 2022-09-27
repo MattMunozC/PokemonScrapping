@@ -1,0 +1,146 @@
+{
+    "dex number": "301",
+    "pokemon name": "Delcatty",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Gran encanto",
+        "Normalidad"
+    ],
+    "hidden abilities": [
+        "Piel milagro"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "65",
+        "def": "65",
+        "atk esp": "55",
+        "def esp": "55",
+        "speed": "70"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar)."
+        ],
+        "Zafiro": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar)."
+        ],
+        "Blanco": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar)."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco 2"
+        ],
+        "Blanco 2": [
+            "Salvaje: Solar de Ciudad Porcelana (cuando la hierba se mueve)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Delcatty no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Delcatty no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Skitty (utilizando Piedra lunar)."
+        ],
+        "Leyendas: Arceus": [
+            "Delcatty no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Delcatty prefiere llevar una vida independiente y hacer lo que se le antoje. Como este Pokémon come y duerme según vea en cada momento, no se puede decir que tenga unos hábitos regulares en el día a día.",
+        "Zafiro": "Delcatty duerme en cualquier lugar sin tener que mantener el nido en un mismo sitio. Si otro Pokémon se le acerca mientras duerme, no se pondrá a luchar con él; simplemente se irá a otro sitio.",
+        "Esmeralda": "Prefiere buscar cada vez sitios cómodos para dormir a tener una guarida permanente. Es nocturno y se vuelve activo al anochecer.",
+        "Rojo Fuego": "Es el favorito de las entrenadoras que están a la última. Lo lucen en combate por el pelaje y el estilo que tiene.",
+        "Verde Hoja": "Es el favorito de las entrenadoras que están a la última. Lo lucen en combate por el pelaje y el estilo que tiene.",
+        "Diamante": "Tiene mucho éxito entre las entrenadoras por su suave pelaje. No vive en un sitio fijo.",
+        "Perla": "Tiene mucho éxito entre las entrenadoras por su suave pelaje. No vive en un sitio fijo.",
+        "Platino": "Tiene mucho éxito entre las entrenadoras por su suave pelaje. No vive en un sitio fijo.",
+        "Oro HeartGold": "No soporta los lugares sucios. Le encanta acicalarse el pelaje cuando está a gusto en un sitio.",
+        "Plata SoulSilver": "No soporta los lugares sucios. Le encanta acicalarse el pelaje cuando está a gusto en un sitio.",
+        "Negro": "Tiene mucho éxito entre las entrenadoras por su suave pelaje. No vive en un sitio fijo.",
+        "Blanco": "Tiene mucho éxito entre las entrenadoras por su suave pelaje. No vive en un sitio fijo.",
+        "Negro 2": "No está asentado en ningún sitio en concreto porque busca constantemente lugares limpios y cómodos donde dormir.",
+        "Blanco 2": "No está asentado en ningún sitio en concreto porque busca constantemente lugares limpios y cómodos donde dormir.",
+        "Pokémon X": "No soporta los lugares sucios. Le encanta acicalarse el pelaje cuando está a gusto en un sitio.",
+        "Pokémon Y": "Tiene mucho éxito entre las Entrenadoras por su suave pelaje. No vive en un sitio fijo.",
+        "Rubí Omega": "Delcatty prefiere llevar una vida independiente y hacer lo que se le antoje. Como este Pokémon come y duerme según vea en cada momento, no se puede decir que tenga unos hábitos regulares en el día a día.",
+        "Zafiro Alfa": "Delcatty duerme en cualquier lugar sin tener que mantener el nido en un mismo sitio. Si otro Pokémon se le acerca mientras duerme, no se pondrá a luchar con él; simplemente se irá a otro sitio.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Tiene mucho éxito entre ciertas personas por su suave pelaje. No vive en un sitio fijo.",
+        "Perla Reluciente": "Tiene mucho éxito entre ciertas personas por su suave pelaje. No vive en un sitio fijo.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Skitty",
+            "Piedra lunar ",
+            "Delcatty"
+        ]
+    ]
+}

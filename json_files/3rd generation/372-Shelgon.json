@@ -1,0 +1,155 @@
+{
+    "dex number": "372",
+    "pokemon name": "Shelgon",
+    "types": [
+        "dragón"
+    ],
+    "abilities": [
+        "Cabeza roca"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "95",
+        "def": "100",
+        "atk esp": "60",
+        "def esp": "50",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Zafiro": [
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro y Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro y Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold y Pokémon Plata SoulSilver.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Evolucionar: a Bagon (nivel 30).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Evolucionar: a Bagon (nivel 30).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari (Pantano).",
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari (Pantano).",
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Pokémon X": [
+            "Safari Amistad: Algunos safaris de tipo dragón.",
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Pokémon Y": [
+            "Safari Amistad: Algunos safaris de tipo dragón.",
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Sol": [
+            "Salvaje: Bahía Kalae (como refuerzo de Bagon).",
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Luna": [
+            "Salvaje: Bahía Kalae (como refuerzo de Bagon).",
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Ultrasol": [
+            "Salvaje: Bahía Kalae (como refuerzo de Bagon).",
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Ultraluna": [
+            "Salvaje: Bahía Kalae (como refuerzo de Bagon).",
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Espada": [
+            "Evolucionar: a Bagon (nivel 30) ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Destello, Cueva Centelleo y Caverna Claroestela.",
+            "Evolucionar: a Bagon (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Shelgon no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Dentro de la capa acorazada de Shelgon, las células están en pleno proceso de creación de un cuerpo nuevo. El peso de la coraza le hace tener unos movimientos lentos.",
+        "Zafiro": "Shelgon está recubierto por una especie de capa ósea: una coraza muy dura que hace rebotar los ataques enemigos. Este Pokémon se esconde en las cavernas para evolucionar.",
+        "Esmeralda": "Apenas come cuando va a evolucionar. Soportar el hambre lo vuelve resistente. Cuando empieza a evolucionar, comienza a perder su coraza.",
+        "Rojo Fuego": "La robusta capa que lo rodea repele los ataques. Aunque es una buena protección, lo hace lento y pesado.",
+        "Verde Hoja": "La robusta capa que lo rodea repele los ataques. Aunque es una buena protección, lo hace lento y pesado.",
+        "Diamante": "Las células han empezado a cambiar dentro de su dura concha, que se separa cuando evoluciona.",
+        "Perla": "Las células han empezado a cambiar dentro de su dura concha, que se separa cuando evoluciona.",
+        "Platino": "Las células han empezado a cambiar dentro de su dura concha, que se separa cuando evoluciona.",
+        "Oro HeartGold": "En su concha, dura como el acero, acumula mucha energía para el momento de su evolución.",
+        "Plata SoulSilver": "En su concha, dura como el acero, acumula mucha energía para el momento de su evolución.",
+        "Negro": "Las células han empezado a cambiar dentro de su dura concha, que se separa cuando evoluciona.",
+        "Blanco": "Las células han empezado a cambiar dentro de su dura concha, que se separa cuando evoluciona.",
+        "Negro 2": "Las células han empezado a cambiar dentro de su dura concha, que se separa cuando evoluciona.",
+        "Blanco 2": "Las células han empezado a cambiar dentro de su dura concha, que se separa cuando evoluciona.",
+        "Pokémon X": "Las células han empezado a cambiar dentro de su dura concha, que se separa cuando evoluciona.",
+        "Pokémon Y": "La robusta capa que lo rodea repele los ataques. Aunque es una buena protección, lo hace lento y pesado.",
+        "Rubí Omega": "Dentro de la capa acorazada de Shelgon, las células están en pleno proceso de creación de un cuerpo nuevo. El peso de la coraza le hace tener unos movimientos lentos.",
+        "Zafiro Alfa": "Shelgon está recubierto por una especie de capa ósea: una coraza muy dura que hace rebotar los ataques enemigos. Este Pokémon se esconde en las cavernas para evolucionar.",
+        "Sol": "En el interior de su coraza, las células se transforman a una velocidad vertiginosa para preparar su evolución.",
+        "Luna": "Permanece quieto en el fondo de las grutas sin probar bocado ni beber ningún líquido. Resulta sorprendente que pueda sobrevivir así.",
+        "Ultrasol": "Las células de su cuerpo se transforman a una velocidad vertiginosa. Su dura coraza está formada por una especie de tejido óseo.",
+        "Ultraluna": "Vive en el fondo de las grutas. Mientras se recluye en su dura concha, sueña con el día en el que pueda surcar el cielo volando.",
+        "Espada": "Lo recubre una dura coraza de tejido óseo. En el interior, acumula energía de cara a la evolución.",
+        "Escudo": "Aguanta el hambre sin comer nada. Al parecer, inicia el proceso evolutivo cuando se agota toda la energía que tenía acumulada.",
+        "Diamante Brillante": "Las células han empezado a cambiar dentro de su dura concha, que se desprende en cuanto evoluciona.",
+        "Perla Reluciente": "Las células han empezado a cambiar dentro de su dura concha, que se desprende en cuanto evoluciona.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Bagon",
+            "Nivel 30",
+            "Shelgon",
+            "Nivel 50",
+            "Salamence"
+        ]
+    ]
+}

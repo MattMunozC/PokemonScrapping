@@ -1,0 +1,163 @@
+{
+    "dex number": "362",
+    "pokemon name": "Glalie",
+    "types": [
+        "hielo"
+    ],
+    "abilities": [
+        "Foco interno",
+        "Gélido"
+    ],
+    "hidden abilities": [
+        "Veleta"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "80",
+        "def": "80",
+        "atk esp": "80",
+        "def esp": "80",
+        "speed": "80"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Perla": [
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Platino": [
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver.",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver.",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Negro 2": [
+            "Pokétransfer: de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver.",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver.",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Snorunt (nivel 42).",
+            "Especial: Transferir de la Demo especial (fuera de Japón). Viene equipado con una Glalita."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Snorunt (nivel 42).",
+            "Especial: Transferir de la Demo especial (fuera de Japón). Viene equipado con una Glalita."
+        ],
+        "Sol": [
+            " Salvaje: Monte Lanakila (como refuerzo de Snorunt).",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Luna": [
+            " Salvaje: Monte Lanakila (como refuerzo de Snorunt).",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Ultrasol": [
+            " Salvaje: Monte Lanakila.",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Ultraluna": [
+            " Salvaje: Monte Lanakila.",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Espada": [
+            " Salvaje: Ruta 10.",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro y Llanura Pétrea, nido al este 1.",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Escudo": [
+            " Salvaje: Ruta 10.",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro, Llanura Pétrea, nido al este 1 y Silla del Gigante, nido al sur junto al lago.",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar.",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar.",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Tundra Alba: Páramo Algente, Témpano Avalugg, Desfiladero Alud y Templo Puntaneva.",
+            "Evolucionar: de Snorunt (nivel 42)."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Glalie endurece el cuerpo rocoso que tiene con una coraza de hielo. Este Pokémon tiene la habilidad de congelar la humedad del ambiente y formar la figura que se le antoje.",
+        "Zafiro": "Glalie tiene la habilidad de controlar el hielo con total libertad. Por ejemplo, puede dejar a su rival totalmente congelado en un instante. Y, una vez helado, lo devora lentamente.",
+        "Esmeralda": "Un Glalie tiene el poder de congelar al instante la humedad de la atmósfera: así forma una nube de cristales de hielo con forma de diamantes a su alrededor.",
+        "Rojo Fuego": "Tiene un cuerpo de hielo imposible de derretir. Es capaz de congelar en un instante la humedad del ambiente.",
+        "Verde Hoja": "Tiene un cuerpo de hielo imposible de derretir. Es capaz de congelar en un instante la humedad del ambiente.",
+        "Diamante": "Se protege con una armadura de hielo creada por congelación de la humedad del aire.",
+        "Perla": "Se protege con una armadura de hielo creada por congelación de la humedad del aire.",
+        "Platino": "Impide que sus presas se escapen congelando la humedad del aire en un instante.",
+        "Oro HeartGold": "Congela a sus presas enfriando en un momento la humedad contenida en el aire que lo rodea.",
+        "Plata SoulSilver": "Congela a sus presas enfriando en un momento la humedad contenida en el aire que lo rodea.",
+        "Negro": "Impide que sus presas se escapen congelando la humedad del aire en un instante.",
+        "Blanco": "Impide que sus presas se escapen congelando la humedad del aire en un instante.",
+        "Negro 2": "Impide que sus presas se escapen congelando la humedad del aire en un instante.",
+        "Blanco 2": "Impide que sus presas se escapen congelando la humedad del aire en un instante.",
+        "Pokémon X": "Se protege con una armadura de hielo creada por congelación de la humedad del aire.",
+        "Pokémon Y": "Congela a sus presas enfriando en un momento la humedad contenida en el aire que lo rodea.",
+        "Rubí Omega": "Glalie endurece el cuerpo rocoso que tiene con una coraza de hielo. Este Pokémon tiene la habilidad de congelar la humedad del ambiente y formar la figura que se le antoje.",
+        "Zafiro Alfa": "Glalie tiene la habilidad de controlar el hielo con total libertad. Por ejemplo, puede dejar a su presa totalmente congelada en un instante. Y, una vez helada, la devora lentamente.",
+        "Sol": "\nGlalie: Se cree que estos Pokémon surgen de la desazón de los montañeros perdidos en las cumbres nevadas.\nMega-Glalie: La potente energía de la megaevolución quebró su coraza y le desencajó la mandíbula, de la que brota ahora una ventisca constante.",
+        "Luna": "\nGlalie: Congela a sus presas instantáneamente con el aire frío que expulsa por la boca y acto seguido las devora.\nMega-Glalie: Atrapa a sus presas con la boca y estas se congelan al instante. Sin embargo, su mandíbula está desencajada y no puede comérselas.",
+        "Ultrasol": "\nGlalie: Congela a sus presas antes de hincarles el diente, pero su presa favorita son los Pokémon que ya están congelados, como los Vanillite.\nMega-Glalie: Por su boca desencajada exhala una ventisca helada que cubre de blanco sus alrededores.",
+        "Ultraluna": "\nGlalie: Su cuerpo rocoso no es excesivamente duro. Congela la humedad del ambiente para cubrirse con una armadura de hielo protectora.\nMega-Glalie: La sobrecogedora energía de la megaevolución le ha desencajado la mandíbula. La furia lo invade al no poder comer con normalidad.",
+        "Espada": "Ni siquiera el fuego puede derretir su cuerpo de hielo. Es capaz de congelar en un instante la humedad del ambiente.",
+        "Escudo": "Congela a sus presas helando en un momento la humedad contenida en el aire que lo rodea.",
+        "Diamante Brillante": "Se protege rodeándose con una armadura de hielo que crea congelando la humedad del aire.",
+        "Perla Reluciente": "Se protege rodeándose con una armadura de hielo que crea congelando la humedad del aire.",
+        "Leyendas: Arceus": "Lo protege una armadura de hielo más dura que el acero. Congela a su presa con el aire que exhala y la devora, como si de un postre helado se tratara."
+    },
+    "evolution": [
+        [
+            "Snorunt",
+            "Nivel 42",
+            "Glalie"
+        ],
+        [
+            "",
+            "♀ + Piedra alba ",
+            "Froslass"
+        ]
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "dex number": "332",
+    "pokemon name": "Cacturne",
+    "types": [
+        "planta",
+        "siniestro"
+    ],
+    "abilities": [
+        "Velo arena"
+    ],
+    "hidden abilities": [
+        "Absorbe agua"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "115",
+        "def": "60",
+        "atk esp": "115",
+        "def esp": "60",
+        "speed": "55"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Cacnea (nivel 32)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Cacnea (nivel 32)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Cacnea (nivel 32)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: ruta 228.",
+            "Evolucionar: de Cacnea (nivel 32).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Salvaje: ruta 228.",
+            "Evolucionar: de Cacnea (nivel 32).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Salvaje: ruta 228.",
+            "Evolucionar: de Cacnea (nivel 32).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari.",
+            "Evolucionar: de Cacnea (nivel 32).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari.",
+            "Evolucionar: de Cacnea (nivel 32).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Evolucionar: de Cacnea (nivel 32)."
+        ],
+        "Blanco": [
+            "Evolucionar: de Cacnea (nivel 32)."
+        ],
+        "Negro 2": [
+            "Manada Pokémon: Montaña Reversia"
+        ],
+        "Blanco 2": [
+            "Manada Pokémon: Montaña Reversia"
+        ],
+        "Pokémon X": [
+            "Safari Amistad"
+        ],
+        "Pokémon Y": [
+            "Safari Amistad"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Cacnea (nivel 32)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Cacnea (nivel 32)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Cacturne no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Cacturne no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: ruta 228.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable.",
+            "Evolucionar: de Cacnea (nivel 32)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: ruta 228.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable.",
+            "Evolucionar: de Cacnea (nivel 32)."
+        ],
+        "Leyendas: Arceus": [
+            "Cacturne no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Durante el día, Cacturne permanece inmóvil para no perder nada de humedad bajo el sol de justicia del desierto. Este Pokémon entra en acción por la noche, cuando bajan las temperaturas.",
+        "Zafiro": "Si te adentras en un desierto por la noche, Cacturne te seguirá junto con varios de los suyos. Este Pokémon espera pacientemente a que el viajero se canse y no pueda continuar más, vencido por el cansancio.",
+        "Esmeralda": "Como ha pasado miles de años en áridos desiertos, la sangre se le ha transformado en una especie de arena. Es nocturno, así que caza de noche.",
+        "Rojo Fuego": "Su medio es el desierto. Por la noche, se vuelve activo y sale a buscar a presas agotadas por el calor.",
+        "Verde Hoja": "Su medio es el desierto. Por la noche, se vuelve activo y sale a buscar a presas agotadas por el calor.",
+        "Diamante": "Es un Pokémon nocturno. Busca presas agotadas por el calor diurno del desierto.",
+        "Perla": "Es un Pokémon nocturno. Busca presas agotadas por el calor diurno del desierto.",
+        "Platino": "Es un Pokémon nocturno. Busca presas agotadas por el calor diurno del desierto.",
+        "Oro HeartGold": "Persiguen en grupo a los viajeros del desierto y los acechan hasta que el cansancio los agote.",
+        "Plata SoulSilver": "Persiguen en grupo a los viajeros del desierto y los acechan hasta que el cansancio los agote.",
+        "Negro": "Es un Pokémon nocturno. Busca presas agotadas por el calor diurno del desierto.",
+        "Blanco": "Es un Pokémon nocturno. Busca presas agotadas por el calor diurno del desierto.",
+        "Negro 2": "Es un Pokémon nocturno. Busca presas agotadas por el calor diurno del desierto.",
+        "Blanco 2": "Es un Pokémon nocturno. Busca presas agotadas por el calor diurno del desierto.",
+        "Pokémon X": "Es un Pokémon nocturno. Busca presas agotadas por el calor diurno del desierto.",
+        "Pokémon Y": "Persiguen en grupo a los viajeros del desierto y los acechan hasta que el cansancio los agote.",
+        "Rubí Omega": "Durante el día, Cacturne permanece inmóvil para no perder nada de humedad bajo el sol de justicia del desierto. Este Pokémon entra en acción por la noche, cuando bajan las temperaturas.",
+        "Zafiro Alfa": "Si te adentras en un desierto por la noche, Cacturne te seguirá junto con varios de los suyos. Este Pokémon espera pacientemente a que el viajero se canse y no pueda continuar más, vencido por el cansancio.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Un Pokémon de hábitos nocturnos. Busca presas agotadas por el calor diurno del desierto.",
+        "Perla Reluciente": "Un Pokémon de hábitos nocturnos. Busca presas agotadas por el calor diurno del desierto.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Cacnea",
+            "Nivel 32",
+            "Cacturne"
+        ]
+    ]
+}

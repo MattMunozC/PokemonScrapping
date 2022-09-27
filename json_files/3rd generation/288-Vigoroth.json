@@ -1,0 +1,149 @@
+{
+    "dex number": "288",
+    "pokemon name": "Vigoroth",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Espíritu vital"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "80",
+        "atk": "80",
+        "def": "80",
+        "atk esp": "55",
+        "def esp": "55",
+        "speed": "90"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Slakoth (nivel 18)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Slakoth (nivel 18)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Slakoth (nivel 18)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Evolucionar: de Slakoth (nivel 18).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Evolucionar: de Slakoth (nivel 18).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Evolucionar: de Slakoth (nivel 18).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Zona Safari: En el bloque peña (tras obtener la Pokédex Nacional).",
+            "Evolucionar: de Slakoth (nivel 18).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Zona Safari: En el bloque peña (tras obtener la Pokédex Nacional).",
+            "Evolucionar: de Slakoth (nivel 18).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Evolucionar: de Slakoth (nivel 18)."
+        ],
+        "Blanco": [
+            "Evolucionar: de Slakoth (nivel 18)."
+        ],
+        "Negro 2": [
+            "Salvaje: Bosque Azulejo."
+        ],
+        "Blanco 2": [
+            "Salvaje: Bosque Azulejo."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar de Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar de Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Slakoth (nivel 18)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Slakoth (nivel 18)."
+        ],
+        "Sol": [
+            "Escáner insular: en la Ruta 11 (Solo los Viernes)."
+        ],
+        "Luna": [
+            "Escáner insular: en la Ruta 11 (Solo los Viernes)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Vigoroth no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Vigoroth no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Slakoth (nivel 18)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Slakoth (nivel 18)."
+        ],
+        "Leyendas: Arceus": [
+            "Vigoroth no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Vigoroth está continuamente inquieto, rabiando por salir corriendo sin control. Estar quieto un solo minuto es superior a sus fuerzas. Si no puede estar en continuo movimiento, el nivel de estrés de este Pokémon se dispara.",
+        "Zafiro": "A Vigoroth le resulta totalmente imposible estarse quieto. Cuando intenta dormir, la sangre le fluye a velocidad de vértigo y se pone a correr por el bosque de un lado a otro hasta que se calma.",
+        "Esmeralda": "No puede estarse quieto porque tiene la sangre en continua ebullición. Se pasa el día corriendo por campos y montañas para calmarse y poder dormir por la noche.",
+        "Rojo Fuego": "Siempre tiene hambre porque no para. No puede estarse quieto ni comiendo.",
+        "Verde Hoja": "Siempre tiene hambre porque no para. No puede estarse quieto ni comiendo.",
+        "Diamante": "Su corazón late a un ritmo diez veces más rápido de lo normal. No se está quieto ni un instante.",
+        "Perla": "Su corazón late a un ritmo diez veces más rápido de lo normal. No se está quieto ni un instante.",
+        "Platino": "Su corazón late a un ritmo diez veces más rápido de lo normal. No se está quieto ni un instante.",
+        "Oro HeartGold": "Si no puede estar en continuo movimiento, su nivel de estrés se dispara y puede llegar a enfermar.",
+        "Plata SoulSilver": "Si no puede estar en continuo movimiento, su nivel de estrés se dispara y puede llegar a enfermar.",
+        "Negro": "Su corazón late a un ritmo diez veces más rápido de lo normal. No se está quieto ni un instante.",
+        "Blanco": "Su corazón late a un ritmo diez veces más rápido de lo normal. No se está quieto ni un instante.",
+        "Negro 2": "Su corazón palpita a un ritmo frenético, haciendo que su sangre bulla, así que no puede estarse quieto ni un segundo.",
+        "Blanco 2": "Su corazón palpita a un ritmo frenético, haciendo que su sangre bulla, así que no puede estarse quieto ni un segundo.",
+        "Pokémon X": "Su corazón palpita a un ritmo frenético, haciendo que su sangre bulla, así que no puede estarse quieto ni un segundo.",
+        "Pokémon Y": "Si no puede estar en continuo movimiento, el nivel de estrés de este Pokémon se dispara.",
+        "Rubí Omega": "Vigoroth está continuamente inquieto, rabiando por salir corriendo sin control. Estar quieto un solo minuto es superior a sus fuerzas. Si no puede estar en continuo movimiento, el nivel de estrés de este Pokémon se dispara.",
+        "Zafiro Alfa": "A Vigoroth le resulta totalmente imposible estarse quieto. Cuando intenta dormir, la sangre le fluye a velocidad de vértigo y se pone a correr por el bosque de un lado a otro hasta que se calma.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Su corazón late a un ritmo diez veces más rápido de lo normal, por lo que no puede estarse quieto ni un instante.",
+        "Perla Reluciente": "Su corazón late a un ritmo diez veces más rápido de lo normal, por lo que no puede estarse quieto ni un instante.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Slakoth",
+            "Nivel 18",
+            "Vigoroth",
+            "Nivel 36",
+            "Slaking"
+        ]
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "dex number": "264",
+    "pokemon name": "Linoone",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Recogida",
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Pies rápidos"
+    ],
+    "stats": {
+        "hp": "78",
+        "atk": "70",
+        "def": "61",
+        "atk esp": "50",
+        "def esp": "61",
+        "speed": "100"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: rutas 118, 119, 120, 121 y 123",
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Zafiro": [
+            "Salvaje: rutas 118, 119, 120, 121 y 123",
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Esmeralda": [
+            "Salvaje: rutas 118, 119, 120, 121 y 123",
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Evolucionar: de Zigzagoon (nivel 20)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Evolucionar: de Zigzagoon (nivel 20)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Evolucionar: de Zigzagoon (nivel 20)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Hoenn: rutas 6, 9, 10, 13, 21, 24, 25, 26, 27, 28, 30, 31, 32, 35, 42, 43, 44, 45 y 47, Ruinas Alfa y Monte Plateado.",
+            "Salvaje: Zona Safari zona peña (tras Pokédex Nacional).",
+            "Evolucionar: de Zigzagoon (nivel 20)",
+            "Pokéwalker: Llano de Hoenn",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Hoenn: rutas 6, 9, 10, 13, 21, 24, 25, 26, 27, 28, 30, 31, 32, 35, 42, 43, 44, 45 y 47, Ruinas Alfa y Monte Plateado.",
+            "Salvaje: Zona Safari zona peña (tras Pokédex Nacional).",
+            "Evolucionar: de Zigzagoon (nivel 20)",
+            "Pokéwalker: Llano de Hoenn",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Blanco": [
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Negro 2": [
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Rubí Omega": [
+            "Salvaje: rutas 118, 119, 120, 121 y 123",
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: rutas 118, 119, 120, 121 y 123",
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: de Zigzagoon (nivel 20)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Zigzagoon (nivel 20)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Zigzagoon (nivel 20)."
+        ],
+        "Leyendas: Arceus": [
+            "Linoone no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Linoone siempre corre todo lo rápido que puede y solo en línea recta. Si encuentra un obstáculo en el camino, se moverá hacia la derecha para esquivarlo. Correr bien por caminos tortuosos es todo un reto para él.",
+        "Zafiro": "Cuando Linoone caza, va directo hacia su presa a toda velocidad. Si por un lado puede alcanzar 100 kilómetros por hora, por otro tiene que frenar en seco para poder cambiar de sentido.",
+        "Esmeralda": "Es tremendamente rápido si corre en línea recta. Cuando detecta a su presa bajo el agua de una charca, da un veloz salto y la atrapa con sus afiladas garras.",
+        "Rojo Fuego": "En línea recta puede alcanzar los 100 km por hora, pero tiene dificultades para ir rápido cuando hay curvas.",
+        "Verde Hoja": "En línea recta puede alcanzar los 100 km por hora, pero tiene dificultades para ir rápido cuando hay curvas.",
+        "Diamante": "Carga contra sus enemigos a más de 100 km por hora. Como solo va en línea recta, falla a menudo.",
+        "Perla": "Carga contra sus enemigos a más de 100 km por hora. Como solo va en línea recta, falla a menudo.",
+        "Platino": "Carga contra sus enemigos a más de 100 km por hora. Como solo va en línea recta, falla a menudo.",
+        "Oro HeartGold": "En línea recta corre a algo más de 100 km/h, pero no es tan hábil si hay curvas de por medio.",
+        "Plata SoulSilver": "En línea recta corre a algo más de 100 km/h, pero no es tan hábil si hay curvas de por medio.",
+        "Negro": "Carga contra sus enemigos a más de 100 km por hora. Como solo va en línea recta, falla a menudo.",
+        "Blanco": "Carga contra sus enemigos a más de 100 km por hora. Como solo va en línea recta, falla a menudo.",
+        "Negro 2": "Carga contra sus enemigos a más de 100 km por hora. Como solo va en línea recta, falla a menudo.",
+        "Blanco 2": "Carga contra sus enemigos a más de 100 km por hora. Como solo va en línea recta, falla a menudo.",
+        "Pokémon X": "En línea recta corre a algo más de 100 km/h, pero no es tan hábil si hay curvas de por medio.",
+        "Pokémon Y": "Carga contra sus enemigos a más de 100 km por hora. Como solo va en línea recta, falla a menudo.",
+        "Rubí Omega": "Linoone siempre corre todo lo rápido que puede y solo en línea recta. Si encuentra un obstáculo en el camino, se moverá hacia la derecha para esquivarlo. Correr bien por caminos tortuosos es todo un reto para él.",
+        "Zafiro Alfa": "Cuando Linoone caza, va directo hacia su presa a toda velocidad. Si por un lado puede alcanzar 100 km/h, por otro tiene que frenar en seco para poder cambiar de sentido.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Posee un pelaje fuerte y firme. Las brochas de afeitar cuyas cerdas están hechas con el pelo que se le desprende son un producto de lujo.",
+        "Escudo": "Abate a sus presas con su vertiginosa velocidad y sus afiladas garras. Los trayectos sinuosos merman notablemente su capacidad para correr.",
+        "Diamante Brillante": "Carga contra sus presas a más de 100 km/h, pero, como solo puede correr en línea recta, falla a menudo.",
+        "Perla Reluciente": "Carga contra sus presas a más de 100 km/h, pero, como solo puede correr en línea recta, falla a menudo.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Zigzagoon",
+            "Nivel 20",
+            "Linoone"
+        ]
+    ]
+}

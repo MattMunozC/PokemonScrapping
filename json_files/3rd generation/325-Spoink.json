@@ -1,0 +1,148 @@
+{
+    "dex number": "325",
+    "pokemon name": "Spoink",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Ritmo propio",
+        "Sebo"
+    ],
+    "hidden abilities": [
+        "Gula"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "25",
+        "def": "35",
+        "atk esp": "70",
+        "def esp": "80",
+        "speed": "60"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Desfiladero."
+        ],
+        "Zafiro": [
+            "Salvaje: Desfiladero."
+        ],
+        "Esmeralda": [
+            "Salvaje: Desfiladero."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Manada: ruta 214.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Manada: ruta 214.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Manada: ruta 214.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Hoenn: Encinar, Bosque Verde.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Hoenn: Encinar, Bosque Verde.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Dream World: Bosque Pequeño."
+        ],
+        "Blanco": [
+            "Dream World: Bosque Pequeño."
+        ],
+        "Negro 2": [
+            "Salvaje:  Montaña Reversia.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro 2.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 8."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 8."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Desfiladero."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Desfiladero."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Criando: de Grumpig"
+        ],
+        "Ultraluna": [
+            "Criando: de Grumpig"
+        ],
+        "Espada": [
+            "Spoink no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Spoink no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Manada: ruta 214."
+        ],
+        "Perla Reluciente": [
+            "Manada: ruta 214."
+        ],
+        "Leyendas: Arceus": [
+            "Spoink no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Spoink se pasa todo el día saltando sobre la cola. Con cada salto, hace latir el corazón. Por eso no puede permitirse dejar de saltar. Si lo hace, se le parará el corazón.",
+        "Zafiro": "Spoink lleva una perla en la cabeza, que sirve para amplificar los poderes psicoquinéticos que tiene. Por eso está continuamente buscando una perla mayor.",
+        "Esmeralda": "Manipula energía psicoquinética a su antojo. No deja de botar ni cuando está dormido. Le encanta comer setas que crecen bajo tierra.",
+        "Rojo Fuego": "Si dejara de saltar se debilitaría. Lleva una perla de Clamperl en la cabeza.",
+        "Verde Hoja": "Si dejara de saltar se debilitaría. Lleva una perla de Clamperl en la cabeza.",
+        "Diamante": "Bota continuamente usando su cola como muelle. Salta para mantener el latido de su corazón.",
+        "Perla": "Bota continuamente usando su cola como muelle. Salta para mantener el latido de su corazón.",
+        "Platino": "Bota continuamente usando su cola como muelle. Salta para mantener el latido de su corazón.",
+        "Oro HeartGold": "Bota usando su cola para mantener el latido de su corazón. Lleva una perla de Clamperl en la cabeza.",
+        "Plata SoulSilver": "Bota usando su cola para mantener el latido de su corazón. Lleva una perla de Clamperl en la cabeza.",
+        "Negro": "Bota continuamente usando su cola como muelle. Salta para mantener el latido de su corazón.",
+        "Blanco": "Bota continuamente usando su cola como muelle. Salta para mantener el latido de su corazón.",
+        "Negro 2": "Utiliza su cola a modo de muelle y bota sin cesar para hacer que su corazón lata. Si se detiene, su corazón, también.",
+        "Blanco 2": "Utiliza su cola a modo de muelle y bota sin cesar para hacer que su corazón lata. Si se detiene, su corazón, también.",
+        "Pokémon X": "Bota continuamente usando su cola como muelle. Salta para mantener el latido de su corazón.",
+        "Pokémon Y": "Bota usando su cola para mantener el latido de su corazón. Lleva una perla de Clamperl en la cabeza.",
+        "Rubí Omega": "Spoink se pasa todo el día saltando sobre la cola. Con cada salto, hace latir el corazón. Por eso no puede permitirse dejar de saltar. Si lo hace, se le parará el corazón.",
+        "Zafiro Alfa": "Spoink lleva una perla en la cabeza, que sirve para amplificar los poderes psicoquinéticos que tiene. Por eso está continuamente buscando una perla mayor.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Bota continuamente usando su cola como muelle. Las vibraciones de los saltos hacen que le lata el corazón.",
+        "Perla Reluciente": "Bota continuamente usando su cola como muelle. Las vibraciones de los saltos hacen que le lata el corazón.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Spoink",
+            "Nivel 32",
+            "Grumpig"
+        ]
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "dex number": "347",
+    "pokemon name": "Anorith",
+    "types": [
+        "roca",
+        "bicho"
+    ],
+    "abilities": [
+        "Armadura batalla"
+    ],
+    "hidden abilities": [
+        "Nado rápido"
+    ],
+    "stats": {
+        "hp": "45",
+        "atk": "95",
+        "def": "50",
+        "atk esp": "40",
+        "def esp": "50",
+        "speed": "75"
+    },
+    "location": {
+        "Rubí": [
+            "Especial: Revivir el fósil garra en Devon S. A."
+        ],
+        "Zafiro": [
+            "Especial: Revivir el fósil garra en Devon S. A."
+        ],
+        "Esmeralda": [
+            "Especial: Revivir el fósil garra en Devon S. A."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Especial: Revivir el fósil garra en el Museo Minero de Ciudad Pirita",
+            "Parque Compi: Zona marina"
+        ],
+        "Perla": [
+            "Especial: Revivir el fósil garra en el Museo Minero de Ciudad Pirita",
+            "Parque Compi: Zona marina"
+        ],
+        "Platino": [
+            "Especial: Revivir el fósil garra en el Museo Minero de Ciudad Pirita",
+            "Parque Compi: Zona marina"
+        ],
+        "Oro HeartGold": [
+            "Especial: Revivir el fósil garra en el Museo de la Ciencia de Ciudad Plateada"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla, Pokémon Platino o Pokémon Oro HeartGold",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Especial: Revivir el fósil garra en el Museo de Ciudad Esmalte",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco": [
+            "Especial: Revivir el fósil garra en el Museo de Ciudad Esmalte",
+            "Dream World: Mar Brillante"
+        ],
+        "Negro 2": [
+            "Especial: Revivir el fósil garra en el Museo de Ciudad Esmalte",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Especial: Revivir el fósil garra en el Museo de Ciudad Esmalte",
+            "Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Especial: Revivir el fósil garra en el Instituto Paleontológico"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon X, Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Especial: Revivir el fósil garra en Devon S. A."
+        ],
+        "Zafiro Alfa": [
+            "Especial: Revivir el fósil garra en Devon S. A."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Revivir: Fósil garra (se obtiene en la joyería de Mayla o el Cayo Aventura)."
+        ],
+        "Ultraluna": [
+            "Revivir: Fósil garra (se obtiene en el Cayo Aventura)."
+        ],
+        "Espada": [
+            "Salvaje: Lago Bolaguna ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado , Templo Corona , Suela del Gigante  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Lago Bolaguna ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Lecho del Gigante , Templo Corona , Suela del Gigante  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Revivir: Fósil garra en el Museo Minero de Ciudad Pirita. El fósil se obtiene en las Grutas del Subsuelo."
+        ],
+        "Perla Reluciente": [
+            "Revivir: Fósil garra en el Museo Minero de Ciudad Pirita. El fósil se obtiene en las Grutas del Subsuelo."
+        ],
+        "Leyendas: Arceus": [
+            "Anorith no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Anorith se regeneró a partir de un fósil prehistórico. Este Pokémon primitivo vivió en una ocasión en mares cálidos. Para cazar, utiliza las grandes pinzas que tiene y agarra con firmeza a su víctima con ellas.",
+        "Zafiro": "De Anorith dicen que es una especie de Pokémon predecesor. Tiene ocho alas a ambos lados del cuerpo. Gracias a ellas, pudo nadar por las primeras aguas que hubo.",
+        "Esmeralda": "La ciencia logró regenerarlo a partir de un fósil. Nada batiendo las ocho alas que tiene a los lados y que fueron patas que se adaptaron a su nueva vida en el mar.",
+        "Rojo Fuego": "Es una especie de Pokémon predecesor. Estira las pinzas para cazar a sus presas, que se esconden en las rocas del mar.",
+        "Verde Hoja": "Es una especie de Pokémon predecesor. Estira las pinzas para cazar a sus presas, que se esconden en las rocas del mar.",
+        "Diamante": "Este Pokémon fue recreado a partir de restos fósiles. Vivía en el mar y cazaba con sus pinzas.",
+        "Perla": "Este Pokémon fue recreado a partir de restos fósiles. Vivía en el mar y cazaba con sus pinzas.",
+        "Platino": "Este Pokémon fue recreado a partir de restos fósiles. Vivía en el mar y cazaba con sus pinzas.",
+        "Oro HeartGold": "Pokémon de origen prehistórico. Al pasar a vivir en el agua, sus ocho patas se convirtieron en alas.",
+        "Plata SoulSilver": "Pokémon de origen prehistórico. Al pasar a vivir en el agua, sus ocho patas se convirtieron en alas.",
+        "Negro": "Este Pokémon fue recreado a partir de restos fósiles. Vivía en el mar y cazaba con sus pinzas.",
+        "Blanco": "Este Pokémon fue recreado a partir de restos fósiles. Vivía en el mar y cazaba con sus pinzas.",
+        "Negro 2": "Este Pokémon fue recreado a partir de restos fósiles. Vivía en el mar y cazaba con sus pinzas.",
+        "Blanco 2": "Este Pokémon fue recreado a partir de restos fósiles. Vivía en el mar y cazaba con sus pinzas.",
+        "Pokémon X": "Es una especie de Pokémon predecesor. Estira las pinzas para cazar a sus presas, que se esconden en las rocas del mar.",
+        "Pokémon Y": "Este Pokémon fue recreado a partir de restos fósiles. Vivía en el mar y cazaba con sus pinzas.",
+        "Rubí Omega": "Anorith se regeneró a partir de un fósil prehistórico. Este Pokémon primitivo vivía en mares cálidos. Gracias a sus enormes pinzas puede agarrar a su presa con firmeza.",
+        "Zafiro Alfa": "De Anorith dicen que es una especie de Pokémon predecesor. Tiene ocho alas a ambos lados del cuerpo. Gracias a ellas, pudo nadar por las primeras aguas que hubo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Si este Pokémon, regenerado a partir de un fósil, se libera en el mar, no se aclimata bien debido a la notable diferencia en la calidad del agua.",
+        "Ultraluna": "Un Pokémon insecto ancestral. Según parece, era capaz de nadar sorprendentemente rápido gracias a sus ocho alas.",
+        "Espada": "Este Pokémon se regeneró a partir de un fósil. Habitaba en los mares de hace cien millones de años. Atrapaba a sus presas con sus dos pinzas.",
+        "Escudo": "Puede nadar rápidamente gracias a sus ocho alas que usa a modo de remo. Es uno de los antepasados de los Pokémon insecto.",
+        "Diamante Brillante": "Uno de los ancestros de los Pokémon actuales, regenerado a partir de un fósil. Vivía en el mar y cazaba con sus pinzas.",
+        "Perla Reluciente": "Uno de los ancestros de los Pokémon actuales, regenerado a partir de un fósil. Vivía en el mar y cazaba con sus pinzas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Anorith",
+            "Nivel 40",
+            "Armaldo"
+        ]
+    ]
+}

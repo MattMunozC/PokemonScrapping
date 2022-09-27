@@ -1,0 +1,147 @@
+{
+    "dex number": "351",
+    "pokemon name": "Castform",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Predicción"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "70",
+        "atk": "70",
+        "def": "70",
+        "atk esp": "70",
+        "def esp": "70",
+        "speed": "70"
+    },
+    "location": {
+        "Rubí": [
+            "Especial: regalo en el Instituto Meteorológico tras expulsar al Equipo Magma (solo uno)"
+        ],
+        "Zafiro": [
+            "Especial: regalo en el Instituto Meteorológico tras expulsar al Equipo Aqua (solo uno)"
+        ],
+        "Esmeralda": [
+            "Especial: regalo en el Instituto Meteorológico tras expulsar al Equipo Aqua (solo uno)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Salvaje: Jardín Trofeo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Salvaje: Jardín Trofeo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Salvaje: Jardín Trofeo",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Pokéwalker: Casa del Árbol",
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Pokéwalker: Casa del Árbol",
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 6 (cuando la hierba se mueve)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 6 (cuando la hierba se mueve)."
+        ],
+        "Pokémon X": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Especial: regalo en el Instituto Meteorológico tras expulsar al Equipo Magma (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Especial: regalo en el Instituto Meteorológico tras expulsar al Equipo Aqua (solo uno)"
+        ],
+        "Sol": [
+            "Salvaje: Isla Exeggutor, Desierto de Haina, Jungla Umbría, Parque de Malíe, Monte Lanakila, Aldea Tapu y ruta 17 (como refuerzo en clima lluvioso, granizo o tormenta de arena)"
+        ],
+        "Luna": [
+            "Salvaje: Isla Exeggutor, Desierto de Haina, Jungla Umbría, Parque de Malíe, Monte Lanakila, Aldea Tapu y ruta 17 (como refuerzo en clima lluvioso, granizo o tormenta de arena)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Isla Exeggutor, Desierto de Haina, Jungla Umbría, Parque de Malíe, Monte Lanakila, Aldea Tapu y ruta 17 (como refuerzo en clima lluvioso, granizo o tormenta de arena)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Isla Exeggutor, Desierto de Haina, Jungla Umbría, Parque de Malíe, Monte Lanakila, Aldea Tapu y ruta 17 (como refuerzo en clima lluvioso, granizo o tormenta de arena)"
+        ],
+        "Espada": [
+            "Castform no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Castform no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Jardín Trofeo."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Jardín Trofeo."
+        ],
+        "Leyendas: Arceus": [
+            "Castform no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "El tipo de Castform cambia con las variaciones del tiempo. Este Pokémon consiguió aprender a usar el gran poder de la naturaleza para proteger el pequeño cuerpo que tiene.",
+        "Zafiro": "Castform se vale del poder de la naturaleza para transformarse en el sol y en nubarrones cargados de lluvia o nieve. El tipo de este Pokémon varía según el clima.",
+        "Esmeralda": "Altera su forma según el tiempo que haga. Los cambios del clima, como la temperatura y la humedad, parecen afectar a su estructura celular.",
+        "Rojo Fuego": "Tiene la habilidad de cambiar y adaptarse al tiempo. Según el clima, se transformará en sol, nubarrones de lluvia o nieve.",
+        "Verde Hoja": "Tiene la habilidad de cambiar y adaptarse al tiempo. Según el clima, se transformará en sol, nubarrones de lluvia o nieve.",
+        "Diamante": "La meteorología determina su aspecto. Hace poco se ha sabido que sus células son como el agua.",
+        "Perla": "La meteorología determina su aspecto. Hace poco se ha sabido que sus células son como el agua.",
+        "Platino": "La meteorología determina su aspecto. Hace poco se ha sabido que sus células son como el agua.",
+        "Oro HeartGold": "Sus células son muy sensibles a los cambios de temperatura y humedad y se adapta sin problema.",
+        "Plata SoulSilver": "Sus células son muy sensibles a los cambios de temperatura y humedad y se adapta sin problema.",
+        "Negro": "La meteorología determina su aspecto. Hace poco se ha sabido que sus células son como el agua.",
+        "Blanco": "La meteorología determina su aspecto. Hace poco se ha sabido que sus células son como el agua.",
+        "Negro 2": "La temperatura y la humedad afectan su estructura celular, por lo que su aspecto cambia según la meteorología.",
+        "Blanco 2": "La temperatura y la humedad afectan su estructura celular, por lo que su aspecto cambia según la meteorología.",
+        "Pokémon X": "Sus células son muy sensibles a los cambios de temperatura y humedad y se adapta sin problema.",
+        "Pokémon Y": "Tiene la habilidad de cambiar y adaptarse al tiempo. Según el clima, se transformará en sol, nubarrones de lluvia o nieve.",
+        "Rubí Omega": "La forma de Castform cambia con las variaciones del tiempo. Este Pokémon consiguió aprender a usar el gran poder de la naturaleza para proteger el pequeño cuerpo que tiene.",
+        "Zafiro Alfa": "Castform se vale del poder de la naturaleza para tomar el aspecto del sol, la lluvia o nubarrones de nieve. El estado de ánimo de este Pokémon varía según el clima.",
+        "Sol": "\nCastform: Cambia de apariencia en función del tiempo atmosférico. Se cree que las variaciones en la temperatura y la humedad afectan a sus células.\nForma sol: Castform adopta esta forma cuando el sol brilla con fuerza. Conviene tener cuidado al tocarlo, ya que su piel alcanza altas temperaturas.\nForma lluvia: Castform adopta esta forma cuando llueve. Su cuerpo es como una esponja y suelta agua con solo presionarlo ligeramente.\nForma nieve: Castform adopta esta forma cuando nieva. Su cuerpo se vuelve frío como un témpano, con una temperatura que alcanza los -5 °C.",
+        "Luna": "\nCastform: Sus células captan la más mínima variación en la temperatura y la humedad, y cambian la forma de este Pokémon de manera espontánea.\nForma sol: Castform adopta esta forma cuando hace un tiempo espléndido. Su cuerpo comienza a irradiar calor.\nForma lluvia: Castform adopta esta forma cuando llueve a cántaros. Su cuerpo se empapa de humedad y se vuelve escurridizo.\nForma nieve: Castform adopta esta forma cuando graniza. Su piel se vuelve tan fría y resbaladiza como el hielo.",
+        "Ultrasol": "\nCastform: Cambia de apariencia en función del tiempo atmosférico, pero se trata más bien de una reacción química ajena a su voluntad.\nForma sol: Castform adopta esta forma cuando hace sol. Ponerlo delante de un radiador no basta para desencadenar esta transformación.\nForma lluvia: Castform adopta esta forma cuando llueve. Debido a la absorción de agua, su cuerpo resulta esponjoso al tacto.\nForma nieve: Castform adopta esta forma cuando graniza. Meterlo en un congelador no basta para desencadenar esta transformación.",
+        "Ultraluna": "\nCastform: El tiempo atmosférico cambia tanto su aspecto como su estado de ánimo. Cuanto más arrecia, más agresivo se vuelve.\nForma sol: Castform adopta esta forma cuando hace sol. Su cuerpo ardiente es muy reseco al tacto.\nForma lluvia: Castform adopta esta forma cuando llueve. Ponerlo bajo la ducha no basta para obtener esta transformación.\nForma nieve: Castform adopta esta forma cuando graniza. Su cuerpo se enfría y su piel se congela parcialmente.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "El tiempo atmosférico determina su aspecto. Recientemente se ha descubierto que sus moléculas son como las del agua.",
+        "Perla Reluciente": "El tiempo atmosférico determina su aspecto. Recientemente se ha descubierto que sus moléculas son como las del agua.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Castform"
+        ]
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "dex number": "275",
+    "pokemon name": "Shiftry",
+    "types": [
+        "planta",
+        "siniestro"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Madrugar"
+    ],
+    "hidden abilities": [
+        "Hurto"
+    ],
+    "stats": {
+        "hp": "90",
+        "atk": "100",
+        "def": "60",
+        "atk esp": "90",
+        "def esp": "60",
+        "speed": "80"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Nuzleaf (piedra hoja)"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Nuzleaf (piedra hoja)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Evolucionar: a Nuzleaf (usando piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Evolucionar: a Nuzleaf (usando piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Evolucionar: a Nuzleaf (usando piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Nuzleaf (usando piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Nuzleaf (usando piedra hoja)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Evolucionar: a Nuzleaf (piedra hoja)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Nuzleaf (piedra hoja)"
+        ],
+        "Negro 2": [
+            "Salvaje: Reserva Natural"
+        ],
+        "Blanco 2": [
+            "Salvaje: Reserva Natural"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Nuzleaf (piedra hoja)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Nuzleaf (piedra hoja)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Nuzleaf (piedra hoja)"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X, Pokémon Y o Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Nuzleaf (piedra hoja)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Nuzleaf (piedra hoja)"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2 y Arboleda Claroscuro, nido al sur. Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al sur, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 1, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido en el centro.",
+            "Evolucionar: a Nuzleaf (piedra hoja)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Nuzleaf (usando piedra hoja)."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Shiftry no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Shiftry es un enigmático Pokémon que vive, dicen, en las copas de los árboles milenarios. Este Pokémon genera fuertes corrientes de aire con los abanicos que lleva en las manos.",
+        "Zafiro": "Los grandes abanicos de Shiftry generan grandes corrientes de aire que pueden alcanzar 30 metros por segundo y barrer lo que sea. Este Pokémon opta por vivir en el bosque con tranquilidad.",
+        "Esmeralda": "Dicen que llega con los fríos vientos de invierno. Se le considera guardián de los bosques y se le teme; nadie se atreve a adentrarse en su morada.",
+        "Rojo Fuego": "Habita los bosques y se le tiene miedo. Es capaz de leer los pensamientos del rival y actuar en consecuencia.",
+        "Verde Hoja": "Habita los bosques y se le tiene miedo. Es capaz de leer los pensamientos del rival y actuar en consecuencia.",
+        "Diamante": "Con sus abanicos puede provocar vientos de 30 m por segundo capaces de levantar casas.",
+        "Perla": "Con sus abanicos puede provocar vientos de 30 m por segundo capaces de levantar casas.",
+        "Platino": "Con sus abanicos puede provocar vientos de 30 m por segundo capaces de levantar casas.",
+        "Oro HeartGold": "Vive sigiloso en lo más profundo del bosque. Dicen que con sus abanicos puede generar vientos gélidos.",
+        "Plata SoulSilver": "Vive sigiloso en lo más profundo del bosque. Dicen que con sus abanicos puede generar vientos gélidos.",
+        "Negro": "Con sus abanicos puede provocar vientos de 30 m por segundo capaces de levantar casas.",
+        "Blanco": "Con sus abanicos puede provocar vientos de 30 m por segundo capaces de levantar casas.",
+        "Negro 2": "Con sus abanicos puede provocar vientos de 30 m por segundo capaces de levantar casas.",
+        "Blanco 2": "Con sus abanicos puede provocar vientos de 30 m por segundo capaces de levantar casas.",
+        "Pokémon X": "Habita los bosques y se le tiene miedo. Es capaz de leer los pensamientos del rival y actuar en consecuencia.",
+        "Pokémon Y": "Con sus abanicos puede provocar vientos de 30 m/s capaces de levantar casas.",
+        "Rubí Omega": "Shiftry es un enigmático Pokémon que vive, dicen, en las copas de los árboles milenarios. Este Pokémon genera fuertes corrientes de aire con los abanicos que lleva en sus manos.",
+        "Zafiro Alfa": "Las grandes manos con forma de hoja que tiene Shiftry generan grandes corrientes de aire que pueden alcanzar 30 m/s y barrer lo que sea. Este Pokémon opta por vivir tranquilo en medio del bosque.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Infundía temor por su condición de guardián de los bosques. Es capaz de leer los pensamientos del rival y actuar en consecuencia.",
+        "Escudo": "Vive sigiloso en lo más profundo del bosque. Se dice que con sus abanicos puede generar vientos gélidos.",
+        "Diamante Brillante": "Cuando agita sus abanicos con forma de hoja, puede provocar vientos de 30 m/s capaces de levantar casas.",
+        "Perla Reluciente": "Cuando agita sus abanicos con forma de hoja, puede provocar vientos de 30 m/s capaces de levantar casas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Seedot",
+            "Nivel 14",
+            "Nuzleaf",
+            "Piedra hoja ",
+            "Shiftry"
+        ]
+    ]
+}

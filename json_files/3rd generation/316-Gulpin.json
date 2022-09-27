@@ -1,0 +1,150 @@
+{
+    "dex number": "316",
+    "pokemon name": "Gulpin",
+    "types": [
+        "veneno"
+    ],
+    "abilities": [
+        "Lodo líquido",
+        "Viscosidad"
+    ],
+    "hidden abilities": [
+        "Gula"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "43",
+        "def": "53",
+        "atk esp": "43",
+        "def esp": "53",
+        "speed": "40"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: ruta 110."
+        ],
+        "Zafiro": [
+            "Salvaje: ruta 110."
+        ],
+        "Esmeralda": [
+            "Salvaje: ruta 110."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: Gran Pantano, después de obtener la Pokédex Nacional.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Salvaje: Gran Pantano, después de obtener la Pokédex Nacional.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje: Gran Pantano, después de obtener la Pokédex Nacional.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Perla, Platino o Plata SoulSilver.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Manada: ruta 3.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino y Plata SoulSilver.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino y Plata SoulSilver.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Negro 2": [
+            "Criando: de Swalot.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            "Criando: de Swalot.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 5."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 5."
+        ],
+        "Rubí Omega": [
+            "Salvaje: ruta 110."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: ruta 110."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Gulpin no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Gulpin no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Gran Pantano, después de obtener la Pokédex Nacional."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Gran Pantano, después de obtener la Pokédex Nacional."
+        ],
+        "Leyendas: Arceus": [
+            "Gulpin no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Casi la totalidad del cuerpo de Gulpin está compuesto por el estómago. Por eso puede tragarse todo lo que tenga su tamaño. En el interior del estómago, tiene un fluido capaz de corroerlo todo.",
+        "Zafiro": "La mayor parte del cuerpo de Gulpin está ocupado por su estómago. En comparación, el corazón y el cerebro son muy pequeños. Este Pokémon tiene enzimas especiales en el estómago capaces de corroerlo todo.",
+        "Esmeralda": "Con el líquido que tiene en el estómago, puede digerir hasta hierro de desecho. Es capaz de tragarse de una sentada cualquier cosa que lo iguale en tamaño.",
+        "Rojo Fuego": "Es capaz de digerir cualquier cosa. Para hacer la digestión, se ayuda de un fluido y un gas capaces de corroerlo todo.",
+        "Verde Hoja": "Es capaz de digerir cualquier cosa. Para hacer la digestión, se ayuda de un fluido y un gas capaces de corroerlo todo.",
+        "Diamante": "Casi todo su cuerpo es estómago. Sus potentes jugos gástricos disuelven rápido cualquier cosa.",
+        "Perla": "Casi todo su cuerpo es estómago. Sus potentes jugos gástricos disuelven rápido cualquier cosa.",
+        "Platino": "Casi todo su cuerpo es estómago. Sus potentes jugos gástricos disuelven rápido cualquier cosa.",
+        "Oro HeartGold": "Sus sesos y su corazón son diminutos; es casi todo estómago. Sus jugos gástricos disuelven lo que sea.",
+        "Plata SoulSilver": "Sus sesos y su corazón son diminutos; es casi todo estómago. Sus jugos gástricos disuelven lo que sea.",
+        "Negro": "Casi todo su cuerpo es estómago. Sus potentes jugos gástricos disuelven rápido cualquier cosa.",
+        "Blanco": "Casi todo su cuerpo es estómago. Sus potentes jugos gástricos disuelven rápido cualquier cosa.",
+        "Negro 2": "Casi todo su cuerpo es estómago. Sus potentes jugos gástricos disuelven rápido cualquier cosa.",
+        "Blanco 2": "Casi todo su cuerpo es estómago. Sus potentes jugos gástricos disuelven rápido cualquier cosa.",
+        "Pokémon X": "Sus sesos y su corazón son diminutos; es casi todo estómago. Sus jugos gástricos disuelven lo que sea.",
+        "Pokémon Y": "Es capaz de digerir cualquier cosa. Para hacer la digestión, se ayuda de un fluido y un gas capaces de corroerlo todo.",
+        "Rubí Omega": "Casi la totalidad del cuerpo de Gulpin está compuesto por el estómago. Por eso puede tragarse todo lo que tenga su tamaño. En el interior del estómago, tiene un fluido capaz de corroerlo todo.",
+        "Zafiro Alfa": "La mayor parte del cuerpo de Gulpin está ocupado por su estómago. En comparación, el corazón y el cerebro son muy pequeños. Este Pokémon tiene enzimas especiales en el estómago capaces de corroerlo todo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Casi todo su cuerpo es estómago. Sus potentes jugos gástricos disuelven al instante cualquier cosa que ingiere.",
+        "Perla Reluciente": "Casi todo su cuerpo es estómago. Sus potentes jugos gástricos disuelven al instante cualquier cosa que ingiere.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Gulpin",
+            "Nivel 26",
+            "Swalot"
+        ]
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "dex number": "345",
+    "pokemon name": "Lileep",
+    "types": [
+        "roca",
+        "planta"
+    ],
+    "abilities": [
+        "Ventosas"
+    ],
+    "hidden abilities": [
+        "Colector"
+    ],
+    "stats": {
+        "hp": "66",
+        "atk": "41",
+        "def": "77",
+        "atk esp": "61",
+        "def esp": "87",
+        "speed": "23"
+    },
+    "location": {
+        "Rubí": [
+            "Especial: revivir el fósil raíz en Devon S. A."
+        ],
+        "Zafiro": [
+            "Especial: revivir el fósil raíz en Devon S. A."
+        ],
+        "Esmeralda": [
+            "Especial: revivir el fósil raíz en Devon S. A."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Especial: revivir el fósil raíz en el Museo Minero de Ciudad Pirita",
+            "Parque Compi: Zona marina"
+        ],
+        "Perla": [
+            "Especial: revivir el fósil raíz en el Museo Minero de Ciudad Pirita",
+            "Parque Compi: Zona marina"
+        ],
+        "Platino": [
+            "Especial: revivir el fósil raíz en el Museo Minero de Ciudad Pirita",
+            "Parque Compi: Zona marina"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla, Pokémon Platino o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona marina"
+        ],
+        "Plata SoulSilver": [
+            "Especial: revivir el fósil raíz en el Museo de la Ciencia de Ciudad Plateada",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Especial: revivir el fósil raíz en el Museo de Ciudad Esmalte"
+        ],
+        "Blanco": [
+            "Especial: revivir el fósil raíz en el Museo de Ciudad Esmalte"
+        ],
+        "Negro 2": [
+            "Especial: revivir el fósil raíz en el Museo de Ciudad Esmalte"
+        ],
+        "Blanco 2": [
+            "Especial: revivir el fósil raíz en el Museo de Ciudad Esmalte"
+        ],
+        "Pokémon X": [
+            "Especial: Revivir el fósil raíz en el Instituto Paleontológico"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon X, Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Especial: revivir el fósil raíz en Devon S. A."
+        ],
+        "Zafiro Alfa": [
+            "Especial: revivir el fósil raíz en Devon S. A."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Revivir: Fósil raíz (se obtiene en el Cayo Aventura)."
+        ],
+        "Ultraluna": [
+            "Revivir: Fósil raíz (se obtiene en la joyería de Mayla o el Cayo Aventura)."
+        ],
+        "Espada": [
+            "Salvaje: Lecho del Gigante  y Suela del Gigante ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Lecho del Gigante , Templo Corona , Suela del Gigante  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Lecho del Gigante  y Suela del Gigante ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado , Templo Corona , Suela del Gigante  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Revivir: Fósil raíz en el Museo Minero de Ciudad Pirita. El fósil se obtiene en las Grutas del Subsuelo."
+        ],
+        "Perla Reluciente": [
+            "Revivir: Fósil raíz en el Museo Minero de Ciudad Pirita. El fósil se obtiene en las Grutas del Subsuelo."
+        ],
+        "Leyendas: Arceus": [
+            "Lileep no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Los Lileep se extinguieron hace unos cien millones de años aproximadamente. Este Pokémon se ancla a una roca en el fondo del mar y atrapa a las presas que se le acercan con los tentáculos que tiene en forma de pétalos de flor.",
+        "Zafiro": "Lileep es un Pokémon antiguo que se regeneró a partir de un fósil. Siempre está anclado a una roca. Desde su percha inmóvil está al acecho y pendiente de que no se le escape su presa.",
+        "Esmeralda": "Se disfraza de alga marina moviendo los tentáculos. Si una presa se le acerca despistada, será engullida de golpe. Se extinguió hace 100 millones de años.",
+        "Rojo Fuego": "Se extinguió hace cien millones de años, y se regeneró a partir de un fósil gracias a los avances de la técnica.",
+        "Verde Hoja": "Se extinguió hace cien millones de años, y se regeneró a partir de un fósil gracias a los avances de la técnica.",
+        "Diamante": "Vivió en los fondos marinos hace unos 100 millones de años y fue recreado científicamente.",
+        "Perla": "Vivió en los fondos marinos hace unos 100 millones de años y fue recreado científicamente.",
+        "Platino": "Vivió en los fondos marinos hace unos 100 millones de años y fue recreado científicamente.",
+        "Oro HeartGold": "Se extinguió hace 100 millones de años. Sus tentáculos parecen pétalos para atraer a sus presas.",
+        "Plata SoulSilver": "Se extinguió hace 100 millones de años. Sus tentáculos parecen pétalos para atraer a sus presas.",
+        "Negro": "Vivió en los fondos marinos hace unos 100 millones de años y fue recreado científicamente.",
+        "Blanco": "Vivió en los fondos marinos hace unos 100 millones de años y fue recreado científicamente.",
+        "Negro 2": "Vivió en los fondos marinos hace unos 100 millones de años y fue recreado científicamente.",
+        "Blanco 2": "Vivió en los fondos marinos hace unos 100 millones de años y fue recreado científicamente.",
+        "Pokémon X": "Se extinguió hace 100 millones de años. Sus tentáculos parecen pétalos para atraer a sus presas.",
+        "Pokémon Y": "Vivió en los fondos marinos hace unos 100 millones de años y fue recreado científicamente.",
+        "Rubí Omega": "Los Lileep se extinguieron hace unos cien millones de años aproximadamente. Este Pokémon se ancla a una roca en el fondo del mar y atrapa a las presas que se le acercan con los tentáculos que tiene en forma de pétalos de flor.",
+        "Zafiro Alfa": "Lileep es un Pokémon antiguo que se regeneró a partir de un fósil. Siempre está anclado a una roca. Desde su percha inmóvil está al acecho y pendiente de que no se le escape su presa.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Habitaba en los cálidos mares de antaño. Se hace pasar por alga marina, espera al acecho de su presa y la engulle cuando esta se acerca.",
+        "Ultraluna": "Sus potentes ventosas le permiten aferrarse firmemente a las rocas, de tal manera que ni una violenta marejada consigue arrastrarlo.",
+        "Espada": "Este Pokémon se regeneró a partir de un fósil. Habitaba en los mares cálidos hace unos cien millones de años.",
+        "Escudo": "Se ancla a una roca en el lecho marino y atrapa a las presas que se le acercan con sus tentáculos en forma de pétalos.",
+        "Diamante Brillante": "Este Pokémon que habitaba los fondos marinos hace unos cien millones de años fue regenerado gracias al poder de la ciencia.",
+        "Perla Reluciente": "Este Pokémon que habitaba los fondos marinos hace unos cien millones de años fue regenerado gracias al poder de la ciencia.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Lileep",
+            "Nivel 40",
+            "Cradily"
+        ]
+    ]
+}

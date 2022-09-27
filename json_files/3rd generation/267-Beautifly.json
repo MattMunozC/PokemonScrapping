@@ -1,0 +1,165 @@
+{
+    "dex number": "267",
+    "pokemon name": "Beautifly",
+    "types": [
+        "bicho",
+        "volador"
+    ],
+    "abilities": [
+        "Enjambre"
+    ],
+    "hidden abilities": [
+        "Rivalidad"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "70",
+        "def": "50",
+        "atk esp": "90",
+        "def esp": "50",
+        "speed": "65"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Silcoon (nivel 10)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Silcoon (nivel 10)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Silcoon (nivel 10)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: rutas 224 y 230, Bosque Vetusto.",
+            "Evolucionar: de Silcoon (nivel 10).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Salvaje: Ruta 224 con Pokémon Rubí insertado y en la Ruta 223",
+            "Evolucionar: de Silcoon (nivel 10).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje: rutas 205 (zona norte), 224 y 229, Bosque Vetusto.",
+            "Evolucionar: de Silcoon (nivel 10).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "En el Parque Nacional (durante captura de bichos) y haber conseguido la Pokédex nacional.",
+            "Evolucionar: de Silcoon (nivel 10)."
+        ],
+        "Plata SoulSilver": [
+            "En el Parque Nacional (durante captura de bichos) y haber conseguido la Pokédex nacional.",
+            "Evolucionar: de Silcoon (nivel 10)."
+        ],
+        "Negro": [
+            "Intercambiar: De Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Evolucionar: de Silcoon (nivel 10)"
+        ],
+        "Negro 2": [
+            "Intercambiar: De Pokémon Blanco."
+        ],
+        "Blanco 2": [
+            "Intercambiar: De Pokémon Blanco."
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, salvaje en algunos safaris de tipo bicho.",
+            "Evolucionar: de Silcoon (nivel 10)."
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, salvaje en algunos safaris de tipo bicho.",
+            "Evolucionar: de Silcoon (nivel 10)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Silcoon (nivel 10)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Silcoon (nivel 10)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Beautifly no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Beautifly no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: rutas 224 y 230, Bosque Vetusto.",
+            "Evolucionar: de Silcoon (nivel 10)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Ruta 224.",
+            "Evolucionar: de Silcoon (nivel 10)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Campo Aromaflor, Bosque Recóndito y Foresta Funesta.",
+            "Evolucionar: de Silcoon (nivel 10)."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "La comida favorita de Beautifly es el dulce polen de las flores. Si quieres ver a este Pokémon deja una maceta con flores al lado de la ventana y verás cómo aparece un ejemplar de Beautifly en busca de polen.",
+        "Zafiro": "Beautifly tiene una boca enorme que parece una aguja y le resulta muy útil para recolectar polen. Este Pokémon va revoloteando de flor en flor para recogerlo.",
+        "Esmeralda": "Su principal característica son los dibujos y colores de sus alas. Vuela por campos cubiertos de flores para recoger el polen. Si le molestan, ataca sin dudar.",
+        "Rojo Fuego": "Aunque no lo parezca, es un Pokémon agresivo. Ataca clavando la boca que tiene en forma de espiral.",
+        "Verde Hoja": "Aunque no lo parezca, es un Pokémon agresivo. Ataca clavando la boca que tiene en forma de espiral.",
+        "Diamante": "Es un Pokémon agresivo. Con su boca larga y afilada ataca a sus rivales para drenar sus fluidos.",
+        "Perla": "Revolotea por los campos de flores y recoge polen. A pesar de su apariencia, es feroz.",
+        "Platino": "Aunque no lo parece, es un Pokémon agresivo. Si se le molesta cuando recoge polen, atacará.",
+        "Oro HeartGold": "Los dibujos de sus coloridas alas son muy peculiares. Liba el néctar de las flores con su fina trompa.",
+        "Plata SoulSilver": "Los dibujos de sus coloridas alas son muy peculiares. Liba el néctar de las flores con su fina trompa.",
+        "Negro": "Aunque no lo parece, es un Pokémon agresivo. Si se le molesta cuando recoge polen, atacará.",
+        "Blanco": "Aunque no lo parece, es un Pokémon agresivo. Si se le molesta cuando recoge polen, atacará.",
+        "Negro 2": "Aunque no lo parece, es un Pokémon agresivo. Si se le molesta cuando recoge polen, atacará.",
+        "Blanco 2": "Aunque no lo parece, es un Pokémon agresivo. Si se le molesta cuando recoge polen, atacará.",
+        "Pokémon X": "Los dibujos de sus coloridas alas son muy peculiares. Liba el néctar de las flores con su fina trompa.",
+        "Pokémon Y": "Es un Pokémon agresivo. Con su boca larga y afilada ataca a sus rivales para drenar sus fluidos.",
+        "Rubí Omega": "La comida favorita de Beautifly es el dulce polen de las flores. Si quieres ver a este Pokémon deja una maceta con flores al lado de la ventana y verás cómo aparece un ejemplar de Beautifly en busca de polen.",
+        "Zafiro Alfa": "Beautifly tiene una boca enorme en espiral que parece una aguja y le resulta muy útil para recolectar polen. Este Pokémon va revoloteando de flor en flor para recogerlo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Es un Pokémon agresivo. Con su espiritrompa larga y afilada ataca a sus rivales para drenar sus fluidos.",
+        "Perla Reluciente": "Revolotea por los campos de flores y recoge polen. A pesar de su apariencia, es muy feroz.",
+        "Leyendas: Arceus": "De colores vivos y gran belleza, este Pokémon es muy avaricioso y ahuyenta a los Combee para hacerse con el néctar que recolectan, pues no le gusta compartir su comida favorita."
+    },
+    "evolution": [
+        [
+            "Wurmple",
+            "Nivel 7",
+            "Silcoon",
+            "",
+            "Nivel 10",
+            "Beautifly"
+        ],
+        [
+            "",
+            "Nivel 7",
+            "Cascoon",
+            "",
+            "Nivel 10",
+            "Dustox"
+        ]
+    ]
+}

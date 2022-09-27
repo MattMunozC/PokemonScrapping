@@ -1,0 +1,152 @@
+{
+    "dex number": "343",
+    "pokemon name": "Baltoy",
+    "types": [
+        "tierra",
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "40",
+        "atk": "40",
+        "def": "55",
+        "atk esp": "40",
+        "def esp": "70",
+        "speed": "55"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: desierto de la ruta 111."
+        ],
+        "Zafiro": [
+            "Salvaje: desierto de la ruta 111."
+        ],
+        "Esmeralda": [
+            "Salvaje: desierto de la ruta 111."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Pokémon XD."
+        ],
+        "Diamante": [
+            "Pokéradar: Ruta 206.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Pokéradar: Ruta 206.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Pokéradar: Ruta 206.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Manada: Ruta 3.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Perla, Platino u Oro HeartGold.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Criando: de Claydol."
+        ],
+        "Blanco": [
+            "Criando: de Claydol."
+        ],
+        "Negro 2": [
+            "Salvaje: Castillo Ancestral"
+        ],
+        "Blanco 2": [
+            "Salvaje: Castillo Ancestral"
+        ],
+        "Pokémon X": [
+            "Poké trasladador: transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké trasladador: transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Salvaje: desierto de la ruta 111."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: desierto de la ruta 111."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Salvaje: Desierto de Haina (como refuerzo de Dugtrio de Alola, Trapinch o Krokorok)"
+        ],
+        "Espada": [
+            "Salvaje: Aparece en todas las zonas del Área Silvestre sur (al sur de ciudad Pistón) a excepción de Antigua Atalaya (recomendado clima soleado).",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3 y Ribera de Pistón, nido al este."
+        ],
+        "Escudo": [
+            "Salvaje: Aparece en todas las zonas del Área Silvestre sur (al sur de ciudad Pistón) a excepción de Antigua Atalaya (recomendado clima soleado).",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3 y Ribera de Pistón, nido al este."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Ruta 206.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Ruta 206.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Leyendas: Arceus": [
+            "Baltoy no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Baltoy se mueve girando alrededor de sí mismo sobre la extremidad inferior que tiene. En unas ruinas antiguas, descubrieron pinturas rupestres en las que aparecía este Pokémon conviviendo con personas.",
+        "Zafiro": "Al ver a más de los suyos, Baltoy se une al grupo y todos se ponen a chillar escandalosamente y al unísono. Este Pokémon duerme manteniendo hábilmente el equilibrio sobre la extremidad inferior que tiene.",
+        "Esmeralda": "Los Baltoy se mueven haciendo girar su única extremidad inferior. Aparecen representados en las pinturas murales de las ruinas de una antigua ciudad.",
+        "Rojo Fuego": "Fue descubierto en unas ruinas antiguas. Para moverse gira sin parar. Se mantiene sobre un pie hasta cuando duerme.",
+        "Verde Hoja": "Fue descubierto en unas ruinas antiguas. Para moverse gira sin parar. Se mantiene sobre un pie hasta cuando duerme.",
+        "Diamante": "Se mueve girando sobre su eje. Es un extraño Pokémon que fue encontrado en unas viejas ruinas.",
+        "Perla": "Se mueve girando sobre su eje. Es un extraño Pokémon que fue encontrado en unas viejas ruinas.",
+        "Platino": "Se mueve girando sobre su eje. Es un extraño Pokémon que fue encontrado en unas viejas ruinas.",
+        "Oro HeartGold": "Se mueve girando sobre su eje. También se le puede ver girando cabeza abajo.",
+        "Plata SoulSilver": "Se mueve girando sobre su eje. También se le puede ver girando cabeza abajo.",
+        "Negro": "Se mueve girando sobre su eje. Es un extraño Pokémon que fue encontrado en unas viejas ruinas.",
+        "Blanco": "Se mueve girando sobre su eje. Es un extraño Pokémon que fue encontrado en unas viejas ruinas.",
+        "Negro 2": "Fue descubierto en unas antiguas ruinas. Se mueve girando sobre su eje y forma un grupo si se encuentra con otros como él.",
+        "Blanco 2": "Fue descubierto en unas antiguas ruinas. Se mueve girando sobre su eje y forma un grupo si se encuentra con otros como él.",
+        "Pokémon X": "Se mueve girando sobre su eje. También se le puede ver girando cabeza abajo.",
+        "Pokémon Y": "Se mueve girando sobre su eje. Es un extraño Pokémon que fue encontrado en unas viejas ruinas.",
+        "Rubí Omega": "Baltoy se mueve girando alrededor de sí mismo sobre la extremidad inferior que tiene. En unas ruinas antiguas, descubrieron pinturas rupestres en las que aparecía este Pokémon conviviendo con personas.",
+        "Zafiro Alfa": "Al ver a más de los suyos, Baltoy se une al grupo y todos se ponen a chillar escandalosamente y al unísono. Este Pokémon duerme manteniendo hábilmente el equilibrio sobre la extremidad inferior que tiene.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Los humanos de tiempos primitivos solían pintar en las cuevas donde habitaban siluetas muy parecidas a las de Baltoy.",
+        "Ultraluna": "Al ver a más de los suyos, se juntan y emiten unos chillidos estridentes. Su presencia solía ser numerosa en cementerios de gran antigüedad.",
+        "Espada": "Se mueve girando una única extremidad. Se han avistado algunos ejemplares capaces de hacerlo cabeza abajo.",
+        "Escudo": "Fue hallado en unas ruinas antiguas. Se desplaza girando sobre sí mismo y se mantiene sobre una extremidad incluso cuando duerme.",
+        "Diamante Brillante": "Se mueve girando sobre su extremidad inferior. Es un Pokémon poco común que fue encontrado en unas ruinas antiguas.",
+        "Perla Reluciente": "Se mueve girando sobre su extremidad inferior. Es un Pokémon poco común que fue encontrado en unas ruinas antiguas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Baltoy",
+            "Nivel 36",
+            "Claydol"
+        ]
+    ]
+}

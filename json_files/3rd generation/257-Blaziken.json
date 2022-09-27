@@ -1,0 +1,152 @@
+{
+    "dex number": "257",
+    "pokemon name": "Blaziken",
+    "types": [
+        "fuego",
+        "lucha"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Impulso"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "120",
+        "def": "70",
+        "atk esp": "110",
+        "def esp": "70",
+        "speed": "80"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Combusken (nivel 36)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Combusken (nivel 36)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Combusken (nivel 36)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Combusken (nivel 36)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Combusken (nivel 36)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Combusken (nivel 36)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Combusken (nivel 36)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Combusken (nivel 36)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Combusken (nivel 36)"
+        ],
+        "Espada": [
+            "Aventura Dinamax ",
+            "Evolucionar: a Combusken (nivel 36)"
+        ],
+        "Escudo": [
+            "Aventura Dinamax ",
+            "Evolucionar: a Combusken (nivel 36)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Combusken (nivel 36)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Combusken (nivel 36)."
+        ],
+        "Leyendas: Arceus": [
+            "Blaziken no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "En combate, Blaziken expulsa vivas llamas por las muñecas y ataca al enemigo con fiereza. Cuanto más fuerte sea el enemigo, más intensas serán las llamas.",
+        "Zafiro": "Blaziken tiene unas piernas realmente fuertes. De una patada es capaz de derribar rascacielos. Además, da unos puñetazos fulminantes que dejan al oponente chamuscado y lleno de tizne.",
+        "Esmeralda": "Aprende artes marciales en las que se dan puñetazos y patadas. Al cabo de varios años, se le queman las plumas y le crecen otras nuevas, muy flexibles, en su lugar.",
+        "Rojo Fuego": "Ante un rival difícil, expulsa llamas por las muñecas. Tiene mucha fuerza en las patas; hasta puede saltar edificios.",
+        "Verde Hoja": "Ante un rival difícil, expulsa llamas por las muñecas. Tiene mucha fuerza en las patas; hasta puede saltar edificios.",
+        "Diamante": "Sus puños están envueltos en llamas. Con sus golpes puede quemar a sus rivales.",
+        "Perla": "Sus puños están envueltos en llamas. Con sus golpes puede quemar a sus rivales.",
+        "Platino": "Sus puños están envueltos en llamas. Con sus golpes puede quemar a sus rivales.",
+        "Oro HeartGold": "Puede saltar edificios de 30 plantas. Con sus golpes de fuego quema a sus rivales.",
+        "Plata SoulSilver": "Puede saltar edificios de 30 plantas. Con sus golpes de fuego quema a sus rivales.",
+        "Negro": "Sus puños están envueltos en llamas. Con sus golpes puede quemar a sus rivales.",
+        "Blanco": "Sus puños están envueltos en llamas. Con sus golpes puede quemar a sus rivales.",
+        "Negro 2": "Sus puños están envueltos en llamas. Con sus golpes puede quemar a sus rivales.",
+        "Blanco 2": "Sus puños están envueltos en llamas. Con sus golpes puede quemar a sus rivales.",
+        "Pokémon X": "Puede saltar edificios de 30 plantas. Con sus golpes de fuego quema a sus rivales.",
+        "Pokémon Y": "Ante un rival difícil, expulsa llamas por las muñecas. Tiene mucha fuerza en las patas; hasta puede saltar edificios.",
+        "Rubí Omega": "En combate, Blaziken expulsa vivas llamas por las muñecas y ataca al enemigo con fiereza. Cuanto más fuerte sea el enemigo, más intensas serán las llamas.",
+        "Zafiro Alfa": "Blaziken tiene unas piernas tan fuertes que puede saltar por encima de un edificio de 30 pisos con facilidad. Además, da unos puñetazos fulminantes que dejan al oponente chamuscado y lleno de tizne.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Envuelve sus puños con las llamas que expulsa por las muñecas, lo que le permite asestar puñetazos capaces de abrasar a sus rivales.",
+        "Perla Reluciente": "Envuelve sus puños con las llamas que expulsa por las muñecas, lo que le permite asestar puñetazos capaces de abrasar a sus rivales.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Torchic",
+            "Nivel 16",
+            "Combusken",
+            "Nivel 36",
+            "Blaziken"
+        ]
+    ]
+}

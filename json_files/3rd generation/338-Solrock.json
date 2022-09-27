@@ -1,0 +1,143 @@
+{
+    "dex number": "338",
+    "pokemon name": "Solrock",
+    "types": [
+        "roca",
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "90",
+        "atk": "95",
+        "def": "85",
+        "atk esp": "55",
+        "def esp": "65",
+        "speed": "70"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Cascada Meteoro"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda"
+        ],
+        "Esmeralda": [
+            "Salvaje: Cascada Meteoro"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Insertando Pokémon Rubí: Lago Veraz, Lago Agudeza, Lago Valor, Monte Corona, Fuente Despedida y Cueva Retorno",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Insertando Pokémon Rubí: Lago Veraz, Lago Agudeza, Lago Valor, Monte Corona, Fuente Despedida y Cueva Retorno",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Insertando Pokémon Rubí: Lago Veraz, Lago Agudeza, Lago Valor, Monte Corona, Fuente Despedida y Cueva Retorno",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari, después de haber obtenido la Pokédex Nacional",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari, después de haber obtenido la Pokédex Nacional",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Salvaje: Ruta 13 y Boquete Gigante"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 13 y Boquete Gigante"
+        ],
+        "Negro 2": [
+            "Salvaje: Rutas 13, 22 y Boquete Gigante"
+        ],
+        "Blanco 2": [
+            "Salvaje: Rutas 13, 22 y Boquete Gigante"
+        ],
+        "Pokémon X": [
+            "Salvaje: Cueva Brillante"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva Brillante"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cascada Meteoro"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar de Pokémon Rubí Omega, Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Transferir: de videojuegos anteriores mediante el Banco de Pokémon"
+        ],
+        "Luna": [
+            "Transferir: de videojuegos anteriores mediante el Banco de Pokémon"
+        ],
+        "Ultrasol": [
+            "Transferir: de videojuegos anteriores mediante el Banco de Pokémon"
+        ],
+        "Ultraluna": [
+            "Transferir: de videojuegos anteriores mediante el Banco de Pokémon"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 8, Gorro del Gigante.",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol."
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Solrock no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Solrock pertenece a una nueva especie de Pokémon a la que se le atribuye una procedencia extraterrestre. Este Pokémon permanece flotando en el aire y se mueve muy despacio. Al luchar, desprende una luz viva e intensa.",
+        "Zafiro": "La fuente de energía de Solrock es la luz del sol. Dicen que tiene la habilidad de leer la mente de los demás. Al rotar, libera mucho calor.",
+        "Esmeralda": "El origen de la fuerza de este Pokémon está en la energía solar. En días soleados, grupos de Solrock se alinean de cara al sol para absorber su luz.",
+        "Rojo Fuego": "De día, absorbe energía solar. No es nada expresivo, pero capta perfectamente lo que piensa su rival.",
+        "Verde Hoja": "De día, absorbe energía solar. No es nada expresivo, pero capta perfectamente lo que piensa su rival.",
+        "Diamante": "Una nueva especie de Pokémon que se rumorea procede del Sol. Emite luz al girar.",
+        "Perla": "Una nueva especie de Pokémon que se rumorea procede del Sol. Emite luz al girar.",
+        "Platino": "Una nueva especie de Pokémon que se rumorea procede del Sol. Emite luz al girar.",
+        "Oro HeartGold": "Al girar emite una luz como la del sol con la que consigue deslumbrar a sus presas.",
+        "Plata SoulSilver": "Al girar emite una luz como la del sol con la que consigue deslumbrar a sus presas.",
+        "Negro": "Una nueva especie de Pokémon que se rumorea procede del Sol. Emite luz al girar.",
+        "Blanco": "Una nueva especie de Pokémon que se rumorea procede del Sol. Emite luz al girar.",
+        "Negro 2": "Su fuente de energía es el sol, por lo que es más fuerte durante el día. Emite luz al girar.",
+        "Blanco 2": "Su fuente de energía es el sol, por lo que es más fuerte durante el día. Emite luz al girar.",
+        "Pokémon X": "Usa el sol como fuente de energía, por lo que es más poderoso de día. Brilla al rotar.",
+        "Pokémon Y": "De día, absorbe energía solar. No es nada expresivo, pero capta perfectamente lo que piensa su rival.",
+        "Rubí Omega": "Solrock pertenece a una nueva especie de Pokémon a la que se le atribuye una procedencia extraterrestre. Este Pokémon permanece flotando en el aire y se mueve muy despacio. Al luchar, desprende una luz viva e intensa.",
+        "Zafiro Alfa": "La fuente de energía de Solrock es la luz del sol. Dicen que tiene la habilidad de leer la mente de los demás. Al rotar, libera mucho calor.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Al girar emite una luz como la del sol, con la que consigue deslumbrar a sus enemigos.",
+        "Escudo": "Usa el sol como fuente de energía, por lo que es más poderoso de día. Brilla al rotar.",
+        "Diamante Brillante": "Una nueva especie de Pokémon que, según se rumorea, procede del sol. Emite luz al girar.",
+        "Perla Reluciente": "Una nueva especie de Pokémon que, según se rumorea, procede del sol. Emite luz al girar.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Solrock"
+        ]
+    ]
+}

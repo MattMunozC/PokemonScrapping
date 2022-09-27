@@ -1,0 +1,149 @@
+{
+    "dex number": "378",
+    "pokemon name": "Regice",
+    "types": [
+        "hielo"
+    ],
+    "abilities": [
+        "Cuerpo puro"
+    ],
+    "hidden abilities": [
+        "Gélido"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "50",
+        "def": "100",
+        "atk esp": "100",
+        "def esp": "200",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Especial: Cueva Insular (solo uno; ver sección captura)"
+        ],
+        "Zafiro": [
+            "Especial: Cueva Insular (solo uno; ver sección captura)"
+        ],
+        "Esmeralda": [
+            "Especial: Cueva Insular (solo uno; ver sección captura)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Parque Compi: Zona Rocosa",
+            "Intercambiar: de Pokémon Platino"
+        ],
+        "Perla": [
+            "Parque Compi: Zona Rocosa",
+            "Intercambiar: de Pokémon Platino"
+        ],
+        "Platino": [
+            "Parque Compi: Zona Rocosa",
+            "Especial: Ruinas Iceberg (solo uno). Se necesita llevar un Regigigas de evento en el equipo."
+        ],
+        "Oro HeartGold": [
+            "Parque Compi: Zona Rocosa",
+            "Intercambiar: de Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Parque Compi: Zona Rocosa",
+            "Intercambiar: de Pokémon Platino"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2 y Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2 y Pokémon Blanco 2"
+        ],
+        "Negro 2": [
+            "Especial: Ruinas Subterráneas (solo uno). Se necesita transferir la Clave Iceberg de Pokémon Blanco 2."
+        ],
+        "Blanco 2": [
+            "Especial: Ruinas Subterráneas (solo uno). Se necesita activar la Clave Iceberg."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Especial: Cueva Insular (solo uno; ver sección captura)"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Cueva Insular (solo uno; ver sección captura)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo (solo uno)"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo (solo uno)"
+        ],
+        "Espada": [
+            "Especial: Ruinas Iceberg (solo uno)"
+        ],
+        "Escudo": [
+            "Especial: Ruinas Iceberg (solo uno)"
+        ],
+        "Diamante Brillante": [
+            "Especial: Parque Hansa (Sala del Inicio)."
+        ],
+        "Perla Reluciente": [
+            "Especial: Parque Hansa (Sala del Inicio)."
+        ],
+        "Leyendas: Arceus": [
+            "Regice no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Regice surgió durante la edad de hielo. El cuerpo de este Pokémon está totalmente congelado, ni siquiera el fuego puede derretirlo. Regice libera y regula un aire gélido de -200 grados centígrados.",
+        "Zafiro": "Regice se rodea de un aire gélido que llega a -200 grados centígrados y deja congelado a todo lo que se le acerca. Es imposible derretir a ese Pokémon; tiene una temperatura demasiado baja.",
+        "Esmeralda": "Está formado en su totalidad por hielo de la Antártida. Todas las investigaciones parecen indicar que dicho hielo procede de alguna glaciación.",
+        "Rojo Fuego": "Estudios revelaron que el cuerpo de este Pokémon está formado por el mismo hielo que hay en el Polo Sur.",
+        "Verde Hoja": "Estudios revelaron que el cuerpo de este Pokémon está formado por el mismo hielo que hay en el Polo Sur.",
+        "Diamante": "Su cuerpo está hecho con hielo de la glaciación. Controla aire gélido a 200 grados bajo cero.",
+        "Perla": "Su cuerpo está hecho con hielo de la glaciación. Controla aire gélido a 200 grados bajo cero.",
+        "Platino": "Su cuerpo está hecho con hielo de la glaciación. Controla aire gélido a 200 grados bajo cero.",
+        "Oro HeartGold": "Dicen que ha yacido durmiendo en un glaciar durante milenios. Ni el magma puede derretir su cuerpo.",
+        "Plata SoulSilver": "Dicen que ha yacido durmiendo en un glaciar durante milenios. Ni el magma puede derretir su cuerpo.",
+        "Negro": "Su cuerpo está hecho con hielo de la glaciación. Controla aire gélido a 200 °C bajo cero.",
+        "Blanco": "Su cuerpo está hecho con hielo de la glaciación. Controla aire gélido a 200 °C bajo cero.",
+        "Negro 2": "Su cuerpo está hecho con hielo de la glaciación. Controla aire gélido a 200 grados bajo cero.",
+        "Blanco 2": "Su cuerpo está hecho con hielo de la glaciación. Controla aire gélido a 200 grados bajo cero.",
+        "Pokémon X": "Dicen que ha yacido durmiendo en un glaciar durante milenios. Ni el magma puede derretir su cuerpo.",
+        "Pokémon Y": "Su cuerpo está hecho con hielo de la glaciación. Controla aire gélido a 200 °C bajo cero.",
+        "Rubí Omega": "Regice surgió durante la edad de hielo. El cuerpo de este Pokémon está totalmente congelado, ni siquiera el fuego puede derretirlo. Regice libera y regula un aire gélido de -200 °C.",
+        "Zafiro Alfa": "Regice se rodea de un aire gélido que llega a -200 °C y deja congelado a todo lo que se le acerca. Es imposible derretir a este Pokémon; tiene una temperatura demasiado baja.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Usa corrientes de aire gélido de hasta -200 ºC para congelar en un instante a cualquiera que se le acerque.",
+        "Escudo": "Todo su cuerpo está compuesto de hielo. Se dice que surgió bajo una gruesa placa de hielo durante alguna glaciación.",
+        "Diamante Brillante": "Su cuerpo está compuesto de hielo formado en la glaciación. Controla aire gélido a -200 ºC.",
+        "Perla Reluciente": "Su cuerpo está compuesto de hielo formado en la glaciación. Controla aire gélido a -200 ºC.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Regice"
+        ]
+    ]
+}

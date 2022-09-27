@@ -1,0 +1,149 @@
+{
+    "dex number": "379",
+    "pokemon name": "Registeel",
+    "types": [
+        "acero"
+    ],
+    "abilities": [
+        "Cuerpo puro"
+    ],
+    "hidden abilities": [
+        "Metal liviano"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "75",
+        "def": "150",
+        "atk esp": "75",
+        "def esp": "150",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Especial: Tumba Antigua (solo uno; ver sección captura)"
+        ],
+        "Zafiro": [
+            "Especial: Tumba Antigua (solo uno; ver sección captura)"
+        ],
+        "Esmeralda": [
+            "Especial: Tumba Antigua (solo uno; ver sección captura)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Parque Compi: Zona Rocosa",
+            "Intercambiar: de Pokémon Platino"
+        ],
+        "Perla": [
+            "Parque Compi: Zona Rocosa",
+            "Intercambiar: de Pokémon Platino"
+        ],
+        "Platino": [
+            "Parque Compi: Zona Rocosa",
+            "Especial: Ruinas Hierro (solo uno). Se necesita llevar un Regigigas de evento en el equipo."
+        ],
+        "Oro HeartGold": [
+            "Parque Compi: Zona Rocosa",
+            "Intercambiar: de Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Parque Compi: Zona Rocosa",
+            "Intercambiar: de Pokémon Platino"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro Heartgold o Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2 y Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro Heartgold o Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2 y Pokémon Blanco 2"
+        ],
+        "Negro 2": [
+            "Especial: Ruinas Subterráneas (solo uno). Se necesita activar la Clave Hierro."
+        ],
+        "Blanco 2": [
+            "Especial: Ruinas Subterráneas (solo uno). Se necesita transferir la Clave Hierro de Pokémon Negro 2."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Especial: Tumba Antigua (solo uno; ver sección captura)"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Tumba Antigua (solo uno; ver sección captura)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo (solo uno)"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo (solo uno)"
+        ],
+        "Espada": [
+            "Especial: Ruinas Hierro (solo uno)"
+        ],
+        "Escudo": [
+            "Especial: Ruinas Hierro (solo uno)"
+        ],
+        "Diamante Brillante": [
+            "Especial: Parque Hansa (Sala del Inicio)."
+        ],
+        "Perla Reluciente": [
+            "Especial: Parque Hansa (Sala del Inicio)."
+        ],
+        "Leyendas: Arceus": [
+            "Registeel no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "No hay metal que supere en dureza el cuerpo de Registeel, que tiene aspecto de estar hueco. Nadie sabe de qué se alimenta este Pokémon.",
+        "Zafiro": "Hace mucho tiempo Registeel estuvo preso. La gente piensa que el metal del que está hecho es una curiosa sustancia extraterrestre.",
+        "Esmeralda": "Su cuerpo está compuesto del metal más duro que hay; una misteriosa sustancia que, además de ser muy sólida, se contrae y dilata con facilidad.",
+        "Rojo Fuego": "Es más fuerte que el metal más duro. Durante más de diez mil años se fue endureciendo bajo la corteza terrestre.",
+        "Verde Hoja": "Es más fuerte que el metal más duro. Durante más de diez mil años se fue endureciendo bajo la corteza terrestre.",
+        "Diamante": "Su cuerpo ha estado sometido a la presión subterránea durante miles de años y no puede arañarse.",
+        "Perla": "Su cuerpo ha estado sometido a la presión subterránea durante miles de años y no puede arañarse.",
+        "Platino": "Su cuerpo ha estado sometido a la presión subterránea durante miles de años y no puede arañarse.",
+        "Oro HeartGold": "Se dice que su cuerpo es más duro que cualquier metal. Su interior es hueco, según ciertos estudios.",
+        "Plata SoulSilver": "Se dice que su cuerpo es más duro que cualquier metal. Su interior es hueco, según ciertos estudios.",
+        "Negro": "Su cuerpo ha estado sometido a la presión subterránea durante miles de años y no puede arañarse.",
+        "Blanco": "Su cuerpo ha estado sometido a la presión subterránea durante miles de años y no puede arañarse.",
+        "Negro 2": "Su cuerpo ha estado sometido a la presión subterránea durante miles de años y no puede arañarse.",
+        "Blanco 2": "Su cuerpo ha estado sometido a la presión subterránea durante miles de años y no puede arañarse.",
+        "Pokémon X": "Su cuerpo ha estado sometido a la presión subterránea durante miles de años y no puede arañarse.",
+        "Pokémon Y": "Se dice que su cuerpo es más duro que cualquier metal. Su interior es hueco, según ciertos estudios.",
+        "Rubí Omega": "No hay metal que supere en dureza el cuerpo de Registeel, que tiene aspecto de estar hueco. Nadie sabe de qué se alimenta este Pokémon.",
+        "Zafiro Alfa": "Hace mucho tiempo Registeel estuvo preso. La gente piensa que el metal del que está hecho es una curiosa sustancia extraterrestre.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Está hecho de una misteriosa sustancia que, pese a ser más dura que cualquier metal, se contrae y dilata con facilidad.",
+        "Escudo": "Dicen que se formó en el manto terrestre y ascendió a la superficie hace aproximadamente diez mil años.",
+        "Diamante Brillante": "Su cuerpo metálico, fortalecido por la presión subterránea durante decenas de miles de años, es resistente a los arañazos.",
+        "Perla Reluciente": "Su cuerpo metálico, fortalecido por la presión subterránea durante decenas de miles de años, es resistente a los arañazos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Registeel"
+        ]
+    ]
+}

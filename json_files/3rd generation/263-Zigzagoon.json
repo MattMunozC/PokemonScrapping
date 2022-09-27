@@ -1,0 +1,161 @@
+{
+    "dex number": "263",
+    "pokemon name": "Zigzagoon",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Recogida",
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Pies rápidos"
+    ],
+    "stats": {
+        "hp": "38",
+        "atk": "30",
+        "def": "41",
+        "atk esp": "30",
+        "def esp": "41",
+        "speed": "60"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Rutas 101, 102, 103, 104, 110, 116, 117, 118, 119, 120, 121 y 123, Bosque Petalia.",
+            "Especial: Te entregan un Zigzagoon variocolor enviando el cartucho al servicio de atención al consumidor para realizar la actualización del programa de bayas, dejando un espacio libre en el equipo.",
+            "Especial: Nace del huevo que te da Nereida al almacenar 100 Pokémon en las cajas de Pokémon Box."
+        ],
+        "Zafiro": [
+            "Salvaje: Rutas 101, 102, 103, 104, 110, 116, 117, 118, 119, 120, 121 y 123, Bosque Petalia.",
+            "Especial: Te entregan un Zigzagoon variocolor enviando el cartucho al servicio de atención al consumidor para realizar la actualización del programa de bayas, dejando un espacio libre en el equipo.",
+            "Especial: Nace del huevo que te da Nereida al almacenar 100 Pokémon en las cajas de Pokémon Box."
+        ],
+        "Esmeralda": [
+            "Salvaje: Rutas 101, 102, 103, 118 y 119.",
+            "Especial: Nace del huevo que te da Nereida al almacenar 100 Pokémon en las cajas de Pokémon Box."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Manada: Ruta 202.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Manada: Ruta 202.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Manada: Ruta 202.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Hoenn: Torre Bellsprout, Torre Campana y Torre Quemada.",
+            "Pokéwalker: Llano de Hoenn.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Hoenn: Torre Bellsprout, Torre Campana y Torre Quemada.",
+            "Pokéwalker: Llano de Hoenn.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla y Platino o Pokémon Oro HeartGold y Plata SoulSilver.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla y Platino o Pokémon Oro HeartGold y Plata SoulSilver.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla y Platino o Pokémon Oro HeartGold y Plata SoulSilver.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla y Platino o Pokémon Oro HeartGold y Plata SoulSilver.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 2."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 2."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Rutas 101, 102, 103, 104, 110, 116, 117, 118, 119, 120, 121, 123 y Bosque Petalia."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Rutas 101, 102, 103, 104, 110, 116, 117, 118, 119, 120, 121, 123 y Bosque Petalia."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Especial: Transferir desde Pokémon HOME.",
+            "Intercambiar: Mar Gimnástico (por un Zigzagoon de Galar)."
+        ],
+        "Escudo": [
+            "Especial: Transferir desde Pokémon HOME.",
+            "Intercambiar: Mar Gimnástico (por un Zigzagoon de Galar)."
+        ],
+        "Diamante Brillante": [
+            "Manada: Ruta 202.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arenosa, Cueva Rocosa y Caverna Peñasco."
+        ],
+        "Perla Reluciente": [
+            "Manada: Ruta 202.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arenosa, Cueva Rocosa y Caverna Peñasco."
+        ],
+        "Leyendas: Arceus": [
+            "Zigzagoon no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Zigzagoon está todo el día dando vueltas de aquí para allá. Es un Pokémon muy inquieto. Se interesa por todo lo que se encuentra a su camino.",
+        "Zafiro": "Zigzagoon tiene erizado el pelo del lomo, y suele frotárselo contra los árboles para marcar su territorio. Este Pokémon hace como si estuviera debilitado para engañar a sus enemigos en combate.",
+        "Esmeralda": "Siempre se mueve hacia adelante y hacia atrás frotando la nariz contra el suelo en busca de algo. Es fácil identificarlo por las huellas en zigzag que deja.",
+        "Rojo Fuego": "Es un Pokémon muy inquieto, se interesa por todo. Siempre está de aquí para allá.",
+        "Verde Hoja": "Es un Pokémon muy inquieto, se interesa por todo. Siempre está de aquí para allá.",
+        "Diamante": "Se mueve en zigzag. Se le da bien encontrar objetos ocultos en la hierba e incluso enterrados.",
+        "Perla": "Se mueve en zigzag. Se le da bien encontrar objetos ocultos en la hierba e incluso enterrados.",
+        "Platino": "Se mueve en zigzag. Se le da bien encontrar objetos ocultos en la hierba e incluso enterrados.",
+        "Oro HeartGold": "Le llaman la atención muchas cosas, por lo que se mueve en zigzag. Se le da bien encontrar cosas.",
+        "Plata SoulSilver": "Le llaman la atención muchas cosas, por lo que se mueve en zigzag. Se le da bien encontrar cosas.",
+        "Negro": "Se mueve en zigzag. Se le da bien encontrar objetos ocultos en la hierba e incluso enterrados.",
+        "Blanco": "Se mueve en zigzag. Se le da bien encontrar objetos ocultos en la hierba e incluso enterrados.",
+        "Negro 2": "Se mueve en zigzag. Se le da bien encontrar objetos ocultos en la hierba e incluso enterrados.",
+        "Blanco 2": "Se mueve en zigzag. Se le da bien encontrar objetos ocultos en la hierba e incluso enterrados.",
+        "Pokémon X": "Se mueve en zigzag. Se le da bien encontrar objetos ocultos en la hierba e incluso enterrados.",
+        "Pokémon Y": "Es un Pokémon muy inquieto, se interesa por todo. Siempre está de aquí para allá.",
+        "Rubí Omega": "Zigzagoon está todo el día dando vueltas de aquí para allá. Es un Pokémon muy inquieto. Se interesa por todo lo que se encuentra a su camino.",
+        "Zafiro Alfa": "Zigzagoon tiene erizado el pelo del lomo, y suele frotárselo contra los árboles para marcar su territorio. Este Pokémon hace como si estuviera debilitado para engañar a sus enemigos en combate.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Frota su pelo hirsuto contra los árboles con el fin de marcar su territorio. Tiene un carácter más afable que el Zigzagoon de Galar.",
+        "Escudo": "El Zigzagoon de Galar desarrolló este aspecto tras adaptarse a otras regiones. Muestra una gran habilidad a la hora de encontrar cosas.",
+        "Diamante Brillante": "Se mueve en zigzag. Se le da bien encontrar objetos ocultos en la hierba e incluso enterrados.",
+        "Perla Reluciente": "Se mueve en zigzag. Se le da bien encontrar objetos ocultos en la hierba e incluso enterrados.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Zigzagoon",
+            "Nivel 20",
+            "Linoone"
+        ]
+    ]
+}

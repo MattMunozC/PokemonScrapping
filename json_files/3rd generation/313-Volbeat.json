@@ -1,0 +1,148 @@
+{
+    "dex number": "313",
+    "pokemon name": "Volbeat",
+    "types": [
+        "bicho"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Iluminación"
+    ],
+    "hidden abilities": [
+        "Bromista"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "73",
+        "def": "75",
+        "atk esp": "47",
+        "def esp": "85",
+        "speed": "85"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: ruta 117."
+        ],
+        "Zafiro": [
+            "Salvaje: ruta 117."
+        ],
+        "Esmeralda": [
+            "Salvaje: ruta 117."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: ruta 229.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Salvaje: ruta 229.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Salvaje: ruta 229.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Concurso de captura de bichos, Zona Safari.",
+            "Parque Compi: Zona rocosa.",
+            "Pokéwalker: Llano de Hoenn."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Concurso de captura de bichos, Zona Safari.",
+            "Parque Compi: Zona rocosa.",
+            "Pokéwalker: Llano de Hoenn."
+        ],
+        "Negro": [
+            "Manada Pokémon: Ruta 3"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro"
+        ],
+        "Negro 2": [
+            "Manada: Ruta 3 (Teselia)"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 7."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 7."
+        ],
+        "Rubí Omega": [
+            "Salvaje: ruta 117."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: ruta 117."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Volbeat no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Volbeat no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: ruta 229.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: ruta 229.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Leyendas: Arceus": [
+            "Volbeat no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Cuando llega la noche, Volbeat emite luz por la cola y regula la intensidad y el destello para comunicarse con el resto. A este Pokémon le atrae el dulce aroma de Illumise.",
+        "Zafiro": "La cola de Volbeat brilla como una bombilla. Ante otro de su grupo, la usa para dibujar formas geométricas en la oscuridad del cielo por la noche. Este Pokémon adora el dulce aroma que desprende Illumise.",
+        "Esmeralda": "Los Volbeat vuelan en enjambres dibujando con la luz de la cola formas geométricas en el cielo nocturno. Si la charca en la que viven se ensucia, se mudan a otro sitio.",
+        "Rojo Fuego": "Vive cerca de estanques de agua clara. De noche, enciende la luz de la cola para comunicarse con otros de su especie.",
+        "Verde Hoja": "Vive cerca de estanques de agua clara. De noche, enciende la luz de la cola para comunicarse con otros de su especie.",
+        "Diamante": "Se comunica con otros iluminando su cola por la noche. Le encanta el suave aroma de Illumise.",
+        "Perla": "Se comunica con otros iluminando su cola por la noche. Le encanta el suave aroma de Illumise.",
+        "Platino": "Se comunica con otros iluminando su cola por la noche. Le encanta el suave aroma de Illumise.",
+        "Oro HeartGold": "Se comunica con otros con el parpadeo de su cola. Le encanta el dulce aroma de Illumise.",
+        "Plata SoulSilver": "Se comunica con otros con el parpadeo de su cola. Le encanta el dulce aroma de Illumise.",
+        "Negro": "Se comunica con otros iluminando su cola por la noche. Le encanta el suave aroma de Illumise.",
+        "Blanco": "Se comunica con otros iluminando su cola por la noche. Le encanta el suave aroma de Illumise.",
+        "Negro 2": "Se comunica con otros iluminando su cola por la noche. Le encanta el suave aroma de Illumise.",
+        "Blanco 2": "Se comunica con otros iluminando su cola por la noche. Le encanta el suave aroma de Illumise.",
+        "Pokémon X": "Se comunica con otros iluminando su cola por la noche. Le encanta el suave aroma de Illumise.",
+        "Pokémon Y": "Vive cerca de estanques de agua clara. De noche, enciende la luz de la cola para comunicarse con otros de su especie.",
+        "Rubí Omega": "Cuando llega la noche, Volbeat emite luz por la cola y regula la intensidad y el destello para comunicarse con el resto. A este Pokémon le atrae el dulce aroma de Illumise.",
+        "Zafiro Alfa": "La cola de Volbeat brilla como una bombilla. Ante otro de su grupo, la usa para dibujar formas geométricas en la oscuridad del cielo por la noche. Este Pokémon adora el dulce aroma que desprende Illumise.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Se comunica con otros Volbeat iluminando la cola por la noche. Le encanta el aroma dulzón de Illumise.",
+        "Perla Reluciente": "Se comunica con otros Volbeat iluminando la cola por la noche. Le encanta el aroma dulzón de Illumise.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Volbeat"
+        ]
+    ]
+}

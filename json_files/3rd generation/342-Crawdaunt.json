@@ -1,0 +1,167 @@
+{
+    "dex number": "342",
+    "pokemon name": "Crawdaunt",
+    "types": [
+        "agua",
+        "siniestro"
+    ],
+    "abilities": [
+        "Caparazón",
+        "Corte fuerte"
+    ],
+    "hidden abilities": [
+        "Adaptable"
+    ],
+    "stats": {
+        "hp": "63",
+        "atk": "120",
+        "def": "85",
+        "atk esp": "90",
+        "def esp": "55",
+        "speed": "55"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Corphish (nivel 30)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Corphish (nivel 30)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Corphish (nivel 30)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Pescando (Supercaña): Pueblo Caelestis",
+            "Evolucionar: a Corphish (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Perla": [
+            "Pescando (Supercaña): Pueblo Caelestis",
+            "Evolucionar: a Corphish (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Platino": [
+            "Pescando (Supercaña): Pueblo Caelestis",
+            "Evolucionar: a Corphish (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Corphish (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Corphish (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro 2 y Pokémon Blanco 2.",
+            "Evolucionar: a Corphish (nivel 30)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Corphish (nivel 30)"
+        ],
+        "Negro 2": [
+            "Surf: Ruta 3, Ciudad Gres",
+            "Evolucionar: a Corphish (nivel 30)"
+        ],
+        "Blanco 2": [
+            "Surf: Ruta 3, Ciudad Gres",
+            "Evolucionar: a Corphish (nivel 30)"
+        ],
+        "Pokémon X": [
+            "Pescando (Supercaña): Ruta 3, Palacio Cénit",
+            "Especial: Safari Amistad en algunos safaris de tipo siniestro",
+            "Evolucionar: a Corphish (nivel 30)"
+        ],
+        "Pokémon Y": [
+            "Pescando (Supercaña): Ruta 3, Palacio Cénit",
+            "Especial: Safari Amistad en algunos safaris de tipo siniestro",
+            "Evolucionar: a Corphish (nivel 30)"
+        ],
+        "Rubí Omega": [
+            "Pescando (Supercaña): Ruta 123"
+        ],
+        "Zafiro Alfa": [
+            "Pescando (Supercaña): Ruta 123"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Pescando: Cañón de Poni (como refuerzo de Corphish)",
+            "Evolucionar: a Corphish (nivel 30)"
+        ],
+        "Ultraluna": [
+            "Pescando: Cañón de Poni (como refuerzo de Corphish)",
+            "Evolucionar: a Corphish (nivel 30)"
+        ],
+        "Espada": [
+            "Salvaje: Ojo de Axew (con lluvia o tormenta), Pueblo Hoyuelo (surfeando, solo uno).",
+            "Incursiones Dinamax: Espejo del Gigante, nido en la laguna, Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al puente (norte) y Lago Milotic (sur), nido en el centro. Con posible habilidad oculta: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto a Ciudad Pistón, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur) y Llanura Pétrea, nido al norte 2."
+        ],
+        "Escudo": [
+            "Salvaje: Ojo de Axew (con lluvia o tormenta), Pueblo Hoyuelo (surfeando, solo uno).",
+            "Incursiones Dinamax: Espejo del Gigante, nido en la laguna, Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al puente (norte) y Lago Milotic (sur), nido en el centro. Con posible habilidad oculta: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto a Ciudad Pistón, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur) y Llanura Pétrea, nido al norte 2."
+        ],
+        "Diamante Brillante": [
+            "Pescando con supercaña: Pueblo Caelestis.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Corphish (nivel 30)."
+        ],
+        "Perla Reluciente": [
+            "Pescando con supercaña: Pueblo Caelestis.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Corphish (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Crawdaunt no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Crawdaunt es de una naturaleza extremadamente violenta que le lleva a desafiar a otros seres vivos. Hay formas de vida que se niegan a vivir en los estanques donde habitan estos Pokémon, y los dejan medio vacíos.",
+        "Zafiro": "Crawdaunt muda el caparazón regularmente y, en cuanto lo hace, se le queda la piel tersa y suave. Mientras el nuevo caparazón se endurece, permanece escondido en su madriguera para que no le ataquen.",
+        "Esmeralda": "Es un Pokémon brutal que disfruta luchando. Un Crawdaunt veterano que ha salido airoso de miles de combates tiene enormes pinzas llenas de cicatrices.",
+        "Rojo Fuego": "Esta violenta criatura agita de forma salvaje las gigantes pinzas que tiene. Dicen que es muy difícil criarlo.",
+        "Verde Hoja": "Esta violenta criatura agita de forma salvaje las gigantes pinzas que tiene. Dicen que es muy difícil criarlo.",
+        "Diamante": "Este malandrín usa sus pinzas para atosigar y expulsar a los otros Pokémon que viven en su estanque.",
+        "Perla": "Este malandrín usa sus pinzas para atosigar y expulsar a los otros Pokémon que viven en su estanque.",
+        "Platino": "Este malandrín usa sus pinzas para atosigar y expulsar a los otros Pokémon que viven en su estanque.",
+        "Oro HeartGold": "De naturaleza violenta. Si alguien se acerca a su madriguera, usará sus pinzas implacablemente.",
+        "Plata SoulSilver": "De naturaleza violenta. Si alguien se acerca a su madriguera, usará sus pinzas implacablemente.",
+        "Negro": "Este malandrín usa sus pinzas para atosigar y expulsar a los otros Pokémon que viven en su estanque.",
+        "Blanco": "Este malandrín usa sus pinzas para atosigar y expulsar a los otros Pokémon que viven en su estanque.",
+        "Negro 2": "De naturaleza violenta. Si un Pokémon se aventura en su territorio, lo agarra con sus tenazas y lo arroja por los aires.",
+        "Blanco 2": "De naturaleza violenta. Si un Pokémon se aventura en su territorio, lo agarra con sus tenazas y lo arroja por los aires.",
+        "Pokémon X": "Este malandrín usa sus pinzas para atosigar y expulsar a los otros Pokémon que viven en su estanque.",
+        "Pokémon Y": "De naturaleza violenta. Si un Pokémon se aventura en su territorio, lo agarra con sus tenazas y lo arroja por los aires.",
+        "Rubí Omega": "Crawdaunt es de una naturaleza extremadamente violenta que le lleva a desafiar a otros seres vivos. Hay formas de vida que se niegan a vivir en los estanques donde habitan estos Pokémon, y los dejan medio vacíos.",
+        "Zafiro Alfa": "Crawdaunt muda el caparazón regularmente y, en cuanto lo hace, se le queda la piel tersa y suave. Mientras el nuevo caparazón se endurece, permanece escondido en su madriguera para que no le ataquen.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Su carácter agresivo le incita a pelear siempre que puede, pero si se le rompe una pinza se amedrenta y acobarda hasta que se le regenera.",
+        "Ultraluna": "Pierde las pinzas fácilmente. Al contrario que las de Crabrawler o Clauncher, su carne apesta a lodo y tiene un sabor desagradable.",
+        "Espada": "Esta violenta criatura agita de forma salvaje las gigantes pinzas que tiene. Dicen que es muy difícil criarlo.",
+        "Escudo": "Le encanta pelear, debido a su naturaleza. Si alguien se acerca a su madriguera, le propinará una paliza sin ningún tipo de miramiento.",
+        "Diamante Brillante": "Esta violenta criatura usa sus pinzas para atosigar y expulsar a los otros Pokémon que viven en su estanque.",
+        "Perla Reluciente": "Esta violenta criatura usa sus pinzas para atosigar y expulsar a los otros Pokémon que viven en su estanque.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Corphish",
+            "Nivel 30",
+            "Crawdaunt"
+        ]
+    ]
+}

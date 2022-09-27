@@ -1,0 +1,159 @@
+{
+    "dex number": "356",
+    "pokemon name": "Dusclops",
+    "types": [
+        "fantasma"
+    ],
+    "abilities": [
+        "Presión"
+    ],
+    "hidden abilities": [
+        "Cacheo"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "70",
+        "def": "130",
+        "atk esp": "60",
+        "def esp": "130",
+        "speed": "25"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Pilar Celeste",
+            "Evolucionar: de Duskull (nivel 37)"
+        ],
+        "Zafiro": [
+            "Evolucionar: de Duskull (nivel 37)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Duskull (nivel 37)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Diamante": [
+            "Pokéradar: Ruta 224",
+            "Evolucionar: de Duskull (nivel 37)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Pokéradar: Ruta 224",
+            "Evolucionar: de Duskull (nivel 37)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Salvaje: Fuente Despedida y Cueva Retorno",
+            "Evolucionar: de Duskull (nivel 37)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari.",
+            "Evolucionar: de Duskull (nivel 37)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari.",
+            "Evolucionar: de Duskull (nivel 37)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Blanco": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Negro 2": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Duskull (nivel 37)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Duskull (nivel 37)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte y Llanura Pétrea, nido al noreste junto a una pared 2."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte y Llanura Pétrea, nido al noreste junto a una pared 2."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Ruta 224.",
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo y Caverna Claroestela.",
+            "Evolucionar: de Duskull (nivel 37)."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Ruta 224.",
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo y Caverna Claroestela.",
+            "Evolucionar: de Duskull (nivel 37)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje solo de noche: Costa Cobalto: Arboleda Tétrica. Tundra Alba: Desfiladero Alud y Senda de la Arena.",
+            "Evolucionar: a Duskull (nivel 37).",
+            "Distorsión espaciotemporal: Ladera Corona"
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Dusclops está completamente hueco por dentro. Dicen que su cuerpo es como un agujero negro. Este Pokémon es capaz de absorber cualquier cosa, pero cosa que absorba, cosa que no dejará salir nunca más.",
+        "Zafiro": "Dusclops absorbe todo lo que pilla, al margen del tamaño que tenga. Este Pokémon hipnotiza a su rival moviendo las manos de forma macabra y usando el ojo de manera implacable. Una vez hipnotizado, el enemigo obedecerá.",
+        "Esmeralda": "Se piensa que su cuerpo es hueco y que solo contiene una fantasmagórica bola de fuego. Con todo, nadie ha podido confirmar esta teoría.",
+        "Rojo Fuego": "Está completamente hueco. Cuando abre la boca, es capaz de absorber cualquier cosa, como si fuera un agujero negro.",
+        "Verde Hoja": "Está completamente hueco. Cuando abre la boca, es capaz de absorber cualquier cosa, como si fuera un agujero negro.",
+        "Diamante": "Su cuerpo está hueco. Se dice que quien mire dentro, será tragado por un agujero negro.",
+        "Perla": "Su cuerpo está hueco. Se dice que quien mire dentro, será tragado por un agujero negro.",
+        "Platino": "Busca fuegos fatuos y los absorbe con su cuerpo hueco. Lo que pasa dentro luego es un misterio.",
+        "Oro HeartGold": "Si alguien mira los fuegos fatuos del interior de Dusclops, perderá su alma irremediablemente.",
+        "Plata SoulSilver": "Si alguien mira los fuegos fatuos del interior de Dusclops, perderá su alma irremediablemente.",
+        "Negro": "Busca fuegos fatuos y los absorbe con su cuerpo hueco. Lo que pasa dentro luego es un misterio.",
+        "Blanco": "Busca fuegos fatuos y los absorbe con su cuerpo hueco. Lo que pasa dentro luego es un misterio.",
+        "Negro 2": "Busca fuegos fatuos y los absorbe con su cuerpo hueco. Lo que pasa dentro luego es un misterio.",
+        "Blanco 2": "Busca fuegos fatuos y los absorbe con su cuerpo hueco. Lo que pasa dentro luego es un misterio.",
+        "Pokémon X": "Si alguien mira los fuegos fatuos del interior de Dusclops, perderá su alma irremediablemente.",
+        "Pokémon Y": "Su cuerpo está hueco. Se dice que quien mire dentro, será tragado por un agujero negro.",
+        "Rubí Omega": "Dusclops está completamente hueco por dentro. Dicen que su cuerpo es como un agujero negro. Este Pokémon es capaz de absorber cualquier cosa, pero cosa que absorba, cosa que no dejará salir nunca más.",
+        "Zafiro Alfa": "Dusclops absorbe todo lo que pilla, al margen del tamaño que tenga. Este Pokémon hipnotiza a su rival moviendo las manos de forma macabra y usando el ojo de manera implacable. Una vez hipnotizado, el enemigo obedecerá.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Está completamente hueco. Cuando abre la boca, es capaz de absorber cualquier cosa, como si fuera un agujero negro.",
+        "Escudo": "Busca fuegos fatuos y los absorbe en su cuerpo hueco. Lo que pasa dentro luego es un misterio.",
+        "Diamante Brillante": "Su cuerpo está hueco. Se dice que quien mire el vacío que hay en su interior será tragado por él.",
+        "Perla Reluciente": "Su cuerpo está hueco. Se dice que quien mire el vacío que hay en su interior será tragado por él.",
+        "Leyendas: Arceus": "Se rumorea que quien mire dentro de su cuerpo cubierto de vendas será absorbido entre ellas para no regresar jamás. Solo pensarlo me infunde tal pavor que no he podido indagar más."
+    },
+    "evolution": [
+        [
+            "Duskull",
+            "Nivel 37",
+            "Dusclops",
+            "Intercambio equipadocon tela terrible ",
+            "Dusknoir"
+        ]
+    ]
+}

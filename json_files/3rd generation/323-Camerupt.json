@@ -1,0 +1,163 @@
+{
+    "dex number": "323",
+    "pokemon name": "Camerupt",
+    "types": [
+        "fuego",
+        "tierra"
+    ],
+    "abilities": [
+        "Escudo magma",
+        "Roca sólida"
+    ],
+    "hidden abilities": [
+        "Irascible"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "100",
+        "def": "70",
+        "atk esp": "105",
+        "def esp": "75",
+        "speed": "40"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Numel (nivel 33)."
+        ],
+        "Zafiro": [
+            "Evolucionar: a Numel (nivel 33)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Numel (nivel 33)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 227, Montaña Dura.",
+            "Evolucionar: a Numel (nivel 33).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Salvaje: Ruta 227, Montaña Dura.",
+            "Evolucionar: a Numel (nivel 33).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Salvaje: Ruta 227, Montaña Dura.",
+            "Evolucionar: a Numel (nivel 33).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Numel (nivel 33).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Numel (nivel 33).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver.",
+            "Intercambiar: de Pokémon Blanco 2.",
+            "Evolucionar: a Numel (nivel 33)."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver.",
+            "Intercambiar: de Pokémon Blanco 2.",
+            "Evolucionar: a Numel (nivel 33)."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco 2."
+        ],
+        "Blanco 2": [
+            "Salvaje: Montaña Reversia.",
+            "Evolucionar: a Numel (nivel 33)."
+        ],
+        "Pokémon X": [
+            "Safari Amistad: Algunos safaris de tipo tierra.",
+            "Evolucionar: a Numel (nivel 33)."
+        ],
+        "Pokémon Y": [
+            "Safari Amistad: Algunos safaris de tipo tierra.",
+            "Evolucionar: a Numel (nivel 33)."
+        ],
+        "Rubí Omega": [
+            "Especial: Te lo entrega un recluta del Equipo Magma en la segunda casa del camino derecho al subir las escaleras de la derecha del Centro Pokémon del Resort Batalla. Sólo uno al nivel 40.",
+            "Evolucionar: a Numel (nivel 33)."
+        ],
+        "Zafiro Alfa": [
+            "Especial: Te lo entrega un recluta del Equipo Magma en la segunda casa del camino derecho al subir las escaleras de la derecha del Centro Pokémon del Resort Batalla. Sólo uno al nivel 40.",
+            "Evolucionar: a Numel (nivel 33)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Camerupt no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Camerupt no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Ruta 227 y Montaña Dura.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena.",
+            "Evolucionar: a Numel (nivel 33)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Ruta 227 y Montaña Dura.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena.",
+            "Evolucionar: a Numel (nivel 33)."
+        ],
+        "Leyendas: Arceus": [
+            "Camerupt no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Camerupt encierra un volcán en su interior y un magma de 10.000 grados centígrados que le recorre el cuerpo. A veces, las jorobas de la espalda entran en erupción y escupen el abrasivo magma.",
+        "Zafiro": "Las jorobas de Camerupt se originaron por una deformación de los huesos. A veces escupen magma líquido, sobre todo cuando el Pokémon se enfada.",
+        "Esmeralda": "Vive en el cráter de un volcán. Cada 10 años, los volcanes que tiene en el lomo entran en erupción de forma violenta. Se están investigando las posibles causas.",
+        "Rojo Fuego": "Cuando se enfada, las jorobas del lomo entran en erupción y expulsan lava. Habita los cráteres de los volcanes.",
+        "Verde Hoja": "Cuando se enfada, las jorobas del lomo entran en erupción y expulsan lava. Habita los cráteres de los volcanes.",
+        "Diamante": "Tiene volcanes en el lomo. Si el magma se acumula en su cuerpo, se sacude y estalla con violencia.",
+        "Perla": "Tiene volcanes en el lomo. Si el magma se acumula en su cuerpo, se sacude y estalla con violencia.",
+        "Platino": "Tiene volcanes en el lomo. Si el magma se acumula en su cuerpo, se sacude y estalla con violencia.",
+        "Oro HeartGold": "Vive en cráteres de volcanes. Es famoso por las jorobas de su lomo, que entran en erupción cada diez años.",
+        "Plata SoulSilver": "Vive en cráteres de volcanes. Es famoso por las jorobas de su lomo, que entran en erupción cada diez años.",
+        "Negro": "Tiene volcanes en el lomo. Si el magma se acumula en su cuerpo, se sacude y estalla con violencia.",
+        "Blanco": "Tiene volcanes en el lomo. Si el magma se acumula en su cuerpo, se sacude y estalla con violencia.",
+        "Negro 2": "Los volcanes de su joroba entran en erupción cada 10 años o cuando Camerupt se enfada mucho.",
+        "Blanco 2": "Los volcanes de su joroba entran en erupción cada 10 años o cuando Camerupt se enfada mucho.",
+        "Pokémon X": "Los volcanes de su joroba entran en erupción cada 10 años o cuando Camerupt se enfada mucho.",
+        "Pokémon Y": "Cuando se enfada, las jorobas del lomo entran en erupción y expulsa lava. Habita en los cráteres de los volcanes.",
+        "Rubí Omega": "Camerupt encierra un volcán en su interior y un magma de 10.000 grados centígrados que le recorre el cuerpo. A veces, las jorobas de la espalda entran en erupción y escupen el abrasivo magma.",
+        "Zafiro Alfa": "Las jorobas de Camerupt se originaron por una deformación de los huesos. A veces escupen magma líquido, sobre todo cuando el Pokémon se enfada.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Tiene volcanes en el lomo. Si el magma se acumula en su cuerpo, se sacude y estalla con violencia.",
+        "Perla Reluciente": "Tiene volcanes en el lomo. Si el magma se acumula en su cuerpo, se sacude y estalla con violencia.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Numel",
+            "Nivel 33",
+            "Camerupt"
+        ]
+    ]
+}

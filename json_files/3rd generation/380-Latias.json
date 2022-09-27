@@ -1,0 +1,157 @@
+{
+    "dex number": "380",
+    "pokemon name": "Latias",
+    "types": [
+        "dragón",
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "80",
+        "atk": "80",
+        "def": "90",
+        "atk esp": "110",
+        "def esp": "130",
+        "speed": "110"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Isla del Sur (solo uno). Se necesita el Ticket Eón para viajar a Isla del Sur. ver imagen",
+            "Evento: es uno de los 10 Pokémon que se repartió en Moviplaya 2006.",
+            "Intercambiar: de Pokémon Zafiro o Esmeralda."
+        ],
+        "Zafiro": [
+            "Salvaje, Pokémon errante: Por las rutas de Hoenn tras derrotar al Alto Mando por la hierba y haciendo surf (solo uno). Solo aparece en una ruta a la vez, pero cada vez que cambiamos de ruta o entramos y salimos de edificios Latias también cambia su localización a una ruta contigua a la que se encontraba por última vez. Al usar vuelo, se moverá a una ruta aleatoria.",
+            "Evento: es uno de los 10 Pokémon que se repartió en Moviplaya 2006."
+        ],
+        "Esmeralda": [
+            "Salvaje, Pokémon errante: Tras derrotar al Alto Mando, en tu casa (en Villa Raíz) mamá estará viendo un programa en la televisión y te preguntará de qué color era el Pokémon que ha salido en televisión. Si respondes rojo aparecerá Latias al nivel 40 por la hierba y haciendo Surf por las rutas de Hoenn; si respondes azul Latias estará en la Isla del Sur, al nivel 50 (se necesita el Ticket Eón para viajar a Isla del Sur), y llevará equipado el objeto Rocío bondad ver imagen. Para ayudar en su captura, si ya lo tienes registrado al Pokémon errante en la Pokédex, podrás ver su localización en cada momento consultando la sección \"Área\" de su ficha ver imagen.",
+            "Evento: es uno de los 10 Pokémon que se repartió en Moviplaya 2006."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda.",
+            "Evento: es uno de los 10 Pokémon que se repartió en Moviplaya 2006."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda.",
+            "Evento: es uno de los 10 Pokémon que se repartió en Moviplaya 2006."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Salvaje, Pokémon errante: Por las rutas de Kanto tras haber conseguido la Pokédex Nacional y haber hablado con Máximo Peñas al salir del Club de Fans de Pokémon de Ciudad Carmín (solo uno).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            " Evento: Se reparte el Misticristal mediante Regalo Misterioso desde el 31 de julio del 2010 al 27 de agosto del 2010, en España y América. Este cristal se activará en el Museo de la Ciencia de Ciudad Plateada ver imagen lo que permitirá la captura de este Pokémon en cada versión (solo uno).",
+            "Intercambiar: de Pokémon Oro HeartGold.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold.",
+            "Intercambiar: de Pokémon Blanco 2."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold.",
+            "Intercambiar: de Pokémon Blanco 2."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Oro HeartGold.",
+            "Intercambiar: de Pokémon Blanco 2."
+        ],
+        "Blanco 2": [
+            "Salvaje: En el Solar de los Sueños (solo uno)."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Salvaje: En la Isla del Sur (se necesita el Ticket Eón y hablar con Norman para acceder) (solo uno).",
+            "Intercambiar: de Pokémon Zafiro Alfa."
+        ],
+        "Zafiro Alfa": [
+            "Especial: En un punto de la historia, Latios aparecerá para pedirte ayuda y te llevara a la Isla del Sur donde te encontraras al Equipo Aqua. Tras derrotarlo, Latias pedirá unirse a tu equipo (solo uno)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultraluna."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultraluna."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul (solo uno)."
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo."
+        ],
+        "Escudo": [
+            "Especial: Aleatoriamente en una Aventura Dinamax."
+        ],
+        "Diamante Brillante": [
+            "Especial: Parque Hansa (Sala de la Empatía)."
+        ],
+        "Perla Reluciente": [
+            "Especial: Parque Hansa (Sala de la Empatía)."
+        ],
+        "Leyendas: Arceus": [
+            "Latias no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Latias es muy sensible a los sentimientos de la gente. Si detecta algún ápice de hostilidad, desplegará las plumas que tiene por todo el cuerpo y se pondrá a chillar para intimidar al enemigo.",
+        "Zafiro": "Latias tiene un nivel de inteligencia tan alto que es capaz de entender el lenguaje humano. Este Pokémon usa el plumón cristalizado del que está cubierto como peto para desprender luz y cambiar de aspecto.",
+        "Esmeralda": "Es parte de una manada de pequeño tamaño. Rara vez entra en contacto con la gente o con otros Pokémon. Si siente la presencia del enemigo, desaparece.",
+        "Rojo Fuego": "Se comunica por telepatía con la gente. Cambia de aspecto refractando luz con el plumaje.",
+        "Verde Hoja": "Se comunica por telepatía con la gente. Cambia de aspecto refractando luz con el plumaje.",
+        "Diamante": "Su cuerpo está cubierto de un plumón que refleja la luz de forma que se vuelve invisible.",
+        "Perla": "Su cuerpo está cubierto de un plumón que refleja la luz de forma que se vuelve invisible.",
+        "Platino": "Su cuerpo está cubierto de un plumón que refleja la luz de forma que se vuelve invisible.",
+        "Oro HeartGold": "Se comunica por telepatía. Su plumaje refleja la luz, lo que le permite hacerse invisible.",
+        "Plata SoulSilver": "Se comunica por telepatía. Su plumaje refleja la luz, lo que le permite hacerse invisible.",
+        "Negro": "Su cuerpo está cubierto de un plumón que refleja la luz de forma que se vuelve invisible.",
+        "Blanco": "Su cuerpo está cubierto de un plumón que refleja la luz de forma que se vuelve invisible.",
+        "Negro 2": "Su cuerpo está cubierto de un plumón que refleja la luz de forma que se vuelve invisible.",
+        "Blanco 2": "Su cuerpo está cubierto de un plumón que refleja la luz de forma que se vuelve invisible.",
+        "Pokémon X": "Se comunica por telepatía. Su plumaje refleja la luz, lo que le permite hacerse invisible.",
+        "Pokémon Y": "Se comunica por telepatía con la gente. Cambia de aspecto refractando luz con el plumaje.",
+        "Rubí Omega": "Latias es muy sensible a los sentimientos de la gente. Si detecta algún ápice de hostilidad, desplegará las plumas que tiene por todo el cuerpo y se pondrá a chillar para intimidar al enemigo.",
+        "Zafiro Alfa": "Latias tiene un nivel de inteligencia tan alto que es capaz de entender el lenguaje humano. Este Pokémon usa el plumón cristalizado del que esta cubierto como peto para refractar la luz y cambiar de aspecto.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Su cuerpo está cubierto de un plumón que refracta la luz y le permite volverse invisible.",
+        "Perla Reluciente": "Su cuerpo está cubierto de un plumón que refracta la luz y le permite volverse invisible.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Latias"
+        ]
+    ]
+}

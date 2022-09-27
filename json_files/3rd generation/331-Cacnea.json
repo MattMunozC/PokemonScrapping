@@ -1,0 +1,153 @@
+{
+    "dex number": "331",
+    "pokemon name": "Cacnea",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Velo arena"
+    ],
+    "hidden abilities": [
+        "Absorbe agua"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "85",
+        "def": "40",
+        "atk esp": "85",
+        "def esp": "40",
+        "speed": "35"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Ruta 111 (desierto)"
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 111 (desierto)"
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 111 (desierto)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Salvaje: ruta 228",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Salvaje: ruta 228",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Salvaje: ruta 228",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino y Oro HeartGold y Plata SoulSilver",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino y Oro HeartGold y Plata SoulSilver",
+            "Dream World: Monte Escarpado"
+        ],
+        "Negro 2": [
+            "Criando: de Cacturne",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco 2": [
+            "Criando: de Cacturne",
+            "Dream World: Monte Escarpado"
+        ],
+        "Pokémon X": [
+            "Criando: de Cacturne."
+        ],
+        "Pokémon Y": [
+            "Criando: de Cacturne."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 111 (desierto)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 111 (desierto)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Cacnea no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Cacnea no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: ruta 228.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: ruta 228.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable."
+        ],
+        "Leyendas: Arceus": [
+            "Cacnea no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Cacnea habita en desiertos y otras zonas áridas. Para atraer a su presa, libera un fuerte aroma por la flor y, cuando se le acerca, le lanza pinchos por todo el cuerpo para reducirla.",
+        "Zafiro": "Cuanto más árido y hostil sea el hábitat de Cacnea, más bonita y aromática será la flor que le crece. Este Pokémon lucha agitando violentamente los brazos cargados de pinchos que tiene.",
+        "Esmeralda": "Cacnea vive en desiertos donde nunca llueve. Para luchar, balancea los brazos, muy gruesos y cubiertos de pinchos. Una vez al año, le brota una flor amarilla.",
+        "Rojo Fuego": "Prefiere los medios hostiles como los desiertos. Puede sobrevivir 30 días sin beber, gracias al agua que almacena.",
+        "Verde Hoja": "Prefiere los medios hostiles como los desiertos. Puede sobrevivir 30 días sin beber, gracias al agua que almacena.",
+        "Diamante": "Habita en el desierto. Aguanta treinta días sin agua gracias a la que almacena en su cuerpo.",
+        "Perla": "Habita en el desierto. Aguanta treinta días sin agua gracias a la que almacena en su cuerpo.",
+        "Platino": "Habita en el desierto. Aguanta treinta días sin agua gracias a la que almacena en su cuerpo.",
+        "Oro HeartGold": "Vive en regiones secas y con pocas lluvias. Una vez al año, le brota una flor amarilla.",
+        "Plata SoulSilver": "Vive en regiones secas y con pocas lluvias. Una vez al año, le brota una flor amarilla.",
+        "Negro": "Habita en el desierto. Aguanta 30 días sin agua gracias a la que almacena en su cuerpo",
+        "Blanco": "Habita en el desierto. Aguanta 30 días sin agua gracias a la que almacena en su cuerpo",
+        "Negro 2": "Habita en el desierto. Aguanta 30 días sin agua gracias a la que almacena en su cuerpo",
+        "Blanco 2": "Habita en el desierto. Aguanta 30 días sin agua gracias a la que almacena en su cuerpo",
+        "Pokémon X": "Vive en regiones secas y con pocas lluvias. Una vez al año, le brota una flor amarilla.",
+        "Pokémon Y": "Prefiere los medios hostiles como los desiertos. Puede sobrevivir 30 días sin beber, gracias al agua que almacena.",
+        "Rubí Omega": "Cacnea habita en desiertos y otras zonas áridas. Para atraer a su presa, libera un fuerte aroma por la flor y, cuando se le acerca, le lanza pinchos por todo el cuerpo para reducirla.",
+        "Zafiro Alfa": "Cuanto más árido y hostil sea el hábitat de Cacnea, más bonita y aromática será la flor que le crece. Este Pokémon lucha agitando violentamente los brazos cargados de pinchos que tiene.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Habita en el desierto. Puede aguantar hasta treinta días sin agua gracias a su capacidad de almacenarla en el cuerpo.",
+        "Perla Reluciente": "Habita en el desierto. Puede aguantar hasta treinta días sin agua gracias a su capacidad de almacenarla en el cuerpo.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Cacnea",
+            "Nivel 32",
+            "Cacturne"
+        ]
+    ]
+}

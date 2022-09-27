@@ -1,0 +1,157 @@
+{
+    "dex number": "293",
+    "pokemon name": "Whismur",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Insonorizar"
+    ],
+    "hidden abilities": [
+        "Cobardía"
+    ],
+    "stats": {
+        "hp": "64",
+        "atk": "51",
+        "def": "23",
+        "atk esp": "51",
+        "def esp": "23",
+        "speed": "28"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Ruta 116, Túnel Fervergal, Calle Victoria (planta baja)."
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 116, Túnel Fervergal, Calle Victoria (planta baja)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 116, Túnel Fervergal, Calle Victoria (planta baja), Gruta Desértica."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Criando: de Loudred.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Criando: de Loudred.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Criando: de Loudred.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Hoenn: rutas 6, 9, 10, 13, 21, 24, 25, 26, 27, 28, 30, 31, 32, 35, 42, 43, 44, 45 y 47, Ruinas Alfa, Monte Plateado.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Hoenn: rutas 6, 9, 10, 13, 21, 24, 25, 26, 27, 28, 30, 31, 32, 35, 42, 43, 44, 45 y 47, Ruinas Alfa, Monte Plateado.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Dream World: Con la habilidad Cobardía.",
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco.",
+            "Dream World: Con la habilidad Cobardía.",
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Dream World: en la Cueva Helada (con la habilidad Cobardía).",
+            "Intercambiar: de Pokémon Blanco.",
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Dream World: en la Cueva Helada (con la habilidad Cobardía).",
+            "Intercambiar: de Pokémon Blanco.",
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Salvaje: Gruta Tierraunida. Susceptible a Encuentro de horda."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Gruta Tierraunida. Susceptible a Encuentro de horda."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 116, Túnel Fervergal."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 116, Túnel Fervergal."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Cueva Contienda ",
+            "Incursiones Dinamax: nidos en Humedal Frescor , Cueva Tenacidad  y Llano Entrenamiento "
+        ],
+        "Escudo": [
+            "Salvaje: Cueva Contienda ",
+            "Incursiones Dinamax: nidos en Humedal Frescor , Cueva Tenacidad  y Llano Entrenamiento "
+        ],
+        "Diamante Brillante": [
+            "Criando: de Loudred."
+        ],
+        "Perla Reluciente": [
+            "Criando: de Loudred."
+        ],
+        "Leyendas: Arceus": [
+            "Whismur no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Normalmente, Whismur tiene una voz tenue, casi inaudible, aunque se preste atención. No obstante, si este Pokémon siente que el peligro acecha, puede ponerse a chillar con un volumen ensordecedor.",
+        "Zafiro": "Whismur es muy tímido. Si empieza a gritar fuerte, se asusta a sí mismo y chilla más alto todavía. Cuando para por fin, se va a dormir completamente agotado.",
+        "Esmeralda": "Suena con el mismo volumen que un reactor. Aspira a través de sus canales auditivos, por eso puede gritar continuamente sin parar para recuperar el aliento.",
+        "Rojo Fuego": "Normalmente murmulla, pero cuando siente que hay peligro se pone a chillar. Sólo para cuando se le cierran las orejas.",
+        "Verde Hoja": "Normalmente murmulla, pero cuando siente que hay peligro se pone a chillar. Sólo para cuando se le cierran las orejas.",
+        "Diamante": "Suele murmurar a un volumen casi inaudible, pero cuando se asusta grita con el volumen de un reactor.",
+        "Perla": "Suele murmurar a un volumen casi inaudible, pero cuando se asusta grita con el volumen de un reactor.",
+        "Platino": "Suele murmurar a un volumen casi inaudible, pero cuando se asusta grita con el volumen de un reactor.",
+        "Oro HeartGold": "Cuando percibe peligro, lanza gritos con volumen similar al de un reactor e intimida a sus enemigos.",
+        "Plata SoulSilver": "Cuando percibe peligro, lanza gritos con volumen similar al de un reactor e intimida a sus enemigos.",
+        "Negro": "Suele murmurar a un volumen casi inaudible, pero cuando se asusta grita con el volumen de un reactor.",
+        "Blanco": "Suele murmurar a un volumen casi inaudible, pero cuando se asusta grita con el volumen de un reactor.",
+        "Negro 2": "Suele murmurar a un volumen casi inaudible, pero cuando se asusta grita con el volumen de un reactor.",
+        "Blanco 2": "Suele murmurar a un volumen casi inaudible, pero cuando se asusta grita con el volumen de un reactor.",
+        "Pokémon X": "Normalmente murmulla, pero cuando siente que hay peligro se pone a chillar. Sólo para cuando se le cierran las orejas.",
+        "Pokémon Y": "Cuando percibe peligro, lanza gritos con volumen similar al de un reactor e intimida a sus enemigos.",
+        "Rubí Omega": "Normalmente, Whismur tiene una voz tenue, casi inaudible, aunque se preste atención. No obstante, si este Pokémon siente que el peligro acecha, puede ponerse a chillar con un volumen ensordecedor.",
+        "Zafiro Alfa": "Whismur es muy tímido. Si empieza a gritar fuerte, se asusta a sí mismo y chilla más alto todavía. Cuando para por fin, se va a dormir completamente agotado.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Su grito llega a superar los 100 decibelios y provoca a quien lo oiga un dolor de cabeza que puede durar un día entero.",
+        "Escudo": "Al chillar, se asusta con su propia voz, lo cual le lleva a gritar más fuerte todavía. Cuando se cansa, se echa a dormir.",
+        "Diamante Brillante": "Suele murmurar a un volumen casi inaudible, pero, cuando se asusta, grita con el volumen de un reactor.",
+        "Perla Reluciente": "Suele murmurar a un volumen casi inaudible, pero, cuando se asusta, grita con el volumen de un reactor.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Whismur",
+            "Nivel 20",
+            "Loudred",
+            "Nivel 40",
+            "Exploud"
+        ]
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "dex number": "328",
+    "pokemon name": "Trapinch",
+    "types": [
+        "tierra"
+    ],
+    "abilities": [
+        "Corte fuerte",
+        "Trampa arena"
+    ],
+    "hidden abilities": [
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": "45",
+        "atk": "100",
+        "def": "45",
+        "atk esp": "45",
+        "def esp": "45",
+        "speed": "10"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Ruta 111"
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 111"
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 111 y Torre Espejismo"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Diamante": [
+            "Pokéradar: Ruta 228",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Pokéradar: Ruta 228",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco": [
+            "Pokémon salvaje: Bosque Blanco",
+            "Dream World: Monte Escarpado"
+        ],
+        "Negro 2": [
+            "Salvaje: Zona Desierto y Montaña Reversia",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco 2": [
+            "Salvaje: Zona Desierto y Montaña Reversia",
+            "Dream World: Monte Escarpado"
+        ],
+        "Pokémon X": [
+            " Salvaje: Ruta 13",
+            "Especial: Safari Amistad, en algunos safaris de tipo tierra"
+        ],
+        "Pokémon Y": [
+            " Salvaje: Ruta 13",
+            "Especial: Safari Amistad, en algunos safaris de tipo tierra"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 111"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 111"
+        ],
+        "Sol": [
+            "Salvaje: Desierto de Haina (nubes de arena)"
+        ],
+        "Luna": [
+            "Salvaje: Desierto de Haina (nubes de arena)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Desierto de Haina (nubes de arena)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Desierto de Haina (nubes de arena)"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 6",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Playa Desafío , Cueva Tenacidad  y Mar Andana "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 6 y Cornisa de Artejo",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Playa Desafío , Cueva Tenacidad  y Mar Andana "
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Ruta 228.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco y Cueva Caldarena."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Ruta 228.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco y Cueva Caldarena."
+        ],
+        "Leyendas: Arceus": [
+            "Trapinch no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "El nido de Trapinch está situado bajo la arena, en una zona cóncava. Este Pokémon espera con paciencia a que su presa caiga en la misma. Con las fauces que tiene puede destruir hasta piedras.",
+        "Zafiro": "Trapinch es un cazador paciente. Suele cavar una fosa profunda en el desierto y esperar a que su presa caiga en ella. Este Pokémon puede aguantar toda una semana sin beber nada de agua.",
+        "Esmeralda": "Tiene unas enormes fauces con las que destruye piedras. Como tiene una cabeza muy grande, le cuesta conseguir ponerse de pie si se cae de espaldas.",
+        "Rojo Fuego": "Habita desiertos áridos. Cava fosas profundas, en las que espera que caiga su presa.",
+        "Verde Hoja": "Habita desiertos áridos. Cava fosas profundas, en las que espera que caiga su presa.",
+        "Diamante": "Cava fosas cóncavas en el desierto y espera en el fondo a que las presas caigan en ellas.",
+        "Perla": "Cava fosas cóncavas en el desierto y espera en el fondo a que las presas caigan en ellas.",
+        "Platino": "Cava fosas cóncavas en el desierto y espera en el fondo a que las presas caigan en ellas.",
+        "Oro HeartGold": "Si una presa cae en las fosas cóncavas de arena que cava en el desierto no podrá salir de ellas.",
+        "Plata SoulSilver": "Si una presa cae en las fosas cóncavas de arena que cava en el desierto no podrá salir de ellas.",
+        "Negro": "Cava fosas cóncavas en el desierto y espera en el fondo a que las presas caigan en ellas.",
+        "Blanco": "Cava fosas cóncavas en el desierto y espera en el fondo a que las presas caigan en ellas.",
+        "Negro 2": "Excava fosas cóncavas de las cuales resulta imposible escapar y espera a que una presa caiga en su interior.",
+        "Blanco 2": "Excava fosas cóncavas de las cuales resulta imposible escapar y espera a que una presa caiga en su interior.",
+        "Pokémon X": "Habita desiertos áridos. Cava fosas profundas, en las que espera que caiga su presa.",
+        "Pokémon Y": "Excava fosas cóncavas de las cuales resulta imposible escapar y espera a que una presa caiga en su interior.",
+        "Rubí Omega": "El nido de Trapinch está situado bajo la arena, en una zona cóncava. Este Pokémon espera con paciencia a que su presa caiga en la misma. Con las fauces que tiene puede destruir hasta piedras.",
+        "Zafiro Alfa": "Trapinch es un cazador paciente. Suele cavar una fosa profunda en el desierto y esperar a que su presa caiga en ella. Este Pokémon puede aguantar toda una semana sin beber nada de agua.",
+        "Sol": "Puede sobrevivir una semana entera sin comer. Se queda muy quieto en su fosa, esperando a que se acerquen sus presas.",
+        "Luna": "Cava su nido de forma cóncava en la arena y, si aparece una roca que le molesta, la destroza con sus grandes mandíbulas.",
+        "Ultrasol": "Puede triturar rocas con su mandíbula, pero su peso le impide darse la vuelta si lo tumban. Los Sandile sacan provecho de este punto débil.",
+        "Ultraluna": "Construye un nido, que también sirve de trampa, y espera pacientemente a su presa. Durante la noche duerme enterrado en la arena.",
+        "Espada": "Si una presa cae en las fosas cóncavas de arena que cava en el desierto, no podrá salir de ellas.",
+        "Escudo": "Excava fosas cóncavas, de las cuales resulta imposible escapar, y espera a que una presa caiga en su interior.",
+        "Diamante Brillante": "Cava fosas cóncavas en el desierto y espera en el fondo a que las presas caigan en ellas.",
+        "Perla Reluciente": "Cava fosas cóncavas en el desierto y espera en el fondo a que las presas caigan en ellas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Trapinch",
+            "Nivel 35",
+            "Vibrava",
+            "Nivel 45",
+            "Flygon"
+        ]
+    ]
+}

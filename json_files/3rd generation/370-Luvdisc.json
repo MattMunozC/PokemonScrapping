@@ -1,0 +1,147 @@
+{
+    "dex number": "370",
+    "pokemon name": "Luvdisc",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Nado rápido"
+    ],
+    "hidden abilities": [
+        "Hidratación"
+    ],
+    "stats": {
+        "hp": "43",
+        "atk": "30",
+        "def": "55",
+        "atk esp": "40",
+        "def esp": "65",
+        "speed": "97"
+    },
+    "location": {
+        "Rubí": [
+            "Pescando, caña buena o supercaña: ruta 128 y Ciudad Colosalia"
+        ],
+        "Zafiro": [
+            "Pescando, caña buena o supercaña: ruta 128 y Ciudad Colosalia"
+        ],
+        "Esmeralda": [
+            "Pescando, caña buena o supercaña: ruta 128 y Ciudad Colosalia"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pescando, supercaña: Ruta 224 y Liga Pokémon",
+            "Parque Compi: Zona marina"
+        ],
+        "Perla": [
+            "Pescando, supercaña: Ruta 224 y Liga Pokémon",
+            "Parque Compi: Zona marina"
+        ],
+        "Platino": [
+            "Pescando, supercaña: Ruta 224 y Liga Pokémon",
+            "Parque Compi: Zona marina"
+        ],
+        "Oro HeartGold": [
+            "Manada Pokémon, surfeando: Ruta 27",
+            "Parque Compi: Zona marina"
+        ],
+        "Plata SoulSilver": [
+            "Manada Pokémon, surfeando: Ruta 27",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Pescando: Ruta 4, Ruta 13, Ciudad Fayenza, Pueblo Arenisca y Bahía Arenisca",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco": [
+            "Pescando: Ruta 4, Ruta 13, Ciudad Fayenza, Pueblo Arenisca y Bahía Arenisca",
+            "Dream World: Mar Brillante"
+        ],
+        "Negro 2": [
+            "Pescando: Ruta 13, Ruta 21, Ciudad Marga, Pueblo Arenisca y Gruta Marina",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Pescando: Ruta 13, Ruta 21, Ciudad Marga, Pueblo Arenisca y Gruta Marina",
+            "Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Pescando, caña vieja: Ruta 8, Ruta 12, Pueblo Petroglifo, Ciudad Relieve, Ciudad Yantra y Bahía Azul"
+        ],
+        "Pokémon Y": [
+            "Pescando, caña vieja: Ruta 8, Ruta 12, Pueblo Petroglifo, Ciudad Relieve, Ciudad Yantra y Bahía Azul"
+        ],
+        "Rubí Omega": [
+            "Pescando, caña buena o supercaña: ruta 128, Ciudad Colosalia y Calle Victoria"
+        ],
+        "Zafiro Alfa": [
+            "Pescando, caña buena o supercaña: ruta 128, Ciudad Colosalia y Calle Victoria"
+        ],
+        "Sol": [
+            "Pescando: Mar de Melemele y Ruta 9"
+        ],
+        "Luna": [
+            "Pescando: Mar de Melemele y Ruta 9"
+        ],
+        "Ultrasol": [
+            "Pescando: Mar de Melemele y Ruta 9"
+        ],
+        "Ultraluna": [
+            "Pescando: Mar de Melemele y Ruta 9"
+        ],
+        "Espada": [
+            "Luvdisc no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Luvdisc no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Pescando con supercaña: Ruta 224 y Liga Pokémon."
+        ],
+        "Perla Reluciente": [
+            "Pescando con supercaña: Ruta 224 y Liga Pokémon."
+        ],
+        "Leyendas: Arceus": [
+            "Luvdisc no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Luvdisc vive en aguas tropicales poco profundas. Este Pokémon con forma de corazón se ha ganado la reputación que tiene por ir nadando detrás de las parejas de enamorados que veía entre las olas del océano.",
+        "Zafiro": "Luvdisc tiene forma de corazón y simboliza el amor y el romanticismo. Dicen que la pareja que se encuentre con él mantendrá una relación de amor de por vida.",
+        "Esmeralda": "Para Luvdisc, las ramas de Corsola son su nido. Existe una antigua costumbre que consiste en regalar un Luvdisc para expresar un sentimiento amoroso.",
+        "Rojo Fuego": "Durante el desove, multitud de Luvdisc se concentran en los arrecifes de coral coloreando de rosa el agua.",
+        "Verde Hoja": "Durante el desove, multitud de Luvdisc se concentran en los arrecifes de coral coloreando de rosa el agua.",
+        "Diamante": "Vive en mares cálidos. Se dice que, si una pareja lo encuentra, será bendecida con amor eterno.",
+        "Perla": "Vive en mares cálidos. Se dice que, si una pareja lo encuentra, será bendecida con amor eterno.",
+        "Platino": "Vive en mares cálidos. Se dice que, si una pareja lo encuentra, será bendecida con amor eterno.",
+        "Oro HeartGold": "Popular por su forma de corazón. En algunos sitios es costumbre que las parejas se regalen Luvdisc.",
+        "Plata SoulSilver": "Popular por su forma de corazón. En algunos sitios es costumbre que las parejas se regalen Luvdisc.",
+        "Negro": "Vive en mares cálidos. Se dice que, si una pareja lo encuentra, será bendecida con amor eterno.",
+        "Blanco": "Vive en mares cálidos. Se dice que, si una pareja lo encuentra, será bendecida con amor eterno.",
+        "Negro 2": "Vive en mares cálidos. Se dice que, si una pareja lo encuentra, será bendecida con amor eterno.",
+        "Blanco 2": "Vive en mares cálidos. Se dice que, si una pareja lo encuentra, será bendecida con amor eterno.",
+        "Pokémon X": "Vive en mares cálidos. Se dice que, si una pareja lo encuentra, será bendecida con amor eterno.",
+        "Pokémon Y": "Durante el desove, multitud de Luvdisc se concentran en los arrecifes de coral coloreando de rosa el agua.",
+        "Rubí Omega": "Luvdisc vive en aguas tropicales poco profundas. Este Pokémon con forma de corazón se ha ganado la reputación que tiene por ir nadando detrás de las parejas de enamorados que veía entre las olas del océano.",
+        "Zafiro Alfa": "Luvdisc tiene forma de corazón y simboliza el amor y el romanticismo. Dicen que la pareja que se encuentre con él mantendrá una relación de amor de por vida.",
+        "Sol": "Cuando un Luvdisc se halla solo, su energía disminuye y baja la guardia, momento que aprovechan los Pelipper para hacerse con ellos.",
+        "Luna": "Es popular entre las parejas de enamorados, por lo que se suelen soltar en las piscinas de los hoteles donde se celebran lunas de miel.",
+        "Ultrasol": "Según las leyendas, una escama con forma de corazón brinda suerte en el amor, lo que condujo tiempo ha a su pesca excesiva.",
+        "Ultraluna": "Vive en los arrecifes de coral de mares cálidos. Dormir entre las ramas de los Corsola es algo por lo que siente una especial predilección.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Vive en mares cálidos. Se dice que, si una pareja lo encuentra, será agraciada con amor eterno.",
+        "Perla Reluciente": "Vive en mares cálidos. Se dice que, si una pareja lo encuentra, será agraciada con amor eterno.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Luvdisc"
+        ]
+    ]
+}

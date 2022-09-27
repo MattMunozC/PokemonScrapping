@@ -1,0 +1,156 @@
+{
+    "dex number": "329",
+    "pokemon name": "Vibrava",
+    "types": [
+        "tierra",
+        "dragón"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "50",
+        "atk": "70",
+        "def": "50",
+        "atk esp": "50",
+        "def esp": "50",
+        "speed": "70"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Diamante": [
+            "Pokéradar: ruta 228.",
+            "Evolucionar: de Trapinch (nivel 35).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Pokéradar: ruta 228.",
+            "Evolucionar: de Trapinch (nivel 35).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Intercambiar: de de Pokémon Diamante, Perla, Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Blanco": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Negro 2": [
+            "Salvaje: Montaña Reversia.",
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Montaña Reversia.",
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Sol": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Luna": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Ultrasol": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada y Pradera Radiante, nido al suroeste.",
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Ojo de Axew, nido central y Pradera Radiante, nido al suroeste.",
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: ruta 228.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arenosa, Cueva Rocosa y Caverna Peñasco.",
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: ruta 228.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arenosa, Cueva Rocosa y Caverna Peñasco.",
+            "Evolucionar: de Trapinch (nivel 35)."
+        ],
+        "Leyendas: Arceus": [
+            "Vibrava no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Para debilitar a su víctima, Vibrava genera ondas ultrasónicas haciendo vibrar con fuerza las alas. Las ondas que crea son tan fuertes que pueden dar dolor de cabeza a la gente.",
+        "Zafiro": "Vibrava no ha desarrollado las alas del todo. Más que para volar y recorrer largas distancias, le resultan útiles para generar ondas ultrasónicas al hacer que vibren.",
+        "Esmeralda": "Cuando frota las alas, emite ondas ultrasónicas, pero, como aún no están completamente desarrolladas, sólo puede volar distancias cortas.",
+        "Rojo Fuego": "Genera ondas ultrasónicas batiendo las alas violentamente. Cuando debilita a su presa, la destruye con ácido.",
+        "Verde Hoja": "Genera ondas ultrasónicas batiendo las alas violentamente. Cuando debilita a su presa, la destruye con ácido.",
+        "Diamante": "Agita violentamente sus alas para crear ondas ultrasónicas que provocan dolores de cabeza.",
+        "Perla": "Agita violentamente sus alas para crear ondas ultrasónicas que provocan dolores de cabeza.",
+        "Platino": "Agita violentamente sus alas para crear ondas ultrasónicas que provocan dolores de cabeza.",
+        "Oro HeartGold": "Genera ondas ultrasónicas al batir las alas violentamente, causando intensos dolores de cabeza.",
+        "Plata SoulSilver": "Genera ondas ultrasónicas al batir las alas violentamente, causando intensos dolores de cabeza.",
+        "Negro": "Agita violentamente sus alas para crear ondas ultrasónicas que provocan dolores de cabeza.",
+        "Blanco": "Agita violentamente sus alas para crear ondas ultrasónicas que provocan dolores de cabeza.",
+        "Negro 2": "Al agitar a gran velocidad ambas alas, emite ondas ultrasónicas que provocan fuertes dolores de cabeza.",
+        "Blanco 2": "Al agitar a gran velocidad ambas alas, emite ondas ultrasónicas que provocan fuertes dolores de cabeza.",
+        "Pokémon X": "Al agitar a gran velocidad ambas alas, emite ondas ultrasónicas que provocan fuertes dolores de cabeza",
+        "Pokémon Y": "Genera ondas ultrasónicas batiendo las alas violentamente. Cuando debilida a su presa, la destruye con ácido.",
+        "Rubí Omega": "Para debilitar a su víctima, Vibrava genera ondas ultrasónicas haciendo vibrar con fuerza las alas. Las ondas que crea son tan fuertes que pueden dar dolor de cabeza a la gente.",
+        "Zafiro Alfa": "Vibrava no ha desarrollado las alas del todo. Más que para volar y recorrer largas distancias, le resultan útiles para generar ondas ultrasónicas al hacer que vibren.",
+        "Sol": "Las alas de Vibrava están subdesarrolladas. Más que para volar, las utiliza para crear ondas ultrasónicas con las que ataca a sus enemigos.",
+        "Luna": "Para terminar de desarrollar sus alas, se nutre a diario de un gran número de presas, a las que disuelve con ácido antes de devorarlas.",
+        "Ultrasol": "Emite ondas ultrasónicas cuando hace vibrar sus alas. Entierra bajo la arena a las presas que ha dejado inconscientes para conservarlas.",
+        "Ultraluna": "Genera raras ondas sónicas batiendo las alas. El estruendo es tal que sus Entrenadores necesitan tapones para los oídos.",
+        "Espada": "Al agitar sus alas a gran velocidad, emite ondas ultrasónicas que provocan fuertes dolores de cabeza.",
+        "Escudo": "Para terminar de desarrollar sus alas, se nutre a diario de un gran número de presas, a las que disuelve con ácido antes de devorarlas.",
+        "Diamante Brillante": "Al agitar violentamente las alas, crea ondas ultrasónicas que provocan dolores de cabeza a los humanos.",
+        "Perla Reluciente": "Al agitar violentamente las alas, crea ondas ultrasónicas que provocan dolores de cabeza a los humanos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Trapinch",
+            "Nivel 35",
+            "Vibrava",
+            "Nivel 45",
+            "Flygon"
+        ]
+    ]
+}

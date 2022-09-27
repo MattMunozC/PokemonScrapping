@@ -1,0 +1,168 @@
+{
+    "dex number": "305",
+    "pokemon name": "Lairon",
+    "types": [
+        "acero",
+        "roca"
+    ],
+    "abilities": [
+        "Robustez",
+        "Cabeza roca"
+    ],
+    "hidden abilities": [
+        "Metal pesado"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "90",
+        "def": "140",
+        "atk esp": "50",
+        "def esp": "50",
+        "speed": "40"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Calle Victoria",
+            "Evolucionar: a Aron (nivel 32)"
+        ],
+        "Zafiro": [
+            "Salvaje: Calle Victoria",
+            "Evolucionar: a Aron (nivel 32)"
+        ],
+        "Esmeralda": [
+            "Salvaje: Calle Victoria",
+            "Evolucionar: a Aron (nivel 32)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Evolucionar: a Aron (nivel 32)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Diamante o Pokémon Platino",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Evolucionar: a Aron (nivel 32)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari",
+            "Evolucionar: a Aron (nivel 32)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari",
+            "Evolucionar: a Aron (nivel 32)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Evolucionar: a Aron (nivel 32)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Aron (nivel 32)"
+        ],
+        "Negro 2": [
+            "Salvaje: Túnel Yakón",
+            "Evolucionar: a Aron (nivel 32)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Túnel Yakón",
+            "Evolucionar: a Aron (nivel 32)"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 18 y Cueva Desenlace"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon X"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Calle Victoria",
+            "Evolucionar: a Aron (nivel 32)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Calle Victoria",
+            "Evolucionar: a Aron (nivel 32)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol y Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol y Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Aggron y evolucionar a Aron (nivel 32)"
+        ],
+        "Ultraluna": [
+            "Criar: de Aggron y evolucionar a Aron (nivel 32)"
+        ],
+        "Espada": [
+            "Salvaje: Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Aron (nivel 32)"
+        ],
+        "Escudo": [
+            "Salvaje: Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Aron (nivel 32)"
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar.",
+            "Evolucionar: a Aron (nivel 32)."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar.",
+            "Evolucionar: a Aron (nivel 32)."
+        ],
+        "Leyendas: Arceus": [
+            "Lairon no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Lairon templa su cuerpo de acero bebiendo agua mineral muy rica en nutrientes hasta que no puede más. Este Pokémon suele crear su nido cerca de manantiales de rica agua.",
+        "Zafiro": "Lairon se alimenta del hierro que hay en las rocas y el agua. Hace su nido en las montañas, de donde se saca el hierro. Por eso, se encuentra muchas veces con las personas que están trabajando en las minas extrayéndolo.",
+        "Esmeralda": "Si dos Lairon se encuentran en su hábitat natural, luchan por su territorio golpeándose con sus cuerpos de acero. El estruendo que forman se oye a kilómetros.",
+        "Rojo Fuego": "Para alardear de su fuerza, hace saltar chispas frotando contra grandes rocas el cuerpo de acero que tiene.",
+        "Verde Hoja": "Para alardear de su fuerza, hace saltar chispas frotando contra grandes rocas el cuerpo de acero que tiene.",
+        "Diamante": "Extrae hierro para alimentarse y usa su cuerpo de acero para luchar y conseguir territorio.",
+        "Perla": "Extrae hierro para alimentarse y usa su cuerpo de acero para luchar y conseguir territorio.",
+        "Platino": "Extrae hierro para alimentarse y usa su cuerpo de acero para luchar y conseguir territorio.",
+        "Oro HeartGold": "Le encanta comer hierro. Lucha por su territorio embistiendo a sus rivales con su cuerpo de acero.",
+        "Plata SoulSilver": "Le encanta comer hierro. Lucha por su territorio embistiendo a sus rivales con su cuerpo de acero.",
+        "Negro": "Extrae hierro para alimentarse y usa su cuerpo de acero para luchar y conseguir territorio.",
+        "Blanco": "Extrae hierro para alimentarse y usa su cuerpo de acero para luchar y conseguir territorio.",
+        "Negro 2": "Los Lairon disputan luchas territoriales. Cuando sus cuerpos de acero chocan, saltan chispas por todas partes.",
+        "Blanco 2": "Los Lairon disputan luchas territoriales. Cuando sus cuerpos de acero chocan, saltan chispas por todas partes.",
+        "Pokémon X": "Le encanta comer hierro. Lucha por su territorio embistiendo a sus rivales con su cuerpo de acero.",
+        "Pokémon Y": "Para alardear de su fuerza, hace saltar chispas frotando contra grandes rocas el cuerpo de acero que tiene.",
+        "Rubí Omega": "Lairon templa su cuerpo de acero bebiendo agua mineral muy rica en nutrientes hasta que no puede más. Este Pokémon suele crear su nido cerca de manantiales de rica agua.",
+        "Zafiro Alfa": "Lairon se alimenta del hierro que hay en las rocas y el agua. Hace su nido en las montañas, de donde se saca el hierro. Por eso, se encuentra muchas veces con las personas que están trabajando en las minas extrayéndolo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Habita en zonas ricas en hierro y con numerosos manantiales, por lo que en el pasado las disputas territoriales con los humanos eran frecuentes.",
+        "Escudo": "Resuelven sus disputas territoriales embistiendo y golpeando con el cuerpo. En sus corazas de acero se pueden apreciar hendiduras y rasguños.",
+        "Diamante Brillante": "Extrae hierro para alimentarse. Usa su cuerpo de acero para luchar y defender su territorio.",
+        "Perla Reluciente": "Extrae hierro para alimentarse. Usa su cuerpo de acero para luchar y defender su territorio.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Aron",
+            "Nivel 32",
+            "Lairon",
+            "Nivel 42",
+            "Aggron"
+        ]
+    ]
+}

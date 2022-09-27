@@ -1,0 +1,152 @@
+{
+    "dex number": "292",
+    "pokemon name": "Shedinja",
+    "types": [
+        "bicho",
+        "fantasma"
+    ],
+    "abilities": [
+        "Superguarda"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "1",
+        "atk": "90",
+        "def": "45",
+        "atk esp": "30",
+        "def esp": "30",
+        "speed": "40"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo)"
+        ],
+        "Zafiro": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)",
+            "PokéTransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata Soul Silver"
+        ],
+        "Blanco": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)",
+            "PokéTransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata Soul Silver"
+        ],
+        "Negro 2": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)",
+            "PokéTransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata Soul Silver"
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)",
+            "PokéTransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata Soul Silver"
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido en la zona de pasto al este y Valle Entrepuentes, nido al noreste cerca de los pilares.",
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido en la zona de pasto al este y Valle Entrepuentes, nido al noreste cerca de los pilares.",
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Nincada (nivel 20 + espacio en el equipo y Poké Ball en la mochila)."
+        ],
+        "Leyendas: Arceus": [
+            "Shedinja no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Shedinja tiene un cuerpo robusto que no mueve en absoluto. De hecho, parece una especie de caparazón hueco. Se cree que si alguien se atreviera a mirarle por la espalda lo que tiene en su interior, Shedinja le robaría el alma.",
+        "Zafiro": "Shedinja es un Pokémon peculiar. Según parece, surge por las buenas en una Poké Ball cuando Nincada evoluciona. Este raro Pokémon no se mueve nada; ni siquiera respira.",
+        "Esmeralda": "Curioso Pokémon que permanece en suspensión sin mover las alas. Su interior está hueco y totalmente oscuro.",
+        "Rojo Fuego": "Es un Pokémon muy peculiar; aparece de repente en una Poké Ball cuando Nincada evoluciona.",
+        "Verde Hoja": "Es un Pokémon muy peculiar; aparece de repente en una Poké Ball cuando Nincada evoluciona.",
+        "Diamante": "Es el caparazón de un bicho que cobró vida. Si alguien lo mira por la espalda, le robará el alma.",
+        "Perla": "Es el caparazón de un bicho que cobró vida. Si alguien lo mira por la espalda, le robará el alma.",
+        "Platino": "Es el caparazón de un bicho que cobró vida. Si alguien lo mira por la espalda, le robará el alma.",
+        "Oro HeartGold": "Vuela sin batir las alas. Es un Pokémon muy peculiar. No respira y parece estar vacío por dentro.",
+        "Plata SoulSilver": "Vuela sin batir las alas. Es un Pokémon muy peculiar. No respira y parece estar vacío por dentro.",
+        "Negro": "Es el caparazón de un bicho que cobró vida. Si alguien lo mira por la espalda, le robará el alma.",
+        "Blanco": "Es el caparazón de un bicho que cobró vida. Si alguien lo mira por la espalda, le robará el alma.",
+        "Negro 2": "Es el caparazón de un bicho que cobró vida. Si alguien lo mira por la espalda, le robará el alma.",
+        "Blanco 2": "Es el caparazón de un bicho que cobró vida. Si alguien lo mira por la espalda, le robará el alma.",
+        "Pokémon X": "Es el caparazón de un bicho que cobró vida. Si alguien lo mira por la espalda, le robará el alma.",
+        "Pokémon Y": "Es un Pokémon muy peculiar; aparece de repente en una Poké Ball cuando Nincada evoluciona.",
+        "Rubí Omega": "Shedinja tiene un cuerpo robusto que no mueve en absoluto. De hecho, parece una especie de caparazón hueco. Se cree que si alguien se atreviera a mirarle por la espalda lo que tiene en su interior, Shedinja le robaría el alma.",
+        "Zafiro Alfa": "Shedinja es un Pokémon peculiar. Según parece, surge por las buenas en una Poké Ball cuando Nincada evoluciona. Este raro Pokémon no se mueve nada; ni siquiera respira.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Es un Pokémon muy peculiar; aparece de repente en una Poké Ball cuando Nincada evoluciona.",
+        "Escudo": "Es un Pokémon muy peculiar: revolotea sin batir las alas, no respira y su cuerpo está hueco por dentro.",
+        "Diamante Brillante": "Una muda de insecto que cobró vida. Si alguien mira lo que hay en su interior por la abertura de la espalda, le robará el alma.",
+        "Perla Reluciente": "Una muda de insecto que cobró vida. Si alguien mira lo que hay en su interior por la abertura de la espalda, le robará el alma.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Nincada",
+            "Nivel 20",
+            "Ninjask",
+            "+ (si hay espacio en el equipoy teniendo una Poké Ball)",
+            "Shedinja"
+        ]
+    ]
+}

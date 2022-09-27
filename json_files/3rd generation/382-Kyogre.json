@@ -1,0 +1,145 @@
+{
+    "dex number": "382",
+    "pokemon name": "Kyogre",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Llovizna"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "100",
+        "atk": "100",
+        "def": "90",
+        "atk esp": "150",
+        "def esp": "140",
+        "speed": "90"
+    },
+    "location": {
+        "Rubí": [
+            "Intercambiar: de Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Zafiro": [
+            "Salvaje: Cueva Ancestral (solo uno)"
+        ],
+        "Esmeralda": [
+            "Salvaje: Cueva Marina (solo uno)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold",
+            "Parque Compi: Zona marina"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold",
+            "Parque Compi: Zona marina"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold",
+            "Parque Compi: Zona marina"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Torre Oculta. Se necesita la esfera azul (solo uno)",
+            "Parque Compi: Zona marina"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Oro HeartGold",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Ancestral (solo uno)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul (solo uno)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Especial: Parque Hansa (Sala del Mar)."
+        ],
+        "Perla Reluciente": [
+            "Especial: Parque Hansa (Sala del Mar)."
+        ],
+        "Leyendas: Arceus": [
+            "Kyogre no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Kyogre es capaz de crear grandes cantidades de nubarrones, cubrir el cielo y desatar lluvias torrenciales. Este Pokémon ha salvado de la sequía a mucha gente.",
+        "Zafiro": "En mitología se conoce a Kyogre como el Pokémon que extendió la superficie de los mares haciendo que diluviara y creando maremotos. Tras un combate contra Groudon, que acabó en cataclismo, se echó a dormir.",
+        "Esmeralda": "En la mitología se considera a Kyogre como el creador del mar. Tras largos años de enfrentamiento con Groudon, se echó a dormir en el fondo del mar.",
+        "Rojo Fuego": "Dicen que extendió la superficie de los mares haciendo que diluviara. Tiene la capacidad de controlar las aguas.",
+        "Verde Hoja": "Dicen que extendió la superficie de los mares haciendo que diluviara. Tiene la capacidad de controlar las aguas.",
+        "Diamante": "Se dice que aumentó el nivel del mar a base de aguaceros. Ha estado durmiendo en una fosa marina.",
+        "Perla": "Se dice que aumentó el nivel del mar a base de aguaceros. Ha estado durmiendo en una fosa marina.",
+        "Platino": "Se dice que aumentó el nivel del mar a base de aguaceros. Ha estado durmiendo en una fosa marina.",
+        "Oro HeartGold": "Pokémon legendario que aumentó los mares con diluvios y maremotos. Fue un enemigo acérrimo de Groudon.",
+        "Plata SoulSilver": "Pokémon legendario que aumentó los mares con diluvios y maremotos. Fue un enemigo acérrimo de Groudon.",
+        "Negro": "Se dice que aumentó el nivel del mar a base de aguaceros. Ha estado durmiendo en una fosa marina.",
+        "Blanco": "Se dice que aumentó el nivel del mar a base de aguaceros. Ha estado durmiendo en una fosa marina.",
+        "Negro 2": "Se dice que aumentó el nivel del mar a base de aguaceros. Ha estado durmiendo en una fosa marina.",
+        "Blanco 2": "Se dice que aumentó el nivel del mar a base de aguaceros. Ha estado durmiendo en una fosa marina.",
+        "Pokémon X": "Pokémon legendario que aumentó los mares con diluvios y maremotos. Fue un enemigo acérrimo de Groudon.",
+        "Pokémon Y": "Se dice que aumentó el nivel del mar a base de aguaceros. Ha estado durmiendo en una fosa marina.",
+        "Rubí Omega": "Kyogre se sirve de la energía de la naturaleza para realizar su Regresión Primigenia y recobrar su apariencia primitiva. Con tal poder, puede desencadenar tempestades para expandir los océanos.",
+        "Zafiro Alfa": "A Kyogre siempre se le ha descrito como el Pokémon que expandió los océanos. Varias leyendas cuentan que libró combates contra Groudon en repetidas ocasiones para tener el control de la energía de la naturaleza.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Se dice que aumentó el nivel del mar a base de aguaceros. Ha estado durmiendo en una fosa marina.",
+        "Perla Reluciente": "Se dice que aumentó el nivel del mar a base de aguaceros. Ha estado durmiendo en una fosa marina.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Kyogre"
+        ]
+    ]
+}

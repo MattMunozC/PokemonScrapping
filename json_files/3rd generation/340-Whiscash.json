@@ -1,0 +1,173 @@
+{
+    "dex number": "340",
+    "pokemon name": "Whiscash",
+    "types": [
+        "agua",
+        "tierra"
+    ],
+    "abilities": [
+        "Despiste",
+        "Anticipación"
+    ],
+    "hidden abilities": [
+        "Hidratación"
+    ],
+    "stats": {
+        "hp": "110",
+        "atk": "78",
+        "def": "73",
+        "atk esp": "76",
+        "def esp": "71",
+        "speed": "60"
+    },
+    "location": {
+        "Rubí": [
+            "Pescando (Supercaña): Cascada Meteoro, Calle Victoria.",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Zafiro": [
+            "Pescando (Supercaña): Cascada Meteoro, Calle Victoria.",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Esmeralda": [
+            "Pescando (Supercaña): Cascada Meteoro, Calle Victoria.",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Pescando (Supercaña): Rutas 205 (norte), 208, 210 (norte), 212 (sur), 227, 228, Senda Desolada, Ciudad Vetusta, Pueblo Caelestis, Puerta Pirita, Gran Pantano, Monte Corona",
+            "Evolucionar: a Barboach (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Perla": [
+            "Pescando (Supercaña): Rutas 205 (norte), 208, 210 (norte), 212 (sur), 227, 228, Senda Desolada, Ciudad Vetusta, Pueblo Caelestis, Puerta Pirita, Gran Pantano, Monte Corona",
+            "Evolucionar: a Barboach (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Platino": [
+            "Pescando (Caña buena): Ruta 228.",
+            "Pescando (Supercaña): Rutas 205, 208, 210, 225, 227, 228, Senda Desolada, Ciudad Vetusta, Puerta Pirita, Gran Pantano, Monte Corona",
+            "Evolucionar: a Barboach (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Oro HeartGold": [
+            "Manada Pokémon: Ciudad Malva.",
+            "Evolucionar: a Barboach (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Plata SoulSilver": [
+            "Manada Pokémon: Ciudad Malva.",
+            "Evolucionar: a Barboach (nivel 30)",
+            "Parque Compi: Zona pantanosa."
+        ],
+        "Negro": [
+            "Pescando (Supercaña): Pantano Teja, Ciudad Teja, Ruta 8 (sombra de agua)",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Blanco": [
+            "Pescando (Supercaña): Pantano Teja, Ciudad Teja, Ruta 8 (sombra de agua)",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Negro 2": [
+            "Pescando (Supercaña): Pantano Teja, Ciudad Teja, Ruta 8 (sombra de agua)",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Blanco 2": [
+            "Pescando (Supercaña): Pantano Teja, Ciudad Teja, Ruta 8 (sombra de agua)",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Pokémon X": [
+            "Pescando (Supercaña): Rutas 14, 19",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Pokémon Y": [
+            "Pescando (Supercaña): Rutas 14, 19",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Rubí Omega": [
+            "Pescando (Supercaña): Cascada Meteoro",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Zafiro Alfa": [
+            "Pescando (Supercaña): Cascada Meteoro",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Sol": [
+            "Pescando: Gruta Unemar, Pueblo Ohana, Jardines de Poni, Cañón de Poni y Pendiente de Poni (como refuerzo de Barboach).",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Luna": [
+            "Pescando: Gruta Unemar, Pueblo Ohana, Jardines de Poni, Cañón de Poni y Pendiente de Poni (como refuerzo de Barboach).",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Ultrasol": [
+            "Pescando: Gruta Unemar, Pueblo Ohana, Jardines de Poni, Cañón de Poni y Pendiente de Poni (como refuerzo de Barboach).",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Ultraluna": [
+            "Pescando: Gruta Unemar, Pueblo Ohana, Jardines de Poni, Cañón de Poni y Pendiente de Poni (como refuerzo de Barboach).",
+            "Evolucionar: a Barboach (nivel 30)"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur."
+        ],
+        "Diamante Brillante": [
+            "Pescando con Supercaña: Rutas 205 (norte), 208, 210 (norte), 212 (sur), 227, 228, Senda Desolada, Ciudad Vetusta, Pueblo Caelestis, Puerta Pirita y Monte Corona.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Barboach (nivel 30)."
+        ],
+        "Perla Reluciente": [
+            "Pescando con Supercaña: Rutas 205 (norte), 208, 210 (norte), 212 (sur), 227, 228, Senda Desolada, Ciudad Vetusta, Pueblo Caelestis, Puerta Pirita y Monte Corona.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Barboach (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pantanal Carmesí:Ciénaga Bocazas y Lago Valor. Ladera Corona:Cueva Extravío",
+            "Pokémon alfa:Lago Valor"
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Whiscash defiende su territorio a toda costa. Es capaz de apoderarse de un estanque entero para sí solo. Si alguien se le acerca, se revolverá y provocará un terremoto devastador.",
+        "Zafiro": "Si Whiscash entra en estado de cólera salvaje, provoca un temblor sísmico de un radio de cinco kilómetros. Este Pokémon tiene la habilidad de predecir terremotos de verdad.",
+        "Esmeralda": "Nadie sabe cómo, pero puede predecir terremotos. De día duerme en el fango del fondo de una charca. Ya despierto, se pasa toda la noche alimentándose.",
+        "Rojo Fuego": "Construye su nido en los fondos de los pantanos. Es capaz de comerse cualquier cosa.",
+        "Verde Hoja": "Construye su nido en los fondos de los pantanos. Es capaz de comerse cualquier cosa.",
+        "Diamante": "Es muy territorial. Expulsa a los intrusos con unos temblores que se sienten en un radio de 5 km.",
+        "Perla": "Ha desarrollado la capacidad de prever terremotos reales debido a los temblores que provoca.",
+        "Platino": "Protege su territorio por encima de todo. Si se acerca un enemigo, ataca con violentas sacudidas.",
+        "Oro HeartGold": "Habita en grandes pantanos. Si se acerca un enemigo, se alborota y causa temblores monumentales.",
+        "Plata SoulSilver": "Habita en grandes pantanos. Si se acerca un enemigo, se alborota y causa temblores monumentales.",
+        "Negro": "Protege su territorio por encima de todo. Si se acerca un enemigo, ataca con violentas sacudidas.",
+        "Blanco": "Protege su territorio por encima de todo. Si se acerca un enemigo, ataca con violentas sacudidas.",
+        "Negro 2": "Protege su territorio por encima de todo. Si se acerca un enemigo, ataca con violentas sacudidas.",
+        "Blanco 2": "Protege su territorio por encima de todo. Si se acerca un enemigo, ataca con violentas sacudidas.",
+        "Pokémon X": "Habita en grandes pantanos. Si se acerca un enemigo, se alborota y causa temblores monumentales.",
+        "Pokémon Y": "Construye su nido en los fondos de los pantanos. Es capaz de comerse cualquier cosa.",
+        "Rubí Omega": "Whiscash defiende su territorio a toda costa. Es capaz de apoderarse de un estanque entero para sí solo. Si alguien se le acerca, se revolverá y provocará un terremoto devastador.",
+        "Zafiro Alfa": "Si Whiscash entra en estado de cólera salvaje, provoca un temblor sísmico de un radio de cinco kilómetros. Este Pokémon tiene la habilidad de predecir terremotos de verdad.",
+        "Sol": "Es un Pokémon muy voraz que se come todo lo que se mueve. Suele quedarse quieto en el lecho del río esperando a sus presas.",
+        "Luna": "Se cree que cuando los bancos de Whiscash saltan sobre la superficie del agua, es señal premonitoria de un terremoto.",
+        "Ultrasol": "Provoca fuertes temblores de tierra con los que intimida a sus rivales. Al engullir a las presas del fondo del cenagal también traga bastante lodo.",
+        "Ultraluna": "Como su vista no es muy aguda, utiliza los barbillones para detectar las vibraciones que se producen en el agua y localizar así a su presa.",
+        "Espada": "Construye su nido en el fondo de los pantanos. Es tan voraz que no le hace ascos a ningún tipo de comida, siempre que se trate de seres vivos.",
+        "Escudo": "Habita en grandes pantanos. Si se acerca un enemigo, monta en cólera y causa temblores monumentales.",
+        "Diamante Brillante": "Es muy territorial. Expulsa a los intrusos con unos temblores que se sienten en un radio de 5 km.",
+        "Perla Reluciente": "Ha desarrollado la capacidad de prever terremotos reales debido a los temblores que provoca.",
+        "Leyendas: Arceus": "Golpea el lecho del pantano con la aleta caudal y engulle las presas que huyen asustadas. La gente creía erróneamente que esto era lo que provocaba terremotos."
+    },
+    "evolution": [
+        [
+            "Barboach",
+            "Nivel 30",
+            "Whiscash"
+        ]
+    ]
+}

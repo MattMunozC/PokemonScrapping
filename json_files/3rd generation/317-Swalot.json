@@ -1,0 +1,150 @@
+{
+    "dex number": "317",
+    "pokemon name": "Swalot",
+    "types": [
+        "veneno"
+    ],
+    "abilities": [
+        "Lodo líquido",
+        "Viscosidad"
+    ],
+    "hidden abilities": [
+        "Gula"
+    ],
+    "stats": {
+        "hp": "100",
+        "atk": "73",
+        "def": "83",
+        "atk esp": "73",
+        "def esp": "83",
+        "speed": "55"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Gulpin (nivel 26)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Gulpin (nivel 26)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Gulpin (nivel 26)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Pokémon XD."
+        ],
+        "Diamante": [
+            "Evolucionar: de Gulpin (nivel 26).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Evolucionar: de Gulpin (nivel 26).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Evolucionar: de Gulpin (nivel 26).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Perla, Platino o Plata SoulSilver.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Gulpin (nivel 26).",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Evolucionar: de Gulpin (nivel 26).",
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino y Plata SoulSilver"
+        ],
+        "Blanco": [
+            "Evolucionar: de Gulpin (nivel 26).",
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino y Plata SoulSilver"
+        ],
+        "Negro 2": [
+            "Manada: ruta 9."
+        ],
+        "Blanco 2": [
+            "Manada: ruta 9."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Gulpin (nivel 26).",
+            "Especial: En el Safari Amistad, en algunos safaris de tipo veneno."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Gulpin (nivel 26).",
+            "Especial: En el Safari Amistad, en algunos safaris de tipo veneno."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Gulpin (nivel 26)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Gulpin (nivel 26)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Swalot no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Swalot no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Gulpin (nivel 26)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Gulpin (nivel 26)."
+        ],
+        "Leyendas: Arceus": [
+            "Swalot no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Cuando Swalot detecta una presa, echa por los poros y a borbotones un fluido espantoso y rocía a su víctima. Una vez la debilita, se la traga entera gracias a la gigantesca boca que tiene.",
+        "Zafiro": "Swalot no tiene dientes, así que lo que come se lo traga de una vez; da igual lo que sea. A este Pokémon le cabría un neumático en la boca sin problema.",
+        "Esmeralda": "Tiene un ácido tan potente en el estómago que le permite digerir casi cualquier cosa. Lo único que Swalot no puede digerir es su propio estómago.",
+        "Rojo Fuego": "Es capaz de tragarse un neumático sin masticarlo. Segrega un horrible fluido tóxico por los poros.",
+        "Verde Hoja": "Es capaz de tragarse un neumático sin masticarlo. Segrega un horrible fluido tóxico por los poros.",
+        "Diamante": "Se traga cualquier cosa de una pieza. Sus poros segregan fluidos tóxicos que dañan a sus enemigos.",
+        "Perla": "Se traga cualquier cosa de una pieza. Sus poros segregan fluidos tóxicos que dañan a sus enemigos.",
+        "Platino": "Se traga cualquier cosa de una pieza. Sus poros segregan fluidos tóxicos que dañan a sus enemigos.",
+        "Oro HeartGold": "Se traga todo lo que le quepa en su enorme boca. Sus jugos gástricos pueden digerir cualquier cosa.",
+        "Plata SoulSilver": "Se traga todo lo que le quepa en su enorme boca. Sus jugos gástricos pueden digerir cualquier cosa.",
+        "Negro": "Se traga cualquier cosa de una pieza. Sus poros segregan fluidos tóxicos que dañan a sus enemigos.",
+        "Blanco": "Se traga cualquier cosa de una pieza. Sus poros segregan fluidos tóxicos que dañan a sus enemigos.",
+        "Negro 2": "Se traga cualquier cosa de una pieza. Sus poros segregan fluidos tóxicos que dañan a sus enemigos.",
+        "Blanco 2": "Se traga cualquier cosa de una pieza. Sus poros segregan fluidos tóxicos que dañan a sus enemigos.",
+        "Pokémon X": "Se traga cualquier cosa de una pieza. Sus poros segregan fluidos tóxicos que dañan a sus enemigos.",
+        "Pokémon Y": "Se traga todo lo que quepa en su enorme boca. Sus jugos gástricos pueden digerir cualquier cosa.",
+        "Rubí Omega": "Cuando Swalot detecta una presa, echa por los poros y a borbotones un fluido espantoso y rocía a su víctima. Una vez la debilita, se la traga entera gracias a la gigantesca boca que tiene.",
+        "Zafiro Alfa": "Swalot no tiene dientes, así que lo que come se lo traga de una vez; da igual lo que sea. A este Pokémon le cabría un neumático en la boca sin problemas.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Se traga cualquier cosa de una pieza. Segrega un fluido tóxico por los poros que daña al enemigo.",
+        "Perla Reluciente": "Se traga cualquier cosa de una pieza. Segrega un fluido tóxico por los poros que daña al enemigo.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Gulpin",
+            "Nivel 26",
+            "Swalot"
+        ]
+    ]
+}

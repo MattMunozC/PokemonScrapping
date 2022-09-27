@@ -1,0 +1,158 @@
+{
+    "dex number": "290",
+    "pokemon name": "Nincada",
+    "types": [
+        "bicho",
+        "tierra"
+    ],
+    "abilities": [
+        "Ojo compuesto"
+    ],
+    "hidden abilities": [
+        "Fuga"
+    ],
+    "stats": {
+        "hp": "31",
+        "atk": "45",
+        "def": "90",
+        "atk esp": "30",
+        "def esp": "30",
+        "speed": "40"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Ruta 116"
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 116"
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 116"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pokéradar: Bosque Vetusto",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Pokéradar: Bosque Vetusto",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Pokéradar: Bosque Vetusto",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Concurso de captura de bichos, después de obtener la Pokédex Nacional (jueves y sábados)"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Concurso de captura de bichos, después de obtener la Pokédex Nacional (jueves y sábados)"
+        ],
+        "Negro": [
+            "Pokétransfer: transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco": [
+            "Pokétransfer: transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Negro 2": [
+            "Pokétransfer: transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 6",
+            "Especial: Safari Amistad, en algunos safaris de tipo tierra"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 6",
+            "Especial: Safari Amistad, en algunos safaris de tipo tierra"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 116"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 116"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 5",
+            "Área Silvestre: Lago Axew (oeste) (con tormenta de arena) y Lago Milotic (sur) (con sol o tormenta de arena).",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Pradera Radiante, nido en la zona de pasto al este, Pradera Radiante, nido en mitad de los árboles, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al sur."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 5",
+            "Área Silvestre: Lago Axew (oeste) (con tormenta de arena) y Lago Milotic (sur) (con sol o tormenta de arena).",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Pradera Radiante, nido en la zona de pasto al este, Pradera Radiante, nido en mitad de los árboles, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al sur."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Bosque Vetusto.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Bosque Vetusto.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Nincada no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Nincada vive bajo tierra en la más absoluta oscuridad durante años. Este Pokémon absorbe nutrientes de las raíces de los árboles y permanece inmóvil a la espera de la evolución.",
+        "Zafiro": "Nincada vive bajo tierra y usa las garras afiladas que tiene para escarbar y buscar raíces de árboles y absorber humedad y nutrientes. Este Pokémon huye de la luz del sol porque le hace daño.",
+        "Esmeralda": "Hace su nido en las raíces de un árbol resistente. Tiene unas antenas con forma de bigotes que usa para examinar el oscuro terreno que le rodea.",
+        "Rojo Fuego": "Como se ha pasado casi toda la vida viviendo bajo tierra, no ve bien. La antena que tiene le ayuda a orientarse.",
+        "Verde Hoja": "Como se ha pasado casi toda la vida viviendo bajo tierra, no ve bien. La antena que tiene le ayuda a orientarse.",
+        "Diamante": "Crece bajo tierra y explora el entorno con sus antenas, que sustituyen a ojos atrofiados.",
+        "Perla": "Crece bajo tierra y explora el entorno con sus antenas, que sustituyen a ojos atrofiados.",
+        "Platino": "Crece bajo tierra y explora el entorno con sus antenas, que sustituyen a ojos atrofiados.",
+        "Oro HeartGold": "Algunos pasan más de diez años bajo tierra. Absorbe nutrientes de las raíces de árboles.",
+        "Plata SoulSilver": "Algunos pasan más de diez años bajo tierra. Absorbe nutrientes de las raíces de árboles.",
+        "Negro": "Crece bajo tierra y explora el entorno con sus antenas, que sustituyen a ojos atrofiados.",
+        "Blanco": "Crece bajo tierra y explora el entorno con sus antenas, que sustituyen a ojos atrofiados.",
+        "Negro 2": "Crece bajo tierra y explora el entorno con sus antenas porque casi no ve con sus ojos.",
+        "Blanco 2": "Crece bajo tierra y explora el entorno con sus antenas porque casi no ve con sus ojos.",
+        "Pokémon X": "Como se ha pasado casi toda la vida viviendo bajo tierra, no ve bien. Las antenas que tiene le ayudan a orientarse.",
+        "Pokémon Y": "Algunos pasan más de diez años bajo tierra. Absorbe nutrientes de las raíces de los árboles.",
+        "Rubí Omega": "Nincada vive bajo tierra en la más absoluta oscuridad durante años. Este Pokémon absorbe nutrientes de las raíces de los árboles y permanece inmóvil a la espera de su evolución.",
+        "Zafiro Alfa": "Nincada vive bajo tierra y usa las garras afiladas que tiene para escarbar y buscar raíces de árboles y absorber humedad y nutrientes. Este Pokémon huye de la luz del sol porque le hace daño.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Vivir bajo tierra durante tanto tiempo lo ha dejado prácticamente ciego. Las antenas que tiene le ayudan a orientarse.",
+        "Escudo": "Pueden pasar más de diez años bajo tierra. Absorben nutrientes de las raíces de los árboles.",
+        "Diamante Brillante": "Crece bajo tierra y se orienta en el entorno con sus antenas, ya que es prácticamente ciego.",
+        "Perla Reluciente": "Crece bajo tierra y se orienta en el entorno con sus antenas, ya que es prácticamente ciego.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Nincada",
+            "Nivel 20",
+            "Ninjask",
+            "+ (si hay espacio en el equipoy teniendo una Poké Ball)",
+            "Shedinja"
+        ]
+    ]
+}

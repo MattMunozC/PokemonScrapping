@@ -1,0 +1,156 @@
+{
+    "dex number": "270",
+    "pokemon name": "Lotad",
+    "types": [
+        "agua",
+        "planta"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Cura lluvia"
+    ],
+    "hidden abilities": [
+        "Ritmo propio"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "30",
+        "def": "30",
+        "atk esp": "40",
+        "def esp": "50",
+        "speed": "30"
+    },
+    "location": {
+        "Rubí": [
+            "Intercambiar: de Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Zafiro": [
+            "Salvaje: Rutas 102 y 114"
+        ],
+        "Esmeralda": [
+            "Salvaje: Rutas 102 y 114"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Insertando Pokémon Zafiro: Rutas 203, 204, 205 y 212",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Perla": [
+            "Insertando Pokémon Zafiro: Rutas 203, 204, 205 y 212",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Platino": [
+            "Insertando Pokémon Zafiro: Rutas 203, 204, 205 y 212",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Negro 2": [
+            "Criar: de Lombre o Ludicolo",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco 2": [
+            "Criar: de Lombre o Ludicolo",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Pokémon X": [
+            "Criar: de Lombre o Ludicolo"
+        ],
+        "Pokémon Y": [
+            "Criar: de Lombre o Ludicolo"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X, Pokémon Y o Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Rutas 102 y 114"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Lombre o Ludicolo"
+        ],
+        "Ultraluna": [
+            "Criar: de Lombre o Ludicolo"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 2 (área principal), Arboleda Claroscuro (despejado, nublado, lluvia, tormenta y niebla), Pradera Radiante (lluvia), Lago Axew (oeste) (nublado).",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Lotad no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Lotad vive en estanques y lagos, donde permanece flotando. Si se le marchita la ancha hoja que tiene en la cabeza, se debilitará. De vez en cuando se desplaza en busca de agua limpia.",
+        "Zafiro": "A Lotad se le atribuye el haber vivido antes en tierra. En cualquier caso, se cree que volvió al agua porque la hoja de la cabeza le creció mucho y le empezó a pesar. Ahora vive flotando en el agua.",
+        "Esmeralda": "Vive en charcas de agua clara. Se le conoce por ayudar a los Pokémon pequeños a cruzar las charcas transportándolos sobre la hoja que tiene en la cabeza.",
+        "Rojo Fuego": "Va buscando agua potable para beber. Si no la encuentra pasado un tiempo, se le marchita la hoja de la cabeza.",
+        "Verde Hoja": "Va buscando agua potable para beber. Si no la encuentra pasado un tiempo, se le marchita la hoja de la cabeza.",
+        "Diamante": "Parece una planta acuática. Hace de ferry para los Pokémon que no saben nadar.",
+        "Perla": "Parece una planta acuática. Hace de ferry para los Pokémon que no saben nadar.",
+        "Platino": "Parece una planta acuática. Hace de ferry para los Pokémon que no saben nadar.",
+        "Oro HeartGold": "Como la hoja de su cabeza se hizo muy grande y pesada, empezó a vivir flotando en el agua.",
+        "Plata SoulSilver": "Como la hoja de su cabeza se hizo muy grande y pesada, empezó a vivir flotando en el agua.",
+        "Negro": "Parece una planta acuática. Hace de ferry para los Pokémon que no saben nadar.",
+        "Blanco": "Parece una planta acuática. Hace de ferry para los Pokémon que no saben nadar.",
+        "Negro 2": "Parece una planta acuática. Hace de ferry para los Pokémon que no saben nadar.",
+        "Blanco 2": "Parece una planta acuática. Hace de ferry para los Pokémon que no saben nadar.",
+        "Pokémon X": "Parece una planta acuática. Hace de ferry para los Pokémon que no saben nadar.",
+        "Pokémon Y": "Va buscando agua potable para beber. Si no la encuentra pasado un tiempo, se le marchita la hoja de la cabeza.",
+        "Rubí Omega": "Lotad vive en estanques y lagos, donde permanece flotando. Si se le marchita la ancha hoja que tiene en la cabeza, se debilitará. De vez en cuando se desplaza en busca de agua limpia.",
+        "Zafiro Alfa": "A Lotad se le atribuye el haber vivido antes en tierra. En cualquier caso, se cree que volvió al agua porque la hoja de la cabeza le creció mucho y le empezó a pesar. Ahora vive flotando en el agua.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Va buscando agua potable para beber. Si no la encuentra pasado bastante tiempo, la hoja de la cabeza se le marchita.",
+        "Escudo": "El excesivo tamaño y peso de la hoja que tiene en la cabeza ha propiciado que viva flotando en el agua.",
+        "Diamante Brillante": "Parece una planta acuática. Transporta de una orilla a otra sobre su hoja a los Pokémon que no saben nadar.",
+        "Perla Reluciente": "Parece una planta acuática. Transporta de una orilla a otra sobre su hoja a los Pokémon que no saben nadar.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Lotad",
+            "Nivel 14",
+            "Lombre",
+            " Piedra agua",
+            "Ludicolo"
+        ]
+    ]
+}

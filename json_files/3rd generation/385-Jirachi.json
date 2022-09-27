@@ -1,0 +1,154 @@
+{
+    "dex number": "385",
+    "pokemon name": "Jirachi",
+    "types": [
+        "acero",
+        "psíquico"
+    ],
+    "abilities": [
+        "Dicha"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "100",
+        "atk": "100",
+        "def": "100",
+        "atk esp": "100",
+        "def esp": "100",
+        "speed": "100"
+    },
+    "location": {
+        "Rubí": [
+            "Especial:",
+            "Transferir de Pokémon Channel.",
+            "A través del Disco Bonus en Pokémon Colosseum."
+        ],
+        "Zafiro": [
+            "Especial:",
+            "Transferir de Pokémon Channel.",
+            "A través del Disco Bonus en Pokémon Colosseum."
+        ],
+        "Esmeralda": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Zafiro."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Zafiro."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Zafiro."
+        ],
+        "Diamante": [
+            "Evento: (ver más abajo)",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Evento: (ver más abajo)",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Evento: (ver más abajo)",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Evento: (ver más abajo)",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Evento: (ver más abajo)",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: (ver más abajo)"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: (ver más abajo)"
+        ],
+        "Rubí Omega": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: (ver más abajo)"
+        ],
+        "Zafiro Alfa": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: (ver más abajo)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Evento: (ver más abajo)"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Evento: (ver más abajo)"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Evento: (ver más abajo)"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Evento: (ver más abajo)"
+        ],
+        "Espada": [
+            "Especial: Transferir desde Pokémon HOME"
+        ],
+        "Escudo": [
+            "Especial: Transferir desde Pokémon HOME"
+        ],
+        "Diamante Brillante": [
+            "Regalo: En Pueblo Aromaflor si se tienen datos de guardado de  Pokémon Espada o Pokémon Escudo"
+        ],
+        "Perla Reluciente": [
+            "Regalo: En Pueblo Aromaflor si se tienen datos de guardado de  Pokémon Espada o Pokémon Escudo"
+        ],
+        "Leyendas: Arceus": [
+            "Jirachi no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Cuenta la leyenda que Jirachi hará realidad el deseo que se le escriba en las notas que lleva en la cabeza cuando las lea al despertarse. Si este Pokémon siente peligro, luchará sin haber llegado a despertarse.",
+        "Zafiro": "Jirachi despertará de su letargo de miles de años si se le canta con una voz pura. Dicen que este Pokémon hace realidad cualquier deseo que se tenga.",
+        "Esmeralda": "Dicen que Jirachi hace que se cumplan los deseos. Mientras duerme, una resistente capa cristalina lo envuelve para protegerlo de los enemigos.",
+        "Rojo Fuego": "Dicen que hace realidad cualquier sueño. Permanece despierto una semana por cada mil años de sueño.",
+        "Verde Hoja": "Dicen que hace realidad cualquier sueño. Permanece despierto una semana por cada mil años de sueño.",
+        "Diamante": "Se dice que puede otorgar cualquier deseo durante una semana cada mil años.",
+        "Perla": "Se dice que puede otorgar cualquier deseo durante una semana cada mil años.",
+        "Platino": "Se dice que puede otorgar cualquier deseo durante una semana cada mil años.",
+        "Oro HeartGold": "Desde antaño se dice que concederá los deseos escritos en las notas de su cabeza cuando se despierte.",
+        "Plata SoulSilver": "Desde antaño se dice que concederá los deseos escritos en las notas de su cabeza cuando se despierte.",
+        "Negro": "Se dice que puede otorgar cualquier deseo durante una semana cada mil años.",
+        "Blanco": "Se dice que puede otorgar cualquier deseo durante una semana cada mil años.",
+        "Negro 2": "Se dice que puede otorgar cualquier deseo durante una semana cada mil años.",
+        "Blanco 2": "Se dice que puede otorgar cualquier deseo durante una semana cada mil años.",
+        "Pokémon X": "Desde antaño se dice que concederá los deseos escritos en las notas de su cabeza cuando se despierte.",
+        "Pokémon Y": "Se dice que puede otorgar cualquier deseo durante una semana cada mil años.",
+        "Rubí Omega": "Cuenta la leyenda que Jirachi hará realidad cualquier deseo que se le escriba en las notas que lleva en la cabeza cuando las lea tras salir de su letargo. Si este Pokémon siente peligro, luchará sin haber llegado a despertarse.",
+        "Zafiro Alfa": "Jirachi despertará de su letargo de miles de años si se le canta con una voz pura. Dicen que este Pokémon hace realidad cualquier deseo que se tenga.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "El son de un canto puro y cristalino puede despertarlo de su sueño durante siete días una vez cada mil años.",
+        "Escudo": "Se dice que concederá los deseos escritos en las notas de su cabeza cuando se despierte de su sueño milenario.",
+        "Diamante Brillante": "Se dice que, cada mil años, puede conceder cualquier deseo durante una semana.",
+        "Perla Reluciente": "Se dice que, cada mil años, puede conceder cualquier deseo durante una semana.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Jirachi"
+        ]
+    ]
+}

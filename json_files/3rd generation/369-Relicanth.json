@@ -1,0 +1,149 @@
+{
+    "dex number": "369",
+    "pokemon name": "Relicanth",
+    "types": [
+        "agua",
+        "roca"
+    ],
+    "abilities": [
+        "Cabeza roca",
+        "Nado rápido"
+    ],
+    "hidden abilities": [
+        "Robustez"
+    ],
+    "stats": {
+        "hp": "100",
+        "atk": "90",
+        "def": "130",
+        "atk esp": "45",
+        "def esp": "65",
+        "speed": "55"
+    },
+    "location": {
+        "Rubí": [
+            "Buceando: Rutas 124 y 126"
+        ],
+        "Zafiro": [
+            "Buceando: Rutas 124 y 126"
+        ],
+        "Esmeralda": [
+            "Buceando: Rutas 124 y 126"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pescando, supercaña: Ruta 226",
+            "Parque Compi: Zona marina"
+        ],
+        "Perla": [
+            "Pescando, supercaña: Ruta 226",
+            "Parque Compi: Zona marina"
+        ],
+        "Platino": [
+            "Pescando, supercaña: Ruta 226",
+            "Parque Compi: Zona marina"
+        ],
+        "Oro HeartGold": [
+            "Pescando, supercaña: Ruta 12 (Manada Pokémon)",
+            "Parque Compi: Zona marina"
+        ],
+        "Plata SoulSilver": [
+            "Pescando, supercaña: Ruta 12 (Manada Pokémon)",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Pescando, supercaña: ruta 4",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco": [
+            "Pescando, supercaña: ruta 4",
+            "Dream World: Mar Brillante"
+        ],
+        "Negro 2": [
+            "Pescando, supercaña: ruta 4",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Pescando, supercaña: ruta 4",
+            "Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Pescando, supercaña: Ciudad Relieve y Pueblo Petroglifo"
+        ],
+        "Pokémon Y": [
+            "Pescando, supercaña: Ciudad Relieve y Pueblo Petroglifo"
+        ],
+        "Rubí Omega": [
+            "Buceando: Rutas 107, 124, 126, 128, 129 y 130"
+        ],
+        "Zafiro Alfa": [
+            "Buceando: Rutas 107, 124, 126, 128, 129 y 130"
+        ],
+        "Sol": [
+            "Pescando: Prado de Poni"
+        ],
+        "Luna": [
+            "Pescando: Prado de Poni"
+        ],
+        "Ultrasol": [
+            "Pescando: Arrecife de Poni"
+        ],
+        "Ultraluna": [
+            "Pescando: Arrecife de Poni"
+        ],
+        "Espada": [
+            "Salvaje: Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Pescando con supercaña: Ruta 226."
+        ],
+        "Perla Reluciente": [
+            "Pescando con supercaña: Ruta 226."
+        ],
+        "Leyendas: Arceus": [
+            "Relicanth no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Relicanth pertenece a una especie de Pokémon que lleva millones de años sin cambiar de forma. Este ancestral Pokémon se alimenta de microorganismos por la boca desdentada que tiene.",
+        "Zafiro": "Relicanth pertenece a una rara especie descubierta al explorar el fondo marino. Es grande y está cubierto de toscas y duras escamas, con las que puede soportar la presión del fondo oceánico.",
+        "Esmeralda": "Se llegó a creer que se había extinguido. La especie no ha cambiado de forma desde hace 100 millones de años. Camina por el fondo marino usando las aletas frontales.",
+        "Rojo Fuego": "No ha sufrido ningún cambio desde hace 100 millones de años. Fue descubierto durante una expedición marina.",
+        "Verde Hoja": "No ha sufrido ningún cambio desde hace 100 millones de años. Fue descubierto durante una expedición marina.",
+        "Diamante": "Un Pokémon raro descubierto en una exploración marina. No ha cambiado en más de 100 millones de años.",
+        "Perla": "Un Pokémon raro descubierto en una exploración marina. No ha cambiado en más de 100 millones de años.",
+        "Platino": "Un Pokémon raro descubierto en una exploración marina. No ha cambiado en más de 100 millones de años.",
+        "Oro HeartGold": "Descubierto por casualidad en una exploración marina. Su cuerpo no ha cambiado en 100 millones de años.",
+        "Plata SoulSilver": "Descubierto por casualidad en una exploración marina. Su cuerpo no ha cambiado en 100 millones de años.",
+        "Negro": "Un Pokémon raro descubierto en una exploración marina. No ha cambiado en más de 100 millones de años.",
+        "Blanco": "Un Pokémon raro descubierto en una exploración marina. No ha cambiado en más de 100 millones de años.",
+        "Negro 2": "Un Pokémon raro descubierto en una exploración marina. No ha cambiado en más de 100 millones de años.",
+        "Blanco 2": "Un Pokémon raro descubierto en una exploración marina. No ha cambiado en más de 100 millones de años.",
+        "Pokémon X": "No ha sufrido ningún cambio desde hace 100 millones de años. Fue descubierto durante una expedición marina.",
+        "Pokémon Y": "Un Pokémon raro descubierto en una exploración marina. No ha cambiado en más de 100 millones de años.",
+        "Rubí Omega": "Relicanth pertenece a una especie de Pokémon que lleva millones de años sin cambiar de forma. Este ancestral Pokémon se alimenta de microorganismos por la boca desdentada que tiene.",
+        "Zafiro Alfa": "Relicanth pertenece a una rara especie descubierta al explorar el fondo marino. Es grande y está cubierto de toscas y duras escamas, con las que puede soportar la presión del fondo oceánico.",
+        "Sol": "No ha cambiado de aspecto en 100 millones de años. Su gruesa capa de grasa le permite soportar la presión abisal.",
+        "Luna": "Fue descubierto de forma accidental durante unas exploraciones marinas. No tiene dientes, por lo que se alimenta de microorganismos.",
+        "Ultrasol": "Se creía que esta especie se había extinguido. Le pusieron su nombre, Relicanth, en honor a su descubridor.",
+        "Ultraluna": "La razón por la que su aspecto no ha cambiado un ápice durante 100 millones de años se debe, al parecer, a que es una forma de vida perfecta.",
+        "Espada": "Es capaz de soportar la alta presión del fondo marino gracias a sus escamas, duras como rocas, y a sus vejigas natatorias llenas de grasa.",
+        "Escudo": "Fue descubierto durante una expedición marina. Se lo considera un fósil viviente, pues no ha cambiado en cien millones de años.",
+        "Diamante Brillante": "Un Pokémon poco común descubierto en una exploración marina. No ha cambiado en cien millones de años.",
+        "Perla Reluciente": "Un Pokémon poco común descubierto en una exploración marina. No ha cambiado en cien millones de años.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Relicanth"
+        ]
+    ]
+}

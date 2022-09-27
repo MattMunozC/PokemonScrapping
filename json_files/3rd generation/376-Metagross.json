@@ -1,0 +1,151 @@
+{
+    "dex number": "376",
+    "pokemon name": "Metagross",
+    "types": [
+        "acero",
+        "psíquico"
+    ],
+    "abilities": [
+        "Cuerpo puro"
+    ],
+    "hidden abilities": [
+        "Metal liviano"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "135",
+        "def": "130",
+        "atk esp": "95",
+        "def esp": "90",
+        "speed": "70"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon Colosseum"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon Colosseum"
+        ],
+        "Diamante": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Perla": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Platino": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Negro": [
+            "Salvaje: Boquete Gigante (hierba que se mueve)",
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Blanco": [
+            "Salvaje: Boquete Gigante (hierba que se mueve)",
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Negro 2": [
+            "Salvaje: Boquete Gigante (hierba que se mueve)",
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Boquete Gigante (hierba que se mueve)",
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Sol": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Luna": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Espada": [
+            "Salvaje: Desfiladero Nevado ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Escudo": [
+            "Salvaje: Desfiladero Nevado ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Metang (nivel 45)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Metang (nivel 45)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Metang (nivel 45)."
+        ],
+        "Leyendas: Arceus": [
+            "Metagross no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Metagross tiene cuatro cerebros en total que, combinados, son capaces de resolver cálculos complicados más rápido que el mejor ordenador que haya. Metagross puede flotar en el aire si mete las patas hacia adentro.",
+        "Zafiro": "Metagross es el resultado de la fusión de dos Metang. Cuando caza, acorrala a su presa, sujetándola contra el suelo con el cuerpo. Después, devora a la víctima indefensa con la gran boca del estómago.",
+        "Esmeralda": "Metagross tiene cuatro cerebros unidos por una compleja red neuronal. Esta integración hace que sea más inteligente que un ordenador de última generación.",
+        "Rojo Fuego": "Está compuesto por dos Metang fusionados. Tiene cuatro cerebros que superan en capacidad al mejor de los ordenadores.",
+        "Verde Hoja": "Está compuesto por dos Metang fusionados. Tiene cuatro cerebros que superan en capacidad al mejor de los ordenadores.",
+        "Diamante": "Está formado por varios Metang. Con cuatro cerebros, tiene la inteligencia de un superordenador.",
+        "Perla": "Está formado por varios Metang. Con cuatro cerebros, tiene la inteligencia de un superordenador.",
+        "Platino": "Está formado por varios Metang. Con cuatro cerebros, tiene la inteligencia de un superordenador.",
+        "Oro HeartGold": "Dicen que sus cuatro cerebros superan a cualquier ordenador. Flota plegando sus cuatro patas.",
+        "Plata SoulSilver": "Dicen que sus cuatro cerebros superan a cualquier ordenador. Flota plegando sus cuatro patas.",
+        "Negro": "Está formado por varios Metang. Con cuatro cerebros, tiene la inteligencia de un superordenador.",
+        "Blanco": "Está formado por varios Metang. Con cuatro cerebros, tiene la inteligencia de un superordenador.",
+        "Negro 2": "Gracias a sus cuatro cerebros, es más inteligente que un superordenador y analiza con precisión al enemigo.",
+        "Blanco 2": "Gracias a sus cuatro cerebros, es más inteligente que un superordenador y analiza con precisión al enemigo.",
+        "Pokémon X": "Gracias a sus cuatro cerebros, es más inteligente que un superordenador y analiza con precisión al enemigo.",
+        "Pokémon Y": "Está formado por varios Metang. Con cuatro cerebros, tiene la inteligencia de un superordenador.",
+        "Rubí Omega": "Metagross tiene cuatro cerebros en total que, combinados, son capaces de resolver cálculos complicados más rápido que el mejor ordenador que haya. Metagross puede flotar en el aire si mete las patas hacia adentro.",
+        "Zafiro Alfa": "Metagross es el resultado de la fusión de dos Metang. Cuando caza, acorrala a su presa, sujetándola contra el suelo con el cuerpo. Después, devora a la víctima indefensa con la gran boca del estómago.",
+        "Sol": "\nMetagross: Con sus cuatro garras y su descomunal cuerpo aprisiona a sus presas para luego devorarlas con sus dientes.\nMega-Metagross: Este Pokémon es el resultado de la combinación entre un Metagross, un Metang y dos Beldum.",
+        "Luna": "\nMetagross: Metagross es el resultado de la fusión de dos Metang. Con sus cuatro cerebros funcionando en paralelo realiza cualquier cálculo al instante.\nMega-Metagross: Cuando megaevoluciona, se vuelve frío y despiadado, y no le importan los medios con tal de conseguir la victoria.",
+        "Ultrasol": "\nMetagross: Se enorgullece tanto de su poder psíquico como de su gran fuerza. Agarra a sus presas con las cuatro extremidades metálicas y las inmoviliza.\nMega-Metagross: Tras la megaevolución, su inteligencia aumenta aún más, lo que le lleva a luchar con tal atrocidad que hasta da miedo mirar.",
+        "Ultraluna": "\nMetagross: Analiza al enemigo con más precisión incluso que un superordenador y, sin inmutarse, lo pone contra las cuerdas.\nMega-Metagross: Si prevé su derrota, atrapa al oponente con las garras de sus extremidades y provoca una gran explosión.",
+        "Espada": "Su fuerza magnética se potencia en temperaturas bajo cero, por lo que los Metagross que habitan en montañas nevadas son especialmente vivaces.",
+        "Escudo": "Formado a partir de la unión de dos Metang. Emplea su inteligencia, comparable a la de un superordenador, para derrotar a sus rivales.",
+        "Diamante Brillante": "Está formado por varios Metang. Con cuatro cerebros, tiene la inteligencia de un superordenador.",
+        "Perla Reluciente": "Está formado por varios Metang. Con cuatro cerebros, tiene la inteligencia de un superordenador.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Beldum",
+            "Nivel 20",
+            "Metang",
+            "Nivel 45",
+            "Metagross"
+        ]
+    ]
+}

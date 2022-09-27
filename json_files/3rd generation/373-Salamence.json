@@ -1,0 +1,153 @@
+{
+    "dex number": "373",
+    "pokemon name": "Salamence",
+    "types": [
+        "dragón",
+        "volador"
+    ],
+    "abilities": [
+        "Intimidación"
+    ],
+    "hidden abilities": [
+        "Autoestima"
+    ],
+    "stats": {
+        "hp": "95",
+        "atk": "135",
+        "def": "80",
+        "atk esp": "110",
+        "def esp": "80",
+        "speed": "100"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla o Pokémon Platino",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Evolucionar: a Shelgon (nivel 50)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Evolucionar: a Shelgon (nivel 50)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Shelgon (nivel 50)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Shelgon (nivel 50)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Blanco": [
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Sol": [
+            " Salvaje: Ruta 3 (como refuerzo de Bagon)",
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Luna": [
+            " Salvaje: Ruta 3 (como refuerzo de Bagon)",
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Ultrasol": [
+            " Salvaje: Ruta 3 (como refuerzo de Bagon)",
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Ultraluna": [
+            " Salvaje: Ruta 3 (como refuerzo de Bagon)",
+            "Evolucionar: a Shelgon (nivel 50)"
+        ],
+        "Espada": [
+            "Salvaje: Túnel Ascensión , Senda Blancacima ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Shelgon (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Salamence no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Salamence surgió del profundo deseo de tener alas. Dicen que este fuerte deseo fue lo que causó la repentina mutación de las células y el crecimiento de las alas.",
+        "Zafiro": "Al evolucionar Shelgon y convertirse por fin en Salamence, ve cumplido el sueño de su vida de tener alas. Para expresar su alegría, Salamence vuela y revolotea por el cielo al tiempo que lanza llamas por la boca.",
+        "Esmeralda": "Después de muchos años, su estructura celular sufrió una mutación repentina y le crecieron alas. Cuando se enfada, no se atiene a razones y entra en cólera.",
+        "Rojo Fuego": "Si se enfada, no hay forma de calmarlo; lo destruye todo lanzando arañazos y llamas.",
+        "Verde Hoja": "Si se enfada, no hay forma de calmarlo; lo destruye todo lanzando arañazos y llamas.",
+        "Diamante": "Siempre soñó con volar, por lo que su estructura celular cambió y le crecieron alas.",
+        "Perla": "Siempre soñó con volar, por lo que su estructura celular cambió y le crecieron alas.",
+        "Platino": "Siempre soñó con volar, por lo que su estructura celular cambió y le crecieron alas.",
+        "Oro HeartGold": "Si se enfada, no hay forma de que se calme. Echa a volar e incendia campos y montañas desde el cielo.",
+        "Plata SoulSilver": "Si se enfada, no hay forma de que se calme. Echa a volar e incendia campos y montañas desde el cielo.",
+        "Negro": "Siempre soñó con volar, por lo que su estructura celular cambió y le crecieron alas.",
+        "Blanco": "Siempre soñó con volar, por lo que su estructura celular cambió y le crecieron alas.",
+        "Negro 2": "Siempre soñó con volar, por lo que su estructura celular cambió y le crecieron alas.",
+        "Blanco 2": "Siempre soñó con volar, por lo que su estructura celular cambió y le crecieron alas.",
+        "Pokémon X": "Si se enfada, no hay forma de calmarlo; lo destruye todo lanzando arañazos y llamas.",
+        "Pokémon Y": "Si se enfada, no hay forma de que se calme. Echa a volar e incendia campos y montañas desde el cielo.",
+        "Rubí Omega": "Salamence surgió del profundo deseo de tener alas. Dicen que este fuerte deseo fue lo que causó la repentina mutación de las células y el crecimiento de las alas.",
+        "Zafiro Alfa": "Al evolucionar Shelgon y convertirse por fin en Salamence, ve cumplido el sueño de su vida de tener alas. Para expresar su alegría, Salamence vuela y revolotea por el cielo al tiempo que lanza llamas por la boca.",
+        "Sol": "\nSalamence: Cuando se enfada, pierde el control y destruye todo lo que está a su alcance. Solo se calma cuando se queda sin fuerzas.\nMega-Salamence: Si algo le obstruye el camino, lo corta por la mitad con sus alas afiladas como cuchillas y prosigue el vuelo.",
+        "Luna": "\nSalamence: Feliz de haber desarrollado al fin sus alas y de poder volar por el cielo, calcina con sus llamas todos los campos que sobrevuela.\nMega-Salamence: Se vuelve tan violento que incluso puede llegar a atacar a su entrenador. Su silueta recuerda a una luna creciente de color carmesí.",
+        "Ultrasol": "\nSalamence: Ahora que por fin puede volar, surca los cielos con una sonrisa en el rostro. No pisa tierra firme a no ser que tenga que dormir o esté exhausto.\nMega-Salamence: La energía de la megaevolución hace que sus preciadas alas se adhieran de forma anormal, lo que le provoca estrés y lo vuelve agresivo.",
+        "Ultraluna": "\nSalamence: Su fuerte y firme deseo de volar provocó una mutación repentina de su estructura celular que le permitió obtener las alas que tanto ansiaba.\nMega-Salamence: Introduce las patas delanteras en la parte frontal de su coraza para surcar el aire a gran velocidad incluso en las zonas más difíciles.",
+        "Espada": "Un Pokémon poco común que, tras desear con todas sus fuerzas poder volar, consiguió un cuerpo alado al evolucionar.",
+        "Escudo": "Feliz de ver cumplido su deseo, surca los cielos con buen ánimo, pero, si se enfada, se vuelve violento e incontrolable.",
+        "Diamante Brillante": "Su fuerte deseo de volar provocó una mutación de su estructura celular que hizo que le crecieran alas.",
+        "Perla Reluciente": "Su fuerte deseo de volar provocó una mutación de su estructura celular que hizo que le crecieran alas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Bagon",
+            "Nivel 30",
+            "Shelgon",
+            "Nivel 50",
+            "Salamence"
+        ]
+    ]
+}

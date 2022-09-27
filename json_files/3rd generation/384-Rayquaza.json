@@ -1,0 +1,146 @@
+{
+    "dex number": "384",
+    "pokemon name": "Rayquaza",
+    "types": [
+        "dragón",
+        "volador"
+    ],
+    "abilities": [
+        "Bucle aire"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "105",
+        "atk": "150",
+        "def": "90",
+        "atk esp": "150",
+        "def esp": "90",
+        "speed": "95"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: En el Pilar Celeste (solo uno) después de vencer en la Liga Pokémon (se necesita la bici carrera para llegar hasta él)."
+        ],
+        "Zafiro": [
+            "Salvaje: En el Pilar Celeste (solo uno) después de vencer en la Liga Pokémon (se necesita la bici carrera para llegar hasta él)."
+        ],
+        "Esmeralda": [
+            "Salvaje: En el Pilar Celeste (solo uno) tras haber separado a Groudon y Kyogre en Arrecípolis (se necesita la bici carrera para llegar hasta él)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: En la Torre Oculta (solo uno). Se necesita la esfera verde que entrega el profesor Oak llevando a un Groudon y un Kyogre originarios de Pokémon Oro HeartGold y Pokémon Plata SoulSilver en el equipo.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: En la Torre Oculta (solo uno). Se necesita la esfera verde que entrega el profesor Oak llevando a un Groudon y un Kyogre originarios de Pokémon Oro HeartGold y Pokémon Plata SoulSilver en el equipo.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir de Pokémon Oro HeartGold o Pokémon Plata SoulSilver."
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir de Pokémon Oro HeartGold o Pokémon Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "PokéTransfer: Transferir de Pokémon Oro HeartGold o Pokémon Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "PokéTransfer: Transferir de Pokémon Oro HeartGold o Pokémon Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Salvaje: En el Pilar Celeste durante el Episodio Delta (solo uno)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: En el Pilar Celeste durante el Episodio Delta (solo uno)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo con Kyogre y Groudon en el equipo (solo uno)."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo con Kyogre y Groudon en el equipo (solo uno)."
+        ],
+        "Espada": [
+            "Especial: Aleatoriamente en una Aventura Dinamax."
+        ],
+        "Escudo": [
+            "Especial: Aleatoriamente en una Aventura Dinamax."
+        ],
+        "Diamante Brillante": [
+            "Especial: Parque Hansa (Sala del Cielo)."
+        ],
+        "Perla Reluciente": [
+            "Especial: Parque Hansa (Sala del Cielo)."
+        ],
+        "Leyendas: Arceus": [
+            "Rayquaza no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Rayquaza vivió durante cientos de millones de años en la capa de ozono sin bajar a la tierra ni una vez. Según parece, este Pokémon se alimentaba del agua y las partículas que había en la atmósfera.",
+        "Zafiro": "Dicen que Rayquaza ha vivido más allá de las nubes, en la capa de ozono, durante cientos de millones de años. Por este motivo nunca se había tenido constancia de su existencia.",
+        "Esmeralda": "Este Pokémon vuela sin parar por la capa de ozono. Dicen que, si Kyogre y Groudon fueran a luchar, bajaría a tierra firme.",
+        "Rojo Fuego": "Ha vivido durante cientos de millones de años en la capa de ozono. Cuando vuela, parece un meteorito.",
+        "Verde Hoja": "Ha vivido durante cientos de millones de años en la capa de ozono. Cuando vuela, parece un meteorito.",
+        "Diamante": "Vive en la capa de ozono sobre las nubes y no puede ser visto desde el suelo.",
+        "Perla": "Vive en la capa de ozono sobre las nubes y no puede ser visto desde el suelo.",
+        "Platino": "Vive en la capa de ozono sobre las nubes y no puede ser visto desde el suelo.",
+        "Oro HeartGold": "Como hasta hace poco volaba a la altura de la capa de ozono, nadie lo había visto nunca.",
+        "Plata SoulSilver": "Como hasta hace poco volaba a la altura de la capa de ozono, nadie lo había visto nunca.",
+        "Negro": "Vive en la capa de ozono sobre las nubes y no puede ser visto desde el suelo.",
+        "Blanco": "Vive en la capa de ozono sobre las nubes y no puede ser visto desde el suelo.",
+        "Negro 2": "Vive en la capa de ozono sobre las nubes y no puede ser visto desde el suelo.",
+        "Blanco 2": "Vive en la capa de ozono sobre las nubes y no puede ser visto desde el suelo.",
+        "Pokémon X": "Vive en la capa de ozono sobre las nubes y no puede ser visto desde el suelo.",
+        "Pokémon Y": "Como hasta hace poco volaba a la altura de la capa de ozono, nadie lo había visto nunca.",
+        "Rubí Omega": "Dicen que Rayquaza ha vivido durante millones de años. Las leyendas cuentan que puso fin al continuo enfrentamiento entre Groudon y Kyogre.",
+        "Zafiro Alfa": "Rayquaza ha vivido en la capa de ozono durante millones de años, alimentándose de meteoritos. La energía de estos meteoritos se acumula en su cuerpo y le permite megaevolucionar.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Vive en la capa de ozono, mucho más allá de las nubes, por lo que no es posible avistarlo desde el suelo.",
+        "Perla Reluciente": "Vive en la capa de ozono, mucho más allá de las nubes, por lo que no es posible avistarlo desde el suelo.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Rayquaza"
+        ]
+    ]
+}

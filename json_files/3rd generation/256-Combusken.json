@@ -1,0 +1,154 @@
+{
+    "dex number": "256",
+    "pokemon name": "Combusken",
+    "types": [
+        "fuego",
+        "lucha"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Impulso"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "85",
+        "def": "60",
+        "atk esp": "85",
+        "def esp": "60",
+        "speed": "55"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Torchic (nivel 16)."
+        ],
+        "Zafiro": [
+            "Evolucionar: a Torchic (nivel 16)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Torchic (nivel 16)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Torchic (nivel 16).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Torchic (nivel 16).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Evolucionar: a Torchic (nivel 16).",
+            "Pokétransfer: Transferir de Oro HeartGold o Plata Soul Silver."
+        ],
+        "Blanco": [
+            "Evolucionar: a Torchic (nivel 16).",
+            "Pokétransfer: Transferir de Oro HeartGold o Plata Soul Silver."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Torchic (nivel 16).",
+            "Pokétransfer: Transferir de Oro HeartGold o Plata Soul Silver."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Torchic (nivel 16).",
+            "Pokétransfer: Transferir de Oro HeartGold o Plata Soul Silver."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Torchic (nivel 16).",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Torchic (nivel 16).",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Torchic (nivel 16)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Torchic (nivel 16)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Escáner insular: Ruta 8 (martes)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Ruta 8 (martes)"
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Torchic (nivel 16)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Torchic (nivel 16)."
+        ],
+        "Leyendas: Arceus": [
+            "Combusken no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Combusken fortalece las piernas corriendo por llanos y montañas. Este Pokémon tiene en las extremidades inferiores tanto fuerza como velocidad. Puede dar hasta diez patadas por segundo.",
+        "Zafiro": "Combusken lucha haciendo uso de las abrasadoras llamas que expulsa por el pico y de unas patadas fulminantes. Este Pokémon emite un sonido muy fuerte y molesto.",
+        "Esmeralda": "Propina hasta diez patadas por segundo. Tiene un instinto de lucha tan fuerte que no deja de pelear hasta que el rival se rinde.",
+        "Rojo Fuego": "Para entrar en un estado de alta concentración se pone a chillar. Da unas patadas demoledoras.",
+        "Verde Hoja": "Para entrar en un estado de alta concentración se pone a chillar. Da unas patadas demoledoras.",
+        "Diamante": "Su habilidad le permite dar diez patadas por segundo. Lanza potentes gritos para intimidar.",
+        "Perla": "Su habilidad le permite dar diez patadas por segundo. Lanza potentes gritos para intimidar.",
+        "Platino": "Su habilidad le permite dar diez patadas por segundo. Lanza potentes gritos para intimidar.",
+        "Oro HeartGold": "Al pelear, el fuego de su interior se intensifica. Es capaz de propinar unas patadas demoledoras",
+        "Plata SoulSilver": "Al pelear, el fuego de su interior se intensifica. Es capaz de propinar unas patadas demoledoras",
+        "Negro": "Su habilidad le permite dar diez patadas por segundo. Lanza potentes gritos para intimidar.",
+        "Blanco": "Su habilidad le permite dar diez patadas por segundo. Lanza potentes gritos para intimidar.",
+        "Negro 2": "Su habilidad le permite dar diez patadas por segundo. Lanza potentes gritos para intimidar.",
+        "Blanco 2": "Su habilidad le permite dar diez patadas por segundo. Lanza potentes gritos para intimidar.",
+        "Pokémon X": "Su habilidad le permite dar diez patadas por segundo. Lanza potentes gritos para intimidar.",
+        "Pokémon Y": "Al pelear, el fuego de su interior se intensifica. Es capaz de propinar unas patadas demoledoras.",
+        "Rubí Omega": "Combusken fortalece las piernas corriendo por llanos y montañas. Este Pokémon tiene en las extremidades inferiores tanto fuerza como velocidad. Puede dar hasta diez patadas por segundo.",
+        "Zafiro Alfa": "Combusken lucha haciendo uso de las abrasadoras llamas que expulsa por el pico y de unas patadas fulminantes. Este Pokémon emite un sonido muy fuerte y molesto.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Su gran habilidad le permite propinar diez patadas por segundo. Profiere potentes gritos para intimidar.",
+        "Perla Reluciente": "Su gran habilidad le permite propinar diez patadas por segundo. Profiere potentes gritos para intimidar.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Torchic",
+            "Nivel 16",
+            "Combusken",
+            "Nivel 36",
+            "Blaziken"
+        ]
+    ]
+}

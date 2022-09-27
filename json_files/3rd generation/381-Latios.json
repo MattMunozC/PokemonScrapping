@@ -1,0 +1,157 @@
+{
+    "dex number": "381",
+    "pokemon name": "Latios",
+    "types": [
+        "dragón",
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "80",
+        "atk": "90",
+        "def": "80",
+        "atk esp": "130",
+        "def esp": "110",
+        "speed": "110"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Pokémon errante, por las rutas de Hoenn tras derrotar al Alto Mando, por la hierba y haciendo surf (solo uno)",
+            "Evento: es uno de los 10 Pokémon repartidos en Moviplaya 2006"
+        ],
+        "Zafiro": [
+            "Salvaje: Isla del Sur (solo uno). Se necesita el Ticket Eón para viajar a Isla del Sur",
+            "Evento: es uno de los 10 Pokémon repartidos en Moviplaya 2006, al nivel 70",
+            "Intercambiar: de Pokémon Rubí o Esmeralda."
+        ],
+        "Esmeralda": [
+            "Salvaje, Pokémon errante: Al responder azul a la madre tras haber superado la Liga, Latios aparecerá salvaje por las rutas de Hoenn al nivel 40. Al responder rojo, Latios aparecerá en la Isla del Sur (se necesita el ticket eón)",
+            "Evento: es uno de los 10 Pokémon repartidos en Moviplaya 2006"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda",
+            "Evento: es uno de los 10 Pokémon repartidos en Moviplaya 2006"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda",
+            "Evento: es uno de los 10 Pokémon repartidos en Moviplaya 2006"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Ciudad Plateada, se necesita el misticristal (solo uno)",
+            "Intercambiar: de Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, Pokémon errante: Por las rutas de Kanto tras haber conseguido la Pokédex Nacional y haber hablado con Máximo Peñas al salir del Club de Fans de Pokémon de Ciudad Carmín (solo uno)",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Negro 2": [
+            "Salvaje: En el Solar de los Sueños (solo uno)"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir desde Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro 2",
+            "Intercambiar: de Pokémon Rubí Omega"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro 2",
+            "Intercambiar: de Pokémon Rubí Omega"
+        ],
+        "Rubí Omega": [
+            "Especial: Isla del Sur, se une al equipo del jugador tras derrotar a Carola (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Isla del Sur, se necesita el ticket eón",
+            "Intercambiar: de Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul (solo uno)."
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Especial: Aleatoriamente en una Aventura Dinamax."
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada."
+        ],
+        "Diamante Brillante": [
+            "Especial: Parque Hansa (Sala de la Empatía)."
+        ],
+        "Perla Reluciente": [
+            "Especial: Parque Hansa (Sala de la Empatía)."
+        ],
+        "Leyendas: Arceus": [
+            "Latios no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Latios tiene la habilidad de hacer que su rival vea algo que él ha visto o imaginado. Este Pokémon es muy inteligente. Es capaz de entender el lenguaje humano.",
+        "Zafiro": "Latios sólo le abre el corazón a los entrenadores compasivos. A la hora de volar, este Pokémon pliega las patas delanteras para minimizar la resistencia al aire y supera en velocidad a un avión en reacción.",
+        "Esmeralda": "Incluso oculto, detecta la ubicación de los demás y capta sus emociones telepáticamente. Es tan inteligente que entiende el lenguaje humano.",
+        "Rojo Fuego": "Es muy dócil y no le gusta nada combatir. Para ganar velocidad cuando vuela, pliega las patas delanteras.",
+        "Verde Hoja": "Es muy dócil y no le gusta nada combatir. Para ganar velocidad cuando vuela, pliega las patas delanteras.",
+        "Diamante": "Es un Pokémon muy inteligente. Puede adelantar a aviones a reacción plegando las alas.",
+        "Perla": "Es un Pokémon muy inteligente. Puede adelantar a aviones a reacción plegando las alas.",
+        "Platino": "Es un Pokémon muy inteligente. Puede adelantar a aviones a reacción plegando las alas.",
+        "Oro HeartGold": "Es muy inteligente y entiende el lenguaje humano. Es un Pokémon muy dócil y no le gusta nada combatir.",
+        "Plata SoulSilver": "Es muy inteligente y entiende el lenguaje humano. Es un Pokémon muy dócil y no le gusta nada combatir.",
+        "Negro": "Es un Pokémon muy inteligente. Puede adelantar a aviones a reacción plegando las alas.",
+        "Blanco": "Es un Pokémon muy inteligente. Puede adelantar a aviones a reacción plegando las alas.",
+        "Negro 2": "Es un Pokémon muy inteligente. Puede adelantar a aviones a reacción plegando las alas.",
+        "Blanco 2": "Es un Pokémon muy inteligente. Puede adelantar a aviones a reacción plegando las alas.",
+        "Pokémon X": "Es un Pokémon muy inteligente. Puede adelantar a aviones a reacción plegando las alas.",
+        "Pokémon Y": "Es muy inteligente y entiende el lenguaje humano. Es un Pokémon muy dócil y no le gusta nada combatir.",
+        "Rubí Omega": "Latios tiene la habilidad de hacer que los demás vean algo que él ha visto o imaginado. Este Pokémon es muy inteligente. Es capaz de entender el lenguaje humano.",
+        "Zafiro Alfa": "Latios sólo le abre el corazón a los entrenadores compasivos. A la hora de volar, este Pokémon pliega las patas delanteras para minimizar la resistencia al aire y supera en velocidad a un avión en reacción.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Un Pokémon muy inteligente, capaz de adelantar a aviones a reacción plegando las patas delanteras.",
+        "Perla Reluciente": "Un Pokémon muy inteligente, capaz de adelantar a aviones a reacción plegando las patas delanteras.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Latios"
+        ]
+    ]
+}

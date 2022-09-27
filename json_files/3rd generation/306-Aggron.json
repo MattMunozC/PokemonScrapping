@@ -1,0 +1,155 @@
+{
+    "dex number": "306",
+    "pokemon name": "Aggron",
+    "types": [
+        "acero",
+        "roca"
+    ],
+    "abilities": [
+        "Robustez",
+        "Cabeza roca"
+    ],
+    "hidden abilities": [
+        "Metal pesado"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "110",
+        "def": "180",
+        "atk esp": "60",
+        "def esp": "60",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Lairon (nivel 42)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Lairon (nivel 42)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Lairon (nivel 42)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Evolucionar: a Lairon (nivel 42)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Evolucionar: a Lairon (nivel 42)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Lairon (nivel 42)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Lairon (nivel 42)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Evolucionar: a Lairon (nivel 42)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Lairon (nivel 42)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Lairon (nivel 42)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Lairon (nivel 42)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Lairon (nivel 42)"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon X, Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Lairon (nivel 42)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Lairon (nivel 42)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Escáner insular: Llanura de Poni (lunes)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Llanura de Poni (lunes)"
+        ],
+        "Espada": [
+            "Salvaje: Gruta del Lago ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Lairon (nivel 42)"
+        ],
+        "Escudo": [
+            "Salvaje: Gruta del Lago ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Lairon (nivel 42)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Lairon (nivel 42)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Lairon (nivel 42)."
+        ],
+        "Leyendas: Arceus": [
+            "Aggron no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Aggron marca una montaña entera como su territorio y acaba con todo lo que pueda ponerlo en peligro. Este Pokémon está continuamente patrullando la zona en defensa de su terreno.",
+        "Zafiro": "Aggron es increíblemente cuidadoso con su hábitat. Si su montaña sufre algún corrimiento de tierras o algún incendio, cargará con tierra nueva, plantará árboles y restaurará con cuidado el terreno.",
+        "Esmeralda": "Los cuernos de hierro que tiene le crecen poco a poco. Sirven para determinar la edad que tiene. Luce los desperfectos de su coraza en recuerdo de sus combates.",
+        "Rojo Fuego": "Hace de toda una montaña su territorio y machaca a todo aquel que lo invada.",
+        "Verde Hoja": "Hace de toda una montaña su territorio y machaca a todo aquel que lo invada.",
+        "Diamante": "Mientras busca hierro para comer, excava túneles en la roca con sus potentes cuernos de acero.",
+        "Perla": "Mientras busca hierro para comer, excava túneles en la roca con sus potentes cuernos de acero.",
+        "Platino": "Mientras busca hierro para comer, excava túneles en la roca con sus potentes cuernos de acero.",
+        "Oro HeartGold": "Se puede calcular su edad por la longitud de sus cuernos de acero. Su territorio es toda una montaña.",
+        "Plata SoulSilver": "Se puede calcular su edad por la longitud de sus cuernos de acero. Su territorio es toda una montaña.",
+        "Negro": "Mientras busca hierro para comer, excava túneles en la roca con sus potentes cuernos de acero.",
+        "Blanco": "Mientras busca hierro para comer, excava túneles en la roca con sus potentes cuernos de acero.",
+        "Negro 2": "Hacen de toda una montaña su territorio. Cuantas más cicatrices tienen, más curtidos en disputas. ¡Mucha atención!",
+        "Blanco 2": "Hacen de toda una montaña su territorio. Cuantas más cicatrices tienen, más curtidos en disputas. ¡Mucha atención!",
+        "Pokémon X": "Hacen de toda una montaña su territorio. Cuantas más cicatrices tienen, más curtidos en disputas. ¡Mucha atención!",
+        "Pokémon Y": "Mientras busca hierro para comer, excava túneles en la roca con sus potentes cuernos de acero.",
+        "Rubí Omega": "Aggron marca una montaña entera como su territorio y acaba con todo lo que pueda ponerlo en peligro. Este Pokémon está continuamente patrullando la zona en defensa de su terreno.",
+        "Zafiro Alfa": "Aggron es increíblemente cuidadoso con su hábitat. Si su montaña sufre algún corrimiento de tierras o algún incendio, cargará con tierra nueva, plantará árboles y restaurará con cuidado el terreno.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Sus cuernos duros y afilados pueden perforar hasta las planchas de hierro más gruesas. Derriba a sus rivales cargando contra ellos.",
+        "Escudo": "En la antigüedad, hubo un monarca que llevaba un casco hecho a imagen de Aggron para que le otorgase fuerza.",
+        "Diamante Brillante": "Mientras busca hierro para comer, excava túneles en la roca con sus potentes cuernos de acero.",
+        "Perla Reluciente": "Mientras busca hierro para comer, excava túneles en la roca con sus potentes cuernos de acero.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Aron",
+            "Nivel 32",
+            "Lairon",
+            "Nivel 42",
+            "Aggron"
+        ]
+    ]
+}

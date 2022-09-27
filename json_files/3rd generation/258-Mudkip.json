@@ -1,0 +1,151 @@
+{
+    "dex number": "258",
+    "pokemon name": "Mudkip",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Humedad"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "70",
+        "def": "50",
+        "atk esp": "50",
+        "def esp": "50",
+        "speed": "40"
+    },
+    "location": {
+        "Rubí": [
+            "Especial: Es uno de los posibles Pokémon iniciales que entrega el Profesor Abedul al inicio de la aventura en la Ruta 101 (solo uno)"
+        ],
+        "Zafiro": [
+            "Especial: Es uno de los posibles Pokémon iniciales que entrega el Profesor Abedul al inicio de la aventura en la Ruta 101 (solo uno)"
+        ],
+        "Esmeralda": [
+            "Especial: Es uno de los posibles Pokémon iniciales que entrega el Profesor Abedul al inicio de la aventura en la Ruta 101 (solo uno)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Oro HeartGold": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir Máximo Peñas en Silph S. A. tras conseguir las 16 medallas de Johto y Kanto y vencer a Rojo (solo uno)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Plata SoulSilver": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir Máximo Peñas en Silph S. A. tras conseguir las 16 medallas de Johto y Kanto y vencer a Rojo (solo uno)",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Especial: Es uno de los posibles Pokémon iniciales que entrega el Profesor Abedul al inicio de la aventura en la Ruta 101 (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Es uno de los posibles Pokémon iniciales que entrega el Profesor Abedul al inicio de la aventura en la Ruta 101 (solo uno)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Marshtomp o Swampert"
+        ],
+        "Ultraluna": [
+            "Criar: de Marshtomp o Swampert"
+        ],
+        "Espada": [
+            "Criar: de Marshtomp o Swampert"
+        ],
+        "Escudo": [
+            "Criar: de Marshtomp o Swampert"
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Mudkip no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "La aleta que tiene Mudkip en la cabeza actúa de radar y es muy sensible. Puede captar movimientos que se produzcan en el agua y en el aire, y todo lo que ocurra a su alrededor, sin necesidad de abrir los ojos.",
+        "Zafiro": "En el agua, Mudkip usa las branquias que tiene en los mofletes para respirar. Cuando tiene que enfrentarse a una situación delicada en combate, desata una fuerza asombrosa con la que puede destruir rocas incluso mayores que él.",
+        "Esmeralda": "En tierra firme, puede levantar grandes cantos rodados haciendo palanca con sus cuatro patas. Duerme enterrado en el suelo, cerca del agua.",
+        "Rojo Fuego": "Tiene una larga cola que le propulsa por el agua con mucha potencia. A pesar de ser pequeño, tiene mucha fuerza.",
+        "Verde Hoja": "Tiene una larga cola que le propulsa por el agua con mucha potencia. A pesar de ser pequeño, tiene mucha fuerza.",
+        "Diamante": "La aleta de su cabeza detecta las corrientes de agua y los peligros. Tiene fuerza para levantar rocas.",
+        "Perla": "La aleta de su cabeza detecta las corrientes de agua y los peligros. Tiene fuerza para levantar rocas.",
+        "Platino": "La aleta de su cabeza detecta las corrientes de agua y los peligros. Tiene fuerza para levantar rocas.",
+        "Oro HeartGold": "Puede reducir a añicos grandes rocas. Descansa enterrado en el lodo del lecho de los ríos.",
+        "Plata SoulSilver": "Puede reducir a añicos grandes rocas. Descansa enterrado en el lodo del lecho de los ríos.",
+        "Negro": "La aleta de su cabeza detecta las corrientes de agua y los peligros. Tiene fuerza para levantar rocas.",
+        "Blanco": "La aleta de su cabeza detecta las corrientes de agua y los peligros. Tiene fuerza para levantar rocas.",
+        "Negro 2": "La aleta de su cabeza detecta las corrientes de agua y los peligros. Tiene fuerza para levantar rocas.",
+        "Blanco 2": "La aleta de su cabeza detecta las corrientes de agua y los peligros. Tiene fuerza para levantar rocas.",
+        "Pokémon X": "Tiene una larga cola que le propulsa por el agua con mucha potencia. A pesar de ser pequeño, tiene mucha fuerza.",
+        "Pokémon Y": "La aleta de su cabeza detecta las corrientes de agua y los peligros. Tiene fuerza para levantar rocas.",
+        "Rubí Omega": "La aleta que tiene Mudkip en la cabeza actúa de radar y es muy sensible. Puede captar movimientos que se produzcan en el agua y en el aire, y todo lo que ocurra a su alrededor, sin necesidad de abrir los ojos.",
+        "Zafiro Alfa": "En el agua, Mudkip usa las branquias que tiene en los mofletes para respirar. Cuando tiene que enfrentarse a una situación delicada en combate, desata una fuerza asombrosa con la que puede destruir rocas incluso mayores que él.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "La aleta de la cabeza le permite analizar las corrientes de agua en busca de peligros. Tiene la fuerza necesaria para levantar rocas.",
+        "Perla Reluciente": "La aleta de la cabeza le permite analizar las corrientes de agua en busca de peligros. Tiene la fuerza necesaria para levantar rocas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Mudkip",
+            "Nivel 16",
+            "Marshtomp",
+            "Nivel 36",
+            "Swampert"
+        ]
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "dex number": "312",
+    "pokemon name": "Minun",
+    "types": [
+        "eléctrico"
+    ],
+    "abilities": [
+        "Menos"
+    ],
+    "hidden abilities": [
+        "Absorbe electricidad"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "40",
+        "def": "50",
+        "atk esp": "75",
+        "def esp": "85",
+        "speed": "95"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: ruta 110."
+        ],
+        "Zafiro": [
+            "Salvaje: ruta 110."
+        ],
+        "Esmeralda": [
+            "Salvaje: ruta 110."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: Jardín Trofeo.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Salvaje: Jardín Trofeo.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Salvaje: Jardín Trofeo.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Hoenn: rutas 1, 2, 3, 5, 7, 8, 11, 14, 15, 16, 17, 18, 29, 33, 36, 37, 38, 39, 46 y 48, Parque Nacional.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Hoenn: rutas 1, 2, 3, 5, 7, 8, 11, 14, 15, 16, 17, 18, 29, 33, 36, 37, 38, 39, 46 y 48, Parque Nacional.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco": [
+            "Manada: ruta 6.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco 2",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            "Manada: Ruta 6",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 5."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 5."
+        ],
+        "Rubí Omega": [
+            "Salvaje: ruta 110."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: ruta 110."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Minun no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Minun no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Jardín Trofeo."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Jardín Trofeo."
+        ],
+        "Leyendas: Arceus": [
+            "Minun no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Minun está más preocupado de animar a sus compañeros de equipo que de su propia seguridad. Para animar a los miembros de su grupo, crea un cortocircuito en su interior y libera un chisporroteo espectacular.",
+        "Zafiro": "Minun empieza a echar chispas cuando está animando a su compañero en pleno combate. Si su compañero está en peligro, el chisporroteo aumenta su intensidad por momentos.",
+        "Esmeralda": "En una reunión de estudiosos de Pokémon, se anunció que la exposición simultánea a la electricidad de un Plusle y de un Minun mejora la circulación y da más vitalidad.",
+        "Rojo Fuego": "Odia el agua. Si llueve, se protege bajo los aleros de las casas. Con las chispas que suelta, hace alegres pompones.",
+        "Verde Hoja": "Odia el agua. Si llueve, se protege bajo los aleros de las casas. Con las chispas que suelta, hace alegres pompones.",
+        "Diamante": "Le gusta animar a sus amigos. Si pierden, su cuerpo suelta cada vez más chispas.",
+        "Perla": "Le gusta animar a sus amigos. Si pierden, su cuerpo suelta cada vez más chispas.",
+        "Platino": "Le gusta animar a sus amigos. Si pierden, su cuerpo suelta cada vez más chispas.",
+        "Oro HeartGold": "La electricidad de Minun y Plusle es buena para la circulación y para desentumecer músculos.",
+        "Plata SoulSilver": "La electricidad de Minun y Plusle es buena para la circulación y para desentumecer músculos.",
+        "Negro": "Le gusta animar a sus amigos. Si pierden, su cuerpo suelta cada vez más chispas.",
+        "Blanco": "Le gusta animar a sus amigos. Si pierden, su cuerpo suelta cada vez más chispas.",
+        "Negro 2": "Le gusta animar a sus amigos. Si pierden, su cuerpo suelta cada vez más chispas.",
+        "Blanco 2": "Le gusta animar a sus amigos. Si pierden, su cuerpo suelta cada vez más chispas.",
+        "Pokémon X": "La electricidad de Minun y Plusle es buena para la circulación y para desentumecer músculos.",
+        "Pokémon Y": "Le gusta animar a sus amigos. Si pierden, su cuerpo suelta cada vez más chispas.",
+        "Rubí Omega": "Minun está más preocupado de animar a sus compañeros de equipo que de su propia seguridad. Para animar a los miembros de su grupo, crea un cortocircuito en su interior y libera un chisporroteo espectacular.",
+        "Zafiro Alfa": "Minun empieza a echar chispas cuando está animando a su compañero en pleno combate. Si su compañero está en peligro, el chisporroteo aumenta su intensidad por momentos.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Le gusta animar a sus amigos. Si ve que están perdiendo, su cuerpo suelta cada vez más chispas.",
+        "Perla Reluciente": "Le gusta animar a sus amigos. Si ve que están perdiendo, su cuerpo suelta cada vez más chispas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Minun"
+        ]
+    ]
+}

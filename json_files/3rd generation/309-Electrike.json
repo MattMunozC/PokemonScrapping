@@ -1,0 +1,150 @@
+{
+    "dex number": "309",
+    "pokemon name": "Electrike",
+    "types": [
+        "eléctrico"
+    ],
+    "abilities": [
+        "Electricidad estática",
+        "Pararrayos"
+    ],
+    "hidden abilities": [
+        "Menos"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "45",
+        "def": "40",
+        "atk esp": "65",
+        "def esp": "40",
+        "speed": "65"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: rutas 110 y 118."
+        ],
+        "Zafiro": [
+            "Salvaje: rutas 110 y 118."
+        ],
+        "Esmeralda": [
+            "Salvaje: rutas 110 y 118."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Manada: Valle Eólico.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Manada: Valle Eólico.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Manada: Valle Eólico.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Dream World: Bosque Pequeño con la habilidad Menos."
+        ],
+        "Blanco": [
+            "Dream World: Bosque Pequeño con la habilidad Menos."
+        ],
+        "Negro 2": [
+            "Criando: de Manectric"
+        ],
+        "Blanco 2": [
+            "Criando: de Manectric"
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Y."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 10."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 110."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 110."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Poké Resort: Cayo Recreo, tras llegar a Poni"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 4, Área Silvestre: Arboleda Claroscuro, Cuenca Polvorienta, Lago Axew (oeste), Lago Axew (este), Silla del Gigante, Lago Milotic (sur), Pradera Radiante, Antigua Atalaya.",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al noroeste y Ribera de Pistón, nido al suroeste."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 4, Área Silvestre: Arboleda Claroscuro, Cuenca Polvorienta, Lago Axew (oeste), Lago Axew (este), Silla del Gigante, Lago Milotic (sur), Pradera Radiante, Antigua Atalaya.",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al noroeste y Ribera de Pistón, nido al suroeste."
+        ],
+        "Diamante Brillante": [
+            "Manada: Valle Eólico."
+        ],
+        "Perla Reluciente": [
+            "Manada: Valle Eólico."
+        ],
+        "Leyendas: Arceus": [
+            "Electrike no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Electrike acumula electricidad en el largo pelaje que tiene. Este Pokémon estimula los músculos de las patas mediante descargas eléctricas. Estas explosiones de energía le permiten acelerar de forma increíble.",
+        "Zafiro": "Electrike corre tan rápido que escapa hasta al ojo humano. La fricción que se origina en la carrera se transforma en electricidad que almacena en el pelaje.",
+        "Esmeralda": "Genera electricidad usando la fricción de la atmósfera. En estaciones de vientos áridos, su cuerpo se inflama y lanza chispas de forma violenta.",
+        "Rojo Fuego": "Acumula electricidad estática en el pelaje para lanzar descargas. Cuando va a haber tormenta, suelta chispas.",
+        "Verde Hoja": "Acumula electricidad estática en el pelaje para lanzar descargas. Cuando va a haber tormenta, suelta chispas.",
+        "Diamante": "Estimula sus músculos y aumenta sus reflejos con la electricidad que almacena su pelaje.",
+        "Perla": "Estimula sus músculos y aumenta sus reflejos con la electricidad que almacena su pelaje.",
+        "Platino": "Estimula sus músculos y aumenta sus reflejos con la electricidad que almacena su pelaje.",
+        "Oro HeartGold": "Almacena electricidad estática en su pelaje. En estaciones secas, suelta chispas por todo el cuerpo.",
+        "Plata SoulSilver": "Almacena electricidad estática en su pelaje. En estaciones secas, suelta chispas por todo el cuerpo.",
+        "Negro": "Estimula sus músculos y aumenta sus reflejos con la electricidad que almacena su pelaje.",
+        "Blanco": "Estimula sus músculos y aumenta sus reflejos con la electricidad que almacena su pelaje.",
+        "Negro 2": "Estimula sus músculos y aumenta sus reflejos con la electricidad que almacena su pelaje.",
+        "Blanco 2": "Estimula sus músculos y aumenta sus reflejos con la electricidad que almacena su pelaje.",
+        "Pokémon X": "Estimula sus músculos y aumenta sus reflejos con la electricidad que almacena su pelaje.",
+        "Pokémon Y": "Acumula electricidad estática en el pelaje para lanzar descargas. Cuando va a haber tormenta, suelta chispas.",
+        "Rubí Omega": "Electrike acumula electricidad en el largo pelaje que tiene. Este Pokémon estimula los músculos de las patas mediante descargas eléctricas. Estas explosiones de energía le permiten acelerar de forma increíble.",
+        "Zafiro Alfa": "Electrike corre tan rápido que escapa hasta al ojo humano. La fricción que se origina en la carrera se transforma en electricidad que almacena en el pelaje.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "La fricción con el aire carga su pelaje de electricidad estática, por lo que pueden oírse crepitantes chispazos cuando corre.",
+        "Ultraluna": "Este Pokémon genera electricidad estática frotando su largo pelaje. También destaca por su velocidad.",
+        "Espada": "Acumula electricidad estática en el pelaje para lanzar descargas. Cuando va a haber tormenta, suelta chispas por todo el cuerpo.",
+        "Escudo": "Almacena electricidad estática en su pelaje. En estaciones secas, suelta chispas por todo el cuerpo.",
+        "Diamante Brillante": "Estimula los músculos con la electricidad que almacena en el pelaje para aumentar sus reflejos.",
+        "Perla Reluciente": "Estimula los músculos con la electricidad que almacena en el pelaje para aumentar sus reflejos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Electrike",
+            "Nivel 26",
+            "Manectric"
+        ]
+    ]
+}

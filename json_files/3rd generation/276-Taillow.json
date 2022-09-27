@@ -1,0 +1,150 @@
+{
+    "dex number": "276",
+    "pokemon name": "Taillow",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Agallas"
+    ],
+    "hidden abilities": [
+        "Intrépido"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "55",
+        "def": "30",
+        "atk esp": "30",
+        "def esp": "30",
+        "speed": "85"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Rutas 104, 115 y 116 y Bosque Petalia."
+        ],
+        "Zafiro": [
+            "Salvaje: Rutas 104, 115 y 116 y Bosque Petalia."
+        ],
+        "Esmeralda": [
+            "Salvaje: Rutas 104, 115 y 116 y Bosque Petalia."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Criando: de Swellow",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Criando: de Swellow",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Criando: de Swellow",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Golpe cabeza: en un árbol especial en Ciudad Cerezo (se necesita treparrocas y surf) En el extremo superior izquierdo en el mar en una pequeña porción de tierra con el camino de rocas, en el árbol del extremo superior izquierdoÁrbol donde capturar a Taillow en HG-SS.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Golpe cabeza: en un árbol especial en Ciudad Cerezo (se necesita treparrocas y surf) En el extremo superior izquierdo en el mar en una pequeña porción de tierra con el camino de rocas, en el árbol del extremo superior izquierdoÁrbol donde capturar a Taillow en HG-SS.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Criando: de Swellow",
+            "Dream World: Bosque Pequeño y Alto Cielo"
+        ],
+        "Blanco": [
+            "Criando: de Swellow",
+            "Dream World: Bosque Pequeño y Alto Cielo"
+        ],
+        "Negro 2": [
+            "Criando: de Swellow",
+            "Dream World: Bosque Pequeño y Alto Cielo"
+        ],
+        "Blanco 2": [
+            "Criando: de Swellow",
+            "Dream World: Bosque Pequeño y Alto Cielo"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 8 (encuentro de horda)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 8 (encuentro de horda)"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Rutas 104, 115 y 116, Bosque Petalia y firmamento"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Rutas 104, 115 y 116, Bosque Petalia y firmamento"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Criando: de Swellow"
+        ],
+        "Ultraluna": [
+            "Criando: de Swellow"
+        ],
+        "Espada": [
+            "Taillow no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Taillow no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Criando: de Swellow."
+        ],
+        "Perla Reluciente": [
+            "Criando: de Swellow."
+        ],
+        "Leyendas: Arceus": [
+            "Taillow no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Taillow se mantiene firme ante sus rivales, sean lo fuertes que sean. Este valiente Pokémon seguirá mostrándose desafiante, aunque pierda en combate. Además, si se enfada, se pondrá a gritar con energía.",
+        "Zafiro": "Taillow es pequeño, está recién salido del nido. Por eso se siente solo con frecuencia y se pone a piar. Este Pokémon se alimenta de los Wurmple que hay por el bosque.",
+        "Esmeralda": "Es pequeño, pero muy valiente. No tiene problema en enfrentarse a un Skarmory más grande en igualdad de condiciones. Pero, como tenga hambre, pierde determinación.",
+        "Rojo Fuego": "No le gustan las bajas temperaturas. En las estaciones frías se recorren casi 300 km al día en busca de zonas cálidas.",
+        "Verde Hoja": "No le gustan las bajas temperaturas. En las estaciones frías se recorren casi 300 km al día en busca de zonas cálidas.",
+        "Diamante": "Es un Pokémon valiente que no teme a los rivales fuertes. Vuela en busca de climas templados.",
+        "Perla": "Es un Pokémon valiente que no teme a los rivales fuertes. Vuela en busca de climas templados.",
+        "Platino": "Es un Pokémon valiente que no teme a los rivales fuertes. Vuela en busca de climas templados.",
+        "Oro HeartGold": "En las estaciones frías recorre al vuelo 300 km diarios. Su presa favorita son los Wurmple",
+        "Plata SoulSilver": "En las estaciones frías recorre al vuelo 300 km diarios. Su presa favorita son los Wurmple",
+        "Negro": "Es un Pokémon valiente que no teme a los rivales fuertes. Vuela en busca de climas templados.",
+        "Blanco": "Es un Pokémon valiente que no teme a los rivales fuertes. Vuela en busca de climas templados.",
+        "Negro 2": "Es un Pokémon valiente que no teme a los rivales fuertes. Vuela en busca de climas templados.",
+        "Blanco 2": "Es un Pokémon valiente que no teme a los rivales fuertes. Vuela en busca de climas templados.",
+        "Pokémon X": "Es un Pokémon valiente que no teme a los rivales fuertes. Vuela en busca de climas templados.",
+        "Pokémon Y": "No le gustan las bajas temperaturas. En las estaciones frías se recorren casi 300 km al día en busca de zonas cálidas.",
+        "Rubí Omega": "Taillow se mantiene firme ante sus rivales, sean lo fuertes que sean. Este valiente Pokémon seguirá mostrándose desafiante, aunque pierda en combate. Además, si se enfada, se pondrá a gritar con energía.",
+        "Zafiro Alfa": "Taillow es pequeño, está recién salido del nido. Por eso se siente solo con frecuencia y se pone a piar. Este Pokémon se alimenta de los Wurmple que hay por el bosque.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Un Pokémon valiente que no teme a los rivales fuertes. Vuela en busca de climas templados.",
+        "Perla Reluciente": "Un Pokémon valiente que no teme a los rivales fuertes. Vuela en busca de climas templados.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Taillow",
+            "Nivel 22",
+            "Swellow"
+        ]
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "dex number": "281",
+    "pokemon name": "Kirlia",
+    "types": [
+        "psíquico",
+        "hada"
+    ],
+    "abilities": [
+        "Sincronía",
+        "Rastro"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": "38",
+        "atk": "35",
+        "def": "35",
+        "atk esp": "65",
+        "def esp": "55",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Ralts (nivel 20)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Ralts (nivel 20)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Ralts (nivel 20)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o XD: Tempestad oscura."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o XD: Tempestad oscura."
+        ],
+        "Diamante": [
+            "Pokéradar: rutas 203 y 204.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Pokéradar: rutas 203 y 204.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Salvaje: ruta 212.",
+            "Pokéradar: ruta 209.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Ralts (nivel 20).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Ralts (nivel 20).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco.",
+            "PokéTransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Evolucionar: a Ralts (nivel 20).",
+            "PokéTransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Ralts (nivel 20)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Ralts (nivel 20)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Ralts (nivel 20).",
+            "Especial: Safari Amistad, en algunos safaris de tipo hada."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Ralts (nivel 20).",
+            "Especial: Safari Amistad, en algunos safaris de tipo hada."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Ralts (nivel 20)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Ralts (nivel 20)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Ralts (nivel 20)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Ralts (nivel 20)"
+        ],
+        "Espada": [
+            "Salvaje: Pradera Radiante (niebla).",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Lago del Enfado, nido al norte junto al lago, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón.",
+            "Evolucionar: a Ralts (nivel 20)."
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante (niebla).",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Lago del Enfado, nido al norte junto al lago, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón.",
+            "Evolucionar: a Ralts (nivel 20)."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: rutas 203 y 204.",
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo y Caverna Claroestela.",
+            "Evolucionar: a Ralts (nivel 20)."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: rutas 203 y 204.",
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo y Caverna Claroestela.",
+            "Evolucionar: a Ralts (nivel 20)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pantanal Carmesí: Ruinas de la Niebla. Tundra Alba: Peñasco Espíritu, Templo Puntaneva.",
+            "Evolucionar: a Ralts (nivel 20).",
+            "Aparición masiva de Pokémon: Tundra Alba y de Ralts con probabilidad."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Dicen que, al recibir los sentimientos positivos de su entrenador, Kirlia crece con gran belleza. Este Pokémon controla poderes psicoquinéticos gracias al desarrollado cerebro que tiene.",
+        "Zafiro": "Kirlia usa los cuernos para amplificar los poderes de psicoquinesia que tiene. Cuando los usa, altera el ambiente, se transforma y crea espejismos de cosas que no existían con anterioridad.",
+        "Esmeralda": "Kirlia tiene poderes psicoquinéticos con los que crea un espacio dimensional para ver el futuro. Dicen que baila con energía en las mañanas soleadas.",
+        "Rojo Fuego": "Al percibir la alegría de su entrenador refuerza sus ataques psicoquinéticos. Cuando está contento, da vueltas y baila.",
+        "Verde Hoja": "Al percibir la alegría de su entrenador refuerza sus ataques psicoquinéticos. Cuando está contento, da vueltas y baila.",
+        "Diamante": "Puede percibir los sentimientos de su entrenador. Cuando se siente feliz, baila.",
+        "Perla": "Puede percibir los sentimientos de su entrenador. Cuando se siente feliz, baila.",
+        "Platino": "Si su entrenador está contento, se llena de energía y baila de forma alegre dando giros.",
+        "Oro HeartGold": "Con sus poderes psíquicos puede deformar el espacio a su alrededor y predecir el futuro.",
+        "Plata SoulSilver": "Con sus poderes psíquicos puede deformar el espacio a su alrededor y predecir el futuro.",
+        "Negro": "Si su entrenador está contento, se llena de energía y baila de forma alegre dando giros.",
+        "Blanco": "Si su entrenador está contento, se llena de energía y baila de forma alegre dando giros.",
+        "Negro 2": "Si su entrenador está contento, se llena de energía y baila de forma alegre dando giros.",
+        "Blanco 2": "Si su entrenador está contento, se llena de energía y baila de forma alegre dando giros.",
+        "Pokémon X": "Al percibir la alegría de su entrenador refuerza sus ataques psicoquinéticos. Cuando está contento, da vueltas y baila.",
+        "Pokémon Y": "Con sus poderes psíquicos puede deformar el espacio a su alrededor y predecir el futuro.",
+        "Rubí Omega": "Dicen que, al recibir los sentimientos positivos de su entrenador, Kirlia crece con gran belleza. Este Pokémon controla poderes psicoquinéticos gracias al desarrollado cerebro que tiene.",
+        "Zafiro Alfa": "Kirlia usa los cuernos para amplificar los poderes de psicoquinesia que tiene. Cuando los usa, altera el ambiente, lo transforma y crea espejismos.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Si su Entrenador está contento, desborda energía y baila alegremente dando giros.",
+        "Escudo": "Con sus poderes psíquicos puede deformar el espacio a su alrededor y predecir el futuro.",
+        "Diamante Brillante": "Puede percibir los sentimientos de su Entrenador. Cuando se siente feliz, baila.",
+        "Perla Reluciente": "Puede percibir los sentimientos de su Entrenador. Cuando se siente feliz, baila.",
+        "Leyendas: Arceus": "Parece una niña, pero maneja un extraño poder con el que me mostró una visión celestial. Sospecho que sus horquillas rojas esconden algún secreto."
+    },
+    "evolution": [
+        [
+            "Ralts",
+            "Nivel 20",
+            "Kirlia",
+            "Nivel 30",
+            "Gardevoir"
+        ],
+        [
+            "",
+            "",
+            "",
+            "♂ + Piedra alba ",
+            "Gallade"
+        ]
+    ]
+}

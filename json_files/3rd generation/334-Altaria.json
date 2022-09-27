@@ -1,0 +1,159 @@
+{
+    "dex number": "334",
+    "pokemon name": "Altaria",
+    "types": [
+        "dragón",
+        "volador"
+    ],
+    "abilities": [
+        "Cura natural"
+    ],
+    "hidden abilities": [
+        "Aclimatación"
+    ],
+    "stats": {
+        "hp": "75",
+        "atk": "70",
+        "def": "90",
+        "atk esp": "70",
+        "def esp": "105",
+        "speed": "80"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Pilar Celeste (piso 3-4).",
+            "Evolucionar: de Swablu (nivel 35)."
+        ],
+        "Zafiro": [
+            "Salvaje: Pilar Celeste (piso 3-4).",
+            "Evolucionar: de Swablu (nivel 35)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Pilar Celeste (piso 3-4).",
+            "Evolucionar: de Swablu (nivel 35)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Diamante": [
+            "Evolucionar: de Swablu (nivel 35).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Evolucionar: de Swablu (nivel 35).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Evolucionar: de Swablu (nivel 35).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Swablu (nivel 35).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Swablu (nivel 35).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Salvaje: Ruta 14."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 14."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 14, Santuario Abundancia y Calle Victoria.",
+            "Evolucionar: de Swablu (nivel 35)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 14, Santuario Abundancia y Calle Victoria.",
+            "Evolucionar: de Swablu (nivel 35)."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 21",
+            "Evolucionar: de Swablu (nivel 35)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 21",
+            "Evolucionar: de Swablu (nivel 35)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Swablu (nivel 35)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Swablu (nivel 35)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo."
+        ],
+        "Espada": [
+            "Salvaje: Lecho del Gigante , Senda Blancacima , Suela del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Campo Bajocero , Lecho del Gigante , Suela del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Salvaje: Lecho del Gigante , Senda Blancacima , Suela del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Campo Bajocero , Lecho del Gigante , Suela del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Swablu (nivel 35)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Swablu (nivel 35)."
+        ],
+        "Leyendas: Arceus": [
+            "Altaria no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Altaria baila y revolotea por el cielo entre ondeantes nubes que parecen de algodón. Al entonar melodías con su voz cristalina, este Pokémon deja a sus oyentes embobados y admirados.",
+        "Zafiro": "Altaria canta soprano de maravilla. Tiene unas alas que parecen nubes de algodón. Este Pokémon aprovecha las corrientes ascendentes y remonta el vuelo con sus flamantes alas hacia la inmensidad del cielo azul.",
+        "Esmeralda": "Canturrea con una bella voz de soprano. Vuela entre las nubes blancas del cielo azul. Lanza ardientes bolas de fuego por el pico.",
+        "Rojo Fuego": "Altaria trina entonando una bella melodía que llega desde lo más profundo de las montañas.",
+        "Verde Hoja": "Altaria trina entonando una bella melodía que llega desde lo más profundo de las montañas.",
+        "Diamante": "Cuando vuela, parece una nube de algodón. Entona bellas melodías con su voz de soprano.",
+        "Perla": "Cuando vuela, parece una nube de algodón. Entona bellas melodías con su voz de soprano.",
+        "Platino": "Si establece un vínculo con una persona, la envuelve con sus alas y le canta en susurros.",
+        "Oro HeartGold": "Vuela pausadamente por el cielo azul. Su hermoso trino cautiva a todo aquel que lo escucha.",
+        "Plata SoulSilver": "Vuela pausadamente por el cielo azul. Su hermoso trino cautiva a todo aquel que lo escucha.",
+        "Negro": "Si establece un vínculo con una persona, la envuelve con sus alas y le canta en susurros.",
+        "Blanco": "Si establece un vínculo con una persona, la envuelve con sus alas y le canta en susurros.",
+        "Negro 2": "En días soleados, le gusta mezclarse con las nubes y disfrutar de la libertad del cielo mientras trina con voz de soprano.",
+        "Blanco 2": "En días soleados, le gusta mezclarse con las nubes y disfrutar de la libertad del cielo mientras trina con voz de soprano.",
+        "Pokémon X": "Vuela pausadamente por el cielo azul. Su hermoso trino cautiva a todo aquel que lo escucha.",
+        "Pokémon Y": "En días soleados, le gusta mezclarse con las nubes y disfrutar de la libertad del cielo mientras trina con voz de soprano.",
+        "Rubí Omega": "Altaria baila y revolotea por el cielo entre ondeantes nubes que parecen de algodón. Al entonar melodías con su voz cristalina, este Pokémon deja a sus oyentes embobados y admirados.",
+        "Zafiro Alfa": "Altaria canta de maravilla, como una soprano. Tiene unas alas que parecen nubes de algodón. Este Pokémon aprovecha las corrientes ascendentes y remonta el vuelo con sus flamantes alas hacia la inmensidad del cielo azul.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Mientras vuela pausadamente, emite un bello trino que cautiva a todo el que lo oye.",
+        "Escudo": "Es de carácter amable, pero, si monta en cólera, intimidará al oponente con estridentes chillidos y atacará sin piedad.",
+        "Diamante Brillante": "Cuando vuela, parece una nube de algodón. Entona bellas melodías con su voz de soprano.",
+        "Perla Reluciente": "Cuando vuela, parece una nube de algodón. Entona bellas melodías con su voz de soprano.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Swablu",
+            "Nivel 35",
+            "Altaria"
+        ]
+    ]
+}

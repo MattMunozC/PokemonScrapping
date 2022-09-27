@@ -1,0 +1,148 @@
+{
+    "dex number": "330",
+    "pokemon name": "Flygon",
+    "types": [
+        "tierra",
+        "dragón"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "80",
+        "atk": "100",
+        "def": "80",
+        "atk esp": "80",
+        "def esp": "80",
+        "speed": "100"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda, Pokémon Colosseum o Pokémon XD"
+        ],
+        "Diamante": [
+            "Evolucionar: a Vibrava (nivel 45)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Evolucionar: a Vibrava (nivel 45)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Vibrava (nivel 45)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Vibrava (nivel 45)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Sol": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Luna": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada y Pradera Radiante, nido al suroeste y nidos en Playa Desafío , Cueva Tenacidad  y Mar Andana ",
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Ojo de Axew, nido central y Pradera Radiante, nido al suroeste y nidos en Playa Desafío , Cueva Tenacidad  y Mar Andana ",
+            "Evolucionar: a Vibrava (nivel 45)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Vibrava (nivel 45)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Vibrava (nivel 45)."
+        ],
+        "Leyendas: Arceus": [
+            "Flygon no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "A Flygon se lo conoce como \"el alma del desierto\". Al volar, como levanta una nube de arena al batir las alas, está siempre envuelto en una tormenta de arena.",
+        "Zafiro": "Flygon puede provocar una tormenta de arena batiendo las alas. Éstas, al ser agitadas, crean una melodía. Y como las \"melodías\" pueden oírse cuando hay tormenta, dicen que es el espíritu del desierto.",
+        "Esmeralda": "El aleteo de sus alas es muy melódico. Para evitar que el enemigo lo descubra, levanta con las alas una nube de arena del desierto, tras la cual se oculta.",
+        "Rojo Fuego": "Su medio es el desierto. Para esconderse, levanta arena con las patas. Tiene los ojos protegidos con mallas rojas.",
+        "Verde Hoja": "Su medio es el desierto. Para esconderse, levanta arena con las patas. Tiene los ojos protegidos con mallas rojas.",
+        "Diamante": "Levanta tormentas de arena con sus alas. Se le conoce como el \"alma del desierto\".",
+        "Perla": "Levanta tormentas de arena con sus alas. Se le conoce como el \"alma del desierto\".",
+        "Platino": "Levanta tormentas de arena con sus alas. Se le conoce como el \"alma del desierto\".",
+        "Oro HeartGold": "El batir de sus alas suena como un canto de mujer. Se le conoce como el Alma del Desierto.",
+        "Plata SoulSilver": "El batir de sus alas suena como un canto de mujer. Se le conoce como el Alma del Desierto.",
+        "Negro": "Levanta tormentas de arena con sus alas. Se le conoce como el \"alma del desierto\".",
+        "Blanco": "Levanta tormentas de arena con sus alas. Se le conoce como el \"alma del desierto\".",
+        "Negro 2": "Se le conoce como el Alma del Desierto. Levanta tormentas de arena al batir sus alas y se refugia en su interior.",
+        "Blanco 2": "Se le conoce como el Alma del Desierto. Levanta tormentas de arena al batir sus alas y se refugia en su interior.",
+        "Pokémon X": "Su medio es el desierto. Para esconderse, levanta arena con las patas. Tiene los ojos protegidos con mallas rojas.",
+        "Pokémon Y": "Se le conoce como el Alma del Desierto. Levanta tormentas de arena al batir sus alas y se refugia en su interior.",
+        "Rubí Omega": "A Flygon se lo conoce como \"el alma del desierto\". Al volar, como levanta una nube de arena al batir las alas, está siempre envuelto en una tormenta de arena.",
+        "Zafiro Alfa": "Flygon puede provocar una tormenta de arena batiendo las alas. Éstas, al ser agitadas, crean una melodía. Y como las \"melodías\" pueden oírse cuando hay tormenta, dicen que es el espíritu del desierto.",
+        "Sol": "Al batir las alas, crea una melodía que atrae a sus presas. Cuando estas se acercan, quedan atrapadas en una tormenta de arena.",
+        "Luna": "Al batir las alas, provoca tormentas de arena que lo ocultan por completo, por lo que rara vez se ha visto a este Pokémon.",
+        "Ultrasol": "Al batir las alas levanta tormentas de arena en las que se esconden los Krookodile, para luego compartir las presas que cacen entre ambos.",
+        "Ultraluna": "Muchas personas se han perdido en el desierto tras quedar cautivadas por el sonido que emite al batir las alas, semejante a una bella melodía.",
+        "Espada": "Al batir las alas, provoca tormentas de arena que lo ocultan por completo, por lo que rara vez se ha visto a este Pokémon.",
+        "Escudo": "El batir de sus alas suena como un bello canto de mujer. Se lo conoce como el Alma del Desierto.",
+        "Diamante Brillante": "Levanta tormentas de arena batiendo sus fuertes alas. Se lo conoce como el Alma del Desierto.",
+        "Perla Reluciente": "Levanta tormentas de arena batiendo sus fuertes alas. Se lo conoce como el Alma del Desierto.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Trapinch",
+            "Nivel 35",
+            "Vibrava",
+            "Nivel 45",
+            "Flygon"
+        ]
+    ]
+}

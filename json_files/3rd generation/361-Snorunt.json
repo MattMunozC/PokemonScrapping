@@ -1,0 +1,163 @@
+{
+    "dex number": "361",
+    "pokemon name": "Snorunt",
+    "types": [
+        "hielo"
+    ],
+    "abilities": [
+        "Foco interno",
+        "Gélido"
+    ],
+    "hidden abilities": [
+        "Veleta"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "50",
+        "def": "50",
+        "atk esp": "50",
+        "def esp": "50",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Cueva Cardumen, con marea baja"
+        ],
+        "Zafiro": [
+            "Salvaje: Cueva Cardumen, con marea baja"
+        ],
+        "Esmeralda": [
+            "Salvaje: Cueva Cardumen, con marea baja"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pokéradar: Rutas 216, 217 y Orilla Agudeza",
+            "Parque Compi: Zona Rocosa"
+        ],
+        "Perla": [
+            "Pokéradar: Rutas 216, 217 y Orilla Agudeza",
+            "Parque Compi: Zona Rocosa"
+        ],
+        "Platino": [
+            "Salvaje, de noche: Ruta 217, Orilla Agudeza y Lago Agudeza",
+            "Parque Compi: Zona Rocosa"
+        ],
+        "Oro HeartGold": [
+            "Pokéwalker: Senda Glacial",
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Parque Compi: Zona Rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Pokéwalker: Senda Glacial",
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Parque Compi: Zona Rocosa"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Cueva Helada"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Cueva Helada"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo hielo"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo hielo"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Cardumen, con marea baja"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Cardumen, con marea baja"
+        ],
+        "Sol": [
+            "Salvaje: Aldea Tapu y Monte Lanakila"
+        ],
+        "Luna": [
+            "Salvaje: Aldea Tapu y Monte Lanakila"
+        ],
+        "Ultrasol": [
+            "Salvaje: Aldea Tapu y Monte Lanakila"
+        ],
+        "Ultraluna": [
+            "Salvaje: Aldea Tapu y Monte Lanakila"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 8 (Galar).",
+            "Área Silvestre: Lago Axew (este), Lago Axew (oeste), Arboleda Claroscuro, Silla del Gigante, Gorro del Gigante, Cornisa de Artejo, Lago Milotic (norte), Lago Milotic (sur), Pradera Radiante y Antigua Atalaya con clima nevado o ventisca.",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro y Llanura Pétrea, nido al este 1."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 8 (Galar).",
+            "Área Silvestre: Lago Axew (este), Lago Axew (oeste), Arboleda Claroscuro, Silla del Gigante, Gorro del Gigante, Cornisa de Artejo, Lago Milotic (norte), Lago Milotic (sur), Pradera Radiante y Antigua Atalaya con clima nevado o ventisca.",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro, Llanura Pétrea, nido al este 1 y Silla del Gigante, nido al sur junto al lago."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Rutas 216, 217 y Orilla Agudeza.",
+            "Grutas del Subsuelo: Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Rutas 216, 217 y Orilla Agudeza.",
+            "Grutas del Subsuelo: Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Tundra Alba: Valle Nevasca, Páramo Algente, Desfiladero Alud y Témpano Avalugg."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Snorunt vive en zonas de grandes nevadas. En primavera y verano (cuando no nieva), se retira a las cavernas para vivir tranquilamente entre estalactitas y estalagmitas.",
+        "Zafiro": "Snorunt sobrevive alimentándose solo de nieve y hielo. Se dice que la casa por la que pase este Pokémon estará llena de prosperidad durante generaciones.",
+        "Esmeralda": "Tienden a desplazarse en grupos de cinco Snorunt. En las zonas de nieve se dice que, cuando se les ve entrada la noche, es porque va a nevar a la mañana siguiente.",
+        "Rojo Fuego": "Dicen que los hogares que reciben la visita de Snorunt prosperan. Puede soportar temperaturas de 100º bajo cero.",
+        "Verde Hoja": "Dicen que los hogares que reciben la visita de Snorunt prosperan. Puede soportar temperaturas de 100º bajo cero.",
+        "Diamante": "En las zonas nevadas, las leyendas dicen que si un Snorunt vive en una casa, trae prosperidad.",
+        "Perla": "En las zonas nevadas, las leyendas dicen que si un Snorunt vive en una casa, trae prosperidad.",
+        "Platino": "Se dice que se reúnen en grupos bajo hojas gigantescas y viven allí en total armonía.",
+        "Oro HeartGold": "Se dice que sale a medianoche y provoca grandes nevadas. Se alimenta de nieve y de hielo.",
+        "Plata SoulSilver": "Se dice que sale a medianoche y provoca grandes nevadas. Se alimenta de nieve y de hielo.",
+        "Negro": "Se dice que se reúnen en grupos bajo hojas gigantescas y viven allí en total armonía.",
+        "Blanco": "Se dice que se reúnen en grupos bajo hojas gigantescas y viven allí en total armonía.",
+        "Negro 2": "Se dice que se reúnen en grupos bajo hojas gigantescas y viven allí en total armonía.",
+        "Blanco 2": "Se dice que se reúnen en grupos bajo hojas gigantescas y viven allí en total armonía.",
+        "Pokémon X": "Se dice que se reúnen en grupos bajo hojas gigantescas y viven allí en total armonía.",
+        "Pokémon Y": "En las zonas nevadas, las leyendas dicen que si un Snorunt vive en una casa, trae prosperidad.",
+        "Rubí Omega": "Snorunt vive en zonas de grandes nevadas. En primavera y verano, cuando no nieva, se retira a las cavernas para vivir entre estalactitas y estalagmitas.",
+        "Zafiro Alfa": "Snorunt sobrevive alimentándose solo de nieve y hielo. Se dice que la casa por la que pase este Pokémon estará llena de prosperidad durante generaciones.",
+        "Sol": "Su número ha aumentado en la región de Alola. Dicen que traen prosperidad durante generaciones a las casas en las que habitan.",
+        "Luna": "Las regiones frías son su hábitat natural. Se encuentra a sus anchas en lugares donde la temperatura alcanza los -100 °C.",
+        "Ultrasol": "Se alimenta sobre todo de hielo y nieve. Debido a las temperaturas cálidas que reinan en Alola, solo puede habitar en contados lugares.",
+        "Ultraluna": "Según parece, en las regiones frías todos los miembros de las familias pudientes recuerdan haber jugado con Snorunt en su infancia.",
+        "Espada": "Dicen que, si aparece a medianoche, provoca grandes nevadas. Se alimenta de nieve y hielo.",
+        "Escudo": "Las regiones frías son su hábitat natural. Se encuentra a sus anchas incluso en lugares donde la temperatura alcanza los -100 °C.",
+        "Diamante Brillante": "En las zonas nevadas, las leyendas dicen que los Snorunt traen la prosperidad a las familias en cuyo hogar se instalan.",
+        "Perla Reluciente": "En las zonas nevadas, las leyendas dicen que los Snorunt traen la prosperidad a las familias en cuyo hogar se instalan.",
+        "Leyendas: Arceus": "Aparece con las primeras nieves. Dicen que las casas que visita prosperan durante generaciones, por lo que existe la tradición de dejar hielo del agua más pura en la puerta como ofrenda."
+    },
+    "evolution": [
+        [
+            "Snorunt",
+            "Nivel 42",
+            "Glalie"
+        ],
+        [
+            "",
+            "♀ + Piedra alba ",
+            "Froslass"
+        ]
+    ]
+}

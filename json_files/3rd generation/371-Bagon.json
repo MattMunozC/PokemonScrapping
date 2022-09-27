@@ -1,0 +1,153 @@
+{
+    "dex number": "371",
+    "pokemon name": "Bagon",
+    "types": [
+        "dragón"
+    ],
+    "abilities": [
+        "Cabeza roca"
+    ],
+    "hidden abilities": [
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": "45",
+        "atk": "75",
+        "def": "60",
+        "atk esp": "40",
+        "def esp": "30",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Cascada Meteoro (sala del sótano)."
+        ],
+        "Zafiro": [
+            "Salvaje: Cascada Meteoro (sala del sótano)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Cascada Meteoro (sala del sótano)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold y Pokémon Plata SoulSilver.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Pokéradar: Ruta 210 (norte).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Pokéradar: Ruta 210 (norte).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari (Lago).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari (Lago).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Intercambiar de: Pokémon Blanco.",
+            "Pokémon Dream World: Monte Escarpado, con la habilidad Potencia bruta."
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco.",
+            "Pokémon Dream World: Monte Escarpado, con la habilidad Potencia bruta."
+        ],
+        "Negro 2": [
+            "Claro Oculto: Bosque Azulejo (exterior).",
+            "Pokémon Dream World: Monte Escarpado, con la habilidad Potencia bruta."
+        ],
+        "Blanco 2": [
+            "Claro Oculto: Bosque Azulejo (exterior).",
+            "Pokémon Dream World: Monte Escarpado, con la habilidad Potencia bruta."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 8."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 8."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cascada Meteoro (sala del sótano)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cascada Meteoro (sala del sótano)."
+        ],
+        "Sol": [
+            "Salvaje: Ruta 3 y Bahía Kalae."
+        ],
+        "Luna": [
+            "Salvaje: Ruta 3 y Bahía Kalae."
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 3 y Bahía Kalae."
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 3 y Bahía Kalae."
+        ],
+        "Espada": [
+            "Salvaje: Túnel Ascensión ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Ruta 210 (norte).",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Leyendas: Arceus": [
+            "Bagon no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Bagon sueña con poder pasar un día volando por el cielo. En vanos intentos por volar, ha llegado a tirarse desde riscos. Como resultado de estas caídas en picado, se le ha puesto la cabeza dura como las piedras.",
+        "Zafiro": "Bagon sueña siempre con lo mismo: pasar todo un día volando entre las nubes. Frustrado ante la imposibilidad de volar, parece que se desahoga dándose cabezazos contra rocas enormes hasta hacerlas añicos.",
+        "Esmeralda": "Aunque pequeño, este Pokémon es muy fuerte porque su cuerpo es puro músculo. Propina cabezazos con el cráneo, que es tan duro como el hierro.",
+        "Rojo Fuego": "Tiene la cabeza dura como el acero y es capaz de destrozar rocas. Su sueño es que le crezcan alas para volar.",
+        "Verde Hoja": "Tiene la cabeza dura como el acero y es capaz de destrozar rocas. Su sueño es que le crezcan alas para volar.",
+        "Diamante": "Sueña con volar algún día, por lo que siempre practica saltando desde acantilados.",
+        "Perla": "Sueña con volar algún día, por lo que siempre practica saltando desde acantilados.",
+        "Platino": "Sueña con volar algún día, por lo que siempre practica saltando desde acantilados.",
+        "Oro HeartGold": "Su desarrollado cuello y su cabeza dura como el acero le permiten reducir a añicos rocas enormes.",
+        "Plata SoulSilver": "Su desarrollado cuello y su cabeza dura como el acero le permiten reducir a añicos rocas enormes.",
+        "Negro": "Sueña con volar algún día, por lo que siempre practica saltando desde acantilados.",
+        "Blanco": "Sueña con volar algún día, por lo que siempre practica saltando desde acantilados.",
+        "Negro 2": "Sueña con volar algún día, por lo que siempre practica saltando desde acantilados.",
+        "Blanco 2": "Sueña con volar algún día, por lo que siempre practica saltando desde acantilados.",
+        "Pokémon X": "Su desarrollado cuello y su cabeza dura como el acero le permiten reducir a añicos rocas enormes.",
+        "Pokémon Y": "Sueña con volar algún día, por lo que siempre practica saltando desde acantilados.",
+        "Rubí Omega": "Bagon sueña con poder pasar un día volando por el cielo. En vanos intentos por volar, ha llegado a tirarse desde riscos. Como resultado de estas caídas en picado, se le ha puesto la cabeza dura como las piedras.",
+        "Zafiro Alfa": "Bagon sueña siempre con lo mismo: pasar todo un día volando entre las nubes. Frustrado ante la imposibilidad de volar, parece que se desahoga dándose cabezazos contra rocas enormes hasta hacerlas añicos.",
+        "Sol": "Parece ser que la información genética de los Bagon les impulsa a creer que algún día serán capaces de volar.",
+        "Luna": "Se lanza de cabeza contra todo lo que se le pone a tiro para lidiar con la frustración que le causa el no poder surcar los cielos.",
+        "Ultrasol": "Cada vez que ve volar a un Pokémon pájaro le corroe la envidia por dentro y asesta cabezazos a todo lo que le rodea hasta hacerlo añicos.",
+        "Ultraluna": "Según una teoría, los fuertes cabezazos que propina estimulan las células implicadas en su evolución.",
+        "Espada": "En su afán por volar, fortalece su cuerpo a diario saltando desde acantilados.",
+        "Escudo": "Vive en solitario, sin formar manadas, y posee una cabeza dura como la piedra que le permite hacer añicos rocas enormes de un solo golpe.",
+        "Diamante Brillante": "Sueña con volar algún día, por lo que practica todos los días saltando desde acantilados.",
+        "Perla Reluciente": "Sueña con volar algún día, por lo que practica todos los días saltando desde acantilados.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Bagon",
+            "Nivel 30",
+            "Shelgon",
+            "Nivel 50",
+            "Salamence"
+        ]
+    ]
+}

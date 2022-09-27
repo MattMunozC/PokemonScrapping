@@ -1,0 +1,157 @@
+{
+    "dex number": "297",
+    "pokemon name": "Hariyama",
+    "types": [
+        "lucha"
+    ],
+    "abilities": [
+        "Agallas",
+        "Sebo"
+    ],
+    "hidden abilities": [
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": "144",
+        "atk": "120",
+        "def": "60",
+        "atk esp": "40",
+        "def esp": "60",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Calle Victoria (planta baja y primer sótano).",
+            "Evolucionar: de Makuhita (nivel 24)."
+        ],
+        "Zafiro": [
+            "Salvaje: Calle Victoria (planta baja y primer sótano).",
+            "Evolucionar: de Makuhita (nivel 24)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Calle Victoria (planta baja y primer sótano).",
+            "Evolucionar: de Makuhita (nivel 24)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda, Pokémon Colosseum o Pokémon XD."
+        ],
+        "Diamante": [
+            "Evolucionar: de Makuhita (nivel 24).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Evolucionar: de Makuhita (nivel 24).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Evolucionar: de Makuhita (nivel 24).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Makuhita (nivel 24).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Makuhita (nivel 24).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino u Oro HeartGold y Plata SoulSilver.",
+            "Dream World: con la habilidad Potencia bruta."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino u Oro HeartGold y Plata SoulSilver.",
+            "Dream World: con la habilidad Potencia bruta."
+        ],
+        "Negro 2": [
+            "Claro oculto: Bosque Azulejo (Exterior, cerca de las rocas)"
+        ],
+        "Blanco 2": [
+            "Claro oculto: Bosque Azulejo (Exterior, cerca de las rocas)"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 11"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 11"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Calle Victoria (planta baja y primer sótano).",
+            "Evolucionar: de Makuhita (nivel 24)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Calle Victoria (planta baja y primer sótano).",
+            "Evolucionar: de Makuhita (nivel 24)."
+        ],
+        "Sol": [
+            "Salvaje: Llanura de Poni (cuando la hierba se mueve).",
+            "Evolucionar: de Makuhita (nivel 24)."
+        ],
+        "Luna": [
+            "Salvaje: Llanura de Poni (cuando la hierba se mueve).",
+            "Evolucionar: de Makuhita (nivel 24)."
+        ],
+        "Ultrasol": [
+            "Salvaje: Llanura de Poni.",
+            "Evolucionar: de Makuhita (nivel 24)."
+        ],
+        "Ultraluna": [
+            "Salvaje: Llanura de Poni.",
+            "Evolucionar: de Makuhita (nivel 24)."
+        ],
+        "Espada": [
+            "Hariyama no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Hariyama no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Makuhita (nivel 24)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Makuhita (nivel 24)."
+        ],
+        "Leyendas: Arceus": [
+            "Hariyama no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Hariyama practica los empujones que da estirando los brazos allá por donde va. Este Pokémon puede partir por la mitad un poste de teléfono de un enérgico golpe con los brazos estirados y las manos abiertas.",
+        "Zafiro": "Puede que parezca que Hariyama está grueso, pero en realidad es una mole de puro músculo. Si este Pokémon hace fuerza y tensa la musculatura, se pone sólido como una roca.",
+        "Esmeralda": "Tiene la costumbre de desafiar a otros sin medir la fuerza del adversario. Alguna vez se ha montado sobre las vías del tren y parado trenes a base de puñetazos.",
+        "Rojo Fuego": "Para aumentar su fuerza, da un pisotón en el suelo. Puede lanzar un camión de 10 toneladas por los aires de un puñetazo.",
+        "Verde Hoja": "Para aumentar su fuerza, da un pisotón en el suelo. Puede lanzar un camión de 10 toneladas por los aires de un puñetazo.",
+        "Diamante": "Le encanta enfrentarse a Pokémon grandes y probar su fuerza. Sus brazos pueden derribar un camión.",
+        "Perla": "Le encanta enfrentarse a Pokémon grandes y probar su fuerza. Sus brazos pueden derribar un camión.",
+        "Platino": "Le encanta enfrentarse a Pokémon grandes y probar su fuerza. Sus brazos pueden derribar un camión.",
+        "Oro HeartGold": "Le encanta medir sus fuerzas. Es tan fuerte que puede detener un tren en marcha con sus puñetazos.",
+        "Plata SoulSilver": "Le encanta medir sus fuerzas. Es tan fuerte que puede detener un tren en marcha con sus puñetazos.",
+        "Negro": "Le encanta enfrentarse a Pokémon grandes y probar su fuerza. Sus brazos pueden derribar un camión.",
+        "Blanco": "Le encanta enfrentarse a Pokémon grandes y probar su fuerza. Sus brazos pueden derribar un camión.",
+        "Negro 2": "Le encanta enfrentarse a Pokémon grandes y probar su fuerza. Sus brazos pueden derribar un camión.",
+        "Blanco 2": "Le encanta enfrentarse a Pokémon grandes y probar su fuerza. Sus brazos pueden derribar un camión.",
+        "Pokémon X": "Para aumentar su fuerza, da un pisotón en el suelo. Puede lanzar un camión de 10 toneladas por los aires de un puñetazo.",
+        "Pokémon Y": "Le encanta enfrentarse a Pokémon grandes y probar su fuerza. Sus brazos pueden derribar un camión.",
+        "Rubí Omega": "Hariyama practica los empujones que da estirando los brazos allá por donde va. Este Pokémon puede partir por la mitad un poste de teléfono de un enérgico golpe con los brazos estirados y las manos abiertas.",
+        "Zafiro Alfa": "Puede que parezca que Hariyama está grueso, pero en realidad es una mole de puro músculo. Si este Pokémon hace fuerza y tensa la musculatura, se pone sólido como una roca.",
+        "Sol": "Los Hariyama veteranos son conocidos por su fuerza descomunal, pero prefieren retirarse de la vida de combate y entrenar a los Makuhita.",
+        "Luna": "Los Hariyama pueden tumbar un camión dándole un tortazo con la mano abierta. Les encantan las pruebas de fuerza.",
+        "Ultrasol": "Adora las competiciones de fuerza, pero el respeto y la cortesía hacia sus adversarios son muy importantes para este noble Pokémon.",
+        "Ultraluna": "No todos los Hariyama son grandotes, recios y fuertes. También los hay de menor tamaño pero mayor agilidad y precisión en los movimientos.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Le encanta enfrentarse a Pokémon grandes y probar su fuerza. Sus golpes pueden derribar un camión.",
+        "Perla Reluciente": "Le encanta enfrentarse a Pokémon grandes y probar su fuerza. Sus golpes pueden derribar un camión.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Makuhita",
+            "Nivel 24",
+            "Hariyama"
+        ]
+    ]
+}

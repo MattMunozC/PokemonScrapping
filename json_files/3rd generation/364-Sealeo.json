@@ -1,0 +1,162 @@
+{
+    "dex number": "364",
+    "pokemon name": "Sealeo",
+    "types": [
+        "hielo",
+        "agua"
+    ],
+    "abilities": [
+        "Sebo",
+        "Gélido"
+    ],
+    "hidden abilities": [
+        "Despiste"
+    ],
+    "stats": {
+        "hp": "90",
+        "atk": "60",
+        "def": "70",
+        "atk esp": "75",
+        "def esp": "70",
+        "speed": "45"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Zafiro": [
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda o Pokémon XD"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Perla": [
+            "Surfeando: Ruta 226 y Ruta 230",
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Platino": [
+            "Surfeando: Ruta 230"
+        ],
+        "Oro HeartGold": [
+            "Surfeando: Zona Safari (montaña)",
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Plata SoulSilver": [
+            "Surfeando: Zona Safari (montaña)",
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Negro": [
+            "Surfeando: Bahía Arenisca (solo en invierno)",
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Blanco": [
+            "Surfeando: Bahía Arenisca (solo en invierno)",
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Negro 2": [
+            "Surfeando: Bahía Arenisca (solo en invierno)",
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Blanco 2": [
+            "Surfeando: Bahía Arenisca (solo en invierno)",
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Cardumen",
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Cardumen",
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Sol": [
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Luna": [
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Espada": [
+            "Salvaje: Mar Gélido ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en  Lecho del Gigante  y  Mar Gélido ",
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Escudo": [
+            "Salvaje: Mar Gélido ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en  Lecho del Gigante  y  Mar Gélido ",
+            "Evolucionar: a Spheal (nivel 32)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Spheal (nivel 32)."
+        ],
+        "Perla Reluciente": [
+            "Surfeando: Ruta 226 y Ruta 230.",
+            "Grutas del Subsuelo: Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar.",
+            "Evolucionar: a Spheal (nivel 32)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Costa Cobalto: Costa Ínsola.",
+            "Evolucionar: a Spheal (nivel 32)."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Cada vez que Sealeo ve algo nuevo, se lo pone en el morro y empieza a darle vueltas. A veces, para entretenerse, hace lo mismo con un Spheal.",
+        "Zafiro": "Sealeo suele balancear y hacer rodar cosas en la punta del morro. Al mismo tiempo, aprovecha para olerlas y detectar la textura que tienen para ver si le gustan o no.",
+        "Esmeralda": "Sealeo vive en manadas sobre placas de hielo. Puede romper el hielo usando sus potentes aletas y se zambulle en el mar cinco veces al día para pescar.",
+        "Rojo Fuego": "Para identificar cosas, se las coloca en el morro para olerlas y ver el tacto que tienen. A veces hace lo mismo con Spheal.",
+        "Verde Hoja": "Para identificar cosas, se las coloca en el morro para olerlas y ver el tacto que tienen. A veces hace lo mismo con Spheal.",
+        "Diamante": "Suele hacer girar objetos en su nariz. De esta forma aprende texturas y olores.",
+        "Perla": "Suele hacer girar objetos en su nariz. De esta forma aprende texturas y olores.",
+        "Platino": "Suele hacer girar objetos en su nariz. De esta forma aprende texturas y olores.",
+        "Oro HeartGold": "Su nariz es muy sensible. Cuando ve algo por primera vez, lo toca con ella para recordarlo después.",
+        "Plata SoulSilver": "Su nariz es muy sensible. Cuando ve algo por primera vez, lo toca con ella para recordarlo después.",
+        "Negro": "Suele hacer girar objetos en su nariz. De esta forma aprende texturas y olores.",
+        "Blanco": "Suele hacer girar objetos en su nariz. De esta forma aprende texturas y olores.",
+        "Negro 2": "Hace girar con pericia sobre la punta de su nariz cualquier objeto redondeado, ya sea una Poké Ball o un Spheal.",
+        "Blanco 2": "Hace girar con pericia sobre la punta de su nariz cualquier objeto redondeado, ya sea una Poké Ball o un Spheal.",
+        "Pokémon X": "Su nariz es muy sensible. Cuando ve algo por primera vez, lo toca con ella para recordarlo después.",
+        "Pokémon Y": "Hace girar con pericia sobre la punta de su nariz cualquier objeto redondeado, ya sea una Poké Ball o un Spheal.",
+        "Rubí Omega": "Cada vez que Sealeo ve algo nuevo, se lo pone en el morro y empieza a darle vueltas. A veces, para entretenerse, hace lo mismo con un Spheal.",
+        "Zafiro Alfa": "Sealeo suele balancear y hacer rodar cosas en la punta del morro. Al mismo tiempo, aprovecha para olerlas y detectar la textura que tienen para ver si le gustan o no.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Vive sobre placas de hielo. Detecta el olor de sus presas mientras nada.",
+        "Escudo": "Tiene la costumbre de hacer girar en la punta del morro cualquier objeto redondeado, ya sea una Poké Ball o un Spheal.",
+        "Diamante Brillante": "Tiene la costumbre de hacer girar objetos sobre el morro para familiarizarse con su olor y textura.",
+        "Perla Reluciente": "Tiene la costumbre de hacer girar objetos sobre el morro para familiarizarse con su olor y textura.",
+        "Leyendas: Arceus": "Sus bigotes blancos son muy sensibles. A través del tacto y el olfato, puede determinar el estado de salud de un Spheal colocándoselo sobre la nariz."
+    },
+    "evolution": [
+        [
+            "Spheal",
+            "Nivel 32",
+            "Sealeo",
+            "Nivel 44",
+            "Walrein"
+        ]
+    ]
+}

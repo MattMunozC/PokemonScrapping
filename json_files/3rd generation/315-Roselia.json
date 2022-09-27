@@ -1,0 +1,176 @@
+{
+    "dex number": "315",
+    "pokemon name": "Roselia",
+    "types": [
+        "planta",
+        "veneno"
+    ],
+    "abilities": [
+        "Cura natural",
+        "Punto tóxico"
+    ],
+    "hidden abilities": [
+        "Defensa hoja"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "60",
+        "def": "45",
+        "atk esp": "100",
+        "def esp": "80",
+        "speed": "65"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: ruta 117."
+        ],
+        "Zafiro": [
+            "Salvaje: ruta 117."
+        ],
+        "Esmeralda": [
+            "Intercambiar de Pokémon Rubí o Zafiro.",
+            "Especial: Transferir de Pokémon XD."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar de Pokémon Rubí o Zafiro.",
+            "Especial: Transferir de Pokémon XD."
+        ],
+        "Verde Hoja": [
+            "Intercambiar de Pokémon Rubí o Zafiro.",
+            "Especial: Transferir de Pokémon XD."
+        ],
+        "Diamante": [
+            "Salvaje: rutas 212, 221, 224, 225 y 229, Jardín Trofeo, Gran Pantano.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Salvaje: rutas 212, 221, 224, 225 y 229, Jardín Trofeo, Gran Pantano.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Salvaje: rutas 208, 209, 210, 212, 221, 224, 229 y 230, Jardín Trofeo, Gran Pantano.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco": [
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 12, Bosque de los Perdidos, Calle Victoria.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 12, Bosque de los Perdidos, Calle Victoria.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 7.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 7.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 117.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 117.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día."
+        ],
+        "Sol": [
+            "Escáner insular: en los Jardines de Ula-Ula (Solo los Miércoles)."
+        ],
+        "Luna": [
+            "Escáner insular: en los Jardines de Ula-Ula (Solo los Miércoles)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Área Silvestre: Lago Milotic (sur), Ojo de Axew, Espejo del Gigante, Cuenca Polvorienta, Pradera Radiante.",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Espejo del Gigante, nido al sur, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro. Con posible habilidad oculta: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al suroeste y Ribera de Pistón, nido junto al muro de Ciudad Pistón.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día."
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Área Silvestre: Lago Milotic (sur), Ojo de Axew, Espejo del Gigante, Cuenca Polvorienta, Pradera Radiante.",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Espejo del Gigante, nido al sur, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro. Con posible habilidad oculta: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al suroeste y Ribera de Pistón, nido junto al muro de Ciudad Pistón.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: rutas 212 (sur y norte), 221, 224, 225 y 229, Jardín Trofeo y Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: rutas 212 (sur y norte), 221, 224 y 225, Jardín Trofeo y Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa y Caverna Insondable.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pantanal Carmesí: Relleno Nebuloso, Ciénaga Bocazas. Ladera Corona: Fuente de las Hadas.",
+            "Evolucionar: a Budew, con alto nivel de amistad, subiendo un nivel durante el día."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Roselia lanza finas espinas a todo el que se acerca con intención de robarle las flores de los brazos. El aroma de este Pokémon resulta relajante a los seres vivos.",
+        "Zafiro": "Dicen que, en muy raras ocasiones, aparece un ejemplar de Roselia con las flores de colores muy poco comunes. Las espinas que este Pokémon tiene en la cabeza contienen un veneno extremadamente peligroso.",
+        "Esmeralda": "Si Roselia absorbe sus nutrientes de las ricas lluvias primaverales, florece con gran belleza. La fragancia de sus flores hace que sus enemigos se confíen.",
+        "Rojo Fuego": "Las flores que tiene desprenden un aroma relajante. Cuanto más intenso, mejor es el estado de salud de Roselia.",
+        "Verde Hoja": "Las flores que tiene desprenden un aroma relajante. Cuanto más intenso, mejor es el estado de salud de Roselia.",
+        "Diamante": "Si este Pokémon crece con agua limpia y potable, le brotarán flores de vivos colores.",
+        "Perla": "Las hermosas flores de sus brazos tienen espinas tóxicas. Mejor ni acercarse.",
+        "Platino": "Si goza de mejor salud, el aroma de sus flores será más agradable. Es un aroma que relaja a la gente.",
+        "Oro HeartGold": "Se dice que le brotan flores de colores poco usuales si bebe agua de manantial rica en nutrientes.",
+        "Plata SoulSilver": "Se dice que le brotan flores de colores poco usuales si bebe agua de manantial rica en nutrientes.",
+        "Negro": "Si goza de mejor salud, el aroma de sus flores será más agradable. Es un aroma que relaja a la gente.",
+        "Blanco": "Si goza de mejor salud, el aroma de sus flores será más agradable. Es un aroma que relaja a la gente.",
+        "Negro 2": "Ataca con sus manos, en las que tiene un tipo de veneno diferente en cada una. Cuanto más aroma, mejor salud tiene.",
+        "Blanco 2": "Ataca con sus manos, en las que tiene un tipo de veneno diferente en cada una. Cuanto más aroma, mejor salud tiene.",
+        "Pokémon X": "Ataca con sus manos, en las que tiene un tipo de veneno diferente en cada una. Cuanto más aroma, mejor salud tiene.",
+        "Pokémon Y": "Se dice que le brotan flores de colores poco usuales si bebe agua de manantial rica en nutrientes.",
+        "Rubí Omega": "Roselia lanza finas espinas a todo el que se acerca con intención de robarle las flores de los brazos. El aroma de este Pokémon resulta relajante a los seres vivos.",
+        "Zafiro Alfa": "Dicen que, en muy raras ocasiones, aparece un ejemplar de Roselia con las flores de colores muy poco comunes. Las espinas que este Pokémon tiene en la cabeza contienen un veneno extremadamente peligroso.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Las flores que tiene emanan un aroma relajante. Cuanto más intenso, mejor es su estado de salud.",
+        "Escudo": "Ataca con sus manos, cada una de las cuales contiene un tipo de veneno diferente. Cuanto más intenso es su aroma, mejor salud tiene.",
+        "Diamante Brillante": "Es conocido por sus flores de vivos colores, que le brotan cuando se alimenta de aguas limpias.",
+        "Perla Reluciente": "Las hermosas flores de sus brazos tienen espinas tóxicas, por lo que no conviene intentar cogerlas.",
+        "Leyendas: Arceus": "Un Pokémon de gran belleza dotado de espinas altamente venenosas. En mi tierra, existe una antigua tradición de enviárselas a alguien para retarlo en duelo."
+    },
+    "evolution": [
+        [
+            "Budew",
+            "Amistad+ nivel (día) ",
+            "Roselia",
+            "Piedra día ",
+            "Roserade"
+        ]
+    ]
+}

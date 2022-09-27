@@ -1,0 +1,156 @@
+{
+    "dex number": "359",
+    "pokemon name": "Absol",
+    "types": [
+        "siniestro"
+    ],
+    "abilities": [
+        "Presión",
+        "Afortunado"
+    ],
+    "hidden abilities": [
+        "Justiciero"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "130",
+        "def": "60",
+        "atk esp": "75",
+        "def esp": "60",
+        "speed": "75"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Ruta 120"
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 120"
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 120"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro, Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Manada: Ruta 213",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Manada: Ruta 213",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Salvaje: Monte Corona",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje, sonidos de Hoenn: Cueva Oscura, Cueva Unión, Pozo Slowpoke, Monte Mortero, Islas Remolino, Cueva Acantilado, Ruta Helada, Cataratas Tohjo, Calle Victoria, Cueva Diglett, Monte Moon, Cueva Celeste, Túnel Roca, Islas Espuma y Monte Plateado"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje, sonidos de Hoenn: Cueva Oscura, Cueva Unión, Pozo Slowpoke, Monte Mortero, Islas Remolino, Cueva Acantilado, Ruta Helada, Cataratas Tohjo, Calle Victoria, Cueva Diglett, Monte Moon, Cueva Celeste, Túnel Roca, Islas Espuma y Monte Plateado"
+        ],
+        "Negro": [
+            "Salvaje: Boquete Gigante y Ruta 13",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco": [
+            "Salvaje: Boquete Gigante y Ruta 13",
+            "Dream World: Monte Escarpado"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 13 y Ruta 14",
+            "Claro Oculto: Ruta 23",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 13 y Ruta 14",
+            "Claro Oculto: Ruta 23",
+            "Dream World: Monte Escarpado"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 8",
+            "Especial: Safari Amistad, en algunos safaris de tipo siniestro"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 8",
+            "Especial: Safari Amistad, en algunos safaris de tipo siniestro"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 120"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 120"
+        ],
+        "Sol": [
+            "Salvaje: Monte Lanakila y Aldea Tapu"
+        ],
+        "Luna": [
+            "Salvaje: Monte Lanakila y Aldea Tapu"
+        ],
+        "Ultrasol": [
+            "Salvaje: Monte Lanakila y Aldea Tapu"
+        ],
+        "Ultraluna": [
+            "Salvaje: Monte Lanakila y Aldea Tapu"
+        ],
+        "Espada": [
+            "Salvaje: Campo Bajocero , Lecho del Gigante , Viejo Cementerio , Desfiladero Nevado , Senda Blancacima , Suela del Gigante , Mar Gélido  y Encrucijada Tresvías ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante  y Mar Gélido "
+        ],
+        "Escudo": [
+            "Salvaje: Campo Bajocero , Lecho del Gigante , Viejo Cementerio , Desfiladero Nevado , Senda Blancacima , Suela del Gigante , Mar Gélido  y Encrucijada Tresvías ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante  y Mar Gélido "
+        ],
+        "Diamante Brillante": [
+            "Manada: Ruta 213.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Caverna Peñasco, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Perla Reluciente": [
+            "Manada: Ruta 213.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Caverna Peñasco, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Leyendas: Arceus": [
+            "Absol no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Cada vez que Absol aparece ante la gente, ocurre una catástrofe natural como un terremoto o un maremoto. Por esta razón se le conoce como el Pokémon de las catástrofes.",
+        "Zafiro": "Absol tiene la habilidad de predecir las catástrofes naturales. Este Pokémon vive en hábitats montañosos, hostiles y accidentados de los que rara vez se aleja.",
+        "Esmeralda": "Detecta con precisión cualquier cambio producido en la atmósfera o la tierra y predice catástrofes naturales. Es un Pokémon longevo que vive 100 años.",
+        "Rojo Fuego": "Aparece cuando prevé una catástrofe natural inminente, por eso dicen que trae mala suerte.",
+        "Verde Hoja": "Aparece cuando prevé una catástrofe natural inminente, por eso dicen que trae mala suerte.",
+        "Diamante": "Presiente desastres inminentes y se aparece a la gente para advertir del peligro.",
+        "Perla": "Presiente desastres inminentes y se aparece a la gente para advertir del peligro.",
+        "Platino": "Cuando se supo que presentía los desastres con su cuerno, tuvo que buscar refugio en las montañas.",
+        "Oro HeartGold": "Presiente los desastres naturales. Puede llegar a superar los 100 años de vida.",
+        "Plata SoulSilver": "Presiente los desastres naturales. Puede llegar a superar los 100 años de vida.",
+        "Negro": "Cuando se supo que presentía los desastres con su cuerno, tuvo que buscar refugio en las montañas.",
+        "Blanco": "Cuando se supo que presentía los desastres con su cuerno, tuvo que buscar refugio en las montañas.",
+        "Negro 2": "Abandona su refugio en las montañas para prevenir a los humanos de los desastres que predice con su cuerno.",
+        "Blanco 2": "Abandona su refugio en las montañas para prevenir a los humanos de los desastres que predice con su cuerno.",
+        "Pokémon X": "Presiente desastres inminentes y se aparece a la gente para advertir del peligro.",
+        "Pokémon Y": "Aparece cuando prevé una catástrofe natural inminente, por eso dicen que trae mala suerte.",
+        "Rubí Omega": "Cada vez que Absol aparece ante la gente, ocurre una catástrofe natural como un terremoto o un maremoto. Por esta razón se le conoce como el Pokémon de las catástrofes.",
+        "Zafiro Alfa": "Absol tiene la habilidad de predecir las catástrofes naturales. Este Pokémon vive en hábitats montañosos, hostiles y accidentados de los que rara vez se aleja.",
+        "Sol": "\nAbsol: Repudiado por las supersticiones de antaño que lo proclamaban heraldo de catástrofes naturales, tuvo que refugiarse en las montañas.\nMega-Absol: El pelaje erizado de su dorso se asemeja a un par de alas que, al agitarse, emiten una potente aura que arrolla al rival.",
+        "Luna": "\nAbsol: Se rumorea que es portador de calamidades, pero en realidad tiene un carácter muy dócil. Alerta a los humanos cuando vienen catástrofes.\nMega-Absol: Al megaevolucionar, el pelaje del dorso se le eriza de tal forma que parece tener alas. Pero al no tratarse de verdaderas alas, no puede volar.",
+        "Ultrasol": "\nAbsol: Aunque su apariencia sea siniestra, en realidad le agradecen que alerte de cualquier catástrofe inminente y que proteja los cultivos.\nMega-Absol: Al ser de naturaleza pacífica, odia adoptar esta forma tan apta para los combates.",
+        "Ultraluna": "\nAbsol: Pese a que los ancianos lo repudian tildándolo de Pokémon Catástrofe, cada vez es mayor el interés por su capacidad de prever desastres.\nMega-Absol: La energía de la megaevolución lo rodea formando un aura abrumadora. Quienes carecen de fortaleza espiritual mueren del susto al verlo.",
+        "Espada": "Corre por montañas y prados a la velocidad del viento. Su cuerno curvado tiene tal sensibilidad que puede predecir catástrofes naturales.",
+        "Escudo": "Debido a su capacidad para predecir desastres, se lo ha considerado desacertadamente un Pokémon portador de desgracias.",
+        "Diamante Brillante": "Presiente desastres inminentes. Solo se aparece ante la gente para advertir del peligro.",
+        "Perla Reluciente": "Presiente desastres inminentes. Solo se aparece ante la gente para advertir del peligro.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Absol"
+        ]
+    ]
+}

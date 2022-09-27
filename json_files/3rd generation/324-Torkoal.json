@@ -1,0 +1,156 @@
+{
+    "dex number": "324",
+    "pokemon name": "Torkoal",
+    "types": [
+        "fuego"
+    ],
+    "abilities": [
+        "Humo blanco",
+        "Sequía"
+    ],
+    "hidden abilities": [
+        "Caparazón"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "85",
+        "def": "140",
+        "atk esp": "85",
+        "def esp": "70",
+        "speed": "20"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Senda Ígnea"
+        ],
+        "Zafiro": [
+            "Salvaje: Senda Ígnea"
+        ],
+        "Esmeralda": [
+            "Salvaje: Senda Ígnea y Guarida Magma."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pokéradar: Ruta 227 y Montaña Dura",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Pokéradar: Ruta 227 y Montaña Dura",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Pokéradar: Ruta 227 y Montaña Dura",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Monte Escarpado"
+        ],
+        "Negro 2": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Monte Escarpado"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 18"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 18"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Senda Ígnea"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Senda Ígnea"
+        ],
+        "Sol": [
+            "Salvaje: Ruta 12 y Monte Rubor"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 12 y Monte Rubor"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 12 y Monte Rubor"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 12 y Monte Rubor"
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Ruta 6",
+            "Área Silvestre: Gorro del Gigante (soleado), Ribera de Pistón (soleado), Espejo del Gigante (soleado)",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida."
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Ruta 6",
+            "Área Silvestre: Gorro del Gigante (soleado), Ribera de Pistón (soleado), Espejo del Gigante (soleado)",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Con posible habilidad oculta: Cornisa de Artejo, nido al sur y Llanura Pétrea, nido al norte en la zona árida."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Ruta 227.",
+            "Grutas del Subsuelo: Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Ruta 227.",
+            "Grutas del Subsuelo: Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Leyendas: Arceus": [
+            "Torkoal no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Va cavando por las montañas en busca de carbón. Cuando lo encuentra, rellena los huecos que tiene dentro del caparazón y lo quema. Si le atacan, este Pokémon echa un humo negro que le permite la retirada",
+        "Zafiro": "Torkoal genera energía quemando carbón. A medida que se extingue el fuego, se va debilitando. Antes de entrar en combate, quema más carbón de lo habitual.",
+        "Esmeralda": "Lucha usando la energía que obtiene quemando carbón. Cuando suelta humo por los orificios nasales, emite un sonido que recuerda a la chimenea de una locomotora.",
+        "Rojo Fuego": "Quema carbón en el interior de su caparazón. Si le atacan, echa un denso humo negro y huye.",
+        "Verde Hoja": "Quema carbón en el interior de su caparazón. Si le atacan, echa un denso humo negro y huye.",
+        "Diamante": "Quema carbón en su caparazón para obtener energía. Si le atacan, echa un denso humo negro.",
+        "Perla": "Quema carbón en su caparazón para obtener energía. Si le atacan, echa un denso humo negro.",
+        "Platino": "Quema carbón en su caparazón para obtener energía. Si le atacan, echa un denso humo negro.",
+        "Oro HeartGold": "Trabaja sin descanso en minas en desuso localizando y extrayendo carbón.",
+        "Plata SoulSilver": "Trabaja sin descanso en minas en desuso localizando y extrayendo carbón.",
+        "Negro": "Quema carbón en su caparazón para obtener energía. Si le atacan, echa un denso humo negro.",
+        "Blanco": "Quema carbón en su caparazón para obtener energía. Si le atacan, echa un denso humo negro.",
+        "Negro 2": "Quema carbón en su caparazón para obtener energía. Si le atacan, echa un denso humo negro.",
+        "Blanco 2": "Quema carbón en su caparazón para obtener energía. Si le atacan, echa un denso humo negro.",
+        "Pokémon X": "Trabaja sin descanso en minas en desuso localizando y extrayendo carbón.",
+        "Pokémon Y": "Quema carbón en su caparazón para obtener energía. Si le atacan, echa un denso humo negro.",
+        "Rubí Omega": "Va cavando por las montañas en busca de carbón. Cuando lo encuentra, rellena los huecos que tiene dentro del caparazón y lo quema. Si le atacan, este Pokémon echa un humo negro que le permite la retirada",
+        "Zafiro Alfa": "Torkoal genera energía quemando carbón. A medida que se extingue el fuego, se va debilitando. Antes de entrar en combate, quema más carbón de lo habitual.",
+        "Sol": "La fuente de su energía es el carbón. Torkoal suele vivir en montañas donde yacen grandes cantidades de esta roca mineral.",
+        "Luna": "Si se extingue el fuego que arde en el interior de su caparazón, puede perecer. Si se cría en casa, no hay día que no queme algo accidentalmente.",
+        "Ultrasol": "El humo que expulsa por el dorso es indicativo de su estado de salud. Si las fumarolas brotan con fuerza, significa que está en plena forma.",
+        "Ultraluna": "Genera su energía quemando carbón y, una vez que lo ha consumido por completo, ya no puede moverse.",
+        "Espada": "Quema carbón en su caparazón para obtener energía. Si se ve amenazado, despide un hollín negro.",
+        "Escudo": "Se junta con numerosos congéneres para establecer su morada en minas abandonadas, donde se afanan en localizar y extraer carbón.",
+        "Diamante Brillante": "Quema carbón en su caparazón para obtener energía. Si se ve amenazado, despide un hollín negro.",
+        "Perla Reluciente": "Quema carbón en su caparazón para obtener energía. Si se ve amenazado, despide un hollín negro.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Torkoal"
+        ]
+    ]
+}

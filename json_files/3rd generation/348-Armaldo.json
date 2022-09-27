@@ -1,0 +1,150 @@
+{
+    "dex number": "348",
+    "pokemon name": "Armaldo",
+    "types": [
+        "roca",
+        "bicho"
+    ],
+    "abilities": [
+        "Armadura batalla"
+    ],
+    "hidden abilities": [
+        "Nado rápido"
+    ],
+    "stats": {
+        "hp": "75",
+        "atk": "125",
+        "def": "100",
+        "atk esp": "70",
+        "def esp": "80",
+        "speed": "45"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Evolucionar: de Anorith (nivel 40).",
+            "Parque Compi: Zona marina."
+        ],
+        "Perla": [
+            "Evolucionar: de Anorith (nivel 40).",
+            "Parque Compi: Zona marina."
+        ],
+        "Platino": [
+            "Evolucionar: de Anorith (nivel 40).",
+            "Parque Compi: Zona marina."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Anorith (nivel 40).",
+            "Parque Compi: Zona marina."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Perla o Platino u Oro HeartGold.",
+            "Parque Compi: Zona marina."
+        ],
+        "Negro": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Blanco": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Negro 2": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon X."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Espada": [
+            "Salvaje: Lago Bolaguna ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado , Templo Corona , Suela del Gigante  y Lago Bolaguna ",
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Salvaje: Lago Bolaguna ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado , Templo Corona , Suela del Gigante  y Lago Bolaguna ",
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Anorith (nivel 40)."
+        ],
+        "Leyendas: Arceus": [
+            "Armaldo no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Armaldo tiene una sólida armadura que repele cualquier ataque. Este Pokémon puede estirar o encoger todo lo que quiera las pinzas que tiene. Con ellas, puede atravesar una plancha de acero.",
+        "Zafiro": "Armaldo es una de las especies de Pokémon que se extinguieron en la era prehistórica. Se cree que caminaban sobre las patas traseras; lo más apropiado para la vida en tierra firme.",
+        "Esmeralda": "Armaldo vive generalmente en tierra. Sin embargo, cuando caza, se zambulle en el océano y se pone a nadar usando las dos grandes alas que tiene.",
+        "Rojo Fuego": "Está protegido por una fuerte armadura y tiene un cuerpo robusto. Engancha a sus presas con las pinzas y las devora.",
+        "Verde Hoja": "Está protegido por una fuerte armadura y tiene un cuerpo robusto. Engancha a sus presas con las pinzas y las devora.",
+        "Diamante": "Tras evolucionar, este Pokémon fue a tierra firme. Una dura coraza protege todo su cuerpo.",
+        "Perla": "Tras evolucionar, este Pokémon fue a tierra firme. Una dura coraza protege todo su cuerpo.",
+        "Platino": "Tras evolucionar, este Pokémon fue a tierra firme. Una dura coraza protege todo su cuerpo.",
+        "Oro HeartGold": "Ensarta a sus presas con sus gigantescas garras elásticas.Una fuerte coraza cubre su cuerpo.",
+        "Plata SoulSilver": "Ensarta a sus presas con sus gigantescas garras elásticas.Una fuerte coraza cubre su cuerpo.",
+        "Negro": "Tras evolucionar, este Pokémon fue a tierra firme. Una dura coraza protege todo su cuerpo.",
+        "Blanco": "Tras evolucionar, este Pokémon fue a tierra firme. Una dura coraza protege todo su cuerpo.",
+        "Negro 2": "Tras evolucionar, este Pokémon fue a tierra firme. Una dura coraza protege todo su cuerpo.",
+        "Blanco 2": "Tras evolucionar, este Pokémon fue a tierra firme. Una dura coraza protege todo su cuerpo.",
+        "Pokémon X": "Ensarta a sus presas con sus gigantescas garras elásticas.Una fuerte coraza cubre su cuerpo.",
+        "Pokémon Y": "Está protegido por una fuerte armadura y tiene un cuerpo robusto. Engancha a sus presas con las pinzas y las devora.",
+        "Rubí Omega": "Armaldo tiene una sólida armadura que repele cualquier ataque. Este Pokémon puede estirar o encoger todo lo que quiera las pinzas que tiene. Con ellas, puede atravesar una plancha de acero.",
+        "Zafiro Alfa": "Armaldo es una de las especies de Pokémon que se extinguieron en la era prehistórica. Se cree que caminaban sobre las patas traseras; lo más apropiado para la vida en tierra firme.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Vivía en tierra firme, pero se adentraba en el mar en busca de presas a las que cazar con sus afiladas pinzas, un arma de lo más temible.",
+        "Ultraluna": "Este Pokémon abandonó el mar para habitar en tierra firme. Según se ha demostrado, es el antepasado de algunos Pokémon insecto.",
+        "Espada": "Tras evolucionar, pasó a vivir en tierra firme. Posee tal fuerza en la parte inferior del cuerpo que un solo coletazo puede resultar devastador.",
+        "Escudo": "Vive en tierra firme, pero es un hábil nadador. Se zambulle en el agua en busca de presas y las atrapa con sus afiladas pinzas.",
+        "Diamante Brillante": "Tras la evolución, pasó a vivir en tierra firme. Una dura coraza le protege todo el cuerpo.",
+        "Perla Reluciente": "Tras la evolución, pasó a vivir en tierra firme. Una dura coraza le protege todo el cuerpo.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Anorith",
+            "Nivel 40",
+            "Armaldo"
+        ]
+    ]
+}

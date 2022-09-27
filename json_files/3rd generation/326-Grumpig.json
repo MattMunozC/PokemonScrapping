@@ -1,0 +1,147 @@
+{
+    "dex number": "326",
+    "pokemon name": "Grumpig",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Ritmo propio",
+        "Sebo"
+    ],
+    "hidden abilities": [
+        "Gula"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "45",
+        "def": "65",
+        "atk esp": "90",
+        "def esp": "110",
+        "speed": "80"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Spoink (nivel 32)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Spoink (nivel 32)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Spoink (nivel 32)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Evolucionar: de Spoink (nivel 32).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Evolucionar: de Spoink (nivel 32).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Evolucionar: de Spoink (nivel 32).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Spoink (nivel 32).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Spoink (nivel 32).",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Evolucionar: de Spoink (nivel 32)."
+        ],
+        "Blanco": [
+            "Evolucionar: de Spoink (nivel 32)."
+        ],
+        "Negro 2": [
+            "Salvaje:  Montaña Reversia.",
+            "Evolucionar: de Spoink (nivel 32)."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Spoink (nivel 32)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Spoink (nivel 32)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Spoink (nivel 32)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Spoink (nivel 32)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde."
+        ],
+        "Espada": [
+            "Grumpig no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Grumpig no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Spoink (nivel 32)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Spoink (nivel 32)."
+        ],
+        "Leyendas: Arceus": [
+            "Grumpig no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Grumpig usa las perlas negras que tiene para amplificar las ondas de su poder psíquico y controlar del todo al rival. Cuando usa su poder especial, se le cansa la respiración y resopla con pesadez.",
+        "Zafiro": "Grumpig utiliza las perlas negras que tiene para usar fantásticos poderes mientras baila de forma muy extraña. Las perlas de este Pokémon están consideradas como valiosas obras de arte.",
+        "Esmeralda": "Almacena energía en las perlas negras de la frente. Al usar poderes psíquicos, hace un curioso pase de baile. Su manera de bailar se ha hecho de lo más popular.",
+        "Rojo Fuego": "Realiza unos raros pasos de baile para captar la atención del rival. Las perlas negras que tiene son valiosísimas.",
+        "Verde Hoja": "Realiza unos raros pasos de baile para captar la atención del rival. Las perlas negras que tiene son valiosísimas.",
+        "Diamante": "Usa perlas negras para potenciar sus poderes psíquicos. Con su raro baile controla a los rivales.",
+        "Perla": "Usa perlas negras para potenciar sus poderes psíquicos. Con su raro baile controla a los rivales.",
+        "Platino": "Usa perlas negras para potenciar sus poderes psíquicos. Con su raro baile controla a los rivales.",
+        "Oro HeartGold": "Para controlar a su rival usa unos curiosos pasos de baile, antaño muy populares en el extranjero.",
+        "Plata SoulSilver": "Para controlar a su rival usa unos curiosos pasos de baile, antaño muy populares en el extranjero.",
+        "Negro": "Usa perlas negras para potenciar sus poderes psíquicos. Con su raro baile controla a los rivales.",
+        "Blanco": "Usa perlas negras para potenciar sus poderes psíquicos. Con su raro baile controla a los rivales.",
+        "Negro 2": "Las perlas negras aumentan sus poderes psíquicos. Controla las mentes de sus rivales con un extraño baile.",
+        "Blanco 2": "Las perlas negras aumentan sus poderes psíquicos. Controla las mentes de sus rivales con un extraño baile.",
+        "Pokémon X": "Las perlas negras aumentan sus poderes psíquicos. Controla las mentes de sus rivales con un extraño baile.",
+        "Pokémon Y": "Usa perlas negras para potenciar sus poderes psíquicos. Con su raro baile controla a los rivales.",
+        "Rubí Omega": "Grumpig usa las perlas negras que tiene para amplificar las ondas de su poder psíquico y controlar del todo al rival. Cuando usa su poder especial, se le cansa la respiración y resopla con pesadez.",
+        "Zafiro Alfa": "Grumpig utiliza las perlas negras que tiene para usar fantásticos poderes mientras baila de forma muy extraña. Las perlas de este Pokémon están consideradas como valiosas obras de arte.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Usa perlas negras para potenciar sus poderes psíquicos. Controla las mentes de sus rivales con un extraño baile.",
+        "Perla Reluciente": "Usa perlas negras para potenciar sus poderes psíquicos. Controla las mentes de sus rivales con un extraño baile.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Spoink",
+            "Nivel 32",
+            "Grumpig"
+        ]
+    ]
+}

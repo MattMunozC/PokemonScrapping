@@ -1,0 +1,156 @@
+{
+    "dex number": "375",
+    "pokemon name": "Metang",
+    "types": [
+        "acero",
+        "psíquico"
+    ],
+    "abilities": [
+        "Cuerpo puro"
+    ],
+    "hidden abilities": [
+        "Metal liviano"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "75",
+        "def": "100",
+        "atk esp": "55",
+        "def esp": "80",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Beldum (nivel 20)"
+        ],
+        "Zafiro": [
+            "Evolucionar: de Beldum (nivel 20)"
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Beldum (nivel 20)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Evolucionar: de Beldum (nivel 20)",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Evolucionar: de Beldum (nivel 20)",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Evolucionar: de Beldum (nivel 20)",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari: Zona Montaña, tras obtener la Pokédex Nacional",
+            "Evolucionar: de Beldum (nivel 20)"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari: Zona Montaña, tras obtener la Pokédex Nacional",
+            "Evolucionar: de Beldum (nivel 20)"
+        ],
+        "Negro": [
+            "Salvaje: Boquete Gigante"
+        ],
+        "Blanco": [
+            "Salvaje: Boquete Gigante"
+        ],
+        "Negro 2": [
+            "Salvaje: Boquete Gigante"
+        ],
+        "Blanco 2": [
+            "Salvaje: Boquete Gigante"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo acero"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo acero"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Beldum (nivel 20)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Beldum (nivel 20)"
+        ],
+        "Sol": [
+            "Evolucionar: de Beldum (nivel 20)",
+            "Poké Resort: Cayo Recreo, tras llegar a Poni"
+        ],
+        "Luna": [
+            "Evolucionar: de Beldum (nivel 20)",
+            "Poké Resort: Cayo Recreo, tras llegar a Poni"
+        ],
+        "Ultrasol": [
+            "Evolucionar: de Beldum (nivel 20)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: de Beldum (nivel 20)"
+        ],
+        "Espada": [
+            "Salvaje: Desfiladero Nevado ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido  y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Evolucionar: de Beldum (nivel 20) "
+        ],
+        "Escudo": [
+            "Salvaje: Desfiladero Nevado ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido  y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Evolucionar: de Beldum (nivel 20) "
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Beldum (nivel 20)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Beldum (nivel 20)."
+        ],
+        "Leyendas: Arceus": [
+            "Metang no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Cuando dos Beldum se fusionan, forman un Metang. Los cerebros de los Beldum se unen mediante un sistema nervioso magnético y generan potente energía psicoquinética.",
+        "Zafiro": "Cuando se funden dos Beldum, uniendo los cerebros por un sistema nervioso magnético, se forma un Metang. Para desplazarse a mayor velocidad, este Pokémon echa los brazos hacia atrás.",
+        "Esmeralda": "Sus brazos acaban en unas garras que acumulan energía destructiva con la que rasga planchas de hierro como si fueran de papel. Vuela a más de 100 km por hora.",
+        "Rojo Fuego": "Levita gracias al magnetismo que posee. Es tan robusto que ni el impacto más fuerte conseguiría hacerle un rasguño.",
+        "Verde Hoja": "Levita gracias al magnetismo que posee. Es tan robusto que ni el impacto más fuerte conseguiría hacerle un rasguño.",
+        "Diamante": "Lo forman dos Beldum unidos. Puede chocarse con un avión sin que su cuerpo de acero sufra ni rasguño.",
+        "Perla": "Lo forman dos Beldum unidos. Puede chocarse con un avión sin que su cuerpo de acero sufra ni rasguño.",
+        "Platino": "Lo forman dos Beldum unidos. Puede chocarse con un avión sin que su cuerpo de acero sufra ni rasguño.",
+        "Oro HeartGold": "Lo forman dos Beldum unidos. Sus dos cerebros también están unidos por un sistema nervioso magnético.",
+        "Plata SoulSilver": "Lo forman dos Beldum unidos. Sus dos cerebros también están unidos por un sistema nervioso magnético.",
+        "Negro": "Lo forman dos Beldum unidos. Puede chocarse con un avión sin que su cuerpo de acero sufra ni rasguño.",
+        "Blanco": "Lo forman dos Beldum unidos. Puede chocarse con un avión sin que su cuerpo de acero sufra ni rasguño.",
+        "Negro 2": "Está formado por dos Beldum unidos. Tiene dos cerebros, así que cuenta con poderes psíquicos amplificados.",
+        "Blanco 2": "Está formado por dos Beldum unidos. Tiene dos cerebros, así que cuenta con poderes psíquicos amplificados.",
+        "Pokémon X": "Lo forman dos Beldum unidos. Puede chocarse con un avión sin que su cuerpo de acero sufra ni rasguño.",
+        "Pokémon Y": "Está formado por dos Beldum unidos. Tiene dos cerebros, así que cuenta con poderes psíquicos amplificados.",
+        "Rubí Omega": "Cuando dos Beldum se fusionan, forman un Metang. Los cerebros de los Beldum se unen mediante un sistema nervioso magnético y generan potente energía psicoquinética.",
+        "Zafiro Alfa": "Cuando se funden dos Beldum, uniendo los cerebros por un sistema nervioso magnético, se forma un Metang. Para desplazarse a mayor velocidad, este Pokémon echa los brazos hacia atrás.",
+        "Sol": "Al unirse dos Beldum, sus poderes psíquicos se duplican. No obstante, su inteligencia no se ve afectada.",
+        "Luna": "Le encanta comer minerales con propiedades magnéticas. Puede rastrear a un Nosepass desplazándose a más de 100 km/h.",
+        "Ultrasol": "El poder psíquico combinado de ambos cerebros es tal que le permite paralizar a sus presas.",
+        "Ultraluna": "Surca el cielo a gran velocidad. En cuanto avista su presa, la agarra con sus afiladas garras y ya no se desprende de ella.",
+        "Espada": "Está formado por la fusión magnética de dos Beldum. Al tener dos cerebros, sus poderes psíquicos se ven duplicados.",
+        "Escudo": "Levita gracias al magnetismo. Es capaz de sortear escarpadas montañas mientras vuela a altas velocidades en pos de su presa.",
+        "Diamante Brillante": "Lo forman dos Beldum unidos. Puede chocarse con un avión sin que su cuerpo de acero sufra ni un rasguño.",
+        "Perla Reluciente": "Lo forman dos Beldum unidos. Puede chocarse con un avión sin que su cuerpo de acero sufra ni un rasguño.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Beldum",
+            "Nivel 20",
+            "Metang",
+            "Nivel 45",
+            "Metagross"
+        ]
+    ]
+}

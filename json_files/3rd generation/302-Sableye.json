@@ -1,0 +1,152 @@
+{
+    "dex number": "302",
+    "pokemon name": "Sableye",
+    "types": [
+        "siniestro",
+        "fantasma"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Rezagado"
+    ],
+    "hidden abilities": [
+        "Bromista"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "75",
+        "def": "75",
+        "atk esp": "65",
+        "def esp": "65",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Intercambiar: de Pokémon Zafiro y Pokémon  Esmeralda"
+        ],
+        "Zafiro": [
+            "Salvaje: Cueva Granito (sótanos 1 y 2), Cueva Ancestral, Pilar Celeste (planta baja, segundo y cuarto piso), Calle Victoria (sótano 2)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Cueva Granito (sótanos 1 y 2), Cueva Ancestral, Pilar Celeste (planta baja, segundo y cuarto piso), Calle Victoria (sótano 2)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Zafiro y Pokémon  Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Zafiro y Pokémon  Esmeralda"
+        ],
+        "Diamante": [
+            "Insertando un videojuego de GBA: Isla Hierro (con Pokémon Zafiro insertado).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Insertando un videojuego de GBA: Isla Hierro (con Pokémon Zafiro insertado).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Insertando un videojuego de GBA: Isla Hierro (con Pokémon Zafiro insertado).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Manada: ruta 9.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Perla, Platino u Oro HeartGold.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Salvaje: Gruta Superación",
+            "Dream World: Villa Antigua."
+        ],
+        "Blanco": [
+            "Salvaje: Gruta Superación",
+            "Dream World: Villa Antigua."
+        ],
+        "Negro 2": [
+            "Especial: Es uno de los Pokémon que Julián le ofrece intercambiar al protagonista en Ciudad Mayólica.",
+            "Dream World: Villa Antigua."
+        ],
+        "Blanco 2": [
+            "Especial: Es uno de los Pokémon que Julián le ofrece intercambiar al protagonista en Ciudad Mayólica.",
+            "Dream World: Villa Antigua."
+        ],
+        "Pokémon X": [
+            "Salvaje: Cueva Reflejos",
+            "Especial: Safari Amistad, en algunos safaris de tipo siniestro."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva Reflejos",
+            "Especial: Safari Amistad, en algunos safaris de tipo siniestro."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Zafiro Alfa, Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Calle Victoria, Cueva Ancestral, Cueva Granito y Pilar Celeste."
+        ],
+        "Sol": [
+            " Salvaje: Colina Dequilate y Cañón de Poni (Como refuerzo de Carbink)."
+        ],
+        "Luna": [
+            " Salvaje: Colina Dequilate y Cañón de Poni (Como refuerzo de Carbink)."
+        ],
+        "Ultrasol": [
+            "Salvaje: Colina Dequilate y Cañón de Poni (Como refuerzo de Carbink)."
+        ],
+        "Ultraluna": [
+            "Salvaje: Colina Dequilate y Cañón de Poni (Como refuerzo de Carbink)."
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Cuenca Polvorienta, en clima de niebla",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Llanura Pétrea, nido al noreste junto a una pared 2. Con posible habilidad oculta: Lago Axew (oeste), nido junto a Ciudad Pistón y Llanura Pétrea, nido al norte 2."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Leyendas: Arceus": [
+            "Sableye no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Los Sableye hacen una vida muy tranquila en cavernas. Pero son muy temidos; se dice que, cuando los ojos les brillan de manera siniestra, están robándole el alma a alguien.",
+        "Zafiro": "Sableye cava en el suelo para buscar con las afiladas garras que tiene rocas para comer. Las sustancias que hay en las rocas que ingiere se solidifican y se le quedan en la piel.",
+        "Esmeralda": "Cava conductos en cuevas usando sus afiladas garras para buscar rocas con las que alimentarse. Sableye permanece al acecho en la oscuridad; no es fácil verlo.",
+        "Rojo Fuego": "Se alimenta de rocas y gemas. En la oscuridad, los ojos le brillan con el destello de las piedras preciosas.",
+        "Verde Hoja": "Se alimenta de rocas y gemas. En la oscuridad, los ojos le brillan con el destello de las piedras preciosas.",
+        "Diamante": "Se oculta en cavernas oscuras. De tanto comer gemas sus ojos son piedras preciosas.",
+        "Perla": "Se oculta en cavernas oscuras. De tanto comer gemas sus ojos son piedras preciosas.",
+        "Platino": "Se oculta en cavernas oscuras. De tanto comer gemas sus ojos son piedras preciosas.",
+        "Oro HeartGold": "Hace su guarida en cuevas oscuras. Usa sus afiladas garras para desenterrar las gemas que se come.",
+        "Plata SoulSilver": "Hace su guarida en cuevas oscuras. Usa sus afiladas garras para desenterrar las gemas que se come.",
+        "Negro": "Se oculta en cavernas oscuras. De tanto comer gemas sus ojos son piedras preciosas.",
+        "Blanco": "Se oculta en cavernas oscuras. De tanto comer gemas sus ojos son piedras preciosas.",
+        "Negro 2": "Se oculta en cavernas oscuras. De tanto comer gemas sus ojos son piedras preciosas.",
+        "Blanco 2": "Se oculta en cavernas oscuras. De tanto comer gemas sus ojos son piedras preciosas.",
+        "Pokémon X": "Se oculta en cavernas oscuras. De tanto comer gemas sus ojos son piedras preciosas.",
+        "Pokémon Y": "Hace su guarida en cuevas oscuras. Usa sus afiladas garras para desenterrar las gemas que se come.",
+        "Rubí Omega": "Los Sableye hacen una vida muy tranquila en cavernas, pero son muy temidos. Se dice que, cuando los ojos les brillan de manera siniestra, están robándole el alma a alguien.",
+        "Zafiro Alfa": "Sableye cava en el suelo para buscar con las afiladas garras que tiene rocas para comer. Las sustancias que hay en las rocas que ingiere se solidifican y se le quedan en la piel.",
+        "Sol": "\nSableye: Le gustan mucho las joyas, por lo que suele merodear cerca de los Carbink. Sin embargo, los Gabite siempre se le suelen adelantar.\nMega-Sableye: Tras la megaevolución, la gema de su pecho crece de forma impresionante, hasta el punto de que puede repeler cualquier ataque.",
+        "Luna": "\nSableye: Se dice que, cuando las gemas de los ojos de estos Pokémon brillan de manera siniestra, están robándole el alma a alguien.\nMega-Sableye: El peso de su gema le dificulta cambiar de dirección con rapidez. Su punto débil son los ataques por la espalda.",
+        "Ultrasol": "\nSableye: Horada la tierra con sus duras garras y extrae gemas que luego desmenuza con sus gruesos colmillos. Los Carbink son su manjar predilecto.\nMega-Sableye: Debido a la energía de la megaevolución, la gema de su pecho se ha agrandado y desprendido desgarrándole la piel.",
+        "Ultraluna": "\nSableye: Algunos de los elementos de las gemas con las que se alimenta emergen en su piel creando patrones variopintos.\nMega-Sableye: Su gema, cuyo tamaño ha aumentado, le sirve de escudo contra algunos ataques. Sin embargo, su peso le estorba para moverse.",
+        "Espada": "Se dice que, cuando las gemas de los ojos de estos Pokémon tan temidos brillan de manera siniestra, están robándole el alma a alguien.",
+        "Escudo": "Se alimenta de gemas. En la oscuridad, los ojos le brillan con el destello de las piedras preciosas.",
+        "Diamante Brillante": "Se oculta en cavernas oscuras. De tanto comer gemas, sus ojos se transformaron en piedras preciosas.",
+        "Perla Reluciente": "Se oculta en cavernas oscuras. De tanto comer gemas, sus ojos se transformaron en piedras preciosas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Sableye"
+        ]
+    ]
+}

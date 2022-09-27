@@ -1,0 +1,153 @@
+{
+    "dex number": "255",
+    "pokemon name": "Torchic",
+    "types": [
+        "fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Impulso"
+    ],
+    "stats": {
+        "hp": "45",
+        "atk": "60",
+        "def": "40",
+        "atk esp": "70",
+        "def esp": "50",
+        "speed": "45"
+    },
+    "location": {
+        "Rubí": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir el profesor Abedul en la Ruta 101 (solo uno)"
+        ],
+        "Zafiro": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir el profesor Abedul en la Ruta 101 (solo uno)"
+        ],
+        "Esmeralda": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir el profesor Abedul en la Ruta 101 (solo uno)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir Máximo Peñas en Silph S. A. tras conseguir las 16 medallas de Johto  y vencer a Rojo (solo uno)",
+            "Parque Compi: Zona pradera",
+            "Pokéwalker: De Turismo"
+        ],
+        "Plata SoulSilver": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir Máximo Peñas en Silph S. A. tras conseguir las 16 medallas de Johto  y vencer a Rojo (solo uno)",
+            "Parque Compi: Zona pradera",
+            "Pokéwalker: De Turismo"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de videojuegos anteriores"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de videojuegos anteriores"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de videojuegos anteriores"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de videojuegos anteriores"
+        ],
+        "Pokémon X": [
+            "Evento: (ver más abajo)",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Evento: (ver más abajo)",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir el profesor Abedul en la Ruta 101 (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir el profesor Abedul en la Ruta 101 (solo uno)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Combusken o Blaziken"
+        ],
+        "Ultraluna": [
+            "Criar: de Combusken o Blaziken"
+        ],
+        "Espada": [
+            "Criar: de Combusken o Blaziken"
+        ],
+        "Escudo": [
+            "Criar: de Combusken o Blaziken"
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Leyendas: Arceus": [
+            "Torchic no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Torchic no se separa de su entrenador. Siempre va detrás de él con sus pasitos inseguros. Este Pokémon echa fuego en forma de bola, que llega a subir la temperatura hasta 1.000 grados centígrados.",
+        "Zafiro": "Torchic tiene un lugar en el interior de su organismo en el que guarda la llama que posee. Si le das un abrazo, arderá encantado. Este Pokémon está recubierto totalmente de sedoso plumón.",
+        "Esmeralda": "Si le atacan, se defiende escupiendo bolas de fuego que forma en el estómago. Los Torchic tienen aversión a la oscuridad porque les impide ver lo que los rodea.",
+        "Rojo Fuego": "En su interior, guarda una llama que arde sin cesar. Si se le abraza, se nota que tiene una temperatura muy alta.",
+        "Verde Hoja": "En su interior, guarda una llama que arde sin cesar. Si se le abraza, se nota que tiene una temperatura muy alta.",
+        "Diamante": "En su interior arde una llama que mantiene su cuerpo caliente. Tira bolas de fuego a 1000 grados.",
+        "Perla": "En su interior arde una llama que mantiene su cuerpo caliente. Tira bolas de fuego a 1000 grados.",
+        "Platino": "En su interior arde una llama que mantiene su cuerpo caliente. Tira bolas de fuego a 1000 grados.",
+        "Oro HeartGold": "La bolsa de fuego que arde en su interior hace que al abrazarlo esté tan caliente como un calientapiés.",
+        "Plata SoulSilver": "La bolsa de fuego que arde en su interior hace que al abrazarlo esté tan caliente como un calientapiés.",
+        "Negro": "En su interior arde una llama que mantiene su cuerpo caliente. Tira bolas de fuego a 1000°.",
+        "Blanco": "En su interior arde una llama que mantiene su cuerpo caliente. Tira bolas de fuego a 1000°.",
+        "Negro 2": "En su interior arde una llama que mantiene su cuerpo caliente. Tira bolas de fuego a 1000°.",
+        "Blanco 2": "En su interior arde una llama que mantiene su cuerpo caliente. Tira bolas de fuego a 1000°.",
+        "Pokémon X": "En su interior, guarda una llama que arde sin cesar. Si se le abraza, se nota que tiene una temperatura muy alta.",
+        "Pokémon Y": "En su interior arde una llama que mantiene su cuerpo caliente. Tira bolas de fuego a 1000°.",
+        "Rubí Omega": "Torchic no se separa de su entrenador. Siempre va tras él con sus pasitos inseguros. Este Pokémon escupe bolas de fuego que pueden alcanzar los 1.000 grados centígrados y carbonizar al enemigo.",
+        "Zafiro Alfa": "Torchic tiene un lugar en el interior de su organismo en el que guarda la llama que posee. Si le das un abrazo, arderá encantado. Este Pokémon está recubierto totalmente de sedoso plumón.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Es muy caliente al tacto debido a la llama que arde en su interior. Lanza bolas de fuego a 1000 ºC.",
+        "Perla Reluciente": "Es muy caliente al tacto debido a la llama que arde en su interior. Lanza bolas de fuego a 1000 ºC.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Torchic",
+            "Nivel 16",
+            "Combusken",
+            "Nivel 36",
+            "Blaziken"
+        ]
+    ]
+}

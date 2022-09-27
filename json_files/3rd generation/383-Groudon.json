@@ -1,0 +1,145 @@
+{
+    "dex number": "383",
+    "pokemon name": "Groudon",
+    "types": [
+        "tierra"
+    ],
+    "abilities": [
+        "Sequía"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "100",
+        "atk": "150",
+        "def": "140",
+        "atk esp": "100",
+        "def esp": "90",
+        "speed": "90"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Cueva Ancestral (solo uno)"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda"
+        ],
+        "Esmeralda": [
+            "Salvaje: Cueva Terrena (solo uno)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Plata SoulSilver",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Plata SoulSilver",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Plata SoulSilver",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Plata SoulSilver",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Torre Oculta (solo uno). Se necesita la esfera roja",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Negro 2": [
+            "PokéTransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Blanco 2": [
+            "PokéTransfer: Transferir desde videojuegos anteriores"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Ancestral (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo (solo uno)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Especial: Parque Hansa (Sala de la Tierra)."
+        ],
+        "Perla Reluciente": [
+            "Especial: Parque Hansa (Sala de la Tierra)."
+        ],
+        "Leyendas: Arceus": [
+            "Groudon no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "A Groudon siempre se le ha descrito en mitología como el Pokémon que elevó la tierra y expandió los continentes. Tras un combate contra Kyogre que acabó en cataclismo, se echó a dormir.",
+        "Zafiro": "Groudon tiene el poder de disipar las nubes que amenazan con lluvia y de hacer que el agua se evapore con luz y calor. Es el héroe de quienes sufren terribles inundaciones.",
+        "Esmeralda": "En la mitología se considera a Groudon el creador de la tierra. Duerme enterrado en magma y dicen que, al despertar, hace que los volcanes entren en erupción.",
+        "Rojo Fuego": "Dicen que este Pokémon legendario simboliza la tierra. Tras batirse en duelo con Kyogre se echó a dormir.",
+        "Verde Hoja": "Dicen que este Pokémon legendario simboliza la tierra. Tras batirse en duelo con Kyogre se echó a dormir.",
+        "Diamante": "Ha estado durmiendo en magma subterráneo desde que luchó contra Kyogre en tiempos remotos.",
+        "Perla": "Ha estado durmiendo en magma subterráneo desde que luchó contra Kyogre en tiempos remotos.",
+        "Platino": "Ha estado durmiendo en magma subterráneo desde que luchó contra Kyogre en tiempos remotos.",
+        "Oro HeartGold": "Dicen que aumentó la superficie terrestre evaporando el agua. Fue un enemigo acérrimo de Kyogre.",
+        "Plata SoulSilver": "Dicen que aumentó la superficie terrestre evaporando el agua. Fue un enemigo acérrimo de Kyogre.",
+        "Negro": "Ha estado durmiendo en magma subterráneo desde que luchó contra Kyogre en tiempos remotos.",
+        "Blanco": "Ha estado durmiendo en magma subterráneo desde que luchó contra Kyogre en tiempos remotos.",
+        "Negro 2": "Ha estado durmiendo en magma subterráneo desde que luchó contra Kyogre en tiempos remotos.",
+        "Blanco 2": "Ha estado durmiendo en magma subterráneo desde que luchó contra Kyogre en tiempos remotos.",
+        "Pokémon X": "Dicen que aumentó la superficie terrestre evaporando el agua. Fue un enemigo acérrimo de Kyogre.",
+        "Pokémon Y": "Dicen que este Pokémon legendario simboliza la tierra. Tras batirse en duelo con Kyogre se echó a dormir.",
+        "Rubí Omega": "A Groudon siempre se le ha descrito como el Pokémon que expandió los continentes. Varias leyendas cuentan que libró combates contra Kyogre en repetidas ocasiones para tener el control de la energía de la naturaleza.",
+        "Zafiro Alfa": "Groudon se sirve de la energía de la naturaleza para realizar su Regresión Primigenia y recobrar su apariencia primitiva. Con tal poder, puede crear magma para expandir los continentes.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Ha estado durmiendo en magma subterráneo desde su temible contienda contra Kyogre en tiempos remotos.",
+        "Perla Reluciente": "Ha estado durmiendo en magma subterráneo desde su temible contienda contra Kyogre en tiempos remotos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Groudon"
+        ]
+    ]
+}

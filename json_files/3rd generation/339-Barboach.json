@@ -1,0 +1,155 @@
+{
+    "dex number": "339",
+    "pokemon name": "Barboach",
+    "types": [
+        "agua",
+        "tierra"
+    ],
+    "abilities": [
+        "Despiste",
+        "Anticipación"
+    ],
+    "hidden abilities": [
+        "Hidratación"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "48",
+        "def": "43",
+        "atk esp": "46",
+        "def esp": "41",
+        "speed": "60"
+    },
+    "location": {
+        "Rubí": [
+            "Pescando (caña buena y supercaña): Rutas 111, 114, 120, Cascada Meteoro y Calle Victoria"
+        ],
+        "Zafiro": [
+            "Pescando (caña buena y supercaña): Rutas 111, 114, 120, Cascada Meteoro y Calle Victoria"
+        ],
+        "Esmeralda": [
+            "Pescando (caña buena y supercaña): Rutas 111, 114, 120, Cascada Meteoro y Calle Victoria"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pescando (caña buena): Rutas 205, 208, 210, 212, 227, 228, Senda Desolada, Ciudad Vetusta, Pueblo Caelestis, Puerta Pirita, Gran Pantano y Monte Corona",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Perla": [
+            "Pescando (caña buena): Rutas 205, 208, 210, 212, 227, 228, Senda Desolada, Ciudad Vetusta, Pueblo Caelestis, Puerta Pirita, Gran Pantano y Monte Corona",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Platino": [
+            "Pescando (Caña buena): Rutas 205, 210, 225, 227, Senda Desolada, Ciudad Vetusta, Puerta Pirita, Gran Pantano y Monte Corona",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Oro HeartGold": [
+            "Pescando (supercaña): Zona Safari tras conseguir la Pokédex Nacional",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Plata SoulSilver": [
+            "Pescando (supercaña): Zona Safari tras conseguir la Pokédex Nacional",
+            "Parque Compi: Zona pantanosa"
+        ],
+        "Negro": [
+            "Pescando (supercaña): Pantano Teja, Ciudad Teja y Ruta 8",
+            "Pokémon Dream World: Mar Brillante"
+        ],
+        "Blanco": [
+            "Pescando (supercaña): Pantano Teja, Ciudad Teja y Ruta 8",
+            "Pokémon Dream World: Mar Brillante"
+        ],
+        "Negro 2": [
+            "Pescando (supercaña): Pantano Teja, Ciudad Teja y Ruta 8",
+            "Pokémon Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Pescando (supercaña): Pantano Teja, Ciudad Teja y Ruta 8",
+            "Pokémon Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Pescando (Caña buena): Rutas 14 y 19"
+        ],
+        "Pokémon Y": [
+            "Pescando (Caña buena): Rutas 14 y 19"
+        ],
+        "Rubí Omega": [
+            "Pescando (caña buena y supercaña): Rutas 111, 114, 120, Cascada Meteoro y Calle Victoria"
+        ],
+        "Zafiro Alfa": [
+            "Pescando (caña buena y supercaña): Rutas 111, 114, 120, Cascada Meteoro y Calle Victoria"
+        ],
+        "Sol": [
+            "Pescando: Gruta Unemar, Pueblo Ohana, Cañón de Poni y Pendiente de Poni"
+        ],
+        "Luna": [
+            "Pescando: Gruta Unemar, Pueblo Ohana, Cañón de Poni y Pendiente de Poni"
+        ],
+        "Ultrasol": [
+            "Pescando: Gruta Unemar, Pueblo Ohana, Cañón de Poni y Pendiente de Poni",
+            "Intercambiar: por Tentacool en la Avenida Royale"
+        ],
+        "Ultraluna": [
+            "Pescando: Gruta Unemar, Pueblo Ohana, Cañón de Poni y Pendiente de Poni",
+            "Intercambiar: por Tentacool en la Avenida Royale"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur."
+        ],
+        "Diamante Brillante": [
+            "Pescando con caña buena: Rutas 205 (norte), 208, 210 (norte), 212 (sur), 227, 228, Senda Desolada, Ciudad Vetusta, Pueblo Caelestis, Puerta Pirita, Gran Pantano y Monte Corona.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Pescando con caña buena: Rutas 205 (norte), 208, 210 (norte), 212 (sur), 227, 228, Senda Desolada, Ciudad Vetusta, Pueblo Caelestis, Puerta Pirita, Gran Pantano y Monte Corona.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pantanal Carmesí:Ciénaga Bocazas y Lago Valor. Ladera Corona:Cueva Extravío"
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Barboach tiene unos bigotes sensibles que le sirven de infalible radar. Este Pokémon se sumerge en lodo y sólo deja los bigotes por fuera de la superficie, al acecho, mientras espera a que llegue su presa.",
+        "Zafiro": "Barboach está totalmente recubierto por una película viscosa. Si lo atrapan, puede escurrirse fácilmente. Si se le seca la capa viscosa, este Pokémon se debilitará.",
+        "Esmeralda": "Tiene el cuerpo cubierto de una película viscosa. Esta capa actúa como barrera y evita que los gérmenes del agua fangosa penetren en el cuerpo de Barboach.",
+        "Rojo Fuego": "Examina los lechos lodosos de los ríos con los largos bigotes que tiene. Está protegido por una capa viscosa.",
+        "Verde Hoja": "Examina los lechos lodosos de los ríos con los largos bigotes que tiene. Está protegido por una capa viscosa.",
+        "Diamante": "Recubre su cuerpo de una película viscosa que le permite escapar si alguien lo agarra.",
+        "Perla": "Sus bigotes le sirven de radar para localizar a sus presas, incluso en las aguas más turbias.",
+        "Platino": "Su escurridizo cuerpo es difícil de agarrar. En cierta región se dice que ha nacido de barro endurecido.",
+        "Oro HeartGold": "Los bigotes de Barboach le permiten saborear los alimentos como si fueran una lengua humana.",
+        "Plata SoulSilver": "Los bigotes de Barboach le permiten saborear los alimentos como si fueran una lengua humana.",
+        "Negro": "Su escurridizo cuerpo es difícil de agarrar. En cierta región se dice que ha nacido de barro endurecido.",
+        "Blanco": "Su escurridizo cuerpo es difícil de agarrar. En cierta región se dice que ha nacido de barro endurecido.",
+        "Negro 2": "Su escurridizo cuerpo es difícil de agarrar. En cierta región se dice que ha nacido de barro endurecido.",
+        "Blanco 2": "Su escurridizo cuerpo es difícil de agarrar. En cierta región se dice que ha nacido de barro endurecido.",
+        "Pokémon X": "Recubre su cuerpo de una película viscosa que le permite escapar si alguien lo agarra.",
+        "Pokémon Y": "Sus bigotes le sirven de radar para localizar a sus presas, incluso en las aguas más turbias.",
+        "Rubí Omega": "Barboach tiene unos bigotes sensibles que le sirven de infalible radar. Este Pokémon se sumerge en lodo y sólo deja los bigotes por fuera de la superficie, al acecho, mientras espera a que llegue su presa.",
+        "Zafiro Alfa": "Barboach está completamente recubierto por una película viscosa. Si lo atrapan, puede escurrirse fácilmente. Si se le seca la capa viscosa, este Pokémon se debilitará.",
+        "Sol": "Sus bigotes son muy sensibles y le sirven de radar. Puede detectar la posición de su presa incluso en el agua turbia de los lodazales.",
+        "Luna": "Su cuerpo es tan escurridizo que incluso hay competiciones para ver cuántas veces puede ser agarrado con las manos desnudas.",
+        "Ultrasol": "Su cuerpo viscoso y resbaladizo le permite escapar indemne de las garras de los Pokémon pájaro que intentan atraparlo.",
+        "Ultraluna": "Sus bigotes contienen terminaciones nerviosas. Eso les permite captar olores y sabores, como si fueran la nariz o la lengua de un ser humano.",
+        "Espada": "Su escurridizo cuerpo es difícil de agarrar. En cierta región se dice que ha nacido de barro endurecido.",
+        "Escudo": "Examina los lechos lodosos de los ríos con los largos bigotes que tiene. Está protegido por una capa viscosa.",
+        "Diamante Brillante": "Recubre su cuerpo con una película viscosa que le permite escurrirse y escapar si alguien lo agarra.",
+        "Perla Reluciente": "Los bigotes le sirven de radar para localizar a sus presas, incluso en las aguas más turbias.",
+        "Leyendas: Arceus": "Vive en pantanos de aguas turbias donde la baja visibilidad lo esconde de los depredadores. La sustancia viscosa que lo recubre lo hace difícil de agarrar."
+    },
+    "evolution": [
+        [
+            "Barboach",
+            "Nivel 30",
+            "Whiscash"
+        ]
+    ]
+}

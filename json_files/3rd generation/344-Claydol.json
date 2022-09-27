@@ -1,0 +1,153 @@
+{
+    "dex number": "344",
+    "pokemon name": "Claydol",
+    "types": [
+        "tierra",
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "60",
+        "atk": "70",
+        "def": "105",
+        "atk esp": "70",
+        "def esp": "120",
+        "speed": "75"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: planta baja, segundo y cuarto piso del Pilar Celeste.",
+            "Evolucionar: de Baltoy (nivel 36)."
+        ],
+        "Zafiro": [
+            "Salvaje: planta baja, segundo y cuarto piso del Pilar Celeste.",
+            "Evolucionar: de Baltoy (nivel 36)."
+        ],
+        "Esmeralda": [
+            "Salvaje: planta baja, segundo y cuarto piso del Pilar Celeste.",
+            "Evolucionar: de Baltoy (nivel 36)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda."
+        ],
+        "Diamante": [
+            "Evolucionar: de Baltoy (nivel 36).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Evolucionar: de Baltoy (nivel 36).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Evolucionar: de Baltoy (nivel 36).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Baltoy (nivel 36).",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Perla, Platino u Oro HeartGold.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Salvaje: Castillo Ancestral, (después de pasar la Liga)",
+            "Evolucionar: de Baltoy (nivel 36)."
+        ],
+        "Blanco": [
+            "Salvaje: Castillo Ancestral, (después de pasar la Liga)",
+            "Evolucionar: de Baltoy (nivel 36)."
+        ],
+        "Negro 2": [
+            "Evolucionar: de Baltoy (nivel 36)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Baltoy (nivel 36)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Baltoy (Nivel 36)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Baltoy (Nivel 36)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: planta baja, segundo y cuarto piso del Pilar Celeste.",
+            "Evolucionar: de Baltoy (nivel 36)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: planta baja, segundo y cuarto piso del Pilar Celeste.",
+            "Evolucionar: de Baltoy (nivel 36)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Baltoy (Nivel 36)."
+        ],
+        "Espada": [
+            "Salvaje: Ojo de Axew (niebla y tormenta de arena), Valle Entrepuentes (encuentro especial con sol y tormenta de arena).",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3 y Ribera de Pistón, nido al este."
+        ],
+        "Escudo": [
+            "Salvaje: Ojo de Axew (niebla y tormenta de arena), Valle Entrepuentes (encuentro especial con sol y tormenta de arena).",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3 y Ribera de Pistón, nido al este."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Baltoy (nivel 36)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Baltoy (nivel 36)."
+        ],
+        "Leyendas: Arceus": [
+            "Claydol no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Dicen que los Claydol son figuras de barro hechas por humanos primitivos. Y dicen también que cobraron vida gracias a un misterioso rayo. Este Pokémon se mueve mientras levita.",
+        "Zafiro": "Claydol es un enigma, una figura de barro procedente de una civilización antigua de hace más de 20.000 años. Este Pokémon dispara rayos por las manos.",
+        "Esmeralda": "Claydol duerme mientras levita. Tiene los brazos separados del cuerpo y los mantiene flotando gracias a sus poderes psicoquinéticos.",
+        "Rojo Fuego": "Dicen que se creó de una muñeca de barro hecha por una antigua civilización. Usa telequinesia para levitar y moverse.",
+        "Verde Hoja": "Dicen que se creó de una muñeca de barro hecha por una antigua civilización. Usa telequinesia para levitar y moverse.",
+        "Diamante": "Este Pokémon es una vieja figurilla de barro que cobró vida mediante la exposición a extraños rayos de luz.",
+        "Perla": "Este Pokémon es una vieja figurilla de barro que cobró vida mediante la exposición a extraños rayos de luz.",
+        "Platino": "Este Pokémon es una vieja figurilla de barro que cobró vida mediante la exposición a extraños rayos de luz.",
+        "Oro HeartGold": "Dicen que es una figurilla de barro elaborada por una civilización de hace 20.000 años que cobró vida.",
+        "Plata SoulSilver": "Dicen que es una figurilla de barro elaborada por una civilización de hace 20.000 años que cobró vida.",
+        "Negro": "Este Pokémon es una vieja figurilla de barro que cobró vida mediante la exposición a extraños rayos de luz.",
+        "Blanco": "Este Pokémon es una vieja figurilla de barro que cobró vida mediante la exposición a extraños rayos de luz.",
+        "Negro 2": "Pokémon misterioso que nació a partir de una figurilla de barro creada por una civilización de hace 20 000 años.",
+        "Blanco 2": "Pokémon misterioso que nació a partir de una figurilla de barro creada por una civilización de hace 20 000 años.",
+        "Pokémon X": "Este Pokémon es una vieja figurilla de barro que cobró vida mediante la exposición a extraños rayos de luz.",
+        "Pokémon Y": "Dicen que se creó de una muñeca de barro hecha por una antigua civilización. Usa telequinesia para levitar y moverse.",
+        "Rubí Omega": "Dicen que los Claydol son figuras de barro hechas por humanos primitivos. Y dicen también que cobraron vida gracias a un misterioso rayo. Este Pokémon se mueve mientras levita.",
+        "Zafiro Alfa": "Claydol es un enigma, una figura de barro procedente de una civilización antigua de hace más de 20 000 años. Este Pokémon dispara rayos por las manos.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Su cuerpo se disuelve si se moja, razón por la que emplea su poder psíquico para crear una barrera a su alrededor los días de lluvia.",
+        "Ultraluna": "Se cree que fue creado por humanos primitivos que tomaron como modelo algo caído del cielo. Dispara rayos por las manos.",
+        "Espada": "Al parecer, este misterioso Pokémon nació a partir de una figurilla de barro creada por una civilización de hace más de 20 000 años.",
+        "Escudo": "Dicen que surgió de una figurilla de barro hecha por una antigua civilización. Usa telequinesia para levitar y moverse.",
+        "Diamante Brillante": "Este Pokémon es una vieja figurilla de barro que cobró vida tras ser expuesta a unos extraños rayos de luz.",
+        "Perla Reluciente": "Este Pokémon es una vieja figurilla de barro que cobró vida tras ser expuesta a unos extraños rayos de luz.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Baltoy",
+            "Nivel 36",
+            "Claydol"
+        ]
+    ]
+}

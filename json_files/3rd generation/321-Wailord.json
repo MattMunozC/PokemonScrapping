@@ -1,0 +1,172 @@
+{
+    "dex number": "321",
+    "pokemon name": "Wailord",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Velo agua",
+        "Despiste"
+    ],
+    "hidden abilities": [
+        "Presión"
+    ],
+    "stats": {
+        "hp": "170",
+        "atk": "90",
+        "def": "45",
+        "atk esp": "90",
+        "def esp": "45",
+        "speed": "60"
+    },
+    "location": {
+        "Rubí": [
+            "Surfeando: Ruta 129",
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Zafiro": [
+            "Surfeando: Ruta 129",
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Esmeralda": [
+            "Surfeando: Ruta 129",
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pescando (supercaña): Ruta 223 y Ruta 230",
+            "Evolucionar: de Wailmer (nivel 40)",
+            "Parque Compi: Zona marina."
+        ],
+        "Perla": [
+            "Pescando (supercaña): Ruta 223 y Ruta 230",
+            "Evolucionar: de Wailmer (nivel 40)",
+            "Parque Compi: Zona marina."
+        ],
+        "Platino": [
+            "Pescando (supercaña): Ruta 223 y Ruta 230",
+            "Evolucionar: de Wailmer (nivel 40)",
+            "Parque Compi: Zona marina."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Wailmer (nivel 40)",
+            "Parque Compi: Zona marina"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Wailmer (nivel 40)",
+            "Parque Compi: Zona marina"
+        ],
+        "Negro": [
+            "Surfeando: Bahía Arenisca",
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Blanco": [
+            "Surfeando: Bahía Arenisca",
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Negro 2": [
+            "Surfeando: Bahía Arenisca",
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Blanco 2": [
+            "Surfeando: Bahía Arenisca",
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Sol": [
+            "Pescando, como refuerzo de Wailmer: Arrecife de Poni, Prado de Poni y Aldea Marina",
+            "Surfeando: Prado de Poni",
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Luna": [
+            "Pescando, como refuerzo de Wailmer: Arrecife de Poni, Prado de Poni y Aldea Marina",
+            "Surfeando: Prado de Poni",
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Ultrasol": [
+            "Pescando, como refuerzo de Wailmer: Arrecife de Poni y Aldea Marina",
+            "Surfeando: Arrecife de Poni",
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Ultraluna": [
+            "Pescando, como refuerzo de Wailmer: Arrecife de Poni y Aldea Marina",
+            "Surfeando: Arrecife de Poni",
+            "Evolucionar: de Wailmer (nivel 40)"
+        ],
+        "Espada": [
+            "Pescando: Ruta 9",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna.",
+            "Evolucionar: de Wailmer (nivel 40)",
+            "Surfeando: Mar Gimnástico"
+        ],
+        "Escudo": [
+            "Pescando: Ruta 9",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna.",
+            "Evolucionar: de Wailmer (nivel 40)",
+            "Surfeando: Mar Gimnástico"
+        ],
+        "Diamante Brillante": [
+            "Pescando con supercaña: rutas 223 y 230.",
+            "Evolucionar: de Wailmer (nivel 40)."
+        ],
+        "Perla Reluciente": [
+            "Pescando con supercaña: rutas 223 y 230.",
+            "Evolucionar: de Wailmer (nivel 40)."
+        ],
+        "Leyendas: Arceus": [
+            "Wailord no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Wailord es el mayor Pokémon registrado hasta la fecha. Este coloso va nadando lánguidamente por el ancho mar con la boca abierta para que penetre la mayor cantidad posible de alimento.",
+        "Zafiro": "Wailord caza con otros miembros de su especie. Es espectacular ver cómo saltan y chapotean en el agua para agrupar a sus presas. Realmente impresiona ver cómo impactan en el agua.",
+        "Esmeralda": "Respira a través de los espiráculos que saca a la superficie. Si toma aire hasta el máximo de su capacidad, puede sumergirse a una profundidad de hasta 3.000 m.",
+        "Rojo Fuego": "Es el mayor Pokémon que hay. Atrapa a un buen número de presas y se las traga de una vez.",
+        "Verde Hoja": "Es el mayor Pokémon que hay. Atrapa a un buen número de presas y se las traga de una vez.",
+        "Diamante": "Es el más grande de los Pokémon. Puede nadar a una profundidad de 3000 m aguantando la respiración.",
+        "Perla": "Es el más grande de los Pokémon. Puede nadar a una profundidad de 3000 m aguantando la respiración.",
+        "Platino": "Es el más grande de los Pokémon. Puede nadar a una profundidad de 3000 m aguantando la respiración.",
+        "Oro HeartGold": "Es el más grande de los Pokémon. Cazan en grupo, saltando a la vez para acorralar a sus presas.",
+        "Plata SoulSilver": "Es el más grande de los Pokémon. Cazan en grupo, saltando a la vez para acorralar a sus presas.",
+        "Negro": "Es el más grande de los Pokémon. Puede nadar a una profundidad de 3000 m aguantando la respiración.",
+        "Blanco": "Es el más grande de los Pokémon. Puede nadar a una profundidad de 3000 m aguantando la respiración.",
+        "Negro 2": "Puede dejar fuera de combate a sus oponentes con el impacto de su enorme cuerpo al caer en el agua tras un salto.",
+        "Blanco 2": "Puede dejar fuera de combate a sus oponentes con el impacto de su enorme cuerpo al caer en el agua tras un salto.",
+        "Pokémon X": "Puede dejar fuera de combate a sus oponentes con el impacto de su enorme cuerpo al caer en el agua tras un salto.",
+        "Pokémon Y": "Es el más grande de los Pokémon. Puede nadar a una profundidad de 3000 m aguantando la respiración.",
+        "Rubí Omega": "Wailord es el mayor Pokémon registrado hasta la fecha. Este coloso va nadando lánguidamente por el ancho mar con la boca abierta para que penetre la mayor cantidad posible de alimento.",
+        "Zafiro Alfa": "Wailord caza con otros miembros de su especie. Es espectacular ver cómo saltan y chapotean en el agua para agrupar a sus presas. Realmente impresiona ver cómo impactan contra el agua.",
+        "Sol": "Tienen el hábito de cazar en grupo. Con sus tremendas bocas pueden engullir de un trago bancos enteros de Wishiwashi.",
+        "Luna": "Su descomunal tamaño lo convierte en un Pokémon muy popular. Los enclaves turísticos donde se observan Wailord son todo un éxito.",
+        "Ultrasol": "Debido a su voraz apetito por los Pokémon pez, los pescadores se ven obligados a controlar su número si proliferan demasiado.",
+        "Ultraluna": "Cuando un Sharpedo o un Dhelmise acechan a un pequeño Wailmer, el banco entero de Wailord se une para protegerlo.",
+        "Espada": "Puede dejar fuera de combate a sus oponentes con el impacto de su enorme cuerpo al caer en el agua tras uno de sus saltos.",
+        "Escudo": "Su descomunal tamaño lo convierte en un Pokémon muy popular. Los enclaves turísticos donde se avistan Wailord son todo un éxito.",
+        "Diamante Brillante": "Es el más grande de los Pokémon. Puede sumergirse a una profundidad de 3000 m aguantando la respiración.",
+        "Perla Reluciente": "Es el más grande de los Pokémon. Puede sumergirse a una profundidad de 3000 m aguantando la respiración.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Wailmer",
+            "Nivel 40",
+            "Wailord"
+        ]
+    ]
+}

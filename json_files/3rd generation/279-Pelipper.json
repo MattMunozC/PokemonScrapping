@@ -1,0 +1,167 @@
+{
+    "dex number": "279",
+    "pokemon name": "Pelipper",
+    "types": [
+        "agua",
+        "volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Llovizna"
+    ],
+    "hidden abilities": [
+        "Cura lluvia"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "50",
+        "def": "100",
+        "atk esp": "95",
+        "def esp": "70",
+        "speed": "65"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: rutas 103, 104, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Ciudad Algaria, Pueblo Oromar, Ciudad Colosalia.",
+            "Evolucionar: de Wingull (nivel 25)."
+        ],
+        "Zafiro": [
+            "Salvaje: rutas 103, 104, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Ciudad Algaria, Pueblo Oromar, Ciudad Colosalia.",
+            "Evolucionar: de Wingull (nivel 25)."
+        ],
+        "Esmeralda": [
+            "Salvaje: rutas 103, 104, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Ciudad Algaria, Pueblo Oromar, Ciudad Colosalia.",
+            "Evolucionar: de Wingull (nivel 25)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: rutas 205 (zona sur), 213, 218, 219, 220, 221, 222, 223, 224, 226, 229 y 230, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Marina, Ciudad Pradera, Valle Eólico, Liga Pokémon.",
+            "Evolucionar: de Wingull (nivel 25).",
+            "Parque Compi: Zona marina."
+        ],
+        "Perla": [
+            "Salvaje: rutas 205 (zona sur), 213, 218, 219, 220, 221, 222, 223, 224, 226, 229 y 230, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Marina, Ciudad Pradera, Valle Eólico, Liga Pokémon.",
+            "Evolucionar: de Wingull (nivel 25).",
+            "Parque Compi: Zona marina."
+        ],
+        "Platino": [
+            "Salvaje: rutas 219, 220, 221, 222, 223, 224, 226, 229 y 230, Isla Hierro, Liga Pokémon, Ciudad Marina, Valle Eólico.",
+            "Evolucionar: de Wingull (nivel 25).",
+            "Parque Compi: Zona marina."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Wingull (nivel 25).",
+            "Parque Compi: Zona marina."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Wingull (nivel 25).",
+            "Parque Compi: Zona marina."
+        ],
+        "Negro": [
+            "Salvaje, surfeando: Ruta 13, Pueblo Arenisca, Bahía Arenisca.",
+            "Evolucionar: De Wingull (nivel 25)."
+        ],
+        "Blanco": [
+            "Salvaje, surfeando: Ruta 13, Pueblo Arenisca, Bahía Arenisca.",
+            "Evolucionar: De Wingull (nivel 25)."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 13 (Teselia), Ruta 22 (Teselia), Claro Oculto"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 13 (Teselia), Ruta 22 (Teselia), Claro Oculto"
+        ],
+        "Pokémon X": [
+            "Evolucionar: De Wingull (nivel 25)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: De Wingull (nivel 25)."
+        ],
+        "Rubí Omega": [
+            "Salvaje: rutas 103, 104, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Ciudad Algaria, Pueblo Oromar, Ciudad Colosalia.",
+            "Evolucionar: de Wingull (nivel 25).",
+            "Surf: Resort Batalla."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: rutas 103, 104, 105, 106, 107, 108, 109, 110, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 y 134, Pueblo Azuliza, Ciudad Portual, Ciudad Calagua, Ciudad Algaria, Pueblo Oromar, Ciudad Colosalia.",
+            "Evolucionar: de Wingull (nivel 25).",
+            "Surf: Resort Batalla."
+        ],
+        "Sol": [
+            "Salvaje: Rutas 14, 15, 16, Antiguo Paso de Poni, Isla Exeggutor, Pendiente de Poni, Llanura de Poni, Prado de Poni, Playa Menor y Aldea Tapu.",
+            "Evolucionar: de Wingull (nivel 25)."
+        ],
+        "Luna": [
+            "Salvaje: Rutas 14, 15, 16, Antiguo Paso de Poni, Isla Exeggutor, Pendiente de Poni, Llanura de Poni, Prado de Poni, Playa Menor y Aldea Tapu.",
+            "Evolucionar: de Wingull (nivel 25)."
+        ],
+        "Ultrasol": [
+            "Salvaje: Rutas 14, 15, 16, Antiguo Paso de Poni, Isla Exeggutor, Arrecife de Poni, Pendiente de Poni, Llanura de Poni, Prado de Poni, Playa Menor y Aldea Tapu.",
+            "Evolucionar: de Wingull (nivel 25)."
+        ],
+        "Ultraluna": [
+            "Salvaje: Rutas 14, 15, 16, Antiguo Paso de Poni, Isla Exeggutor, Arrecife de Poni, Pendiente de Poni, Llanura de Poni, Prado de Poni, Playa Menor y Aldea Tapu.",
+            "Evolucionar: de Wingull (nivel 25)."
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste y Lago Axew (este), nido frente a la entrada a ciudad Pistón."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste y Lago Axew (este), nido frente a la entrada a ciudad Pistón."
+        ],
+        "Diamante Brillante": [
+            "Surf: rutas 205 (zona sur), 213, 218, 219, 220, 221, 222, 223, 224, 226, 229 y 230, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Marina, Ciudad Pradera, Valle Eólico y Liga Pokémon.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: de Wingull (nivel 25)."
+        ],
+        "Perla Reluciente": [
+            "Surf: rutas 205 (zona sur), 213, 218, 219, 220, 221, 222, 223, 224, 226, 229 y 230, Forja Fuego, Isla Hierro, Ciudad Canal, Ciudad Marina, Ciudad Pradera, Valle Eólico y Liga Pokémon.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: de Wingull (nivel 25)."
+        ],
+        "Leyendas: Arceus": [
+            "Pelipper no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Pelipper vuela transportando pequeños huevos y Pokémon dentro del descomunal pico que tiene. Este Pokémon construye su nido en escarpados acantilados frente al mar.",
+        "Zafiro": "Pelipper busca su comida mientras vuela y esquiva las crestas de las olas. Cuando localiza una presa, sumerge el largo pico en el agua para pescarla y se la traga de una vez.",
+        "Esmeralda": "Va esquivando las crestas de las olas. Cuando localiza a su presa, usa el enorme pico que tiene para sacarla del agua. También protege sus huevos con él.",
+        "Rojo Fuego": "Vuela transportando pequeños Pokémon en el pico. A veces, se queda flotando en el agua para descansar las alas.",
+        "Verde Hoja": "Vuela transportando pequeños Pokémon en el pico. A veces, se queda flotando en el agua para descansar las alas.",
+        "Diamante": "Hunde su gran pico en el mar para sacar numerosas presas junto con mucha agua.",
+        "Perla": "Transporta a Pokémon pequeños en su pico. Para descansar se mece sobre las olas.",
+        "Platino": "Transporta a pequeños Pokémon y Huevos en su pico hasta lugares seguros.",
+        "Oro HeartGold": "Protege a sus crías de los enemigos metiéndolos en su pico. En días de poco oleaje reposa sobre el agua.",
+        "Plata SoulSilver": "Protege a sus crías de los enemigos metiéndolos en su pico. En días de poco oleaje reposa sobre el agua.",
+        "Negro": "Transporta a pequeños Pokémon y Huevos en su pico hasta lugares seguros.",
+        "Blanco": "Transporta a pequeños Pokémon y Huevos en su pico hasta lugares seguros.",
+        "Negro 2": "Vuela a ras de la superficie marina y llena su inmenso pico de agua y comida que se lleva volando.",
+        "Blanco 2": "Vuela a ras de la superficie marina y llena su inmenso pico de agua y comida que se lleva volando.",
+        "Pokémon X": "Hunde su gran pico en el mar para sacar numerosas presas junto con mucha agua.",
+        "Pokémon Y": "Transporta a pequeños Pokémon y Huevos en su pico hasta lugares seguros.",
+        "Rubí Omega": "Pelipper vuela transportando pequeños huevos y Pokémon dentro del descomunal pico que tiene. Este Pokémon construye su nido en escarpados acantilados frente al mar.",
+        "Zafiro Alfa": "Pelipper busca su comida mientras vuela y esquiva las crestas de las olas. Cuando localiza una presa, sumerge el largo pico en el agua para pescarla y se la traga de una vez.",
+        "Sol": "Su pico es tan grande que podría acomodar a un niño pequeño sin ningún problema.",
+        "Luna": "Los machos jóvenes se encargan de reunir comida. La acumulan en sus grandes picos para luego llevarla a sus compañeros en los nidos.",
+        "Ultrasol": "Transporta Pokémon pequeños en su enorme pico, aunque nadie sabe a dónde los lleva.",
+        "Ultraluna": "Atrapa Wishiwashi con su enorme pico para luego engullirlos enteros, llegando a comer más de 30 ejemplares de una sentada.",
+        "Espada": "Transporta a pequeños Pokémon y Huevos en su pico hasta lugares seguros.",
+        "Escudo": "Vuela a ras de la superficie marina para llenar su inmenso pico de agua y comida, que se lleva consigo.",
+        "Diamante Brillante": "Hunde su gran pico en el mar para sacar numerosas presas junto con mucha agua.",
+        "Perla Reluciente": "Transporta Pokémon pequeños en el interior del pico cual mensajero. Cuando se cansa, reposa meciéndose sobre las olas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Wingull",
+            "Nivel 25",
+            "Pelipper"
+        ]
+    ]
+}

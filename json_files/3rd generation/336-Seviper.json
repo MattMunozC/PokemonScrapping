@@ -1,0 +1,151 @@
+{
+    "dex number": "336",
+    "pokemon name": "Seviper",
+    "types": [
+        "veneno"
+    ],
+    "abilities": [
+        "Mudar"
+    ],
+    "hidden abilities": [
+        "Allanamiento"
+    ],
+    "stats": {
+        "hp": "73",
+        "atk": "100",
+        "def": "60",
+        "atk esp": "100",
+        "def esp": "60",
+        "speed": "65"
+    },
+    "location": {
+        "Rubí": [
+            "Intercambiar: de Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Zafiro": [
+            "Salvaje: ruta 114"
+        ],
+        "Esmeralda": [
+            "Salvaje: ruta 114"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Insertando un videojuego de GBA: Ruta 208 con Pokémon Zafiro insertado",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Insertando un videojuego de GBA: Ruta 208 con Pokémon Zafiro insertado",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Insertando un videojuego de GBA: Ruta 208 con Pokémon Zafiro insertado",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Salvaje: Ruta 11 y Puente Villa",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 11 y Puente Villa",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Negro 2": [
+            "Salvaje: Rutas 7 y 11 y Puente Villa",
+            "Claro oculto: Rutas 7 y 23",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco 2": [
+            "Salvaje: Rutas 7 y 11 y Puente Villa",
+            "Claro oculto: Rutas 7 y 23",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 8",
+            "Especial: Safari Amistad, en algunos safaris de tipo veneno"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 8",
+            "Especial: Safari Amistad, en algunos safaris de tipo veneno"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X, Pokémon Y o Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: ruta 114"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Seviper no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Seviper no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Leyendas: Arceus": [
+            "Seviper no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Seviper lleva años de gran enemistad con Zangoose. Las cicatrices que tiene por todo el cuerpo dan buena muestra de los encarnizados combates en los que se han enfrentado. Seviper ataca usando su cola con forma de espada.",
+        "Zafiro": "Seviper tiene una cola que parece espada y le sirve para dar un sablazo al enemigo y para envenenarlo. Este Pokémon se mantiene firme en la enemistad que siente hacia Zangoose.",
+        "Esmeralda": "Seviper y Zangoose son rivales eternos. Contrarresta la gran agilidad de Zangoose con una cola en forma de espada que además rezuma un veneno terrible.",
+        "Rojo Fuego": "Usa rocas para afilarse la cola en forma de espada que tiene. Sale de la hierba de repente y ataca con tóxicos colmillos.",
+        "Verde Hoja": "Usa rocas para afilarse la cola en forma de espada que tiene. Sale de la hierba de repente y ataca con tóxicos colmillos.",
+        "Diamante": "Se ha enfrentado durante muchos años a Zangoose. Usa rocas para mantener afilada su cola.",
+        "Perla": "Se ha enfrentado durante muchos años a Zangoose. Usa rocas para mantener afilada su cola.",
+        "Platino": "Se ha enfrentado durante muchos años a Zangoose. Usa rocas para mantener afilada su cola.",
+        "Oro HeartGold": "Hace frente a Zangoose con su agilidad y su afilada cola, que está cargada con un veneno letal.",
+        "Plata SoulSilver": "Hace frente a Zangoose con su agilidad y su afilada cola, que está cargada con un veneno letal.",
+        "Negro": "Se ha enfrentado durante muchos años a Zangoose. Usa rocas para mantener afilada su cola.",
+        "Blanco": "Se ha enfrentado durante muchos años a Zangoose. Usa rocas para mantener afilada su cola.",
+        "Negro 2": "Le une una relación de enemistad con Zangoose. Se lima con las rocas su cola en forma de espada para tenerla afilada.",
+        "Blanco 2": "Le une una relación de enemistad con Zangoose. Se lima con las rocas su cola en forma de espada para tenerla afilada.",
+        "Pokémon X": "Hace frente a Zangoose con su agilidad y su afilada cola, que está cargada con un veneno letal.",
+        "Pokémon Y": "Le une una relación de enemistad con Zangoose. Se lima con las rocas su cola en forma de espada para tenerla afilada.",
+        "Rubí Omega": "Seviper lleva años de gran enemistad con Zangoose. Las cicatrices que tiene por todo el cuerpo dan buena muestra de los encarnizados combates en los que se han enfrentado. Seviper ataca usando su cola con forma de espada.",
+        "Zafiro Alfa": "Seviper tiene una cola que parece espada y le sirve para dar un sablazo al enemigo y para envenenarlo. Este Pokémon se mantiene firme en la enemistad que siente hacia Zangoose.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Los Zangoose son sus eternos rivales. Usa rocas para afilarse la cola en forma de espada antes de una contienda.",
+        "Perla Reluciente": "Los Zangoose son sus eternos rivales. Usa rocas para afilarse la cola en forma de espada antes de una contienda.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Seviper"
+        ]
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "dex number": "265",
+    "pokemon name": "Wurmple",
+    "types": [
+        "bicho"
+    ],
+    "abilities": [
+        "Polvo escudo"
+    ],
+    "hidden abilities": [
+        "Fuga"
+    ],
+    "stats": {
+        "hp": "45",
+        "atk": "45",
+        "def": "35",
+        "atk esp": "20",
+        "def esp": "30",
+        "speed": "20"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Bosque Petalia y rutas 101, 102 y 104."
+        ],
+        "Zafiro": [
+            "Salvaje: Bosque Petalia y rutas 101, 102 y 104."
+        ],
+        "Esmeralda": [
+            "Salvaje: Bosque Petalia y rutas 101, 102 y 104."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Rubí, Zafiro y Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Rubí, Zafiro y Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: en los árboles en los que se puede untar miel (a menudo), Bosque Vetusto.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Salvaje: en los árboles en los que se puede untar miel (a menudo), Bosque Vetusto.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje: en los árboles en los que se puede untar miel (a menudo), rutas 204 y 205 (zona norte), Bosque Vetusto.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Golpe cabeza: Ciudad Plateada.",
+            "Pokéwalker: Llano de Hoenn.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Golpe cabeza: Ciudad Plateada.",
+            "Pokéwalker: Llano de Hoenn.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Intercambiar: De Pokémon Blanco.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Negro 2": [
+            "Intercambiar: De Pokémon Blanco.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            "Intercambiar: De Pokémon Blanco.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Criando: de Silcoon, Beautifly, Cascoon o Dustox"
+        ],
+        "Pokémon Y": [
+            "Criando: de Silcoon, Beautifly, Cascoon o Dustox"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Rutas 101, 102 y 104, Bosque Petalia."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Rutas 101, 102 y 104, Bosque Petalia."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Wurmple no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Wurmple no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: en los árboles en los que se puede untar miel (a menudo) y Bosque Vetusto.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: en los árboles en los que se puede untar miel (a menudo) y Bosque Vetusto.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Prado Herradura, Campo Aromaflor, Bosque Recóndito."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Wurmple usa las púas del lomo para raspar los troncos de los árboles, quitarles la corteza y beber la savia que emanan. Este Pokémon tiene unas ventosas rematándole los pies, con las que se adhiere al cristal sin resbalarse.",
+        "Zafiro": "Wurmple es la presa preferida de Swellow. La forma que tiene de intentar defenderse es apuntar con las púas del lomo al amenazante enemigo y debilitarlo inyectándole veneno.",
+        "Esmeralda": "Se encarama a las ramas de los árboles y come hojas. El hilo que escupe por la boca se solidifica al contacto con el aire y ralentiza los movimientos del enemigo.",
+        "Rojo Fuego": "Vive en las zonas de maleza alta de los bosques. Cuando le atacan, apunta a su rival con las venenosas púas que tiene.",
+        "Verde Hoja": "Vive en las zonas de maleza alta de los bosques. Cuando le atacan, apunta a su rival con las venenosas púas que tiene.",
+        "Diamante": "Le encanta comer hojas . Si le ataca un Starly, se defenderá con sus púas.",
+        "Perla": "Para inmovilizar a sus enemigos, escupe una seda blanca que se vuelve pegajosa al tocar el aire.",
+        "Platino": "Es el blanco favorito de muchos Pokémon pájaro. Se defiende con el veneno de las púas de su cola.",
+        "Oro HeartGold": "Vive en bosques y zonas de hierba alta. Si le atacan, se defiende con las púas venenosas de su cola.",
+        "Plata SoulSilver": "Vive en bosques y zonas de hierba alta. Si le atacan, se defiende con las púas venenosas de su cola.",
+        "Negro": "Es el blanco favorito de muchos Pokémon pájaro. Se defiende con el veneno de las púas de su cola.",
+        "Blanco": "Es el blanco favorito de muchos Pokémon pájaro. Se defiende con el veneno de las púas de su cola.",
+        "Negro 2": "Es el blanco favorito de muchos Pokémon pájaro. Se defiende con el veneno de las púas de su cola.",
+        "Blanco 2": "Es el blanco favorito de muchos Pokémon pájaro. Se defiende con el veneno de las púas de su cola.",
+        "Pokémon X": "Le encanta comer hojas. Si le ataca un Starly, se defenderá con sus púas.",
+        "Pokémon Y": "Vive en bosques y zonas de hierbas alta. Si le atacan,se defiende con las púas venenosas de su cola.",
+        "Rubí Omega": "Wurmple usa las púas del lomo para raspar los troncos de los árboles, quitarles la corteza y beber la savia que emanan. Este Pokémon tiene unas ventosas rematándole los pies, con las que se adhiere al cristal sin resbalarse.",
+        "Zafiro Alfa": "Wurmple es la presa preferida de Swellow. La forma que tiene de intentar defenderse es apuntar con las púas del lomo al amenazante enemigo y debilitarlo inyectándole veneno.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Le encanta comer hojas. Si le ataca un Starly, se defenderá con las púas de la cola.",
+        "Perla Reluciente": "Inmoviliza a sus enemigos escupiendo una seda blanca que se vuelve pegajosa al contacto con el aire.",
+        "Leyendas: Arceus": "Adoran la savia y es común encontrarlos por el campo. Se desconoce por qué adoptan formas diferentes al evolucionar, y su aspecto no sirve para determinar cuál de ellas adoptarán."
+    },
+    "evolution": [
+        [
+            "Wurmple",
+            "Nivel 7",
+            "Silcoon",
+            "",
+            "Nivel 10",
+            "Beautifly"
+        ],
+        [
+            "",
+            "Nivel 7",
+            "Cascoon",
+            "",
+            "Nivel 10",
+            "Dustox"
+        ]
+    ]
+}

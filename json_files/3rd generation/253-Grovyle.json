@@ -1,0 +1,149 @@
+{
+    "dex number": "253",
+    "pokemon name": "Grovyle",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Liviano"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "65",
+        "def": "45",
+        "atk esp": "85",
+        "def esp": "65",
+        "speed": "95"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Treecko (nivel 16)."
+        ],
+        "Zafiro": [
+            "Evolucionar: de Treecko (nivel 16)."
+        ],
+        "Esmeralda": [
+            "Evolucionar: de Treecko (nivel 16)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Transferir desde Rubí, Zafiro o Esmeralda (zona boscosa)."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Transferir desde Rubí, Zafiro o Esmeralda (zona boscosa)."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Oro HeartGold o Plata SoulSilver.",
+            "Parque Compi: Transferir desde Rubí, Zafiro o Esmeralda (zona boscosa)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Treecko (nivel 16).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Treecko (nivel 16).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Perla, Diamante, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Perla, Diamante, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Pokétransfer: de Pokémon Perla, Diamante, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: de Pokémon Perla, Diamante, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Treecko (nivel 16)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Treecko (nivel 16)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Escáner insular: Ruta 5 (viernes)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Ruta 5 (viernes)"
+        ],
+        "Espada": [
+            "Aventura Dinamax ",
+            "Evolucionar: de Treecko (nivel 16)."
+        ],
+        "Escudo": [
+            "Aventura Dinamax ",
+            "Evolucionar: de Treecko (nivel 16)."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Treecko (nivel 16)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Treecko (nivel 16)."
+        ],
+        "Leyendas: Arceus": [
+            "Grovyle no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Las hojas que Grovyle tiene por el cuerpo le resultan muy útiles para camuflarse en el bosque y esconderse de los enemigos. A este Pokémon no hay quien lo supere subiendo a los árboles del bosque.",
+        "Zafiro": "Este Pokémon revolotea de rama en rama con maestría. Cuando Grovyle va volando por el bosque, no hay quien lo alcance por muy rápido que sea.",
+        "Esmeralda": "A Grovyle le crecen hojas que le sirven de camuflaje e impiden que los enemigos lo detecten cuando se encuentra en un bosque cuya vegetación es frondosa.",
+        "Rojo Fuego": "Los desarrollados músculos que tiene en las extremidades inferiores le hacen ser muy ágil y le permiten dar grandes saltos.",
+        "Verde Hoja": "Los desarrollados músculos que tiene en las extremidades inferiores le hacen ser muy ágil y le permiten dar grandes saltos.",
+        "Diamante": "Vive en selvas frondosas. Salta de rama en rama para acercarse a sus presas.",
+        "Perla": "Vive en selvas frondosas. Salta de rama en rama para acercarse a sus presas.",
+        "Platino": "Vive en selvas frondosas. Salta de rama en rama para acercarse a sus presas.",
+        "Oro HeartGold": "Con su magnífica fuerza se desplaza saltando grácilmente de rama en rama por los árboles más altos.",
+        "Plata SoulSilver": "Con su magnífica fuerza se desplaza saltando grácilmente de rama en rama por los árboles más altos.",
+        "Negro": "Vive en selvas frondosas. Salta de rama en rama para acercarse a sus presas.",
+        "Blanco": "Vive en selvas frondosas. Salta de rama en rama para acercarse a sus presas.",
+        "Negro 2": "Vive en selvas frondosas. Salta de rama en rama para acercarse a sus presas.",
+        "Blanco 2": "Vive en selvas frondosas. Salta de rama en rama para acercarse a sus presas.",
+        "Pokémon X": "Los desarrollados músculos que tiene en las extremidades inferiores le hacen ser muy ágil y le permiten dar grandes saltos.",
+        "Pokémon Y": "Vive en selvas frondosas. Salta de rama en rama para acercarse a sus presas.",
+        "Rubí Omega": "Las hojas que Grovyle tiene por el cuerpo le resultan muy útiles para camuflarse en el bosque y esconderse de los enemigos. A este Pokémon no hay quien lo supere subiendo a los árboles del bosque.",
+        "Zafiro Alfa": "Este Pokémon revolotea de rama en rama con maestría. Cuando Grovyle va volando por el bosque, no hay quien lo alcance por muy rápido que sea.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Vive en selvas frondosas, donde salta de rama en rama para acercarse a sus presas.",
+        "Perla Reluciente": "Vive en selvas frondosas, donde salta de rama en rama para acercarse a sus presas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Treecko",
+            "Nivel 16",
+            "Grovyle",
+            "Nivel 36",
+            "Sceptile"
+        ]
+    ]
+}

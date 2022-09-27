@@ -1,0 +1,153 @@
+{
+    "dex number": "322",
+    "pokemon name": "Numel",
+    "types": [
+        "fuego",
+        "tierra"
+    ],
+    "abilities": [
+        "Despiste",
+        "Simple"
+    ],
+    "hidden abilities": [
+        "Ritmo propio"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "60",
+        "def": "40",
+        "atk esp": "65",
+        "def esp": "45",
+        "speed": "35"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Ruta 112, Senda Ígnea, Desfiladero."
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 112, Senda Ígnea, Desfiladero."
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 112, Senda Ígnea, Desfiladero."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje: Ruta 227, Montaña Dura.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Perla": [
+            "Salvaje: Ruta 227, Montaña Dura.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Platino": [
+            "Salvaje: Ruta 227, Montaña Dura.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Hoenn: Encinar, Bosque Verde.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Hoenn: Encinar, Bosque Verde.",
+            "Parque Compi: Zona rocosa."
+        ],
+        "Negro": [
+            "Pokémon Dream World: Monte Escarpado, con la habilidad Ritmo propio.",
+            "Intercambiar: de Pokémon Blanco 2."
+        ],
+        "Blanco": [
+            "Pokémon Dream World: Monte Escarpado, con la habilidad Ritmo propio.",
+            "Intercambiar: de Pokémon Blanco 2."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco 2."
+        ],
+        "Blanco 2": [
+            "Salvaje: Montaña Reversia."
+        ],
+        "Pokémon X": [
+            "Criando: de Camerupt.",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Criando: de Camerupt.",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 112, Senda Ígnea, Desfiladero."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 112, Senda Ígnea, Desfiladero."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Numel no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Numel no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Ruta 227.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Ruta 227.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Leyendas: Arceus": [
+            "Numel no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Numel tarda en percibir las cosas (no se entera ni cuando lo golpean). Pero se da cuenta enseguida de si tiene hambre. El cuerpo de este Pokémon es un caldero de magma hirviendo.",
+        "Zafiro": "Numel acumula en su interior un magma de 1.200 grados centígrados. Si se moja, el magma se enfría y se solidifica. Cuando esto ocurre, aumenta su tamaño y se vuelve pesado y lento en sus movimientos.",
+        "Esmeralda": "Un Numel almacena magma en ebullición dentro de la joroba del lomo. Es robusto y puede cargar hasta con 100 kg. Ayuda a la gente en su trabajo desde hace mucho.",
+        "Rojo Fuego": "Magma de 1.200 grados centígrados le recorre el cuerpo. Cuando se enfría, el magma se solidifica y se vuelve lento.",
+        "Verde Hoja": "Magma de 1.200 grados centígrados le recorre el cuerpo. Cuando se enfría, el magma se solidifica y se vuelve lento.",
+        "Diamante": "En su joroba almacena magma ardiente que se enfría cuando llueve y lo ralentiza.",
+        "Perla": "En su joroba almacena magma ardiente que se enfría cuando llueve y lo ralentiza.",
+        "Platino": "En su joroba almacena magma ardiente que se enfría cuando llueve y lo ralentiza.",
+        "Oro HeartGold": "Acumula magma en ebullición en la joroba de su lomo que transforma en una energía extraordinaria.",
+        "Plata SoulSilver": "Acumula magma en ebullición en la joroba de su lomo que transforma en una energía extraordinaria.",
+        "Negro": "En su joroba almacena magma ardiente que se enfría cuando llueve y lo ralentiza.",
+        "Blanco": "En su joroba almacena magma ardiente que se enfría cuando llueve y lo ralentiza.",
+        "Negro 2": "Almacena en su cuerpo magma a 1200°. Su joroba mengua cuando utiliza movimientos de tipo Fuego.",
+        "Blanco 2": "Almacena en su cuerpo magma a 1200°. Su joroba mengua cuando utiliza movimientos de tipo Fuego.",
+        "Pokémon X": "En su joroba almacena magma ardiente que se enfría cuando llueve y lo ralentiza.",
+        "Pokémon Y": "Almacena en su cuerpo magma a 1200°. Su joroba mengua cuando utiliza movimientos de tipo Fuego.",
+        "Rubí Omega": "Numel tarda en percibir las cosas, no se entera ni cuando lo golpean, pero se da cuenta enseguida de si tiene hambre. El cuerpo de este Pokémon es un caldero de magma hirviendo.",
+        "Zafiro Alfa": "Numel acumula en su interior un magma de 1.200 °C. Si se moja, el magma se enfría y se solidifica. Cuando esto ocurre, aumenta su tamaño y se vuelve pesado y lento en sus movimientos.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "En su joroba almacena magma ardiente que, cuando llueve, se enfría y lo ralentiza.",
+        "Perla Reluciente": "En su joroba almacena magma ardiente que, cuando llueve, se enfría y lo ralentiza.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Numel",
+            "Nivel 33",
+            "Camerupt"
+        ]
+    ]
+}

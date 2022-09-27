@@ -1,0 +1,151 @@
+{
+    "dex number": "277",
+    "pokemon name": "Swellow",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Agallas"
+    ],
+    "hidden abilities": [
+        "Intrépido"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "85",
+        "def": "60",
+        "atk esp": "50",
+        "def esp": "50",
+        "speed": "125"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Ruta 115",
+            "Evolucionar: de Taillow (nivel 22)"
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 115",
+            "Evolucionar: de Taillow (nivel 22)"
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 115",
+            "Evolucionar: de Taillow (nivel 22)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pokéradar: Ruta 213",
+            "Parque Compi: Zona pradera"
+        ],
+        "Perla": [
+            "Pokéradar: Ruta 213",
+            "Parque Compi: Zona pradera"
+        ],
+        "Platino": [
+            "Pokéradar: Ruta 213",
+            "Parque Compi: Zona pradera"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Taillow (nivel 22)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Taillow (nivel 22)",
+            "Parque Compi: Zona pradera"
+        ],
+        "Negro": [
+            "Salvaje: Boquete Gigante y Ruta 13"
+        ],
+        "Blanco": [
+            "Salvaje: Boquete Gigante y Ruta 13"
+        ],
+        "Negro 2": [
+            "Manada: Ruta 13"
+        ],
+        "Blanco 2": [
+            "Manada: Ruta 13"
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Taillow (nivel 22)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Taillow (nivel 22)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Taillow (nivel 22)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Taillow (nivel 22)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo."
+        ],
+        "Espada": [
+            "Swellow no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Swellow no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Ruta 213.",
+            "Evolucionar: de Taillow (nivel 22)."
+        ],
+        "Perla Reluciente": [
+            "Pokéradar: Ruta 213.",
+            "Evolucionar: de Taillow (nivel 22)."
+        ],
+        "Leyendas: Arceus": [
+            "Swellow no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Swellow vuela muy alto dibujando elegantes arcos en el cielo. Este Pokémon se sumerge en el agua con rapidez y eficacia en cuanto detecta una presa. Con las garras, atrapa a la desdichada víctima y no la deja huir.",
+        "Zafiro": "Swellow se preocupa a conciencia del mantenimiento de sus lustrosas alas. Cuando hay dos juntos, el uno se ocupa de limpiar las alas al otro.",
+        "Esmeralda": "Swellow se lanza al agua para atrapar a su presa y no se le escapa ni una. Suele ir volando en busca de tierras de clima cálido.",
+        "Rojo Fuego": "Cuando se encuentra bien, pone firmes las plumas de la cola doble que tiene. Remonta el vuelo de forma muy elegante.",
+        "Verde Hoja": "Cuando se encuentra bien, pone firmes las plumas de la cola doble que tiene. Remonta el vuelo de forma muy elegante.",
+        "Diamante": "Vuela en círculos en busca de presas. Cuando ve una, se lanza sin dudarlo.",
+        "Perla": "Vuela en círculos en busca de presas. Cuando ve una, se lanza sin dudarlo.",
+        "Platino": "Vuela en círculos en busca de presas. Cuando ve una, se lanza sin dudarlo.",
+        "Oro HeartGold": "Vive en los bosques. Si encuentra una presa, se lanza en picado y la atrapa con sus garras.",
+        "Plata SoulSilver": "Vive en los bosques. Si encuentra una presa, se lanza en picado y la atrapa con sus garras.",
+        "Negro": "Vuela en círculos en busca de presas. Cuando ve una, se lanza sin dudarlo.",
+        "Blanco": "Vuela en círculos en busca de presas. Cuando ve una, se lanza sin dudarlo.",
+        "Negro 2": "Vuela en círculos en busca de presas. Cuando ve una, se lanza sin dudarlo.",
+        "Blanco 2": "Vuela en círculos en busca de presas. Cuando ve una, se lanza sin dudarlo.",
+        "Pokémon X": "Cuando se encuentra bien, pone firmes las plumas de la cola doble que tiene. Remonta el vuelo de forma muy elegante.",
+        "Pokémon Y": "Vive en los bosques. Si encuentra una presa, se lanza en picado y la atrapa con sus garras.",
+        "Rubí Omega": "Swellow vuela muy alto dibujando elegantes arcos en el cielo. Este Pokémon se sumerge en el agua con rapidez y eficacia en cuanto detecta una presa. Con las garras, atrapa a la desdichada víctima y no la deja huir.",
+        "Zafiro Alfa": "Swellow se preocupa a conciencia del mantenimiento de sus lustrosas alas. Cuando hay dos juntos, el uno se ocupa de limpiar las alas al otro.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Vuela en círculos a gran altura en busca de presas. Cuando ve una, se lanza en picado para atraparla.",
+        "Perla Reluciente": "Vuela en círculos a gran altura en busca de presas. Cuando ve una, se lanza en picado para atraparla.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Taillow",
+            "Nivel 22",
+            "Swellow"
+        ]
+    ]
+}

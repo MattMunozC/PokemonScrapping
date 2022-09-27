@@ -1,0 +1,156 @@
+{
+    "dex number": "354",
+    "pokemon name": "Banette",
+    "types": [
+        "fantasma"
+    ],
+    "abilities": [
+        "Insomnio",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Cuerpo maldito"
+    ],
+    "stats": {
+        "hp": "64",
+        "atk": "115",
+        "def": "65",
+        "atk esp": "83",
+        "def esp": "63",
+        "speed": "65"
+    },
+    "location": {
+        "Rubí": [
+            "Evolucionar: de Shuppet (nivel 37)."
+        ],
+        "Zafiro": [
+            "Salvaje: Pilar Celeste (planta baja, segundo y cuarto piso).",
+            "Evolucionar: de Shuppet (nivel 37)."
+        ],
+        "Esmeralda": [
+            "Salvaje: Pilar Celeste (planta baja, segundo y cuarto piso).",
+            "Evolucionar: de Shuppet (nivel 37)."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro o Esmeralda."
+        ],
+        "Diamante": [
+            "Salvaje, por la noche: rutas 225, 226 y 227, Montaña Dura.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Perla": [
+            "Salvaje, por la noche: rutas 225, 226 y 227, Montaña Dura.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Platino": [
+            "Salvaje, por la noche: rutas 225, 226 y 227.",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Shuppet (nivel 37).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Shuppet (nivel 37).",
+            "Parque Compi: Zona boscosa."
+        ],
+        "Negro": [
+            "Evolucionar: de Shuppet (nivel 37)."
+        ],
+        "Blanco": [
+            "Evolucionar: de Shuppet (nivel 37)."
+        ],
+        "Negro 2": [
+            "Salvaje: Villa Horroris, Calle Victoria"
+        ],
+        "Blanco 2": [
+            "Salvaje: Villa Horroris, Calle Victoria"
+        ],
+        "Pokémon X": [
+            "Salvaje: Villa Pokémon. Puede aparecer en los cubos de basura los jueves."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Villa Pokémon. Puede aparecer en los cubos de basura los jueves."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Shuppet (nivel 37)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Shuppet (nivel 37)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Ultrasol": [
+            "Evolucionar: de Shuppet (nivel 37).",
+            "Poké Resort: Cayo Recreo, tras llegar a Poni"
+        ],
+        "Ultraluna": [
+            "Evolucionar: de Shuppet (nivel 37).",
+            "Poké Resort: Cayo Recreo, tras llegar a Poni"
+        ],
+        "Espada": [
+            "Banette no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Banette no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje, por la noche: rutas 225, 226 y 227.",
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo y Caverna Claroestela.",
+            "Evolucionar: de Shuppet (nivel 37)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje, por la noche: rutas 225, 226 y 227.",
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo y Caverna Claroestela.",
+            "Evolucionar: de Shuppet (nivel 37)."
+        ],
+        "Leyendas: Arceus": [
+            "Banette no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Banette genera energía para echar un infalible hechizo clavándose púas a sí mismo. Los orígenes de este Pokémon son algo tristes: era un muñeco de felpa al que tiraron a la basura.",
+        "Zafiro": "Fue un hechizo el que hizo que el relleno de este muñeco de felpa olvidado y abandonado pasara a ser Banette. Si este Pokémon abriera la boca, se quedaría sin energía.",
+        "Esmeralda": "Solía ser un muñeco de felpa al que abandonaron. Dicen que vive en vertederos de basura y que va buscando al niño que lo tiró en su día.",
+        "Rojo Fuego": "Cuando abandonaron a este muñeco de felpa, se convirtió en Pokémon. Libera una energía que hechiza al enemigo.",
+        "Verde Hoja": "Cuando abandonaron a este muñeco de felpa, se convirtió en Pokémon. Libera una energía que hechiza al enemigo.",
+        "Diamante": "Este muñeco se convirtió en un Pokémon cuando lo tiraron a la basura. Busca a su antiguo dueño.",
+        "Perla": "Este muñeco se convirtió en un Pokémon cuando lo tiraron a la basura. Busca a su antiguo dueño.",
+        "Platino": "Este muñeco se convirtió en un Pokémon cuando lo tiraron a la basura. Busca a su antiguo dueño.",
+        "Oro HeartGold": "Está lleno de rencor porque lo tiraron a la basura cuando era un peluche. Vive en oscuros callejones.",
+        "Plata SoulSilver": "Está lleno de rencor porque lo tiraron a la basura cuando era un peluche. Vive en oscuros callejones.",
+        "Negro": "Este muñeco se convirtió en un Pokémon cuando lo tiraron a la basura. Busca a su antiguo dueño.",
+        "Blanco": "Este muñeco se convirtió en un Pokémon cuando lo tiraron a la basura. Busca a su antiguo dueño.",
+        "Negro 2": "Peluche que tiraron a la basura y, tras acumular odio, se convirtió en Pokémon. Busca al niño que lo abandonó.",
+        "Blanco 2": "Peluche que tiraron a la basura y, tras acumular odio, se convirtió en Pokémon. Busca al niño que lo abandonó.",
+        "Pokémon X": "Este muñeco se convirtió en un Pokémon cuando lo tiraron a la basura. Busca a su antiguo dueño.",
+        "Pokémon Y": "Cuando abandonaron a este muñeco de felpa, se convirtió en Pokémon. Libera una energía que hechiza al enemigo.",
+        "Rubí Omega": "Banette genera energía para echar un infalible hechizo clavándose púas a sí mismo. Los orígenes de este Pokémon son algo tristes: era un muñeco de felpa al que tiraron a la basura.",
+        "Zafiro Alfa": "Fue un hechizo el que hizo que el relleno de este muñeco de felpa olvidado y abandonado pasara a ser Banette. Si este Pokémon abriera la boca, se quedaría sin energía.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "\nBanette: Este muñeco de trapo alberga gran odio por la persona que lo abandonó, a quien busca sin descanso para vengarse.\nMega-Banette: La desmesurada energía alimenta la maldición que sufre hasta volverla incontrolable, haciendo que odie a su propio Entrenador.",
+        "Ultraluna": "\nBanette: El rencor de haber sido tirado a la basura fue lo que le dio vida. Se dice que puede convertirse de nuevo en muñeco si se le trata con cariño.\nMega-Banette: La megaevolución ha alimentado su odio haciendo emerger por las cremalleras el poder maléfico que antes estaba contenido.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Este muñeco se convirtió en un Pokémon debido al gran rencor que sintió cuando lo tiraron a la basura. Busca al niño que se deshizo de él.",
+        "Perla Reluciente": "Este muñeco se convirtió en un Pokémon debido al gran rencor que sintió cuando lo tiraron a la basura. Busca al niño que se deshizo de él.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Shuppet",
+            "Nivel 37",
+            "Banette"
+        ]
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "dex number": "352",
+    "pokemon name": "Kecleon",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Cambio color"
+    ],
+    "hidden abilities": [
+        "Mutatipo"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "90",
+        "def": "70",
+        "atk esp": "60",
+        "def esp": "120",
+        "speed": "40"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Ruta 118, Ruta 119, Ruta 120, Ruta 121 y Ruta 123",
+            "Detector Devon: Ruta 120 y Ruta 119"
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 118, Ruta 119, Ruta 120, Ruta 121 y Ruta 123",
+            "Detector Devon: Ruta 120 y Ruta 119"
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 118, Ruta 119, Ruta 120, Ruta 121 y Ruta 123",
+            "Detector Devon: Ruta 120 y Ruta 119"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Pokéradar: Ruta 210",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Diamante o Pokémon Platino",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Salvaje: Gran Pantano",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Pokéwalker: Casa del Árbol",
+            "Intercambiar: de Pokémon Diamante o Pokémon Platino",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Pokéwalker: Casa del Árbol",
+            "Intercambiar: de Pokémon Diamante o Pokémon Platino",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco": [
+            "Pokétransfer: transferir de Pokémon Diamante, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Negro 2": [
+            "Salvaje: Reserva Natural",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco 2": [
+            "Salvaje: Reserva Natural",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 6",
+            "Especial: Safari Amistad, en algunos safaris de tipo normal"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 6",
+            "Especial: Safari Amistad, en algunos safaris de tipo normal"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 118, Ruta 119, Ruta 120, Ruta 121 y Ruta 123",
+            "Detector Devon: Ruta 120, Ruta 119, Pueblo Lavacalda y Centro espacial de Algaria"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 118, Ruta 119, Ruta 120, Ruta 121 y Ruta 123",
+            "Detector Devon: Ruta 120, Ruta 119, Pueblo Lavacalda y Centro espacial de Algaria"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Túnel del Volcán"
+        ],
+        "Ultraluna": [
+            "Salvaje: Túnel del Volcán"
+        ],
+        "Espada": [
+            "Kecleon no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Kecleon no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Pokéradar: Ruta 210 (norte).",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Kecleon no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Kecleon puede alterar la pigmentación de la piel para mezclarse con su entorno. Lo único que no es capaz de cambiar es el trazado en zigzag que tiene en la panza.",
+        "Zafiro": "Kecleon modifica la coloración de la piel para camuflarse en el medio en el que esté. Así, puede acercarse a hurtadillas a su enemigo sin que se dé cuenta y lanzarle la larga y elástica lengua que tiene para atraparlo por sorpresa.",
+        "Esmeralda": "Este Pokémon tiene la capacidad de alterar la coloración de su cuerpo para camuflarse en el medio en el que esté. Si se asusta, Kecleon recuperará sus colores originales.",
+        "Rojo Fuego": "Cambia el color de la piel para mezclarse con su entorno. También varía la coloración según su estado de ánimo.",
+        "Verde Hoja": "Cambia el color de la piel para mezclarse con su entorno. También varía la coloración según su estado de ánimo.",
+        "Diamante": "Puede mudar el color de su cuerpo a voluntad, pero el dibujo en zigzag de su panza nunca desaparece.",
+        "Perla": "Puede mudar el color de su cuerpo a voluntad, pero el dibujo en zigzag de su panza nunca desaparece.",
+        "Platino": "Puede mudar el color de su cuerpo a voluntad, pero el dibujo en zigzag de su panza nunca desaparece.",
+        "Oro HeartGold": "Acecha a sus presas adoptando sus colores a los del paisaje, pero los dibujos de su panza nunca cambian.",
+        "Plata SoulSilver": "Acecha a sus presas adoptando sus colores a los del paisaje, pero los dibujos de su panza nunca cambian.",
+        "Negro": "Puede mudar el color de su cuerpo a voluntad, pero el dibujo en zigzag de su panza nunca desaparece.",
+        "Blanco": "Puede mudar el color de su cuerpo a voluntad, pero el dibujo en zigzag de su panza nunca desaparece.",
+        "Negro 2": "Puede mudar el color de su cuerpo a voluntad, pero el dibujo en zigzag de su panza nunca desaparece.",
+        "Blanco 2": "Puede mudar el color de su cuerpo a voluntad, pero el dibujo en zigzag de su panza nunca desaparece.",
+        "Pokémon X": "Puede mudar el color de su cuerpo a voluntad, pero el dibujo en zigzag de su panza nunca desaparece.",
+        "Pokémon Y": "Acecha a sus presas adoptando sus colores a los del paisaje, pero los dibujos de su panza nunca cambian.",
+        "Rubí Omega": "Kecleon puede alterar la pigmentación de la piel para mezclarse con su entorno. Lo único que no es capaz de cambiar es el trazado en zigzag que tiene en la panza.",
+        "Zafiro Alfa": "Kecleon modifica la coloración de la piel para camuflarse en el medio en el que esté. Así, puede acercarse a hurtadillas a su enemigo sin que se dé cuenta y lanzarle la larga y elástica lengua que tiene para atraparlo por sorpresa.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Cambia de color para fundirse con el paisaje, pero, si pasa desapercibido demasiado tiempo, se enfurruña y no vuelve a hacerse visible.",
+        "Ultraluna": "Incluso cuando no se está mimetizando, el color de su cuerpo cambia según cómo se encuentre. Un color más intenso indica mayor vitalidad.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Puede cambiar el color de su cuerpo a voluntad, pero el dibujo en zigzag de su panza siempre permanece igual.",
+        "Perla Reluciente": "Puede cambiar el color de su cuerpo a voluntad, pero el dibujo en zigzag de su panza siempre permanece igual.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Kecleon"
+        ]
+    ]
+}

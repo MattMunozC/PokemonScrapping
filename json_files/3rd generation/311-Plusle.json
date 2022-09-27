@@ -1,0 +1,149 @@
+{
+    "dex number": "311",
+    "pokemon name": "Plusle",
+    "types": [
+        "eléctrico"
+    ],
+    "abilities": [
+        "Más"
+    ],
+    "hidden abilities": [
+        "Pararrayos"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "50",
+        "def": "40",
+        "atk esp": "85",
+        "def esp": "75",
+        "speed": "95"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: ruta 110."
+        ],
+        "Zafiro": [
+            "Salvaje: ruta 110."
+        ],
+        "Esmeralda": [
+            "Salvaje: ruta 110.",
+            "Intercambio del videojuego: por un Volbeat en una casa en Ciudad Arborada."
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Pokémon Colosseum."
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Zafiro, Esmeralda o Pokémon Colosseum."
+        ],
+        "Diamante": [
+            "Salvaje: Jardín Trofeo.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Perla": [
+            "Salvaje: Jardín Trofeo.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Platino": [
+            "Salvaje: Jardín Trofeo.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Hoenn: rutas 1, 2, 3, 5, 7, 8, 11, 14, 15, 16, 17, 18, 29, 33, 36, 37, 38, 39, 46 y 48, Parque Nacional.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Hoenn: rutas 1, 2, 3, 5, 7, 8, 11, 14, 15, 16, 17, 18, 29, 33, 36, 37, 38, 39, 46 y 48, Parque Nacional.",
+            "Parque Compi: Zona pradera."
+        ],
+        "Negro": [
+            "Pokétransfer: Pokémon Perla, Diamante, Platino, Oro Heartgold, Plata Soulsilver.",
+            "Manada Pokémon: Ruta 6.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco": [
+            "Pokétransfer: Pokémon Perla, Diamante, Platino, Oro Heartgold, Plata Soulsilver.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Negro 2": [
+            "Manada: Ruta 6",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro 2",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 5"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 5"
+        ],
+        "Rubí Omega": [
+            "Salvaje: ruta 110."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: ruta 110."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Plusle no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Plusle no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Jardín Trofeo."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Jardín Trofeo."
+        ],
+        "Leyendas: Arceus": [
+            "Plusle no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Plusle siempre hace las veces de líder en con sus compañeros. Cuando algún miembro de su grupo hace gran esfuerzo en combate, causa un cortocircuito en su interior para mostrar con el chisporroteo su alegría.",
+        "Zafiro": "Cuando Plusle está animando a su compañero, resplandece y provoca un chisporroteo que le rodea todo el cuerpo. Si su compañero pierde, se pone a chillar a voz en grito.",
+        "Esmeralda": "Siempre anima a sus compañeros Pokémon. Crea cortocircuitos con la electricidad que libera por las patas para hacer pompones de chispas y animar al resto.",
+        "Rojo Fuego": "Anima a sus compañeros con un alegre chisporroteo. Para absorber electricidad, se sube a los postes de teléfono.",
+        "Verde Hoja": "Anima a sus compañeros con un alegre chisporroteo. Para absorber electricidad, se sube a los postes de teléfono.",
+        "Diamante": "Anima a sus compañeros con pompones de chispas. Roba energía de los postes telefónicos.",
+        "Perla": "Anima a sus compañeros con pompones de chispas. Roba energía de los postes telefónicos.",
+        "Platino": "Anima a sus compañeros con pompones de chispas. Roba energía de los postes telefónicos.",
+        "Oro HeartGold": "Absorbe eletricidad de los postes de teléfono. La almacena en su cuerpo y crea cortocircuitos.",
+        "Plata SoulSilver": "Absorbe eletricidad de los postes de teléfono. La almacena en su cuerpo y crea cortocircuitos.",
+        "Negro": "Anima a sus compañeros con pompones de chispas. Roba energía de los postes telefónicos.",
+        "Blanco": "Anima a sus compañeros con pompones de chispas. Roba energía de los postes telefónicos.",
+        "Negro 2": "Anima a sus compañeros con pompones de chispas. Roba energía de los postes telefónicos.",
+        "Blanco 2": "Anima a sus compañeros con pompones de chispas. Roba energía de los postes telefónicos.",
+        "Pokémon X": "Anima a sus compañeros con pompones de chispas. Roba energía de los postes telefónicos.",
+        "Pokémon Y": "Absorbe eletricidad de los postes de teléfono. La almacena en su cuerpo y crea cortocircuitos.",
+        "Rubí Omega": "Plusle siempre hace las veces de líder en con sus compañeros. Cuando algún miembro de su grupo hace gran esfuerzo en combate, causa un cortocircuito en su interior para mostrar con el chisporroteo su alegría.",
+        "Zafiro Alfa": "Cuando Plusle está animando a su compañero, resplandece y provoca un chisporroteo que le rodea todo el cuerpo. Si su compañero pierde, se pone a chillar a voz en grito.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Anima a sus amigos con pompones de chispas. Roba energía de los postes telefónicos.",
+        "Perla Reluciente": "Anima a sus amigos con pompones de chispas. Roba energía de los postes telefónicos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Plusle"
+        ]
+    ]
+}

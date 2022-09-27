@@ -1,0 +1,150 @@
+{
+    "dex number": "353",
+    "pokemon name": "Shuppet",
+    "types": [
+        "fantasma"
+    ],
+    "abilities": [
+        "Insomnio",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Cuerpo maldito"
+    ],
+    "stats": {
+        "hp": "44",
+        "atk": "75",
+        "def": "35",
+        "atk esp": "63",
+        "def esp": "33",
+        "speed": "45"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Monte Pírico."
+        ],
+        "Zafiro": [
+            "Salvaje: Ruta 121, Ruta 123 y Monte Pírico"
+        ],
+        "Esmeralda": [
+            "Salvaje: Ruta 121, Ruta 123 y Monte Pírico"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí, Pokémon Zafiro o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Criar: de Banette",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Perla": [
+            "Criar: de Banette",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Platino": [
+            "Criar: de Banette",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari",
+            "Parque Compi: Zona boscosa"
+        ],
+        "Negro": [
+            "Manada Pokémon: Ruta 13 (Teselia)",
+            "Dream World: Villa Antigua"
+        ],
+        "Blanco": [
+            "Manada Pokémon: Ruta 13 (Teselia)",
+            "Dream World: Villa Antigua"
+        ],
+        "Negro 2": [
+            "Criar: de Banette",
+            "Dream World: Villa Antigua"
+        ],
+        "Blanco 2": [
+            "Criar: de Banette",
+            "Dream World: Villa Antigua"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 121, Ruta 123 y Monte Pírico"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 121, Ruta 123 y Monte Pírico"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Salvaje: Supermercado Ultraganga (Local Abandonado)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Supermercado Ultraganga (Local Abandonado)"
+        ],
+        "Espada": [
+            "Shuppet no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Shuppet no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Criar: de Banette."
+        ],
+        "Perla Reluciente": [
+            "Criar: de Banette."
+        ],
+        "Leyendas: Arceus": [
+            "Shuppet no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "A Shuppet le atraen los sentimientos de celos y rencor. Si alguien desarrolla fuertes sentimientos de venganza, aparecerá una multitud de Shuppet que se quedará bajo los aleros de su casa.",
+        "Zafiro": "Shuppet crece alimentándose de sentimientos negativos, como el rencor y la envidia, que nacen en el corazón de las personas. Se dedica a vagar por las ciudades en busca del rencor que contamina a la gente.",
+        "Esmeralda": "Este Pokémon deambula en la oscuridad de la noche en busca de sentimientos negativos, como el rencor y la envidia. Antes del amanecer, se retira a su hogar.",
+        "Rojo Fuego": "Se alimenta de sentimientos como la envidia y el rencor, que capta a través del cuerno de la cabeza.",
+        "Verde Hoja": "Se alimenta de sentimientos como la envidia y el rencor, que capta a través del cuerno de la cabeza.",
+        "Diamante": "Les atraen los sentimientos de rencor y celos. Suelen vivir cerca de las casas de gente vengativa.",
+        "Perla": "Les atraen los sentimientos de rencor y celos. Suelen vivir cerca de las casas de gente vengativa.",
+        "Platino": "Les atraen los sentimientos de rencor y celos. Suelen vivir cerca de las casas de gente vengativa.",
+        "Oro HeartGold": "Dicen que con su cuerno se alimenta de sentimientos de celos y envidia. Es muy activo a medianoche.",
+        "Plata SoulSilver": "Dicen que con su cuerno se alimenta de sentimientos de celos y envidia. Es muy activo a medianoche.",
+        "Negro": "Les atraen los sentimientos de rencor y celos. Suelen vivir cerca de las casas de gente vengativa.",
+        "Blanco": "Les atraen los sentimientos de rencor y celos. Suelen vivir cerca de las casas de gente vengativa.",
+        "Negro 2": "Absorbe los sentimientos de celos y tristeza que albergan los humanos, y se hace más fuerte paulatinamente.",
+        "Blanco 2": "Absorbe los sentimientos de celos y tristeza que albergan los humanos, y se hace más fuerte paulatinamente.",
+        "Pokémon X": "Dicen que con su cuerno se alimenta de sentimientos de celos y envidia. Es muy activo a medianoche.",
+        "Pokémon Y": "Les atraen los sentimientos de rencor y celos. Suelen vivir cerca de las casas de gente vengativa.",
+        "Rubí Omega": "A Shuppet le atraen los sentimientos de celos y rencor. Si alguien desarrolla fuertes sentimientos de venganza, aparecerá una multitud de Shuppet que se quedará bajo los aleros de su casa.",
+        "Zafiro Alfa": "Shuppet crece alimentándose de sentimientos negativos, como el rencor y la envidia, que nacen en el corazón de las personas. Se dedica a vagar por las ciudades en busca del rencor que contamina a la gente.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Se alimenta de sentimientos negativos como la envidia, el rencor y el odio, así que su presencia es más que bienvenida por los humanos.",
+        "Ultraluna": "Según un viejo proverbio, conviene mantenerse alejado de aquellas casas a las que se arrime una multitud de Shuppet cuando cae la noche.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Adoran los sentimientos de rencor, por lo que los aleros de las casas donde vive gente vengativa suelen estar a rebosar de ellos.",
+        "Perla Reluciente": "Adoran los sentimientos de rencor, por lo que los aleros de las casas donde vive gente vengativa suelen estar a rebosar de ellos.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Shuppet",
+            "Nivel 37",
+            "Banette"
+        ]
+    ]
+}

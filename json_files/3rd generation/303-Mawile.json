@@ -1,0 +1,150 @@
+{
+    "dex number": "303",
+    "pokemon name": "Mawile",
+    "types": [
+        "acero",
+        "hada"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Corte fuerte"
+    ],
+    "hidden abilities": [
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "85",
+        "def": "85",
+        "atk esp": "55",
+        "def esp": "55",
+        "speed": "50"
+    },
+    "location": {
+        "Rubí": [
+            "Salvaje: Cueva Granito (sótanos 1 y 2), Pilar Celeste (pisos 1, 3 y 5), Cueva Ancestral y Calle Victoria (sótano 2)"
+        ],
+        "Zafiro": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda"
+        ],
+        "Esmeralda": [
+            "Salvaje: Calle Victoria (sótanos 1 y 2)"
+        ],
+        "Rojo Fuego": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda"
+        ],
+        "Verde Hoja": [
+            "Intercambiar: de Pokémon Rubí o Pokémon Esmeralda"
+        ],
+        "Diamante": [
+            "Insertando un videojuego de GBA: Isla Hierro (con Pokémon Rubí insertado)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Perla": [
+            "Insertando un videojuego de GBA: Isla Hierro (con Pokémon Rubí insertado)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Platino": [
+            "Insertando un videojuego de GBA: Isla Hierro (con Pokémon Rubí insertado)",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla, Pokémon Platino o Pokémon Plata SoulSilver",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Plata SoulSilver": [
+            "Manada: Ruta 9",
+            "Parque Compi: Zona rocosa"
+        ],
+        "Negro": [
+            "Salvaje: Gruta Superación"
+        ],
+        "Blanco": [
+            "Salvaje: Gruta Superación"
+        ],
+        "Negro 2": [
+            "Intercambiar: por cualquier Pokémon con la dueña del objeto perdido en Ciudad Mayólica al llamarla un cierto número de veces (solo si se es chico)"
+        ],
+        "Blanco 2": [
+            "Intercambiar: por cualquier Pokémon con la dueña del objeto perdido en Ciudad Mayólica al llamarla un cierto número de veces (solo si se es chico)"
+        ],
+        "Pokémon X": [
+            "Salvaje: Cueva Brillante",
+            "Especial: Safari Amistad, en algunos safaris de tipo acero o tipo hada"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva Brillante",
+            "Especial: Safari Amistad, en algunos safaris de tipo acero o tipo hada"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Granito (sótano 2), Cueva Ancestral, Pilar Celeste y Calle Victoria (entrada, primera planta y sótano)"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X, Pokémon Y o Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Colina Dequilate"
+        ],
+        "Ultraluna": [
+            "Salvaje: Colina Dequilate"
+        ],
+        "Espada": [
+            "Salvaje: Cuenca Polvorienta, Valle Entrepuentes y Gruta del Lago ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Pradera Radiante, nido al sureste junto al acantilado y Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón. Con posible habilidad oculta: Cornisa de Artejo, nido al noreste, Lago del Enfado, nido al norte junto al lago, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto al lago y Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón. Nidos en Campo Deslizante , Lecho del Gigante , Viejo Cementerio , Desfiladero Nevado , Suela del Gigante , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Mawile no se puede conseguir en este videojuego."
+        ]
+    },
+    "pokedex": {
+        "Rubí": "Las descomunales fauces de acero de Mawile son la evolución de unos cuernos que tuvo en su día. Con su expresión dócil puede engañar al enemigo y hacer que baje la guardia para sorprenderle con las fauces.",
+        "Zafiro": "No te dejes engañar por el aspecto tierno de este Pokémon; es un verdadero peligro. Mawile engaña a su enemigo. Primero hace que baje la guardia, y después despliega las horribles fauces de acero, que antes eran cuernos.",
+        "Esmeralda": "Las gigantescas fauces que tiene fueron cuernos de acero en su día. Engaña al enemigo con gestos dóciles y a continuación abre sus fauces.",
+        "Rojo Fuego": "Engaña con su aspecto dócil; hace que el rival se confíe y le da un mordisco con sus enormes e implacables mandíbulas.",
+        "Verde Hoja": "Engaña con su aspecto dócil; hace que el rival se confíe y le da un mordisco con sus enormes e implacables mandíbulas.",
+        "Diamante": "Las grandes fauces de su cabeza están formadas por cuernos. Puede romper el hierro con ellas.",
+        "Perla": "Las grandes fauces de su cabeza están formadas por cuernos. Puede romper el hierro con ellas.",
+        "Platino": "Las grandes fauces de su cabeza están formadas por cuernos. Puede romper el hierro con ellas.",
+        "Oro HeartGold": "Sus cuernos de acero se transforman en grandes fauces con las que muerde a sus enemigos.",
+        "Plata SoulSilver": "Sus cuernos de acero se transforman en grandes fauces con las que muerde a sus enemigos.",
+        "Negro": "Las grandes fauces de su cabeza están formadas por cuernos. Puede romper el hierro con ellas.",
+        "Blanco": "Las grandes fauces de su cabeza están formadas por cuernos. Puede romper el hierro con ellas.",
+        "Negro 2": "Las grandes fauces de su cabeza están formadas por cuernos. Puede romper el hierro con ellas.",
+        "Blanco 2": "Las grandes fauces de su cabeza están formadas por cuernos. Puede romper el hierro con ellas.",
+        "Pokémon X": "Engaña con su aspecto dócil; hace que el rival se confíe y le da un mordisco con sus enormes e implacables mandíbulas.",
+        "Pokémon Y": "Las grandes fauces de su cabeza están formadas por cuernos. Puede romper el hierro con ellas.",
+        "Rubí Omega": "Las descomunales fauces de acero de Mawile son la evolución de unos cuernos que tuvo en su día. Con su expresión dócil puede engañar al enemigo y hacer que baje la guardia para sorprenderle con las fauces.",
+        "Zafiro Alfa": "No hay que dejarse engañar por el aspecto tierno de este Pokémon; es un verdadero peligro. Mawile engaña, así, a su rival. Primero, hace que baje la guardia y, después, despliega sus horribles fauces de acero, que antes eran cuernos.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "\nMawile: Este Pokémon astuto y temible engaña al rival con su aspecto dulce para luego engullirlo de un bocado cuando menos se lo espera.\nMega-Mawile: Tiene un carácter muy agresivo. Atrapa a sus víctimas con sus dos juegos de mandíbulas y las despedaza.",
+        "Ultraluna": "\nMawile: Tiene dos bocas. Las grandes mandíbulas a su espalda carecen de sentido del gusto, por lo que las usa para comer lo que no le agrada.\nMega-Mawile: Sus mandíbulas se agitan con violencia como si tuvieran voluntad propia. Pueden hacer pedazos una roca de un solo mordisco.",
+        "Espada": "Con su cara inocente hace que el rival se confíe y, al bajar la guardia, le da un mordisco con sus enormes fauces del que no se puede liberar.",
+        "Escudo": "Sus otrora cuernos de acero se han transformado en grandes fauces con las que muerde a sus enemigos.",
+        "Diamante Brillante": "Las grandes fauces de su cabeza fueron cuernos en su día. Puede triturar vigas de acero con ellas.",
+        "Perla Reluciente": "Las grandes fauces de su cabeza fueron cuernos en su día. Puede triturar vigas de acero con ellas.",
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Mawile"
+        ]
+    ]
+}
