@@ -1,0 +1,135 @@
+{
+    "dex number": "491",
+    "pokemon name": "Darkrai",
+    "types": [
+        "siniestro"
+    ],
+    "abilities": [
+        "Mal sueño"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "70",
+        "atk": "90",
+        "def": "90",
+        "atk esp": "135",
+        "def esp": "90",
+        "speed": "125"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: en Isla Lunanueva (solo uno, al nivel 40). Requiere el carné socio, que solo se pudo conseguir a través del evento que organizó Nintendo. (ver imagen)",
+            "Evento: repartido en Moviplaya 2008, con los movimientos distorsión y corte vacío.",
+            "Especial: transfiriéndolo de Pokémon Ranger: Sombras de Almia, tras completar la misión Libera la torre."
+        ],
+        "Perla": [
+            "Salvaje: en Isla Lunanueva (solo uno, al nivel 40). Requiere el carné socio, que solo se pudo conseguir a través del evento que organizó Nintendo. (ver imagen)",
+            "Evento: repartido en Moviplaya 2008, con los movimientos distorsión y corte vacío.",
+            "Especial: transfiriéndolo de Pokémon Ranger: Sombras de Almia, tras completar la misión Libera la torre."
+        ],
+        "Platino": [
+            "Salvaje: en Isla Lunanueva (solo uno, al nivel 50). Requiere el carné socio, que solo se pudo conseguir por la CWF de Nintendo en la modalidad Regalo Misterioso entre el 3 de agosto y el 13 de septiembre de 2009. (ver imagen)",
+            "Especial: transfiriéndolo de Pokémon Ranger: Sombras de Almia, tras completar la misión Libera la torre."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante y Pokémon Perla o Pokémon Platino.",
+            "Especial: transfiriéndolo de Pokémon Ranger: Sombras de Almia, tras completar la misión Libera la torre."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante y Pokémon Perla o Pokémon Platino.",
+            "Especial: transfiriéndolo de Pokémon Ranger: Sombras de Almia, tras completar la misión Libera la torre."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Evento: Realizado en las tiendas GameStop de España del 23 de noviembre de 2011 al 15 de enero de 2012.",
+            "Evento: Mediante WI-FI del 1 de mayo al 10 de junio, con los ataques Brecha negra, Viento aciago, Finta y Pesadilla."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Evento: Realizado en las tiendas GameStop de España del 23 de noviembre de 2011 al 15 de enero de 2012.",
+            "Evento: Mediante WI-FI del 1 de mayo al 10 de junio, con los ataques Brecha negra, Viento aciago, Finta y Pesadilla."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold, Plata SoulSilver.",
+            "Intercambiar: de Pokémon Negro y Pokémon Blanco."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold, Plata SoulSilver.",
+            "Intercambiar: de Pokémon Negro y Pokémon Blanco."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: En conmemoración a PK20, repartido a aquellos que reservaron su entrada para la P17. A nivel 50.",
+            "Evento: Del 1 al 24 de mayo de 2016, en las tiendas GAME, al conectarse a Nintendo Zone. Uno a nivel 100."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: En conmemoración a PK20, repartido a aquellos que reservaron su entrada para la P17. A nivel 50.",
+            "Evento: Del 1 al 24 de mayo de 2016, en las tiendas GAME, al conectarse a Nintendo Zone. Uno a nivel 100."
+        ],
+        "Rubí Omega": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: Del 1 al 24 de mayo de 2016, en las tiendas GAME, al conectarse a Nintendo Zone. Uno a nivel 100."
+        ],
+        "Zafiro Alfa": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: Del 1 al 24 de mayo de 2016, en las tiendas GAME, al conectarse a Nintendo Zone. Uno a nivel 100."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores."
+        ],
+        "Espada": [
+            "Darkrai no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Darkrai no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: en Isla Lunanueva (solo uno, al nivel 50). Requiere el carné socio, obtenible mediante regalo Misterioso."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: en Isla Lunanueva (solo uno, al nivel 50). Requiere el carné socio, obtenible mediante regalo Misterioso."
+        ],
+        "Leyendas: Arceus": [
+            "Especial: En Umbral Pétreo (al tener guardado datos de Pokémon Diamante Brillante y Pokémon Perla Reluciente, iniciar la petición 93 y ser de noche)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Puede adormecer a la gente y hacerle soñar. Está activo en las noches de luna nueva.",
+        "Perla": "Las historias populares cuentan que en las noches sin luna hace soñar pesadillas horribles.",
+        "Platino": "Para protegerse causa pesadillas a los que le rodean. Pero no lo hace con intención de hacer daño.",
+        "Oro HeartGold": "Defiende su territorio de personas y Pokémon haciéndoles dormir y provocándoles pesadillas.",
+        "Plata SoulSilver": "Defiende su territorio de personas y Pokémon haciéndoles dormir y provocándoles pesadillas.",
+        "Negro": "Para protegerse causa pesadillas a los que le rodean. Pero no lo hace con intención de hacer daño.",
+        "Blanco": "Para protegerse causa pesadillas a los que le rodean. Pero no lo hace con intención de hacer daño.",
+        "Negro 2": "Para protegerse causa pesadillas a los que le rodean. Pero no lo hace con intención de hacer daño.",
+        "Blanco 2": "Para protegerse causa pesadillas a los que le rodean. Pero no lo hace con intención de hacer daño.",
+        "Pokémon X": "Defiende su territorio de personas y Pokémon haciéndoles dormir y provocándoles pesadillas.",
+        "Pokémon Y": "Puede adormecer a la gente y hacerle soñar. Está activo en las noches de luna nueva.",
+        "Rubí Omega": "Defiende su territorio de personas y Pokémon haciéndoles dormir y provocándoles pesadillas.",
+        "Zafiro Alfa": "Puede adormecer a la gente y hacerle soñar. Está activo en las noches de luna nueva.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Puede sumir a la gente en un sueño profundo y hacerles soñar. Está activo en las noches de luna nueva.",
+        "Perla Reluciente": "Las historias populares cuentan que en las noches de luna nueva provoca horribles pesadillas.",
+        "Leyendas: Arceus": "En una ocasión, durante una noche de luna nueva, todos los habitantes de un mismo asentamiento sufrieron pesadillas colectivas en las que aparecía este Pokémon."
+    },
+    "evolution": [
+        [
+            "Darkrai"
+        ]
+    ]
+}

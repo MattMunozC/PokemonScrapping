@@ -1,0 +1,127 @@
+{
+    "dex number": "387",
+    "pokemon name": "Turtwig",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Caparazón"
+    ],
+    "stats": {
+        "hp": "55",
+        "atk": "68",
+        "def": "64",
+        "atk esp": "45",
+        "def esp": "55",
+        "speed": "31"
+    },
+    "location": {
+        "Diamante": [
+            "Especial: Es uno de los Pokémon iniciales que se pueden elegir al inicio de la aventura en el Lago Veraz (solo uno)"
+        ],
+        "Perla": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. En el Lago Veraz (solo uno)"
+        ],
+        "Platino": [
+            "Especial: Es uno de los Pokémon iniciales que se pueden elegir al inicio de la aventura en la Ruta 201 (solo uno)"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro 2": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Blanco 2": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Especial: Es uno de iniciales de Sinnoh que da a elegir el profesor Abedul en la Ruta 101 después de ganar la liga por segunda vez (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Es uno de iniciales de Sinnoh que da a elegir el profesor Abedul en la Ruta 101 después de ganar la liga por segunda vez (solo uno)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Criando: de Grotle"
+        ],
+        "Ultraluna": [
+            "Criando: de Grotle"
+        ],
+        "Espada": [
+            "Turtwig no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Turtwig no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. En el Lago Veraz en el maletín del Profesor Serbal. Sólo uno, al nivel 5.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. En el Lago Veraz en el maletín del Profesor Serbal. Sólo uno, al nivel 5.",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje:Pantanal Carmesí: Pradera Aleteo.",
+            " Aparición masiva: Pantanal Carmesí."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "La concha de su espalda es de tierra y se endurece cuando bebe agua. Vive cerca de los lagos.",
+        "Perla": "Realiza la fotosíntesis para obtener oxígeno. Si tiene sed, las hojas de la cabeza se marchitan.",
+        "Platino": "La concha de su espalda es de tierra. Si está sano, la concha de Turtwig debería estar húmeda.",
+        "Oro HeartGold": "Realiza la fotosíntesis al bañarle los rayos de sol. Su concha está formada por tierra endurecida.",
+        "Plata SoulSilver": "Realiza la fotosíntesis al bañarle los rayos de sol. Su concha está formada por tierra endurecida.",
+        "Negro": "La concha de su espalda es de tierra. Si está sano, la concha de Turtwig debería estar húmeda.",
+        "Blanco": "La concha de su espalda es de tierra. Si está sano, la concha de Turtwig debería estar húmeda.",
+        "Negro 2": "La concha de su espalda es de tierra. Si está sano, la concha de Turtwig debería estar húmeda.",
+        "Blanco 2": "La concha de su espalda es de tierra. Si está sano, la concha de Turtwig debería estar húmeda.",
+        "Pokémon X": "Realiza la fotosíntesis al bañarle los rayos de sol. Su concha está formada por tierra endurecida.",
+        "Pokémon Y": "Realiza la fotosíntesis para obtener oxígeno. Si tiene sed, las hojas de la cabeza se marchitan.",
+        "Rubí Omega": "Realiza la fotosíntesis al bañarle los rayos de sol. Su concha está formada por tierra endurecida.",
+        "Zafiro Alfa": "Realiza la fotosíntesis para obtener oxígeno. Si tiene sed, las hojas de la cabeza se marchitan.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "La concha de su espalda es de tierra y se endurece cuando bebe agua. Vive cerca de los lagos.",
+        "Perla Reluciente": "Realiza la fotosíntesis con todo el cuerpo para obtener oxígeno. Cuando tiene sed, las hojas de la cabeza se marchitan.",
+        "Leyendas: Arceus": "La luz del sol les aporta vitalidad. Su concha tiene una apariencia similar al limo y es ligeramente húmeda y cálida."
+    },
+    "evolution": [
+        [
+            "Turtwig",
+            "Nivel 18",
+            "Grotle",
+            "Nivel 32",
+            "Torterra"
+        ]
+    ]
+}

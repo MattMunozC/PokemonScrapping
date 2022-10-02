@@ -1,0 +1,133 @@
+{
+    "dex number": "484",
+    "pokemon name": "Palkia",
+    "types": [
+        "agua",
+        "dragón"
+    ],
+    "abilities": [
+        "Presión"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": "90",
+        "atk": "120",
+        "def": "100",
+        "atk esp": "150",
+        "def esp": "120",
+        "speed": "100"
+    },
+    "location": {
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla o Pokémon Platino."
+        ],
+        "Perla": [
+            "Salvaje: en la Columna lanza. Después de luchar contra los 3 líderes del Equipo Galaxia. Solo uno, al nivel 47."
+        ],
+        "Platino": [
+            "Salvaje: en la Columna Lanza. Tras ganar la Liga Pokémon, hablar con la anciana de Pueblo Caelestis y haber recogido la lustresfera. Solo uno, al nivel 70."
+        ],
+        "Oro HeartGold": [
+            "Especial: nace de uno de los huevos del Evento de Arceus en Pokémon Oro HeartGold y Plata SoulSilver. Solo uno, al nivel 1.",
+            "Intercambiar: de Pokémon Perla o Pokémon Platino."
+        ],
+        "Plata SoulSilver": [
+            "Especial: nace de uno de los huevos del Evento de Arceus en Pokémon Oro HeartGold y Plata SoulSilver. Solo uno, al nivel 1.",
+            "Intercambiar: de Pokémon Perla o Pokémon Platino."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Perla o Platino.",
+            "Evento: Repartido en España e Hispanoamérica del 13 al 26 de septiembre de 2013 (ver noticia). Es variocolor y está al nivel 100 (ver datos de evento abajo)."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Perla o Platino.",
+            "Evento: Repartido en España e Hispanoamérica del 13 al 26 de septiembre de 2013 (ver noticia). Es variocolor y está al nivel 100 (ver datos de evento abajo)."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Perla o Platino.",
+            "Especial: Transfiriendo un Palkia capturado en el RAdar Pokémon accediendo al modo IV Generación con un juego de Pokémon Perla en la consola. Puede estar del nivel 5 al 40.",
+            "Evento: Repartido en España e Hispanoamérica del 13 al 26 de septiembre de 2013 (ver noticia). Es variocolor y está al nivel 100 (ver datos de evento abajo)."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Perla o Platino.",
+            "Especial: Transfiriendo un Palkia capturado en el RAdar Pokémon accediendo al modo IV Generación con un juego de Pokémon Perla en la consola. Puede estar del nivel 5 al 40.",
+            "Evento: Repartido en España e Hispanoamérica del 13 al 26 de septiembre de 2013 (ver noticia). Es variocolor y está al nivel 100 (ver datos de evento abajo)."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega."
+        ],
+        "Rubí Omega": [
+            "Salvaje: En un Paraje Espejismo. Sí llevamos a Uxie, Mesprit y Azelf en nuestro equipo mientras usamos Ultravuelo, podremos verlo por el cielo. Al acercarnos a él se nos preguntará si queremos entrar. Sólo uno, al nivel 50."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon Rubí Omega."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon Ultraluna."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultraluna."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna.",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo (solo uno, al nivel 60)."
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo."
+        ],
+        "Escudo": [
+            "Especial: Aleatoriamente en una Aventura Dinamax."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: en las Columnas Lanza, después de luchar contra los 3 líderes del Equipo Galaxia (solo uno, al nivel 47). En caso de haberlo debilitado, después de finalizar la liga Pokémon estaría disponible un segundo encuentro."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: en el Templo de Sinnoh, (Sólo uno, durante la encomienda 17, al escoger el apoyo del Clan Perla). En el Templo de Sinnoh, (Sólo uno, durante la encomienda 18, al escoger el apoyo del Clan Diamante)."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Tiene la habilidad de distorsionar el espacio. La mitología de Sinnoh lo describe como una deidad.",
+        "Perla": "Se dice que vive en una dimensión paralela. Aparece en la mitología.",
+        "Platino": "Un Pokémon legendario de Sinnoh. Se dice que el espacio se vuelve más estable con cada respiración suya.",
+        "Oro HeartGold": "Controla las conexiones del espacio y puede viajar a su antojo a otras dimensiones y a lugares lejanos.",
+        "Plata SoulSilver": "Controla las conexiones del espacio y puede viajar a su antojo a otras dimensiones y a lugares lejanos.",
+        "Negro": "Un Pokémon legendario de Sinnoh. Se dice que el espacio se vuelve más estable con cada respiración suya.",
+        "Blanco": "Un Pokémon legendario de Sinnoh. Se dice que el espacio se vuelve más estable con cada respiración suya.",
+        "Negro 2": "Un Pokémon legendario de Sinnoh. Se dice que el espacio se vuelve más estable con cada respiración suya.",
+        "Blanco 2": "Un Pokémon legendario de Sinnoh. Se dice que el espacio se vuelve más estable con cada respiración suya.",
+        "Pokémon X": "Se dice que vive en una dimensión paralela. Aparece en la mitología.",
+        "Pokémon Y": "Tiene la habilidad de distorsionar el espacio. La mitología de Sinnoh lo describe como una deidad.",
+        "Rubí Omega": "Se dice que vive en una dimensión paralela. Aparece en la mitología.",
+        "Zafiro Alfa": "Tiene la habilidad de distorsionar el espacio. La mitología de Sinnoh lo describe como una deidad.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Tiene la habilidad de distorsionar el espacio. La mitología de Sinnoh lo describe como una deidad.",
+        "Perla Reluciente": "Se dice que vive en un espacio entre dimensiones paralelas. Aparece en la mitología.",
+        "Leyendas: Arceus": "\nPalkia: Venerado en la tradición de Hisui como la deidad cuyo origen hizo que el muro que confinaba el mundo terrenal cayese y diera lugar a un cielo que se extiende hasta el infinito.\nForma Origen: Esta forma que surca el cielo me hace pensar en el creador de todo lo existente. Quizá adopte dicha forma para hacerse con su poder."
+    },
+    "evolution": [
+        [
+            "Palkia"
+        ]
+    ]
+}

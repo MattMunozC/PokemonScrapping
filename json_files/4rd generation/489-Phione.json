@@ -1,0 +1,135 @@
+{
+    "dex number": "489",
+    "pokemon name": "Phione",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Hidratación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "80",
+        "atk": "80",
+        "def": "80",
+        "atk esp": "80",
+        "def esp": "80",
+        "speed": "80"
+    },
+    "location": {
+        "Diamante": [
+            "Criando: a Manaphy con un Ditto.",
+            "Especial, My Pokémon Ranch: tras alcanzar 250 Pokémon en el rancho e intercambiar un Leafeon con Eulalia."
+        ],
+        "Perla": [
+            "Criando: a Manaphy con un Ditto.",
+            "Especial, My Pokémon Ranch: tras alcanzar 250 Pokémon en el rancho e intercambiar un Leafeon con Eulalia."
+        ],
+        "Platino": [
+            "Criando: a Manaphy con un Ditto.",
+            "Especial, My Pokémon Ranch: tras alcanzar 250 Pokémon en el rancho e intercambiar un Leafeon con Eulalia."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante y Pokémon Perla o Pokémon Platino.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante y Pokémon Perla o Pokémon Platino.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Rubí Omega": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Zafiro Alfa": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Espada": [
+            "Phione no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Phione no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Perla Reluciente": [
+            "Criando: a Manaphy con un Ditto."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: En Cueva Costera (realizar la petición 66)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Vive en los mares cálidos. Infla el flotador de la cabeza para nadar en busca de comida.",
+        "Perla": "Vive en los mares cálidos. Infla el flotador de la cabeza para nadar en busca de comida.",
+        "Platino": "Va a la deriva por mares cálidos. Siempre vuelve a donde nació, por mucho que se haya alejado.",
+        "Oro HeartGold": "Si sube la temperatura del mar, infla el flotador de su cabeza y flota en grupo en la superficie.",
+        "Plata SoulSilver": "Si sube la temperatura del mar, infla el flotador de su cabeza y flota en grupo en la superficie.",
+        "Negro": "Va a la deriva por mares cálidos. Siempre vuelve a donde nació, por mucho que se haya alejado.",
+        "Blanco": "Va a la deriva por mares cálidos. Siempre vuelve a donde nació, por mucho que se haya alejado.",
+        "Negro 2": "Va a la deriva por mares cálidos. Siempre vuelve a donde nació, por mucho que se haya alejado.",
+        "Blanco 2": "Va a la deriva por mares cálidos. Siempre vuelve a donde nació, por mucho que se haya alejado.",
+        "Pokémon X": "Si sube la temperatura del mar, infla el flotador de su cabeza y flota en grupo en la superficie.",
+        "Pokémon Y": "Va a la deriva por mares cálidos. Siempre vuelve a donde nació, por mucho que se haya alejado.",
+        "Rubí Omega": "Si sube la temperatura del mar, infla el flotador de su cabeza y flota en grupo en la superficie.",
+        "Zafiro Alfa": "Va a la deriva por mares cálidos. Siempre vuelve a donde nació, por mucho que se haya alejado.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Vive en mares cálidos. Infla la vejiga natatoria de la cabeza para dejarse llevar por las olas en busca de comida.",
+        "Perla Reluciente": "Vive en mares cálidos. Infla la vejiga natatoria de la cabeza para dejarse llevar por las olas en busca de comida.",
+        "Leyendas: Arceus": "Flota cerca de la costa cuando las aguas se vuelven más cálidas. Su tono de un azul similar al del mar podría ser un mecanismo de defensa contra los depredadores."
+    },
+    "evolution": [
+        [
+            "Manaphy",
+            "Criando de Manaphy junto con un Ditto ",
+            "Phione"
+        ]
+    ]
+}

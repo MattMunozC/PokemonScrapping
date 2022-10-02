@@ -1,0 +1,124 @@
+{
+    "dex number": "455",
+    "pokemon name": "Carnivine",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "74",
+        "atk": "100",
+        "def": "72",
+        "atk esp": "90",
+        "def esp": "72",
+        "speed": "46"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Gran Pantano. Se trata de uno de los Pokémon especiales que aparecen un día a la semana. Se encuentran cerca de los árboles."
+        ],
+        "Perla": [
+            "Salvaje: Gran Pantano. Se trata de uno de los Pokémon especiales que aparecen un día a la semana. Se encuentran cerca de los árboles."
+        ],
+        "Platino": [
+            "Salvaje: Gran Pantano. Se trata de uno de los Pokémon especiales que aparecen un día a la semana. Se encuentran cerca de los árboles."
+        ],
+        "Oro HeartGold": [
+            "Zona Safari: Albufera y desierto",
+            "Sonidos de Sinnoh: Encinar y Bosque Verde"
+        ],
+        "Plata SoulSilver": [
+            "Zona Safari: Albufera y desierto",
+            "Sonidos de Sinnoh: Encinar y Bosque Verde"
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 18",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 18",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 14 y Ruta 19"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 14 y Ruta 19"
+        ],
+        "Rubí Omega": [
+            "Intercambiar:: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar:: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Carnivine no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Carnivine no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Gran Pantano."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Gran Pantano."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje:Pradera Áurea, Ciénaga Bocazas, Rellano Nebuloso, Banco del Juicio, Manantial Solitario",
+            "Aparición supermasiva: Pantanal Carmesí",
+            "Pokémon alfa: Prado Erióforo y Manantial Solitario"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Atrae a sus presas con saliva de olor dulce y las mastica. Tarda todo un día en comérselas.",
+        "Perla": "Se cuelga de las ramas con sus tentáculos y espera a sus presas con la boca abierta.",
+        "Platino": "Se cuelga de los árboles en los pantanos. Atrae a sus presas con su dulce olor y las engulle.",
+        "Oro HeartGold": "Se desplaza hábilmente con sus tentáculos buscando ramas desde las que acechar a sus presas.",
+        "Plata SoulSilver": "Se desplaza hábilmente con sus tentáculos buscando ramas desde las que acechar a sus presas.",
+        "Negro": "Se cuelga de los árboles en los pantanos. Atrae a sus presas con su dulce olor y las engulle.",
+        "Blanco": "Se cuelga de los árboles en los pantanos. Atrae a sus presas con su dulce olor y las engulle.",
+        "Negro 2": "Se aferra a las ramas de los árboles con sus tentáculos y segrega una saliva de dulce aroma que atrae a sus presas.",
+        "Blanco 2": "Se aferra a las ramas de los árboles con sus tentáculos y segrega una saliva de dulce aroma que atrae a sus presas.",
+        "Pokémon X": "Atrae a sus presas con saliva de olor dulce y las mastica. Tarda todo un día en comérselas.",
+        "Pokémon Y": "Se cuelga de los árboles en los pantanos. Atrae a sus presas con su dulce olor y las engulle.",
+        "Rubí Omega": "Atrae a sus presas con saliva de olor dulce y las mastica. Tarda todo un día en comérselas.",
+        "Zafiro Alfa": "Se cuelga de los árboles en los pantanos. Atrae a sus presas con su dulce olor y las engulle.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Atrae a sus presas con saliva de olor dulce y las mastica con su enorme mandíbula. Tarda todo un día en comérselas.",
+        "Perla Reluciente": "Se cuelga de las ramas con los tentáculos y espera a sus presas con la boca abierta, inmóvil y camuflado como una planta.",
+        "Leyendas: Arceus": "Su apariencia vegetal contrasta con su carácter voraz y violento. Agrede a sus presas con sus enormes fauces."
+    },
+    "evolution": [
+        [
+            "Carnivine"
+        ]
+    ]
+}

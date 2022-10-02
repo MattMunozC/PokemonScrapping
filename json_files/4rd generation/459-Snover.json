@@ -1,0 +1,136 @@
+{
+    "dex number": "459",
+    "pokemon name": "Snover",
+    "types": [
+        "planta",
+        "hielo"
+    ],
+    "abilities": [
+        "Nevada"
+    ],
+    "hidden abilities": [
+        "Insonorizar"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "62",
+        "def": "50",
+        "atk esp": "62",
+        "def esp": "60",
+        "speed": "40"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: rutas 216, 217, Orilla Agudeza y Monte Corona (cima)."
+        ],
+        "Perla": [
+            "Salvaje: rutas 216, 217, Orilla Agudeza y Monte Corona (cima)."
+        ],
+        "Platino": [
+            "Salvaje: rutas 216, 217, Orilla Agudeza, Lago Agudeza y Monte Corona (cima)."
+        ],
+        "Oro HeartGold": [
+            "PokéWalker: Senda Glacial.",
+            "Intercambiar: de Pokémon Diamante, Perla o Platino."
+        ],
+        "Plata SoulSilver": [
+            "PokéWalker: Senda Glacial.",
+            "Intercambiar: de Pokémon Diamante, Perla o Platino."
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir de Diamante, Perla, Platino, Oro Heartgold o Plata Soulsilver.",
+            "Dream World: En la Cueva Helada, con la habilidad insonorizar."
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir de Diamante, Perla, Platino, Oro Heartgold o Plata Soulsilver.",
+            "Dream World: En la Cueva Helada, con la habilidad insonorizar."
+        ],
+        "Negro 2": [
+            "PokéTransfer: Transferir de Diamante, Perla, Platino, Oro Heartgold o Plata Soulsilver.",
+            "Dream World: En la Cueva Helada, con la habilidad insonorizar."
+        ],
+        "Blanco 2": [
+            "PokéTransfer: Transferir de Diamante, Perla, Platino, Oro Heartgold o Plata Soulsilver.",
+            "Dream World: En la Cueva Helada, con la habilidad insonorizar."
+        ],
+        "Pokémon X": [
+            "Salvaje: ruta 17",
+            "Safari Amistad"
+        ],
+        "Pokémon Y": [
+            "Salvaje: ruta 17",
+            "Safari Amistad"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Criando: de Abomasnow"
+        ],
+        "Ultraluna": [
+            "Criando: de Abomasnow"
+        ],
+        "Espada": [
+            "Salvaje: ruta 8 (Senda Vaporosa), ruta 10",
+            "Área Silvestre: Arboleda Claroscuro, Lago Milotic (sur), Silla del Gigante, Ojo de Axew, Lago Axew (este), Antigua Atalaya, Lago Milotic (norte), Cuenca Polvorienta, Espejo del Gigante y Gorro del Gigante (solo aparece de forma salvaje con granizo)",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada y Gorro del Gigante, nido en el centro."
+        ],
+        "Escudo": [
+            "Salvaje: ruta 8 (Senda Vaporosa), ruta 10",
+            "Área Silvestre: Arboleda Claroscuro, Lago Milotic (sur), Silla del Gigante, Ojo de Axew, Lago Axew (este), Antigua Atalaya, Lago Milotic (norte), Cuenca Polvorienta, Espejo del Gigante y Gorro del Gigante (solo aparece de forma salvaje con granizo)",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada y Gorro del Gigante, nido en el centro."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: rutas 216, 217, Orilla Agudeza y Monte Corona.",
+            "Grutas del Subsuelo: Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: rutas 216, 217, Orilla Agudeza y Monte Corona.",
+            "Grutas del Subsuelo: Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Témpano Avalugg y Terraza Glaliar.",
+            "Aparición supermasiva: Ladera Corona y Tundra Alba."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Vive en montañas nevadas. Apenas tiene contacto con los humanos y es muy curioso.",
+        "Perla": "En primavera, le crecen las bayas con apariencia de helado alrededor de la panza.",
+        "Platino": "Siente mucha curiosidad por los humanos. Si uno encuentra huellas en la nieve, acuden todos a mirar.",
+        "Oro HeartGold": "En las estaciones frías baja al pie de la montaña, pero regresa a las cimas nevadas en primavera.",
+        "Plata SoulSilver": "En las estaciones frías baja al pie de la montaña, pero regresa a las cimas nevadas en primavera.",
+        "Negro": "Siente mucha curiosidad por los humanos. Si uno encuentra huellas en la nieve, acuden todos a mirar.",
+        "Blanco": "Siente mucha curiosidad por los humanos. Si uno encuentra huellas en la nieve, acuden todos a mirar.",
+        "Negro 2": "Siente mucha curiosidad por los humanos. Si uno encuentra huellas en la nieve, acuden todos a mirar.",
+        "Blanco 2": "Siente mucha curiosidad por los humanos. Si uno encuentra huellas en la nieve, acuden todos a mirar.",
+        "Pokémon X": "En las estaciones frías baja al pie de la montaña, pero regresa a las cimas nevadas en primavera.",
+        "Pokémon Y": "En primavera, le crecen bayas con apariencia de helado alrededor de la panza.",
+        "Rubí Omega": "En las estaciones frías baja al pie de la montaña, pero regresa a las cimas nevadas en primavera.",
+        "Zafiro Alfa": "En primavera, le crecen bayas con apariencia de helado alrededor de la panza.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Viven en montañas perennemente nevadas. Hunden las piernas en la nieve y absorben tanto humedad como aire frío.",
+        "Escudo": "Las bayas con aspecto de helado que le crecen alrededor de la barriga son la comida favorita de los Darumaka que habitan en Galar.",
+        "Diamante Brillante": "Vive en montañas nevadas. Como apenas tiene contacto con los humanos, se acerca a ellos con suma curiosidad.",
+        "Perla Reluciente": "En primavera, le crecen en el vientre unas bayas cuya textura recuerda al helado.",
+        "Leyendas: Arceus": "Es frecuente encontrarlo en zonas nevadas. Se rumorea que visita los asentamientos humanos, mas no supone ninguna amenaza, sino que hace buenas migas con los niños."
+    },
+    "evolution": [
+        [
+            "Snover",
+            "Nivel 40",
+            "Abomasnow"
+        ]
+    ]
+}

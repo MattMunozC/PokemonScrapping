@@ -1,0 +1,124 @@
+{
+    "dex number": "461",
+    "pokemon name": "Weavile",
+    "types": [
+        "siniestro",
+        "hielo"
+    ],
+    "abilities": [
+        "Presión"
+    ],
+    "hidden abilities": [
+        "Hurto"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "120",
+        "def": "65",
+        "atk esp": "45",
+        "def esp": "85",
+        "speed": "125"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Perla": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Platino": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Negro": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Blanco": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Sol": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Luna": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Lago Axew (oeste), nido junto a Ciudad Pistón y Llanura Pétrea, nido al norte 2. Con posible habilidad oculta: Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al este 1, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna.",
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Lago Axew (oeste), nido junto a Ciudad Pistón y Llanura Pétrea, nido al norte 2. Con posible habilidad oculta: Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al este 1, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna.",
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Sneasel (subiendo de nivel de noche, equipado con garrafilada)."
+        ],
+        "Leyendas: Arceus": [
+            "Distorsión espaciotemporal:Pradera Obsidiana.",
+            "Evolucionar: a Sneasel (garra afilada + noche)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Viven en zonas frías y forman grupos de cuatro o cinco para cazar con gran coordinación.",
+        "Perla": "Envía señales a otros esculpiendo dibujos extraños en la escarcha de los árboles y en el hielo.",
+        "Platino": "Su carácter se volvió aún más vil con la evolución. Se comunica marcando rocas con sus garras.",
+        "Oro HeartGold": "Vive en zonas nevadas. Deja marcas en los árboles con sus garras para comunicarse con sus compañeros.",
+        "Plata SoulSilver": "Vive en zonas nevadas. Deja marcas en los árboles con sus garras para comunicarse con sus compañeros.",
+        "Negro": "Su carácter se volvió aún más vil con la evolución. Se comunica marcando rocas con sus garras.",
+        "Blanco": "Su carácter se volvió aún más vil con la evolución. Se comunica marcando rocas con sus garras.",
+        "Negro 2": "Se comunican mediante símbolos que tallan en las rocas con sus garras y así se coordinan para rodear al enemigo.",
+        "Blanco 2": "Se comunican mediante símbolos que tallan en las rocas con sus garras y así se coordinan para rodear al enemigo.",
+        "Pokémon X": "Vive en zonas nevadas. Deja marcas en los árboles con sus garras para comunicarse con sus compañeros.",
+        "Pokémon Y": "Viven en zonas frías y forman grupos de cuatro o cinco para cazar con gran coordinación.",
+        "Rubí Omega": "Vive en zonas nevadas. Deja marcas en los árboles con sus garras para comunicarse con sus compañeros.",
+        "Zafiro Alfa": "Viven en zonas frías y forman grupos de cuatro o cinco para cazar con gran coordinación.",
+        "Sol": "Siempre van en grupos de cuatro o cinco. Dejan marcas en rocas y árboles al cazar para coordinarse con sus compañeros.",
+        "Luna": "Habita en lugares fríos. En Alola se alimenta principalmente de Vulpix y Sandshrew, presas que reparte entre sus congéneres.",
+        "Ultrasol": "Trabaja en parejas. Uno pone la zancadilla a un Sandshrew y, cuando está boca arriba, el otro Weavile lo ataca con sus afiladas garras.",
+        "Ultraluna": "Se ha vuelto tan astuto que las disputas por las presas obtenidas son cosa del pasado. Quien se ve golpeado por sus garras sufre congelaciones.",
+        "Espada": "Cazan en grupo, lo que les permite abatir con facilidad presas de gran tamaño, como los Mamoswine.",
+        "Escudo": "Se comunican mediante marcas que tallan con sus garras. Se cree que tienen un repertorio de más de 500.",
+        "Diamante Brillante": "Viven en zonas frías y forman grupos de cuatro o cinco para cazar con gran coordinación.",
+        "Perla Reluciente": "Se comunica con otros miembros de su especie tallando extrañas marcas con las garras en los troncos de los árboles o en el hielo.",
+        "Leyendas: Arceus": "Viven y cazan en grupo bajo las órdenes de un líder. Su increíble astucia es un claro indicador de que su cerebro se desarrolló al evolucionar."
+    },
+    "evolution": [
+        [
+            "Sneasel",
+            "Nivel (noche) equipado con garra afilada ",
+            "Weavile"
+        ]
+    ]
+}

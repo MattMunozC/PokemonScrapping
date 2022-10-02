@@ -1,0 +1,134 @@
+{
+    "dex number": "444",
+    "pokemon name": "Gabite",
+    "types": [
+        "dragón",
+        "tierra"
+    ],
+    "abilities": [
+        "Velo arena"
+    ],
+    "hidden abilities": [
+        "Piel tosca"
+    ],
+    "stats": {
+        "hp": "68",
+        "atk": "90",
+        "def": "65",
+        "atk esp": "50",
+        "def esp": "55",
+        "speed": "82"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Gible (nivel 24)"
+        ],
+        "Perla": [
+            "Evolucionar: a Gible (nivel 24)"
+        ],
+        "Platino": [
+            "Salvaje: Calle Victoria.",
+            "Evolucionar: a Gible (nivel 24)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Gible (nivel 24)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Gible (nivel 24)"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Gible (nivel 24)"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Gible (nivel 24)",
+            "Especial: Safari Amistad, en algunos safaris de tipo dragón"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Gible (nivel 24)",
+            "Especial: Safari Amistad, en algunos safaris de tipo dragón"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Gible (nivel 24)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Gible (nivel 24)"
+        ],
+        "Sol": [
+            "Salvaje: Desierto de Haina (como refuerzo en tormenta de arena)"
+        ],
+        "Luna": [
+            "Salvaje: Desierto de Haina (como refuerzo en tormenta de arena)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Desierto de Haina (como refuerzo en tormenta de arena)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Desierto de Haina (como refuerzo en tormenta de arena)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Evolucionar: a Gible (nivel 24)"
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Gible (nivel 24)."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Gible (nivel 24)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Risco Riscoso, Desfiladero Alud",
+            "Evolucionar: a Gible (nivel 24).",
+            "Aparición supermasiva: Ladera Corona",
+            "Pokémon alfa:Ruinas Celestiales"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Existe la arraigada creencia de que una medicina hecha de sus escamas puede curarlo todo.",
+        "Perla": "Suele buscar y acumular gemas en su nido. Su botín es objetivo constante de ladrones.",
+        "Platino": "Le gustan las cosas brillantes. Busca tesoros en cuevas y se lleva el botín a su nido.",
+        "Oro HeartGold": "Tiende a acumular las gemas en bruto que encuentra cuando agranda su guarida.",
+        "Plata SoulSilver": "Tiende a acumular las gemas en bruto que encuentra cuando agranda su guarida.",
+        "Negro": "Le gustan las cosas brillantes. Busca tesoros en cuevas y se lleva el botín a su nido.",
+        "Blanco": "Le gustan las cosas brillantes. Busca tesoros en cuevas y se lleva el botín a su nido.",
+        "Negro 2": "Le gustan las cosas brillantes. Busca tesoros en cuevas y se lleva el botín a su nido.",
+        "Blanco 2": "Le gustan las cosas brillantes. Busca tesoros en cuevas y se lleva el botín a su nido.",
+        "Pokémon X": "Le gustan las cosas brillantes. Busca tesoros en cuevas y se lleva el botín a su nido.",
+        "Pokémon Y": "Tiende a acumular las gemas en bruto que encuentra cuando agranda su guarida.",
+        "Rubí Omega": "Le gustan las cosas brillantes. Busca tesoros en cuevas y se lleva el botín a su nido.",
+        "Zafiro Alfa": "Tiende a acumular las gemas en bruto que encuentra cuando agranda su guarida.",
+        "Sol": "Muy ocasionalmente puede mudar la piel y perder las escamas. Las medicinas que las usan como ingrediente son muy reconstituyentes.",
+        "Luna": "Le gustan las cosas brillantes. Pasa largas horas en su cueva, admirando las gemas y los Carbink que ha capturado.",
+        "Ultrasol": "Se vuelve loco por las cosas brillantes y no duda en atacar con violencia a los Sableye que acechan a los Carbink.",
+        "Ultraluna": "Muda la piel a medida que crece. Las escamas que pierde se pueden pulverizar para utilizar como ingrediente en remedios medicinales.",
+        "Espada": "Explora las más oscuras cuevas utilizando ondas ultrasónicas que emite desde las protuberancias a ambos lados de la cabeza.",
+        "Escudo": "Entierra gemas en la cueva que le sirve de nido y hace trizas con sus garras y colmillos a cualquier intruso.",
+        "Diamante Brillante": "Existe la arraigada creencia de que una medicina elaborada a partir de sus escamas puede curarlo todo.",
+        "Perla Reluciente": "Suele buscar y acumular gemas en su nido. Su botín es objetivo constante de ladrones.",
+        "Leyendas: Arceus": "Parece poseer un temperamento belicoso, mas tras entregarle una canica que pareció captar su atención, inmediatamente se volvió más dócil."
+    },
+    "evolution": [
+        [
+            "Gible",
+            "Nivel 24",
+            "Gabite",
+            "Nivel 48",
+            "Garchomp"
+        ]
+    ]
+}

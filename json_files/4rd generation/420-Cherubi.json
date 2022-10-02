@@ -1,0 +1,129 @@
+{
+    "dex number": "420",
+    "pokemon name": "Cherubi",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Clorofila"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "45",
+        "atk": "35",
+        "def": "45",
+        "atk esp": "62",
+        "def esp": "53",
+        "speed": "35"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: En los árboles de miel."
+        ],
+        "Perla": [
+            "Salvaje: En los árboles de miel."
+        ],
+        "Platino": [
+            "Salvaje: En los árboles de miel."
+        ],
+        "Oro HeartGold": [
+            "Salvaje:Usando golpe cabeza en la única zona donde se puede escalar del Parque Nacional."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje:Usando golpe cabeza en la única zona donde se puede escalar del Parque Nacional."
+        ],
+        "Negro": [
+            "Criando: de Cherrim.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco": [
+            "Criando: de Cherrim.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Criando: de Cherrim."
+        ],
+        "Zafiro Alfa": [
+            "Criando: de Cherrim."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Especial: Árboles de bayas.",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro."
+        ],
+        "Escudo": [
+            "Especial: Árboles de bayas.",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: en los árboles en los que se puede untar miel (a veces).",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera y Caverna Solana."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: en los árboles en los que se puede untar miel (a veces).",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera y Caverna Solana."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Caverna Inmemorial, Ciénaga Bocazas, Fuente de las Hadas, Manantial Solitario y Puente Erosionado",
+            "Aparición masiva: Pradera Obsidiana."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "La pequeña esfera, dulce y sabrosa, contiene los nutrientes necesarios para evolucionar.",
+        "Perla": "Bajo la luz solar es rojo. La esfera pequeña pierde sus nutrientes y se seca para anunciar la evolución.",
+        "Platino": "Esta pequeña esfera está llena de nutrientes y está tan rica que los Starly siempre intentan comérsela.",
+        "Oro HeartGold": "Obtiene la energía necesaria para evolucionar de esa pequeña esfera que está cargada de nutrientes.",
+        "Plata SoulSilver": "Obtiene la energía necesaria para evolucionar de esa pequeña esfera que está cargada de nutrientes.",
+        "Negro": "Esta pequeña esfera está llena de nutrientes y está tan rica que los Starly siempre intentan comérsela.",
+        "Blanco": "Esta pequeña esfera está llena de nutrientes y está tan rica que los Starly siempre intentan comérsela.",
+        "Negro 2": "Su pequeña esfera está llena de nutrientes y está tan rica que los Starly siempre intentan comérsela.",
+        "Blanco 2": "Su pequeña esfera está llena de nutrientes y está tan rica que los Starly siempre intentan comérsela.",
+        "Pokémon X": "Bajo la luz solar es rojo. La esfera pequeña pierde sus nutrientes y se seca para anunciar la evolución.",
+        "Pokémon Y": "Obtiene la energía necesaria para evolucionar de esa pequeña esfera que está cargada de nutrientes.",
+        "Rubí Omega": "Bajo la luz solar es rojo. La esfera pequeña pierde sus nutrientes y se seca para anunciar la evolución.",
+        "Zafiro Alfa": "Obtiene la energía necesaria para evolucionar de esa pequeña esfera que está cargada de nutrientes.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Se ve obligado a huir constantemente de los Pokémon pájaro, pues su pequeña esfera repleta de nutrientes es su manjar predilecto.",
+        "Escudo": "Cuanto más rojo sea su cuerpo, más dulce y deliciosa será su pequeña esfera repleta de nutrientes.",
+        "Diamante Brillante": "La pequeña esfera, dulce y sabrosa, contiene los nutrientes necesarios para evolucionar.",
+        "Perla Reluciente": "Bajo la luz solar es rojo. La esfera pequeña pierde sus nutrientes y se seca para anunciar la evolución.",
+        "Leyendas: Arceus": "Cuando el fruto con el que coexiste crece lo suficiente, se vale de sus nutrientes para evolucionar. Una vez cumplida su función, este se desprende y sirve de alimento a otros Pokémon."
+    },
+    "evolution": [
+        [
+            "Cherubi",
+            "Nivel 25",
+            "Cherrim"
+        ]
+    ]
+}

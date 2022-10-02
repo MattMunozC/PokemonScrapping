@@ -1,0 +1,132 @@
+{
+    "dex number": "464",
+    "pokemon name": "Rhyperior",
+    "types": [
+        "tierra",
+        "roca"
+    ],
+    "abilities": [
+        "Pararrayos",
+        "Roca sólida"
+    ],
+    "hidden abilities": [
+        "Audaz"
+    ],
+    "stats": {
+        "hp": "115",
+        "atk": "140",
+        "def": "130",
+        "atk esp": "55",
+        "def esp": "55",
+        "speed": "40"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Perla": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Platino": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Negro": [
+            "Dream World: Con la habilidad Audaz.",
+            "Intercambiar: de Pokémon Blanco.",
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Blanco": [
+            "Dream World: Con la habilidad Audaz.",
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Negro 2": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Sol": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Luna": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Ultrasol": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Ultraluna": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Pradera Radiante, nido en mitad de los árboles, Silla del Gigante, nido al sur junto al lago, Silla del Gigante, nido al sureste y Valle Entrepuentes, nido al sur.",
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Pradera Radiante, nido en mitad de los árboles, Silla del Gigante, nido al sur junto al lago, Silla del Gigante, nido al sureste y Valle Entrepuentes, nido al sur.",
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Rhydon, intercambiándolo con el objeto protector equipado."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: de Rhydon (interciando o exponiendo Protector)",
+            "Salvaje: Ágora de la Plegaria",
+            "Aparición supermasiva: Pantanal Carmesí y Ladera Corona",
+            "Pokémon alfa: Ágora de la Plegaria"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Pone rocas en los agujeros de sus manos y las lanza con los músculos. Pocas veces ataca a Geodude.",
+        "Perla": "Pone rocas en los agujeros de sus manos y las lanza con los músculos. Pocas veces ataca a Geodude.",
+        "Platino": "Si tensa y expande los músculos muy rápido, puede disparar las rocas que tenga en la mano como misiles.",
+        "Oro HeartGold": "Lanza Geodude por los agujeros de las manos. Gracias a Protector resiste erupciones volcánicas.",
+        "Plata SoulSilver": "Lanza Geodude por los agujeros de las manos. Gracias a Protector resiste erupciones volcánicas.",
+        "Negro": "Si tensa y expande los músculos muy rápido, puede disparar las rocas que tenga en la mano como misiles.",
+        "Blanco": "Si tensa y expande los músculos muy rápido, puede disparar las rocas que tenga en la mano como misiles.",
+        "Negro 2": "Si tensa y expande los músculos muy rápido, puede disparar las rocas que tenga en la mano como misiles.",
+        "Blanco 2": "Si tensa y expande los músculos muy rápido, puede disparar las rocas que tenga en la mano como misiles.",
+        "Pokémon X": "Lanza Geodude por los agujeros de las manos. Gracias a Protector resiste erupciones volcánicas.",
+        "Pokémon Y": "Si tensa y expande los músculos muy rápido, puede disparar las rocas que tenga en la mano como misiles.",
+        "Rubí Omega": "Lanza Geodude por los agujeros de las manos. Gracias a Protector resiste erupciones volcánicas.",
+        "Zafiro Alfa": "Si tensa y expande los músculos muy rápido, puede disparar las rocas que tenga en la mano como misiles.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Introduce rocas o Roggenrola en las cavidades de las manos y los dispara con fuerza. Es capaz de cargar hasta tres proyectiles en cada brazo.",
+        "Escudo": "Repele los ataques usando un Protector y aprovecha el momento en que el rival baja la guardia para perforarlo con su taladro.",
+        "Diamante Brillante": "Introduce rocas en las cavidades de las manos y las dispara con los músculos. En raras ocasiones, lanza Geodude.",
+        "Perla Reluciente": "Introduce rocas en las cavidades de las manos y las dispara con los músculos. En raras ocasiones, lanza Geodude.",
+        "Leyendas: Arceus": "Un extraño objeto provocó esta evolución. Su piel, de aspecto rocoso y material desconocido, es tan dura que ni una espada de renombre es capaz de rasguñarla."
+    },
+    "evolution": [
+        [
+            "Rhyhorn",
+            "Nivel 42",
+            "Rhydon",
+            "Intercambio equipadocon Protector ",
+            "Rhyperior"
+        ]
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "dex number": "458",
+    "pokemon name": "Mantyke",
+    "types": [
+        "agua",
+        "volador"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Absorbe agua"
+    ],
+    "hidden abilities": [
+        "Velo agua"
+    ],
+    "stats": {
+        "hp": "45",
+        "atk": "20",
+        "def": "50",
+        "atk esp": "60",
+        "def esp": "120",
+        "speed": "50"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: ruta 223 y ciudad Marina.",
+            "Criando: a Mantine equipado con incienso acua."
+        ],
+        "Perla": [
+            "Salvaje: ruta 223 y ciudad Marina.",
+            "Criando: a Mantine equipado con incienso acua."
+        ],
+        "Platino": [
+            "Salvaje: ruta 223"
+        ],
+        "Oro HeartGold": [
+            "Criando: a Mantine equipado con incienso acua."
+        ],
+        "Plata SoulSilver": [
+            "Criando: a Mantine equipado con incienso acua."
+        ],
+        "Negro": [
+            "Salvaje: Primavera, Otoño y Verano: Pueblo Arenisca y Bahía Arenisca. Invierno: Pueblo Arenisca.",
+            "Criando: a Mantine equipado con incienso acua."
+        ],
+        "Blanco": [
+            "Salvaje: Primavera, Otoño y Verano: Pueblo Arenisca y Bahía Arenisca. Invierno: Pueblo Arenisca.",
+            "Criando: a Mantine equipado con incienso acua."
+        ],
+        "Negro 2": [
+            "Salvaje: Primavera, Otoño y Verano: Ruta 21 y Bahía Arenisca. Invierno: Ruta 21.",
+            "Criando: a Mantine equipado con incienso acua"
+        ],
+        "Blanco 2": [
+            "Salvaje: Primavera, Otoño y Verano: Ruta 21 y Bahía Arenisca. Invierno: Ruta 21.",
+            "Criando: a Mantine equipado con incienso acua"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 12, Bahía Azul, Ciudad Yantra."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 12, Bahía Azul, Ciudad Yantra."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Resort Batalla"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Resort Batalla"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Surf: Ruta 8, Ciudad Hauoli, Bahía Kalae y Mar de Melemele."
+        ],
+        "Ultraluna": [
+            "Surf: Ruta 8, Ciudad Hauoli, Bahía Kalae y Mar de Melemele."
+        ],
+        "Espada": [
+            "Surf: Ruta 9.",
+            "Incursiones Dinamax: Espejo del Gigante, nido en la laguna, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur.",
+            "Criando: a Mantine equipado con incienso acua."
+        ],
+        "Escudo": [
+            "Surf: Ruta 9.",
+            "Incursiones Dinamax: Espejo del Gigante, nido en la laguna, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur.",
+            "Criando: a Mantine equipado con incienso acua."
+        ],
+        "Diamante Brillante": [
+            "Surf: ruta 223 y ciudad Marina.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Surf: ruta 223 y ciudad Marina.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Playa Ginkgo y Bahía Silente.",
+            "Aparición supermasiva: Costa Cobalto."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Un Pokémon amable que captura los débiles flujos de agua marina con sus antenas.",
+        "Perla": "Los científicos descubrieron que el característico diseño de su espalda varía según la región.",
+        "Platino": "La gente organiza excursiones para ver a este Pokémon retozando por las olas con  Remoraid",
+        "Oro HeartGold": "Cuando nada cerca de la superficie pueden observarse los dibujos de su lomo desde los barcos.",
+        "Plata SoulSilver": "Cuando nada cerca de la superficie pueden observarse los dibujos de su lomo desde los barcos.",
+        "Negro": "La gente organiza excursiones para ver a este Pokémon retozando por las olas con  Remoraid",
+        "Blanco": "La gente organiza excursiones para ver a este Pokémon retozando por las olas con  Remoraid",
+        "Negro 2": "Los símbolos en su espalda cambian según la región. A veces se mezcla con bancos de Remoraid y nada junto a ellos.",
+        "Blanco 2": "Los símbolos en su espalda cambian según la región. A veces se mezcla con bancos de Remoraid y nada junto a ellos.",
+        "Pokémon X": "Los símbolos en su espalda cambian según la región. A veces se mezcla con bancos de Remoraid y nada junto a ellos.",
+        "Pokémon Y": "Cuando nada cerca de la superficie, pueden observarse los dibujos de su lomo desde los barcos.",
+        "Rubí Omega": "Los símbolos en su espalda cambian según la región. A veces se mezcla con bancos de Remoraid y nada junto a ellos.",
+        "Zafiro Alfa": "Cuando nada cerca de la superficie, pueden observarse los dibujos de su lomo desde los barcos.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Es un Pokémon muy afable y profesa cariño por los humanos. Los tours para nadar con Mantyke se han convertido en una actividad muy popular.",
+        "Ultraluna": "Su carácter afable lo lleva a acercarse sin temor a barcos con presencia humana. Los dibujos del lomo cambian según la región.",
+        "Espada": "Los Mantyke que habitan en los mares de Galar se mueven con lentitud, posiblemente por la baja temperatura de las aguas de la región.",
+        "Escudo": "Nada con los bancos de Remoraid y lucha junto a ellos cuando los ataca un enemigo.",
+        "Diamante Brillante": "Un Pokémon afable que detecta los más sutiles cambios en el flujo del agua marina con sus dos antenas.",
+        "Perla Reluciente": "Los científicos descubrieron que el característico patrón que luce en el lomo varía según la región.",
+        "Leyendas: Arceus": "Un nadador avezado a pesar de su complexión esférica. Está demostrado que los ejemplares que se codean con los bancos de Remoraid terminan evolucionando."
+    },
+    "evolution": [
+        [
+            "Mantyke",
+            "Remoraid  en el equipo+ nivel",
+            "Mantine"
+        ]
+    ]
+}

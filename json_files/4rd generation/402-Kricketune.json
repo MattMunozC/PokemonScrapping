@@ -1,0 +1,132 @@
+{
+    "dex number": "402",
+    "pokemon name": "Kricketune",
+    "types": [
+        "bicho"
+    ],
+    "abilities": [
+        "Enjambre"
+    ],
+    "hidden abilities": [
+        "Experto"
+    ],
+    "stats": {
+        "hp": "77",
+        "atk": "85",
+        "def": "51",
+        "atk esp": "55",
+        "def esp": "51",
+        "speed": "65"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: rutas 206, 210, 212, 214 y 215, Jardín Trofeo (mañana y noche)",
+            "Evolucionar: a Kricketot (nivel 10)"
+        ],
+        "Perla": [
+            "Salvaje: rutas 206, 210, 212, 214 y 215, Jardín Trofeo (mañana y noche)",
+            "Evolucionar: a Kricketot (nivel 10)"
+        ],
+        "Platino": [
+            "Salvaje: Ruta 206, Orilla Valor y Jardín Trofeo (mañana y noche)",
+            "Evolucionar: a Kricketot (nivel 10)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Kricketot (nivel 10).",
+            "Especial: Parque Nacional. Concurso de captura de bichos después de obtener la Pokédex Nacional (jueves y sábados)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Kricketot (nivel 10).",
+            "Especial: Parque Nacional. Concurso de captura de bichos después de obtener la Pokédex Nacional (jueves y sábados)"
+        ],
+        "Negro": [
+            "Salvaje: Solar de los Sueños"
+        ],
+        "Blanco": [
+            "Salvaje: Solar de los Sueños"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro o Pokémon Blanco",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro o Pokémon Blanco",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Monte Espejismo y Bosque Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Monte Espejismo y Bosque Espejismo"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Kricketune no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Kricketune no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: rutas 206, 210 (sur), 212 (sur y norte), Orilla Valor, 214 y 215, Jardín Trofeo (mañana y noche)",
+            "Evolucionar: a Kricketot (nivel 10)"
+        ],
+        "Perla Reluciente": [
+            "Salvaje: rutas 206, 210 (sur), 212 (sur y norte), Orilla Valor, 214 y 215, Jardín Trofeo (mañana y noche)",
+            "Evolucionar: a Kricketot (nivel 10)"
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Alacena del Bosque, loma del venado. Pantanal Carmesí: Pradera Áurea, Rellano Nebuloso.",
+            "Especial: Loma del Venado (Pokémon alfa)",
+            "Aparición masiva: Rellano Nebuloso y Vereda del Viento.",
+            "Evolucionar: a Kricketot (nivel 10)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Cuando llora, cruza sus brazos con forma de cuchillo. Puede improvisar melodías.",
+        "Perla": "Los científicos tratan de estudiar sus melodías, que son reflejo de sus emociones.",
+        "Platino": "Hay un pueblo en el que celebran un concurso basado en la increíble variedad de sus gritos.",
+        "Oro HeartGold": "Puede hacer que el sonido resuene en las cavidades de su cuerpo y producir un hermoso canto.",
+        "Plata SoulSilver": "Puede hacer que el sonido resuene en las cavidades de su cuerpo y producir un hermoso canto.",
+        "Negro": "Hay un pueblo en el que celebran un concurso basado en la increíble variedad de sus gritos.",
+        "Blanco": "Hay un pueblo en el que celebran un concurso basado en la increíble variedad de sus gritos.",
+        "Negro 2": "Hay un pueblo en el que celebran un concurso basado en la increíble variedad de sus gritos.",
+        "Blanco 2": "Hay un pueblo en el que celebran un concurso basado en la increíble variedad de sus gritos.",
+        "Pokémon X": "Cuando llora, cruza sus brazos con forma de cuchillo. Puede improvisar melodías.",
+        "Pokémon Y": "Los científicos tratan de estudiar sus melodías, que son reflejo de sus emociones.",
+        "Rubí Omega": "Cuando llora, cruza sus brazos con forma de cuchillo. Puede improvisar melodías.",
+        "Zafiro Alfa": "Los científicos tratan de estudiar sus melodías, que son reflejo de sus emociones.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Cuando canta, cruza sus brazos con forma de cuchillo. Puede improvisar melodías.",
+        "Perla Reluciente": "Los estudiosos investigan los patrones de sus melodías, que son un reflejo de sus emociones.",
+        "Leyendas: Arceus": "Sus brazos, afilados como cuchillas, pueden crear sonidos con los que cada ejemplar produce una melodía distinta. En la variedad está el gusto."
+    },
+    "evolution": [
+        [
+            "Kricketot",
+            "Nivel 10",
+            "Kricketune"
+        ]
+    ]
+}

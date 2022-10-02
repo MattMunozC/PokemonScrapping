@@ -1,0 +1,132 @@
+{
+    "dex number": "418",
+    "pokemon name": "Buizel",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Nado rápido"
+    ],
+    "hidden abilities": [
+        "Velo agua"
+    ],
+    "stats": {
+        "hp": "55",
+        "atk": "65",
+        "def": "35",
+        "atk esp": "60",
+        "def esp": "30",
+        "speed": "85"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Ruta 205, Ruta 213, Ruta 224 y Valle Eólico"
+        ],
+        "Perla": [
+            "Salvaje: Ruta 205, Ruta 213, Ruta 224 y Valle Eólico"
+        ],
+        "Platino": [
+            "Salvaje: Ruta 205, Ruta 213, Ruta 224 y Valle Eólico"
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Sinnoh: Ruta 4, Ruta 6, Ruta 9, Ruta 10, Ruta 13, Ruta 21, Ruta 22, Ruta 24, Ruta 25, Ruta 26, Ruta 27, Ruta 28, Ruta 30, Ruta 31, Ruta 32, Ruta 34, Ruta 35, Ruta 42, Ruta 43, Ruta 44, Ruta 45, 47, Ruinas Alfa y Monte Plateado",
+            "Pokéwalker: Lago Bruma"
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Sinnoh: Ruta 4, Ruta 6, Ruta 9, Ruta 10, Ruta 13, Ruta 21, Ruta 22, Ruta 24, Ruta 25, Ruta 26, Ruta 27, Ruta 28, Ruta 30, Ruta 31, Ruta 32, Ruta 34, Ruta 35, Ruta 42, Ruta 43, Ruta 44, Ruta 45, 47, Ruinas Alfa y Monte Plateado",
+            "Pokéwalker: Lago Bruma"
+        ],
+        "Negro": [
+            "Surfeando: Ruta 11 y Ruta 14",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco": [
+            "Surfeando: Ruta 11 y Ruta 14",
+            "Dream World: Mar Brillante"
+        ],
+        "Negro 2": [
+            "Surfeando: Ruta 11, Ruta 14 y Ruta 23, Bosque de los Perdidos, Calle Victoria y Reserva Natural",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Surfeando: Ruta 11, Ruta 14 y Ruta 23, Bosque de los Perdidos, Calle Victoria y Reserva Natural",
+            "Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Criando: de Floatzel"
+        ],
+        "Pokémon Y": [
+            "Criando: de Floatzel"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criando: de Floatzel"
+        ],
+        "Ultraluna": [
+            "Criando: de Floatzel"
+        ],
+        "Espada": [
+            "Buizel no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Buizel no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Ruta 205 (sur y norte), Ruta 213, Ruta 224 y Valle Eólico.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Ruta 205 (sur y norte), Ruta 213, Ruta 224 y Valle Eólico.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Prado Herradura, Cerro Aipom, Vereda del Viento, Puente Erosionado, Albuferas Chapuzón.",
+            "Aparición masiva: Pradera Obsidiana",
+            "Aparición supermasiva: Pradera Obsidiana"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Posee un flotador en forma de collar hinchable. Flota en el agua con la cabeza fuera.",
+        "Perla": "Nada rotando sus colas a modo de tornillo. Cuando bucea, el flotador se pliega.",
+        "Platino": "Para impulsarse por el agua gira sus dos colas como una hélice. Así también corta las algas del camino.",
+        "Oro HeartGold": "El flotador de su cuello le permite flotar con la cabeza fuera del agua y divisar a sus presas.",
+        "Plata SoulSilver": "El flotador de su cuello le permite flotar con la cabeza fuera del agua y divisar a sus presas.",
+        "Negro": "Para impulsarse por el agua gira sus dos colas como una hélice. Así también corta las algas del camino.",
+        "Blanco": "Para impulsarse por el agua gira sus dos colas como una hélice. Así también corta las algas del camino.",
+        "Negro 2": "Hincha el flotador de su cuerpo para flotar y saca la cabeza de la superficie del agua para explorar sus alrededores.",
+        "Blanco 2": "Hincha el flotador de su cuerpo para flotar y saca la cabeza de la superficie del agua para explorar sus alrededores.",
+        "Pokémon X": "Nada rotando sus colas a modo de tornillo. Cuando bucea, el flotador se pliega.",
+        "Pokémon Y": "Hincha el flotador de su cuerpo para flotar y saca la cabeza de la superficie del agua para explorar sus alrededores.",
+        "Rubí Omega": "Nada rotando sus colas a modo de tornillo. Cuando bucea, el flotador se pliega.",
+        "Zafiro Alfa": "Hincha el flotador de su cuerpo para flotar y saca la cabeza de la superficie del agua para explorar sus alrededores.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Posee una vejiga natatoria alrededor del cuello que se hincha como un flotador. Flota en el agua con la cabeza fuera.",
+        "Perla Reluciente": "Nada rotando sus dos colas a modo de hélice. Cuando bucea, su vejiga natatoria se desinfla.",
+        "Leyendas: Arceus": "Se desplaza libremente por el agua gracias al impulso que genera al rotar ambas colas, como si de la hélice de un barco de vapor se tratase."
+    },
+    "evolution": [
+        [
+            "Buizel",
+            "Nivel 26",
+            "Floatzel"
+        ]
+    ]
+}

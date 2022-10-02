@@ -1,0 +1,118 @@
+{
+    "dex number": "493",
+    "pokemon name": "Arceus",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Multitipo"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "120",
+        "atk": "120",
+        "def": "120",
+        "atk esp": "120",
+        "def esp": "120",
+        "speed": "120"
+    },
+    "location": {
+        "Diamante": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Perla": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Platino": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Blanco": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Pokémon Y": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Rubí Omega": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Zafiro Alfa": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultraluna": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Espada": [
+            "Arceus no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Arceus no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Columnas Lanza (al conseguir flauta azur). (Solo uno)"
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Columnas Lanza (al conseguir flauta azur). (Solo uno)"
+        ],
+        "Leyendas: Arceus": [
+            "Especial: Templo de Sinnoh tras atrapar a todos los Pokémon de la Pokedex de Hisui. (ver encomienda"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "La mitología lo describe como el Pokémon que dio forma al Universo con sus 1000 brazos.",
+        "Perla": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
+        "Platino": "Se dice que surgió de un huevo en un lugar en el que no había nada. Y luego dio forma al mundo.",
+        "Oro HeartGold": "Según la mitología de Sinnoh, Arceus surgió de un huevo y después creó todo el mundo.",
+        "Plata SoulSilver": "Según la mitología de Sinnoh, Arceus surgió de un huevo y después creó todo el mundo.",
+        "Negro": "Se dice que surgió de un huevo en un lugar en el que no había nada. Y luego dio forma al mundo.",
+        "Blanco": "Se dice que surgió de un huevo en un lugar en el que no había nada. Y luego dio forma al mundo.",
+        "Negro 2": "Se dice que surgió de un huevo en un lugar en el que no había nada. Y luego dio forma al mundo.",
+        "Blanco 2": "Se dice que surgió de un huevo en un lugar en el que no había nada. Y luego dio forma al mundo.",
+        "Pokémon X": "Según la mitología de Sinnoh, Arceus surgió de un huevo y después creó todo el mundo.",
+        "Pokémon Y": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
+        "Rubí Omega": "Según la mitología de Sinnoh, Arceus surgió de un huevo y después creó todo el mundo.",
+        "Zafiro Alfa": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "La mitología lo describe como el Pokémon que dio forma al universo con sus mil brazos.",
+        "Perla Reluciente": "La mitología cuenta que este Pokémon nació antes de que el universo existiera.",
+        "Leyendas: Arceus": "Aquel que ilumina Hisui desde el cielo, salvaguardando y guiando a los Pokémon con su fulgor. Según los mitos de estas tierras, es el creador de todo lo existente."
+    },
+    "evolution": [
+        [
+            "Arceus"
+        ]
+    ]
+}

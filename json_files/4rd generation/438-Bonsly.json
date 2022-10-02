@@ -1,0 +1,133 @@
+{
+    "dex number": "438",
+    "pokemon name": "Bonsly",
+    "types": [
+        "roca"
+    ],
+    "abilities": [
+        "Cabeza roca",
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Cobardía"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "80",
+        "def": "95",
+        "atk esp": "10",
+        "def esp": "45",
+        "speed": "10"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Jardín Trofeo; un día en específico después de hablar con el dueño y usando el Pokéradar.",
+            "Criando: a Sudowoodo equipado con Incienso roca."
+        ],
+        "Perla": [
+            "Salvaje: rutas 209, 210 (Zona sur) y Jardín Trofeo.",
+            "Criando: a Sudowoodo equipado con Incienso roca."
+        ],
+        "Platino": [
+            "Salvaje: Jardín Trofeo.",
+            "Criando: a Sudowoodo equipado con Incienso roca."
+        ],
+        "Oro HeartGold": [
+            "Criando: a Sudowoodo equipado con Incienso roca."
+        ],
+        "Plata SoulSilver": [
+            "Criando: a Sudowoodo equipado con Incienso roca."
+        ],
+        "Negro": [
+            "Criando: a Sudowoodo equipado con Incienso roca.",
+            "Pokétransfer: transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Criando: a Sudowoodo equipado con Incienso roca.",
+            "Pokétransfer: transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Criando: a Sudowoodo equipado con Incienso roca.",
+            "Pokétransfer: transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Criando: a Sudowoodo equipado con Incienso roca.",
+            "Pokétransfer: transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Criando: a Sudowoodo equipado con Incienso roca."
+        ],
+        "Pokémon Y": [
+            "Criando: a Sudowoodo equipado con Incienso roca."
+        ],
+        "Rubí Omega": [
+            "Criando: a Sudowoodo equipado con Incienso roca."
+        ],
+        "Zafiro Alfa": [
+            "Criando: a Sudowoodo equipado con Incienso roca."
+        ],
+        "Sol": [
+            "Salvaje: Ruta 1 (zona sur), ruta 5 (zona norte) y Jungla Umbría."
+        ],
+        "Luna": [
+            "Salvaje: Ruta 1 (zona sur), ruta 5 (zona norte) y Jungla Umbría."
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 1 (zona sur), ruta 5 (zona norte) y Jungla Umbría."
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 1 (zona sur), ruta 5 (zona norte) y Jungla Umbría."
+        ],
+        "Espada": [
+            "Salvaje: Valle Entrepuentes (con tormenta de arena), Llanura Pétrea (con tormenta de arena).",
+            "Incursiones Dinamax: Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste.",
+            "Criando: a Sudowoodo equipado con incienso roca."
+        ],
+        "Escudo": [
+            "Salvaje: Valle Entrepuentes (con tormenta de arena), Llanura Pétrea (con tormenta de arena).",
+            "Incursiones Dinamax: Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared y Silla del Gigante, nido al sureste.",
+            "Criando: a Sudowoodo equipado con incienso roca."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Jardín Trofeo."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: rutas 209, 210 (sur) y Jardín Trofeo."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Rellano Nebuloso y Ruinas Celestiales.",
+            "Aparición supermasiva: Pantanal Carmesí."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Parece que siempre está llorando, pero en realidad está eliminando el exceso de fluidos corporales.",
+        "Perla": "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar los niveles de fluido corporal.",
+        "Platino": "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar sus niveles de hidratación corporal.",
+        "Oro HeartGold": "Aunque parece que llora, realmente lo que hace es expulsar el exceso de fluidos corporales por los ojos.",
+        "Plata SoulSilver": "Aunque parece que llora, realmente lo que hace es expulsar el exceso de fluidos corporales por los ojos.",
+        "Negro": "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar sus niveles de hidratación corporal.",
+        "Blanco": "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar sus niveles de hidratación corporal.",
+        "Negro 2": "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar sus niveles de hidratación corporal.",
+        "Blanco 2": "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar sus niveles de hidratación corporal.",
+        "Pokémon X": "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar los niveles de fluido corporal.",
+        "Pokémon Y": "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar los niveles de fluido corporal.",
+        "Rubí Omega": "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar los niveles de fluido corporal.",
+        "Zafiro Alfa": "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar sus niveles de hidratación corporal.",
+        "Sol": "No le gusta el agua, por lo que suele vivir en lugares secos. Como hay poco verdor a su alrededor, suele destacar mucho.",
+        "Luna": "Expulsa por los ojos el líquido corporal que le sobra. La composición química de este líquido se parece a la del sudor de los seres humanos.",
+        "Ultrasol": "Expulsa agua por los ojos, lo que da la impresión de que está llorando. Esto puede sorprender a los enemigos y hacer que bajen la guardia.",
+        "Ultraluna": "Debido a que un exceso de humedad en su cuerpo puede provocarle la muerte, expulsa líquido por los ojos como si fuera sudor.",
+        "Espada": "Expulsa sudor y lágrimas por los ojos. El sudor es ligeramente salado y las lágrimas tienen un leve regusto amargo.",
+        "Escudo": "Vive en entornos áridos y pedregosos. Cuanto más se secan sus esferas verdes, más destaca su sutil lustre.",
+        "Diamante Brillante": "Parece que siempre está llorando, pero en realidad está eliminando el exceso de fluidos corporales.",
+        "Perla Reluciente": "Prefiere entornos áridos. Expulsa agua por los ojos para ajustar los niveles de fluido corporal.",
+        "Leyendas: Arceus": "Sus llantos despiertan compasión, mas son una farsa: se trata de un proceso fisiológico con el cual expulsa la humedad de su cuerpo para mantenerse sano."
+    },
+    "evolution": [
+        [
+            "Bonsly",
+            "Conociendo mimético+ nivel",
+            "Sudowoodo"
+        ]
+    ]
+}

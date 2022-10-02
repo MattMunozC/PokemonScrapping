@@ -1,0 +1,128 @@
+{
+    "dex number": "476",
+    "pokemon name": "Probopass",
+    "types": [
+        "roca",
+        "acero"
+    ],
+    "abilities": [
+        "Imán (habilidad)",
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Poder arena"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "55",
+        "def": "145",
+        "atk esp": "75",
+        "def esp": "150",
+        "speed": "40"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Nosepass, subiendo un nivel en el Monte Corona."
+        ],
+        "Perla": [
+            "Evolucionar: a Nosepass, subiendo un nivel en el Monte Corona."
+        ],
+        "Platino": [
+            "Evolucionar: a Nosepass, subiendo un nivel en el Monte Corona."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: desde Pokémon Diamante, Perla o Platino."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: desde Pokémon Diamante, Perla o Platino."
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Diamante, Perla o Platino.",
+            "Evolucionar: a Nosepass, subiendo un nivel en la Cueva Electrorroca."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Diamante, Perla o Platino.",
+            "Evolucionar: a Nosepass, subiendo un nivel en la Cueva Electrorroca."
+        ],
+        "Negro 2": [
+            "Pokétransfer: de Pokémon Diamante, Perla o Platino.",
+            "Evolucionar: a Nosepass, subiendo un nivel en la Cueva Electrorroca."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: de Pokémon Diamante, Perla o Platino.",
+            "Evolucionar: a Nosepass, subiendo un nivel en la Cueva Electrorroca."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Nosepass, subiendo un nivel en la ruta 13."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Nosepass, subiendo un nivel en la ruta 13."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Nosepass, subiendo un nivel en Malvalanova."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Nosepass, subiendo un nivel en Malvalanova."
+        ],
+        "Sol": [
+            "Evolucionar: a Nosepass, subiendo un nivel en Cañón de Poni."
+        ],
+        "Luna": [
+            "Evolucionar: a Nosepass, subiendo un nivel en Cañón de Poni."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Nosepass, subiendo un nivel en Cañón de Poni."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Nosepass, subiendo un nivel en Cañón de Poni."
+        ],
+        "Espada": [
+            "Probopass no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Probopass no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Nosepass, subiendo un nivel en el Monte Corona."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Nosepass, subiendo un nivel en el Monte Corona."
+        ],
+        "Leyendas: Arceus": [
+            "Pokémon alfa: Senda Celeste.",
+            "Evolucionar: a Nosepass (apto en la Ladera Corona).",
+            "Aparición supermasiva: Ladera Corona"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Emana un fuerte magnetismo. Controla tres pequeñas unidades llamadas Mini-Narices.",
+        "Perla": "Emana un fuerte magnetismo. Controla tres pequeñas unidades llamadas Mini-Narices.",
+        "Platino": "Con el magnetismo que emana, controla tres pequeñas unidades llamadas Mini-Narices.",
+        "Oro HeartGold": "Controla magnéticamente sus tres Mini-Narices y ataca a sus enemigos desde tres direcciones diferentes.",
+        "Plata SoulSilver": "Controla magnéticamente sus tres Mini-Narices y ataca a sus enemigos desde tres direcciones diferentes.",
+        "Negro": "Con el magnetismo que emana, controla tres pequeñas unidades llamadas Mini-Narices.",
+        "Blanco": "Con el magnetismo que emana, controla tres pequeñas unidades llamadas Mini-Narices.",
+        "Negro 2": "Con el magnetismo que emite, controla tres unidades llamadas Mini-Narices.",
+        "Blanco 2": "Con el magnetismo que emite, controla tres unidades llamadas Mini-Narices.",
+        "Pokémon X": "Emana un fuerte magnetismo. Controla tres pequeñas unidades llamadas mininarices.",
+        "Pokémon Y": "Con el magnetismo que emana, controla tres pequeñas unidades llamadas mininarices.",
+        "Rubí Omega": "Emana un fuerte magnetismo. Controla tres pequeñas unidades llamadas mininarices.",
+        "Zafiro Alfa": "Con el magnetismo que emana, controla tres pequeñas unidades llamadas mininarices.",
+        "Sol": "Crea un campo magnético tan potente que inutiliza cualquier electrodoméstico que se encuentre cerca.",
+        "Luna": "Las tres unidades que controla, llamadas mininarices, le permiten atrapar a su presa sin necesidad de mover el resto de su cuerpo.",
+        "Ultrasol": "Manipula unas pequeñas unidades conocidas como mininarices, aunque estas a veces se pierden y no saben cómo regresar a Probopass.",
+        "Ultraluna": "Usa sus tres pequeñas unidades para capturar presas o combatir, mientras que el resto de su cuerpo se dedica casi solo a impartir órdenes.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Emana un fuerte magnetismo por todo el cuerpo. Controla tres pequeñas unidades llamadas mininarices.",
+        "Perla Reluciente": "Emana un fuerte magnetismo por todo el cuerpo. Controla tres pequeñas unidades llamadas mininarices.",
+        "Leyendas: Arceus": "Su tupido bigote es en realidad un cúmulo de polvo de hierro que atrae con su magnetismo y que puede controlar a voluntad. Forma duros proyectiles con los que derriba a sus presas."
+    },
+    "evolution": [
+        [
+            "Nosepass",
+            "Subir un nivel en uncampo magnético especialPiedra trueno (en Leyendas Pokémon Arceus)",
+            "Probopass"
+        ]
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "dex number": "416",
+    "pokemon name": "Vespiquen",
+    "types": [
+        "bicho",
+        "volador"
+    ],
+    "abilities": [
+        "Presión"
+    ],
+    "hidden abilities": [
+        "Nerviosismo"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "80",
+        "def": "102",
+        "atk esp": "80",
+        "def esp": "102",
+        "speed": "40"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Perla": [
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Platino": [
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Negro": [
+            "Salvaje: Ruta 12.",
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 12.",
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Negro 2": [
+            "Salvaje: En el Bosque de los Perdidos y en Ruta 12.",
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Blanco 2": [
+            "Salvaje: En el Bosque de los Perdidos y en Ruta 12.",
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Milotic (sur), nido al noroeste y Valle Entrepuentes, nido al noreste cerca de los pilares."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Milotic (sur), nido al noroeste y Valle Entrepuentes, nido al noreste cerca de los pilares."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Combee (nivel 21, solo si es hembra)."
+        ],
+        "Leyendas: Arceus": [
+            "Pokémon alfa: Prado Erióforo y Foresta Funesta",
+            "Salvaje: Prado Erióforo, Pradera Aleteo",
+            "Evolucionar: a Combee (nivel 21 + hembra)."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Su abdomen es un panal de larvas que alimenta con la miel recogida por Combee.",
+        "Perla": "Si está en peligro, ataca con larvas de su panal de seis celdas. Solo hay uno por colonia.",
+        "Platino": "Libera feromonas para hacer que las larvas de su panal hagan lo que diga cuando combate.",
+        "Oro HeartGold": "Cría larvas en los panales de su cuerpo. Con las feromonas que segrega guía a los Combee.",
+        "Plata SoulSilver": "Cría larvas en los panales de su cuerpo. Con las feromonas que segrega guía a los Combee.",
+        "Negro": "Libera feromonas para hacer que las larvas de su panal hagan lo que diga cuando combate.",
+        "Blanco": "Libera feromonas para hacer que las larvas de su panal hagan lo que diga cuando combate.",
+        "Negro 2": "Cría larvas en los panales de su cuerpo. Segrega diversas feromonas de su cuerpo con las cuales controla a sus crías.",
+        "Blanco 2": "Cría larvas en los panales de su cuerpo. Segrega diversas feromonas de su cuerpo con las cuales controla a sus crías.",
+        "Pokémon X": "Cría larvas en los panales de su cuerpo. Segrega diversas feromonas de su cuerpo con las cuales controla a sus crías.",
+        "Pokémon Y": "Su abdomen es un panal de larvas que alimenta con la miel recogida por Combee.",
+        "Rubí Omega": "Cría larvas en los panales de su cuerpo. Segrega diversas feromonas de su cuerpo con las cuales controla a sus crías.",
+        "Zafiro Alfa": "Su abdomen es un panal de larvas que alimenta con la miel recogida por Combee.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Combate dirigiendo a sus larvas, que obedecen a su reina sin rechistar y se sacrifican por ella si es necesario.",
+        "Escudo": "Cuanto mayor sea la cantidad de feromonas que segregue, mayor será el número de Combee que pueda controlar.",
+        "Diamante Brillante": "Su abdomen es un panal de larvas, que alimenta con la miel recogida por los Combee.",
+        "Perla Reluciente": "Si se encuentra en peligro, salen larvas de su panal de seis celdas y emprenden el ataque. Solo hay un único ejemplar por colonia.",
+        "Leyendas: Arceus": "Si algún intruso osa infiltrarse en la colmena que sus obreros crean bajo sus órdenes, acaba con él y lo devora sin miramientos."
+    },
+    "evolution": [
+        [
+            "Combee",
+            "Nivel 21 + ♀",
+            "Vespiquen"
+        ]
+    ]
+}

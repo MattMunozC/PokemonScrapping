@@ -1,0 +1,135 @@
+{
+    "dex number": "415",
+    "pokemon name": "Combee",
+    "types": [
+        "bicho",
+        "volador"
+    ],
+    "abilities": [
+        "Recogemiel"
+    ],
+    "hidden abilities": [
+        "Entusiasmo"
+    ],
+    "stats": {
+        "hp": "30",
+        "atk": "30",
+        "def": "42",
+        "atk esp": "30",
+        "def esp": "42",
+        "speed": "70"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: en los árboles en los que se puede untar miel."
+        ],
+        "Perla": [
+            "Salvaje: en los árboles en los que se puede untar miel."
+        ],
+        "Platino": [
+            "Salvaje: en los árboles en los que se puede untar miel."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Durante el Concurso de captura de bichos los jueves y sábados.",
+            "Golpe cabeza: Rutas 5, 6, 7, 8, 11, 16, 25, Ciudad Azulona, Ciudad Carmín y Ciudad Celeste.",
+            "Pokéwalker: Llano de Sinnoh."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Durante el Concurso de captura de bichos los jueves y sábados.",
+            "Golpe cabeza: Rutas 5, 6, 7, 8, 11, 16, 25, Ciudad Azulona, Ciudad Carmín y Ciudad Celeste.",
+            "Pokéwalker: Llano de Sinnoh."
+        ],
+        "Negro": [
+            "Salvaje:  Ruta 12.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco": [
+            "Salvaje:  Ruta 12.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 12 y Bosque de los Perdidos.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 12 y Bosque de los Perdidos.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 4 y huerto de bayas.",
+            "Especial: Safari Amistad, en algunos safaris de tipo bicho."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 4 y huerto de bayas.",
+            "Especial: Safari Amistad, en algunos safaris de tipo bicho."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Pradera Radiante.",
+            "Incursiones Dinamax: Lago Milotic (sur), nido al noroeste y Valle Entrepuentes, nido al noreste cerca de los pilares."
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante.",
+            "Incursiones Dinamax: Lago Milotic (sur), nido al noroeste y Valle Entrepuentes, nido al noreste cerca de los pilares."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: en los árboles en los que se puede untar miel (a veces).",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera y Caverna Solana."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: en los árboles en los que se puede untar miel (a veces).",
+            "Grutas del Subsuelo: Cueva Herbazal, Cueva Pradera y Caverna Solana."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Bosque Recóndito, Floresta Fuenesta y árboles de Isla Hansa. Pantanal Carmesí: Rellano Nebuloso, Lago Valor, Prado Erióforo y Pradera Aleteo. Costa Cobalto: Cerro Aipom."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Está formado por otros tres Pokémon. Le lleva miel floral a Vespiquen.",
+        "Perla": "Almacenan miel en su colonia. Por la noche, se apiñan para formar una colmena y dormir.",
+        "Platino": "El trío se forma al nacer y se pasa la vida recogiendo miel de las flores para satisfacer a Vespiquen.",
+        "Oro HeartGold": "Cuando llega la noche, se juntan unos cien Combee y duermen formando una gran colmena.",
+        "Plata SoulSilver": "Cuando llega la noche, se juntan unos cien Combee y duermen formando una gran colmena.",
+        "Negro": "El trío se forma al nacer y se pasa la vida recogiendo miel de las flores para satisfacer a Vespiquen.",
+        "Blanco": "El trío se forma al nacer y se pasa la vida recogiendo miel de las flores para satisfacer a Vespiquen.",
+        "Negro 2": "Pokémon formado por tres Pokémon. A la hora de dormir, se juntan unos 100 y crean una gran colmena.",
+        "Blanco 2": "Pokémon formado por tres Pokémon. A la hora de dormir, se juntan unos 100 y crean una gran colmena.",
+        "Pokémon X": "El trío se forma al nacer y se pasa la vida recogiendo miel de las flores para satisfacer a Vespiquen.",
+        "Pokémon Y": "Almacenan miel en su colonia. Por la noche, se apiñan para formar una colmena y dormir.",
+        "Rubí Omega": "El trío se forma al nacer y se pasa la vida recogiendo miel de las flores para satisfacer a Vespiquen.",
+        "Zafiro Alfa": "Almacenan miel en su colonia. Por la noche, se apiñan para formar una colmena y dormir.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este trío no se separa jamás, pero cada uno tiene sus propios gustos en cuanto a néctar se refiere.",
+        "Escudo": "Recolecta néctar de sol a sol para entregarlo a la colonia y a Vespiquen.",
+        "Diamante Brillante": "Está formado por tres Pokémon. Se dedica a recolectar laboriosamente el néctar de las flores para Vespiquen.",
+        "Perla Reluciente": "Recolectan miel y la almacenan en su colonia. Por la noche, se apiñan para formar una colmena y dormir.",
+        "Leyendas: Arceus": "Recolecta néctar sin descanso para su reina, a la que jura lealtad. El sabor de la miel varía según la colonia que la produzca."
+    },
+    "evolution": [
+        [
+            "Combee",
+            "Nivel 21 + ♀",
+            "Vespiquen"
+        ]
+    ]
+}

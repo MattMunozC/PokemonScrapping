@@ -1,0 +1,128 @@
+{
+    "dex number": "472",
+    "pokemon name": "Gliscor",
+    "types": [
+        "tierra",
+        "volador"
+    ],
+    "abilities": [
+        "Corte fuerte",
+        "Velo arena"
+    ],
+    "hidden abilities": [
+        "Antídoto (habilidad)"
+    ],
+    "stats": {
+        "hp": "75",
+        "atk": "95",
+        "def": "125",
+        "atk esp": "45",
+        "def esp": "75",
+        "speed": "95"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Perla": [
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Platino": [
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Negro": [
+            "Salvaje: Rutas 11, 15 y Calle Victoria cuando se mueve la hierba.",
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Blanco": [
+            "Salvaje: Rutas 11, 15 y Calle Victoria cuando se mueve la hierba.",
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Negro 2": [
+            "Salvaje: Rutas 11, 15 y 23 cuando se mueve la hierba.",
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Blanco 2": [
+            "Salvaje: Rutas 11, 15 y 23 cuando se mueve la hierba.",
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Gliscor no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Gliscor no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Gligar, subiendo un nivel por la noche, equipado con colmillo agudo."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Caverna Inmemorial.",
+            "Evolucionar: a Gligar (Colmillo agudo + noche)",
+            "Aparición supermasiva: Ladera Corona"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Espera a sus presas colgado de una rama bocabajo. Cuando llega su oportunidad, se lanza en picado.",
+        "Perla": "Espera a sus presas colgado de una rama bocabajo. Cuando llega su oportunidad, se lanza en picado.",
+        "Platino": "Si da con una corriente de aire buena, por mínima que sea, puede dar la vuelta al globo sin aletear.",
+        "Oro HeartGold": "Vuela sin hacer nada de ruido. Con su larga cola captura a sus presas y las muerde con sus colmillos.",
+        "Plata SoulSilver": "Vuela sin hacer nada de ruido. Con su larga cola captura a sus presas y las muerde con sus colmillos.",
+        "Negro": "Si da con una corriente de aire buena, por mínima que sea, puede dar la vuelta al globo sin aletear.",
+        "Blanco": "Si da con una corriente de aire buena, por mínima que sea, puede dar la vuelta al globo sin aletear.",
+        "Negro 2": "Planea en el aire sin hacer ruido alguno, se acerca a su presa sigilosamente y le asesta en un instante un golpe crítico.",
+        "Blanco 2": "Planea en el aire sin hacer ruido alguno, se acerca a su presa sigilosamente y le asesta en un instante un golpe crítico.",
+        "Pokémon X": "Espera a sus presas colgado de una rama bocabajo. Cuando llega su oportunidad, se lanza en picado.",
+        "Pokémon Y": "Vuela sin hacer nada de ruido. Con su larga cola captura a sus presas y las muerde con sus colmillos",
+        "Rubí Omega": "Espera a sus presas colgado de una rama bocabajo. Cuando llega su oportunidad, se lanza en picado.",
+        "Zafiro Alfa": "Vuela sin hacer nada de ruido. Con su larga cola captura a sus presas y las muerde con sus colmillos",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Acecha a sus presas colgado de una rama boca abajo. Cuando llega su oportunidad, se lanza en picado.",
+        "Perla Reluciente": "Acecha a sus presas colgado de una rama boca abajo. Cuando llega su oportunidad, se lanza en picado.",
+        "Leyendas: Arceus": "Planea en silencio con sus alas negro azabache y clava sus afilados colmillos en las tráqueas de sus víctimas. No queda satisfecho hasta haber succionado por completo su sangre."
+    },
+    "evolution": [
+        [
+            "Gligar",
+            "Nivel (noche) equipado con colmillo agudo ",
+            "Gliscor"
+        ]
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "dex number": "433",
+    "pokemon name": "Chingling",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "45",
+        "atk": "30",
+        "def": "50",
+        "atk esp": "65",
+        "def esp": "50",
+        "speed": "45"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: ruta 211, Monte Corona, Lago Valor y Lago Agudeza.",
+            "Criando: a Chimecho equipado con incienso puro."
+        ],
+        "Perla": [
+            "Salvaje: ruta 211, Monte Corona, Lago Valor y Lago Agudeza.",
+            "Criando: a Chimecho equipado con incienso puro."
+        ],
+        "Platino": [
+            "Salvaje: ruta 211, Monte Corona, Cueva Retorno."
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Sinnoh:  Pozo Slowpoke, Cueva Unión, Cueva Oscura, Islas Remolino, Monte Plateado, Ruta Helada, Cueva Acantilado, Cueva Diglett, Monte Moon, Cueva Celeste, Túnel Roca, Islas Espuma, Calle Victoria (Kanto), Cataratas Tohjo."
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Sinnoh:  Pozo Slowpoke, Cueva Unión, Cueva Oscura, Islas Remolino, Monte Plateado, Ruta Helada, Cueva Acantilado, Cueva Diglett, Monte Moon, Cueva Celeste, Túnel Roca, Islas Espuma, Calle Victoria (Kanto), Cataratas Tohjo."
+        ],
+        "Negro": [
+            "Criando: de Chimecho equipado con incienso puro."
+        ],
+        "Blanco": [
+            "Criando: de Chimecho equipado con incienso puro."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro y Blanco.",
+            "Criando: de Chimecho equipado con incienso puro."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro y Blanco.",
+            "Criando: de Chimecho equipado con incienso puro."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 11, Cueva Reflejos.",
+            "Criando: de Chimecho equipado con incienso puro."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 11, Cueva Reflejos.",
+            "Criando: de Chimecho equipado con incienso puro."
+        ],
+        "Rubí Omega": [
+            "Criando: de Chimecho equipado con incienso puro."
+        ],
+        "Zafiro Alfa": [
+            "Criando: de Chimecho equipado con incienso puro."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Chingling no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Chingling no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: ruta 211 (este y oeste), Monte Corona, Lago Valor y Lago Agudeza.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: ruta 211 (este y oeste), Monte Corona, Lago Valor y Lago Agudeza.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Destello, Cueva Centelleo y Caverna Claroestela."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje:Ágora de la Plegaria y Lago Agudeza.",
+            "Aparición masiva: Ladera Corona."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Emite chillidos al agitar la esfera de su garganta. Se mueve con enérgicos saltos.",
+        "Perla": "Emite un zumbido cada vez que salta. Ensordece a sus rivales con sonidos de alta frecuencia.",
+        "Platino": "Tiene una esfera en la boca. Cuando salta, la esfera rebota y emite un zumbido.",
+        "Oro HeartGold": "Emite chillidos en unas frecuencias imperceptibles para las personas. Cuando empieza no puede parar.",
+        "Plata SoulSilver": "Emite chillidos en unas frecuencias imperceptibles para las personas. Cuando empieza no puede parar.",
+        "Negro": "Tiene una esfera en la boca. Cuando salta, la esfera rebota y emite un zumbido.",
+        "Blanco": "Tiene una esfera en la boca. Cuando salta, la esfera rebota y emite un zumbido.",
+        "Negro 2": "Tiene una esfera en la boca. Cuando salta, la esfera rebota y emite un zumbido.",
+        "Blanco 2": "Tiene una esfera en la boca. Cuando salta, la esfera rebota y emite un zumbido.",
+        "Pokémon X": "Emite un tintineo cada vez que salta. Ensordece a sus rivales con sonidos de alta frecuencia.",
+        "Pokémon Y": "Tiene una esfera en la boca. Cuando salta, la esfera rebota y emite un tintineo.",
+        "Rubí Omega": "Emite un tintineo cada vez que salta. Ensordece a sus rivales con sonidos de alta frecuencia.",
+        "Zafiro Alfa": "Tiene una esfera en la boca. Cuando salta, la esfera rebota y emite un tintineo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Emite chillidos al agitar la esfera de su garganta. Se desplaza mediante enérgicos saltos.",
+        "Perla Reluciente": "Emite un tintineo cada vez que salta. Ensordece a sus rivales con sonidos de alta frecuencia.",
+        "Leyendas: Arceus": "Sus gritos provocan unas migrañas insoportables. Es posible que algunos de los sonidos que emite resulten imperceptibles para el oído humano."
+    },
+    "evolution": [
+        [
+            "Chingling",
+            "Amistad + nivel (noche) ",
+            "Chimecho"
+        ]
+    ]
+}

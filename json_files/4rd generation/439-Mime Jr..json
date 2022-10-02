@@ -1,0 +1,149 @@
+{
+    "dex number": "439",
+    "pokemon name": "Mime Jr.",
+    "types": [
+        "psíquico",
+        "hada"
+    ],
+    "abilities": [
+        "Insonorizar",
+        "Filtro"
+    ],
+    "hidden abilities": [
+        "Experto"
+    ],
+    "stats": {
+        "hp": "20",
+        "atk": "25",
+        "def": "45",
+        "atk esp": "70",
+        "def esp": "90",
+        "speed": "60"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: rutas 209, 210 (zona sur) y Jardín Trofeo.",
+            "Criando: de Mr. Mime equipado con incienso raro."
+        ],
+        "Perla": [
+            "Salvaje: Jardín Trofeo.",
+            "Criando: de Mr. Mime equipado con incienso raro."
+        ],
+        "Platino": [
+            "Salvaje: Jardín Trofeo.",
+            "Criando: de Mr. Mime equipado con incienso raro."
+        ],
+        "Oro HeartGold": [
+            "Criando: de Mr. Mime equipado con incienso raro.",
+            "Pokéwalker: Llano de Sinnoh."
+        ],
+        "Plata SoulSilver": [
+            "Criando: de Mr. Mime equipado con incienso raro.",
+            "Pokéwalker: Llano de Sinnoh."
+        ],
+        "Negro": [
+            "Dream World: Con la habilidad experto.",
+            "Criando: de Mr. Mime equipado con incienso raro."
+        ],
+        "Blanco": [
+            "Dream World: Con la habilidad experto.",
+            "Criando: de Mr. Mime equipado con incienso raro."
+        ],
+        "Negro 2": [
+            "Dream World: Con la habilidad experto.",
+            "Criando: de Mr. Mime equipado con incienso raro."
+        ],
+        "Blanco 2": [
+            "Dream World: Con la habilidad experto.",
+            "Criando: de Mr. Mime equipado con incienso raro."
+        ],
+        "Pokémon X": [
+            "Salvaje: Cueva Reflejos (horda).",
+            "Criando: de Mr. Mime equipado con incienso raro."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva Reflejos (horda).",
+            "Criando: de Mr. Mime equipado con incienso raro."
+        ],
+        "Rubí Omega": [
+            "Criando: de Mr. Mime equipado con incienso raro."
+        ],
+        "Zafiro Alfa": [
+            "Criando: de Mr. Mime equipado con incienso raro."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ciudad Hauoli"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ciudad Hauoli"
+        ],
+        "Espada": [
+            "Salvaje: Pradera Radiante (Ventisca), Campo Deslizante , Campo Bajocero , Desfiladero Nevado , Encrucijada Tresvías , Lago Bolaguna , Lecho del Gigante , Mar Gélido , Suela del Gigante  y Viejo Cementerio .",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Lago del Enfado, nido al norte junto al lago, Llanura Pétrea, nido al este 3, Ribera de Pistón, nido al este, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón.",
+            "Criando: a Mr. Mime o Mr. Rime equipado con incienso raro."
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante (Ventisca), Campo Deslizante , Campo Bajocero , Desfiladero Nevado , Encrucijada Tresvías , Lago Bolaguna , Lecho del Gigante , Mar Gélido , Suela del Gigante  y Viejo Cementerio .",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Lago del Enfado, nido al norte junto al lago, Llanura Pétrea, nido al este 3, Ribera de Pistón, nido al este, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón.",
+            "Criando: a Mr. Mime o Mr. Rime equipado con incienso raro."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: rutas 209, 210 (sur) y Jardín Trofeo."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Jardín Trofeo."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Prado Herradura y Planicie Arena.",
+            "Aparición supermasiva: Pradera Obsidiana y Ladera Corona"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Suele imitar a sus enemigos. Cuando lo hace, su rival no puede apartar los ojos de él.",
+        "Perla": "Le gusta los sitios donde se reúne gente. Imita a sus rivales para confundirlos y huir.",
+        "Platino": "Cuando tiene a alguien delante imita su expresión y movimientos para extender sus sentimientos.",
+        "Oro HeartGold": "Desconcierta a sus rivales imitando sus movimientos a la perfección y aprovecha para darse a la fuga.",
+        "Plata SoulSilver": "Desconcierta a sus rivales imitando sus movimientos a la perfección y aprovecha para darse a la fuga.",
+        "Negro": "Cuando tiene a alguien delante imita su expresión y movimientos para extender sus sentimientos.",
+        "Blanco": "Cuando tiene a alguien delante imita su expresión y movimientos para extender sus sentimientos.",
+        "Negro 2": "Cuando tiene a alguien delante imita su expresión y movimientos para extender sus sentimientos.",
+        "Blanco 2": "Cuando tiene a alguien delante imita su expresión y movimientos para extender sus sentimientos.",
+        "Pokémon X": "Desconcierta a sus rivales imitando sus movimientos a la perfección y aprovecha para darse a la fuga.",
+        "Pokémon Y": "Suele imitar a sus enemigos. Cuando lo hace, su rival no puede apartar los ojos de él.",
+        "Rubí Omega": "Desconcierta a sus rivales imitando sus movimientos a la perfección y aprovecha para darse a la fuga.",
+        "Zafiro Alfa": "Suele imitar a sus enemigos. Cuando lo hace, su rival no puede apartar los ojos de él.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Imita los movimientos y las expresiones de otros tan bien como puede, aunque aún le queda mucho por mejorar.",
+        "Ultraluna": "Es un gran imitador. Cuando logra sorprender a su adversario, la alegría le embarga de tal forma que se olvida de continuar su actuación.",
+        "Espada": "Imita todo lo que ve, especialmente los gráciles pasos de baile de Mr. Rime, que practica con gran tesón.",
+        "Escudo": "Su admiración por Mr. Rime, un consumado danzarín, lo lleva a seguirlo para aprender de él e imitar con esmero sus pasos de baile.",
+        "Diamante Brillante": "Suele imitar los movimientos de sus enemigos. Cuando lo hace, su rival no puede apartar los ojos de él.",
+        "Perla Reluciente": "Le gustan los sitios donde se reúne gente. Imita a sus rivales para confundirlos y huir.",
+        "Leyendas: Arceus": "A veces aparece en los mercados más bulliciosos. Imita a la gente como si se tratase de un niño y la observa con un brillo de expectación en la mirada para ver cómo reacciona."
+    },
+    "evolution": [
+        [
+            "Mime Jr.",
+            "Conociendo mimético+ nivel(fuera de Galar)",
+            "Mr. Mime",
+            "",
+            ""
+        ],
+        [
+            "",
+            "Conociendo mimético+ nivel(en Galar)",
+            "Mr. Mime de Galar",
+            "Nivel 42",
+            "Mr. Rime"
+        ]
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "dex number": "463",
+    "pokemon name": "Lickilicky",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Ritmo propio",
+        "Despiste"
+    ],
+    "hidden abilities": [
+        "Aclimatación"
+    ],
+    "stats": {
+        "hp": "110",
+        "atk": "85",
+        "def": "95",
+        "atk esp": "80",
+        "def esp": "95",
+        "speed": "50"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Perla": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Platino": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Negro": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 2 (cuando la hierba se mueve)",
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 2 (cuando la hierba se mueve)",
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Espada": [
+            "Salvaje: Humedal Frescor",
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Escudo": [
+            "Salvaje: Humedal Frescor",
+            "Evolucionar: a Lickitung (conocer rodar + nivel)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel)."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Lickitung (conocer rodar + nivel).",
+            "Salvaje: Ruinas de la Niebla y Desfiladero Alud.",
+            "Aparición supermasiva: Pantanal Carmesí y Tundra Alba.",
+            "Pokémon alfa: Ruinas de la Niebla"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Agarra cosas con su lengua extensible. Si te acercas mucho, te deja lleno de babas.",
+        "Perla": "Agarra cosas con su lengua extensible. Si te acercas mucho, te deja lleno de babas.",
+        "Platino": "Su larga lengua está siempre llena de babas. El contacto con su saliva causa entumecimiento.",
+        "Oro HeartGold": "Su saliva puede deshacer objetos. Agarra lo que sea con su larga lengua y lo deja todo pegajoso con sus babas.",
+        "Plata SoulSilver": "Va almacenando saliva en la parte más profunda de su garganta y es ahí donde guarda su lengua cuando la enrolla.",
+        "Negro": "Su larga lengua está siempre llena de babas. El contacto con su saliva causa entumecimiento.",
+        "Blanco": "Su larga lengua está siempre llena de babas. El contacto con su saliva causa entumecimiento.",
+        "Negro 2": "La alta concentración de sustancias en su saliva lo disuelve todo. Un lametón provoca un entumecimiento permanente.",
+        "Blanco 2": "La alta concentración de sustancias en su saliva lo disuelve todo. Un lametón provoca un entumecimiento permanente.",
+        "Pokémon X": "Agarra cosas con su lengua extensible. Si te acercas mucho, te deja lleno de babas.",
+        "Pokémon Y": "La alta concentración de sustancias en su saliva lo disuelve todo. Un lametón provoca un entumecimiento permanente.",
+        "Rubí Omega": "Agarra cosas con su lengua extensible. Si te acercas mucho, te deja lleno de babas.",
+        "Zafiro Alfa": "La alta concentración de sustancias en su saliva lo disuelve todo. Un lametón provoca un entumecimiento permanente.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Se celebra una competición para comprobar qué Lickilicky logra extender más lejos la lengua. El récord actual es de 25 metros.",
+        "Ultraluna": "Es mucho más hábil usando la lengua que sus extremidades, hasta el punto de poder coger con gran maña una minúscula habichuela.",
+        "Espada": "Su lengua es un misterio sin resolver: no se sabe cómo puede extenderla hasta alcanzar longitudes que superan varias veces la de su propio cuerpo.",
+        "Escudo": "Es tan diestro con la lengua como un ser humano con las manos. Por el contrario, muestra escasa maña con los dedos.",
+        "Diamante Brillante": "Agarra cualquier cosa con su lengua extensible. Quien se acerca mucho termina lleno de babas.",
+        "Perla Reluciente": "Agarra cualquier cosa con su lengua extensible. Quien se acerca mucho termina lleno de babas.",
+        "Leyendas: Arceus": "Posee una lengua retráctil que, extendida, alcanza más de diez veces su tamaño. Su saliva contiene agentes disolventes que es mejor evitar."
+    },
+    "evolution": [
+        [
+            "Lickitung",
+            "Conociendo rodar+ nivel",
+            "Lickilicky"
+        ]
+    ]
+}

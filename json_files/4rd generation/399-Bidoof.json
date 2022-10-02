@@ -1,0 +1,127 @@
+{
+    "dex number": "399",
+    "pokemon name": "Bidoof",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Simple",
+        "Ignorante"
+    ],
+    "hidden abilities": [
+        "Veleta"
+    ],
+    "stats": {
+        "hp": "59",
+        "atk": "45",
+        "def": "40",
+        "atk esp": "35",
+        "def esp": "40",
+        "speed": "31"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: rutas 201, 202, 203, 204, 205, 208 y 211, Lago Veraz, Valle Eólico y Gran Pantano."
+        ],
+        "Perla": [
+            "Salvaje: rutas 201, 202, 203, 204, 205, 208 y 211, Lago Veraz, Valle Eólico y Gran Pantano."
+        ],
+        "Platino": [
+            "Salvaje: rutas 201, 202, 203, 204, 205, 209 y 211, Bosque Vetusto, Valle Eólico y Lago Veraz."
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Sinnoh:Ruta 6, Ruta 9, Ruta 10, Ruta 13, Ruta 21, Ruta 24, Ruta 25, Ruta 26, Ruta 27, Ruta 28, Ruta 30, Ruta 31, Ruta 32, Ruta 35, Ruta 42, Ruta 43, Ruta 44, Ruta 45, Ruta 47, Ruinas Alfa, Monte Plateado."
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Sinnoh:Ruta 6, Ruta 9, Ruta 10, Ruta 13, Ruta 21, Ruta 24, Ruta 25, Ruta 26, Ruta 27, Ruta 28, Ruta 30, Ruta 31, Ruta 32, Ruta 35, Ruta 42, Ruta 43, Ruta 44, Ruta 45, Ruta 47, Ruinas Alfa, Monte Plateado."
+        ],
+        "Negro": [
+            "Criando: de Bibarel.",
+            "Dream World: Bosque Pequeño con la habilidad veleta."
+        ],
+        "Blanco": [
+            "Criando: de Bibarel.",
+            "Dream World: Bosque Pequeño con la habilidad veleta."
+        ],
+        "Negro 2": [
+            "Criando: de Bibarel.",
+            "Dream World: Bosque Pequeño con la habilidad veleta."
+        ],
+        "Blanco 2": [
+            "Criando: de Bibarel.",
+            "Dream World: Bosque Pequeño con la habilidad veleta."
+        ],
+        "Pokémon X": [
+            "Salvaje: Rutas 3 y 22."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Rutas 3 y 22."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Bidoof no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Bidoof no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: rutas 201, 202, 203, 204, 205 (sur y norte), 208 y 211 (oeste), Lago Veraz, Valle Eólico y Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: rutas 201, 202, 203, 204, 205 (sur y norte), 208 y 211 (oeste), Lago Veraz, Valle Eólico y Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Colina del Anhelo, Prado Herradura y Presa del Estuario. Pantanal Carmesí: Ciénaga Bocazas, Paleta Ursa y Pradera Aleteo. Tundra Alba: Témpano Avalugg."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Tiene nervios de acero y nada puede perturbarlo. Es más ágil y activo de lo que aparenta.",
+        "Perla": "Roe constantemente los troncos y las rocas para limarse los dientes. Anida cerca del agua.",
+        "Platino": "Un estudio comparativo reveló que los incisivos de Bidoof crecen a la misma velocidad que los de Rattata.",
+        "Oro HeartGold": "Forman colonias en las riberas de los ríos. Cerca de su madriguera se pueden ver rocas y troncos roídos.",
+        "Plata SoulSilver": "Forman colonias en las riberas de los ríos. Cerca de su madriguera se pueden ver rocas y troncos roídos.",
+        "Negro": "Un estudio comparativo reveló que los incisivos de Bidoof crecen a la misma velocidad que los de Rattata.",
+        "Blanco": "Un estudio comparativo reveló que los incisivos de Bidoof crecen a la misma velocidad que los de Rattata.",
+        "Negro 2": "Un estudio comparativo reveló que los incisivos de Bidoof crecen a la misma velocidad que los de Rattata.",
+        "Blanco 2": "Un estudio comparativo reveló que los incisivos de Bidoof crecen a la misma velocidad que los de Rattata.",
+        "Pokémon X": "Tiene nervios de acero y nada puede perturbarlo. Es más ágil y activo de lo que aparenta.",
+        "Pokémon Y": "Roe constantemente los troncos y las rocas para limarse los dientes. Anida cerca del agua.",
+        "Rubí Omega": "Tiene nervios de acero y nada puede perturbarlo. Es más ágil y activo de lo que aparenta.",
+        "Zafiro Alfa": "Roe constantemente los troncos y las rocas para limarse los dientes. Anida cerca del agua.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Tiene nervios de acero y nada puede perturbarlo. Es más ágil y activo de lo que aparenta.",
+        "Perla Reluciente": "Roe constantemente los troncos y las rocas para limarse los incisivos. Construye su madriguera cerca del agua.",
+        "Leyendas: Arceus": "De expresión simplona y estoicismo apabullante. En ocasiones se cuelan en la villa como si tal cosa y se dedican a mordisquear los edificios."
+    },
+    "evolution": [
+        [
+            "Bidoof",
+            "Nivel 15",
+            "Bibarel"
+        ]
+    ]
+}

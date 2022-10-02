@@ -1,0 +1,131 @@
+{
+    "dex number": "449",
+    "pokemon name": "Hippopotas",
+    "types": [
+        "tierra"
+    ],
+    "abilities": [
+        "Chorro arena"
+    ],
+    "hidden abilities": [
+        "Poder arena"
+    ],
+    "stats": {
+        "hp": "68",
+        "atk": "72",
+        "def": "78",
+        "atk esp": "38",
+        "def esp": "42",
+        "speed": "32"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Mina Ruinamaníaco"
+        ],
+        "Perla": [
+            "Salvaje: Mina Ruinamaníaco"
+        ],
+        "Platino": [
+            "Salvaje: Mina Ruinamaníaco"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari"
+        ],
+        "Negro": [
+            "Manada: Ruta 4",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco": [
+            "Manada: Ruta 4",
+            "Dream World: Monte Escarpado"
+        ],
+        "Negro 2": [
+            "Criar: de Hippowdon",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco 2": [
+            "Criar: de Hippowdon",
+            "Dream World: Monte Escarpado"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 9"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 9"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Hippowdon"
+        ],
+        "Ultraluna": [
+            "Criar: de Hippowdon"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 6, Cuenca Polvorienta",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noreste junto a formación rocosa y Cuenca Polvorienta, nido al oeste de la losa de piedra elevada."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 6, Cuenca Polvorienta",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noreste junto a formación rocosa y Cuenca Polvorienta, nido al oeste de la losa de piedra elevada."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Túnel del Ruinamaníaco.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco y Cueva Caldarena."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Túnel del Ruinamaníaco.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco y Cueva Caldarena."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Loma Lodosa, Ciénaga Bermeja y Senda Celestial.",
+            "Aparición supermasiva: Ladera Corona y Pantanal Carmesí"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Vive en zonas áridas. En lugar de sudar, su cuerpo expulsa granos de arena.",
+        "Perla": "Se embadurna de arena para protegerse de los gérmenes. No le gusta mojarse.",
+        "Platino": "Cierra la nariz y luego atraviesa la arena con toda tranquilidad. Suele formar colonias de diez individuos.",
+        "Oro HeartGold": "Se embadurna de arena para protegerse de los gérmenes. Se desplaza por la arena del desierto.",
+        "Plata SoulSilver": "Se embadurna de arena para protegerse de los gérmenes. Se desplaza por la arena del desierto.",
+        "Negro": "Cierra la nariz y luego atraviesa la arena con toda tranquilidad. Suele formar colonias de diez individuos.",
+        "Blanco": "Cierra la nariz y luego atraviesa la arena con toda tranquilidad. Suele formar colonias de diez individuos.",
+        "Negro 2": "Cierra la nariz y luego atraviesa la arena con toda tranquilidad. Suele formar colonias de diez individuos.",
+        "Blanco 2": "Cierra la nariz y luego atraviesa la arena con toda tranquilidad. Suele formar colonias de diez individuos.",
+        "Pokémon X": "Vive en zonas áridas. En lugar de sudar, su cuerpo expulsa granos de arena.",
+        "Pokémon Y": "Se embadurna de arena para protegerse de los gérmenes. No le gusta mojarse.",
+        "Rubí Omega": "Vive en zonas áridas. En lugar de sudar, su cuerpo expulsa granos de arena.",
+        "Zafiro Alfa": "Se embadurna de arena para protegerse de los gérmenes. No le gusta mojarse.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Se desplaza con la boca abierta engullendo tanto presas como arena por igual. Luego, expulsa la arenilla por la nariz.",
+        "Escudo": "Este Pokémon de hábitos diurnos se entierra en la arena para dormir cuando la temperatura en el desierto se desploma al caer la noche.",
+        "Diamante Brillante": "Vive en zonas áridas. En lugar de sudar, su cuerpo expulsa granos de arena.",
+        "Perla Reluciente": "Se embadurna de arena para protegerse de los gérmenes. No le gusta mojarse.",
+        "Leyendas: Arceus": "Es corpulento y se mueve con lentitud, pero suele enterrarse para ocultarse, lo cual dificulta su avistamiento. Expulsa arenilla por los orificios nasales cuando se emociona."
+    },
+    "evolution": [
+        [
+            "Hippopotas",
+            "Nivel 34",
+            "Hippowdon"
+        ]
+    ]
+}

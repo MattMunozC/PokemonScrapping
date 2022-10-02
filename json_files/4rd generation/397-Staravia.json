@@ -1,0 +1,139 @@
+{
+    "dex number": "397",
+    "pokemon name": "Staravia",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Intimidación"
+    ],
+    "hidden abilities": [
+        "Audaz"
+    ],
+    "stats": {
+        "hp": "55",
+        "atk": "75",
+        "def": "50",
+        "atk esp": "40",
+        "def esp": "40",
+        "speed": "80"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: rutas 209, 212, Lago Valor, Mansión Pokémon, Gran Pantano y Vía Manantial.",
+            "Con Rubí, Zafiro o Esmeralda insertado: Lago Veraz.",
+            "Evolucionar: a Starly (nivel 14)."
+        ],
+        "Perla": [
+            "Salvaje: rutas 209, 212, Lago Valor, Mansión Pokémon, Gran Pantano y Vía Manantial.",
+            "Con Rubí, Zafiro o Esmeralda insertado: Lago Veraz.",
+            "Evolucionar: a Starly (nivel 14)."
+        ],
+        "Platino": [
+            "Salvaje: rutas 209, 212, Lago Valor, Mansión Pokémon, Gran Pantano y Vía Manantial.",
+            "Con Rubí, Zafiro o Esmeralda insertado: Lago Veraz.",
+            "Evolucionar: a Starly (nivel 14)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Starly (nivel 14)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Starly (nivel 14)."
+        ],
+        "Negro": [
+            "Pokétransfer: De Pokémon Perla, Pokémon Diamante, Pokémon Platino, Pokémon Oro HeartGold y Pokémon Plata SoulSilver.",
+            "Pokémon Dream World: Alto Cielo con la habilidad Audaz."
+        ],
+        "Blanco": [
+            "Pokétransfer: De Pokémon Perla, Pokémon Diamante, Pokémon Platino, Pokémon Oro HeartGold y Pokémon Plata SoulSilver.",
+            "Pokémon Dream World: Alto Cielo con la habilidad Audaz."
+        ],
+        "Negro 2": [
+            "Pokétransfer: De Pokémon Perla, Pokémon Diamante, Pokémon Platino, Pokémon Oro HeartGold y Pokémon Plata SoulSilver.",
+            "Pokémon Dream World: Alto Cielo con la habilidad Audaz."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: De Pokémon Perla, Pokémon Diamante, Pokémon Platino, Pokémon Oro HeartGold y Pokémon Plata SoulSilver.",
+            "Pokémon Dream World: Alto Cielo con la habilidad Audaz."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 11.",
+            "Evolucionar: a Starly (nivel 14)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 11.",
+            "Evolucionar: a Starly (nivel 14)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Escáner insular: en la Ruta 10 (Solo los jueves)."
+        ],
+        "Luna": [
+            "Escáner insular: en la Ruta 10 (Solo los jueves)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Staravia no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Staravia no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: rutas 209, 212 (norte), Orilla Valor, Lago Valor, Fuente Despedida, Jardín Trofeo y Gran Pantano.",
+            "Evolucionar: a Starly (nivel 14)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: rutas 209, 212 (norte), Orilla Valor, Lago Valor, Fuente Despedida, Jardín Trofeo y Gran Pantano.",
+            "Evolucionar: a Starly (nivel 14)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Alacena del Bosque, Presa del Estuario, Isla Hansa y Planicie Arena. Costa Cobalto: Playa Ginkgo y Arboleda Tétrica.",
+            "Evolucionar: a Starly (nivel 14).",
+            "Alfa: Pradera Obsidiana: Vereda del Viento"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Vuela por bosques y campos en busca de Pokémon de tipo bicho. Siempre va en bandadas.",
+        "Perla": "Vive en bosques y campos. Si dos bandadas se encuentran, pelean por el territorio.",
+        "Platino": "Son conscientes de su debilidad, así que siempre viven en grupo. Si se encuentran solos, lloran a gritos.",
+        "Oro HeartGold": "Vive siempre en grandes grupos y las disputas dentro de ellos son muy intensas.",
+        "Plata SoulSilver": "Vive siempre en grandes grupos y las disputas dentro de ellos son muy intensas.",
+        "Negro": "Son conscientes de su debilidad, así que siempre viven en grupo. Si se encuentran solos, lloran a gritos.",
+        "Blanco": "Son conscientes de su debilidad, así que siempre viven en grupo. Si se encuentran solos, lloran a gritos.",
+        "Negro 2": "Son conscientes de su debilidad, así que siempre viven en grupo. Si se encuentran solos, lloran a gritos.",
+        "Blanco 2": "Son conscientes de su debilidad, así que siempre viven en grupo. Si se encuentran solos, lloran a gritos.",
+        "Pokémon X": "Vive siempre en grandes grupos y las disputas dentro de ellos son muy intensas.",
+        "Pokémon Y": "Vive en bosques y campos. Si dos bandadas se encuentran, pelean por el territorio.",
+        "Rubí Omega": "Vive siempre en grandes grupos y las disputas dentro de ellos son muy intensas.",
+        "Zafiro Alfa": "Vive en bosques y campos. Si dos bandadas se encuentran, pelean por el territorio.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Vuela por bosques y campos en busca de Pokémon insecto. Forma grandes bandadas.",
+        "Perla Reluciente": "Vive en bosques y campos. Si dos bandadas se encuentran, pelean por el territorio.",
+        "Leyendas: Arceus": "Forman enormes bandadas que se pelean entre sí continuamente. Sospecho que el gran penacho que adorna su cabeza simboliza su fuerza."
+    },
+    "evolution": [
+        [
+            "Starly",
+            "Nivel 14",
+            "Staravia",
+            "Nivel 34",
+            "Staraptor"
+        ]
+    ]
+}

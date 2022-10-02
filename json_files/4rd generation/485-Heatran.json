@@ -1,0 +1,125 @@
+{
+    "dex number": "485",
+    "pokemon name": "Heatran",
+    "types": [
+        "fuego",
+        "acero"
+    ],
+    "abilities": [
+        "Absorbe fuego"
+    ],
+    "hidden abilities": [
+        "Cuerpo llama"
+    ],
+    "stats": {
+        "hp": "91",
+        "atk": "90",
+        "def": "106",
+        "atk esp": "130",
+        "def esp": "106",
+        "speed": "77"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: En la cima de Montaña Dura. Solo uno, al nivel 70. Ver cómo llegar a él más abajo."
+        ],
+        "Perla": [
+            "Salvaje: En la cima de Montaña Dura. Solo uno, al nivel 70. Ver cómo llegar a él más abajo."
+        ],
+        "Platino": [
+            "Salvaje: En la cima de Montaña Dura. Solo uno, al nivel 50. Ver cómo llegar a él más abajo."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino.",
+            "Especial: Transfiriéndolo de Pokémon Ranger: Trazos de Luz, tras completar una misión solo por evento, desde el 29 de noviembre de 2010 hasta el 11 de enero de 2011."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino.",
+            "Especial: Transfiriéndolo de Pokémon Ranger: Trazos de Luz, tras completar una misión solo por evento, desde el 29 de noviembre de 2010 hasta el 11 de enero de 2011."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Platino.",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Platino.",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Negro 2": [
+            "Salvaje: Montaña Reversia. Solo uno, al nivel 68. Requiere la piedra magma."
+        ],
+        "Blanco 2": [
+            "Salvaje: Montaña Reversia. Solo uno, al nivel 68. Requiere la piedra magma."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Gruta Solar. Solo uno, al nivel 50."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Gruta Solar. Solo uno, al nivel 50."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo (solo uno, al nivel 60)."
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Ultrasol."
+        ],
+        "Espada": [
+            "Especial: Aleatoriamente en una Aventura Dinamax."
+        ],
+        "Escudo": [
+            "Especial: Aleatoriamente en una Aventura Dinamax."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: En la cima de Montaña Dura. Solo uno, al nivel 70. Ver cómo llegar a él más abajo."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: En la cima de Montaña Dura. Solo uno, al nivel 70. Ver cómo llegar a él más abajo."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Altar Domo Lava, durante la encomienda La tabla de la isla escupefuego (solo uno, al nivel 70)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Habita cuevas volcánicas. Cava con sus pies en forma de cruz para trepar por techos y paredes.",
+        "Perla": "Habita cuevas volcánicas. Cava con sus pies en forma de cruz para trepar por techos y paredes.",
+        "Platino": "Su cuerpo es de rugoso acero, pero su propio calor corporal lo ha derretido en algunos puntos.",
+        "Oro HeartGold": "Su sangre fluye ardiendo como si fuera magma. Vive en cráteres de volcanes.",
+        "Plata SoulSilver": "Su sangre fluye ardiendo como si fuera magma. Vive en cráteres de volcanes.",
+        "Negro": "Su cuerpo es de rugoso acero, pero su propio calor corporal lo ha derretido en algunos puntos.",
+        "Blanco": "Su cuerpo es de rugoso acero, pero su propio calor corporal lo ha derretido en algunos puntos.",
+        "Negro 2": "Su cuerpo es de rugoso acero, pero su propio calor corporal lo ha derretido en algunos puntos.",
+        "Blanco 2": "Su cuerpo es de rugoso acero, pero su propio calor corporal lo ha derretido en algunos puntos.",
+        "Pokémon X": "Habita cuevas volcánicas. Cava con sus pies en forma de cruz para trepar por techos y paredes.",
+        "Pokémon Y": "Su sangre fluye ardiendo como si fuera magma. Vive en cráteres de volcanes.",
+        "Rubí Omega": "Habita cuevas volcánicas. Cava con sus pies en forma de cruz para trepar por techos y paredes.",
+        "Zafiro Alfa": "Su sangre fluye ardiendo como si fuera magma. Vive en cráteres de volcanes.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Habita cuevas volcánicas. Cava con sus pies en forma de cruz para trepar por techos y paredes.",
+        "Perla Reluciente": "Habita cuevas volcánicas. Cava con sus pies en forma de cruz para trepar por techos y paredes.",
+        "Leyendas: Arceus": "Cuentan las historias que nació del ardiente magma del Monte Corona. Su cuerpo de acero derretido supone toda una incógnita para nosotros."
+    },
+    "evolution": [
+        [
+            "Heatran"
+        ]
+    ]
+}

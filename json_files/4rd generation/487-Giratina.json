@@ -1,0 +1,130 @@
+{
+    "dex number": "487",
+    "pokemon name": "Giratina",
+    "types": [
+        "fantasma",
+        "dragón"
+    ],
+    "abilities": [
+        "Presión",
+        "Levitación"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": "150",
+        "atk": "100",
+        "def": "120",
+        "atk esp": "100",
+        "def esp": "120",
+        "speed": "90"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Cueva Retorno. Se necesita la Pokédex Nacional (solo uno)"
+        ],
+        "Perla": [
+            "Salvaje: Cueva Retorno. Se necesita la Pokédex Nacional (solo uno)"
+        ],
+        "Platino": [
+            "Salvaje: Mundo Distorsión. Si es derrotado o se huye del combate, reaparece en la Cueva Retorno tras ganar la Liga Pokémon (solo uno)"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Evento: nace de uno de los huevos del Evento de Arceus en Pokémon Oro HeartGold y Plata SoulSilver (solo uno)"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Evento: nace de uno de los huevos del Evento de Arceus en Pokémon Oro HeartGold y Plata SoulSilver (solo uno)"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Evento: (ver más abajo)"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Evento: (ver más abajo)"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Especial: Transferir desde RAdar Pokémon accediendo al modo IV Generación con un juego de Pokémon Platino en la consola",
+            "Evento: (ver más abajo)"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Especial: Transferir desde RAdar Pokémon accediendo al modo IV Generación con un juego de Pokémon Platino en la consola",
+            "Evento: (ver más abajo)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Enorme grieta (se necesita llevar a Dialga y Palkia en el equipo (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Enorme grieta (se necesita llevar a Dialga y Palkia en el equipo (solo uno)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Ultraespacio Cero: Acceder desde un ultraumbral amarillo con Dialga y Palkia en el equipo (solo uno)"
+        ],
+        "Ultraluna": [
+            "Ultraespacio Cero: Acceder desde un ultraumbral amarillo con Dialga y Palkia en el equipo (solo uno)"
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Cueva Retorno. Se necesita la Pokédex Nacional (solo uno)"
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Cueva Retorno. Se necesita la Pokédex Nacional (solo uno)"
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Cueva Retorno (realizando la petición 91)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Se dice que vive en un mundo en el lado inverso del nuestro. Aparece en viejos cementerios.",
+        "Perla": "Se dice que vive en un mundo en el lado inverso del nuestro. Aparece en viejos cementerios.",
+        "Platino": "Fue desterrado por su violencia. Observa el mundo en silencio desde el Mundo Distorsión.",
+        "Oro HeartGold": "Vive en el Mundo Distorsión, un mundo opuesto al nuestro y cuyas leyes desafían el sentido común.",
+        "Plata SoulSilver": "Vive en el Mundo Distorsión, un mundo opuesto al nuestro y cuyas leyes desafían el sentido común.",
+        "Negro": "Fue desterrado por su violencia. Observa el mundo en silencio desde el Mundo Distorsión.",
+        "Blanco": "Fue desterrado por su violencia. Observa el mundo en silencio desde el Mundo Distorsión.",
+        "Negro 2": "Fue desterrado por su violencia. Observa el mundo en silencio desde el Mundo Distorsión.",
+        "Blanco 2": "Fue desterrado por su violencia. Observa el mundo en silencio desde el Mundo Distorsión.",
+        "Pokémon X": "Vive en el Mundo Distorsión, un mundo opuesto al nuestro y cuyas leyes desafían el sentido común.",
+        "Pokémon Y": "Fue desterrado por su violencia. Observa el mundo en silencio desde el Mundo Distorsión.",
+        "Rubí Omega": "Vive en el Mundo Distorsión, un mundo opuesto al nuestro y cuyas leyes desafían el sentido común.",
+        "Zafiro Alfa": "Fue desterrado por su violencia. Observa el mundo en silencio desde el Mundo Distorsión.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Se dice que vive en un mundo opuesto al nuestro. Aparece en viejos cementerios.",
+        "Perla Reluciente": "Se dice que vive en un mundo opuesto al nuestro. Aparece en viejos cementerios.",
+        "Leyendas: Arceus": "\nForma modificada: En Hisui existe un dicho que reza lo siguiente: \"Cuanto mayor sea la luz, mayor será la oscuridad que esta engendre\". ¿Podría esa oscuridad ser una alusión a este Pokémon?\nForma origen: Pierde las patas al adoptar esta forma. Sospecho que vive en un mundo en el que no hay distinción entre cielo y tierra, aunque no tengo manera de probarlo."
+    },
+    "evolution": [
+        [
+            "Giratina"
+        ]
+    ]
+}

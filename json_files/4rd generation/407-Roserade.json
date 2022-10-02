@@ -1,0 +1,127 @@
+{
+    "dex number": "407",
+    "pokemon name": "Roserade",
+    "types": [
+        "planta",
+        "veneno"
+    ],
+    "abilities": [
+        "Cura natural",
+        "Punto tóxico"
+    ],
+    "hidden abilities": [
+        "Experto"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "70",
+        "def": "65",
+        "atk esp": "125",
+        "def esp": "105",
+        "speed": "90"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Perla": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Platino": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Negro": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Blanco": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 12, Bosque de los Perdidos, Calle Victoria.",
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 12, Bosque de los Perdidos, Calle Victoria.",
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Sol": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Luna": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al norte 1 y Arboleda Claroscuro, nido al norte 2."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al norte 1 y Arboleda Claroscuro, nido al norte 2."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Roselia utilizando una piedra día."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Roselia utilizando una piedra día.",
+            "Alfa: Pantanal Carmesí (día): Rellano Nebuloso"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Atrae a las presas con un dulce aroma y las derrota con los látigos espinosos de sus brazos.",
+        "Perla": "Se mueve como un bailarín y golpea con látigos repletos de púas venenosas.",
+        "Platino": "Cada una de sus manos contiene toxinas diferentes, pero ambas tienen un poder casi mortífero.",
+        "Oro HeartGold": "Atrae a sus presas con un dulce aroma y las derriba con veneno. Cuanto más venenoso, mejor huele.",
+        "Plata SoulSilver": "Atrae a sus presas con un dulce aroma y las derriba con veneno. Cuanto más venenoso, mejor huele.",
+        "Negro": "Cada una de sus manos contiene toxinas diferentes, pero ambas tienen un poder casi mortífero.",
+        "Blanco": "Cada una de sus manos contiene toxinas diferentes, pero ambas tienen un poder casi mortífero.",
+        "Negro 2": "Ataca a sus presas con una dulce fragancia y usa sus cepas venenosas para atenazarlas y acabar con ellas.",
+        "Blanco 2": "Ataca a sus presas con una dulce fragancia y usa sus cepas venenosas para atenazarlas y acabar con ellas.",
+        "Pokémon X": "Ataca a sus presas con una dulce fragancia y usa sus cepas venenosas para atenazarlas y acabar con ellas.",
+        "Pokémon Y": "Se mueve como un bailarín y golpea con látigos repletos de púas venenosas.",
+        "Rubí Omega": "Ataca a sus presas con una dulce fragancia y usa sus cepas venenosas para atenazarlas y acabar con ellas.",
+        "Zafiro Alfa": "Se mueve como un bailarín y golpea con látigos repletos de púas venenosas.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Aturde a los rivales con la fragancia de sus flores para luego azotarlos sin piedad con sus cepas espinosas.",
+        "Escudo": "Las toxinas de la mano derecha son de efecto inmediato, y las de la izquierda, retardado. No obstante, ambas pueden ser letales.",
+        "Diamante Brillante": "Atrae a sus presas con un dulce aroma y las derrota con las cepas espinosas de los brazos.",
+        "Perla Reluciente": "Se mueve como un bailarín y golpea con cepas repletas de púas venenosas.",
+        "Leyendas: Arceus": "Las flores de los brazos poseen látigos espinosos impregnados de un veneno letal. Acorrala a sus presas con movimientos elegantes y las lacera sin piedad alguna con sus látigos."
+    },
+    "evolution": [
+        [
+            "Budew",
+            "Amistad+ nivel (día) ",
+            "Roselia",
+            "Piedra día ",
+            "Roserade"
+        ]
+    ]
+}

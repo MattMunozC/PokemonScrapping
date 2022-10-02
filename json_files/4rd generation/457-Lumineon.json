@@ -1,0 +1,139 @@
+{
+    "dex number": "457",
+    "pokemon name": "Lumineon",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Colector"
+    ],
+    "hidden abilities": [
+        "Velo agua"
+    ],
+    "stats": {
+        "hp": "69",
+        "atk": "69",
+        "def": "76",
+        "atk esp": "69",
+        "def esp": "86",
+        "speed": "91"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Pescando con la supercaña: rutas 205 (Zona sur), 218 y 219, 220, Forja Fuego, Isla Hierro, Ciudad Canal y Valle Eólico",
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Perla": [
+            "Salvaje: Pescando con la supercaña: rutas 205 (Zona sur), 218 y 219, 220, Forja Fuego, Isla Hierro, Ciudad Canal y Valle Eólico",
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Platino": [
+            "Salvaje: Pescando con la supercaña: rutas 205 (Zona sur), 218 y 219, 220, Forja Fuego, Isla Hierro, Ciudad Canal y Valle Eólico",
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Negro": [
+            "Salvaje: Pescando con la supercaña en las rutas 17, 18 y el Laboratorio P+P",
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Blanco": [
+            "Salvaje: Pescando con la supercaña en las rutas 17, 18 y el Laboratorio P+P",
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Negro 2": [
+            "Salvaje: Pescando con la supercaña en las rutas 4, 17, 18, Laboratorio P+P, Ciudad Hormigón y Polígono Hormigón",
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Pescando con la supercaña en las rutas 4, 17, 18, Laboratorio P+P, Ciudad Hormigón y Polígono Hormigón",
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Sol": [
+            "Surfeando: Prado de Poni.",
+            "Surfeando: Prado de Poni (Como refuerzo de Tentacruel).",
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Luna": [
+            "Surfeando: Prado de Poni.",
+            "Surfeando: Prado de Poni (Como refuerzo de Tentacruel).",
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Ultrasol": [
+            "Surfeando: Arrecife de Poni.",
+            "Surfeando: Rutas 15 y 16 (Como refuerzo de Finneon).",
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Ultraluna": [
+            "Surfeando: Arrecife de Poni.",
+            "Surfeando: Rutas 15 y 16 (Como refuerzo de Finneon).",
+            "Evolucionar: a Finneon (nivel 31)."
+        ],
+        "Espada": [
+            "Lumineon no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Lumineon no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Pescando con supercaña: rutas 205 (sur), 218, 219, 220, 221, Forja Fuego, Isla Hierro, Ciudad Canal y Valle Eólico."
+        ],
+        "Perla Reluciente": [
+            "Pescando con supercaña: rutas 205 (sur), 218, 219, 220, 221, Forja Fuego, Isla Hierro, Ciudad Canal y Valle Eólico."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Vergel Marino",
+            "Evolucionar: a Finneon (nivel 31).",
+            "Aparición supermasiva: Costa Cobalto.",
+            "Pokémon alfa: Vergel Marino"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Vive en las profundidades marinas. Atrae a sus presas con parpadeos del dibujo de sus cuatro aletas.",
+        "Perla": "Para que los depredadores no lo detecten, se arrastra por el fondo marino con las aletas del pecho.",
+        "Platino": "Se arrastra por el fondo marino con sus largas aletas frontales. Compite con Lanturn por la comida.",
+        "Oro HeartGold": "Al nadar iluminado por el fondo del mar, Lumineon recuerda al cielo en una noche estrellada.",
+        "Plata SoulSilver": "Al nadar iluminado por el fondo del mar, Lumineon recuerda al cielo en una noche estrellada.",
+        "Negro": "Se arrastra por el fondo marino con sus largas aletas frontales. Compite con Lanturn por la comida.",
+        "Blanco": "Se arrastra por el fondo marino con sus largas aletas frontales. Compite con Lanturn por la comida.",
+        "Negro 2": "Se arrastra por el fondo marino con sus largas aletas frontales. Compite con Lanturn por la comida.",
+        "Blanco 2": "Se arrastra por el fondo marino con sus largas aletas frontales. Compite con Lanturn por la comida.",
+        "Pokémon X": "Vive en las profundidades marinas. Atrae a sus presas con parpadeos del dibujo de sus cuatro aletas.",
+        "Pokémon Y": "Para que los depredadores no lo detecten, se arrastra por el fondo marino con las aletas del pecho.",
+        "Rubí Omega": "Vive en las profundidades marinas. Atrae a sus presas con parpadeos del dibujo de sus cuatro aletas.",
+        "Zafiro Alfa": "Para que los depredadores no lo detecten, se arrastra por el fondo marino con las aletas del pecho.",
+        "Sol": "Atrae a sus presas con el destello que emite, aunque eso también llama la atención de sus feroces depredadores marinos.",
+        "Luna": "Un Pokémon abisal que vive en el lecho marino. Usa sus aletas ventrales para arrastrarse en busca de Starmie, su presa favorita.",
+        "Ultrasol": "Es difícil encontrar presas en lo más profundo del mar, por lo que lucha a capa y espada con los Lanturn si avista una que merezca la pena.",
+        "Ultraluna": "Nada arrastrándose por el lecho marino. Sus espléndidas aletas brillan como las estrellas del firmamento.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Vive en las profundidades marinas. Atrae a sus presas con parpadeos del dibujo de sus cuatro aletas.",
+        "Perla Reluciente": "Para que los depredadores no lo detecten, se arrastra por el fondo marino con las aletas del pecho.",
+        "Leyendas: Arceus": "Caza con sus aletas refulgentes. Forma bancos que transforman la superficie del mar nocturno en un hermoso cielo abarrotado de estrellas."
+    },
+    "evolution": [
+        [
+            "Finneon",
+            "Nivel 31",
+            "Lumineon"
+        ]
+    ]
+}

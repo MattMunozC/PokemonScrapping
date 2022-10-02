@@ -1,0 +1,130 @@
+{
+    "dex number": "405",
+    "pokemon name": "Luxray",
+    "types": [
+        "eléctrico"
+    ],
+    "abilities": [
+        "Rivalidad",
+        "Intimidación"
+    ],
+    "hidden abilities": [
+        "Agallas"
+    ],
+    "stats": {
+        "hp": "80",
+        "atk": "120",
+        "def": "79",
+        "atk esp": "95",
+        "def esp": "79",
+        "speed": "70"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Perla": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Platino": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Sol": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Luna": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Espada": [
+            "Salvaje: Humedal Frescor , Bosque Concentración , Playa Desafío , Bahía Circular  y Llano Entrenamiento ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Bosque Concentración , Playa Desafío  y Mar Meloso ",
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Salvaje: Humedal Frescor , Bosque Concentración , Playa Desafío , Bahía Circular  y Llano Entrenamiento ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Bosque Concentración , Playa Desafío  y Mar Meloso ",
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Luxio (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Luxio (nivel 30).",
+            "Salvaje: Pradera Obsidiana: Planicie Arena. Ladera Corona: Loma Sagrada, Senda del Peregrino, ágora de la Plegaria, Paso Píleo.",
+            "Alfa: Ladera Corona: Ágora de la Plegaria.",
+            "Distorsión espaciotemporal: Pantanal Carmesí"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Sus ojos pueden ver a través de todo. Localiza a las presas detrás de objetos y las captura.",
+        "Perla": "Cuando sus ojos brillan como el oro, puede ver presas escondidas, incluso detrás de un muro.",
+        "Platino": "Puede ver claramente a través de las paredes para buscar a sus presas o a sus crías.",
+        "Oro HeartGold": "La potente visión de Luxray resulta extremadamente valiosa cuando acecha el peligro.",
+        "Plata SoulSilver": "La potente visión de Luxray resulta extremadamente valiosa cuando acecha el peligro.",
+        "Negro": "Puede ver claramente a través de las paredes para buscar a sus presas o a sus crías.",
+        "Blanco": "Puede ver claramente a través de las paredes para buscar a sus presas o a sus crías.",
+        "Negro 2": "Puede ver claramente a través de las paredes para buscar a sus presas o a sus crías.",
+        "Blanco 2": "Puede ver claramente a través de las paredes para buscar a sus presas o a sus crías.",
+        "Pokémon X": "Cuando sus ojos brillan como el oro, puede ver presas escondidas, incluso detrás de un muro.",
+        "Pokémon Y": "La potente visión de Luxray resulta extremadamente valiosa cuando acecha el peligro.",
+        "Rubí Omega": "Cuando sus ojos brillan como el oro, puede ver presas escondidas, incluso detrás de un muro.",
+        "Zafiro Alfa": "La potente visión de Luxray resulta extremadamente valiosa cuando acecha el peligro.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Tiene la capacidad de ver a través de cualquier cosa. Encuentra enseguida su presa, aunque se oculte tras una pared de gran grosor.",
+        "Escudo": "Duerme durante largos períodos para recuperar la enorme cantidad de electricidad que consume al usar su capacidad para ver a través de objetos.",
+        "Diamante Brillante": "Gracias a sus ojos, que le permiten ver a través de todo, localiza a las presas escondidas detrás de objetos y las captura.",
+        "Perla Reluciente": "Cuando sus ojos brillan como el oro, puede ver presas escondidas, incluso detrás de un muro.",
+        "Leyendas: Arceus": "Cada manada está liderada por un solo macho. Se cuenta que, cuando se le iluminan los ojos con un brillo dorado, es capaz de ver a través de cualquier cosa."
+    },
+    "evolution": [
+        [
+            "Shinx",
+            "Nivel 15",
+            "Luxio",
+            "Nivel 30",
+            "Luxray"
+        ]
+    ]
+}

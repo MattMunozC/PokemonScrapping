@@ -1,0 +1,128 @@
+{
+    "dex number": "388",
+    "pokemon name": "Grotle",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Caparazón"
+    ],
+    "stats": {
+        "hp": "75",
+        "atk": "89",
+        "def": "85",
+        "atk esp": "55",
+        "def esp": "65",
+        "speed": "36"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Turtwig (nivel 18)"
+        ],
+        "Perla": [
+            "Evolucionar: a Turtwig (nivel 18)"
+        ],
+        "Platino": [
+            "Evolucionar: a Turtwig (nivel 18)"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro": [
+            "PokéTransfer: transferir desde Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Blanco": [
+            "PokéTransfer: transferir desde Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro 2": [
+            "PokéTransfer: transferir desde Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Blanco 2": [
+            "PokéTransfer: transferir desde Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Turtwig (nivel 18)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Turtwig (nivel 18)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Escáner insular: Jardines de Ula-Ula (miércoles)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Jardines de Ula-Ula (miércoles)"
+        ],
+        "Espada": [
+            "Grotle no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Grotle no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Turtwig (nivel 18)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Turtwig (nivel 18)"
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Turtwig (nivel 18)",
+            "Salvaje: Pantanal Carmesí: Pradera Aleteo",
+            "Aparición masiva: Pantanal Carmesí"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Vive en los bosques cerca del agua. Por el día, sale a que les dé el sol a las plantas de su espalda.",
+        "Perla": "Su concha es tierra dura. Algunos Pokémon picotean las bayas que crecen en su espalda.",
+        "Platino": "Sabe dónde encontrar manantiales de agua pura y lleva a los Pokémon amigos hasta allí en su lomo.",
+        "Oro HeartGold": "Vive en el bosque. Se dice que hay manantiales cristalinos que solo Grotle conoce.",
+        "Plata SoulSilver": "Vive en el bosque. Se dice que hay manantiales cristalinos que solo Grotle conoce.",
+        "Negro": "Sabe dónde encontrar manantiales de agua pura y lleva a los Pokémon amigos hasta allí en su lomo.",
+        "Blanco": "Sabe dónde encontrar manantiales de agua pura y lleva a los Pokémon amigos hasta allí en su lomo.",
+        "Negro 2": "Sabe dónde encontrar manantiales de agua pura y lleva a los Pokémon amigos hasta allí en su lomo.",
+        "Blanco 2": "Sabe dónde encontrar manantiales de agua pura y lleva a los Pokémon amigos hasta allí en su lomo.",
+        "Pokémon X": "Vive en los bosques cerca del agua. Por el día, sale a que les dé el sol a las plantas de su espalda.",
+        "Pokémon Y": "Sabe dónde encontrar manantiales de agua pura y lleva a los Pokémon amigos hasta allí en su lomo.",
+        "Rubí Omega": "Vive en los bosques cerca del agua. Por el día, sale a que les dé el sol a las plantas de su espalda.",
+        "Zafiro Alfa": "Sabe dónde encontrar manantiales de agua pura y lleva a los Pokémon amigos hasta allí en su lomo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Vive en los bosques cerca del agua. De día, sale a que les dé el sol a las plantas de la espalda.",
+        "Perla Reluciente": "Su concha está compuesta de tierra endurecida. Algunos Pokémon picotean las bayas de los arbustos que le crecen en el lomo.",
+        "Leyendas: Arceus": "Aparece cerca de manantiales de agua pura. Los frutos de las plantas que crecen sobre su lomo son muy dulces y nutritivos, verdaderas delicias."
+    },
+    "evolution": [
+        [
+            "Turtwig",
+            "Nivel 18",
+            "Grotle",
+            "Nivel 32",
+            "Torterra"
+        ]
+    ]
+}

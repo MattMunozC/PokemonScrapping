@@ -1,0 +1,122 @@
+{
+    "dex number": "411",
+    "pokemon name": "Bastiodon",
+    "types": [
+        "roca",
+        "acero"
+    ],
+    "abilities": [
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Insonorizar"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "52",
+        "def": "168",
+        "atk esp": "47",
+        "def esp": "138",
+        "speed": "30"
+    },
+    "location": {
+        "Diamante": [
+            "Intercambiar: desde Pokémon Perla o Pokémon Platino"
+        ],
+        "Perla": [
+            "Evolucionar: a Shieldon (nivel 30)."
+        ],
+        "Platino": [
+            "Evolucionar: a Shieldon (nivel 30)."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: desde Pokémon Perla o Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: desde Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro": [
+            "Evolucionar: a Shieldon (nivel 30)."
+        ],
+        "Blanco": [
+            "Evolucionar: a Shieldon (nivel 30)."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Shieldon (nivel 30)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Shieldon (nivel 30)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Shieldon (nivel 30)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Shieldon (nivel 30)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Shieldon (nivel 30)."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon Rubí Omega, X o Y."
+        ],
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Evolucionar: a Shieldon (nivel 30)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Shieldon (nivel 30)."
+        ],
+        "Espada": [
+            "Bastiodon no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Bastiodon no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Shieldon (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Distorsión espaciotemporal en la Ladera Corona.",
+            "Evolucionar: a Shieldon (nivel 30)."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Repele cualquier ataque frontal. Es muy dócil y se alimenta de hierba y bayas.",
+        "Perla": "Cuando son atacados, forman una barrera con el escudo de sus caras para proteger a sus crías.",
+        "Platino": "Se alineaban y creaban una barrera que ningún enemigo podía cruzar. Así protegían a sus crías.",
+        "Oro HeartGold": "Forma manadas. Cuando les ataca un enemigo se alinean y le embisten con su cara",
+        "Plata SoulSilver": "Forma manadas. Cuando les ataca un enemigo se alinean y le embisten con su cara",
+        "Negro": "Se alineaban y creaban una barrera que ningún enemigo podía cruzar. Así protegían a sus crías.",
+        "Blanco": "Se alineaban y creaban una barrera que ningún enemigo podía cruzar. Así protegían a sus crías.",
+        "Negro 2": "Se alineaban y creaban una barrera que ningún enemigo podía cruzar. Así protegían a sus crías.",
+        "Blanco 2": "Se alineaban y creaban una barrera que ningún enemigo podía cruzar. Así protegían a sus crías.",
+        "Pokémon X": "Se alineaban y creaban una barrera que ningún enemigo podía cruzar. Así protegían a sus crías.",
+        "Pokémon Y": "Repele cualquier ataque frontal. Es muy dócil y se alimenta de hierba y bayas.",
+        "Rubí Omega": "Se alineaban y creaban una barrera que ningún enemigo podía cruzar. Así protegían a sus crías.",
+        "Zafiro Alfa": "Repele cualquier ataque frontal. Es muy dócil y se alimenta de hierba y bayas.",
+        "Sol": "Es capaz de repeler cualquier ataque frontal, pero se encuentra totalmente a merced de los ataques por la retaguardia.",
+        "Luna": "Compartía hábitat con Rampardos. A veces se han encontrado fósiles de ambas especies yaciendo juntos tras una lucha encarnizada.",
+        "Ultrasol": "Hasta que no se regeneró por completo a este Pokémon, se pensaba que los grandes y recios huesos de su rostro eran su columna vertebral.",
+        "Ultraluna": "Un Pokémon con una antigüedad de unos cien millones de años. Su rostro posee una dureza impresionante, superior incluso a la del acero.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Repele cualquier ataque frontal. Es muy dócil y se alimenta de hierba y bayas.",
+        "Perla Reluciente": "Cuando reciben un ataque, forman una barrera alineando sus escudos faciales para proteger a las crías de la manada.",
+        "Leyendas: Arceus": "Su rostro, duro cual diamante, le proporciona una defensa férrea. Todavía desconocemos cuál es su hábitat natural, entre muchos otros datos."
+    },
+    "evolution": [
+        [
+            "Shieldon",
+            "Nivel 30",
+            "Bastiodon"
+        ]
+    ]
+}

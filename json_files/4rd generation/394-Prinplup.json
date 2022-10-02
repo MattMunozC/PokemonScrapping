@@ -1,0 +1,125 @@
+{
+    "dex number": "394",
+    "pokemon name": "Prinplup",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Competitivo"
+    ],
+    "stats": {
+        "hp": "64",
+        "atk": "66",
+        "def": "68",
+        "atk esp": "81",
+        "def esp": "76",
+        "speed": "50"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Piplup (nivel 16)."
+        ],
+        "Perla": [
+            "Evolucionar: a Piplup (nivel 16)."
+        ],
+        "Platino": [
+            "Evolucionar: a Piplup (nivel 16)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Piplup (nivel 16)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Piplup (nivel 16)."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Piplup (nivel 16)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Piplup (nivel 16)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Escáner insular: Ruta 16 (martes)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Ruta 16 (martes)"
+        ],
+        "Espada": [
+            "Prinplup no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Prinplup no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Piplup (nivel 16)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Piplup (nivel 16)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Costa Cobalto: Vía Manantial.",
+            "Evolucionar: a Piplup (nivel 16)."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Vive solo, alejado de los demás. Cada uno piensa que es el más importante.",
+        "Perla": "Los golpes de sus alas pueden partir los árboles más gruesos. Busca sus presas en aguas heladas.",
+        "Platino": "Como cada uno se considera el más importante, jamás podrán formar un grupo.",
+        "Oro HeartGold": "No hace amigos. Puede partir en dos un árbol gigantesco de un fuerte aletazo.",
+        "Plata SoulSilver": "No hace amigos. Puede partir en dos un árbol gigantesco de un fuerte aletazo.",
+        "Negro": "Como cada uno se considera el más importante, jamás podrán formar un grupo.",
+        "Blanco": "Como cada uno se considera el más importante, jamás podrán formar un grupo.",
+        "Negro 2": "Como cada uno se considera el más importante, jamás podrán formar un grupo.",
+        "Blanco 2": "Como cada uno se considera el más importante, jamás podrán formar un grupo.",
+        "Pokémon X": "Vive solo, alejado de los demás. Cada uno piensa que es el más importante.",
+        "Pokémon Y": "No hace amigos. Puede partir en dos un árbol gigantesco de un fuerte aletazo.",
+        "Rubí Omega": "Vive solo, alejado de los demás. Cada uno piensa que es el más importante.",
+        "Zafiro Alfa": "No hace amigos. Puede partir en dos un árbol gigantesco de un fuerte aletazo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Vive solo, alejado de los demás. Al parecer, cada uno piensa que es el más importante.",
+        "Perla Reluciente": "Puede partir los árboles más gruesos de un fuerte aletazo. Busca sus presas en aguas heladas.",
+        "Leyendas: Arceus": "Nada en aguas gélidas sin problema, entonando un gorjeo que recuerda al rugir de las olas. Su orgullo es tan grande como fuertes sus aletas."
+    },
+    "evolution": [
+        [
+            "Piplup",
+            "Nivel 16",
+            "Prinplup",
+            "Nivel 36",
+            "Empoleon"
+        ]
+    ]
+}

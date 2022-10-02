@@ -1,0 +1,122 @@
+{
+    "dex number": "480",
+    "pokemon name": "Uxie",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "75",
+        "atk": "75",
+        "def": "130",
+        "atk esp": "75",
+        "def esp": "130",
+        "speed": "95"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: en la Caverna Agudeza, en el Lago Agudeza."
+        ],
+        "Perla": [
+            "Salvaje: en la Caverna Agudeza, en el Lago Agudeza."
+        ],
+        "Platino": [
+            "Salvaje: después de salir del Mundo Distorsión, ve a pueblo Arena y habla con el Profesor Serbal. Ahora se encontrará en la Caverna Agudeza, en el Lago Agudeza."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde Pokémon Diamante, Pokémon Perla o Pokémon Platino.",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde Pokémon Diamante, Pokémon Perla o Pokémon Platino.",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Negro 2": [
+            "Salvaje: A las afueras del museo de Ciudad Esmalte después de haber ganado la Liga Pokémon (Teselia) y entrar a la Cueva Psique que se encuentra cerca del Pueblo Ocre."
+        ],
+        "Blanco 2": [
+            "Salvaje: A las afueras del museo de Ciudad Esmalte después de haber ganado la Liga Pokémon (Teselia) y entrar a la Cueva Psique que se encuentra cerca del Pueblo Ocre."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Si llevamos 3 Pokémon con máxima felicidad en nuestro equipo mientras usamos ultravuelo podremos ver una misteriosa isla cerca de Arrecípolis llamada Cueva Ignota (Nameless Cavern). Dentro de esta isla encontraremos a Uxie entre las 20:00 y las 21:00, a Azelf entre las 21:00 y las 4:00 y a Mesprit entre las 4:00 y las 20:00.Solo uno al nivel 50."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Si llevamos 3 Pokémon con máxima felicidad en nuestro equipo mientras usamos ultravuelo podremos ver una misteriosa isla cerca de Arrecípolis llamada Cueva Ignota (Nameless Cavern). Dentro de esta isla encontraremos a Uxie entre las 20:00 y las 21:00, a Azelf entre las 21:00 y las 4:00 y a Mesprit entre las 4:00 y las 20:00.Solo uno al nivel 50."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul (solo uno)."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul (solo uno)."
+        ],
+        "Espada": [
+            "Especial: Aleatoriamente en una Aventura Dinamax."
+        ],
+        "Escudo": [
+            "Especial: Aleatoriamente en una Aventura Dinamax."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: en la Caverna Agudeza."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: en la Caverna Agudeza."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Caverna Agudeza. Durante la encomienda: La tabla de los tres lagos."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Se le conoce como el \"ser de la sabiduría\". Se dice que puede borrar la memoria con una mirada.",
+        "Perla": "Se dice que su aparición otorgó a los humanos la inteligencia para mejorar sus vidas.",
+        "Platino": "Voló y las personas adquirieron la capacidad para resolver problemas. Así nació la sabiduría.",
+        "Oro HeartGold": "Dicen que Uxie otorga a la gente la sabiduría necesaria para resolver los más diversos problemas.",
+        "Plata SoulSilver": "Dicen que Uxie otorga a la gente la sabiduría necesaria para resolver los más diversos problemas.",
+        "Negro": "Voló y las personas adquirieron la capacidad para resolver problemas. Así nació la sabiduría.",
+        "Blanco": "Voló y las personas adquirieron la capacidad para resolver problemas. Así nació la sabiduría.",
+        "Negro 2": "Voló y las personas adquirieron la capacidad para resolver problemas. Así nació la sabiduría.",
+        "Blanco 2": "Voló y las personas adquirieron la capacidad para resolver problemas. Así nació la sabiduría.",
+        "Pokémon X": "Se le conoce como el \"ser de la sabiduría\". Se dice que puede borrar la memoria con una mirada.",
+        "Pokémon Y": "Se dice que su aparición otorgó a los humanos la inteligencia para mejorar sus vidas.",
+        "Rubí Omega": "Se le conoce como el \"ser de la sabiduría\". Se dice que puede borrar la memoria con una mirada.",
+        "Zafiro Alfa": "Se dice que su aparición otorgó a los humanos la inteligencia para mejorar sus vidas.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Se le conoce como el \"ser de la sabiduría\". Se dice que puede borrar la memoria con una mirada.",
+        "Perla Reluciente": "Se dice que su aparición otorgó a los humanos la inteligencia para mejorar sus vidas.",
+        "Leyendas: Arceus": "Temido y adorado, se le atribuye el poder de robar los recuerdos a la gente con maldad en su corazón. Se han hallado textos que lo describen como el Ser de la Sabiduría."
+    },
+    "evolution": [
+        [
+            "Uxie"
+        ]
+    ]
+}

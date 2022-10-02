@@ -1,0 +1,139 @@
+{
+    "dex number": "406",
+    "pokemon name": "Budew",
+    "types": [
+        "planta",
+        "veneno"
+    ],
+    "abilities": [
+        "Cura natural",
+        "Punto tóxico"
+    ],
+    "hidden abilities": [
+        "Defensa hoja"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "30",
+        "def": "35",
+        "atk esp": "50",
+        "def esp": "70",
+        "speed": "55"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Ruta 204, Ruta 212, Bosque Vetusto y Gran Pantano",
+            "Criando: de Roselia o Roserade equipado con incienso floral"
+        ],
+        "Perla": [
+            "Salvaje: Ruta 204, Ruta 212, Bosque Vetusto y Gran Pantano",
+            "Criando: de Roselia o Roserade equipado con incienso floral"
+        ],
+        "Platino": [
+            "Salvaje: Ruta 204, Ruta 205, Ruta 208 y Bosque Vetusto",
+            "Criando: de Roselia o Roserade equipado con incienso floral"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari (bosque)",
+            "Sonidos de Sinnoh: Encinar y Bosque Verde",
+            "Pokéwalker: Llano de Sinnoh"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari (bosque)",
+            "Sonidos de Sinnoh: Encinar y Bosque Verde",
+            "Pokéwalker: Llano de Sinnoh"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco"
+        ],
+        "Negro 2": [
+            "Criando: de Roselia o Roserade equipado con incienso floral"
+        ],
+        "Blanco 2": [
+            "Criando: de Roselia o Roserade equipado con incienso floral"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 4"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 4"
+        ],
+        "Rubí Omega": [
+            "Criando: de Roselia o Roserade equipado con incienso floral"
+        ],
+        "Zafiro Alfa": [
+            "Criando: de Roselia o Roserade equipado con incienso floral"
+        ],
+        "Sol": [
+            "Criando: de Roselia o Roserade equipado con incienso floral"
+        ],
+        "Luna": [
+            "Criando: de Roselia o Roserade equipado con incienso floral"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 4 o Arboleda Claroscuro",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro.",
+            "Criando: de Roselia o Roserade equipado con incienso floral"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 4 o Arboleda Claroscuro",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro.",
+            "Criando: de Roselia o Roserade equipado con incienso floral"
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Ruta 204, Ruta 212 (norte), Bosque Vetusto y Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago.",
+            "Criando: de Roselia o Roserade equipado con incienso floral."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Ruta 204, Ruta 212 (norte), Bosque Vetusto y Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago.",
+            "Criando: de Roselia o Roserade equipado con incienso floral."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pantanal Carmesí (día): Pradera Áurea, Ciénaga Bocazas. Ladera Corona (día): Fuente de las Hadas."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "En invierno cierra su capullo para protegerse del frío. En primavera el capullo se abre y esparce polen.",
+        "Perla": "Vive junto a los estanques de agua clara. Esparce polen que provoca estornudos.",
+        "Platino": "Es muy sensible a los cambios de temperatura. Se dice que si le da el sol, su capullo florece.",
+        "Oro HeartGold": "Vive cerca de aguas cristalinas. Su cabello se abre y esparce polen cuando le bañan los rayos del sol.",
+        "Plata SoulSilver": "Vive cerca de aguas cristalinas. Su cabello se abre y esparce polen cuando le bañan los rayos del sol.",
+        "Negro": "Es muy sensible a los cambios de temperatura. Se dice que si le da el sol, su capullo florece.",
+        "Blanco": "Es muy sensible a los cambios de temperatura. Se dice que si le da el sol, su capullo florece.",
+        "Negro 2": "Es muy sensible a los cambios de temperatura. Si hace calor, su capullo florece y esparce polen venenoso.",
+        "Blanco 2": "Es muy sensible a los cambios de temperatura. Si hace calor, su capullo florece y esparce polen venenoso.",
+        "Pokémon X": "Vive cerca de aguas cristalinas. Su cabello se abre y esparce polen cuando le bañan los rayos del sol.",
+        "Pokémon Y": "En invierno cierra su capullo para protegerse del frío. En primavera el capullo se abre y esparce polen.",
+        "Rubí Omega": "Vive cerca de aguas cristalinas. Su cabello se abre y esparce polen cuando le bañan los rayos del sol.",
+        "Zafiro Alfa": "En invierno cierra su capullo para protegerse del frío. En primavera el capullo se abre y esparce polen.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Conforme más pura y cristalina sea el agua de su entorno, más venenoso resulta el polen que esparce.",
+        "Escudo": "Es muy sensible a los cambios de temperatura. Anuncia la llegada inminente de la primavera cuando florece.",
+        "Diamante Brillante": "En invierno cierra su capullo para protegerse del frío. En primavera, el capullo se abre y esparce polen.",
+        "Perla Reluciente": "Vive junto a los estanques de agua clara. Esparce un polen que provoca goteo nasal y fuertes estornudos.",
+        "Leyendas: Arceus": "El capullo que corona su cabeza se abre bajo los cálidos rayos del sol, lo que para muchos es un augurio del fin del duro invierno y la llegada de la época de florecimiento."
+    },
+    "evolution": [
+        [
+            "Budew",
+            "Amistad+ nivel (día) ",
+            "Roselia",
+            "Piedra día ",
+            "Roserade"
+        ]
+    ]
+}

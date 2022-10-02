@@ -1,0 +1,137 @@
+{
+    "dex number": "466",
+    "pokemon name": "Electivire",
+    "types": [
+        "eléctrico"
+    ],
+    "abilities": [
+        "Electromotor"
+    ],
+    "hidden abilities": [
+        "Espíritu vital"
+    ],
+    "stats": {
+        "hp": "75",
+        "atk": "123",
+        "def": "67",
+        "atk esp": "95",
+        "def esp": "85",
+        "speed": "95"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado.",
+            "Especial: Transfiriéndolo de Pokémon Battle Revolution. Se puede conseguir como Pokémon especial usando el código para la versión española KN34-Q0UC-1MBX. Para la inglesa: B416-X4HT-VTWF"
+        ],
+        "Perla": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado.",
+            "Especial: Transfiriéndolo de Pokémon Battle Revolution. Se puede conseguir como Pokémon especial usando el código para la versión española KN34-Q0UC-1MBX. Para la inglesa: B416-X4HT-VTWF"
+        ],
+        "Platino": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado.",
+            "Especial: Transfiriéndolo de Pokémon Battle Revolution. Se puede conseguir como Pokémon especial usando el código para la versión española KN34-Q0UC-1MBX. Para la inglesa: B416-X4HT-VTWF"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado.",
+            "Especial: Transfiriéndolo de Pokémon Battle Revolution. Se puede conseguir como Pokémon especial usando el código para la versión española KN34-Q0UC-1MBX. Para la inglesa: B416-X4HT-VTWF"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado.",
+            "Especial: Transfiriéndolo de Pokémon Battle Revolution. Se puede conseguir como Pokémon especial usando el código para la versión española KN34-Q0UC-1MBX. Para la inglesa: B416-X4HT-VTWF"
+        ],
+        "Negro": [
+            "Dream World: Con la habilidad Espíritu vital.",
+            "Intercambiar: de Pokémon Blanco o Pokémon Blanco 2.",
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Blanco": [
+            "Dream World: Con la habilidad Espíritu vital.",
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Negro 2": [
+            "Dream World: Con la habilidad Espíritu vital.",
+            "Intercambiar: de Pokémon Blanco o Pokémon Blanco 2.",
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Blanco 2": [
+            "Dream World: Con la habilidad Espíritu vital.",
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Sol": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Luna": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Espada": [
+            "Salvaje: Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Incursiones Dinamax: Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Incursiones Dinamax: Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Electabuzz, intercambiándolo con el objeto electrizador equipado."
+        ],
+        "Leyendas: Arceus": [
+            "Pokemon alfa: Paso Píleo",
+            "Evolucionar: a Electabuzz con el electrizador.",
+            " Aparición supermasiva: Ladera Corona."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Toca a su enemigo con las puntas de sus dos colas y le suelta una descarga de 20.000 voltios.",
+        "Perla": "Toca a su enemigo con las puntas de sus dos colas y le suelta una descarga de 20.000 voltios.",
+        "Platino": "Ignora los ataques del enemigo y se acerca para clavarle las colas y darle una descarga de alto voltaje.",
+        "Oro HeartGold": "Al almacenar mucha electricidad, desprende chispas de una claridad increíble entre sus dos cuernos.",
+        "Plata SoulSilver": "Al almacenar mucha electricidad, desprende chispas de una claridad increíble entre sus dos cuernos.",
+        "Negro": "Ignora los ataques del enemigo y se acerca para clavarle las colas y darle una descarga de alto voltaje.",
+        "Blanco": "Ignora los ataques del enemigo y se acerca para clavarle las colas y darle una descarga de alto voltaje.",
+        "Negro 2": "Alcanza al enemigo con la punta de sus colas y lo electrocuta con una descarga de más de 20 000 voltios.",
+        "Blanco 2": "Alcanza al enemigo con la punta de sus colas y lo electrocuta con una descarga de más de 20 000 voltios.",
+        "Pokémon X": "Al almacenar mucha electricidad, desprende chispas de una claridad increíble entre sus dos cuernos.",
+        "Pokémon Y": "Toca a su enemigo con las puntas de sus dos colas y le suelta una descarga de más de 20 000 voltios.",
+        "Rubí Omega": "Al almacenar mucha electricidad, desprende chispas de una claridad increíble entre sus dos cuernos.",
+        "Zafiro Alfa": "Toca a su enemigo con las puntas de sus dos colas y le suelta una descarga de más de 20 000 voltios.",
+        "Sol": "Toca a su enemigo con la punta de sus colas y le suelta una descarga de alta tensión que lo deja achicharrado al instante.",
+        "Luna": "Al exaltarse, se golpea con ímpetu el pecho. Cada vez que lo hace saltan chispas y un trueno resuena por la zona.",
+        "Ultrasol": "Agarra sus colas para electrificar los puños y luego soltar puñetazos devastadores.",
+        "Ultraluna": "La electricidad que genera un solo Electivire es suficiente para cubrir la demanda energética de los edificios de una metrópoli durante un año.",
+        "Espada": "La cantidad de electricidad que genera es proporcional a su pulso. Al enzarzarse en combate, su voltaje aumenta drásticamente.",
+        "Escudo": "Es de los Pokémon de tipo Eléctrico que más electricidad producen. Genera una corriente de alta tensión desde las puntas de las colas.",
+        "Diamante Brillante": "Toca al rival con las puntas de sus dos colas y le suelta una descarga de más de 20 000 V.",
+        "Perla Reluciente": "Toca al rival con las puntas de sus dos colas y le suelta una descarga de más de 20 000 V.",
+        "Leyendas: Arceus": "Un extraño objeto provocó esta evolución. Cuanto más rápido le late el corazón, mayor electricidad genera. Sus colas liberan descargas de hasta 20 000 V."
+    },
+    "evolution": [
+        [
+            "Elekid",
+            "Nivel 30",
+            "Electabuzz",
+            "Intercambio equipadocon electrizador ",
+            "Electivire"
+        ]
+    ]
+}

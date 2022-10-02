@@ -1,0 +1,121 @@
+{
+    "dex number": "409",
+    "pokemon name": "Rampardos",
+    "types": [
+        "roca"
+    ],
+    "abilities": [
+        "Rompemoldes"
+    ],
+    "hidden abilities": [
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": "97",
+        "atk": "165",
+        "def": "60",
+        "atk esp": "65",
+        "def esp": "50",
+        "speed": "58"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Cranidos (nivel 30)"
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Diamante o Pokémon Platino."
+        ],
+        "Platino": [
+            "Evolucionar: a Cranidos (nivel 30)"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante o Pokémon Platino."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante o Pokémon Platino."
+        ],
+        "Negro": [
+            "Evolucionar: a Cranidos (nivel 30)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Cranidos (nivel 30)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Cranidos (nivel 30)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Cranidos (nivel 30)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Cranidos (nivel 30)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Cranidos (nivel 30)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Cranidos (nivel 30)"
+        ],
+        "Sol": [
+            "Evolucionar: a Cranidos (nivel 30)"
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Cranidos (nivel 30)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol."
+        ],
+        "Espada": [
+            "Rampardos no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Rampardos no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Cranidos (nivel 30)."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Distorsión espaciotemporal en la Ladera Corona.",
+            "Evolucionar: a Cranidos (nivel 30)."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Su potente cabezazo puede hacer añicos cualquier cosa.",
+        "Perla": "Su cráneo es duro como el hierro. Es tan bruto que destroza la jungla cuando persigue presas.",
+        "Platino": "Su cráneo es de 30 cm de grosor. Si dos de ellos se dan un cabezazo no les ocurrirá nada.",
+        "Oro HeartGold": "Tiene sesos pequeños porque su duro cráneo, que soporta cualquier golpe, les impide desarrollarse.",
+        "Plata SoulSilver": "Tiene sesos pequeños porque su duro cráneo, que soporta cualquier golpe, les impide desarrollarse.",
+        "Negro": "Su cráneo es de 30 cm de grosor. Si dos de ellos se dan un cabezazo no les ocurrirá nada.",
+        "Blanco": "Su cráneo es de 30 cm de grosor. Si dos de ellos se dan un cabezazo no les ocurrirá nada.",
+        "Negro 2": "Su cráneo es de 30 cm de grosor. Si dos de ellos se dan un cabezazo no les ocurrirá nada.",
+        "Blanco 2": "Su cráneo es de 30 cm de grosor. Si dos de ellos se dan un cabezazo no les ocurrirá nada.",
+        "Pokémon X": "Tiene sesos pequeños porque su duro cráneo, que soporta cualquier golpe, les impide desarrollarse.",
+        "Pokémon Y": "Su cráneo es duro como el hierro. Es tan bruto que destroza la jungla cuando persigue presas.",
+        "Rubí Omega": "Tiene sesos pequeños porque su duro cráneo, que soporta cualquier golpe, les impide desarrollarse.",
+        "Zafiro Alfa": "Su cráneo es duro como el hierro. Es tan bruto que destroza la jungla cuando persigue presas.",
+        "Sol": "Debido a los continuos cabezazos que propina, su cráneo se ha vuelto más duro y grueso. Sin embargo, tiene menos sesos que Cranidos.",
+        "Luna": "Corren historias de un Cranidos regenerado a partir de un fósil que, tras evolucionar, escapó y derribó un rascacielos de un cabezazo.",
+        "Ultrasol": "Los hombres de antaño que encontraban restos fosilizados de Rampardos usaban su cráneo, más duro que el metal, para fabricar cascos.",
+        "Ultraluna": "Pokémon prehistórico especializado en dar cabezazos. Una teoría atribuye su extinción a su cerebro pequeño y a su poca inteligencia.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Su potente cabezazo puede hacer añicos cualquier cosa, por resistente que sea.",
+        "Perla Reluciente": "Su cráneo es duro como el hierro. Es tan bruto que destroza la jungla cuando persigue presas.",
+        "Leyendas: Arceus": "Disponemos de escasa información acerca de su relación con el entorno. Con su cráneo, hermoso y liso cual perla, puede embestir y partir en dos árboles de gran tamaño."
+    },
+    "evolution": [
+        [
+            "Cranidos",
+            "Nivel 30",
+            "Rampardos"
+        ]
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "dex number": "410",
+    "pokemon name": "Shieldon",
+    "types": [
+        "roca",
+        "acero"
+    ],
+    "abilities": [
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Insonorizar"
+    ],
+    "stats": {
+        "hp": "30",
+        "atk": "42",
+        "def": "118",
+        "atk esp": "42",
+        "def esp": "88",
+        "speed": "30"
+    },
+    "location": {
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla o Platino"
+        ],
+        "Perla": [
+            "Especial: revivir el fósil coraza en el Museo Minero de Ciudad Pirita"
+        ],
+        "Platino": [
+            "Especial: revivir el fósil coraza en el Museo Minero de Ciudad Pirita. El fósil se encuentra solo si el último número del ID de entrenador es par (0, 2, 4, 6 u 8)."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Perla o Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro": [
+            "Especial: revivir el fósil coraza en el gimnasio Pokémon de Ciudad Esmalte",
+            "Dream World: Cueva Helada",
+            "Pokétransfer: de Pokémon Perla o Platino"
+        ],
+        "Blanco": [
+            "Especial: revivir el fósil coraza en el gimnasio Pokémon de Ciudad Esmalte",
+            "Dream World: Cueva Helada",
+            "Pokétransfer: de Pokémon Perla o Platino"
+        ],
+        "Negro 2": [
+            "Especial: revivir el fósil coraza en el gimnasio Pokémon de Ciudad Esmalte",
+            "Dream World: Cueva Helada",
+            "Intercambiar: cualquier Pokémon con Belinda"
+        ],
+        "Blanco 2": [
+            "Especial: revivir el fósil coraza en el gimnasio Pokémon de Ciudad Esmalte",
+            "Dream World: Cueva Helada",
+            "Intercambiar: cualquier Pokémon con Belinda"
+        ],
+        "Pokémon X": [
+            "Especial: revivir el fósil coraza en el Instituto Paleontológico"
+        ],
+        "Pokémon Y": [
+            "Especial: revivir el fósil coraza en el Instituto Paleontológico"
+        ],
+        "Rubí Omega": [
+            "Especial: revivir el fósil coraza en Devon S. A."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X, Pokémon Y o Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Revivir: fósil coraza. Se obtiene en la tienda de Mayla por un precio de 7000"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Revivir: fósil coraza. Se obtiene en la tienda de Mayla por un precio de 7000"
+        ],
+        "Espada": [
+            "Shieldon no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Shieldon no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Revivir: Fósil coraza en el Museo Minero de Ciudad Pirita. El fósil se obtiene en las Grutas del Subsuelo."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Distorsión espaciotemporal en la Ladera Corona."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Vivía en la jungla hace unos 100 millones de años. Su protección facial es tremendamente dura.",
+        "Perla": "Se abrillanta la cara frotándola contra los árboles. Es vulnerable a los ataques por la espalda.",
+        "Platino": "Gracias a su imponente protección facial, puede comer hierba y bayas donde quiera sin que le molesten.",
+        "Oro HeartGold": "Surgió de un fósil de hace 100 millones de años. Su protección facial es tremendamente dura.",
+        "Plata SoulSilver": "Surgió de un fósil de hace 100 millones de años. Su protección facial es tremendamente dura.",
+        "Negro": "Gracias a su imponente protección facial, puede comer hierba y bayas donde quiera sin que le molesten.",
+        "Blanco": "Gracias a su imponente protección facial, puede comer hierba y bayas donde quiera sin que le molesten.",
+        "Negro 2": "Gracias a su imponente protección facial, puede comer hierba y bayas donde quiera sin que le molesten.",
+        "Blanco 2": "Gracias a su imponente protección facial, puede comer hierba y bayas donde quiera sin que le molesten.",
+        "Pokémon X": "Se abrillanta la cara frotándola contra los árboles. Es vulnerable a los ataques por la espalda.",
+        "Pokémon Y": "Surgió de un fósil de hace 100 millones de años. Su protección facial es tremendamente dura.",
+        "Rubí Omega": "Se abrillanta la cara frotándola contra los árboles. Es vulnerable a los ataques por la espalda.",
+        "Zafiro Alfa": "Surgió de un fósil de hace 100 millones de años. Su protección facial es tremendamente dura.",
+        "Sol": "Se han encontrado innumerables fósiles de este Pokémon y prácticamente ninguno presenta daños en la parte facial.",
+        "Luna": "Debido a la extraordinaria dureza de su rostro, se piensa que tenía pocos enemigos. Vivía en las junglas prehistóricas.",
+        "Ultrasol": "Un Pokémon herbívoro de carácter afable. Con su dura protección facial podía desenterrar las raíces de los árboles para comérselas.",
+        "Ultraluna": "Los fósiles que se han encontrado hasta ahora en estratos prehistóricos pertenecen solo a su cara.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Vivía en la jungla hace unos cien millones de años. Su protección facial es tremendamente dura.",
+        "Perla Reluciente": "Se abrillanta la cara frotándola contra los troncos de los árboles. Es vulnerable a los ataques por la espalda.",
+        "Leyendas: Arceus": "Un Pokémon rodeado de misterio, ya que son pocos los que han logrado avistarlo. De carácter pacífico, prefiere pulir su rostro con rocas y árboles que enzarzarse en disputas."
+    },
+    "evolution": [
+        [
+            "Shieldon",
+            "Nivel 30",
+            "Bastiodon"
+        ]
+    ]
+}

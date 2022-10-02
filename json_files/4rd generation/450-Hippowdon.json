@@ -1,0 +1,130 @@
+{
+    "dex number": "450",
+    "pokemon name": "Hippowdon",
+    "types": [
+        "tierra"
+    ],
+    "abilities": [
+        "Chorro arena"
+    ],
+    "hidden abilities": [
+        "Poder arena"
+    ],
+    "stats": {
+        "hp": "108",
+        "atk": "112",
+        "def": "118",
+        "atk esp": "68",
+        "def esp": "72",
+        "speed": "47"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: ruta 228.",
+            "Evolucionar: a Hippopotas (nivel 34)."
+        ],
+        "Perla": [
+            "Salvaje: ruta 228.",
+            "Evolucionar: a Hippopotas (nivel 34)."
+        ],
+        "Platino": [
+            "Salvaje: ruta 228.",
+            "Evolucionar: a Hippopotas (nivel 34)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Hippopotas (nivel 34)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Hippopotas (nivel 34)."
+        ],
+        "Negro": [
+            "Evolucionar: a Hippopotas (nivel 34)."
+        ],
+        "Blanco": [
+            "Evolucionar: a Hippopotas (nivel 34)."
+        ],
+        "Negro 2": [
+            "Manada: Zona Desierto."
+        ],
+        "Blanco 2": [
+            "Manada: Zona Desierto."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Hippopotas (nivel 34)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Hippopotas (nivel 34)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: De Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: De Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo."
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado, Espejo del Gigante, Ruta 8",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al noreste junto a formación rocosa y Cuenca Polvorienta, nido al oeste de la losa de piedra elevada."
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado, Espejo del Gigante, Ruta 8",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al noreste junto a formación rocosa y Cuenca Polvorienta, nido al oeste de la losa de piedra elevada."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: ruta 228.",
+            "Evolucionar: a Hippopotas (nivel 34)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: ruta 228.",
+            "Evolucionar: a Hippopotas (nivel 34)."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Hippopotas (nivel 34)",
+            "Salvaje: Loma Lodosa y Ciénaga Bermeja",
+            "Aparición supermasiva: Ladera Corona y Pantanal Carmesí",
+            "Pokémon alfa:Loma Lodosa"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Cuando ataca, expulsa arena almacenada en su interior para crear un gran tornado.",
+        "Perla": "Su enorme boca mide casi 2 m. Es tan fuerte que puede aplastar un coche por completo.",
+        "Platino": "Mantiene la boca abierta para mostrar su fuerza. Se enfada con sorprendente rapidez.",
+        "Oro HeartGold": "Hace gala de su fuerza abriendo su enorme boca. Para atacar levanta gran cantidad de arena.",
+        "Plata SoulSilver": "Hace gala de su fuerza abriendo su enorme boca. Para atacar levanta gran cantidad de arena.",
+        "Negro": "Mantiene la boca abierta para mostrar su fuerza. Se enfada con sorprendente rapidez.",
+        "Blanco": "Mantiene la boca abierta para mostrar su fuerza. Se enfada con sorprendente rapidez.",
+        "Negro 2": "Mantiene la boca abierta para mostrar su fuerza. Se enfada con sorprendente rapidez.",
+        "Blanco 2": "Mantiene la boca abierta para mostrar su fuerza. Se enfada con sorprendente rapidez.",
+        "Pokémon X": "Hace gala de su fuerza abriendo su enorme boca. Para atacar levanta gran cantidad de arena.",
+        "Pokémon Y": "Cuando ataca, expulsa arena almacenada en su interior para crear un gran tornado.",
+        "Rubí Omega": "Hace gala de su fuerza abriendo su enorme boca. Para atacar levanta gran cantidad de arena.",
+        "Zafiro Alfa": "Cuando ataca, expulsa arena almacenada en su interior para crear un gran tornado.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Protege con celo a los Dwebble, ya que le ayudan a liberarse de las piedras que a veces le obturan los orificios del lomo.",
+        "Escudo": "Puede ser muy agresivo cuando se enfada. Provoca auténticas tempestades de arena al expeler la que ha tragado.",
+        "Diamante Brillante": "Cuando ataca, expele arena almacenada en su interior por los orificios del lomo para crear un gran tornado.",
+        "Perla Reluciente": "Su enorme boca mide 2 m. Es tan fuerte que puede aplastar un automóvil por completo.",
+        "Leyendas: Arceus": "Carga contra el enemigo tras desalentarlo con torbellinos de arena. Es tan temperamental como impulsivo."
+    },
+    "evolution": [
+        [
+            "Hippopotas",
+            "Nivel 34",
+            "Hippowdon"
+        ]
+    ]
+}

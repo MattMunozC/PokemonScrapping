@@ -1,0 +1,135 @@
+{
+    "dex number": "454",
+    "pokemon name": "Toxicroak",
+    "types": [
+        "veneno",
+        "lucha"
+    ],
+    "abilities": [
+        "Anticipación",
+        "Piel seca"
+    ],
+    "hidden abilities": [
+        "Toque tóxico"
+    ],
+    "stats": {
+        "hp": "83",
+        "atk": "106",
+        "def": "65",
+        "atk esp": "86",
+        "def esp": "65",
+        "speed": "85"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Gran Pantano, después de obtener la Pokédex Nacional.",
+            "Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Perla": [
+            "Salvaje: Gran Pantano, después de obtener la Pokédex Nacional.",
+            "Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Platino": [
+            "Salvaje: Gran Pantano, después de obtener la Pokédex Nacional.",
+            "Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Negro": [
+            "Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Blanco": [
+            "Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Negro 2": [
+            "Salvaje: Bosque Azulejo.",
+            " Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Bosque Azulejo.",
+            " Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo veneno.",
+            "Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo veneno.",
+            "Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo."
+        ],
+        "Escudo": [
+            "Salvaje: Llanura Pétrea",
+            " Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Gran Pantano.",
+            "Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Gran Pantano.",
+            "Evolucionar: a Croagunk (nivel 37)."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Croagunk (nivel 37).",
+            "Salvaje: Banco del Juicio, Vía Manantial y Cantera Ancestral",
+            "Aparición supermasiva: Pantanal Carmesí.",
+            "Pokémon alfa: Banco del Juicio"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Sus garras segregan una toxina tan potente que un simple arañazo puede ser mortal.",
+        "Perla": "Sus bolsas venenosas almacenan una toxina que le llega a las garras por unos tubos en los brazos.",
+        "Platino": "Almacena veneno en una bolsa de la garganta. Cuando croa, este se agita para lograr mayor potencia.",
+        "Oro HeartGold": "Evita los ataques enemigos con su ágil cuerpo al tiempo que les inyecta el veneno de su pecho.",
+        "Plata SoulSilver": "Evita los ataques enemigos con su ágil cuerpo al tiempo que les inyecta el veneno de su pecho.",
+        "Negro": "Almacena veneno en una bolsa de la garganta. Cuando croa, este se agita para lograr mayor potencia.",
+        "Blanco": "Almacena veneno en una bolsa de la garganta. Cuando croa, este se agita para lograr mayor potencia.",
+        "Negro 2": "Antes de un combate, Toxicroak emite un alarido que relaja su bolsa de veneno y libera toxinas.",
+        "Blanco 2": "Antes de un combate, Toxicroak emite un alarido que relaja su bolsa de veneno y libera toxinas.",
+        "Pokémon X": "Almacena veneno en una bolsa de la garganta. Cuando croa, este se agita para lograr mayor potencia.",
+        "Pokémon Y": "Sus garras segregan una toxina tan potente que un simple arañazo puede ser mortal.",
+        "Rubí Omega": "Almacena veneno en una bolsa de la garganta. Cuando croa, este se agita para lograr mayor potencia.",
+        "Zafiro Alfa": "Sus garras segregan una toxina tan potente que un simple arañazo puede ser mortal.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Se abalanza sobre el rival y lo destroza con sus garras venenosas. Basta un rasguño para debilitar al adversario.",
+        "Escudo": "Cuando abate una presa, emite un croar de victoria a pleno pulmón. Está emparentado con los Seismitoad.",
+        "Diamante Brillante": "Sus garras segregan una toxina tan potente que un simple arañazo puede ser mortal.",
+        "Perla Reluciente": "Produce una toxina en su bolsa de veneno que le llega a las garras por unos tubos en los brazos.",
+        "Leyendas: Arceus": "Las toxinas que segregan sus garras bermejas se transforman en una potente medicina si se diluyen e infunden junto a ciertas hierbas durante dos días."
+    },
+    "evolution": [
+        [
+            "Croagunk",
+            "Nivel 37",
+            "Toxicroak"
+        ]
+    ]
+}

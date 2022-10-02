@@ -1,0 +1,137 @@
+{
+    "dex number": "451",
+    "pokemon name": "Skorupi",
+    "types": [
+        "veneno",
+        "bicho"
+    ],
+    "abilities": [
+        "Armadura batalla",
+        "Francotirador"
+    ],
+    "hidden abilities": [
+        "Vista lince"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "50",
+        "def": "90",
+        "atk esp": "30",
+        "def esp": "55",
+        "speed": "65"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Gran Pantano"
+        ],
+        "Perla": [
+            "Salvaje: Gran Pantano"
+        ],
+        "Platino": [
+            "Salvaje: Gran Pantano"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari, después de haber obtenido la Pokédex Nacional"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari, después de haber obtenido la Pokédex Nacional"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Monte Escarpado"
+        ],
+        "Negro 2": [
+            "Salvaje: Montaña Reversia",
+            "Claro oculto: Ruta 13",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco 2": [
+            "Salvaje: Montaña Reversia",
+            "Claro oculto: Ruta 13",
+            "Dream World: Monte Escarpado"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 14, ruta 15 y ruta 16"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 14, ruta 15 y ruta 16"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 114, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 114, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Drapion"
+        ],
+        "Ultraluna": [
+            "Criar: de Drapion"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 6",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 6",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Playa Ginkgo y Playa del Errante",
+            "Aparición supermasiva: Costa Cobalto y Pantanal Carmesí"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Agarra a sus presas con las garras de la cola y les inyecta veneno. Espera hasta que hace efecto.",
+        "Perla": "Vive en zonas áridas. Se entierra en la arena y espera a que pase una presa confiada.",
+        "Platino": "Aferra las presas con las garras de la cola y les inyecta veneno. Sobrevive un año sin comida.",
+        "Oro HeartGold": "Acecha a sus presas escondido en la arena y las aturde con el veneno de las garras de su cola.",
+        "Plata SoulSilver": "Acecha a sus presas escondido en la arena y las aturde con el veneno de las garras de su cola.",
+        "Negro": "Aferra las presas con las garras de la cola y les inyecta veneno. Sobrevive un año sin comida.",
+        "Blanco": "Aferra las presas con las garras de la cola y les inyecta veneno. Sobrevive un año sin comida.",
+        "Negro 2": "Vive en regiones áridas. Puede aguantar un año sin comer mientras espera a su presa.",
+        "Blanco 2": "Vive en regiones áridas. Puede aguantar un año sin comer mientras espera a su presa.",
+        "Pokémon X": "Agarra a sus presas con las garras de la cola y les inyecta veneno. Espera hasta que hace efecto.",
+        "Pokémon Y": "Acecha a sus presas escondido en la arena y las aturde con el veneno de las garras de su cola.",
+        "Rubí Omega": "Agarra a sus presas con las garras de la cola y les inyecta veneno. Espera hasta que hace efecto.",
+        "Zafiro Alfa": "Acecha a sus presas escondido en la arena y las aturde con el veneno de las garras de su cola.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Se entierra en la arena y aguarda inmóvil a sus presas. Sus antepasados están relacionados con los de Sizzlipede.",
+        "Escudo": "Ataca con las pinzas venenosas de la cola. Tras clavarlas, inyecta una toxina que inmoviliza a la presa.",
+        "Diamante Brillante": "Agarra a sus presas con las pinzas de la cola, les inyecta veneno y espera pacientemente hasta que hace efecto.",
+        "Perla Reluciente": "Vive en zonas áridas. Se entierra en la arena y espera a que pase una presa confiada.",
+        "Leyendas: Arceus": "Un Pokémon extremadamente peligroso debido a sus afiladas pinzas repletas de veneno. Parece no tolerar bien las bajas temperaturas."
+    },
+    "evolution": [
+        [
+            "Skorupi",
+            "Nivel 40",
+            "Drapion"
+        ]
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "dex number": "477",
+    "pokemon name": "Dusknoir",
+    "types": [
+        "fantasma"
+    ],
+    "abilities": [
+        "Presión"
+    ],
+    "hidden abilities": [
+        "Cacheo"
+    ],
+    "stats": {
+        "hp": "45",
+        "atk": "100",
+        "def": "135",
+        "atk esp": "65",
+        "def esp": "135",
+        "speed": "45"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Perla": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Platino": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Negro": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Blanco": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Llanura Pétrea",
+            "Incursiones Dinamax: Con posible habilidad oculta: Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte y Llanura Pétrea, nido al noreste junto a una pared 2.",
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Escudo": [
+            "Salvaje: Llanura Pétrea",
+            "Incursiones Dinamax: Con posible habilidad oculta: Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte y Llanura Pétrea, nido al noreste junto a una pared 2.",
+            "Evolucionar: a Dusclops, intercambiándolo con telaterrible equipado."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Dusclops, intercambiándolo con tela terrible equipado."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Dusclops, intercambiándolo con tela terrible equipado."
+        ],
+        "Leyendas: Arceus": [
+            "Pokémon alfa: Arboleda Tétrica (noche)",
+            "Evolucionar: a Dusclops con tela terrible.",
+            "Aparición supermasiva: Ladera Corona y Tundra Alba"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "La antena de la cabeza captura ondas de radio lejanas que le permiten secuestrar a gente.",
+        "Perla": "La antena de la cabeza captura ondas de radio lejanas que le permiten secuestrar a gente.",
+        "Platino": "Se dice que recoge en su cuerpo flexible a los espíritus extraviados y los guía hasta casa.",
+        "Oro HeartGold": "Viaja a su antojo al más allá. Es temido porque se cree que absorbe almas errantes.",
+        "Plata SoulSilver": "Viaja a su antojo al más allá. Es temido porque se cree que absorbe almas errantes.",
+        "Negro": "Se dice que recoge en su cuerpo flexible a los espíritus extraviados y los guía hasta casa.",
+        "Blanco": "Se dice que recoge en su cuerpo flexible a los espíritus extraviados y los guía hasta casa.",
+        "Negro 2": "Se dice que recoge en su cuerpo flexible a los espíritus extraviados y los guía hasta casa.",
+        "Blanco 2": "Se dice que recoge en su cuerpo flexible a los espíritus extraviados y los guía hasta casa.",
+        "Pokémon X": "Se dice que recoge en su cuerpo flexible a los espíritus extraviados y los guía hasta casa.",
+        "Pokémon Y": "La antena de la cabeza capta ondas de otra dimensión que le incitan a llevarse allí a la gente.",
+        "Rubí Omega": "Se dice que recoge en su cuerpo flexible a los espíritus extraviados y los guía hasta casa.",
+        "Zafiro Alfa": "La antena de la cabeza capta ondas de otra dimensión que le incitan a llevarse allí a la gente.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Se desconoce si posee voluntad propia. Capta ondas de otra dimensión que le incitan a llevarse allí a humanos y Pokémon.",
+        "Escudo": "Engulle a los rivales con la boca del estómago y, tras haber devorado el alma, escupe el cuerpo.",
+        "Diamante Brillante": "La antena de la cabeza capta ondas de otra dimensión que lo incitan a llevarse allí a la gente.",
+        "Perla Reluciente": "La antena de la cabeza capta ondas de otra dimensión que lo incitan a llevarse allí a la gente.",
+        "Leyendas: Arceus": "Aparece junto a aquellos al borde de la muerte y conduce sus almas al inframundo. En ocasiones erra y se lleva el alma de gente a la que todavía no le había llegado su hora."
+    },
+    "evolution": [
+        [
+            "Duskull",
+            "Nivel 37",
+            "Dusclops",
+            "Intercambio equipadocon tela terrible ",
+            "Dusknoir"
+        ]
+    ]
+}

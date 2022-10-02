@@ -1,0 +1,135 @@
+{
+    "dex number": "425",
+    "pokemon name": "Drifloon",
+    "types": [
+        "fantasma",
+        "volador"
+    ],
+    "abilities": [
+        "Detonación",
+        "Liviano"
+    ],
+    "hidden abilities": [
+        "Ímpetu ardiente"
+    ],
+    "stats": {
+        "hp": "90",
+        "atk": "50",
+        "def": "34",
+        "atk esp": "60",
+        "def esp": "44",
+        "speed": "70"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: en el Valle Eólico, uno cada viernes, durante todo el día (nivel 22) tras vencer al Equipo Galaxia. ImagenUn Drifloon en el Valle Eólico.."
+        ],
+        "Perla": [
+            "Salvaje: en el Valle Eólico, uno cada viernes, durante todo el día (nivel 22) tras vencer al Equipo Galaxia. ImagenUn Drifloon en el Valle Eólico.."
+        ],
+        "Platino": [
+            "Salvaje: en el Valle Eólico, uno cada viernes, durante todo el día (nivel 15) tras vencer al Equipo Galaxia. ImagenUn Drifloon en el Valle Eólico.."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: Desde Pokémon Diamante y Perla o Pokémon Platino."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: Desde Pokémon Diamante y Perla o Pokémon Platino."
+        ],
+        "Negro": [
+            "Criando: de Drifblim.",
+            "Dream World: con la habilidad Ímpetu ardiente."
+        ],
+        "Blanco": [
+            "Criando: de Drifblim.",
+            "Dream World: con la habilidad Ímpetu ardiente."
+        ],
+        "Negro 2": [
+            "Claro Oculto: Ruta 13.",
+            "Criando: de Drifblim.",
+            "Dream World: con la habilidad Ímpetu ardiente.",
+            "RAdar Pokémon: (gotas oníricas rosas o verdes) con la habilidad Ímpetu ardiente."
+        ],
+        "Blanco 2": [
+            "Claro Oculto: Ruta 13.",
+            "Criando: de Drifblim.",
+            "Dream World: con la habilidad Ímpetu ardiente.",
+            "RAdar Pokémon: (gotas oníricas rosas o verdes) con la habilidad Ímpetu ardiente."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 8."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 8."
+        ],
+        "Rubí Omega": [
+            "Salvaje: usando Ultravuelo en manadas."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: usando Ultravuelo en manadas."
+        ],
+        "Sol": [
+            "Salvaje: Cementerio de Hauoli (de día)."
+        ],
+        "Luna": [
+            "Salvaje: Cementerio de Hauoli (de día)."
+        ],
+        "Ultrasol": [
+            "Salvaje: Cementerio de Hauoli (de día).",
+            "Especial: Escuela de entrenadores."
+        ],
+        "Ultraluna": [
+            "Salvaje: Cementerio de Hauoli (de día).",
+            "Especial: Escuela de entrenadores."
+        ],
+        "Espada": [
+            "Salvaje: Ruta 5, Antigua Atalaya, Lago Milotic (norte), Lago Milotic (sur).",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste y Llanura Pétrea, nido al noreste junto a una pared 2."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 5, Antigua Atalaya, Lago Milotic (norte), Lago Milotic (sur).",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste y Llanura Pétrea, nido al noreste junto a una pared 2."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: en el Valle Eólico, uno cada viernes, durante todo el día (nivel 22) tras vencer al Equipo Galaxia."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: en el Valle Eólico, uno cada viernes, durante todo el día (nivel 22) tras vencer al Equipo Galaxia."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje (solo de noche): Colina del Anhelo, Prado Herradura, Campo Aromaflor, Isla Hansa, Playa Ginkgo, Albuferas Chapuzón, Arboleda Tétrica, Bahía Silente, Témpano Avalugg, Terraza Glaciar, Peñasco Espíritu.",
+            "Aparición supermasiva: Pradera Obsidiana y Tundra Alba."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Está formado por los espíritus de personas y Pokémon. Le encantan las estaciones húmedas.",
+        "Perla": "Agarra las manos de los niños para llevárselos, pero siempre acaba siendo arrastrado.",
+        "Platino": "Por esa forma que tiene de flotar sin rumbo, en un cuento se le apodó \"Globo aeroerrático\".",
+        "Oro HeartGold": "Se dice que a veces desaparecen niños que agarran un Drifloon pensando que es un globo.",
+        "Plata SoulSilver": "Se dice que a veces desaparecen niños que agarran un Drifloon pensando que es un globo.",
+        "Negro": "Por esa forma que tiene de flotar sin rumbo, en un cuento se le apodó \"Globo aeroerrático\".",
+        "Blanco": "Por esa forma que tiene de flotar sin rumbo, en un cuento se le apodó \"Globo aeroerrático\".",
+        "Negro 2": "Se dice que es como un hito que guía a las almas. Los niños que sostienen un Drifloon a veces desaparecen sin más.",
+        "Blanco 2": "Se dice que es como un hito que guía a las almas. Los niños que sostienen un Drifloon a veces desaparecen sin más.",
+        "Pokémon X": "Está formado por los espíritus de personas y Pokémon. Le encantan las estaciones húmedas.",
+        "Pokémon Y": "Se dice que es como un hito de guía a las almas. Los niños que sostienen un Drifloon a veces desaparecen sin más.",
+        "Rubí Omega": "Está formado por los espíritus de personas y Pokémon. Le encantan las estaciones húmedas.",
+        "Zafiro Alfa": "Se dice que es como un hito de guía a las almas. Los niños que sostienen un Drifloon a veces desaparecen sin más.",
+        "Sol": "Se dice que coge a niños pequeños de la mano y se los lleva al otro mundo. Prefiere a los niños que no pesan mucho.",
+        "Luna": "Si por alguna razón su cuerpo llega a reventar, emite un sonido parecido al de un grito al tiempo que se escapa su energía vital.",
+        "Ultrasol": "En el interior de su cuerpo redondo almacena gran número de almas. Aumenta de tamaño con cada persona que se lleva.",
+        "Ultraluna": "Está formado por espíritus errantes que vagan por los caminos. Se lleva a los niños de la mano para entablar amistad con ellos.",
+        "Espada": "Se acerca a los niños en busca de compañía, pero lo tratan como un juguete y a menudo tiene que salir huyendo.",
+        "Escudo": "Está formado por una aglomeración de espíritus. Suele aparecer en grandes números durante las estaciones húmedas.",
+        "Diamante Brillante": "Está formado por los espíritus de personas y Pokémon. Le encantan las estaciones húmedas.",
+        "Perla Reluciente": "Agarra las manos de los niños para llevárselos al otro mundo, pero siempre son estos los que acaban arrastrándolo a él.",
+        "Leyendas: Arceus": "Se dice que embauca a los niños para llevárselos al más allá. También que está formado por almas humanas reencarnadas, mas desconocemos la veracidad de dicha afirmación."
+    },
+    "evolution": [
+        [
+            "Drifloon",
+            "Nivel 28",
+            "Drifblim"
+        ]
+    ]
+}

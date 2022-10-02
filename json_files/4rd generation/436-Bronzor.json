@@ -1,0 +1,133 @@
+{
+    "dex number": "436",
+    "pokemon name": "Bronzor",
+    "types": [
+        "acero",
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación",
+        "Ignífugo"
+    ],
+    "hidden abilities": [
+        "Metal pesado"
+    ],
+    "stats": {
+        "hp": "57",
+        "atk": "24",
+        "def": "86",
+        "atk esp": "24",
+        "def esp": "86",
+        "speed": "23"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: ruta 206, Cueva Extravío, Monte Corona y Cueva Retorno."
+        ],
+        "Perla": [
+            "Salvaje: ruta 206, Cueva Extravío, Monte Corona y Cueva Retorno."
+        ],
+        "Platino": [
+            "Salvaje: ruta 211, Cueva Extravío, Monte Corona y Cueva Retorno."
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Sinnoh: Pozo Slowpoke, Cueva Unión, Cueva Oscura, Islas Remolino, Monte Plateado, Ruta Helada, Cueva Escalada (The Cliff Cave) (Nueva en Johto), Cueva Diglett, Monte Moon, Cueva Celeste, Túnel Roca, Islas Espuma, Calle Victoria y Cataratas Tohjo.",
+            "Pokéwalker: Vía Campeón."
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Sinnoh: Pozo Slowpoke, Cueva Unión, Cueva Oscura, Islas Remolino, Monte Plateado, Ruta Helada, Cueva Escalada (The Cliff Cave) (Nueva en Johto), Cueva Diglett, Monte Moon, Cueva Celeste, Túnel Roca, Islas Espuma, Calle Victoria y Cataratas Tohjo.",
+            "Pokéwalker: Vía Campeón."
+        ],
+        "Negro": [
+            "Criando: de Bronzong.",
+            "Dream World: Villa Antigua con la habilidad Metal pesado.",
+            "Pokétransfer: transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Criando: de Bronzong.",
+            "Dream World: Villa Antigua con la habilidad Metal pesado.",
+            "Pokétransfer: transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Salvaje: Santuario Abundancia.",
+            "Dream World: Villa Antigua con la habilidad Metal pesado."
+        ],
+        "Blanco 2": [
+            "Salvaje: Santuario Abundancia.",
+            "Dream World: Villa Antigua con la habilidad Metal pesado."
+        ],
+        "Pokémon X": [
+            "Criando: de Bronzong."
+        ],
+        "Pokémon Y": [
+            "Criando: de Bronzong."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cima del Monte Pírico."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cima del Monte Pírico."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cornisa de Artejo, nido al sureste, Cuenca Polvorienta, nido al noroeste entre troncos, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al sureste, Ribera de Pistón, nido al este, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cornisa de Artejo, nido al sureste, Cuenca Polvorienta, nido al noroeste entre troncos, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al sureste, Ribera de Pistón, nido al este, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: ruta 206, Cueva Extravío, Monte Corona y Cueva Retorno.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: ruta 206, Cueva Extravío, Monte Corona y Cueva Retorno.",
+            "Grutas del Subsuelo: Cueva Arenosa, Cueva Rocosa, Caverna Peñasco, Cueva Destello, Cueva Centelleo, Caverna Claroestela, Cueva Témpano, Cueva Carámbano y Caverna Glaciar."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Cantera Ancestral, Risco Riscoso, Cañón Lítico, Ruinas Celestiales, Lago Agudeza y Templo Puntaneva.",
+            "Aparición supermasiva: Pantanal Carmesí, Ladera Corona y Tundra Alba."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Se descubrieron herramientas con su forma en tumbas antiguas, pero se desconoce si tiene relación.",
+        "Perla": "Se intentó comprobar su estructura corporal mediante rayos X, pero no apareció nada.",
+        "Platino": "Algunos investigadores creen que antiguamente este Pokémon reflejaba las cosas como un espejo.",
+        "Oro HeartGold": "Antaño se creía que en los dibujos de su parte posterior residía una fuerza misteriosa.",
+        "Plata SoulSilver": "Antaño se creía que en los dibujos de su parte posterior residía una fuerza misteriosa.",
+        "Negro": "Algunos investigadores creen que antiguamente este Pokémon reflejaba las cosas como un espejo.",
+        "Blanco": "Algunos investigadores creen que antiguamente este Pokémon reflejaba las cosas como un espejo.",
+        "Negro 2": "Puede encontrarse en tumbas antiguas. Se dice que los símbolos inscritos en su espalda le confieren poderes extraños.",
+        "Blanco 2": "Puede encontrarse en tumbas antiguas. Se dice que los símbolos inscritos en su espalda le confieren poderes extraños.",
+        "Pokémon X": "Antaño se creía que en los dibujos de su parte posterior residía una fuerza misteriosa.",
+        "Pokémon Y": "Se descubrieron herramientas con su forma en tumbas antiguas, pero se desconoce si tiene relación.",
+        "Rubí Omega": "Antaño se creía que en los dibujos de su parte posterior residía una fuerza misteriosa.",
+        "Zafiro Alfa": "Se descubrieron herramientas con su forma en tumbas antiguas, pero se desconoce si tiene relación.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Puede encontrarse en ruinas antiguas. El dibujo que presenta en el cuerpo es un misterio, ya que pertenece a una cultura ajena a Galar.",
+        "Escudo": "Se dice que brilla y refleja la verdad al pulirlo, aunque es algo que detesta.",
+        "Diamante Brillante": "Se descubrieron herramientas con su forma en tumbas antiguas, pero se desconoce si tienen relación.",
+        "Perla Reluciente": "Se intentó examinar su estructura corporal mediante rayos X, pero no apareció nada.",
+        "Leyendas: Arceus": "Levita bajo el influjo de una energía misteriosa. El símbolo de su espalda se considera sagrado y puede verse inscrito en algunas lápidas antiguas."
+    },
+    "evolution": [
+        [
+            "Bronzor",
+            "Nivel 33",
+            "Bronzong"
+        ]
+    ]
+}

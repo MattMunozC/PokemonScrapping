@@ -1,0 +1,131 @@
+{
+    "dex number": "428",
+    "pokemon name": "Lopunny",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Gran encanto",
+        "Zoquete"
+    ],
+    "hidden abilities": [
+        "Flexibilidad"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "76",
+        "def": "84",
+        "atk esp": "54",
+        "def esp": "96",
+        "speed": "105"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Buneary (nivel + alta amistad)."
+        ],
+        "Perla": [
+            "Evolucionar: a Buneary (nivel + alta amistad)."
+        ],
+        "Platino": [
+            "Evolucionar: a Buneary (nivel + alta amistad)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Buneary (nivel + alta amistad)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Buneary (nivel + alta amistad)."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Negro 2": [
+            "Salvaje: Solar de Ciudad Porcelana (cuando la hierba se mueve).",
+            "Evolucionar: a Buneary (nivel + alta amistad)."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Buneary (nivel + alta amistad)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Buneary (nivel + alta amistad)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Salvaje: Bosque de Poni (Como refuerzo).",
+            "Evolucionar: a Buneary (nivel + alta amistad)."
+        ],
+        "Ultraluna": [
+            "Salvaje: Bosque de Poni (Como refuerzo).",
+            "Evolucionar: a Buneary (nivel + alta amistad)."
+        ],
+        "Espada": [
+            "Salvaje: Prado Reverencia , Humedal Frescor  y Playa Desafío ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Humedal Frescor , Mar Andana  y Mar Islejos ",
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Salvaje: Prado Reverencia , Humedal Frescor  y Playa Desafío ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Humedal Frescor , Mar Andana  y Mar Islejos ",
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Buneary (nivel + alta amistad)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Buneary (nivel + alta amistad)."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Buneary (nivel + amistad)",
+            "Salvaje:Bosque Recóndito, Páramo Algente, Termas Nevavista",
+            "Pokémon alfa: Bosque Recóndito.",
+            "Aparición supermasiva: Pradera Obsidiana y Tundra Alba."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Es un Pokémon muy precavido. Si siente peligro, se envuelve con el pelaje de sus orejas.",
+        "Perla": "Se preocupa de su imagen y siempre se arregla las orejas. Corre dando saltos enérgicos.",
+        "Platino": "Sus orejas son muy delicadas. Si alguien las toca con brusquedad, recibirá una espléndida patada.",
+        "Oro HeartGold": "Cada seis meses cambia su pelaje, que en las estaciones frías se vuelve muy suave y de gran calidad.",
+        "Plata SoulSilver": "Cada seis meses cambia su pelaje, que en las estaciones frías se vuelve muy suave y de gran calidad.",
+        "Negro": "Sus orejas son muy delicadas. Si alguien las toca con brusquedad, recibirá una espléndida patada.",
+        "Blanco": "Sus orejas son muy delicadas. Si alguien las toca con brusquedad, recibirá una espléndida patada.",
+        "Negro 2": "Este Pokémon resulta muy precavido. Si siente peligro, escapa corriendo a grandes saltos.",
+        "Blanco 2": "Este Pokémon resulta muy precavido. Si siente peligro, escapa corriendo a grandes saltos.",
+        "Pokémon X": "Este Pokémon resulta muy precavido. Si siente peligro, escapa corriendo a grandes saltos.",
+        "Pokémon Y": "Sus orejas son muy delicadas. Si alguien las toca con brusquedad, recibirá una espléndida patada.",
+        "Rubí Omega": "Este Pokémon resulta muy precavido. Si siente peligro, escapa corriendo a grandes saltos.",
+        "Zafiro Alfa": "Sus orejas son muy delicadas. Si alguien las toca con brusquedad, recibirá una espléndida patada.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "\nLopunny: Muda el pelo dos veces al año. Este se usa en la confección de unos gorros y bufandas que abrigan mucho.\nMega-Lopunny: Utiliza las orejas a modo de látigo para fustigar al enemigo. Posee un temperamento violento y combativo.",
+        "Ultraluna": "\nLopunny: Es cauteloso y nada amante de los combates, pero puede propinar potentes patadas si la situación lo requiere.\nMega-Lopunny: La megaevolución despierta en él un instinto guerrero y le permite librarse del pelaje que le estorbaba a la hora de atacar.",
+        "Espada": "Está siempre atento a lo que ocurre a su alrededor. Si advierte peligro, se defenderá con patadas de potencia devastadora.",
+        "Escudo": "Cuando acaba la estación más tórrida, le crece un nuevo pelaje muy mullido que lo prepara para el frío.",
+        "Diamante Brillante": "Es un Pokémon muy precavido. Si siente peligro, se envuelve con el suave pelaje de sus orejas.",
+        "Perla Reluciente": "Se preocupa de su imagen y siempre se está acicalando las orejas. Corre con saltos enérgicos.",
+        "Leyendas: Arceus": "Su pelaje es cálido y sorprendentemente ligero. Propina patadas dignas de un karateka, con las que repele fácilmente a sus enemigos."
+    },
+    "evolution": [
+        [
+            "Buneary",
+            "Amistad + nivel",
+            "Lopunny"
+        ]
+    ]
+}

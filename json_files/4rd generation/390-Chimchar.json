@@ -1,0 +1,130 @@
+{
+    "dex number": "390",
+    "pokemon name": "Chimchar",
+    "types": [
+        "fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Puño férreo"
+    ],
+    "stats": {
+        "hp": "44",
+        "atk": "58",
+        "def": "44",
+        "atk esp": "58",
+        "def esp": "44",
+        "speed": "61"
+    },
+    "location": {
+        "Diamante": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. En el Lago Veraz, en el maletín del Profesor Serbal. Sólo uno, al nivel 5."
+        ],
+        "Perla": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. En el Lago Veraz, en el maletín del Profesor Serbal. Sólo uno, al nivel 5."
+        ],
+        "Platino": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir en la Ruta 201 al nivel 5, te lo da el Profesor Serbal."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: desde Pokémon Diamante, Perla o Platino.",
+            "Evento: Sólo en Japón en septiembre de 2009 y 2010, al nivel 40 y macho, capturado en una Gloria Ball. También viene con una cinta principal."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: desde Pokémon Diamante, Perla o Platino.",
+            "Evento: Sólo en Japón en septiembre de 2009 y 2010, al nivel 40 y macho, capturado en una Gloria Ball. También viene con una cinta principal."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador transferir de Pokémon Blanco, Pokémon Negro, Pokémon Blanco 2 y Pokémon Negro 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador transferir de Pokémon Blanco, Pokémon Negro, Pokémon Blanco 2 y Pokémon Negro 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Especial: Es uno de los tres iniciales de Sinnoh que entrega el profesor Abedul después de ganar la liga por segunda vez. Solo uno, al nivel 5."
+        ],
+        "Zafiro Alfa": [
+            "Especial: Es uno de los tres iniciales de Sinnoh que entrega el profesor Abedul después de ganar la liga por segunda vez. Solo uno, al nivel 5."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Criando: de Monferno"
+        ],
+        "Ultraluna": [
+            "Criando: de Monferno"
+        ],
+        "Espada": [
+            "Chimchar no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Chimchar no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. En el Lago Veraz, en el maletín del Profesor Serbal. Sólo uno, al nivel 5.",
+            "Grutas del Subsuelo: Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Perla Reluciente": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. En el Lago Veraz, en el maletín del Profesor Serbal. Sólo uno, al nivel 5.",
+            "Grutas del Subsuelo: Cueva Llama, Cueva Magma, Caverna Typhlosion y Cueva Caldarena."
+        ],
+        "Leyendas: Arceus": [
+            "Especial: Loma del Venado",
+            "Salvaje: Isla Hansa",
+            "Aparición masiva:Pradera Obsidiana"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Escala acantilados escarpados con agilidad. Vive en las montañas y su fuego se apaga cuando duerme.",
+        "Perla": "El gas de su panza alimenta el fuego de su parte trasera, que ni la lluvia puede extinguir.",
+        "Platino": "Es muy ágil. Antes de dormir apaga la llama de su cola para no provocar un incendio.",
+        "Oro HeartGold": "El fuego que arde en su cola lo generan los gases de su estómago y disminuye cuando está débil.",
+        "Plata SoulSilver": "El fuego que arde en su cola lo generan los gases de su estómago y disminuye cuando está débil.",
+        "Negro": "Es muy ágil. Antes de dormir apaga la llama de su cola para no provocar un incendio.",
+        "Blanco": "Es muy ágil. Antes de dormir apaga la llama de su cola para no provocar un incendio.",
+        "Negro 2": "Es muy ágil. Antes de dormir apaga la llama de su cola para no provocar un incendio.",
+        "Blanco 2": "Es muy ágil. Antes de dormir apaga la llama de su cola para no provocar un incendio.",
+        "Pokémon X": "El gas de su panza alimenta el fuego de su parte trasera, que ni la lluvia puede extinguir.",
+        "Pokémon Y": "El fuego que arde en su cola lo generan los gases de su estómago y disminuye cuando está débil.",
+        "Rubí Omega": "El gas de su panza alimenta el fuego de su parte trasera, que ni la lluvia puede extinguir.",
+        "Zafiro Alfa": "El fuego que arde en su cola lo generan los gases de su estómago y disminuye cuando está débil.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Escala acantilados escarpados con agilidad y vive en las cimas de montañas rocosas. Su fuego se apaga cuando duerme.",
+        "Perla Reluciente": "Los gases de su estómago alimentan el fuego de su trasero, que ni la lluvia puede extinguir.",
+        "Leyendas: Arceus": "Un Pokémon lleno de energía y entusiasmo. La gente de antaño lo conocía como \"culinterna\" y era temido porque se pensaba que se trataba de un espíritu maligno."
+    },
+    "evolution": [
+        [
+            "Chimchar",
+            "Nivel 14",
+            "Monferno",
+            "Nivel 36",
+            "Infernape"
+        ]
+    ]
+}

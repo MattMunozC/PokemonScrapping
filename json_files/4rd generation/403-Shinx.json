@@ -1,0 +1,131 @@
+{
+    "dex number": "403",
+    "pokemon name": "Shinx",
+    "types": [
+        "eléctrico"
+    ],
+    "abilities": [
+        "Rivalidad",
+        "Intimidación"
+    ],
+    "hidden abilities": [
+        "Agallas"
+    ],
+    "stats": {
+        "hp": "45",
+        "atk": "65",
+        "def": "34",
+        "atk esp": "40",
+        "def esp": "34",
+        "speed": "45"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: rutas 202, 203, 204 y Forja Fuego"
+        ],
+        "Perla": [
+            "Salvaje: rutas 202, 203, 204 y Forja Fuego"
+        ],
+        "Platino": [
+            "Salvaje: rutas 202, 203, 204 y Valle Eólico"
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Sinnoh: Ruta 1, Ruta 2, Ruta 3, Ruta 4, Ruta 5, Ruta 7, Ruta 8, Ruta 11, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 29, Ruta 33, Ruta 36, Ruta 37, Ruta 38, Ruta 39, Ruta 46, Ruta 48 y Parque Nacional",
+            "Pokéwalker: Llano de Sinnoh"
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Sinnoh: Ruta 1, Ruta 2, Ruta 3, Ruta 4, Ruta 5, Ruta 7, Ruta 8, Ruta 11, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 29, Ruta 33, Ruta 36, Ruta 37, Ruta 38, Ruta 39, Ruta 46, Ruta 48 y Parque Nacional",
+            "Pokéwalker: Llano de Sinnoh"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Pokémon X": [
+            "Criar: de Luxio"
+        ],
+        "Pokémon Y": [
+            "Criar: de Luxio"
+        ],
+        "Rubí Omega": [
+            "Criar: de Luxio"
+        ],
+        "Zafiro Alfa": [
+            "Criar: de Luxio"
+        ],
+        "Sol": [
+            "Criar: de Luxio"
+        ],
+        "Luna": [
+            "Criar: de Luxio"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Llano Entrenamiento , Isla de la Armadura , Cuenca Arenosa , Ruta Desafío  y Playa Desafío ."
+        ],
+        "Escudo": [
+            "Salvaje: Llano Entrenamiento , Isla de la Armadura , Cuenca Arenosa , Ruta Desafío  y Playa Desafío ."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: rutas 202, 203, 204 y Forja Fuego.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Nevisca y Cueva Ventisca."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: rutas 202, 203, 204 y Forja Fuego.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Nevisca y Cueva Ventisca."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Colina del Anhelo, Campo Aromaflor, Gruta Pirita. Ladera Corona: Senda del Peregrino."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Si siente peligro, todo su pelaje brilla. Aprovecha la ceguera temporal de su rival para huir.",
+        "Perla": "Los músculos de sus patas delanteras generan electricidad. Si está en peligro, brilla.",
+        "Platino": "La extensión y contracción de sus músculos genera electricidad. Brilla cuando está en peligro.",
+        "Oro HeartGold": "Produce electricidad contrayendo sus músculos. Si siente peligro, su pelaje brilla resplandeciente.",
+        "Plata SoulSilver": "Produce electricidad contrayendo sus músculos. Si siente peligro, su pelaje brilla resplandeciente.",
+        "Negro": "La extensión y contracción de sus músculos genera electricidad. Brilla cuando está en peligro.",
+        "Blanco": "La extensión y contracción de sus músculos genera electricidad. Brilla cuando está en peligro.",
+        "Negro 2": "La extensión y contracción de sus músculos genera electricidad. Brilla cuando está en peligro.",
+        "Blanco 2": "La extensión y contracción de sus músculos genera electricidad. Brilla cuando está en peligro.",
+        "Pokémon X": "La extensión y contracción de sus músculos genera electricidad. Brilla cuando está en peligro.",
+        "Pokémon Y": "Si siente peligro, todo su pelaje brilla. Aprovecha la ceguera temporal de su rival para huir.",
+        "Rubí Omega": "La extensión y contracción de sus músculos genera electricidad. Brilla cuando está en peligro.",
+        "Zafiro Alfa": "Si siente peligro, todo su pelaje brilla. Aprovecha la ceguera temporal de su rival para huir.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Produce energía eléctrica al contraer los músculos. Si tiembla de emoción, significa que está generando gran cantidad de electricidad.",
+        "Escudo": "Su pelaje brilla gracias a la electricidad. Envía señales a sus semejantes agitando la punta luminosa de la cola.",
+        "Diamante Brillante": "Si siente peligro, todo su pelaje brilla. Aprovecha la ceguera temporal de su rival para huir.",
+        "Perla Reluciente": "Genera electricidad gracias a los músculos de las patas delanteras. Si está en peligro, brilla.",
+        "Leyendas: Arceus": "Produce electricidad haciendo vibrar el cuerpo. A pesar de su pequeño tamaño, es muy agresivo, por lo que domesticarlo requiere paciencia."
+    },
+    "evolution": [
+        [
+            "Shinx",
+            "Nivel 15",
+            "Luxio",
+            "Nivel 30",
+            "Luxray"
+        ]
+    ]
+}

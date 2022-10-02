@@ -1,0 +1,170 @@
+{
+    "dex number": "471",
+    "pokemon name": "Glaceon",
+    "types": [
+        "hielo"
+    ],
+    "abilities": [
+        "Manto níveo"
+    ],
+    "hidden abilities": [
+        "Gélido"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "60",
+        "def": "110",
+        "atk esp": "130",
+        "def esp": "95",
+        "speed": "65"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la Roca hielo, en la Ruta 217."
+        ],
+        "Perla": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la Roca hielo, en la Ruta 217."
+        ],
+        "Platino": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la Roca hielo, en la Ruta 217."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante y Perla o Pokémon Platino."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante y Perla o Pokémon Platino."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Negro 2 y Blanco 2.",
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla o Platino.",
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca hielo, dentro del Monte Tuerca.",
+            "Dream World: Con la habilidad Gélido."
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro 2 y Blanco 2.",
+            "Pokétransfer: Transferir desde Pokémon Diamante, Perla o Platino.",
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca hielo, dentro del Monte Tuerca.",
+            "Dream World: Con la habilidad Gélido."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca hielo, dentro del Monte Tuerca.",
+            "Dream World: Con la habilidad Gélido."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca hielo, dentro del Monte Tuerca.",
+            "Dream World: Con la habilidad Gélido."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la Roca hielo, dentro de la Gruta Helada."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la Roca hielo, dentro de la Gruta Helada."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la Roca hielo, dentro de la Cueva Cardumen."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la Roca hielo, dentro de la Cueva Cardumen."
+        ],
+        "Sol": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca hielo, en la cueva del Monte Lanakila."
+        ],
+        "Luna": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca hielo, en la cueva del Monte Lanakila."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca hielo, en la cueva del Monte Lanakila."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca hielo, en la cueva del Monte Lanakila."
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Área Silvestre: Lago del Enfado, sólo en presencia de clima nieve o tormenta de nieve.",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al extremo oeste.",
+            "Evolucionar: a Eevee, usando una piedra hielo."
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Área Silvestre: Lago del Enfado, sólo en presencia de clima nieve o tormenta de nieve.",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al extremo oeste.",
+            "Evolucionar: a Eevee, usando una piedra hielo."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la Roca hielo, en la Ruta 217."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la Roca hielo, en la Ruta 217."
+        ],
+        "Leyendas: Arceus": [
+            "Distorsión espaciotemporal: Tundra Alba.",
+            "Evolucionar: a Eevee, ( piedra hielo o roca hielo)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Para protegerse, puede congelar completamente su pelaje, de modo que los pelos parecen agujas.",
+        "Perla": "Para protegerse, puede congelar completamente su pelaje, de modo que los pelos parecen agujas.",
+        "Platino": "Controla su temperatura corporal para congelar el ambiente y causar ráfagas de nieve en polvo.",
+        "Oro HeartGold": "Glaceon congela el aire alrededor de su cuerpo creando pequeños cristales de hielo.",
+        "Plata SoulSilver": "Glaceon congela el aire alrededor de su cuerpo creando pequeños cristales de hielo.",
+        "Negro": "Controla su temperatura corporal para congelar el ambiente y causar ráfagas de nieve en polvo.",
+        "Blanco": "Controla su temperatura corporal para congelar el ambiente y causar ráfagas de nieve en polvo.",
+        "Negro 2": "Al reducir su temperatura corporal, su pelaje se congela y se convierte en afilados pinchos que puede disparar.",
+        "Blanco 2": "Al reducir su temperatura corporal, su pelaje se congela y se convierte en afilados pinchos que puede disparar.",
+        "Pokémon X": "Controla su temperatura corporal para congelar el ambiente y causar ráfagas de nieve en polvo.",
+        "Pokémon Y": "Al reducir su temperatura corporal, su pelaje se congela y se convierte en afilados pinchos que puede disparar.",
+        "Rubí Omega": "Controla su temperatura corporal para congelar el ambiente y causar ráfagas de nieve en polvo.",
+        "Zafiro Alfa": "Al reducir su temperatura corporal, su pelaje se congela y se convierte en afilados pinchos que puede disparar.",
+        "Sol": "Controla a su antojo la temperatura corporal y congela las partículas de agua que flotan en el aire para provocar ráfagas de nieve en polvo.",
+        "Luna": "Al congelar su pelaje, este se eriza formando carámbanos con los que ataca a su presa en cuanto la avista.",
+        "Ultrasol": "Congela su pelaje y lo convierte en afilados pinchos para defenderse. Es capaz de reducir su temperatura corporal hasta -60 ºC.",
+        "Ultraluna": "En un solo instante congela las partículas de agua a su alrededor y crea cristales de hielo con los que ataca a su presa.",
+        "Espada": "Desprende cristales de hielo. Sus presas se quedan congeladas sin darse cuenta, encandiladas por su belleza.",
+        "Escudo": "El aire gélido que exhala crea una suerte de cristales de hielo que lo hace muy demandado en las estaciones de esquí.",
+        "Diamante Brillante": "Puede congelar su pelaje completamente y transformarlo en afiladas agujas para protegerse de los enemigos.",
+        "Perla Reluciente": "Puede congelar su pelaje completamente y transformarlo en afiladas agujas para protegerse de los enemigos.",
+        "Leyendas: Arceus": "Puede reducir su temperatura corporal de manera instantánea. Transforma la humedad del ambiente en finos cristales de hielo que danzan en el aire y brillan tanto como piedras preciosas."
+    },
+    "evolution": [
+        [
+            "Eevee",
+            "Piedra agua ",
+            "Vaporeon"
+        ],
+        [
+            "",
+            "Piedra trueno ",
+            "Jolteon"
+        ],
+        [
+            "",
+            "Piedra fuego ",
+            "Flareon"
+        ],
+        [
+            "",
+            "Amistad + nivel (día) ",
+            "Espeon"
+        ],
+        [
+            "",
+            "Amistad + nivel (noche) ",
+            "Umbreon"
+        ],
+        [
+            "",
+            "Subir nivel cerca de la roca musgo 2;o piedra hoja 3",
+            "Leafeon"
+        ],
+        [
+            "",
+            "Subir nivel cerca de la roca hielo 2;o piedra hielo 3",
+            "Glaceon"
+        ],
+        [
+            "",
+            "Dos corazones de afecto2/amistad3+ nivel + conocer un movimiento de tipo hada",
+            "Sylveon"
+        ]
+    ]
+}

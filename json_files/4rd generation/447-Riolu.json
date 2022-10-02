@@ -1,0 +1,133 @@
+{
+    "dex number": "447",
+    "pokemon name": "Riolu",
+    "types": [
+        "lucha"
+    ],
+    "abilities": [
+        "Impasible",
+        "Foco interno"
+    ],
+    "hidden abilities": [
+        "Bromista"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "70",
+        "def": "40",
+        "atk esp": "35",
+        "def esp": "40",
+        "speed": "60"
+    },
+    "location": {
+        "Diamante": [
+            "Especial: eclosionar el huevo que Quinoa entrega en Isla Hierro",
+            "Especial: Transferir de Pokémon Ranger: Sombras de Almia tras realizar la misión especial ¡Rescata al Riolu secuestrado!"
+        ],
+        "Perla": [
+            "Especial: eclosionar el huevo que Quinoa entrega en Isla Hierro",
+            "Especial: Transferir de Pokémon Ranger: Sombras de Almia tras realizar la misión especial ¡Rescata al Riolu secuestrado!"
+        ],
+        "Platino": [
+            "Especial: eclosionar el huevo que Quinoa entrega en Isla Hierro",
+            "Especial: Transferir de Pokémon Ranger: Sombras de Almia tras realizar la misión especial ¡Rescata al Riolu secuestrado!"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari (después de haber conseguido la Pokédex Nacional)",
+            "Especial: Transferir de Pokémon Ranger: Sombras de Almia tras realizar la misión especial ¡Rescata al Riolu secuestrado!"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari (después de haber conseguido la Pokédex Nacional)",
+            "Especial: Transferir de Pokémon Ranger: Sombras de Almia tras realizar la misión especial ¡Rescata al Riolu secuestrado!"
+        ],
+        "Negro": [
+            "Salvaje: Gruta Superación"
+        ],
+        "Blanco": [
+            "Salvaje: Gruta Superación"
+        ],
+        "Negro 2": [
+            "Salvaje: Rancho Ocre",
+            "Especial: Transferir desde RAdar Pokémon"
+        ],
+        "Blanco 2": [
+            "Salvaje: Rancho Ocre",
+            "Especial: Transferir desde RAdar Pokémon"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 22",
+            "Especial: Safari Amistad, en algunos safari de tipo lucha"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 22",
+            "Especial: Safari Amistad, en algunos safari de tipo lucha"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Salvaje: Bosque de Poni"
+        ],
+        "Luna": [
+            "Salvaje: Bosque de Poni"
+        ],
+        "Ultrasol": [
+            "Salvaje: Bosque de Poni"
+        ],
+        "Ultraluna": [
+            "Salvaje: Bosque de Poni"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Llanura Pétrea, nido al noreste junto a una pared 1, Pradera Radiante, nido hacia el puente de Lago Axew, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte.",
+            "Salvaje: Gorro del Gigante (ventisca)."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Pradera Radiante, nido hacia el puente de Lago Axew, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte.",
+            "Salvaje: Gorro del Gigante (ventisca)."
+        ],
+        "Diamante Brillante": [
+            "Especial: Eclosionar el huevo que Quinoa entrega en Isla Hierro."
+        ],
+        "Perla Reluciente": [
+            "Especial: Eclosionar el huevo que Quinoa entrega en Isla Hierro."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Cascada Glaliar y Termas Nevavista",
+            "Aparición supermasiva: Costa Cobalto y Tundra Alba."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Su aura se intensifica para alertar a otros cuando está triste o tiene miedo.",
+        "Perla": "Su cuerpo es ágil pero fuerte. Puede subir tres montañas y cruzar dos cañones en una noche.",
+        "Platino": "Tiene un poder peculiar: puede ver emociones como el odio y la alegría en forma de ondas.",
+        "Oro HeartGold": "Se comunica con los suyos emitiendo ondas. Puede pasarse toda una noche corriendo.",
+        "Plata SoulSilver": "Se comunica con los suyos emitiendo ondas. Puede pasarse toda una noche corriendo.",
+        "Negro": "Tiene un poder peculiar: puede ver emociones como el odio y la alegría en forma de ondas.",
+        "Blanco": "Tiene un poder peculiar: puede ver emociones como el odio y la alegría en forma de ondas.",
+        "Negro 2": "Se comunica con los suyos mediante la emisión de unas ondas que cambian de forma en función de los sentimientos.",
+        "Blanco 2": "Se comunica con los suyos mediante la emisión de unas ondas que cambian de forma en función de los sentimientos.",
+        "Pokémon X": "Se comunica con los suyos mediante la emisión de unas ondas que cambian de forma en función de los sentimientos.",
+        "Pokémon Y": "Su aura se intensifica para alertar a otros cuando está triste o tiene miedo.",
+        "Rubí Omega": "Se comunica con los suyos mediante la emisión de unas ondas que cambian de forma en función de los sentimientos.",
+        "Zafiro Alfa": "Su aura se intensifica para alertar a otros cuando está triste o tiene miedo.",
+        "Sol": "Percibe en forma de ondas las emociones de Pokémon y humanos.",
+        "Luna": "Es un Pokémon valiente y perseverante capaz de pasarse toda una noche corriendo, aunque en el fondo no es más que un bebé.",
+        "Ultrasol": "Percibe en forma de ondas las emociones de Pokémon y humanos, y jamás se acerca a quien le da la sensación de ser peligroso.",
+        "Ultraluna": "En lugar de usar la voz, se comunica con los demás mediante ondas conocidas como auras y así pasa desapercibido ante sus enemigos.",
+        "Espada": "Su gran resistencia le permite correr durante toda una noche sin problema, pero tanta energía hace que sea sumamente complicado seguirle el ritmo.",
+        "Escudo": "Percibe los sentimientos de quienes lo rodean, así como las condiciones del entorno, mediante unas ondas conocidas como auras.",
+        "Diamante Brillante": "El aura que emana su cuerpo se intensifica para alertar a otros cuando está triste o tiene miedo.",
+        "Perla Reluciente": "Su cuerpo es ágil pero fuerte. Puede subir tres montañas y cruzar dos cañones en una noche.",
+        "Leyendas: Arceus": "De apariencia pueril, posee un enigmático poder que le permite percibir los sentimientos de la gente. Acepta a aquellos con buen corazón y repudia a los que tienen malas intenciones."
+    },
+    "evolution": [
+        [
+            "Riolu",
+            "Amistad + nivel (día) ",
+            "Lucario"
+        ]
+    ]
+}

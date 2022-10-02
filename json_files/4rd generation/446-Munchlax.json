@@ -1,0 +1,132 @@
+{
+    "dex number": "446",
+    "pokemon name": "Munchlax",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Recogida",
+        "Sebo"
+    ],
+    "hidden abilities": [
+        "Gula"
+    ],
+    "stats": {
+        "hp": "135",
+        "atk": "85",
+        "def": "40",
+        "atk esp": "40",
+        "def esp": "85",
+        "speed": "5"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: en los árboles de miel. Solo aparece en 4 árboles al azar, pero que serán siempre los mismos en cada partida."
+        ],
+        "Perla": [
+            "Salvaje: en los árboles de miel. Solo aparece en 4 árboles al azar, pero que serán siempre los mismos en cada partida."
+        ],
+        "Platino": [
+            "Salvaje: en los árboles de miel. Solo aparece en 4 árboles al azar, pero que serán siempre los mismos en cada partida."
+        ],
+        "Oro HeartGold": [
+            "Criando: a Snorlax equipado con incienso lento.",
+            "Pokéwalker: Cueva Calma y Vía Campeón."
+        ],
+        "Plata SoulSilver": [
+            "Criando: a Snorlax equipado con incienso lento.",
+            "Pokéwalker: Cueva Calma y Vía Campeón."
+        ],
+        "Negro": [
+            "Especial: Intercambiándolo por un Cinccino en Pueblo Arenisca al nivel 60 (solo en verano)."
+        ],
+        "Blanco": [
+            "Especial: Intercambiándolo por un Cinccino en Pueblo Arenisca al nivel 60 (solo en verano)."
+        ],
+        "Negro 2": [
+            "Criando: a Snorlax equipado con incienso lento."
+        ],
+        "Blanco 2": [
+            "Criando: a Snorlax equipado con incienso lento."
+        ],
+        "Pokémon X": [
+            "Criando: a Snorlax equipado con incienso lento."
+        ],
+        "Pokémon Y": [
+            "Criando: a Snorlax equipado con incienso lento."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            "Salvaje: Ruta 1"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 1"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 1"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 1"
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Área Silvestre: Ribera de Pistón.",
+            "Incursiones Dinamax: Llanura Pétrea, nido al sureste junto a una pared, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste.",
+            "Criando: a Snorlax equipado con incienso lento."
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Área Silvestre: Ribera de Pistón.",
+            "Incursiones Dinamax: Llanura Pétrea, nido al sureste junto a una pared, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste.",
+            "Criando: a Snorlax equipado con incienso lento."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: en los árboles en los que se puede untar miel (a veces)1.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Nevisca, Cueva Ventisca, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: en los árboles en los que se puede untar miel (a veces)1.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Nevisca, Cueva Ventisca, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Loma del Venado, Termas Nevavista",
+            "Aparición supermasiva: Pradera Obsidiana"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Engulle su peso en comida una vez al día. Se lo traga todo sin apenas masticar.",
+        "Perla": "Esconde comida bajo el largo pelo de su cuerpo, pero más tarde lo olvida.",
+        "Platino": "En su desesperación por engullir comida, se suele olvidar de la que esconde debajo de su pelaje.",
+        "Oro HeartGold": "En el interior de su pelaje revuelto esconde la comida que luego engullirá de una vez.",
+        "Plata SoulSilver": "En el interior de su pelaje revuelto esconde la comida que luego engullirá de una vez.",
+        "Negro": "En su desesperación por engullir comida, se suele olvidar de la que esconde debajo de su pelaje.",
+        "Blanco": "En su desesperación por engullir comida, se suele olvidar de la que esconde debajo de su pelaje.",
+        "Negro 2": "En su desesperación por engullir comida, se suele olvidar de la que esconde debajo de su pelaje.",
+        "Blanco 2": "En su desesperación por engullir comida, se suele olvidar de la que esconde debajo de su pelaje.",
+        "Pokémon X": "Esconde comida bajo el largo pelo de su cuerpo, pero más tarde lo olvida.",
+        "Pokémon Y": "En el interior de su pelaje revuelto esconde la comida que luego engullirá de una vez.",
+        "Rubí Omega": "Esconde comida bajo el largo pelo de su cuerpo, pero más tarde lo olvida.",
+        "Zafiro Alfa": "En el interior de su pelaje revuelto esconde la comida que luego engullirá de una vez.",
+        "Sol": "Necesita ingerir cada día el equivalente a su peso corporal en comida. Le importa poco el sabor que pueda tener.",
+        "Luna": "En cuanto encuentra algo comestible, lo recoge y lo engulle de un bocado, por lo que cada día está más y más gordo.",
+        "Ultrasol": "Aprovecha su largo pelaje para ocultar comida, pero se le suele olvidar y acaba generando un olor a putrefacción muy molesto para los demás.",
+        "Ultraluna": "En cuanto encuentra algo comestible, lo recoge y lo engulle de un bocado. Su robusto estómago le permite ingerir alimentos podridos sin inmutarse.",
+        "Espada": "Atiborrarse de comida es su fijación. Como no le hace ascos a nada, puede ingerir alimentos podridos sin inmutarse.",
+        "Escudo": "Guarda alimentos bajo el pelaje. Compartirá un pequeño bocado de vez en cuando con quien logre ganarse su confianza.",
+        "Diamante Brillante": "Engulle su peso en comida una vez al día. Se lo traga todo sin apenas masticar.",
+        "Perla Reluciente": "Esconde comida bajo el largo pelo de su cuerpo, pero más tarde lo olvida.",
+        "Leyendas: Arceus": "Su robusto estómago aguanta incluso alimentos echados a perder. Suele visitar la villa atraído por los residuos orgánicos destinados a crear abono."
+    },
+    "evolution": [
+        [
+            "Munchlax",
+            "Amistad + nivel",
+            "Snorlax"
+        ]
+    ]
+}

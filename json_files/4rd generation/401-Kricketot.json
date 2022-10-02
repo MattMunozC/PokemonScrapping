@@ -1,0 +1,132 @@
+{
+    "dex number": "401",
+    "pokemon name": "Kricketot",
+    "types": [
+        "bicho"
+    ],
+    "abilities": [
+        "Mudar"
+    ],
+    "hidden abilities": [
+        "Fuga"
+    ],
+    "stats": {
+        "hp": "37",
+        "atk": "25",
+        "def": "41",
+        "atk esp": "25",
+        "def esp": "41",
+        "speed": "25"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Rutas 202, 203, 204, 207 (mañana y noche) y 206 (mañana)."
+        ],
+        "Perla": [
+            "Salvaje: Rutas 202, 203, 204, 207 (mañana y noche) y 206 (mañana)."
+        ],
+        "Platino": [
+            "Salvaje: Rutas 201, 202, 203, 204, 205 y 207 (mañana y noche)."
+        ],
+        "Oro HeartGold": [
+            "Manada: Bosque Verde.",
+            "Especial: durante el Concurso de captura de bichos (los jueves y sábados después de obtener la Pokédex Nacional).",
+            "PokéWalker: Llano de Sinnoh."
+        ],
+        "Plata SoulSilver": [
+            "Manada: Bosque Verde.",
+            "Especial: durante el Concurso de captura de bichos (los jueves y sábados después de obtener la Pokédex Nacional).",
+            "PokéWalker: Llano de Sinnoh."
+        ],
+        "Negro": [
+            "Criando: de Kricketune.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco": [
+            "Criando: de Kricketune.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Negro 2": [
+            "Criando: de Kricketune.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            "Criando: de Kricketune.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambio: con Pokémon Rubí Omega o Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Intercambio: con Pokémon Rubí Omega o Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Criando: de Kricketune."
+        ],
+        "Zafiro Alfa": [
+            "Criando: de Kricketune."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Kricketot no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Kricketot no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Rutas 202, 203, 204, 207 (mañana y noche) y 206 (mañana).",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Rutas 202, 203, 204, 207 (mañana y noche) y 206 (mañana).",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Senda del Venado, Alacena del Bosque y Vereda del Viento. Pantanal Carmesí: Pradera Áurea, Rellano Nebuloso."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Al agitar la cabeza de atrás hacia delante, sus antenas chocan y suenan como un xilófono.",
+        "Perla": "Hablan entre sí chocando las antenas. Los sonidos producidos son muy característicos.",
+        "Platino": "Tiene las patas cortas. Cada vez que se tropieza, sus antenas chocan y suenan como un xilófono.",
+        "Oro HeartGold": "Si chocan sus antenas, emite un sonido similar al de un xilófono.",
+        "Plata SoulSilver": "Si chocan sus antenas, emite un sonido similar al de un xilófono.",
+        "Negro": "Tiene las patas cortas. Cada vez que se tropieza, sus antenas chocan y suenan como un xilófono.",
+        "Blanco": "Tiene las patas cortas. Cada vez que se tropieza, sus antenas chocan y suenan como un xilófono.",
+        "Negro 2": "Tiene las patas cortas. Cada vez que se tropieza, sus antenas chocan y suenan como un xilófono.",
+        "Blanco 2": "Tiene las patas cortas. Cada vez que se tropieza, sus antenas chocan y suenan como un xilófono.",
+        "Pokémon X": "Hablan entre sí chocando las antenas. Los sonidos producidos son muy característicos.",
+        "Pokémon Y": "Si chocan sus antenas, emite un sonido similar al de un xilófono.",
+        "Rubí Omega": "Hablan entre sí chocando las antenas. Los sonidos producidos son muy característicos.",
+        "Zafiro Alfa": "Si chocan sus antenas, emite un sonido similar al de un xilófono.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Al agitar la cabeza de atrás hacia delante, sus antenas chocan y suenan como un xilófono.",
+        "Perla Reluciente": "Se comunican entre sí chocando las antenas. Los sonidos producidos son muy característicos de las noches otoñales.",
+        "Leyendas: Arceus": "Aparece más a menudo cuando las hojas de los árboles cambian de color. El sonido que crea al chocar las antenas recuerda al de un exótico instrumento llamado marimba."
+    },
+    "evolution": [
+        [
+            "Kricketot",
+            "Nivel 10",
+            "Kricketune"
+        ]
+    ]
+}

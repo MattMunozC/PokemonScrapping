@@ -1,0 +1,137 @@
+{
+    "dex number": "448",
+    "pokemon name": "Lucario",
+    "types": [
+        "lucha",
+        "acero"
+    ],
+    "abilities": [
+        "Impasible",
+        "Foco interno"
+    ],
+    "hidden abilities": [
+        "Justiciero"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "110",
+        "def": "70",
+        "atk esp": "115",
+        "def esp": "70",
+        "speed": "90"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad."
+        ],
+        "Perla": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad."
+        ],
+        "Platino": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad."
+        ],
+        "Negro": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad.",
+            "Evento: del 1 de Marzo al 23 de Mayo de 2012 en Europa e Hispanoamérica a través del Pokémon Global Link, con contraseña LUCAEUROGAMERES, al nivel 10 con el movimiento puño bala."
+        ],
+        "Blanco": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad.",
+            "Evento: del 1 de Marzo al 23 de Mayo de 2012 en Europa e Hispanoamérica a través del Pokémon Global Link, con contraseña LUCAEUROGAMERES, al nivel 10 con el movimiento puño bala."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad o por el Evento de Global Link el 6 de diciembre de 2012."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad o por el Evento de Global Link el 6 de diciembre de 2012."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad.",
+            "Especial: Te lo entrega Corelia en la Torre Maestra. Se encuentra a nivel 32 y tiene equipada una Lucarita."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad.",
+            "Especial: Te lo entrega Corelia en la Torre Maestra. Se encuentra a nivel 32 y tiene equipada una Lucarita."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Y"
+        ],
+        "Sol": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad.",
+            "Salvaje: Bosque de Poni (Como refuerzo)."
+        ],
+        "Luna": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad.",
+            "Salvaje: Bosque de Poni (Como refuerzo)."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad.",
+            "Salvaje: Bosque de Poni (Como refuerzo)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad.",
+            "Salvaje: Bosque de Poni (Como refuerzo)."
+        ],
+        "Espada": [
+            "Salvaje: Lago Milotic (norte) con tiempo soleado, especial durante el día.",
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad.",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Llanura Pétrea, nido al noreste junto a una pared 1, Pradera Radiante, nido hacia el puente de Lago Axew y Silla del Gigante, nido al centro junto al lago."
+        ],
+        "Escudo": [
+            "Salvaje: Lago Milotic (norte) con tiempo soleado, especial durante el día.",
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad.",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Llanura Pétrea, nido al noreste junto a una pared 1, Pradera Radiante, nido hacia el puente de Lago Axew y Silla del Gigante, nido al centro junto al lago."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Riolu, durante el día, con un alto nivel de amistad."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje, con el clima de Ventisca: Cascada Glaliar y Termas Nevavista.",
+            "Evolucionar: a Riolu (nivel + amistad + día)",
+            "Aparición supermasiva: Costa Cobalto y Tundra Alba.",
+            "Pokémon alfa: Cascada Glaliar."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Puede sentir el aura de todas las cosas. Comprende el lenguaje humano.",
+        "Perla": "Puede leer los pensamientos de su adversario a través de su aura.",
+        "Platino": "Si se ha entrenado bien, puede percibir auras e identificar y asimilar sentimientos a 1 km.",
+        "Oro HeartGold": "Dicen que a través de sus ondas puede percibir a sus rivales aunque no los vea.",
+        "Plata SoulSilver": "Dicen que a través de sus ondas puede percibir a sus rivales aunque no los vea.",
+        "Negro": "Si se ha entrenado bien, puede percibir auras e identificar y asimilar sentimientos a 1 km.",
+        "Blanco": "Si se ha entrenado bien, puede percibir auras e identificar y asimilar sentimientos a 1 km.",
+        "Negro 2": "Emite unas ondas que le permiten percibir todo lo que se encuentre a 1 km, incluso los sentimientos de otras personas.",
+        "Blanco 2": "Emite unas ondas que le permiten percibir todo lo que se encuentre a 1 km, incluso los sentimientos de otras personas.",
+        "Pokémon X": "Puede leer los pensamientos de su adversario a través de su aura.",
+        "Pokémon Y": "Emite unas ondas que le permiten percibir todo lo que se encuentre a 1 km, incluso los sentimientos de otras personas.",
+        "Rubí Omega": "Puede leer los pensamientos de su adversario a través de su aura.",
+        "Zafiro Alfa": "Emite unas ondas que le permiten percibir todo lo que se encuentre a 1 km, incluso los sentimientos de otras personas.",
+        "Sol": "\nLucario: No solo es capaz de detectar auras, sino también de manipularlas. Esta habilidad le resulta muy útil durante los combates.\nMega-Lucario: La energía de la megaevolución se funde con su aura y recorre su cuerpo, lo que le deja unas profundas marcas negras en la piel.",
+        "Luna": "\nLucario: Detecta la presencia y los sentimientos de los seres vivos a más de 1 km de distancia, habilidad que aprovecha para cazar en grupos.\nMega-Lucario: Se concentra al máximo para atacar a su oponente, al que se enfrenta de forma despiadada.",
+        "Ultrasol": "\nLucario: Acumula poder espiritual y lo canaliza en forma de auras misteriosas capaces de hacer añicos incluso enormes rocas.\nMega-Lucario: La megaevolución ha expandido su aura. Obedeciendo a su instinto guerrero, ataca sin piedad a sus enemigos.",
+        "Ultraluna": "\nLucario: Puede percibir sentimientos ajenos a través de su aura, pero averiguar cosas que preferiría no saber constituye una fuente de estrés para él.\nMega-Lucario: La explosiva energía de la megaevolución ha despertado su instinto guerrero. No tiene piedad con sus enemigos.",
+        "Espada": "Caza a sus presas manipulando una energía, denominada aura, cuya potencia es capaz incluso de hacer añicos rocas enormes.",
+        "Escudo": "Puede leer los pensamientos de la gente, por lo que establece lazos afectivos únicamente con Entrenadores de corazón noble.",
+        "Diamante Brillante": "Es capaz de percibir el aura de todas las cosas, así como de comprender el lenguaje humano.",
+        "Perla Reluciente": "Puede leer los pensamientos y prever los movimientos de sus adversarios a través del aura que emanan.",
+        "Leyendas: Arceus": "De porte majestuoso, puede sentir presencias a gran distancia con las ondas que emite y controla a voluntad. Hemos bautizado este extraño poder con el nombre de \"aura\"."
+    },
+    "evolution": [
+        [
+            "Riolu",
+            "Amistad + nivel (día) ",
+            "Lucario"
+        ]
+    ]
+}

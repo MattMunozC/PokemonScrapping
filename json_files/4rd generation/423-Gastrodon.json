@@ -1,0 +1,168 @@
+{
+    "dex number": "423",
+    "pokemon name": "Gastrodon",
+    "types": [
+        "agua",
+        "tierra"
+    ],
+    "abilities": [
+        "Viscosidad",
+        "Colector"
+    ],
+    "hidden abilities": [
+        "Poder arena"
+    ],
+    "stats": {
+        "hp": "111",
+        "atk": "83",
+        "def": "68",
+        "atk esp": "92",
+        "def esp": "82",
+        "speed": "39"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje:",
+            "Forma este: 213, 222, 224 y 230.",
+            "Forma oeste: rutas 218 y 221, Forja Fuego.",
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Perla": [
+            "Salvaje:",
+            "Forma este: 213, 222, 224 y 230.",
+            "Forma oeste: rutas 218 y 221, Forja Fuego.",
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Platino": [
+            "Salvaje:",
+            "Forma este: 212, 213, y 224, Ciudad Pradera.",
+            "Forma oeste: rutas 205 y 218, Forja Fuego.",
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Negro": [
+            " Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino.",
+            "Intercambiar: de Pokémon Negro 2 o Blanco 2.",
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Blanco": [
+            " Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino.",
+            "Intercambiar: de Pokémon Negro 2 o Blanco 2.",
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo tierra. Sólo disponible la forma oeste."
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo tierra. Sólo disponible la forma oeste."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: Forma oeste de Pokémon X y Pokémon Y.",
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: Forma oeste de Pokémon X y Pokémon Y.",
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Sol": [
+            "Salvaje: Forma este: Isla Exeggutor, Prado de Poni y Antiguo Paso de Poni."
+        ],
+        "Luna": [
+            "Salvaje: Forma este: Isla Exeggutor, Prado de Poni y Antiguo Paso de Poni."
+        ],
+        "Ultrasol": [
+            "Salvaje: Forma este: Isla Exeggutor, Arrecife de Poni, Prado de Poni y Antiguo Paso de Poni."
+        ],
+        "Ultraluna": [
+            "Salvaje: Forma este: Isla Exeggutor, Arrecife de Poni, Prado de Poni y Antiguo Paso de Poni."
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Forma este: Mina de Galar n.º 2 (encuentro especial).",
+            "Forma oeste: No aparece de forma salvaje.",
+            "Incursiones Dinamax:",
+            "Forma este: Con posible habilidad oculta: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Espejo del Gigante, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (oeste), nido en el agua (oeste), Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua, Pradera Radiante, nido en mitad de los árboles, Valle Entrepuentes, nido al sur y Valle Entrepuentes, nido en la laguna.",
+            "Forma oeste: No aparece en incursiones.",
+            "Evolucionar: a Shellos (nivel 30).",
+            "Transferir desde Pokémon HOME."
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Forma este: Mina de Galar n.º 2 (encuentro especial).",
+            "Forma oeste: No aparece de forma salvaje.",
+            "Incursiones Dinamax:",
+            "Forma este: Con posible habilidad oculta: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Espejo del Gigante, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (oeste), nido en el agua (oeste), Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua, Pradera Radiante, nido en mitad de los árboles, Valle Entrepuentes, nido al sur y Valle Entrepuentes, nido en la laguna.",
+            "Forma oeste: No aparece en incursiones.",
+            "Evolucionar: a Shellos (nivel 30).",
+            "Transferir desde Pokémon HOME."
+        ],
+        "Diamante Brillante": [
+            "Salvaje:",
+            "Forma este: 222.",
+            "Forma oeste: rutas 218 y 221, 224, 230 y Forja Fuego.",
+            "Grutas del Subsuelo: Cueva Arroyo y Cueva Fluvial.",
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje:",
+            "Forma este: 222.",
+            "Forma oeste: rutas 218 y 221, 224, 230 y Forja Fuego.",
+            "Grutas del Subsuelo: Cueva Arroyo y Cueva Fluvial.",
+            "Evolucionar: a Shellos (nivel 30)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje:",
+            "Forma este: Bahía Silente y Vergel Marino",
+            "Forma oeste: Planicie Arena y Isla Hansa",
+            "Aparición masiva:",
+            "Forma este: Costa Cobalto",
+            "Forma oeste: Pradera Obsidiana",
+            "Aparición supermasiva:",
+            "Forma este: Costa Cobalto",
+            "Forma oeste: Pradera Obsidiana",
+            "Evolucionar: a Shellos (nivel 30)."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Posee un cuerpo flexible sin huesos. Si pierde alguna parte, le vuelve a crecer.",
+        "Perla": "Al parecer, hace mucho tiempo tenía una gran concha protectora. Vive en aguas poco profundas.",
+        "Platino": "Hace mucho tiempo tenía todo el lomo cubierto con una concha. Aún hay trazas de ella en sus células.",
+        "Oro HeartGold": "Si se ve amenazado por sus enemigos naturales, segrega un líquido morado y huye rápidamente.",
+        "Plata SoulSilver": "Si se ve amenazado por sus enemigos naturales, segrega un líquido morado y huye rápidamente.",
+        "Negro": "Hace mucho tiempo tenía todo el lomo cubierto con una concha. Aún hay trazas de ella en sus células.",
+        "Blanco": "Hace mucho tiempo tenía todo el lomo cubierto con una concha. Aún hay trazas de ella en sus células.",
+        "Negro 2": "Hace mucho tiempo tenía todo el lomo cubierto con una concha. Aún hay trazas de ella en sus células.",
+        "Blanco 2": "Hace mucho tiempo tenía todo el lomo cubierto con una concha. Aún hay trazas de ella en sus células.",
+        "Pokémon X": "Si se ve amenazado por sus enemigos naturales, segrega un líquido morado y huye rápidamente.",
+        "Pokémon Y": "Al parecer, hace mucho tiempo tenía una gran concha protectora. Vive en aguas poco profundas.",
+        "Rubí Omega": "Si se ve amenazado por sus enemigos naturales, segrega un líquido morado y huye rápidamente.",
+        "Zafiro Alfa": "Al parecer, hace mucho tiempo tenía una gran concha protectora. Vive en aguas poco profundas.",
+        "Sol": "\nGastrodon este: Los más destacados investigadores siguen peinando los mares en busca de un Gastrodon de color nunca visto.\nGastrodon oeste: Posee una notable capacidad de regeneración. Aunque los Pokémon pez lo mordisqueen, puede recuperarse en tan solo unas pocas horas.",
+        "Luna": "\nGastrodon este: Se están llevando a cabo experimentos para comprobar cómo cambia Gastrodon cuando no se le entrena en el mar en el que nació.\nGastrodon oeste: Su principal alimento es plancton invisible. Sale a la superficie, pero aún se desconoce el motivo.",
+        "Ultrasol": "\nGastrodon este: Si es víctima de un ataque, segrega un líquido de color morado. No es venenoso, pero tiene un gusto amargo nada apetecible.\nGastrodon oeste: Un caparazón le cubría la espalda antaño, y el único indicio de este hecho es la fina y dura placa en la capa interna del lomo.",
+        "Ultraluna": "\nGastrodon este: Su especie está relacionada con los Shellder y los Cloyster. A vece sale a tierra firme para buscar sustento.\nGastrodon oeste: Altera tanto la forma como el color en función de su hábitat y el alimento del que se nutre. Abunda en la playas de calmo oleaje.",
+        "Espada": "\nGastrodon este: Segrega un líquido morado para intimidar a sus oponentes. No es venenoso, pero es muy difícil quitárselo de encima una vez adherido.\nGastrodon oeste: Puede desplazarse también por tierra firme en pos de su presa. Deja tras de sí, entonces, el rastro de una mucosidad pegajosa.",
+        "Escudo": "\nGastrodon este: Lo recubre una sustancia viscosa. Se resiente cuando se seca, de modo que no puede permanecer mucho tiempo en tierra firme.\nGastrodon oeste: Aunque blando, su cuerpo es tremendamente resistente, ya que dispersa cualquier impacto que recibe dada su flexibilidad.",
+        "Diamante Brillante": "Posee un cuerpo flexible sin huesos. Si pierde alguna parte, le vuelve a crecer rápidamente.",
+        "Perla Reluciente": "Al parecer, hace mucho tiempo tenía una robusta concha protectora. Vive en aguas poco profundas.",
+        "Leyendas: Arceus": "\nMar Oeste: Ingiere la arena de las playas para alimentarse. Si se cruzan dos especímenes de distinto color, se enfrentan entre sí en una feroz batalla.\nMar Este: Se encuentra más comúnmente en tierra firme que en el mar. Muestra mucha actividad durante los días nublados y lluviosos, en comparación con aquellos en los que brilla el sol."
+    },
+    "evolution": [
+        [
+            "Shellos",
+            "Nivel 30",
+            "Gastrodon"
+        ]
+    ]
+}

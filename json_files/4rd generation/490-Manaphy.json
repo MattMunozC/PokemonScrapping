@@ -1,0 +1,132 @@
+{
+    "dex number": "490",
+    "pokemon name": "Manaphy",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Hidratación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "100",
+        "atk": "100",
+        "def": "100",
+        "atk esp": "100",
+        "def esp": "100",
+        "speed": "100"
+    },
+    "location": {
+        "Diamante": [
+            "Especial: Transfiriendo el huevo de Manaphy de cualquier juego de Pokémon Ranger. Una vez hecho esto, en cualquier tienda Pokémon se encontrará un nuevo personaje vestido de verde. Si hablas con él, te dirá que ha recibido algo para ti y te lo entregará. La próxima vez que cargues partida se habrá marchado.",
+            "Evento: Repartido por motivo de la película Pokémon Ranger y el Templo del Mar (ES), (HA).",
+            "Evento: Del 14 de Agosto al 12 de Septiembre de 2010 en Japón y del 12 de Marzo al 17 de Abril de 2011 en Corea del Sur."
+        ],
+        "Perla": [
+            "Especial: Transfiriendo el huevo de Manaphy de cualquier juego de Pokémon Ranger. Una vez hecho esto, en cualquier tienda Pokémon se encontrará un nuevo personaje vestido de verde. Si hablas con él, te dirá que ha recibido algo para ti y te lo entregará. La próxima vez que cargues partida se habrá marchado.",
+            "Evento: Repartido por motivo de la película Pokémon Ranger y el Templo del Mar (ES), (HA).",
+            "Evento: Del 14 de Agosto al 12 de Septiembre de 2010 en Japón y del 12 de Marzo al 17 de Abril de 2011 en Corea del Sur."
+        ],
+        "Platino": [
+            "Especial: Transfiriendo el huevo de Manaphy de cualquier juego de Pokémon Ranger. Una vez hecho esto, en cualquier tienda Pokémon se encontrará un nuevo personaje vestido de verde. Si hablas con él, te dirá que ha recibido algo para ti y te lo entregará. La próxima vez que cargues partida se habrá marchado.",
+            "Especial: Si tan solo deseas verlo vé a la Mansión Pokémon, en el cuarto donde está el dueño de la mansión hay un libro. Léelo y encontrarás la información incompleta de Manaphy.",
+            "Evento: Del 14 de Agosto al 12 de Septiembre de 2010 en Japón y del 12 de Marzo al 17 de Abril de 2011 en Corea del Sur."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante y Pokémon Perla o Pokémon Platino.",
+            "Especial: Transfiriendo el huevo de Manaphy de Pokémon Ranger: Trazos de luz.",
+            "Evento: Del 14 de Agosto al 12 de Septiembre de 2010 en Japón y del 12 de Marzo al 17 de Abril de 2011 en Corea del Sur."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante y Pokémon Perla o Pokémon Platino.",
+            "Especial: Transfiriendo el huevo de Manaphy de Pokémon Ranger: Trazos de luz.",
+            "Evento: Del 14 de Agosto al 12 de Septiembre de 2010 en Japón y del 12 de Marzo al 17 de Abril de 2011 en Corea del Sur."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla, Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: Del 1 al 24 de Junio. 20 aniversario de Pokémon."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: Del 1 al 24 de Junio. 20 aniversario de Pokémon."
+        ],
+        "Rubí Omega": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: Del 1 al 24 de Junio. 20 aniversario de Pokémon."
+        ],
+        "Zafiro Alfa": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2.",
+            "Evento: Del 1 al 24 de Junio. 20 aniversario de Pokémon."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores."
+        ],
+        "Espada": [
+            "Manaphy no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Manaphy no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Especial: Obtenido por Huevo Pokémon en Jubileo TV (Desde 19 de noviembre de 2021 hasta el 21 de febrero de 2022)."
+        ],
+        "Perla Reluciente": [
+            "Especial: Obtenido por Huevo Pokémon en Jubileo TV (Desde 19 de noviembre de 2021 hasta el 21 de febrero de 2022)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: En Cueva Costera (realizar la petición 66)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Nació en el frío fondo marino. Nada grandes distancias para regresar a su lugar de origen.",
+        "Perla": "Su cuerpo está compuesto en un 80% por agua. Le afecta considerablemente el entorno.",
+        "Platino": "Nace con un maravilloso poder que le permite establecer vínculos con cualquier tipo de Pokémon.",
+        "Oro HeartGold": "Posee un poder singular que hace que entable amistad con casi cualquier Pokémon.",
+        "Plata SoulSilver": "Posee un poder singular que hace que entable amistad con casi cualquier Pokémon.",
+        "Negro": "Nace con un maravilloso poder que le permite establecer vínculos con cualquier tipo de Pokémon.",
+        "Blanco": "Nace con un maravilloso poder que le permite establecer vínculos con cualquier tipo de Pokémon.",
+        "Negro 2": "Nace con un maravilloso poder que le permite establecer vínculos con cualquier tipo de Pokémon.",
+        "Blanco 2": "Nace con un maravilloso poder que le permite establecer vínculos con cualquier tipo de Pokémon.",
+        "Pokémon X": "Nace con un maravilloso poder que le permite establecer vínculos con cualquier tipo de Pokémon.",
+        "Pokémon Y": "Posee un poder singular que hace que entable amistad con casi cualquier Pokémon.",
+        "Rubí Omega": "Nace con un maravilloso poder que le permite establecer vínculos con cualquier tipo de Pokémon.",
+        "Zafiro Alfa": "Posee un poder singular que hace que entable amistad con casi cualquier Pokémon.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Nació en el frío fondo marino. Nada grandes distancias para regresar a su lugar de origen.",
+        "Perla Reluciente": "Su cuerpo está compuesto en un 80% por agua. Le afecta considerablemente el entorno.",
+        "Leyendas: Arceus": "Se rumorea que migra de un océano a otro y que, en raras ocasiones, visita las aguas de Hisui. Guarda un parecido físico con Phione, mas desconocemos si hay relación entre ellos."
+    },
+    "evolution": [
+        [
+            "Manaphy",
+            "Criando de Manaphy junto con un Ditto ",
+            "Phione"
+        ]
+    ]
+}

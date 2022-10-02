@@ -1,0 +1,137 @@
+{
+    "dex number": "465",
+    "pokemon name": "Tangrowth",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Defensa hoja"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": "100",
+        "atk": "100",
+        "def": "125",
+        "atk esp": "110",
+        "def esp": "50",
+        "speed": "50"
+    },
+    "location": {
+        "Diamante": [
+            "Intercambiar: de Pokémon Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Platino, Oro HeartGold o Plata SoulSilver."
+        ],
+        "Platino": [
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Negro": [
+            "Salvaje: Ruta 13 y Boquete Gigante (cuando se mueve la hierba alta).",
+            "Dream World: Con la habilidad Regeneración.",
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 13 y Boquete Gigante (cuando se mueve la hierba alta).",
+            "Dream World: Con la habilidad Regeneración.",
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 13 y Boquete Gigante (cuando se mueve la hierba alta).",
+            "Intercambio del videojuego: con una persona en Ciudad Marga dándole a cambio un Mantine.",
+            "Dream World: Con la habilidad Regeneración.",
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 13 y Boquete Gigante (cuando se mueve la hierba alta).",
+            "Intercambio del videojuego: con una persona en Ciudad Marga dándole a cambio un Mantine.",
+            "Dream World: Con la habilidad Regeneración.",
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Bosque Concentración",
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Concentración",
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Diamante Brillante": [
+            "Grutas del Subsuelo: Cueva Lodazal, Cueva Pantanosa y Caverna Insondable.",
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Perla Reluciente": [
+            "Grutas del Subsuelo: Cueva Lodazal, Cueva Pantanosa y Caverna Insondable.",
+            "Evolucionar: a Tangela, subiendo un nivel cuando conozca el movimiento poder pasado."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Tangela (nivel + Poder pasado).",
+            "Pokémon alfa: Ciénaga Bermeja",
+            " Aparición supermasiva: Pantanal Carmesí"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Atrapa a su propia presa desplegando las ramas de sus brazos, que no le importa perder ante depredadores.",
+        "Perla": "Atrapa a su propia presa desplegando las ramas de sus brazos, que no le importa perder ante depredadores.",
+        "Platino": "Sus brazos están hechos de plantas que se agarran a las cosas. Si se le cortan vuelven a crecer enseguida",
+        "Oro HeartGold": "Se le puede confundir con un matorral si está muy quieto. Atrapa a sus presas con sus lianas.",
+        "Plata SoulSilver": "Cuando llega el calor, se cubre por completo con sus lianas y no se le pueden ver ni los ojos.",
+        "Negro": "Sus brazos están hechos de plantas que se agarran a las cosas. Si se le cortan vuelven a crecer enseguida",
+        "Blanco": "Sus brazos están hechos de plantas que se agarran a las cosas. Si se le cortan vuelven a crecer enseguida",
+        "Negro 2": "Su capacidad regenerativa es tan alta que sus brazos crecen de nuevo con rapidez aunque se los hayan cortado.",
+        "Blanco 2": "Su capacidad regenerativa es tan alta que sus brazos crecen de nuevo con rapidez aunque se los hayan cortado.",
+        "Pokémon X": "Atrapa a su presa desplegando las ramas de sus brazos, que no le importa perder ante depredadores.",
+        "Pokémon Y": "Cuando llega el calor, se cubre por completo con sus lianas y no se le puede ver ni los ojos.",
+        "Rubí Omega": "Atrapa a su presa desplegando las ramas de sus brazos, que no le importa perder ante depredadores.",
+        "Zafiro Alfa": "Cuando llega el calor, se cubre por completo con sus lianas y no se le puede ver ni los ojos.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Se ha descubierto recientemente que los dos brazos que estira a voluntad son en realidad lianas enredadas entre sí.",
+        "Escudo": "Las lianas le crecen más rápidamente si vive en regiones cálidas. Cuando alcanzan cierta longitud, se las corta.",
+        "Diamante Brillante": "Atrapa a su presa desplegando las lianas de sus brazos, que no le importa perder ante depredadores.",
+        "Perla Reluciente": "Atrapa a su presa desplegando las lianas de sus brazos, que no le importa perder ante depredadores.",
+        "Leyendas: Arceus": "La maraña de largas lianas que cubre su cuerpo le confiere aspecto de matorral. Las trenza a modo de brazos con los que atrapa a sus presas."
+    },
+    "evolution": [
+        [
+            "Tangela",
+            "Conociendo poder pasado+ nivel",
+            "Tangrowth"
+        ]
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "dex number": "395",
+    "pokemon name": "Empoleon",
+    "types": [
+        "agua",
+        "acero"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Competitivo"
+    ],
+    "stats": {
+        "hp": "84",
+        "atk": "86",
+        "def": "88",
+        "atk esp": "111",
+        "def esp": "101",
+        "speed": "60"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Prinplup (nivel 36)"
+        ],
+        "Perla": [
+            "Evolucionar: a Prinplup (nivel 36)"
+        ],
+        "Platino": [
+            "Evolucionar: a Prinplup (nivel 36)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Prinplup (nivel 36)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Prinplup (nivel 36)"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Prinplup (nivel 36)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Prinplup (nivel 36)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Prinplup (nivel 36)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Prinplup (nivel 36)"
+        ],
+        "Espada": [
+            "Empoleon no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Empoleon no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Prinplup (nivel 36)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Prinplup (nivel 36)"
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Costa Cobalto: Costa Ínsola (Pokémon alfa)",
+            "Evolucionar: a Prinplup (nivel 36)."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Los tres cuernos de su pico son muestra de su fuerza. El líder tiene los cuernos más grandes.",
+        "Perla": "Nada tan rápido como un fueraborda. Con los afilados bordes de sus alas puede cortar el hielo.",
+        "Platino": "Si alguien hiere su orgullo, le desgarra con unas alas que podrían cortar un témpano de hielo.",
+        "Oro HeartGold": "Aunque nunca pelea en vano, si amenazan la seguridad de los suyos los defiende implacablemente.",
+        "Plata SoulSilver": "Aunque nunca pelea en vano, si amenazan la seguridad de los suyos los defiende implacablemente.",
+        "Negro": "Si alguien hiere su orgullo, le desgarra con unas alas que podrían cortar un témpano de hielo.",
+        "Blanco": "Si alguien hiere su orgullo, le desgarra con unas alas que podrían cortar un témpano de hielo.",
+        "Negro 2": "Si alguien hiere su orgullo, le desgarra con unas alas que podrían cortar un témpano de hielo.",
+        "Blanco 2": "Si alguien hiere su orgullo, le desgarra con unas alas que podrían cortar un témpano de hielo.",
+        "Pokémon X": "Nada tan rápido como un fueraborda. Con los afilados bordes de sus alas puede cortar el hielo.",
+        "Pokémon Y": "Los tres cuernos de su pico son muestra de su fuerza. El líder tiene los cuernos más grandes.",
+        "Rubí Omega": "Nada tan rápido como un fueraborda. Con los afilados bordes de sus alas puede cortar el hielo.",
+        "Zafiro Alfa": "Los tres cuernos de su pico son muestra de su fuerza. El líder tiene los cuernos más grandes.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Los tres cuernos del pico son muestra de su fuerza. El líder tiene los cuernos más grandes.",
+        "Perla Reluciente": "Nada tan rápido como un fueraborda. Con los afilados bordes de sus alas es capaz de cortar témpanos de hielo.",
+        "Leyendas: Arceus": "Venerado en épocas pasadas en Hisui bajo el apodo de Emperador del Oleaje. Sus aletas son tan afiladas como una cuchilla forjada por manos expertas."
+    },
+    "evolution": [
+        [
+            "Piplup",
+            "Nivel 16",
+            "Prinplup",
+            "Nivel 36",
+            "Empoleon"
+        ]
+    ]
+}

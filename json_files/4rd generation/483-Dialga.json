@@ -1,0 +1,133 @@
+{
+    "dex number": "483",
+    "pokemon name": "Dialga",
+    "types": [
+        "acero",
+        "dragón"
+    ],
+    "abilities": [
+        "Presión"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": "100",
+        "atk": "120",
+        "def": "120",
+        "atk esp": "150",
+        "def esp": "100",
+        "speed": "90"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: en la Columna Lanza, después de luchar contra los 3 líderes del Equipo Galaxia (solo uno, al nivel 47)."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Diamante o Pokémon Platino."
+        ],
+        "Platino": [
+            "Salvaje: en la Columna Lanza. Tras ganar la Liga Pokémon, hablar con la anciana de Pueblo Caelestis y haber recogido la diamansfera (solo uno, al nivel 70)."
+        ],
+        "Oro HeartGold": [
+            "Especial: nace de uno de los huevos del Evento de Arceus en Pokémon Oro HeartGold y Plata SoulSilver (solo uno, al nivel 1).",
+            "Intercambiar: de Pokémon Diamante o Pokémon Platino."
+        ],
+        "Plata SoulSilver": [
+            "Especial: nace de uno de los huevos del Evento de Arceus en Pokémon Oro HeartGold y Plata SoulSilver (solo uno, al nivel 1).",
+            "Intercambiar: de Pokémon Diamante o Pokémon Platino."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante o Platino.",
+            "Evento: Repartido en España e Hispanoamérica desde el 30 de agosto hasta el 12 de septiembre del 2013. Es variocolor y está al nivel 100 (ver datos de evento abajo)."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante o Platino.",
+            "Evento: Repartido en España e Hispanoamérica desde el 30 de agosto hasta el 12 de septiembre del 2013. Es variocolor y está al nivel 100 (ver datos de evento abajo)."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante o Platino.",
+            "Especial: Transfiriendo un Dialga capturado en el RAdar Pokémon accediendo al modo IV Generación con un juego de Pokémon Diamante en la consola. Puede estar del nivel 5 al 40.",
+            "Evento: Repartido en España e Hispanoamérica desde el 30 de agosto hasta el 12 de septiembre del 2013. Es variocolor y está al nivel 100 (ver datos de evento abajo)."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante o Platino.",
+            "Especial: Transfiriendo un Dialga capturado en el RAdar Pokémon accediendo al modo IV Generación con un juego de Pokémon Diamante en la consola. Puede estar del nivel 5 al 40.",
+            "Evento: Repartido en España e Hispanoamérica desde el 30 de agosto hasta el 12 de septiembre del 2013. Es variocolor y está al nivel 100 (ver datos de evento abajo)."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon Zafiro Alfa."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Paraje espejismo, al llevar a Uxie, Mesprit y Azelf en el equipo mientras se usa ultravuelo, en la enorme grieta (solo uno, al nivel 50)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores.",
+            "Evento: Repartido por evento (ver más abajo).",
+            "Intercambiar: de Pokémon Ultrasol."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde (solo uno, al nivel 60)."
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Ultrasol.",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Espada": [
+            "Especial: Aleatoriamente en una Aventura Dinamax."
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: en las Columnas Lanza, después de luchar contra los 3 líderes del Equipo Galaxia (solo uno, al nivel 47). En caso de haberlo debilitado, después de finalizar la liga Pokémon estaría disponible un segundo encuentro."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: en el Templo de Sinnoh, (Sólo uno, durante la encomienda 17 al escoger el apoyo del Clan Diamante). En  el Templo de Sinnoh (solo uno, durante la encomienda 18, al escoger el apoyo del Clan Perla)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Tiene el poder de controlar el tiempo. Aparece en los mitos de Sinnoh como una vieja deidad.",
+        "Perla": "Un Pokémon hablado en leyendas. Se dice que el tiempo comenzó a moverse cuando Dialga nació.",
+        "Platino": "Un Pokémon legendario de Sinnoh. Se dice que el tiempo avanza con cada latido de su corazón.",
+        "Oro HeartGold": "Puede controlar el transcurso del tiempo y viajar así libremente al pasado y al futuro.",
+        "Plata SoulSilver": "Puede controlar el transcurso del tiempo y viajar así libremente al pasado y al futuro.",
+        "Negro": "Un Pokémon legendario de Sinnoh. Se dice que el tiempo avanza con cada latido de su corazón.",
+        "Blanco": "Un Pokémon legendario de Sinnoh. Se dice que el tiempo avanza con cada latido de su corazón.",
+        "Negro 2": "Un Pokémon legendario de Sinnoh. Se dice que el tiempo avanza con cada latido de su corazón.",
+        "Blanco 2": "Un Pokémon legendario de Sinnoh. Se dice que el tiempo avanza con cada latido de su corazón.",
+        "Pokémon X": "Un Pokémon hablado en leyendas. Se dice que el tiempo comenzó a moverse cuando Dialga nació.",
+        "Pokémon Y": "Tiene el poder de controlar el tiempo. Aparece en los mitos de Sinnoh como una vieja deidad.",
+        "Rubí Omega": "Un Pokémon de leyenda. Se dice que el tiempo comenzó a avanzar cuando Dialga nació.",
+        "Zafiro Alfa": "Tiene el poder de controlar el tiempo. Aparece en los mitos de Sinnoh como una vieja deidad.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Tiene el poder de controlar el tiempo. Aparece en los mitos de Sinnoh como una antigua deidad.",
+        "Perla Reluciente": "Un Pokémon de leyenda. Se dice que el tiempo comenzó a avanzar cuando Dialga nació.",
+        "Leyendas: Arceus": "\nDialga: Venerado en la tradición de Hisui como la deidad cuyo origen hizo que el tiempo comenzara a fluir en el mundo terrenal como las aguas de un caudaloso río.\nForma Origen: La luz desencadena el cambio a esta forma, que recuerda al creador de todo lo existente. La colosal fuerza de la que hace gala nos sugiere que se trata de su verdadera forma."
+    },
+    "evolution": [
+        [
+            "Dialga"
+        ]
+    ]
+}

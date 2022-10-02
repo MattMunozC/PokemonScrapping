@@ -1,0 +1,135 @@
+{
+    "dex number": "435",
+    "pokemon name": "Skuntank",
+    "types": [
+        "veneno",
+        "siniestro"
+    ],
+    "abilities": [
+        "Hedor",
+        "Detonación"
+    ],
+    "hidden abilities": [
+        "Vista lince"
+    ],
+    "stats": {
+        "hp": "103",
+        "atk": "93",
+        "def": "67",
+        "atk esp": "71",
+        "def esp": "61",
+        "speed": "84"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: rutas 221 y 225.",
+            "Evolucionar: a Stunky (nivel 34)."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Diamante, ya que se trata de un pokémon exclusivo."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Diamante, ya que se trata de un pokémon exclusivo."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, ya que se trata de un pokémon exclusivo.",
+            "Evolucionar: a Stunky (nivel 34)."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, ya que se trata de un pokémon exclusivo.",
+            "Evolucionar: a Stunky (nivel 34)."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde Pokémon Diamante.",
+            "Intercambiar: de Pokémon Negro 2."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde Pokémon Diamante.",
+            "Intercambiar: de Pokémon Negro 2."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Stunky (nivel 34)."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir desde Pokémon Diamante.",
+            "Intercambiar: de Pokémon Negro 2."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Stunky (nivel 34)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Stunky (nivel 34)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Cuenca Polvorienta (nublado) y Lago del Enfado (nublado).",
+            "Incursiones Dinamax: Lago Axew (oeste), nido junto a Ciudad Pistón y Llanura Pétrea, nido al norte 2. Con posible habilidad oculta: Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón."
+        ],
+        "Escudo": [
+            "Salvaje: Cuenca Polvorienta (nublado) y Lago del Enfado (nublado).",
+            "Incursiones Dinamax: Lago Axew (oeste), nido junto a Ciudad Pistón y Llanura Pétrea, nido al norte 2. Con posible habilidad oculta: Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: rutas 221 y 225.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Stunky (nivel 34)."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Stunky (nivel 34).",
+            "Salvaje:Ciénaga Bermeja y Cantera Ancestral",
+            "Pokémon alfa: Ciénaga Bermeja",
+            "Aparición supermasiva: Pantanal Carmesí y Ladera Corona."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Para atacar, emite un fluido maloliente por la punta de su cola que puede llegar a más de 50 m.",
+        "Perla": "Emite un fluido apestoso por la cola. Cuanto más tiempo pasa, peor huele.",
+        "Platino": "Ataca emitiendo un fluido maloliente por la punta de su cola. Los ataques aéreos le confunden.",
+        "Oro HeartGold": "Ataca expulsando un líquido maloliente por la punta de su cola. Si lo usa mucho se debilita.",
+        "Plata SoulSilver": "Ataca expulsando un líquido maloliente por la punta de su cola. Si lo usa mucho se debilita.",
+        "Negro": "Ataca emitiendo un fluido maloliente por la punta de su cola. Los ataques aéreos le confunden.",
+        "Blanco": "Ataca emitiendo un fluido maloliente por la punta de su cola. Los ataques aéreos le confunden.",
+        "Negro 2": "Ataca emitiendo un fluido maloliente por la punta de su cola. Los ataques aéreos le confunden.",
+        "Blanco 2": "Ataca emitiendo un fluido maloliente por la punta de su cola. Los ataques aéreos le confunden.",
+        "Pokémon X": "Para atacar, emite un fluido maloliente por la punta de su cola que puede llegar a más de 50 m.",
+        "Pokémon Y": "Emite un fluido apestoso por la cola. Cuanto más tiempo pasa, peor huele.",
+        "Rubí Omega": "Para atacar, emite un fluido maloliente por la punta de su cola que puede llegar a más de 50 m.",
+        "Zafiro Alfa": "Emite un fluido apestoso por la cola. Cuanto más tiempo pasa, peor huele.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Ataca expulsando por la cola un fluido apestoso que almacena en el vientre y cuyo hedor es distinto en función de su dieta.",
+        "Escudo": "El fluido que expulsa por la punta de la cola emana una hediondez insoportable. Construye sus madrigueras cavando hoyos en la tierra.",
+        "Diamante Brillante": "Para atacar, emite un fluido maloliente por la punta de la cola que puede llegar a más de 50 m.",
+        "Perla Reluciente": "Emite un fluido apestoso por la cola. Cuanto más tiempo lo tiene fermentando en las tripas, peor huele.",
+        "Leyendas: Arceus": "Rocía a sus presas con un fluido venenoso tan hediondo que, a veces, ni el propio Skuntank es capaz de acercarse para comérselas."
+    },
+    "evolution": [
+        [
+            "Stunky",
+            "Nivel 34",
+            "Skuntank"
+        ]
+    ]
+}

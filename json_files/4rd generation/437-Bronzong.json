@@ -1,0 +1,138 @@
+{
+    "dex number": "437",
+    "pokemon name": "Bronzong",
+    "types": [
+        "acero",
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación",
+        "Ignífugo"
+    ],
+    "hidden abilities": [
+        "Metal pesado"
+    ],
+    "stats": {
+        "hp": "67",
+        "atk": "89",
+        "def": "116",
+        "atk esp": "79",
+        "def esp": "116",
+        "speed": "33"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Monte Corona y Cueva Retorno.",
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Perla": [
+            "Salvaje: Monte Corona y Cueva Retorno.",
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Platino": [
+            "Salvaje: Monte Corona y Cueva Retorno.",
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Negro": [
+            "Salvaje: en el Santuario Abundancia",
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Blanco": [
+            "Salvaje: en el Santuario Abundancia",
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Negro 2": [
+            "Salvaje: en el Santuario Abundancia",
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Blanco 2": [
+            "Salvaje: en el Santuario Abundancia",
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Pokémon X": [
+            "Salvaje:Safari Amistad."
+        ],
+        "Pokémon Y": [
+            "Salvaje:Safari Amistad."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Ruta 8.",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cornisa de Artejo, nido al sureste, Cuenca Polvorienta, nido al noroeste entre troncos, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte.",
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 8.",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cornisa de Artejo, nido al sureste, Cuenca Polvorienta, nido al noroeste entre troncos, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte.",
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Monte Corona y Cueva Retorno.",
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Monte Corona y Cueva Retorno.",
+            "Evolucionar: a Bronzor (nivel 33)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Cantera Ancestral, Risco Riscoso, Cañón Lítico, Ruinas Celestiales, Lago Agudeza y Templo Puntaneva.",
+            "Evolucionar: a Bronzor (nivel 33).",
+            "Aparición supermasiva: Pantanal Carmesí, Ladera Corona y Tundra Alba.",
+            "Pokémon alfa: Clamberclaw Cliffs"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Se produjo un gran revuelo cuando encontraron uno en una obra después de 2000 años durmiendo.",
+        "Perla": "Puede conjurar nubes de lluvia. Hace tiempo, la gente creía que traía buenas cosechas.",
+        "Platino": "Traía lluvias abriendo portales a otro mundo. Era adorado como propiciador de buenas cosechas.",
+        "Oro HeartGold": "Antaño se creía que rezándole se conjuraba la lluvia y se propiciaban las buenas cosechas.",
+        "Plata SoulSilver": "Antaño se creía que rezándole se conjuraba la lluvia y se propiciaban las buenas cosechas.",
+        "Negro": "Traía lluvias abriendo portales a otro mundo. Era adorado como propiciador de buenas cosechas.",
+        "Blanco": "Traía lluvias abriendo portales a otro mundo. Era adorado como propiciador de buenas cosechas.",
+        "Negro 2": "Desde antaño se adora a este Pokémon para que propicie lluvias abundantes. A veces se esconde bajo tierra.",
+        "Blanco 2": "Desde antaño se adora a este Pokémon para que propicie lluvias abundantes. A veces se esconde bajo tierra.",
+        "Pokémon X": "Desde antaño se adora a este Pokémon para que propicie lluvias abundantes. A veces se esconde bajo tierra.",
+        "Pokémon Y": "Antaño se creía que rezándole se conjuraba la lluvia y se propiciaban las buenas cosechas.",
+        "Rubí Omega": "Desde antaño se adora a este Pokémon para que propicie lluvias abundantes. A veces se esconde bajo tierra.",
+        "Zafiro Alfa": "Antaño se creía que rezándole se conjuraba la lluvia y se propiciaban las buenas cosechas.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Antaño se lo consideraba una deidad que traía las lluvias. Cuando se enfada, emite un sonido lúgubre que recuerda al tañido de una campana.",
+        "Escudo": "Basándose en los motivos de su cuerpo, muchos eruditos creen que este Pokémon no es originario de Galar.",
+        "Diamante Brillante": "Se produjo un gran revuelo mediático cuando en una obra encontraron un Bronzong que llevaba más de 2000 años durmiendo.",
+        "Perla Reluciente": "Puede conjurar nubes de lluvia. Antaño, la gente lo veneraba como una deidad de las buenas cosechas.",
+        "Leyendas: Arceus": "Se le reverencia desde tiempos inmemoriales como una deidad capaz de abrir una puerta al más allá con su grito similar al tañido de una campana."
+    },
+    "evolution": [
+        [
+            "Bronzor",
+            "Nivel 33",
+            "Bronzong"
+        ]
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "dex number": "432",
+    "pokemon name": "Purugly",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Sebo",
+        "Ritmo propio"
+    ],
+    "hidden abilities": [
+        "Competitivo"
+    ],
+    "stats": {
+        "hp": "71",
+        "atk": "82",
+        "def": "64",
+        "atk esp": "64",
+        "def esp": "59",
+        "speed": "112"
+    },
+    "location": {
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla."
+        ],
+        "Perla": [
+            "Salvaje: rutas 222 y 229.",
+            "Evolucionar: a Glameow (nivel 38)."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Perla."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Perla."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Perla."
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Perla."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Perla."
+        ],
+        "Negro 2": [
+            "Pokétransfer: de Pokémon Perla."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: de Pokémon Perla."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro y Pokémon Blanco o Pokémon Negro 2 y Pokémon Blanco 2.",
+            "Intercambiar de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro y Pokémon Blanco o Pokémon Negro 2 y Pokémon Blanco 2.",
+            "Intercambiar de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque Espejismo, Isla Espejismo (paraje espejismo)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque Espejismo, Isla Espejismo (paraje espejismo)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Purugly no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Purugly no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Salvaje de noche: rutas 222 y 229.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Glameow (nivel 38)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Terraza Glaciar, Paso Costanero y Cabo Rocavelo.",
+            "Evolucionar: a Glameow (nivel 38).",
+            "Aparición supermasiva: Costa Cobalto y Tundra Alba.",
+            "Pokémon alfa: Cabo Rocavelo"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Es un bruto descarado que entra en el nido de cualquier Pokémon y se lo apropia.",
+        "Perla": "Para intimidar y parecer más corpulento, se aprieta la cintura con sus colas gemelas.",
+        "Platino": "Rodea su cuerpo con las colas para parecer más grande. Si fija la mirada, no se perderá un detalle.",
+        "Oro HeartGold": "Si se siente a gusto, no tiene ningún reparo apropiarse de las moradas de otros Pokémon.",
+        "Plata SoulSilver": "Si se siente a gusto, no tiene ningún reparo apropiarse de las moradas de otros Pokémon.",
+        "Negro": "Rodea su cuerpo con las colas para parecer más grande. Si fija la mirada, no se perderá un detalle.",
+        "Blanco": "Rodea su cuerpo con las colas para parecer más grande. Si fija la mirada, no se perderá un detalle.",
+        "Negro 2": "Rodea su cuerpo con las colas para parecer más grande. Si fija la mirada, no se perderá un detalle.",
+        "Blanco 2": "Rodea su cuerpo con las colas para parecer más grande. Si fija la mirada, no se perderá un detalle.",
+        "Pokémon X": "Si se siente a gusto, no tiene ningún reparo apropiarse de las moradas de otros Pokémon.",
+        "Pokémon Y": "Para intimidar y parecer más corpulento, se aprieta la cintura con sus colas gemelas.",
+        "Rubí Omega": "Si se siente a gusto, no tiene ningún reparo apropiarse de las moradas de otros Pokémon.",
+        "Zafiro Alfa": "Para intimidar y parecer más corpulento, se aprieta la cintura con su cola bífida.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Insolente y descarado, establece su morada allí donde le place, sin importarle en absoluto que pueda ser de otro Pokémon.",
+        "Perla Reluciente": "Para intimidar y parecer más corpulento, se aprieta la cintura con su cola bífida.",
+        "Leyendas: Arceus": "Es desvergonzado y difícil de domesticar, pero su pelaje, más hermoso que el terciopelo, hace a este Pokémon muy popular."
+    },
+    "evolution": [
+        [
+            "Glameow",
+            "Nivel 38",
+            "Purugly"
+        ]
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "dex number": "413",
+    "pokemon name": "Wormadam",
+    "types": [
+        "bicho",
+        "planta",
+        "bicho",
+        "tierra",
+        "bicho",
+        "acero"
+    ],
+    "abilities": [
+        "Anticipación"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "59",
+        "def": "85",
+        "atk esp": "79",
+        "def esp": "105",
+        "speed": "36"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: de Burmy (nivel 20 + hembra)"
+        ],
+        "Perla": [
+            "Evolucionar: de Burmy (nivel 20 + hembra)"
+        ],
+        "Platino": [
+            "Evolucionar: de Burmy (nivel 20 + hembra)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: de Burmy (nivel 20 + hembra)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: de Burmy (nivel 20 + hembra)"
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Diamante y Perla y Platino."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Diamante y Perla y Platino."
+        ],
+        "Negro 2": [
+            "Pokétransfer: de Pokémon Diamante y Perla y Platino."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: de Pokémon Diamante y Perla y Platino."
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Burmy (nivel 20 + hembra)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Burmy (nivel 20 + hembra)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Burmy (nivel 20 + hembra)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Burmy (nivel 20 + hembra)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Wormadam no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Wormadam no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: de Burmy (nivel 20 + hembra)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: de Burmy (nivel 20 + hembra)."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: de Burmy (nivel 20 + hembra)",
+            "Planta",
+            "Salvaje: Foresta Funesta y Planicie Arena",
+            "Arena",
+            "Salvaje: Pradera Áurea, Ciénaga Bocazas, Loma Sagrada, Senda Celestial, Ruinas Celestiales, Cañón Lítico",
+            "Basura",
+            "Salvaje: Playa Ginkgo, Paso Costanero, Cabo Rocavelo, Albuferas Chapuzón, Páramo Algente, Terraza Glaciar, Lago Agudeza y Desfiladero Alud"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Cuando Burmy evolucionó, su caparazón pasó a formar parte de este Pokémon.",
+        "Perla": "Su apariencia varía según dónde evolucione. Los materiales que halla pasan a formar parte de su cuerpo.",
+        "Platino": "Cuando evoluciona incorpora a su cuerpo los materiales del entorno. Por eso hay muchas variantes.",
+        "Oro HeartGold": "Dicen que si Burmy evoluciona a Wormadam cuando hace frío, su caparazón es más fuerte.",
+        "Plata SoulSilver": "Dicen que si Burmy evoluciona a Wormadam cuando hace frío, su caparazón es más fuerte.",
+        "Negro": "Cuando evoluciona, incorpora a su cuerpo los materiales del entorno. Por eso hay muchas variantes.",
+        "Blanco": "Cuando evoluciona, incorpora a su cuerpo los materiales del entorno. Por eso hay muchas variantes.",
+        "Negro 2": "Cuando evoluciona, incorpora a su cuerpo los materiales del entorno. Por eso hay muchas variantes.",
+        "Blanco 2": "Cuando evoluciona, incorpora a su cuerpo los materiales del entorno. Por eso hay muchas variantes.",
+        "Pokémon X": "Su apariencia varía según dónde evolucione. Los materiales que haya pasan a formar parte de su cuerpo.",
+        "Pokémon Y": "Cuando Burmy evolucionó, su caparazón pasó a formar parte de este Pokémon.",
+        "Rubí Omega": "Su apariencia varía según dónde evolucione. Los materiales que haya pasan a formar parte de su cuerpo.",
+        "Zafiro Alfa": "Cuando Burmy evolucionó, su caparazón pasó a formar parte de este Pokémon.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Cuando Burmy evolucionó, su saco pasó a formar parte del Pokémon. Nunca se desprende de él.",
+        "Perla Reluciente": "Su apariencia varía según dónde evolucione. Los materiales que haya pasan a formar parte de su cuerpo.",
+        "Leyendas: Arceus": "\nTronco Planta: Su manto vegetal ha pasado a formar parte de su cuerpo, como si de pelo o piel se tratara. Presumo que es a consecuencia de su evolución.\nTronco Arena: Su piel arenosa es lo bastante dura como para resistir y repeler sin problema alguno los picotazos de un Starly.\nTronco Basura: Su cuerpo compuesto de residuos adopta el color del entorno y le sirve de camuflaje, por lo que resulta idóneo para evitar a los depredadores."
+    },
+    "evolution": [
+        [
+            "Burmy",
+            "Nivel 20 + ♀",
+            "Wormadam"
+        ],
+        [
+            "",
+            "Nivel 20 + ♂",
+            "Mothim"
+        ]
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "dex number": "456",
+    "pokemon name": "Finneon",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Colector"
+    ],
+    "hidden abilities": [
+        "Velo agua"
+    ],
+    "stats": {
+        "hp": "49",
+        "atk": "49",
+        "def": "56",
+        "atk esp": "49",
+        "def esp": "61",
+        "speed": "66"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje:  Pescando con caña buena: rutas 205 (zona sur), 218, 219, 220, 221, Forja Fuego, Isla Hierro, Ciudad Canal y Valle Eólico."
+        ],
+        "Perla": [
+            "Salvaje:  Pescando con caña buena: rutas 205 (zona sur), 218, 219, 220, 221, Forja Fuego, Isla Hierro, Ciudad Canal y Valle Eólico."
+        ],
+        "Platino": [
+            "Salvaje: Pescando con la caña buena: rutas 205 (zona sur), 218, 219, 220, 221 y Ciudad Canal"
+        ],
+        "Oro HeartGold": [
+            "Pokéwalker: Playa Tormenta",
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Pokéwalker: Playa Tormenta",
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro": [
+            "Pescando con supercaña: en las rutas 17, 18 y Laboratorio P+P",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco": [
+            "Pescando con supercaña: en las rutas 17, 18 y Laboratorio P+P",
+            "Dream World: Mar Brillante"
+        ],
+        "Negro 2": [
+            "Pescando con supercaña: en las rutas 4, 17, 18, Laboratorio P+P, Ciudad Hormigón y Polígono Hormigón",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Pescando con supercaña: en las rutas 4, 17, 18, Laboratorio P+P, Ciudad Hormigón y Polígono Hormigón",
+            "Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: usando el DexNav después de tener la Pokédex Nacional en la ruta 122, ruta 124, ruta 125, ruta 126, ruta 127, ruta 128, ruta 129, ruta 130, ruta 131, ruta 132, ruta 133 y ruta 134"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: usando el DexNav después de tener la Pokédex Nacional en la ruta 122, ruta 124, ruta 125, ruta 126, ruta 127, ruta 128, ruta 129, ruta 130, ruta 131, ruta 132, ruta 133 y ruta 134"
+        ],
+        "Sol": [
+            "Surfeando: Rutas 1, 7, 8, 14, 15, Colina Saltagua, Playa de Hanohano, Ciudad Hauoli, Bahía Kalae, Mar de Melemele y Playa Menor"
+        ],
+        "Luna": [
+            "Surfeando: Rutas 1, 7, 8, 14, 15, Colina Saltagua, Playa de Hanohano, Ciudad Hauoli, Bahía Kalae, Mar de Melemele y Playa Menor"
+        ],
+        "Ultrasol": [
+            "Surfeando: Rutas 1, 7, 8, 14, 15, Colina Saltagua, Playa de Hanohano, Ciudad Hauoli, Bahía Kalae y Mar de Melemele"
+        ],
+        "Ultraluna": [
+            "Surfeando: Rutas 1, 7, 8, 14, 15, Colina Saltagua, Playa de Hanohano, Ciudad Hauoli, Bahía Kalae y Mar de Melemele"
+        ],
+        "Espada": [
+            "Finneon no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Finneon no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Pescando con caña buena: rutas 205 (sur), 218, 219, 220, 221, Forja Fuego, Isla Hierro, Ciudad Canal y Valle Eólico."
+        ],
+        "Perla Reluciente": [
+            "Pescando con caña buena: rutas 205 (sur), 218, 219, 220, 221, Forja Fuego, Isla Hierro, Ciudad Canal y Valle Eólico."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Vergel Marino",
+            "Aparición supermasiva: Costa Cobalto"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Si se expone mucho al sol, los dibujos de sus aletas brillan en la oscuridad.",
+        "Perla": "Se le llama el \"Beautifly del mar\" por la forma en que se balancean sus dos aletas cuando nada.",
+        "Platino": "La línea que le recorre el costado puede almacenar luz solar. Brilla con mucha fuerza por la noche.",
+        "Oro HeartGold": "Nada batiendo sus aletas como si fuese un Beautifly. Los dibujos de estas se iluminan por la noche.",
+        "Plata SoulSilver": "Nada batiendo sus aletas como si fuese un Beautifly. Los dibujos de estas se iluminan por la noche.",
+        "Negro": "La línea que le recorre el costado puede almacenar luz solar. Brilla con mucha fuerza por la noche.",
+        "Blanco": "La línea que le recorre el costado puede almacenar luz solar. Brilla con mucha fuerza por la noche.",
+        "Negro 2": "La línea que le recorre el costado puede almacenar luz solar. Brilla con mucha fuerza por la noche.",
+        "Blanco 2": "La línea que le recorre el costado puede almacenar luz solar. Brilla con mucha fuerza por la noche.",
+        "Pokémon X": "La línea que le recorre el costado puede almacenar luz solar. Brilla con mucha fuerza por la noche.",
+        "Pokémon Y": "Si se expone mucho al sol, los dibujos de sus aletas brillan en la oscuridad.",
+        "Rubí Omega": "La línea que le recorre el costado puede almacenar luz solar. Brilla con mucha fuerza por la noche.",
+        "Zafiro Alfa": "Si se expone mucho al sol, los dibujos de sus aletas brillan en la oscuridad.",
+        "Sol": "Las marcas rosadas de su piel brillan con intensidad tras almacenar luz solar. Se cree que esta característica le permite camuflarse.",
+        "Luna": "Sus dos aletas le permiten saltar fuera del agua, momento que aprovechan los Wingull para llevárselos al buche.",
+        "Ultrasol": "Las marcas rosadas de su piel brillan al caer la noche. Triunfa entre los buceadores, por eso en los resorts turísticos le proporcionan alimento.",
+        "Ultraluna": "Por el día permanece cerca de la superficie y se retira a las profundidades por la noche. Atrae a las presas con sus brillantes aletas caudales.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Si se expone mucho al sol, las marcas de sus aletas caudales brillan intensamente en la oscuridad.",
+        "Perla Reluciente": "Lo llaman el Beautifly del Mar por la forma en que se balancean sus dos aletas cuando nada.",
+        "Leyendas: Arceus": "Sus largas aletas caudales tintadas de color rosa ondean con elegancia cuando nada, lo cual le ha granjeado el sobrenombre de Pez Kimono."
+    },
+    "evolution": [
+        [
+            "Finneon",
+            "Nivel 31",
+            "Lumineon"
+        ]
+    ]
+}

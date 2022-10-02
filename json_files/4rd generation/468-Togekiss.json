@@ -1,0 +1,135 @@
+{
+    "dex number": "468",
+    "pokemon name": "Togekiss",
+    "types": [
+        "hada",
+        "volador"
+    ],
+    "abilities": [
+        "Entusiasmo",
+        "Dicha"
+    ],
+    "hidden abilities": [
+        "Afortunado"
+    ],
+    "stats": {
+        "hp": "85",
+        "atk": "50",
+        "def": "95",
+        "atk esp": "120",
+        "def esp": "115",
+        "speed": "80"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Perla": [
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Platino": [
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco",
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Sol": [
+            "Salvaje: Pendiente de Poni (usando el escáner insular los martes en Poni)",
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Luna": [
+            "Salvaje: Pendiente de Poni (usando el escáner insular los martes en Poni)",
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Área Silvestre: Cuenca Polvorienta (niebla)",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón.",
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Área Silvestre: Cuenca Polvorienta (niebla)",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón.",
+            "Evolucionar: a Togetic (piedra día)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Togetic (piedra día)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Togetic (piedra día)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Lago Veraz (volando)",
+            "Evolucionar: a Togetic (Piedra día)",
+            "Aparición supermasiva: Costa Cobalto."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Nunca aparece donde hay peleas. Últimamente no se deja ver muy a menudo.",
+        "Perla": "Nunca aparece donde hay peleas. Últimamente no se deja ver muy a menudo.",
+        "Platino": "Congenia muy bien con las personas que respetan los derechos de los demás y evitan riñas innecesarias.",
+        "Oro HeartGold": "Se dice que aparece en zonas pacíficas y las bendice con sus dones.",
+        "Plata SoulSilver": "Se dice que aparece en zonas pacíficas y las bendice con sus dones.",
+        "Negro": "Congenia muy bien con las personas que respetan los derechos de los demás y evitan riñas innecesarias.",
+        "Blanco": "Congenia muy bien con las personas que respetan los derechos de los demás y evitan riñas innecesarias.",
+        "Negro 2": "Congenia muy bien con las personas que respetan los derechos de los demás y evitan riñas innecesarias.",
+        "Blanco 2": "Congenia muy bien con las personas que respetan los derechos de los demás y evitan riñas innecesarias.",
+        "Pokémon X": "Se dice que aparece en zonas pacíficas y las bendice con sus dones.",
+        "Pokémon Y": "Congenia muy bien con las personas que respetan los derechos de los demás y evitan riñas innecesarias.",
+        "Rubí Omega": "Se dice que aparece en zonas pacíficas y las bendice con sus dones.",
+        "Zafiro Alfa": "Congenia muy bien con las personas que respetan los derechos de los demás y evitan riñas innecesarias.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon jamás se muestra en lugares donde reine la discordia y la disensión. Últimamente apenas se avistan ejemplares.",
+        "Escudo": "Se dice que es portador de buena suerte. Por ello, su imagen aparece representada en talismanes y amuletos desde la antigüedad.",
+        "Diamante Brillante": "Jamás se muestra en lugares donde reine la discordia. Últimamente apenas se avistan ejemplares.",
+        "Perla Reluciente": "Jamás se muestra en lugares donde reine la discordia. Últimamente apenas se avistan ejemplares.",
+        "Leyendas: Arceus": "Según antiguos escritos, solo se manifiesta ante la gente cuando el mundo se encuentra en paz y armonía. Muy pocos han tenido dicho privilegio."
+    },
+    "evolution": [
+        [
+            "Togepi",
+            "Amistad+ nivel",
+            "Togetic",
+            "Piedra día ",
+            "Togekiss"
+        ]
+    ]
+}

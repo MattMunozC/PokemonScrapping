@@ -1,0 +1,143 @@
+{
+    "dex number": "460",
+    "pokemon name": "Abomasnow",
+    "types": [
+        "planta",
+        "hielo"
+    ],
+    "abilities": [
+        "Nevada"
+    ],
+    "hidden abilities": [
+        "Insonorizar"
+    ],
+    "stats": {
+        "hp": "90",
+        "atk": "92",
+        "def": "75",
+        "atk esp": "92",
+        "def esp": "85",
+        "speed": "60"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Monte Corona (cima).",
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Perla": [
+            "Salvaje: Monte Corona (cima).",
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Platino": [
+            "Salvaje: Monte Corona (cima).",
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino o Oro HeartGold y Plata SoulSilver.",
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino o Oro HeartGold y Plata SoulSilver.",
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Negro 2": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino o Oro HeartGold y Plata SoulSilver.",
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino o Oro HeartGold y Plata SoulSilver.",
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Snover (nivel 40).",
+            "Salvaje: Ruta 17"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Snover (nivel 40).",
+            "Salvaje: Ruta 17"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Intercambio de Pokémon: de Banco de Pokémon."
+        ],
+        "Luna": [
+            "Intercambio de Pokémon: de Banco de Pokémon."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo."
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Ruta 10",
+            "Área Silvestre: Cuenca Polvorienta y Lago del Enfado (nevando)",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada y Gorro del Gigante, nido en el centro.",
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Ruta 10",
+            "Área Silvestre: Cuenca Polvorienta y Lago del Enfado (nevando)",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada y Gorro del Gigante, nido en el centro.",
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Monte Corona.",
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Monte Corona.",
+            "Evolucionar: a Snover (nivel 40)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Témpano Avalugg y Desfiladero Glaliar.",
+            "Evolucionar: a Snover (nivel 40).",
+            "Pokémon alfa:Témpano Avalugg]",
+            "Aparición supermasiva: Ladera Corona y Tundra Alba."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Es el abominable hombre de las nieves. Produce ventiscas en las montañas cubiertas de nieve.",
+        "Perla": "Genera ventiscas con las que cubre de nieve grandes áreas. Se le llama “el monstruo de hielo”.",
+        "Platino": "Aparece con las flores de nieve y se retira cuando se les caen los pétalos. No se sabe adónde va.",
+        "Oro HeartGold": "Vive en paz en cordilleras de nieves eternas. Genera ventiscas para ocultarse.",
+        "Plata SoulSilver": "Vive en paz en cordilleras de nieves eternas. Genera ventiscas para ocultarse.",
+        "Negro": "Aparece con las flores de nieve y se retira cuando se les caen los pétalos. No se sabe adónde va.",
+        "Blanco": "Aparece con las flores de nieve y se retira cuando se les caen los pétalos. No se sabe adónde va.",
+        "Negro 2": "Aparece con las flores de nieve y se retira cuando se les caen los pétalos. No se sabe adónde va.",
+        "Blanco 2": "Aparece con las flores de nieve y se retira cuando se les caen los pétalos. No se sabe adónde va.",
+        "Pokémon X": "Genera ventiscas con las que cubre de nieve grandes áreas. Se le llama el Monstruo de Hielo.",
+        "Pokémon Y": "Vive en paz en cordilleras de nieve eternas. Genera ventiscas para ocultarse.",
+        "Rubí Omega": "Genera ventiscas con las que cubre de nieve grandes áreas. Se le llama el Monstruo de Hielo.",
+        "Zafiro Alfa": "Vive en paz en cordilleras de nieve eternas. Genera ventiscas para ocultarse.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Usa sus enormes brazos como si fueran martillos para ahuyentar a los grupos de Darumaka que acechan a los Snover.",
+        "Escudo": "Posee la capacidad de generar ventiscas. Si agita su enorme cuerpo, el terreno circundante queda inmediatamente cubierto de nieve.",
+        "Diamante Brillante": "Es el abominable hombre de las nieves. Levanta ventiscas en las montañas de nieves perpetuas.",
+        "Perla Reluciente": "Genera ventiscas con las que cubre de nieve grandes áreas. Lo llaman el Monstruo de Hielo.",
+        "Leyendas: Arceus": "Capaz de partir pedruscos con su gran fuerza. Detesta la compañía de los demás, así que vive en las entrañas de la montaña, donde juega y retoza en la nieve tranquilamente."
+    },
+    "evolution": [
+        [
+            "Snover",
+            "Nivel 40",
+            "Abomasnow"
+        ]
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "dex number": "400",
+    "pokemon name": "Bibarel",
+    "types": [
+        "normal",
+        "agua"
+    ],
+    "abilities": [
+        "Simple",
+        "Ignorante"
+    ],
+    "hidden abilities": [
+        "Veleta"
+    ],
+    "stats": {
+        "hp": "79",
+        "atk": "85",
+        "def": "60",
+        "atk esp": "55",
+        "def esp": "60",
+        "speed": "71"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: rutas 208, 209, 210, 212, Lago Valor, Vía Manantial, Lago Agudeza y Gran Pantano.",
+            "Con Rubí, Zafiro o Esmeralda insertado: Lago Veraz.",
+            "Evolucionar: a Bidoof (nivel 15)."
+        ],
+        "Perla": [
+            "Salvaje: rutas 208, 209, 210, 212, Lago Valor, Vía Manantial, Lago Agudeza y Gran Pantano.",
+            "Con Rubí, Zafiro o Esmeralda insertado: Lago Veraz.",
+            "Evolucionar: a Bidoof (nivel 15)."
+        ],
+        "Platino": [
+            "Salvaje: rutas 208, 209, 210, 212, Lago Valor, Vía Manantial, Lago Agudeza y Gran Pantano.",
+            "Con Rubí, Zafiro o Esmeralda insertado: Lago Veraz.",
+            "Evolucionar: a Bidoof (nivel 15)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Bidoof (nivel 15)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Bidoof (nivel 15)."
+        ],
+        "Negro": [
+            "Salvaje: Puente Villa",
+            "Evolucionar: a Bidoof (nivel 15)"
+        ],
+        "Blanco": [
+            "Salvaje: Puente Villa",
+            "Evolucionar: a Bidoof (nivel 15)"
+        ],
+        "Negro 2": [
+            "Claro Oculto: Ruta 3.",
+            "Evolucionar: a Bidoof (nivel 15)"
+        ],
+        "Blanco 2": [
+            "Claro Oculto: Ruta 3.",
+            "Evolucionar: a Bidoof (nivel 15)"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 22.",
+            "Safari Amistad: zona de Agua, al nivel 30.",
+            "Evolucionar: a Bidoof (nivel 15)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 22.",
+            "Safari Amistad: zona de Agua, al nivel 30.",
+            "Evolucionar: a Bidoof (nivel 15)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Bibarel no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Bibarel no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: rutas 208, 209, 210 (norte), 212 (sur), Orilla Valor, Lago Valor, Fuente Despedida, Lago Agudeza y Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Bidoof (nivel 15)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: rutas 208, 209, 210 (norte), 212 (sur), Orilla Valor, Lago Valor, Fuente Despedida, Lago Agudeza y Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago.",
+            "Evolucionar: a Bidoof (nivel 15)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Presa del Estuario. Pantanal Carmesí: Ciénaga Bocazas, Palestra Ursa, Pradera Aleteo. Costa Cobalto: Vía Manantial. Tundra Alba: Témpano Avalugg.",
+            "Evolucionar: a Bidoof (nivel 15).",
+            "Alfa: Pradera Obsidiana (Presa del Estuario)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Para anidar, crea presas en los ríos con maderas y barro. Tiene fama de trabajador.",
+        "Perla": "Fuera del agua es muy lento, pero puede nadar tan rápido como un Feebas.",
+        "Platino": "Un río en el que un Bibarel cree una presa jamás se desbordará. Por esa razón la gente los aprecia.",
+        "Oro HeartGold": "Con sus incisivos roe ramas y raíces y las apila para construir sus madrigueras junto al río.",
+        "Plata SoulSilver": "Con sus incisivos roe ramas y raíces y las apila para construir sus madrigueras junto al río.",
+        "Negro": "Un río en el que un Bibarel cree una presa jamás se desbordará. Por esa razón la gente los aprecia.",
+        "Blanco": "Un río en el que un Bibarel cree una presa jamás se desbordará. Por esa razón la gente los aprecia.",
+        "Negro 2": "Un río en el que un Bibarel cree una presa jamás se desbordará. Por esa razón la gente los aprecia.",
+        "Blanco 2": "Un río en el que un Bibarel cree una presa jamás se desbordará. Por esa razón la gente los aprecia.",
+        "Pokémon X": "Con sus incisivos roe ramas y raíces y las apila para construir sus madrigueras junto al río.",
+        "Pokémon Y": "Para anidar, crea presas en los ríos con maderas y barro. Tiene fama de trabajador.",
+        "Rubí Omega": "Con sus incisivos roe ramas y raíces y las apila para construir sus madrigueras junto al río.",
+        "Zafiro Alfa": "Para anidar, crea presas en los ríos con maderas y barro. Tiene fama de trabajador.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Para construir su madriguera, crea presas en los ríos con troncos y barro. Tiene fama de trabajador.",
+        "Perla Reluciente": "Fuera del agua es muy lento, pero puede nadar tan rápido como un Feebas.",
+        "Leyendas: Arceus": "Su pelaje es impermeable y, además, le proporciona un excelente aislamiento térmico. Anida en las presas que construye en los ríos."
+    },
+    "evolution": [
+        [
+            "Bidoof",
+            "Nivel 15",
+            "Bibarel"
+        ]
+    ]
+}

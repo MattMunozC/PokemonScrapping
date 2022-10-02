@@ -1,0 +1,167 @@
+{
+    "dex number": "422",
+    "pokemon name": "Shellos",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Viscosidad",
+        "Colector"
+    ],
+    "hidden abilities": [
+        "Poder arena"
+    ],
+    "stats": {
+        "hp": "76",
+        "atk": "48",
+        "def": "48",
+        "atk esp": "57",
+        "def esp": "62",
+        "speed": "34"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje:",
+            "Forma este: ruta 213.",
+            "Forma oeste: rutas 205, 218, 221 y 224, Forja Fuego, Valle Eólico."
+        ],
+        "Perla": [
+            "Salvaje:",
+            "Forma este: ruta 213.",
+            "Forma oeste: rutas 205, 218, 221 y 224, Forja Fuego, Valle Eólico."
+        ],
+        "Platino": [
+            "Salvaje:",
+            "Forma este: rutas 212 y 213, Ciudad Pradera.",
+            "Forma oeste: rutas 205 y 218, Forja Fuego, Valle Eólico, Ciudad Canal."
+        ],
+        "Oro HeartGold": [
+            "Pokéwalker: Playa Tormenta (forma oeste)",
+            "Intercambiar: de Pokémon Diamante, Perla o Platino."
+        ],
+        "Plata SoulSilver": [
+            "Pokéwalker: Playa Tormenta (forma oeste)",
+            "Intercambiar: de Pokémon Diamante, Perla o Platino."
+        ],
+        "Negro": [
+            " Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino.",
+            "Intercambiar: de Pokémon Negro 2 o Blanco 2.",
+            "Dream World: Mar Brillante (formas este y oeste)."
+        ],
+        "Blanco": [
+            " Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino.",
+            "Intercambiar: de Pokémon Negro 2 o Blanco 2.",
+            "Dream World: Mar Brillante (formas este y oeste)."
+        ],
+        "Negro 2": [
+            "Intercambiar: por cualquier Pokémon con la dueña del objeto perdido en Ciudad Mayólica al llamarla un cierto número de veces. Estará en la Forma este si elegiste al personaje femenino, o en la Forma oeste si elegiste al personaje masculino.",
+            "Dream World: Mar Brillante (formas este y oeste)."
+        ],
+        "Blanco 2": [
+            "Intercambiar: por cualquier Pokémon con la dueña del objeto perdido en Ciudad Mayólica al llamarla un cierto número de veces. Estará en la Forma este si elegiste al personaje femenino, o en la Forma oeste si elegiste al personaje masculino.",
+            "Dream World: Mar Brillante (formas este y oeste)."
+        ],
+        "Pokémon X": [
+            "Criando: de Gastrodon (forma oeste)",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Criando: de Gastrodon (forma oeste)",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "DexNav: ruta 110 (forma oeste).",
+            "Intercambiar: de Pokémon Zafiro Alfa (forma este)."
+        ],
+        "Zafiro Alfa": [
+            "DexNav: ruta 110 (forma este).",
+            "Intercambiar: de Pokémon Rubí Omega, X o Y (forma oeste)."
+        ],
+        "Sol": [
+            "Criando: de Gastrodon."
+        ],
+        "Luna": [
+            "Criando: de Gastrodon."
+        ],
+        "Ultrasol": [
+            "Criando: de Gastrodon.",
+            "Intercambiar: por Granbull en Aldea Marina (forma oeste)."
+        ],
+        "Ultraluna": [
+            "Criando: de Gastrodon.",
+            "Intercambiar: por Granbull en Aldea Marina (forma oeste)."
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Forma este: Mina de Galar n.º 2, Valle Entrepuentes, Gorro del Gigante, Espejo del Gigante, Ribera de Pistón y Llanura Pétrea.",
+            "Forma oeste: No aparece de forma salvaje.",
+            "Incursiones Dinamax:",
+            "Forma este: Espejo del Gigante, nido en la laguna, Lago Axew (oeste), nido en el agua (oeste), Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna.",
+            "Forma oeste: No aparece en incursiones.",
+            "Transferir desde Pokémon HOME."
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Forma este: Mina de Galar n.º 2, Valle Entrepuentes, Gorro del Gigante, Espejo del Gigante, Ribera de Pistón y Llanura Pétrea.",
+            "Forma oeste: No aparece de forma salvaje.",
+            "Incursiones Dinamax:",
+            "Forma este: Espejo del Gigante, nido en la laguna, Lago Axew (oeste), nido en el agua (oeste), Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna.",
+            "Forma oeste: No aparece en incursiones.",
+            "Transferir desde Pokémon HOME."
+        ],
+        "Diamante Brillante": [
+            "Salvaje:",
+            "Forma este: ruta 213.",
+            "Forma oeste: rutas 205 (sur y norte), 218, 221 y 224, Forja Fuego y Valle Eólico.",
+            "Grutas del Subsuelo: Cueva Arroyo y Cueva Fluvial."
+        ],
+        "Perla Reluciente": [
+            "Salvaje:",
+            "Forma este: ruta 213.",
+            "Forma oeste: rutas 205 (sur y norte), 218, 221 y 224, Forja Fuego y Valle Eólico.",
+            "Grutas del Subsuelo: Cueva Arroyo y Cueva Fluvial."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje:",
+            "Forma este: Bahía Silente y Vergel Marino",
+            "Forma oeste: Planicie Arena y Isla Hansa",
+            "Aparición masiva:",
+            "Forma este: Costa Cobalto",
+            "Forma oeste: Pradera Obsidiana",
+            "Aparición supermasiva:",
+            "Forma este: Costa Cobalto",
+            "Forma oeste: Pradera Obsidiana"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "El color y la forma varían según la región. En Sinnoh hay dos tipos confirmados.",
+        "Perla": "Vive cerca del agua. La forma de su cuerpo ha cambiado para adaptarse al hábitat.",
+        "Platino": "No hay que apretarle muy fuerte, ya que si lo haces, segrega un misterioso fluido morado.",
+        "Oro HeartGold": "Shellos adapta la forma y color de su cuerpo dependiendo del lugar donde viva.",
+        "Plata SoulSilver": "Shellos adapta la forma y color de su cuerpo dependiendo del lugar donde viva.",
+        "Negro": "No hay que apretarle muy fuerte, ya que si lo haces, segrega un misterioso fluido morado.",
+        "Blanco": "No hay que apretarle muy fuerte, ya que si lo haces, segrega un misterioso fluido morado.",
+        "Negro 2": "No hay que apretarle muy fuerte, ya que si lo haces, segrega un misterioso fluido morado.",
+        "Blanco 2": "No hay que apretarle muy fuerte, ya que si lo haces, segrega un misterioso fluido morado.",
+        "Pokémon X": "No hay que apretarle muy fuerte, ya que si lo haces, segrega un misterioso fluido morado.",
+        "Pokémon Y": "Shellos adapta la forma y color de su cuerpo dependiendo del lugar donde viva.",
+        "Rubí Omega": "No hay que apretarle muy fuerte, ya que si lo haces, segrega un misterioso fluido morado.",
+        "Zafiro Alfa": "Shellos adapta la forma y color de su cuerpo dependiendo del lugar donde viva.",
+        "Sol": "\nShellos este: Se alimenta de plancton marino. Su cuerpo presenta una coloración de extraordinaria viveza, acorde a las aguas en las que vive.\nShellos oeste: Suele vivir cerca del agua y su forma y color varían en función de factores como su hábitat o su alimentación.",
+        "Luna": "\nShellos este: El tipo de alimentación determina el color de su cuerpo, aunque no se observan cambios notables en su fuerza.\nShellos oeste: Al tocarlo, segrega un fluido violáceo que mancha las manos y que es extremadamente difícil de eliminar aún tras repetidos lavados.",
+        "Ultrasol": "\nShellos este: Si se siente amenazado, segrega un líquido de color morado. Se cree que es sudor fruto de la ansiedad.\nShellos oeste: Por lo general suele habitar en el agua, pero también puede moverse por tierra firme siempre y cuando su piel no se reseque por completo.",
+        "Ultraluna": "\nShellos este: Tiene una enorme capacidad de regeneración, por lo que los científicos están estudiando su composición celular.\nShellos oeste: Cuando se siente amenazado, secreta un fluido morado. Según se cree, podría tratarse de un fenómeno similar al de los sudores fríos.",
+        "Espada": "\nShellos este: Se dice que su aspecto cambia según el tipo de alimentación, aunque la veracidad de esta teoría aún está por comprobar.\nShellos oeste: Su aspecto cambia según el entorno. Al parecer, esta es la forma que adopta en mares de aguas cálidas.",
+        "Escudo": "\nShellos este: Su aspecto cambia en función de su entorno. En teoría, esta es la forma que adopta cuando habita en mares de aguas heladas.\nShellos oeste: Si se le aprieta muy fuerte, secreta un misterioso fluido morado que, aunque inofensivo, resulta desagradable por su viscosidad.",
+        "Diamante Brillante": "El color y la forma cambian según la región. En Sinnoh, hay dos variantes confirmadas.",
+        "Perla Reluciente": "Vive cerca del agua. La forma de su cuerpo ha cambiado para adaptarse al hábitat.",
+        "Leyendas: Arceus": "\nMar Oeste: Prospera en las costas de aguas cálidas. Es sorprendentemente sociable y se acercará a cualquiera que vea. ¡Hay que procurar no acabar cubierto de moco!\nMar Este: Se ven muchos especímenes en costas de aguas frías. Si se toca con algo de fuerza, secreta un líquido púrpura que mancha la ropa."
+    },
+    "evolution": [
+        [
+            "Shellos",
+            "Nivel 30",
+            "Gastrodon"
+        ]
+    ]
+}

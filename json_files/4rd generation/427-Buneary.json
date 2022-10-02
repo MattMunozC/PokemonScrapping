@@ -1,0 +1,128 @@
+{
+    "dex number": "427",
+    "pokemon name": "Buneary",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Fuga",
+        "Zoquete"
+    ],
+    "hidden abilities": [
+        "Flexibilidad"
+    ],
+    "stats": {
+        "hp": "55",
+        "atk": "66",
+        "def": "44",
+        "atk esp": "44",
+        "def esp": "56",
+        "speed": "85"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Bosque Vetusto."
+        ],
+        "Perla": [
+            "Salvaje: Bosque Vetusto."
+        ],
+        "Platino": [
+            "Salvaje: Bosque Vetusto."
+        ],
+        "Oro HeartGold": [
+            "Manada Pokémon: Ruta 25.",
+            "PokéWalker: Acontecimiento."
+        ],
+        "Plata SoulSilver": [
+            "Manada Pokémon: Ruta 25.",
+            "PokéWalker: Acontecimiento."
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino o Oro HeartGold y Plata Soulsilver.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Diamante y Perla, Platino o Oro HeartGold y Plata Soulsilver.",
+            "Dream World: Bosque Pequeño."
+        ],
+        "Negro 2": [
+            "Salvaje: Solar de Ciudad Porcelana."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro 2."
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Zona Safari, usando el DexNav después de tener la Pokédex Nacional."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Zona Safari, usando el DexNav después de tener la Pokédex Nacional."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 1 y Bosque de Poni"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 1 y Bosque de Poni"
+        ],
+        "Espada": [
+            "Salvaje: Prado Reverencia y Playa Desafío "
+        ],
+        "Escudo": [
+            "Salvaje: Prado Reverencia y Playa Desafío "
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Bosque Vetusto.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano, Caverna Glaciar, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Bosque Vetusto.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Nevisca, Cueva Ventisca, Cueva Témpano, Cueva Carámbano, Caverna Glaciar, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Bosque Recóndito, Páramo Algente, Termas Nevavista.",
+            "Aparición supermasiva: Pradera Obsidiana y Tundra Alba."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Ataca a sus enemigos con un golpe rápido de sus orejas. Sus picotazos son muy dolorosos.",
+        "Perla": "Cuando siente peligro, levanta las orejas. En noches frías, duerme con la cabeza metida en el pelaje.",
+        "Platino": "Lleva las orejas enrolladas. Cuando las extiende, golpea con tal fuerza que incluso puede romper rocas.",
+        "Oro HeartGold": "Expresa sus emociones moviendo las orejas de diferentes maneras. Cuando tiene miedo, las enrolla.",
+        "Plata SoulSilver": "Expresa sus emociones moviendo las orejas de diferentes maneras. Cuando tiene miedo, las enrolla.",
+        "Negro": "Lleva las orejas enrolladas. Cuando las extiende, golpea con tal fuerza que incluso puede romper rocas.",
+        "Blanco": "Lleva las orejas enrolladas. Cuando las extiende, golpea con tal fuerza que incluso puede romper rocas.",
+        "Negro 2": "Cuando golpea con fuerza sus orejas enrolladas contra el suelo, puede saltar alcanzando una altura sorprendente.",
+        "Blanco 2": "Cuando golpea con fuerza sus orejas enrolladas contra el suelo, puede saltar alcanzando una altura sorprendente.",
+        "Pokémon X": "Lleva las orejas enrolladas. Cuando las extiende, golpea con tal fuerza que incluso puede romper rocas.",
+        "Pokémon Y": "Cuando siente peligro, levanta las orejas. En noches frías, duerme con la cabeza metida en el pelaje.",
+        "Rubí Omega": "Lleva las orejas enrolladas. Cuando las extiende, golpea con tal fuerza que incluso puede romper rocas.",
+        "Zafiro Alfa": "Cuando siente peligro, levanta las orejas. En noches frías, duerme con la cabeza metida en el pelaje.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Si bien sus extremidades pecan de débiles, si enrolla las orejas y luego las extiende, puede hacer añicos incluso rocas bien grandes.",
+        "Ultraluna": "Siempre tiene una de las orejas enrollada para poder contraatacar de inmediato si un enemigo lanza su ofensiva.",
+        "Espada": "Cuando enrolla ambas orejas, es señal de que tiene algún tipo de malestar físico o emocional y necesita cuidados.",
+        "Escudo": "Ataca estirando con un fuerte impulso las orejas enrolladas. Cuanto más entrena esta técnica, con más potencia la ejecuta.",
+        "Diamante Brillante": "Ataca a sus enemigos extendiendo rápidamente las orejas enrolladas. Golpea con tal fuerza que podría hacer llorar de dolor a un adulto.",
+        "Perla Reluciente": "Cuando siente peligro, levanta las orejas. En noches frías, duerme con la cabeza metida en el pelaje.",
+        "Leyendas: Arceus": "Tengo una teoría acerca de su tendencia a enrollar las orejas: dada su alta capacidad auditiva, presumo que protege sus oídos limitando el sonido que entra en ellos."
+    },
+    "evolution": [
+        [
+            "Buneary",
+            "Amistad + nivel",
+            "Lopunny"
+        ]
+    ]
+}

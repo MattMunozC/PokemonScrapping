@@ -1,0 +1,128 @@
+{
+    "dex number": "424",
+    "pokemon name": "Ambipom",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Experto",
+        "Recogida"
+    ],
+    "hidden abilities": [
+        "Encadenado"
+    ],
+    "stats": {
+        "hp": "75",
+        "atk": "100",
+        "def": "66",
+        "atk esp": "60",
+        "def esp": "66",
+        "speed": "115"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)"
+        ],
+        "Perla": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)"
+        ],
+        "Platino": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel). Es necesario poseer la Pokédex Nacional"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel). Es necesario poseer la Pokédex Nacional"
+        ],
+        "Negro": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)",
+            "Especial: En Pueblo Terracota intercambiar por un Excadrill"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)",
+            "Especial: En Pueblo Terracota intercambiar por un Excadrill"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Salvaje: Llanura de Poni (como refuerzo de Aipom)",
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Llanura de Poni (como refuerzo de Aipom)",
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)"
+        ],
+        "Espada": [
+            "Ambipom no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Ambipom no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Aipom (conociendo doble golpe + nivel)",
+            "Salvaje: Cerro Aipom, Cala Oculta, Desfiladero Alud, Senda de la Arena, Peñasco Espíritu.",
+            "Pokémon alfa: Cala Oculta",
+            "Aparición supermasiva: Costa Cobalto y Tundra Alba"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Para comer, rompe nueces con sus dos colas. Raras veces utiliza sus brazos.",
+        "Perla": "Trabajan en grandes colonias y forman anillos uniendo sus colas, aparentemente en signo de amistad.",
+        "Platino": "Tiene dos colas muy útiles y hábiles para manejar cosas, así que rara vez utiliza las manos.",
+        "Oro HeartGold": "Vive en la copa de los árboles más altos. Los AMBIPOM comunican sus emociones uniendo sus colas.",
+        "Plata SoulSilver": "Usando sus colas, AMBIPOM puede propinar golpes sucesivos a velocidad de vértigo que son imposibles de esquivar.",
+        "Negro": "Tiene dos colas muy útiles y hábiles para manejar cosas, así que rara vez utiliza las manos.",
+        "Blanco": "Tiene dos colas muy útiles y hábiles para manejar cosas, así que rara vez utiliza las manos.",
+        "Negro 2": "Tiene dos colas muy útiles y hábiles para manejar cosas, así que rara vez utiliza las manos.",
+        "Blanco 2": "Tiene dos colas muy útiles y hábiles para manejar cosas, así que rara vez utiliza las manos.",
+        "Pokémon X": "Habitan en grandes colonias y forman anillos uniendo sus colas, aparentemente en signo de amistad.",
+        "Pokémon Y": "Para comer, rompe nueces con sus dos colas. Raras veces utiliza sus brazos.",
+        "Rubí Omega": "Habitan en grandes colonias y forman anillos uniendo sus colas, aparentemente en signo de amistad.",
+        "Zafiro Alfa": "Para comer, rompe nueces con sus dos colas. Raras veces utiliza sus brazos.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Su especie arma constantes trifulcas por los árboles más cómodos con los Passimian. Suelen ganar la mitad de las veces.",
+        "Ultraluna": "Utiliza las dos colas para todo. Cuando abraza a alguien con ellas significa que esa persona se ha ganado por completo su confianza.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Para comer, casca hábilmente nueces con las dos colas. Rara vez utiliza los brazos.",
+        "Perla Reluciente": "Habitan en grandes colonias y forman anillos uniendo las colas, aparentemente en signo de amistad.",
+        "Leyendas: Arceus": "Forma anillos uniendo ambas colas con las de sus semejantes para mostrar afecto. Muy poca gente ha tenido el honor de presenciar este ritual, mas se han dado casos."
+    },
+    "evolution": [
+        [
+            "Aipom",
+            "Conociendo doble golpe+ nivel",
+            "Ambipom"
+        ]
+    ]
+}

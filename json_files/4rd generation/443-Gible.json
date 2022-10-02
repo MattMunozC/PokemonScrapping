@@ -1,0 +1,134 @@
+{
+    "dex number": "443",
+    "pokemon name": "Gible",
+    "types": [
+        "dragón",
+        "tierra"
+    ],
+    "abilities": [
+        "Velo arena"
+    ],
+    "hidden abilities": [
+        "Piel tosca"
+    ],
+    "stats": {
+        "hp": "58",
+        "atk": "70",
+        "def": "45",
+        "atk esp": "40",
+        "def esp": "45",
+        "speed": "42"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Zona secreta de la Cueva Extravío"
+        ],
+        "Perla": [
+            "Salvaje: Zona secreta de la Cueva Extravío"
+        ],
+        "Platino": [
+            "Salvaje: Zona secreta de la Cueva Extravío"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari (laguna), tras obtener la Pokédex Nacional."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari (laguna), tras obtener la Pokédex Nacional."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Negro 2",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Negro 2",
+            "Dream World: Cueva Helada"
+        ],
+        "Negro 2": [
+            "Regalo: Guayo entrega un Gible variocolor al ser derrotado",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Negro 2",
+            "Dream World: Cueva Helada"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 13"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 13"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 111, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 111, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Criar: de Gabite o Garchomp"
+        ],
+        "Luna": [
+            "Criar: de Gabite o Garchomp"
+        ],
+        "Ultrasol": [
+            "Criar: de Gabite o Garchomp"
+        ],
+        "Ultraluna": [
+            "Criar: de Gabite o Garchomp"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Túnel Ascensión ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Zona secreta de la Cueva Extravío.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Zona secreta de la Cueva Extravío.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Cueva Extravío, Risco Riscoso y Desfiladero Alud.",
+            "Aparición supermasiva: Ladera Corona."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Anida en pequeños agujeros en las paredes de cuevas. Cuando una presa pasa cerca, salta hacia ella.",
+        "Perla": "Antes vivía en el trópico. Para evitar el frío, habita en cuevas calentadas por calor geotérmico.",
+        "Platino": "Ataca usando su enorme boca y, con lo torpe que es, también se suele dañar con sus potentes ataques.",
+        "Oro HeartGold": "Vive en agujeros en las cuevas, al amparo del calor geotérmico. Si se acerca un enemigo, le muerde.",
+        "Plata SoulSilver": "Vive en agujeros en las cuevas, al amparo del calor geotérmico. Si se acerca un enemigo, le muerde.",
+        "Negro": "Ataca usando su enorme boca y, con lo torpe que es, también se suele dañar con sus potentes ataques.",
+        "Blanco": "Ataca usando su enorme boca y, con lo torpe que es, también se suele dañar con sus potentes ataques.",
+        "Negro 2": "Ataca usando su enorme boca y, con lo torpe que es, también se suele dañar con sus potentes ataques.",
+        "Blanco 2": "Ataca usando su enorme boca y, con lo torpe que es, también se suele dañar con sus potentes ataques.",
+        "Pokémon X": "Vive en agujeros en las cuevas, al amparo del calor geotérmico. Si se acerca un enemigo, le muerde.",
+        "Pokémon Y": "Anida en pequeños agujeros en las paredes de cuevas. Cuando una presa pasa cerca, salta hacia ella.",
+        "Rubí Omega": "Vive en agujeros en las cuevas, al amparo del calor geotérmico. Si se acerca un enemigo, le muerde.",
+        "Zafiro Alfa": "Anida en pequeños agujeros en las paredes de cuevas. Cuando una presa pasa cerca, salta hacia ella.",
+        "Sol": "Vive en el interior de cuevas, al amparo del calor geotérmico. Si aun así sigue sintiendo frío, se junta con sus congéneres haciendo una piña.",
+        "Luna": "Permanece oculto en cuevas y cuando pasa una presa, se abalanza sobre ella y la muerde con tanta fuerza que hasta se le rompen los dientes.",
+        "Ultrasol": "En cuanto percibe un objeto en movimiento, se lanza contra él y le asesta dentelladas. A veces se hiere a sí mismo, pero no le importa.",
+        "Ultraluna": "Un Pokémon habituado a un clima aún más cálido que el de Alola. Quien convive con un Gible gasta mucho dinero en calefacción.",
+        "Espada": "Vive en pequeños agujeros de cuevas calentadas por la energía geotérmica, por lo que no pasa frío ni aunque fuera se desate una ventisca.",
+        "Escudo": "Ataca indiscriminadamente a cualquier cosa que se mueva y la arrastra a su agujero. Pese a tener una boca enorme, su estómago es pequeño.",
+        "Diamante Brillante": "Vive en pequeños agujeros en las paredes de cuevas. Cuando una presa pasa cerca, salta hacia ella.",
+        "Perla Reluciente": "Antiguamente, había habitado en el trópico. Para evitar el frío, anida en cuevas al amparo del calor geotérmico.",
+        "Leyendas: Arceus": "Mora en cavernas resguardadas de la luz solar. Aunque sus afilados colmillos se le puedan caer por el deterioro o un fuerte golpe, le brotan unos nuevos en cuestión de días."
+    },
+    "evolution": [
+        [
+            "Gible",
+            "Nivel 24",
+            "Gabite",
+            "Nivel 48",
+            "Garchomp"
+        ]
+    ]
+}

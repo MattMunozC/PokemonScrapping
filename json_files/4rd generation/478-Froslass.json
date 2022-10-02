@@ -1,0 +1,131 @@
+{
+    "dex number": "478",
+    "pokemon name": "Froslass",
+    "types": [
+        "hielo",
+        "fantasma"
+    ],
+    "abilities": [
+        "Manto níveo"
+    ],
+    "hidden abilities": [
+        "Cuerpo maldito"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "80",
+        "def": "70",
+        "atk esp": "80",
+        "def esp": "70",
+        "speed": "110"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Perla": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Platino": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Sol": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Luna": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al extremo oeste y Gorro del Gigante, nido en el centro.",
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al extremo oeste y Gorro del Gigante, nido en el centro.",
+            "Evolucionar: a Snorunt (piedra alba; hembra)."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Snorunt (piedra alba + hembra)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Snorunt (piedra alba + hembra)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Páramo Algente, Témpano Avalugg y Desfiladero Alud. (noche)",
+            "Evolucionar: a Snorunt (piedra alba + hembra).",
+            "Aparición supermasiva: Tundra Alba.",
+            "Pokémon alfa: Cascada Glaliar"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Congela a sus enemigos con un aliento gélido de 50 grados bajo cero. Está hueco por dentro.",
+        "Perla": "Congela a sus enemigos con un aliento gélido de 50 grados bajo cero. Está hueco por dentro.",
+        "Platino": "Congela a sus presas con su aliento gélido de 50 grados bajo cero. Se dice que luego las expone.",
+        "Oro HeartGold": "Cuenta la leyenda que es la reencarnación de mujeres que sufrieron accidentes en la nieve.",
+        "Plata SoulSilver": "Cuenta la leyenda que es la reencarnación de mujeres que sufrieron accidentes en la nieve.",
+        "Negro": "Congela a sus presas con su aliento gélido de 50° bajo cero. Se dice que luego las expone.",
+        "Blanco": "Congela a sus presas con su aliento gélido de 50° bajo cero. Se dice que luego las expone.",
+        "Negro 2": "Congela a sus presas con su aliento gélido de 50° bajo cero. Se dice que luego las expone.",
+        "Blanco 2": "Congela a sus presas con su aliento gélido de 50° bajo cero. Se dice que luego las expone.",
+        "Pokémon X": "Congela a sus enemigos con un aliento gélido de -50 °C. Su cuerpo está hueco.",
+        "Pokémon Y": "Cuenta la leyenda que es la reencarnación de mujeres que sufrieron accidentes en la nieve.",
+        "Rubí Omega": "Congela a sus enemigos con un aliento gélido de -50 °C. Su cuerpo está hueco.",
+        "Zafiro Alfa": "Cuenta la leyenda que es la reencarnación de mujeres que sufrieron accidentes en la nieve.",
+        "Sol": "Con su gélido aliento congela a todo Pokémon o humano que le llame la atención y se lo lleva a su guarida para usarlo como objeto decorativo.",
+        "Luna": "Cuenta la leyenda que es la reencarnación de mujeres que sufrieron accidentes en la nieve. Siente predilección por las almas masculinas.",
+        "Ultrasol": "Congela a los hombres que se aventuran en las cimas nevadas y se los lleva a su guarida, pero tan solo a aquellos que considera apuestos.",
+        "Ultraluna": "Se dice que aparece de noche en poblaciones tras una intensa ventisca. Si llama a la puerta, no se le debe abrir bajo ningún concepto.",
+        "Espada": "Nació del resentimiento de mujeres fallecidas en montañas nevadas. Su manjar predilecto son las almas congeladas.",
+        "Escudo": "Expulsa un vaho gélido a -50 °C con el que congela a sus presas para luego llevarlas a su morada y colocarlas como adorno.",
+        "Diamante Brillante": "Congela a sus enemigos con un aliento gélido a -50 ºC. Su aparente cuerpo está hueco.",
+        "Perla Reluciente": "Congela a sus enemigos con un aliento gélido a -50 ºC. Su aparente cuerpo está hueco.",
+        "Leyendas: Arceus": "Contienen las almas resentidas de mujeres desaparecidas en los montes nevados. Me ponen los pelos de punta, pues se dice que maldicen y sacrifican a los hombres que cometen fechorías."
+    },
+    "evolution": [
+        [
+            "Snorunt",
+            "Nivel 42",
+            "Glalie"
+        ],
+        [
+            "",
+            "♀ + Piedra alba ",
+            "Froslass"
+        ]
+    ]
+}

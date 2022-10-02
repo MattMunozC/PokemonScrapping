@@ -1,0 +1,142 @@
+{
+    "dex number": "419",
+    "pokemon name": "Floatzel",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Nado rápido"
+    ],
+    "hidden abilities": [
+        "Velo agua"
+    ],
+    "stats": {
+        "hp": "85",
+        "atk": "105",
+        "def": "55",
+        "atk esp": "85",
+        "def esp": "50",
+        "speed": "115"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Ruta 213, Ruta 218, Ruta 221, Ruta 222, Ruta 224 y Ruta 230, Forja Fuego y Calle Victoria",
+            "Evolucionar: a Buizel (nivel 26)"
+        ],
+        "Perla": [
+            "Salvaje: Ruta 213, Ruta 218, Ruta 221, Ruta 222, Ruta 224 y Ruta 230, Forja Fuego y Calle Victoria",
+            "Evolucionar: a Buizel (nivel 26)"
+        ],
+        "Platino": [
+            "Salvaje: Ruta 218, Ruta 221, Ruta 222, Ruta 224, Ruta 230, Forja Fuego y Calle Victoria.",
+            "Evolucionar: a Buizel (nivel 26)"
+        ],
+        "Oro HeartGold": [
+            "Zona Safari: Lago (10 bloques agua)",
+            "Evolucionar: a Buizel (nivel 26)"
+        ],
+        "Plata SoulSilver": [
+            "Zona Safari: Lago (10 bloques agua)",
+            "Evolucionar: a Buizel (nivel 26)"
+        ],
+        "Negro": [
+            "Surfeando: Ruta 11 y Ruta 14 (sombra del agua)",
+            "Evolucionar: a Buizel (nivel 26)"
+        ],
+        "Blanco": [
+            "Surfeando: Ruta 11 y Ruta 14 (sombra del agua)",
+            "Evolucionar: a Buizel (nivel 26)"
+        ],
+        "Negro 2": [
+            "Surfeando: Ruta 11, Ruta 14, Ruta 23, Bosque de los Perdidos, Calle Victoria y Reserva Natural (sombra del agua)",
+            "Evolucionar: a Buizel (nivel 26)"
+        ],
+        "Blanco 2": [
+            "Surfeando: Ruta 11, Ruta 14, Ruta 23, Bosque de los Perdidos, Calle Victoria y Reserva Natural (sombra del agua)",
+            "Evolucionar: a Buizel (nivel 26)"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 16, Ruta 21 y Calle Victoria",
+            "Surfeando: Ruta 15, Ruta 21, Gruta Helada, Pueblo Mosaico y Calle Victoria",
+            "Especial: Safari Amistad, en algunos safaris de tipo agua",
+            "Evolucionar: a Buizel (nivel 26)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 16, Ruta 21 y Calle Victoria",
+            "Surfeando: Ruta 15, Ruta 21, Gruta Helada, Pueblo Mosaico y Calle Victoria",
+            "Especial: Safari Amistad, en algunos safaris de tipo agua",
+            "Evolucionar: a Buizel (nivel 26)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul"
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul"
+        ],
+        "Espada": [
+            "Floatzel no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Floatzel no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Ruta 213, Ruta 218, Ruta 221, Ruta 222, Ruta 224 y Ruta 230, Forja Fuego y Calle Victoria.",
+            "Evolucionar: a Buizel (nivel 26)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Ruta 213, Ruta 218, Ruta 221, Ruta 222, Ruta 224 y Ruta 230, Forja Fuego y Calle Victoria.",
+            "Evolucionar: a Buizel (nivel 26)."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Buizel (nivel 26)",
+            "Salvaje: Puente Erosionado, Cerro Aipom y Albuferas Chapuzón.",
+            "Apariciones masivas: Pradera Obsidiana y Costa Cobalto",
+            "Aparición supermasivas: Pradera Obsidiana"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Nada gracias a su flotador. Ayuda en los rescates de gente que se está ahogando.",
+        "Perla": "Su flotador se desarrolló a raíz de perseguir presas acuáticas. También sirve como balsa.",
+        "Platino": "Se le ve en los puertos pesqueros, ayudando a rescatar a personas o trasladando presas.",
+        "Oro HeartGold": "Con el flotador inflado puede llevar a personas sobre su espalda. Si lo desinfla, se sumerge.",
+        "Plata SoulSilver": "Con el flotador inflado puede llevar a personas sobre su espalda. Si lo desinfla, se sumerge.",
+        "Negro": "Se le ve en los puertos pesqueros, ayudando a rescatar a personas o trasladando presas.",
+        "Blanco": "Se le ve en los puertos pesqueros, ayudando a rescatar a personas o trasladando presas.",
+        "Negro 2": "Habita en los puertos pesqueros, ayudando a rescatar a personas o trasladando presas.",
+        "Blanco 2": "Habita en los puertos pesqueros, ayudando a rescatar a personas o trasladando presas.",
+        "Pokémon X": "Nada gracias a su flotador. Ayuda en los rescates de gente que se está ahogando.",
+        "Pokémon Y": "Su flotador se desarrolló a raíz de perseguir presas acuáticas. También sirve como balsa.",
+        "Rubí Omega": "Nada gracias a su flotador. Ayuda en los rescates de gente que se está ahogando.",
+        "Zafiro Alfa": "Su flotador se desarrolló a raíz de perseguir presas acuáticas. También sirve como balsa.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Flota gracias a su desarrollada vejiga natatoria. Ayuda en los rescates de gente que se está ahogando.",
+        "Perla Reluciente": "Su vejiga natatoria, que hace las veces de balsa, se desarrolló a raíz de perseguir presas acuáticas.",
+        "Leyendas: Arceus": "Cuenta con una magnífica vejiga natatoria alargada que lo mantiene a flote en la peor de las tormentas. Suele aparecer cerca de las zonas pesqueras."
+    },
+    "evolution": [
+        [
+            "Buizel",
+            "Nivel 26",
+            "Floatzel"
+        ]
+    ]
+}

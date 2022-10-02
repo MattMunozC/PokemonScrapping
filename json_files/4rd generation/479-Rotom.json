@@ -1,0 +1,134 @@
+{
+    "dex number": "479",
+    "pokemon name": "Rotom",
+    "types": [
+        "eléctrico",
+        "fantasma",
+        "eléctrico",
+        "fuego",
+        "eléctrico",
+        "agua",
+        "eléctrico",
+        "hielo",
+        "eléctrico",
+        "volador",
+        "eléctrico",
+        "planta"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "50",
+        "atk": "50",
+        "def": "77",
+        "atk esp": "95",
+        "def esp": "77",
+        "speed": "91"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: aparece por la noche, solo después de conseguir la Pokédex Nacional, en la televisión de la segunda habitación del segundo piso de la Vieja Mansión (solo uno)"
+        ],
+        "Perla": [
+            "Salvaje: aparece por la noche, solo después de conseguir la Pokédex Nacional, en la televisión de la segunda habitación del segundo piso de la Vieja Mansión (solo uno)"
+        ],
+        "Platino": [
+            "Salvaje: aparece por la noche (a partir de las 20:00) en la televisión de la segunda habitación del segundo piso de la Vieja Mansión (solo uno)"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino."
+        ],
+        "Negro": [
+            "Intercambiar: por un Ditto en la caravana de la Ruta 15"
+        ],
+        "Blanco": [
+            "Intercambiar: por un Ditto en la caravana de la Ruta 15"
+        ],
+        "Negro 2": [
+            "Intercambiar: por un Ditto en la caravana de la Ruta 15"
+        ],
+        "Blanco 2": [
+            "Intercambiar: por un Ditto en la caravana de la Ruta 15"
+        ],
+        "Pokémon X": [
+            "Salvaje: Hotel Desolación (solo los martes)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Hotel Desolación (solo los martes)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Escáner insular: Pendiente de Poni (martes)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Pendiente de Poni (martes)"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado (en lluvia y tormenta) y Mar Gimnástico ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste",
+            "Evento: Rotom de Pokémon HOME"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado (en lluvia y tormenta) y Mar Gimnástico ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste",
+            "Evento: Rotom de Pokémon HOME"
+        ],
+        "Diamante Brillante": [
+            "Salvaje: aparece por la noche en la televisión de la segunda habitación del segundo piso de la Vieja Mansión (solo uno)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: aparece por la noche en la televisión de la segunda habitación del segundo piso de la Vieja Mansión (solo uno)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Cañón Lítico y Ágora de la Plegaria.",
+            "Aparición supermasiva: Ladera Corona"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Su cuerpo está hecho de plasma. Puede infiltrarse en dispositivos electrónicos e inutilizarlos.",
+        "Perla": "Su cuerpo está hecho de plasma. Puede infiltrarse en dispositivos electrónicos e inutilizarlos.",
+        "Platino": "Con su cuerpo eléctrico puede infiltrarse en algunas máquinas para controlarlas y causar daños.",
+        "Oro HeartGold": "Desde hace mucho tiempo se estudia su singular motor como fuente de energía motriz.",
+        "Plata SoulSilver": "Desde hace mucho tiempo se estudia su singular motor como fuente de energía motriz.",
+        "Negro": "Con su cuerpo eléctrico puede infiltrarse en algunas máquinas para controlarlas y causar daños.",
+        "Blanco": "Con su cuerpo eléctrico puede infiltrarse en algunas máquinas para controlarlas y causar daños.",
+        "Negro 2": "Con su cuerpo eléctrico puede infiltrarse en algunas máquinas para controlarlas y causar daños.",
+        "Blanco 2": "Con su cuerpo eléctrico puede infiltrarse en algunas máquinas para controlarlas y causar daños.",
+        "Pokémon X": "Desde hace mucho tiempo se estudia su singular motor como fuente de energía motriz.",
+        "Pokémon Y": "Su cuerpo está hecho de plasma. Puede infiltrarse en dispositivos electrónicos e inutilizarlos.",
+        "Rubí Omega": "Desde hace mucho tiempo se estudia su singular motor como fuente de energía motriz.",
+        "Zafiro Alfa": "Su cuerpo está hecho de plasma. Puede infiltrarse en dispositivos electrónicos e inutilizarlos.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "\nRotom: Gracias a la inventiva de cierto joven, se ha iniciado la fabricación de diversos artilugios que aprovechan todo el potencial de Rotom.\nRotom calor: Ha tomado posesión de un horno eléctrico que funciona con un motor especial. Controla el fuego con maña.\nRotom lavado: Asume esta forma cuando quiere utilizar el agua para hacer fechorías tales como inundar habitaciones.\nRotom frío: Ha tomado posesión de un frigorífico que funciona con un motor especial. Se vale de su aire gélido para combatir.\nRotom ventilador: Asume esta forma cuando quiere usar el viento para hacer fechorías tales como esparcir por doquier montañas de documentos importantes.\nRotom corte: Ha tomado posesión de un cortacésped que funciona con un motor especial. Esparce por todos lados la hierba que ha cortado.",
+        "Escudo": "\nRotom: Su cuerpo de plasma le permite infiltrarse en toda clase de dispositivos electrónicos. Adora sobresaltar a la gente.\nRotom calor: Asume esta forma cuando quiere emplear el fuego para cometer fechorías tales como chamuscar la ropa favorita de la gente.\nRotom lavado: Ha tomado posesión de una lavadora que funciona con un motor especial. Intimida a sus oponentes con potentes chorros de agua.\nRotom frío: Asume esta forma cuando quiere emplear su aire gélido para cometer fechorías tales como congelar el agua caliente de las bañeras.\nRotom ventilador: Ha tomado posesión de un ventilador que funciona con un motor especial. Lanza a sus rivales volando con fuertes ráfagas de aire.\nRotom corte: Asume esta forma para cometer fechorías relacionadas con las plantas, tales como cortar las flores que alguien ha cuidado con esmero.",
+        "Diamante Brillante": "Su cuerpo está hecho de plasma. Se lo conoce por su capacidad para infiltrarse en dispositivos electrónicos y cometer fechorías.",
+        "Perla Reluciente": "Su cuerpo está hecho de plasma. Se lo conoce por su capacidad para infiltrarse en dispositivos electrónicos y cometer fechorías.",
+        "Leyendas: Arceus": "\nRotom: Es una suerte de fuego fatuo eléctrico rodeado de incógnitas. Aconsejo cautela, pues es capaz de llevar a cabo diabluras de lo más elaboradas.\nRotom Calor: Reside en el interior de un extraño caldero de procedencia desconocida. Le encanta realizar fechorías exhalando fuego.\nRotom Lavado: Reside en el interior de una especie de cajonera cuya finalidad original se desconoce. Le encanta realizar fechorías esparciendo agua muy fría por doquier.\nRotom Frío: Reside en el interior de una extraña alacena creada a partir de materiales desconocidos. Le encanta realizar fechorías con la escarcha que produce.\nRotom Ventilador: Reside en el interior de un extraño aparato cuya finalidad se desconoce. Le encanta realizar fechorías creando fuertes corrientes de aire.\nRotom Corte: Reside en el interior de una especie de carretilla cuyos mecanismos resultan totalmente inexplicables. Le encanta realizar fechorías cortando plantas."
+    },
+    "evolution": [
+        [
+            "Rotom"
+        ]
+    ]
+}

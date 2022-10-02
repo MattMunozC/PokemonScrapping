@@ -1,0 +1,131 @@
+{
+    "dex number": "417",
+    "pokemon name": "Pachirisu",
+    "types": [
+        "eléctrico"
+    ],
+    "abilities": [
+        "Fuga",
+        "Recogida"
+    ],
+    "hidden abilities": [
+        "Absorbe electricidad"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "45",
+        "def": "70",
+        "atk esp": "45",
+        "def esp": "90",
+        "speed": "95"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Ruta 205, Forja Fuego, Valle Eólico."
+        ],
+        "Perla": [
+            "Salvaje: Ruta 205, Forja Fuego, Valle Eólico."
+        ],
+        "Platino": [
+            "Salvaje: Ruta 205, Valle Eólico."
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari.",
+            "Pokéwalker: Zona Vacacional, Acontecimiento."
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari.",
+            "Pokéwalker: Zona Vacacional, Acontecimiento."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Negro 2 y Pokémon Blanco 2.",
+            "Pokémon Dream World: Bosque Pequeño, con la habilidad Absorbe electricidad."
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro 2 y Pokémon Blanco 2.",
+            "Pokémon Dream World: Bosque Pequeño, con la habilidad Absorbe electricidad."
+        ],
+        "Negro 2": [
+            "Claro Oculto: Ruta 3 (cerca de la hierba oscura).",
+            "Pokémon Dream World: Bosque Pequeño, con la habilidad Absorbe electricidad."
+        ],
+        "Blanco 2": [
+            "Claro Oculto: Ruta 3 (cerca de la hierba oscura).",
+            "Pokémon Dream World: Bosque Pequeño, con la habilidad Absorbe electricidad."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 12.",
+            "Safari Amistad: Algunos safaris de tipo eléctrico."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 12.",
+            "Safari Amistad: Algunos safaris de tipo eléctrico."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Pachirisu no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Pachirisu no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Ruta 205 (sur y norte), Forja Fuego y Valle Eólico.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Nevisca y Cueva Ventisca."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Ruta 205 (sur y norte), Forja Fuego y Valle Eólico.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Nevisca y Cueva Ventisca."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Aleteo",
+            "Pokémon alfa: Ciénaga Bocazas",
+            "Apariciones supermasivas: Pantanal Carmesí y Tundra Alba."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Crea bolas de pelo que crepitan con electricidad estática. Las almacena en agujeros de árboles.",
+        "Perla": "Genera electricidad con las bolsas de sus mejillas y suelta descargas con su cola. Vive en los árboles.",
+        "Platino": "A veces se ve a dos frotándose las bolsas de las mejillas para compartir electricidad almacenada.",
+        "Oro HeartGold": "Pachirisu guarda electricidad en sus mejillas y luego las descarga por su cola.",
+        "Plata SoulSilver": "Pachirisu guarda electricidad en sus mejillas y luego las descarga por su cola.",
+        "Negro": "A veces se ve a dos frotándose las bolsas de las mejillas para compartir electricidad almacenada.",
+        "Blanco": "A veces se ve a dos frotándose las bolsas de las mejillas para compartir electricidad almacenada.",
+        "Negro 2": "A veces se ve a dos frotándose las bolsas de las mejillas para compartir electricidad almacenada.",
+        "Blanco 2": "A veces se ve a dos frotándose las bolsas de las mejillas para compartir electricidad almacenada.",
+        "Pokémon X": "Crea bolas de pelo que crepitan con electricidad estática. Las almacena en agujeros de árboles.",
+        "Pokémon Y": "A veces se ve a dos frotándose las bolsas de las mejillas para compartir electricidad almacenada.",
+        "Rubí Omega": "Crea bolas de pelo que crepitan con electricidad estática. Las almacena en agujeros de árboles.",
+        "Zafiro Alfa": "A veces se ve a dos frotándose las bolsas de las mejillas para compartir electricidad almacenada.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Crea bolas de pelo que crepitan con electricidad estática. Las almacena junto a bayas en agujeros de árboles.",
+        "Perla Reluciente": "Este Pokémon arborícola genera electricidad con las bolsas de las mejillas y suelta descargas por la cola.",
+        "Leyendas: Arceus": "Un pariente cercano de los Pikachu y su cadena evolutiva. Tiene un carácter afable, mas tocar su cola y mejillas electrizantes supone un gran peligro."
+    },
+    "evolution": [
+        [
+            "Pachirisu"
+        ]
+    ]
+}

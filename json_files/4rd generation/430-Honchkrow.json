@@ -1,0 +1,128 @@
+{
+    "dex number": "430",
+    "pokemon name": "Honchkrow",
+    "types": [
+        "siniestro",
+        "volador"
+    ],
+    "abilities": [
+        "Insomnio",
+        "Afortunado"
+    ],
+    "hidden abilities": [
+        "Autoestima"
+    ],
+    "stats": {
+        "hp": "100",
+        "atk": "125",
+        "def": "52",
+        "atk esp": "105",
+        "def esp": "52",
+        "speed": "71"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Murkrow utilizando una piedra noche."
+        ],
+        "Perla": [
+            "Evolucionar: a Murkrow utilizando una piedra noche."
+        ],
+        "Platino": [
+            "Evolucionar: a Murkrow utilizando una piedra noche."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Murkrow utilizando una piedra noche, después de conseguir la Pokédex nacional."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Murkrow utilizando una piedra noche, después de conseguir la Pokédex nacional."
+        ],
+        "Negro": [
+            "Salvaje: en Santuario Abundancia",
+            "Evolucionar: a Murkrow utilizando una piedra noche, después de conseguir la Pokédex nacional."
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Murkrow utilizando una piedra noche."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Murkrow utilizando una piedra noche."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Murkrow utilizando una piedra noche."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Murkrow utilizando una piedra noche."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Murkrow utilizando una piedra noche."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Murkrow utilizando una piedra noche."
+        ],
+        "Sol": [
+            "Evolucionar: a Murkrow utilizando una piedra noche."
+        ],
+        "Luna": [
+            "Evolucionar: a Murkrow utilizando una piedra noche."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Murkrow utilizando una piedra noche.",
+            "Poké Resort: Cayo Recreo, tras superar la Liga Pokémon"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Murkrow utilizando una piedra noche.",
+            "Poké Resort: Cayo Recreo, tras superar la Liga Pokémon"
+        ],
+        "Espada": [
+            "Honchkrow no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Honchkrow no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Murkrow (piedra noche)."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Murkrow (Piedra Noche)",
+            "Salvaje: Rellano Nebuloso y Albuferas Chapuzón",
+            " Aparición supermasiva: Costa Cobalto.",
+            "Pokémon alfa: Rellano Nebuloso (noche)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Está activo por la noche y pulula arrastrando a numerosos Murkrow.",
+        "Perla": "Sus amigos Murkrow le traen comida. Se dedica a holgazanear y acicalarse en su nido.",
+        "Platino": "Si uno lanza un grito profundo, los demás acuden. Por eso se le llama también \"Invocador de la noche\".",
+        "Oro HeartGold": "No perdona ni se apiada nunca. No consiente fallos ni a los propios Murkrow que lo siguen.",
+        "Plata SoulSilver": "No perdona ni se apiada nunca. No consiente fallos ni a los propios Murkrow que lo siguen.",
+        "Negro": "Si uno lanza un grito profundo, los demás acuden. Por eso se le llama también \"Invocador de la noche\".",
+        "Blanco": "Si uno lanza un grito profundo, los demás acuden. Por eso se le llama también \"Invocador de la noche\".",
+        "Negro 2": "Si uno lanza un grito profundo, los demás acuden. Por eso se le llama también \"Invocador de la noche\".",
+        "Blanco 2": "Si uno lanza un grito profundo, los demás acuden. Por eso se le llama también \"Invocador de la noche\".",
+        "Pokémon X": "Si uno lanza un grito profundo, los demás acuden. Por eso se le llama también \"Invocador de la noche\".",
+        "Pokémon Y": "Está activo por la noche y pulula arrastrando a numerosos Murkrow.",
+        "Rubí Omega": "Si uno lanza un grito profundo, los demás acuden. Por eso se le llama también \"Invocador de la noche\".",
+        "Zafiro Alfa": "Está activo por la noche y pulula arrastrando a numerosos Murkrow.",
+        "Sol": "Es un Pokémon nocturno. Con un solo grito puede hacer que acudan más de cien de sus leales Murkrow.",
+        "Luna": "Si alguno de sus leales Murkrow fracasa en conseguirle una presa o se la guarda para sí, lo perseguirá sin descanso para castigarle.",
+        "Ultrasol": "No perdona el más mínimo error ni la traición de sus subordinados. Este estricto código es para preservar la integridad de su bandada.",
+        "Ultraluna": "Delega el combate en sus leales súbditos y solo se involucra cuando llega la hora de asestarle el golpe de gracia al enemigo.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Un Pokémon de hábitos nocturnos, conocido por formar bandadas con los numerosos Murkrow que lo siguen.",
+        "Perla Reluciente": "Manda a sus esbirros Murkrow a que le traigan comida mientras él se dedica a holgazanear y acicalarse en su nido.",
+        "Leyendas: Arceus": "Un solo grito de este Pokémon basta para que una enorme bandada de Murkrow alce el vuelo y cubra el cielo nocturno con un velo aún más oscuro."
+    },
+    "evolution": [
+        [
+            "Murkrow",
+            "Piedra noche ",
+            "Honchkrow"
+        ]
+    ]
+}

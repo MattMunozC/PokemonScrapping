@@ -1,0 +1,127 @@
+{
+    "dex number": "414",
+    "pokemon name": "Mothim",
+    "types": [
+        "bicho",
+        "volador"
+    ],
+    "abilities": [
+        "Enjambre"
+    ],
+    "hidden abilities": [
+        "Cromolente"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "94",
+        "def": "50",
+        "atk esp": "94",
+        "def esp": "50",
+        "speed": "66"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Burmy (nivel 20 y macho)"
+        ],
+        "Perla": [
+            "Evolucionar: a Burmy (nivel 20 y macho)"
+        ],
+        "Platino": [
+            "Evolucionar: a Burmy (nivel 20 y macho)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Burmy (nivel 20 y macho)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Burmy (nivel 20 y macho)"
+        ],
+        "Negro": [
+            "Pokétransfer: de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold y Pokémon Plata Soulsilver."
+        ],
+        "Blanco": [
+            "Pokétransfer: de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold y Pokémon Plata Soulsilver."
+        ],
+        "Negro 2": [
+            "Pokétransfer: de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold y Pokémon Plata Soulsilver."
+        ],
+        "Blanco 2": [
+            "Pokétransfer: de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold y Pokémon Plata Soulsilver."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Burmy (nivel 20 y macho)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Burmy (nivel 20 y macho)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Burmy (nivel 20 y macho)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Mothim no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Mothim no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Burmy (nivel 20 y macho)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Burmy (nivel 20 y macho)."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Burmy (nivel 20 + macho)",
+            "Salvaje: Foresta Funesta, Playa Ginkgo, Cabo Rocavelo, Cerro Aipom, Vía Manantial, Bosque Extravío."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Le encanta la miel de las flores y roba la que recoge Combee.",
+        "Perla": "No tiene nido. Vuela sobre los campos y las montañas en busca de miel floral.",
+        "Platino": "Le gusta la miel de flores, pero no le gusta recogerla. Se dedica a robársela a Combee",
+        "Oro HeartGold": "Hace vida nocturna. Revolotea y roba la miel de las colmenas de Combee cuando duermen.",
+        "Plata SoulSilver": "Hace vida nocturna. Revolotea y roba la miel de las colmenas de Combee cuando duermen.",
+        "Negro": "Le gusta la miel de flores, pero no le gusta recogerla. Se dedica a robársela a Combee",
+        "Blanco": "Le gusta la miel de flores, pero no le gusta recogerla. Se dedica a robársela a Combee",
+        "Negro 2": "Le gusta la miel de flores, pero no le gusta recogerla. Se dedica a robársela a Combee",
+        "Blanco 2": "Le gusta la miel de flores, pero no le gusta recogerla. Se dedica a robársela a Combee",
+        "Pokémon X": "Le encanta la miel de las flores y roba la que recoge Combee.",
+        "Pokémon Y": "Hace vida nocturna. Revolotea y roba la miel de las colmenas de Combee cuando duermen.",
+        "Rubí Omega": "Le encanta la miel de las flores y roba la que recoge Combee.",
+        "Zafiro Alfa": "Hace vida nocturna. Revolotea y roba la miel de las colmenas de Combee cuando duermen.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Le encanta la miel de las flores y roba la que recogen los Combee para comérsela.",
+        "Perla Reluciente": "No tiene nido. Vuela sobre los campos y las montañas en busca de su néctar favorito.",
+        "Leyendas: Arceus": "Esparce un polvo plateado al revolotear. A pesar de alimentarse a base de néctar, por algún motivo, no es común encontrarlo en los campos de flores."
+    },
+    "evolution": [
+        [
+            "Burmy",
+            "Nivel 20 + ♀",
+            "Wormadam"
+        ],
+        [
+            "",
+            "Nivel 20 + ♂",
+            "Mothim"
+        ]
+    ]
+}

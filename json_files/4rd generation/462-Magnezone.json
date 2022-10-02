@@ -1,0 +1,132 @@
+{
+    "dex number": "462",
+    "pokemon name": "Magnezone",
+    "types": [
+        "eléctrico",
+        "acero"
+    ],
+    "abilities": [
+        "Imán (habilidad)",
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Cálculo final"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "70",
+        "def": "115",
+        "atk esp": "130",
+        "def esp": "90",
+        "speed": "60"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Magneton (Monte Corona + nivel)"
+        ],
+        "Perla": [
+            "Evolucionar: a Magneton (Monte Corona + nivel)"
+        ],
+        "Platino": [
+            "Evolucionar: a Magneton (Monte Corona + nivel)"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Blanco": [
+            "Evolucionar: a Magneton (Cueva Electrorroca + nivel)"
+        ],
+        "Negro 2": [
+            "Salvaje: Laboratorio P+P (aparece cuando se mueve la hierba alta)",
+            "Evolucionar: a Magneton (Cueva Electrorroca + nivel)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Laboratorio P+P (aparece cuando se mueve la hierba alta)",
+            "Evolucionar: a Magneton (Cueva Electrorroca + nivel)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Magneton (Ruta 13 + nivel)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Magneton (Ruta 13 + nivel)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Magneton (Malvalanova + nivel)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Magneton (Malvalanova + nivel)"
+        ],
+        "Sol": [
+            "Evolucionar: a Magneton (Cañón de Poni + nivel)"
+        ],
+        "Luna": [
+            "Evolucionar: a Magneton (Cañón de Poni + nivel)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Magneton (Cañón de Poni o Monte Rubor + nivel)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Magneton (Cañón de Poni o Monte Rubor + nivel)"
+        ],
+        "Espada": [
+            "Salvaje: Playa Desafío , Bahía Circular  y Mar Islejos ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Bosque Concentración , Playa Desafío , Cueva Contienda , Cueva Tenacidad , Mar Andana  y Mar Meloso ",
+            "Evolucionar: a Magneton (piedra trueno)"
+        ],
+        "Escudo": [
+            "Salvaje: Playa Desafío , Bahía Circular  y Mar Islejos ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Bosque Concentración , Playa Desafío , Cueva Contienda , Cueva Tenacidad , Mar Andana  y Mar Meloso ",
+            "Evolucionar: a Magneton (piedra trueno)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Magneton (Monte Corona + nivel)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Magneton (Monte Corona + nivel)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Senda Celestial, Fuente de las Hadas, Risco Riscoso (volando).",
+            "Distorsión espaciotemporal: Pantanal Carmesí.",
+            "Evolucionar: a Magneton (nivel en Ladera Corona o piedra trueno)."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Evolucionó por la exposición a un campo magnético especial. Tres unidades generan magnetismo.",
+        "Perla": "Evolucionó por la exposición a un campo magnético especial. Tres unidades generan magnetismo.",
+        "Platino": "Un grupo de investigadores intentó provocar su evolución por medios artificiales, pero fracasó.",
+        "Oro HeartGold": "Fruto de la evolución de Magneton cuando un campo magnético singular altera su estructura molecular.",
+        "Plata SoulSilver": "Fruto de la evolución de Magneton cuando un campo magnético singular altera su estructura molecular.",
+        "Negro": "Un grupo de investigadores intentó provocar su evolución por medios artificiales, pero fracasó.",
+        "Blanco": "Un grupo de investigadores intentó provocar su evolución por medios artificiales, pero fracasó.",
+        "Negro 2": "Emiten campos magnéticos tan potentes que se atraen entre sí e incluso pueden llegar a inmovilizarse.",
+        "Blanco 2": "Emiten campos magnéticos tan potentes que se atraen entre sí e incluso pueden llegar a inmovilizarse.",
+        "Pokémon X": "Emiten campos magnéticos tan potentes que se atraen entre sí e incluso pueden llegar a inmovilizarse.",
+        "Pokémon Y": "Evolucionó por la exposición a un campo magnético especial. Tres unidades generan magnetismo.",
+        "Rubí Omega": "Emiten campos magnéticos tan potentes que se atraen entre sí e incluso pueden llegar a inmovilizarse.",
+        "Zafiro Alfa": "Evolucionó por la exposición a un campo magnético especial. Tres unidades generan magnetismo.",
+        "Sol": "Sus tres unidades generan un campo magnético. Al ser avistados volando por la noche, muchos los han tomado por ovnis.",
+        "Luna": "Se dice que mientras vuela emite unas ondas eléctricas misteriosas, a la vez que recibe otras ondas desconocidas.",
+        "Ultrasol": "Gracias a su radar detecta a cualquier intruso que se adentre en su territorio y lo elimina sin miramientos con su rayo destructor.",
+        "Ultraluna": "Todavía hay quien cree hoy en día que proviene del espacio. Emite un campo magnético de gran potencia.",
+        "Espada": "Se cree que con la antena que tiene en la cabeza recibe señales del espacio enviadas por un ser que lo controla.",
+        "Escudo": "Se piensa que estuvo expuesto a un campo magnético especial que alteró su estructura molecular e hizo que evolucionara.",
+        "Diamante Brillante": "Evolucionó por la exposición a un campo magnético especial. Tres unidades generan magnetismo.",
+        "Perla Reluciente": "Evolucionó por la exposición a un campo magnético especial. Tres unidades generan magnetismo.",
+        "Leyendas: Arceus": "Esta evolución podría deberse a la influencia de un campo magnético en su estructura molecular. Su cuerno emite ondas misteriosas hacia el cielo."
+    },
+    "evolution": [
+        [
+            "Magnemite",
+            "Nivel 30",
+            "Magneton",
+            "Subir un nivel en un campo magnético especialo piedra trueno2 ",
+            "Magnezone"
+        ]
+    ]
+}

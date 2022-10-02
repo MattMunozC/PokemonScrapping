@@ -1,0 +1,127 @@
+{
+    "dex number": "393",
+    "pokemon name": "Piplup",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Competitivo"
+    ],
+    "stats": {
+        "hp": "53",
+        "atk": "51",
+        "def": "53",
+        "atk esp": "61",
+        "def esp": "56",
+        "speed": "40"
+    },
+    "location": {
+        "Diamante": [
+            "Especial: Es uno de los Pokémon iniciales se pueden conseguir al inicio de la aventura, en el Lago Veraz, en el maletín del Profesor Serbal (solo uno)"
+        ],
+        "Perla": [
+            "Especial: Es uno de los Pokémon iniciales se pueden conseguir al inicio de la aventura, en el Lago Veraz, en el maletín del Profesor Serbal (solo uno)"
+        ],
+        "Platino": [
+            "Especial: Es uno de los Pokémon iniciales se pueden conseguir al inicio de la aventura. Lo entrega el Profesor Serbal en la Ruta 201 (solo uno)"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: De Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: De Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro 2": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Blanco 2": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Especial: Es uno de los tres iniciales de Sinnoh que entrega el profesor Abedul después de ganar la liga por segunda vez (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Es uno de los tres iniciales de Sinnoh que entrega el profesor Abedul después de ganar la liga por segunda vez (solo uno)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Criando: de Prinplup"
+        ],
+        "Ultraluna": [
+            "Criando: de Prinplup"
+        ],
+        "Espada": [
+            "Piplup no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Piplup no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. En el Lago Veraz, en el maletín del Profesor Serbal. Sólo uno, al nivel 5.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. En el Lago Veraz, en el maletín del Profesor Serbal. Sólo uno, al nivel 5.",
+            "Grutas del Subsuelo: Cueva Arroyo, Cueva Fluvial, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Costa Cobalto: Vía Manantial.",
+            "Aparición masiva: Costa Cobalto"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Es muy orgulloso, por lo que odia aceptar comida de la gente. Su grueso plumón le protege del frío.",
+        "Perla": "Vive en las costas de los países nórdicos. Es un gran nadador y puede bucear más de 10 minutos.",
+        "Platino": "No se le da bien lo de andar, se cae mucho. Pero su orgullo le hace sacar pecho como si nada.",
+        "Oro HeartGold": "No le gusta que lo cuiden. Como no aprecia el apoyo de su Entrenador, le cuesta coger confianza con él.",
+        "Plata SoulSilver": "No le gusta que lo cuiden. Como no aprecia el apoyo de su Entrenador, le cuesta coger confianza con él.",
+        "Negro": "No se le da bien lo de andar, se cae mucho. Pero su orgullo le hace sacar pecho como si nada.",
+        "Blanco": "No se le da bien lo de andar, se cae mucho. Pero su orgullo le hace sacar pecho como si nada.",
+        "Negro 2": "No se le da bien lo de andar, se cae mucho. Pero su orgullo le hace sacar pecho como si nada.",
+        "Blanco 2": "No se le da bien lo de andar, se cae mucho. Pero su orgullo le hace sacar pecho como si nada.",
+        "Pokémon X": "No le gusta que lo cuiden. Como no aprecia el apoyo de su Entrenador, le cuesta coger confianza con él.",
+        "Pokémon Y": "Es muy orgulloso, por lo que odia aceptar comida de la gente. Su grueso plumón le protege del frío.",
+        "Rubí Omega": "No le gusta que lo cuiden. Como no aprecia el apoyo de su Entrenador, le cuesta coger confianza con él.",
+        "Zafiro Alfa": "Es muy orgulloso, por lo que odia aceptar comida de la gente. Su grueso plumón le protege del frío.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Es muy orgulloso, por lo que odia aceptar comida de la gente. Su grueso plumón lo protege del frío.",
+        "Perla Reluciente": "Es un gran nadador que puede bucear más de diez minutos en busca de alimento. Habita en las costas de las regiones más septentrionales.",
+        "Leyendas: Arceus": "Suele frecuentar las costas de clima frío. Su aspecto tierno e infantil esconde un corazón orgulloso incapaz de aceptar ofrendas."
+    },
+    "evolution": [
+        [
+            "Piplup",
+            "Nivel 16",
+            "Prinplup",
+            "Nivel 36",
+            "Empoleon"
+        ]
+    ]
+}

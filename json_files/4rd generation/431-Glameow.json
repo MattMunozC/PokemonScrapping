@@ -1,0 +1,130 @@
+{
+    "dex number": "431",
+    "pokemon name": "Glameow",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Flexibilidad",
+        "Ritmo propio"
+    ],
+    "hidden abilities": [
+        "Vista lince"
+    ],
+    "stats": {
+        "hp": "49",
+        "atk": "55",
+        "def": "42",
+        "atk esp": "42",
+        "def esp": "37",
+        "speed": "85"
+    },
+    "location": {
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla, se trata de un Pokémon exclusivo."
+        ],
+        "Perla": [
+            "Salvaje: rutas 218 y 222."
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Perla, se trata de un Pokémon exclusivo."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Perla, se trata de un Pokémon exclusivo."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Perla, se trata de un Pokémon exclusivo."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Perla.",
+            "Intercambiar: de Pokémon Blanco 2.",
+            "Dream World: con la habilidad vista lince."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Perla.",
+            "Intercambiar: de Pokémon Blanco 2.",
+            "Dream World: con la habilidad vista lince."
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Perla.",
+            "Intercambiar: de Pokémon Blanco 2.",
+            "Dream World: con la habilidad vista lince."
+        ],
+        "Blanco 2": [
+            "Claro Oculto: Ruta 7, Bosque Azulejo, con la habilidad vista lince, durante la misión de Zona Nexo de búsqueda de Pokémon en los claros ocultos.",
+            "Dream World: Bosque Pequeño con la habilidad vista lince."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque espejismo"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Glameow no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Glameow no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Salvaje de noche: rutas 218 y 222.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Paso Costanero, Cabo Rocavelo y Terraza Glaciar.",
+            "Aparición supermasiva: Costa Cobalto y Tundra Alba."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Araña cuando está enfadado y ronronea cuando esta cariñoso. Su imprevisibilidad es famosa.",
+        "Perla": "Hipnotiza ligeramente a sus enemigos con su mirada fija. Es impredecible.",
+        "Platino": "Oculta una tendencia rencorosa que le hace arañar la nariz de su entrenador si no le da de comer.",
+        "Oro HeartGold": "Dependiendo de su humor, mueve grácilmente su cola, que se asemeja a un lazo de gimnasia rítmica.",
+        "Plata SoulSilver": "Dependiendo de su humor, mueve grácilmente su cola, que se asemeja a un lazo de gimnasia rítmica.",
+        "Negro": "Oculta una tendencia rencorosa que le hace arañar la nariz de su entrenador si no le da de comer.",
+        "Blanco": "Oculta una tendencia rencorosa que le hace arañar la nariz de su entrenador si no le da de comer.",
+        "Negro 2": "Oculta una tendencia rencorosa que le hace arañar la nariz de su entrenador si no le da de comer.",
+        "Blanco 2": "Oculta una tendencia rencorosa que le hace arañar la nariz de su entrenador si no le da de comer.",
+        "Pokémon X": "Araña cuando está enfadado y ronronea cuando esta cariñoso. Su imprevisibilidad es famosa.",
+        "Pokémon Y": "Dependiendo de su humor, mueve grácilmente su cola, que se asemeja a un lazo de gimnasia rítmica.",
+        "Rubí Omega": "Araña cuando está enfadado y ronronea cuando esta cariñoso. Su imprevisibilidad es famosa.",
+        "Zafiro Alfa": "Dependiendo de su humor, mueve grácilmente su cola, que se asemeja a un lazo de gimnasia rítmica.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Araña cuando está enfadado y ronronea cuando está cariñoso. Su imprevisibilidad es famosa.",
+        "Perla Reluciente": "Hipnotiza ligeramente a sus enemigos con su penetrante mirada. Es de carácter impredecible.",
+        "Leyendas: Arceus": "Engatusa a los humanos con la mirada y su cola en forma de espiral. Es recomendable tener cuidado con las afiladas garras retráctiles que posee, pues son muy peligrosas."
+    },
+    "evolution": [
+        [
+            "Glameow",
+            "Nivel 38",
+            "Purugly"
+        ]
+    ]
+}

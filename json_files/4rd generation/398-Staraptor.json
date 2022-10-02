@@ -1,0 +1,124 @@
+{
+    "dex number": "398",
+    "pokemon name": "Staraptor",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Intimidación"
+    ],
+    "hidden abilities": [
+        "Audaz"
+    ],
+    "stats": {
+        "hp": "85",
+        "atk": "120",
+        "def": "70",
+        "atk esp": "50",
+        "def esp": "50",
+        "speed": "100"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Staravia (nivel 34)."
+        ],
+        "Perla": [
+            "Evolucionar: a Staravia (nivel 34)."
+        ],
+        "Platino": [
+            "Evolucionar: a Staravia (nivel 34)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Staravia (nivel 34)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Staravia (nivel 34)."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Evolucionar: a Staravia (nivel 34)."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Staravia (nivel 34)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Staravia (nivel 34)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            "Evolucionar: a Staravia (nivel 34)."
+        ],
+        "Luna": [
+            "Evolucionar: a Staravia (nivel 34)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna."
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna."
+        ],
+        "Espada": [
+            "Staraptor no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Staraptor no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Staravia (nivel 34)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Staravia (nivel 34)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Presa del Estuario. Costa Cobalto: Arboleda Tétrica.",
+            "Evolucionar: a Staravia (nivel 34)."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Tiene un carácter salvaje. No duda en desafiar a rivales mucho mayores.",
+        "Perla": "Sus alas y sus patas son muy fuertes. Puede llevarse volando Pokémon pequeños.",
+        "Platino": "Jamás deja de atacar, aunque le hayan herido. Le preocupa mucho la forma de su cresta.",
+        "Oro HeartGold": "Al evolucionar a Staraptor deja su bandada y pasa a vivir en soledad. Sus alas son inmensas.",
+        "Plata SoulSilver": "Al evolucionar a Staraptor deja su bandada y pasa a vivir en soledad. Sus alas son inmensas.",
+        "Negro": "Jamás deja de atacar, aunque le hayan herido. Le preocupa mucho la forma de su cresta.",
+        "Blanco": "Jamás deja de atacar, aunque le hayan herido. Le preocupa mucho la forma de su cresta.",
+        "Negro 2": "Jamás deja de atacar, aunque le hayan herido. Le preocupa mucho la forma de su cresta.",
+        "Blanco 2": "Jamás deja de atacar, aunque le hayan herido. Le preocupa mucho la forma de su cresta.",
+        "Pokémon X": "Sus alas y sus patas son muy fuertes. Puede llevarse volando Pokémon pequeños.",
+        "Pokémon Y": "Al evolucionar a Staraptor deja su bandada y pasa a vivir en soledad. Sus alas son inmensas.",
+        "Rubí Omega": "Sus alas y sus patas son muy fuertes. Puede llevarse volando Pokémon pequeños.",
+        "Zafiro Alfa": "Al evolucionar a Staraptor deja su bandada y pasa a vivir en soledad. Sus alas son inmensas.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Tiene un carácter salvaje. No duda en desafiar a rivales mucho mayores.",
+        "Perla Reluciente": "Tiene los músculos de las alas y las patas muy desarrollados. Puede llevarse volando Pokémon pequeños con suma facilidad.",
+        "Leyendas: Arceus": "Su poder es tal que ya no necesita ir en bandada. Sus potentes garras y alas suponen una amenaza para las presas que caza al vuelo."
+    },
+    "evolution": [
+        [
+            "Starly",
+            "Nivel 14",
+            "Staravia",
+            "Nivel 34",
+            "Staraptor"
+        ]
+    ]
+}

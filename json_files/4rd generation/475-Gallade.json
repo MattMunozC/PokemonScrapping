@@ -1,0 +1,136 @@
+{
+    "dex number": "475",
+    "pokemon name": "Gallade",
+    "types": [
+        "psíquico",
+        "lucha"
+    ],
+    "abilities": [
+        "Impasible"
+    ],
+    "hidden abilities": [
+        "Justiciero"
+    ],
+    "stats": {
+        "hp": "68",
+        "atk": "125",
+        "def": "65",
+        "atk esp": "65",
+        "def esp": "115",
+        "speed": "80"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Perla": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Platino": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Espada": [
+            "Salvaje: Valle Entrepuentes (encuentro especial, en todos los tiempos atmosféricos excepto cuando hay nieve, ventisca y niebla).",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew.",
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Escudo": [
+            "Salvaje: Valle Entrepuentes (encuentro especial, en todos los tiempos atmosféricos excepto cuando hay nieve, ventisca y niebla).",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago y Pradera Radiante, nido hacia el puente de Lago Axew.",
+            "Evolucionar: a Kirlia (piedra alba + macho)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Kirlia (piedra alba + macho)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Kirlia (piedra alba + macho)."
+        ],
+        "Leyendas: Arceus": [
+            "Pokémon alfa: Templo Puntaneva",
+            "Evolucionar: a Kirlia (piedra alba + macho).",
+            "Aparición supermasivas: Tundra Alba"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Lucha con las espadas que salen de sus codos. Es un maestro de la cortesía y la esgrima.",
+        "Perla": "Lucha con las espadas que salen de sus codos. Es un maestro de la cortesía y la esgrima.",
+        "Platino": "Cuando quiere proteger a alguien, extiende los codos como si fueran espadas y lucha con fiereza.",
+        "Oro HeartGold": "Puede presentir los movimientos de sus rivales y por eso ataca siempre antes que ellos.",
+        "Plata SoulSilver": "Puede presentir los movimientos de sus rivales y por eso ataca siempre antes que ellos.",
+        "Negro": "Cuando quiere proteger a alguien, extiende los codos como si fueran espadas y lucha con fiereza.",
+        "Blanco": "Cuando quiere proteger a alguien, extiende los codos como si fueran espadas y lucha con fiereza.",
+        "Negro 2": "Cuando quiere proteger a alguien, extiende los codos como si fueran espadas y lucha con fiereza.",
+        "Blanco 2": "Cuando quiere proteger a alguien, extiende los codos como si fueran espadas y lucha con fiereza.",
+        "Pokémon X": "Puede presentir los movimientos de sus rivales y por eso ataca siempre antes que ellos.",
+        "Pokémon Y": "Lucha con las espadas que salen de sus codos. Es un maestro de la cortesía y el esgrima.",
+        "Rubí Omega": "Puede presentir los movimientos de sus rivales y por eso ataca siempre antes que ellos.",
+        "Zafiro Alfa": "Lucha con las espadas que salen de sus codos. Es un maestro de la cortesía y la esgrima.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon es considerado todo un justiciero. Solo utiliza las espadas que le salen de los codos si tiene una causa que defender.",
+        "Escudo": "Es capaz de percibir al instante cuando alguien está en un aprieto y corre raudo a su lado para prestarle ayuda.",
+        "Diamante Brillante": "Lucha con las espadas que le salen de los codos. Es un maestro de la cortesía y la esgrima.",
+        "Perla Reluciente": "Lucha con las espadas que le salen de los codos. Es un maestro de la cortesía y la esgrima.",
+        "Leyendas: Arceus": "Las cuchillas que le salen de los codos están más afiladas que la mejor de las espadas. Pese a ser autodidacta, su habilidad al esgrimir estas armas es todo un regalo para la vista."
+    },
+    "evolution": [
+        [
+            "Ralts",
+            "Nivel 20",
+            "Kirlia",
+            "Nivel 30",
+            "Gardevoir"
+        ],
+        [
+            "",
+            "",
+            "",
+            "♂ + Piedra alba ",
+            "Gallade"
+        ]
+    ]
+}

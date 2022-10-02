@@ -1,0 +1,127 @@
+{
+    "dex number": "469",
+    "pokemon name": "Yanmega",
+    "types": [
+        "bicho",
+        "volador"
+    ],
+    "abilities": [
+        "Impulso",
+        "Cromolente"
+    ],
+    "hidden abilities": [
+        "Cacheo"
+    ],
+    "stats": {
+        "hp": "86",
+        "atk": "76",
+        "def": "86",
+        "atk esp": "116",
+        "def esp": "56",
+        "speed": "95"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Perla": [
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Platino": [
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Negro": [
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Blanco": [
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 3 y Bosque Azulejo.",
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 3 y Bosque Azulejo.",
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo."
+        ],
+        "Espada": [
+            "Yanmega no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Yanmega no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Yanma, subiendo un nivel después de aprender el movimiento poder pasado."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Yanma (nivel + Poder pasado)",
+            "Pokémon alfa: Pradera Aleteo",
+            "Pokémon salvaje: Loma Sagrada",
+            "Aparición supermasiva: Pantanal Carmesí y Ladera Corona"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Agita sus alas para crear ondas de choque que producen lesiones internas a sus rivales.",
+        "Perla": "Agita sus alas para crear ondas de choque que producen lesiones internas a sus rivales.",
+        "Platino": "Pasa volando a gran velocidad al lado de sus enemigos y los destroza con su potente mandíbula.",
+        "Oro HeartGold": "Con sus seis patas puede llevar a un adulto y volar con comodidad. Se equilibra con las alas de su cola.",
+        "Plata SoulSilver": "Bate sus alas con tal fuerza que cuando alza el vuelo es capaz de abatir los árboles a su alrededor.",
+        "Negro": "Pasa volando a gran velocidad al lado de sus enemigos y los destroza con su potente mandíbula.",
+        "Blanco": "Pasa volando a gran velocidad al lado de sus enemigos y los destroza con su potente mandíbula.",
+        "Negro 2": "Su técnica favorita consiste en volar a gran velocidad y despedazar con su mandíbula a su oponente en un instante.",
+        "Blanco 2": "Su técnica favorita consiste en volar a gran velocidad y despedazar con su mandíbula a su oponente en un instante.",
+        "Pokémon X": "Su técnica favorita consiste en volar a gran velocidad y despedazar con su mandíbula a su oponente en un instante.",
+        "Pokémon Y": "Con sus seis patas puede llevar a un adulto y volar con comodidad. Se equilibra con las alas de su cola.",
+        "Rubí Omega": "Su técnica favorita consiste en volar a gran velocidad y despedazar con su mandíbula a su oponente en un instante.",
+        "Zafiro Alfa": "Con sus seis patas puede llevar a un adulto y volar con comodidad. Se equilibra con las alas de su cola.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Al agitar las alas, crea ondas de choque que producen graves lesiones internas a sus rivales.",
+        "Perla Reluciente": "Al agitar las alas, crea ondas de choque que producen graves lesiones internas a sus rivales.",
+        "Leyendas: Arceus": "Cuando caza, apunta a los puntos débiles de sus presas para no malgastar ni un solo movimiento. Hacen falta agallas para relacionarse con esta especie dada su extrema agresividad."
+    },
+    "evolution": [
+        [
+            "Yanma",
+            "Conociendo poder pasado+ nivel",
+            "Yanmega"
+        ]
+    ]
+}

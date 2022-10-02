@@ -1,0 +1,124 @@
+{
+    "dex number": "389",
+    "pokemon name": "Torterra",
+    "types": [
+        "planta",
+        "tierra"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Caparazón"
+    ],
+    "stats": {
+        "hp": "95",
+        "atk": "109",
+        "def": "105",
+        "atk esp": "75",
+        "def esp": "85",
+        "speed": "56"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Grotle (nivel 32)."
+        ],
+        "Perla": [
+            "Evolucionar: a Grotle (nivel 32)."
+        ],
+        "Platino": [
+            "Evolucionar: a Grotle (nivel 32)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Grotle (nivel 32)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Grotle (nivel 32)."
+        ],
+        "Negro": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Perla o Platino."
+        ],
+        "Blanco": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Perla o Platino."
+        ],
+        "Negro 2": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Perla o Platino."
+        ],
+        "Blanco 2": [
+            "PokéTransfer: Transferir de Pokémon Diamante, Perla o Platino."
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon Rubí Omega y Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Grotle (nivel 32)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Grotle (nivel 32)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Grotle (nivel 32)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Grotle (nivel 32)."
+        ],
+        "Espada": [
+            "Torterra no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Torterra no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Grotle (nivel 32)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Grotle (nivel 32)."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Grotle (nivel 32)",
+            "Salvaje: Pantanal Carmesí: Banco del Juicio (Pokémon alfa)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Algunos Pokémon pequeños se juntan en su espalda para hacer sus nidos.",
+        "Perla": "Muchos confunden los grupos de Torterra que migran en busca de agua con bosques vivientes.",
+        "Platino": "Algunos Pokémon nacen en la espalda de un Torterra y pasan allí toda su vida.",
+        "Oro HeartGold": "Las gentes de antaño creían que el planeta se sustentaba en la espalda de un gran Torterra.",
+        "Plata SoulSilver": "Las gentes de antaño creían que el planeta se sustentaba en la espalda de un gran Torterra.",
+        "Negro": "Algunos Pokémon nacen en la espalda de un Torterra y pasan allí toda su vida.",
+        "Blanco": "Algunos Pokémon nacen en la espalda de un Torterra y pasan allí toda su vida.",
+        "Negro 2": "Algunos Pokémon nacen en la espalda de un Torterra y pasan allí toda su vida.",
+        "Blanco 2": "Algunos Pokémon nacen en la espalda de un Torterra y pasan allí toda su vida.",
+        "Pokémon X": "Las gentes de antaño creían que el planeta se sustentaba en la espalda de un gran Torterra.",
+        "Pokémon Y": "Algunos Pokémon pequeños se juntan en su espalda para hacer sus nidos.",
+        "Rubí Omega": "Las gentes de antaño creian que el planeta se sustentaba en la espalda de un gran Torterra",
+        "Zafiro Alfa": "Algunos Pokémon pequeños se juntan en su espalda para hacer sus nidos.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Algunos Pokémon pequeños se juntan en su espalda inmóvil para hacer sus nidos.",
+        "Perla Reluciente": "Muchos confunden los grupos de Torterra que migran en busca de agua con bosques vivientes.",
+        "Leyendas: Arceus": "Un Pokémon enorme con una extraordinaria fuerza y un cuerpo que recuerda a un bello y frondoso paisaje. Merodea por los montes y campos en busca de agua limpia."
+    },
+    "evolution": [
+        [
+            "Turtwig",
+            "Nivel 18",
+            "Grotle",
+            "Nivel 32",
+            "Torterra"
+        ]
+    ]
+}

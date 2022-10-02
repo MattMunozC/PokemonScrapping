@@ -1,0 +1,128 @@
+{
+    "dex number": "426",
+    "pokemon name": "Drifblim",
+    "types": [
+        "fantasma",
+        "volador"
+    ],
+    "abilities": [
+        "Detonación",
+        "Liviano"
+    ],
+    "hidden abilities": [
+        "Ímpetu ardiente"
+    ],
+    "stats": {
+        "hp": "150",
+        "atk": "80",
+        "def": "44",
+        "atk esp": "90",
+        "def esp": "54",
+        "speed": "80"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Drifloon (nivel 28)."
+        ],
+        "Perla": [
+            "Evolucionar: a Drifloon (nivel 28)."
+        ],
+        "Platino": [
+            "Evolucionar: a Drifloon (nivel 28)."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: Desde Pokémon Diamante y Perla o Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: Desde Pokémon Diamante y Perla o Pokémon Platino"
+        ],
+        "Negro": [
+            "Salvaje: Ruta 13 (Teselia), Ruta 14 (Teselia), Boquete Gigante."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 13 (Teselia), Ruta 14 (Teselia), Boquete Gigante."
+        ],
+        "Negro 2": [
+            "Salvaje: Montaña Reversia, Ruta 14 (Teselia)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Montaña Reversia, Ruta 14 (Teselia)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Drifloon (nivel 28).",
+            "Safari Amistad"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Drifloon (nivel 28).",
+            "Safari Amistad"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Drifloon (nivel 28)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Drifloon (nivel 28)."
+        ],
+        "Sol": [
+            "Evolucionar: a Drifloon (nivel 28).",
+            "Poké Resort: Cayo Recreo, tras llegar a Akala"
+        ],
+        "Luna": [
+            "Evolucionar: a Drifloon (nivel 28).",
+            "Poké Resort: Cayo Recreo, tras llegar a Akala"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Drifloon (nivel 28)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Drifloon (nivel 28)."
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste y Llanura Pétrea, nido al noreste junto a una pared 2."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste y Llanura Pétrea, nido al noreste junto a una pared 2."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Drifloon (nivel 28)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Drifloon (nivel 28)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje (solo de noche): Planicie Arena, Isla Hansa, Playa Ginkgo, Albuferas Chapuzón, Arboleda Tétrica, Bahía Silente, Témpano Avalugg, Terraza Glaciar, Peñasco Espíritu.",
+            "Apariciones supermasivas: Pradera Obsidiana y Tundra Alba.",
+            "Evolucionar: a Drifloon (nivel 28)."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Durante el día está somnoliento, pero por la noche sale volando en grupo, aunque nadie sabe adónde.",
+        "Perla": "Transporta a gente y Pokémon volando pero, como se deja llevar, puede acabar en cualquier sitio.",
+        "Platino": "Al anochecer se reúne en grupos y vuelan a la deriva. Cuando alguien los ve, desaparecen.",
+        "Oro HeartGold": "Crea en su interior gases y los expulsa. De esta forma es capaz de volar y controlar su altura.",
+        "Plata SoulSilver": "Crea en su interior gases y los expulsa. De esta forma es capaz de volar y controlar su altura.",
+        "Negro": "Al anochecer se reúne en grupos y vuelan a la deriva. Cuando alguien los ve, desaparecen.",
+        "Blanco": "Al anochecer se reúne en grupos y vuelan a la deriva. Cuando alguien los ve, desaparecen.",
+        "Negro 2": "Pueden transportar a gente y Pokémon. Sin embargo, por culpa de las corrientes de aire, no pueden fijar un destino.",
+        "Blanco 2": "Pueden transportar a gente y Pokémon. Sin embargo, por culpa de las corrientes de aire, no pueden fijar un destino.",
+        "Pokémon X": "Transporta a gente y a Pokémon volando, pero, como deja llevar, puede acabar en cualquier sitio.",
+        "Pokémon Y": "Durante el día esta somnoliento, pero por la noche sale volando en grupo, aunque nadie sabe a donde.",
+        "Rubí Omega": "Transporta a gente y a Pokémon volando, pero, como deja llevar, puede acabar en cualquier sitio.",
+        "Zafiro Alfa": "Durante el día esta somnoliento, pero por la noche sale volando en grupo, aunque nadie sabe a donde.",
+        "Sol": "Hubo un caso de un chico que se subió a un Drifblim y salió de viaje. Desde entonces está en paradero desconocido.",
+        "Luna": "Al anochecer, se reúnen en grupos y vuelan a la deriva. Si alguien trata de seguirlos con la mirada, desaparecen al instante.",
+        "Ultrasol": "Se rumorea que los Drifblim que surcan el cielo al ocaso llevan a todos aquellos que atrapan al más allá.",
+        "Ultraluna": "El gas que alberga su interior se compone de almas. Si su cuerpo se deshincha, arrastra consigo tanto a personas como a Pokémon.",
+        "Espada": "Se dice que está formado por almas en pena. Al caer la noche, flota a la deriva en silencio sepulcral.",
+        "Escudo": "Agarra a gente y a Pokémon para llevárselos a algún sitio, aunque nadie sabe exactamente adónde.",
+        "Diamante Brillante": "Durante el día está somnoliento, pero, al caer la noche, sale volando en grupo, aunque nadie sabe adónde.",
+        "Perla Reluciente": "Transporta a gente y a Pokémon volando, pero, como se deja llevar, puede acabar en cualquier sitio.",
+        "Leyendas: Arceus": "Al caer el sol, flota sin hacer ruido alguno. Su aura efímera y melancólica causa tal impresión en la gente que ha servido de inspiración a escritores y poetas."
+    },
+    "evolution": [
+        [
+            "Drifloon",
+            "Nivel 28",
+            "Drifblim"
+        ]
+    ]
+}

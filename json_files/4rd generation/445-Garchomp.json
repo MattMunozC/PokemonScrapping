@@ -1,0 +1,131 @@
+{
+    "dex number": "445",
+    "pokemon name": "Garchomp",
+    "types": [
+        "dragón",
+        "tierra"
+    ],
+    "abilities": [
+        "Velo arena"
+    ],
+    "hidden abilities": [
+        "Piel tosca"
+    ],
+    "stats": {
+        "hp": "108",
+        "atk": "130",
+        "def": "95",
+        "atk esp": "80",
+        "def esp": "85",
+        "speed": "102"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Perla": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Platino": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Negro 2"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Sol": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Luna": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Senda Blancacima  y Túnel Ascensión ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante  , Senda Blancacima  , Mar Gélido  , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Evolucionar: a Gabite (nivel 48)"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Gabite (nivel 48)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Gabite (nivel 48)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Desfiladero Alud.",
+            "Evolucionar: a Gabite (nivel 48).",
+            "Aparición supermasiva: Ladera Corona",
+            "Pokémon alfa: Desfiladero Alud"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Cuando despliega su cuerpo y sus alas, parece un avión a reacción. Vuela a velocidad sónica.",
+        "Perla": "Vuela tan rápido como un avión a reacción. Nunca se le escapa una presa.",
+        "Platino": "Se dice que, cuando va a velocidad máxima, sus alas crean cuchillas de viento que talan cualquier árbol.",
+        "Oro HeartGold": "Como sus pequeñas y lisas escamas lo hacen muy aerodinámico, puede volar a una velocidad increíble.",
+        "Plata SoulSilver": "Como sus pequeñas y lisas escamas lo hacen muy aerodinámico, puede volar a una velocidad increíble.",
+        "Negro": "Se dice que, cuando va a velocidad máxima, sus alas crean cuchillas de viento que talan cualquier árbol.",
+        "Blanco": "Se dice que, cuando va a velocidad máxima, sus alas crean cuchillas de viento que talan cualquier árbol.",
+        "Negro 2": "Se dice que, cuando va a velocidad máxima, sus alas crean cuchillas de viento que talan cualquier árbol.",
+        "Blanco 2": "Se dice que, cuando va a velocidad máxima, sus alas crean cuchillas de viento que talan cualquier árbol.",
+        "Pokémon X": "Cuando despliega su cuerpo y sus alas, parece un avión a reacción. Vuela a velocidad sónica.",
+        "Pokémon Y": "Vuela tan rápido como un avión a reacción. Nunca se le escapa una presa.",
+        "Rubí Omega": "Cuando despliega su cuerpo y sus alas, parece un avión a reacción. Vuela a velocidad sónica.",
+        "Zafiro Alfa": "Vuela tan rápido como un avión a reacción. Nunca se le escapa una presa.",
+        "Sol": "\nGarchomp: Vuela tan rápido como un avión a reacción. Embiste a bandadas de Pokémon pájaro y, si atrapa a alguno, se lo traga de un bocado.\nMega-Garchomp: La descomunal energía de la megaevolución funde sus extremidades con sus alas, lo que les otorga aspecto de hoz.",
+        "Luna": "\nGarchomp: Las dos protuberancias que tiene en la cabeza le sirven de sensores. Puede rastrear presas que se encuentren a gran distancia.\nMega-Garchomp: Presa de la ira al ver que sus preciadas alas se han fundido con sus extremidades, las usa para golpear la tierra con fuerza.",
+        "Ultrasol": "\nGarchomp: Surca el aire a velocidad supersónica en busca de presas y no duda en librar una batalla aérea con un Salamence para quedarse con ellas.\nMega-Garchomp: Sus extremidades se han fundido con sus alas, adoptando forma de guadañas. Su ira lo hace enloquecer y arremeter contra todo.",
+        "Ultraluna": "\nGarchomp: Sus escamas, pequeñas, lisas y afiladas, no solo lo hacen más aerodinámico, sino que le sirven para herir al rival que ose atacarlo.\nMega-Garchomp: La megaevolución exacerba su agresividad. Hace jirones al enemigo con sus extremidades en forma de guadañas.",
+        "Espada": "Habita en montañas de origen volcánico. Vuela tan rápido como un avión a reacción en busca de presas.",
+        "Escudo": "Se mueve a gran velocidad incluso por tierra. Es capaz de cazar una presa en una montaña nevada y volver a su guarida sin llegar a pasar frío.",
+        "Diamante Brillante": "Cuando contrae el cuerpo y despliega las alas, parece un avión a reacción. Vuela a la velocidad del sonido.",
+        "Perla Reluciente": "Vuela tan rápido como un avión a reacción. Nunca se le escapa una presa.",
+        "Leyendas: Arceus": "Surca el cielo a velocidad vertiginosa y con una técnica impecable. Debido a su carácter agreste, es vital mantenerse alerta en el exterior para evitar posibles encontronazos."
+    },
+    "evolution": [
+        [
+            "Gible",
+            "Nivel 24",
+            "Gabite",
+            "Nivel 48",
+            "Garchomp"
+        ]
+    ]
+}

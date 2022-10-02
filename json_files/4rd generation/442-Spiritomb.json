@@ -1,0 +1,131 @@
+{
+    "dex number": "442",
+    "pokemon name": "Spiritomb",
+    "types": [
+        "fantasma",
+        "siniestro"
+    ],
+    "abilities": [
+        "Presión"
+    ],
+    "hidden abilities": [
+        "Allanamiento"
+    ],
+    "stats": {
+        "hp": "50",
+        "atk": "92",
+        "def": "108",
+        "atk esp": "92",
+        "def esp": "108",
+        "speed": "35"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Torre Sagrada de la Ruta 209, tras haber colocado en ella la piedra espíritu e interactuar con 32 personas en el subsuelo"
+        ],
+        "Perla": [
+            "Salvaje: Torre Sagrada de la Ruta 209, tras haber colocado en ella la piedra espíritu e interactuar con 32 personas en el subsuelo"
+        ],
+        "Platino": [
+            "Salvaje: Torre Sagrada de la Ruta 209, tras haber colocado en ella la piedra espíritu e interactuar con 32 personas en el subsuelo"
+        ],
+        "Oro HeartGold": [
+            "Pokéwalker: Cueva Calma",
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Pokéwalker: Cueva Calma",
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro": [
+            "Dream World: Villa Antigua",
+            "Pokétransfer: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Dream World: Villa Antigua",
+            "Pokétransfer: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Negro 2": [
+            "Intercambiar: por cualquier Pokémon con el dueño o dueña del objeto perdido en Ciudad Mayólica",
+            "RAdar Pokémon: Después de atrapar a Landorus con las gotas oníricas rosas."
+        ],
+        "Blanco 2": [
+            "Intercambiar: por cualquier Pokémon con el dueño o dueña del objeto perdido en Ciudad Mayólica",
+            "RAdar Pokémon: Después de atrapar a Landorus con las gotas oníricas rosas."
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Malvamar. En la habitación que se percibe algo extraño, hay un armario donde se menciona la piedra espíritu. Tras leerlo se debe abrir cualquier menú que tape la pantalla y al cerrarlo, Spiritomb aparecerá detrás del jugador"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Malvamar. En la habitación que se percibe algo extraño, hay un armario donde se menciona la piedra espíritu. Tras leerlo se debe abrir cualquier menú que tape la pantalla y al cerrarlo, Spiritomb aparecerá detrás del jugador"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: En la tumba del Lago Bolaguna, tras interactuar con la tumba y hablar con 32 jugadores online en el Área Silvestre, la Isla de la Armadura o las Nieves de la Corona. Después se debe interactuar con la tumba de nuevo y volver a salir y a acceder al Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: En la tumba del Lago Bolaguna, tras interactuar con la tumba y hablar con 32 jugadores online en el Área Silvestre, la Isla de la Armadura o las Nieves de la Corona. Después se debe interactuar con la tumba de nuevo y volver a salir y a acceder al Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Torre Sagrada de la Ruta 209, tras haber colocado en ella la piedra espíritu e interactuar con 32 personas en las Grutas del Subsuelo."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Torre Sagrada de la Ruta 209, tras haber colocado en ella la piedra espíritu e interactuar con 32 personas en las Grutas del Subsuelo."
+        ],
+        "Leyendas: Arceus": [
+            "Especial: Ruinas de la Niebla (Tras completar la Petición 22: Volutas de luz nocturnas)",
+            "Salvaje: Ruinas de la Niebla (al capturar el Spiritomb anterior)",
+            "Aparición supermasiva: Pantanal Carmesí"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Se formó a partir de 108 espíritus. Está unido a la fisura de una piedra angular mística.",
+        "Perla": "Como castigo por una fechoría 500 años atrás, está unido a la fisura de una piedra angular mística.",
+        "Platino": "Por sus constantes fechorías se le acabó uniendo a una Piedra Espíritu con un misterioso hechizo.",
+        "Oro HeartGold": "Compuesto de 108 espíritus. Se le unió a una Piedra Espíritu para evitar que hiciera más fechorías.",
+        "Plata SoulSilver": "Compuesto de 108 espíritus. Se le unió a una Piedra Espíritu para evitar que hiciera más fechorías.",
+        "Negro": "Por sus constantes fechorías se le acabó uniendo a una Piedra Espíritu con un misterioso hechizo.",
+        "Blanco": "Por sus constantes fechorías se le acabó uniendo a una Piedra Espíritu con un misterioso hechizo.",
+        "Negro 2": "Por sus constantes fechorías se le acabó uniendo a una Piedra Espíritu con un misterioso hechizo.",
+        "Blanco 2": "Por sus constantes fechorías se le acabó uniendo a una Piedra Espíritu con un misterioso hechizo.",
+        "Pokémon X": "Se formó a partir de 108 espíritus. Está unido a la fisura de una piedra angular mística.",
+        "Pokémon Y": "Como castigo por una fechoría 500 años atrás, está unido a la fisura de una piedra angular mística.",
+        "Rubí Omega": "Se formó a partir de 108 espíritus. Está unido a la fisura de una piedra angular mística.",
+        "Zafiro Alfa": "Como castigo por una fechoría 500 años atrás, está unido a la fisura de una piedra angular mística.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon se formó a partir de 108 espíritus. Dicen que entre ellos se mezclaron algunos de naturaleza malvada.",
+        "Escudo": "Un viajero utilizó un misterioso hechizo para unirlo a una Piedra Espíritu por sus constantes fechorías.",
+        "Diamante Brillante": "Se formó a partir de 108 espíritus. Está unido a la fisura de una piedra angular mística.",
+        "Perla Reluciente": "Como castigo por una fechoría cometida 500 años atrás, está unido a la fisura de una piedra angular mística.",
+        "Leyendas: Arceus": "Un ser capaz de conjurar maldiciones mediante pensamientos malévolos. Se dice que nació de la unión de 108 espíritus malignos."
+    },
+    "evolution": [
+        [
+            "Spiritomb"
+        ]
+    ]
+}

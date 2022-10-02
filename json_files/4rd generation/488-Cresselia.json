@@ -1,0 +1,120 @@
+{
+    "dex number": "488",
+    "pokemon name": "Cresselia",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "120",
+        "atk": "70",
+        "def": "120",
+        "atk esp": "75",
+        "def esp": "130",
+        "speed": "85"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje, Pokémon errante: Aleatoriamente por todo Sinnoh (solo uno, al nivel 50 ver más detalles)"
+        ],
+        "Perla": [
+            "Salvaje, Pokémon errante: Aleatoriamente por todo Sinnoh (solo uno, al nivel 50 ver más detalles)"
+        ],
+        "Platino": [
+            "Salvaje, Pokémon errante: Aleatoriamente por todo Sinnoh (solo uno, al nivel 50 ver más detalles)"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino.",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino.",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2."
+        ],
+        "Negro 2": [
+            "Salvaje: Puente Progreso, se necesita la pluma lunar (solo uno, al nivel 68)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Puente Progreso, se necesita la pluma lunar (solo uno, al nivel 68)."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Isla Creciente (solo uno, al nivel 50)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Isla Creciente (solo uno, al nivel 50)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo (solo uno, al nivel 60)."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo (solo uno, al nivel 60)."
+        ],
+        "Espada": [
+            "Especial: Aleatoriamente en una Aventura Dinamax (Solo uno, al nivel 70)."
+        ],
+        "Escudo": [
+            "Especial: Aleatoriamente en una Aventura Dinamax (Solo uno, al nivel 70)."
+        ],
+        "Diamante Brillante": [
+            "Salvaje, Pokémon errante: Aleatoriamente por todo Sinnoh (solo uno, al nivel 50 ver más detalles)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje, Pokémon errante: Aleatoriamente por todo Sinnoh (solo uno, al nivel 50 ver más detalles)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Arena de la Luna: Durante la encomienda: La tabla de la Arena de la Luna."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Sus alas emiten un velo de partículas brillantes. Se dice que representa un cuarto lunar.",
+        "Perla": "Sus alas emiten un velo de partículas brillantes. Se dice que representa un cuarto lunar.",
+        "Platino": "En las noches de media luna, la aurora de su cola se extiende y ondea más hermosa que nunca.",
+        "Oro HeartGold": "Si alguien se duerme con una pluma suya, tendrá sueños maravillosos. Encarna el creciente lunar.",
+        "Plata SoulSilver": "Si alguien se duerme con una pluma suya, tendrá sueños maravillosos. Encarna el creciente lunar.",
+        "Negro": "En las noches de media luna, la aurora de su cola se extiende y ondea más hermosa que nunca.",
+        "Blanco": "En las noches de media luna, la aurora de su cola se extiende y ondea más hermosa que nunca.",
+        "Negro 2": "En las noches de media luna, la aurora de su cola se extiende y ondea más hermosa que nunca.",
+        "Blanco 2": "En las noches de media luna, la aurora de su cola se extiende y ondea más hermosa que nunca.",
+        "Pokémon X": "Sus alas emiten un velo de partículas brillantes. Se dice que representa un cuarto lunar.",
+        "Pokémon Y": "Si alguien se duerme con una pluma suya, tendrá sueños maravillosos. Encarna el creciente lunar.",
+        "Rubí Omega": "Sus alas emiten un velo de partículas brillantes. Se dice que representa un cuarto lunar.",
+        "Zafiro Alfa": "Si alguien se duerme con una pluma suya, tendrá sueños maravillosos. Encarna el creciente lunar.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de este Pokémon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de este Pokémon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Sus alas, semejantes a un velo, emiten partículas brillantes al volar. Se dice que encarna el creciente lunar.",
+        "Perla Reluciente": "Sus alas, semejantes a un velo, emiten partículas brillantes al volar. Se dice que encarna el creciente lunar.",
+        "Leyendas: Arceus": "Vuela por el cielo nocturno dejando tras de sí una vívida estela brillante, como si se tratara de un ser celestial que traza la Vía Láctea. Su figura recuerda a una luna creciente."
+    },
+    "evolution": [
+        [
+            "Cresselia"
+        ]
+    ]
+}

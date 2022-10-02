@@ -1,0 +1,140 @@
+{
+    "dex number": "452",
+    "pokemon name": "Drapion",
+    "types": [
+        "veneno",
+        "siniestro"
+    ],
+    "abilities": [
+        "Armadura batalla",
+        "Francotirador"
+    ],
+    "hidden abilities": [
+        "Vista lince"
+    ],
+    "stats": {
+        "hp": "70",
+        "atk": "90",
+        "def": "110",
+        "atk esp": "60",
+        "def esp": "75",
+        "speed": "95"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Gran Pantano, tras conseguir la Pokédex Nacional.",
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Perla": [
+            "Salvaje: Gran Pantano, tras conseguir la Pokédex Nacional.",
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Platino": [
+            "Salvaje: Gran Pantano, tras conseguir la Pokédex Nacional.",
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Negro": [
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Blanco": [
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 19.",
+            "Evolucionar: a Skorupi (nivel 40).",
+            "Especial: Safari Amistad, en algunos safaris de tipo veneno."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 19.",
+            "Evolucionar: a Skorupi (nivel 40).",
+            "Especial: Safari Amistad, en algunos safaris de tipo veneno."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde."
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón.",
+            "Salvaje: Lago del Enfado, Ruta 8",
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón.",
+            "Salvaje: Lago del Enfado, Ruta 8",
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Gran Pantano.",
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Gran Pantano.",
+            "Evolucionar: a Skorupi (nivel 40)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Playa Ginkgo",
+            "Evolucionar: a Skorupi (nivel 40).",
+            "Aparición supermasiva: Costa Cobalto y Pantanal Carmesí.",
+            "Pokémon alfa: Playa Ginkgo"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Sus brazos tienen fuerza para destrozar un coche. La punta de sus zarpas segrega veneno.",
+        "Perla": "Está dentro de una fuerte coraza. Su cabeza rota 180 grados para poder ver en todas direcciones.",
+        "Platino": "Tiene una complexión muy fuerte de la que se enorgullece. Derriba a sus enemigos sin usar toxinas.",
+        "Oro HeartGold": "Como ataca a las personas y a los Pokémon que viajan por el desierto, se le tiene muchísimo miedo.",
+        "Plata SoulSilver": "Como ataca a las personas y a los Pokémon que viajan por el desierto, se le tiene muchísimo miedo.",
+        "Negro": "Tiene una complexión muy fuerte de la que se enorgullece. Derriba a sus enemigos sin usar toxinas.",
+        "Blanco": "Tiene una complexión muy fuerte de la que se enorgullece. Derriba a sus enemigos sin usar toxinas.",
+        "Negro 2": "Aunque sabe que puede aplastar al rival con su gran fuerza, le gusta dar el golpe de gracia con su virulento veneno.",
+        "Blanco 2": "Aunque sabe que puede aplastar al rival con su gran fuerza, le gusta dar el golpe de gracia con su virulento veneno.",
+        "Pokémon X": "Aunque sabe que puede aplastar al rival con su gran fuerza, le gusta dar el golpe de gracia con su virulento veneno.",
+        "Pokémon Y": "Sus brazos tienen fuerza para destrozar un coche. La punta de sus zarpas segrega veneno.",
+        "Rubí Omega": "Aunque sabe que puede aplastar al rival con su gran fuerza, le gusta dar el golpe de gracia con su virulento veneno.",
+        "Zafiro Alfa": "Sus brazos tienen fuerza para destrozar un coche. La punta de sus zarpas segrega veneno.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Posee un veneno muy potente, pero que usa muy poco. Con la extraordinaria fuerza que concentra al enfurecerse podría hacer añicos un coche.",
+        "Escudo": "Su ferocidad le ha granjeado el sobrenombre del Diablo de la Arena, pero en presencia de los Hippowdon se muestra dócil y pacífico.",
+        "Diamante Brillante": "Tiene tal fuerza en los brazos que puede destrozar un coche. Segrega veneno por la punta de las zarpas.",
+        "Perla Reluciente": "Todo su cuerpo está recubierto por un robusto exoesqueleto. Puede rotar el torso 180º, lo que le permite ver en todas direcciones.",
+        "Leyendas: Arceus": "Su fuerza sin parangón y su robusto exoesqueleto, que ni una catana es capaz de atravesar, hacen de este violento y atroz Pokémon una gran amenaza."
+    },
+    "evolution": [
+        [
+            "Skorupi",
+            "Nivel 40",
+            "Drapion"
+        ]
+    ]
+}

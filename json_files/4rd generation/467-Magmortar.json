@@ -1,0 +1,137 @@
+{
+    "dex number": "467",
+    "pokemon name": "Magmortar",
+    "types": [
+        "fuego"
+    ],
+    "abilities": [
+        "Cuerpo llama"
+    ],
+    "hidden abilities": [
+        "Espíritu vital"
+    ],
+    "stats": {
+        "hp": "75",
+        "atk": "95",
+        "def": "67",
+        "atk esp": "125",
+        "def esp": "95",
+        "speed": "83"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado.",
+            "Especial: Transfiriéndolo de Pokémon Battle Revolution. Se puede conseguir como Pokémon especial usando el código KN34-Q0UC-1MBX para la versión española. Para la inglesa: B416-X4HT-VTWF."
+        ],
+        "Perla": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado.",
+            "Especial: Transfiriéndolo de Pokémon Battle Revolution. Se puede conseguir como Pokémon especial usando el código KN34-Q0UC-1MBX para la versión española. Para la inglesa: B416-X4HT-VTWF."
+        ],
+        "Platino": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado.",
+            "Especial: Transfiriéndolo de Pokémon Battle Revolution. Se puede conseguir como Pokémon especial usando el código KN34-Q0UC-1MBX para la versión española. Para la inglesa: B416-X4HT-VTWF."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado.",
+            "Especial: Transfiriéndolo de Pokémon Battle Revolution. Se puede conseguir como Pokémon especial usando el código KN34-Q0UC-1MBX para la versión española. Para la inglesa: B416-X4HT-VTWF."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado.",
+            "Especial: Transfiriéndolo de Pokémon Battle Revolution. Se puede conseguir como Pokémon especial usando el código KN34-Q0UC-1MBX para la versión española. Para la inglesa: B416-X4HT-VTWF."
+        ],
+        "Negro": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado.",
+            "Intercambiar: de Pokémon Blanco o Pokémon Negro 2.",
+            "Dream World: Con la habilidad espíritu vital."
+        ],
+        "Blanco": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado.",
+            "Dream World: Con la habilidad espíritu vital."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado.",
+            "Dream World: Con la habilidad espíritu vital."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado.",
+            "Intercambiar: de Pokémon Blanco o Pokémon Negro 2.",
+            "Dream World: Con la habilidad espíritu vital."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado."
+        ],
+        "Sol": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado."
+        ],
+        "Luna": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado."
+        ],
+        "Espada": [
+            "Salvaje: Campo Deslizante , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Campo Deslizante , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Magmar, intercambiándolo con el objeto magmatizador equipado."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Magmar (magmatizador)",
+            " Distorsión espaciotemporal: Ladera Corona",
+            "Aparición supermasiva: Costa Cobalto."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Sus brazos disparan bolas de fuego a más de 2000 grados. Vive en cráteres volcánicos.",
+        "Perla": "Sus brazos disparan bolas de fuego a más de 2000 grados. Vive en cráteres volcánicos.",
+        "Platino": "Cuando lanza sus bolas de fuego a 2000 grados, su cuerpo adquiere un tono blanquecino por el calor.",
+        "Oro HeartGold": "Sus brazos disparan bolas de fuego de más de 2000º. El aliento que desprende es abrasador.",
+        "Plata SoulSilver": "Sus brazos disparan bolas de fuego de más de 2000º. El aliento que desprende es abrasador.",
+        "Negro": "Cuando lanza sus bolas de fuego a 2000 grados, su cuerpo adquiere un tono blanquecino por el calor.",
+        "Blanco": "Cuando lanza sus bolas de fuego a 2000 grados, su cuerpo adquiere un tono blanquecino por el calor.",
+        "Negro 2": "Al lanzar bolas de fuego de 2000° por las manos, su cuerpo adquiere un tono blanquecino debido a la temperatura.",
+        "Blanco 2": "Al lanzar bolas de fuego de 2000° por las manos, su cuerpo adquiere un tono blanquecino debido a la temperatura.",
+        "Pokémon X": "Sus brazos disparan bolas de fuego a más de 2000 grados. Vive en cráteres volcánicos.",
+        "Pokémon Y": "Sus brazos disparan bolas de fuego de más de 2000º. El aliento que desprende es abrasador.",
+        "Rubí Omega": "Sus brazos disparan bolas de fuego a más de 2000 grados. Vive en cráteres volcánicos.",
+        "Zafiro Alfa": "Sus brazos disparan bolas de fuego de más de 2000º. El aliento que desprende es abrasador.",
+        "Sol": "Vive en cráteres volcánicos. Al parecer, en cada volcán solo habita una pareja de Magmortar.",
+        "Luna": "Expulsa bolas de fuego por los brazos que alcanzan los 2000 °C. Si lanza ráfagas, sus bazos pueden llegar a fundirse un poco.",
+        "Ultrasol": "En la actualidad son aún muchas las empresas metalúrgicas que dependen de las llamas de Magmortar para trabajar el metal.",
+        "Ultraluna": "Expulsa bolas de fuego con las que arrolla a su enemigo y lo deja completamente chamuscado, razón por la que evita este método al cazar.",
+        "Espada": "Al respirar profundamente, el fuego del interior de su vientre gana intensidad y puede alcanzar los 2000 ºC.",
+        "Escudo": "Al vivir en un cráter, su cuerpo ha adquirido un aspecto similar al de un volcán y ha desarrollado un órgano parecido a una cámara magmática.",
+        "Diamante Brillante": "Sus brazos disparan bolas de fuego a 2000 ºC. Vive en cráteres volcánicos.",
+        "Perla Reluciente": "Sus brazos disparan bolas de fuego a 2000 ºC. Vive en cráteres volcánicos.",
+        "Leyendas: Arceus": "Un extraño objeto provocó esta evolución. Sus brazos cilíndricos disparan bolas de fuego a una temperatura capaz de fundir hierro instantáneamente."
+    },
+    "evolution": [
+        [
+            "Magby",
+            "Nivel 30",
+            "Magmar",
+            "Intercambio equipadocon magmatizador ",
+            "Magmortar"
+        ]
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "dex number": "440",
+    "pokemon name": "Happiny",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Cura natural",
+        "Dicha"
+    ],
+    "hidden abilities": [
+        "Compiescolta"
+    ],
+    "stats": {
+        "hp": "100",
+        "atk": "5",
+        "def": "5",
+        "atk esp": "15",
+        "def esp": "65",
+        "speed": "30"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Jardín Trofeo.",
+            "Criando: a Chansey o Blissey equipado con incienso duplo.",
+            "Especial: recibiendo el huevo del montañero de ciudad Corazón, en la entrada este. Es necesario un espacio libre en tu equipo para poder recibirlo."
+        ],
+        "Perla": [
+            "Salvaje: Jardín Trofeo.",
+            "Criando: a Chansey o Blissey equipado con incienso duplo.",
+            "Especial: recibiendo el huevo del montañero de ciudad Corazón, en la entrada este. Es necesario un espacio libre en tu equipo para poder recibirlo."
+        ],
+        "Platino": [
+            "Salvaje: Jardín Trofeo.",
+            "Criando: a Chansey o Blissey equipado con incienso duplo."
+        ],
+        "Oro HeartGold": [
+            "Criando: a Chansey o Blissey equipado con incienso duplo.",
+            "Pokéwalker: Campo Amistad."
+        ],
+        "Plata SoulSilver": [
+            "Criando: a Chansey o Blissey equipado con incienso duplo.",
+            "Pokéwalker: Campo Amistad."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco.",
+            "Dream World: Con la habilidad Compiescolta."
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco.",
+            "Dream World: Con la habilidad Compiescolta."
+        ],
+        "Negro 2": [
+            "Especial: recibiendo el huevo de una Criapokémon en el acceso a ciudad Esmalte.",
+            "Dream World: Con la habilidad Compiescolta."
+        ],
+        "Blanco 2": [
+            "Especial: recibiendo el huevo de una Criapokémon en el acceso a ciudad Esmalte.",
+            "Dream World: Con la habilidad Compiescolta."
+        ],
+        "Pokémon X": [
+            "Criando: a Chansey o Blissey equipado con incienso duplo."
+        ],
+        "Pokémon Y": [
+            "Criando: a Chansey o Blissey equipado con incienso duplo."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Paraje Espejismo.",
+            "Criando: a Chansey o Blissey equipado con incienso duplo."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Paraje Espejismo.",
+            "Criando: a Chansey o Blissey equipado con incienso duplo."
+        ],
+        "Sol": [
+            " Salvaje:",
+            "Ruta 1 (como refuerzo de Munchlax)",
+            "Ruta 1 y Ciudad Hauoli (como refuerzo de Pichu)",
+            "Ruta 4 y Ruta 6 (como refuerzo de Igglybuff)",
+            "Ruta 1, Ruta 5 y Jungla Umbría (como refuerzo de Bonsly)",
+            "Criando: a Chansey o Blissey equipado con incienso duplo."
+        ],
+        "Luna": [
+            " Salvaje:",
+            "Ruta 1 (como refuerzo de Munchlax)",
+            "Ruta 1 y Ciudad Hauoli (como refuerzo de Pichu)",
+            "Ruta 4 y Ruta 6 (como refuerzo de Igglybuff)",
+            "Ruta 1, Ruta 5 y Jungla Umbría (como refuerzo de Bonsly)",
+            "Criando: a Chansey o Blissey equipado con incienso duplo."
+        ],
+        "Ultrasol": [
+            " Salvaje: Rutas: 1, 4, 5, 6, Ciudad Hauoli, Jungla Umbría, Monte Rubor, Pico Hokulani, Bosque de Poni, Gruta Unemar y Área Volcánica del Wela (Como refuerzo)",
+            "Criando: a Chansey o Blissey equipado con incienso duplo."
+        ],
+        "Ultraluna": [
+            " Salvaje: Rutas: 1, 4, 5, 6, Ciudad Hauoli, Jungla Umbría, Monte Rubor, Pico Hokulani, Bosque de Poni, Gruta Unemar y Área Volcánica del Wela (Como refuerzo)",
+            "Criando: a Chansey o Blissey equipado con incienso duplo."
+        ],
+        "Espada": [
+            "Salvaje: Bahía Circular, Humedal Frescor, Isla Melosa, Llano Entrenamiento, Mar Andana, Mar Gimnástico, Prado Reverencia, Playa Desafío, Bosque Concentración, Ruta Desafío"
+        ],
+        "Escudo": [
+            "Salvaje: Bahía Circular, Humedal Frescor, Isla Melosa, Llano Entrenamiento, Mar Andana, Mar Gimnástico, Prado Reverencia"
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Jardín Trofeo.",
+            "Especial: recibiendo el huevo del montañero de ciudad Corazón, en la entrada este. Es necesario un espacio libre en tu equipo para poder recibirlo."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Jardín Trofeo.",
+            "Especial: recibiendo el huevo del montañero de ciudad Corazón, en la entrada este. Es necesario un espacio libre en tu equipo para poder recibirlo."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Gruta Pirita, Cascada Obsidiana, Cala Oculta y Desfiladero Alud.",
+            "Aparición supermasiva: Costa Cobalto."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Le encantan las cosas blancas y redondas. Imita a Chansey llevando una roca en forma de huevo.",
+        "Perla": "Les da a sus amigos una roca con forma de huevo que transporta en la bolsa de su panza.",
+        "Platino": "Se pasea por ahí con una roquita. A veces se cuela entre los pies de los demás y hace que tropiecen.",
+        "Oro HeartGold": "Cuida de una pequeña roca blanca y redonda creyendo que es un huevo. Le gusta arreglarse el tirabuzón.",
+        "Plata SoulSilver": "Cuida de una pequeña roca blanca y redonda creyendo que es un huevo. Le gusta arreglarse el tirabuzón.",
+        "Negro": "Se pasea por ahí con una roquita. A veces se cuela entre los pies de los demás y hace que tropiecen.",
+        "Blanco": "Se pasea por ahí con una roquita. A veces se cuela entre los pies de los demás y hace que tropiecen.",
+        "Negro 2": "Se pasea por ahí con una roquita. A veces se cuela entre los pies de los demás y hace que tropiecen.",
+        "Blanco 2": "Se pasea por ahí con una roquita. A veces se cuela entre los pies de los demás y hace que tropiecen.",
+        "Pokémon X": "Les da a sus amigos una roca con forma de huevo que transporta en la bolsa de su panza.",
+        "Pokémon Y": "Cuida de una pequeña roca blanca y redonda creyendo que es un huevo. Le gusta arreglarse el tirabuzón.",
+        "Rubí Omega": "Les da a sus amigos una roca con forma de huevo que transporta en la bolsa de su panza.",
+        "Zafiro Alfa": "Cuida de una pequeña roca blanca y redonda creyendo que es un huevo. Le gusta arreglarse el tirabuzón.",
+        "Sol": "En la bolsa de su panza transporta una roca redonda y blanca. Cuando hace amigos puede llegar a regalársela.",
+        "Luna": "Como todavía no puede poner huevos, busca rocas blancas y redondas en su lugar.",
+        "Ultrasol": "Se trata de un Pokémon dócil y tranquilo, pero, si le arrebatan la piedra redonda que lleva en la bolsa de su panza, se pone a llorar y berrear.",
+        "Ultraluna": "En cuanto ve cosas blancas y redondas, se las guarda en la bolsa de su panza. A veces la llena hasta tales extremos que no se puede ni mover.",
+        "Espada": "Lleva en la bolsa de su panza una roca con forma de huevo que cuida con esmero, imitando a Chansey.",
+        "Escudo": "Les deja su preciada roca redonda a aquellos con los que se lleva bien. Si no se la devuelven, se echa a llorar, presa de una rabieta.",
+        "Diamante Brillante": "Le encantan las cosas blancas y redondas. Lleva una roca con forma de huevo para imitar a Chansey.",
+        "Perla Reluciente": "Les da a sus amigos una roca con forma de huevo que transporta en la bolsa de su panza.",
+        "Leyendas: Arceus": "Guarda con mimo una roca ovalada en la bolsa del abdomen, imitando a Chansey. Hace buenas migas con los niños y, en ocasiones, juegan juntos a las casitas."
+    },
+    "evolution": [
+        [
+            "Happiny",
+            "Nivel (día) equipada con Piedra oval ",
+            "Chansey",
+            "Amistad+ nivel",
+            "Blissey"
+        ]
+    ]
+}

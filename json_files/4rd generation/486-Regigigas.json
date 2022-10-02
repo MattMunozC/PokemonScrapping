@@ -1,0 +1,123 @@
+{
+    "dex number": "486",
+    "pokemon name": "Regigigas",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Inicio lento"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "110",
+        "atk": "160",
+        "def": "110",
+        "atk esp": "80",
+        "def esp": "110",
+        "speed": "100"
+    },
+    "location": {
+        "Diamante": [
+            "Especial: Templo Puntaneva (solo uno). Se necesita llevar a Regice, Regirock y Registeel en el equipo",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Perla": [
+            "Especial: Templo Puntaneva (solo uno). Se necesita llevar a Regice, Regirock y Registeel en el equipo",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Platino": [
+            "Especial: Templo Puntaneva (solo uno). Se necesita llevar a Regice, Regirock y Registeel en el equipo",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino."
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2"
+        ],
+        "Negro 2": [
+            "Salvaje: Monte Tuerca (solo uno). Se necesita llevar a Regice, Regirock y Registeel en el equipo"
+        ],
+        "Blanco 2": [
+            "Salvaje: Monte Tuerca (solo uno). Se necesita llevar a Regice, Regirock y Registeel en el equipo"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Especial: Cueva Insular (solo uno). Solo durante el día, tras capturar o derrotar a Groudon o Kyogre y tras haber capturado a Regice, Regirock y Registeel; se debe llevar a estos tres en el equipo, Regice debe tener mote y llevar equipado un porcehelado, una bola de nieve, un antiderretir o una roca helada"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Cueva Insular (solo uno). Solo durante el día, tras capturar o derrotar a Groudon o Kyogre y tras haber capturado a Regice, Regirock y Registeel; se debe llevar a estos tres en el equipo, Regice debe tener mote y llevar equipado un porcehelado, una bola de nieve, un antiderretir o una roca helada"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna."
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo (solo uno)"
+        ],
+        "Espada": [
+            "Incursión Dinamax Especial: Nido Dinamax (rodeado de 4 piedras) en Lecho del Gigante antes de entrar al Desfiladero Nevado, Se necesita llevar a Regice, Regirock, Registeel, Regidrago y Regieleki en el equipo."
+        ],
+        "Escudo": [
+            "Incursión Dinamax Especial: Nido Dinamax (rodeado de 4 piedras) en Lecho del Gigante antes de entrar al Desfiladero Nevado, Se necesita llevar a Regice, Regirock, Registeel, Regidrago y Regieleki en el equipo."
+        ],
+        "Diamante Brillante": [
+            "Especial: Templo Puntaneva (solo uno). Se necesita llevar a Regice, Regirock y Registeel en el equipo."
+        ],
+        "Perla Reluciente": [
+            "Especial: Templo Puntaneva (solo uno). Se necesita llevar a Regice, Regirock y Registeel en el equipo."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Templo Puntaneva (solo uno, durante la  encomienda 24)."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Una antigua leyenda afirma que este Pokémon arrastraba continentes con cuerdas.",
+        "Perla": "Una antigua leyenda afirma que este Pokémon arrastraba continentes con cuerdas.",
+        "Platino": "Se dice que usó rocas, magma y un hielo especial de montaña para crear Pokémon con su aspecto.",
+        "Oro HeartGold": "Se dice que creó a Regirock, Regice y Registeel a partir de arcilla, hielo y magma.",
+        "Plata SoulSilver": "Se dice que creó a Regirock, Regice y Registeel a partir de arcilla, hielo y magma.",
+        "Negro": "Se dice que usó rocas, magma y un hielo especial de montaña para crear Pokémon con su aspecto.",
+        "Blanco": "Se dice que usó rocas, magma y un hielo especial de montaña para crear Pokémon con su aspecto.",
+        "Negro 2": "Se dice que usó rocas, magma y un hielo especial de montaña para crear Pokémon con su aspecto.",
+        "Blanco 2": "Se dice que usó rocas, magma y un hielo especial de montaña para crear Pokémon con su aspecto.",
+        "Pokémon X": "Se dice que usó rocas, magma y un hielo especial de montaña para crear Pokémon con su aspecto.",
+        "Pokémon Y": "Una antigua leyenda afirma que este Pokémon arrastraba continentes con cuerdas.",
+        "Rubí Omega": "Se dice que usó rocas, magma y un hielo especial de montaña para crear Pokémon con su aspecto.",
+        "Zafiro Alfa": "Una antigua leyenda afirma que este Pokémon arrastraba continentes con cuerdas.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Existen leyendas en todo el mundo que narran como Regigigas creó otros Pokémon a su imagen y semejanza.",
+        "Escudo": "Dicen que creó a otros Pokémon a partir de distintos materiales y que, después, colocó los continentes en su posición actual.",
+        "Diamante Brillante": "Una antigua leyenda afirma que este Pokémon arrastraba continentes con cuerdas.",
+        "Perla Reluciente": "Una antigua leyenda afirma que este Pokémon arrastraba continentes con cuerdas.",
+        "Leyendas: Arceus": "Según la leyenda, amarró un continente con una cuerda y tiró de él para dar forma a Hisui. Aunque tengo mis dudas, este mito podría esconder algo de verdad."
+    },
+    "evolution": [
+        [
+            "Regigigas"
+        ]
+    ]
+}

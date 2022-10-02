@@ -1,0 +1,174 @@
+{
+    "dex number": "470",
+    "pokemon name": "Leafeon",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Defensa hoja"
+    ],
+    "hidden abilities": [
+        "Clorofila"
+    ],
+    "stats": {
+        "hp": "65",
+        "atk": "110",
+        "def": "130",
+        "atk esp": "60",
+        "def esp": "65",
+        "speed": "95"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en el Bosque Vetusto."
+        ],
+        "Perla": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en el Bosque Vetusto."
+        ],
+        "Platino": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en el Bosque Vetusto."
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante y Perla o Platino."
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante y Perla o Platino."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Negro 2 o Blanco 2.",
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino.",
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en el Bosque Azulejo.",
+            "Dream World: Con la habilidad Clorofila."
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro 2 o Blanco 2.",
+            "Pokétransfer: Transferir de Pokémon Diamante, Perla o Platino.",
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en el Bosque Azulejo.",
+            "Dream World: Con la habilidad Clorofila."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en el Bosque Azulejo.",
+            "Dream World: Con la habilidad Clorofila."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en el Bosque Azulejo.",
+            "Dream World: Con la habilidad Clorofila."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en la ruta 20"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en la ruta 20"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en el Bosque Petalia."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en el Bosque Petalia."
+        ],
+        "Sol": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en la Jungla Umbría."
+        ],
+        "Luna": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en la Jungla Umbría."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en la Jungla Umbría."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Eevee, subiendo un nivel cerca de la roca musgo, en la Jungla Umbría."
+        ],
+        "Espada": [
+            "Salvaje:",
+            "Área Silvestre: Lago del Enfado, sólo en presencia de clima despejado; Lecho del Gigante, en Nieves de la Corona, con clima despejado.",
+            "Incursiones Dinamax: Con posible habilidad oculta: Espejo del Gigante, nido al norte.",
+            "Evolucionar: a Eevee, usando una piedra hoja."
+        ],
+        "Escudo": [
+            "Salvaje:",
+            "Área Silvestre: Lago del Enfado, sólo en presencia de clima despejado; Lecho del Gigante, en Nieves de la Corona, con clima despejado.",
+            "Incursiones Dinamax: Con posible habilidad oculta: Espejo del Gigante, nido al norte.",
+            "Evolucionar: a Eevee, usando una piedra hoja."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar a Eevee:",
+            "Subiendo un nivel cerca de la roca musgo, en el Bosque Vetusto.",
+            "Usando una piedra hoja."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar a Eevee:",
+            "Subiendo un nivel cerca de la roca musgo, en el Bosque Vetusto.",
+            "Usando una piedra hoja."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Eevee(piedra hoja o estando cerca de la roca musgo).",
+            "Distorsión espaciotemporal: Pradera Obsidiana"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Al igual que una planta, hace la fotosíntesis. Como consecuencia, siempre está rodeado de aire puro.",
+        "Perla": "Al igual que una planta, hace la fotosíntesis. Como consecuencia, siempre está rodeado de aire puro.",
+        "Platino": "Prácticamente no combate. Sus células parecidas a las vegetales le permiten hacer la fotosíntesis.",
+        "Oro HeartGold": "En días soleados duerme y hace la fotosíntesis, emitiendo aire puro a su alrededor.",
+        "Plata SoulSilver": "En días soleados duerme y hace la fotosíntesis, emitiendo aire puro a su alrededor.",
+        "Negro": "Prácticamente no combate. Sus células parecidas a las vegetales le permiten hacer la fotosíntesis.",
+        "Blanco": "Prácticamente no combate. Sus células parecidas a las vegetales le permiten hacer la fotosíntesis.",
+        "Negro 2": "Sus células son parecidas a las de las plantas, por lo que hace la fotosíntesis en su interior y expulsa oxígeno puro.",
+        "Blanco 2": "Sus células son parecidas a las de las plantas, por lo que hace la fotosíntesis en su interior y expulsa oxígeno puro.",
+        "Pokémon X": "En días soleados duerme y hace la fotosíntesis, emitiendo aire puro a su alrededor.",
+        "Pokémon Y": "Al igual que una planta, hace la fotosíntesis. Como consecuencia, siempre está rodeado de aire puro.",
+        "Rubí Omega": "En días soleados duerme y hace la fotosíntesis, emitiendo aire puro a su alrededor.",
+        "Zafiro Alfa": "Al igual que una planta, hace la fotosíntesis. Como consecuencia, siempre está rodeado de aire puro.",
+        "Sol": "Su estructura celular se asemeja más a la de las plantas que a la de los animales. Puede obtener energía sin alimentos gracias a la fotosíntesis.",
+        "Luna": "Los Leafeon jóvenes desprenden un intenso aroma a hierba fresca, mientras que el olor de los mayores es más semejante a la hojarasca.",
+        "Ultrasol": "A pesar de evitar a toda costa los combates, si ha de proteger a sus amigos, no duda en usar la hoja de la cola como una afilada espada.",
+        "Ultraluna": "Realiza la fotosíntesis para obtener nutrientes. Habita en la apacible espesura de los bosques bañados por arroyos de agua cristalina.",
+        "Espada": "El peculiar aroma que desprenden sus hojas es muy apreciado por los habitantes de Galar y se usa en la elaboración de codiciados perfumes.",
+        "Escudo": "Se siente muy orgulloso de su cola afilada como una espada, con la que es capaz de cortar en dos el tronco de un árbol grueso.",
+        "Diamante Brillante": "Al igual que una planta, hace la fotosíntesis. Como consecuencia, siempre está rodeado de aire puro.",
+        "Perla Reluciente": "Al igual que una planta, hace la fotosíntesis. Como consecuencia, siempre está rodeado de aire puro.",
+        "Leyendas: Arceus": "Se han hallado células similares a las de las plantas en su pelaje. Puede cortar árboles en dos limpiamente gracias a su dura cola, tan afilada como una espada forjada con maestría."
+    },
+    "evolution": [
+        [
+            "Eevee",
+            "Piedra agua ",
+            "Vaporeon"
+        ],
+        [
+            "",
+            "Piedra trueno ",
+            "Jolteon"
+        ],
+        [
+            "",
+            "Piedra fuego ",
+            "Flareon"
+        ],
+        [
+            "",
+            "Amistad + nivel (día) ",
+            "Espeon"
+        ],
+        [
+            "",
+            "Amistad + nivel (noche) ",
+            "Umbreon"
+        ],
+        [
+            "",
+            "Subir nivel cerca de la roca musgo 3,\nestar junto la roca musgo en Hisui;o piedra hoja 4\n",
+            "Leafeon"
+        ],
+        [
+            "",
+            "Subir nivel cerca de la roca hielo 3;o piedra hielo 4",
+            "Glaceon"
+        ],
+        [
+            "",
+            "Dos corazones de afecto3/amistad4+ nivel + conocer un movimiento de tipo hada",
+            "Sylveon"
+        ]
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "dex number": "473",
+    "pokemon name": "Mamoswine",
+    "types": [
+        "hielo",
+        "tierra"
+    ],
+    "abilities": [
+        "Despiste",
+        "Manto níveo"
+    ],
+    "hidden abilities": [
+        "Sebo"
+    ],
+    "stats": {
+        "hp": "110",
+        "atk": "130",
+        "def": "80",
+        "atk esp": "70",
+        "def esp": "60",
+        "speed": "80"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Perla": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Platino": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Negro": [
+            "Especial: Cuando la hierba se mueve en Boquete Gigante.",
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Blanco": [
+            "Especial: Cuando la hierba se mueve en Boquete Gigante.",
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Negro 2": [
+            "Especial: Cuando la hierba se mueve en Boquete Gigante.",
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Blanco 2": [
+            "Especial: Cuando la hierba se mueve en Boquete Gigante.",
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Luna": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Espada": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel).",
+            "Incursiones Dinamax: Con posible habilidad oculta: Llanura Pétrea, nido al este 1."
+        ],
+        "Escudo": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel).",
+            "Incursiones Dinamax: Con posible habilidad oculta: Llanura Pétrea, nido al este 1."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Piloswine (conociendo poder pasado + nivel)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Témpano Avalugg.",
+            "Evolucionar: a Piloswine (nivel +poder pasado).",
+            "Aparición supermasiva: Tundra Alba"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Sus impresionantes colmillos están hechos de hielo. Su población se redujo tras la glaciación.",
+        "Perla": "Sus impresionantes colmillos están hechos de hielo. Su población se redujo tras la glaciación.",
+        "Platino": "Se encontró un ejemplar congelado hace 10000 años en una excavación. ¡Y se despertó!",
+        "Oro HeartGold": "Ya existía en la antigüedad. Se encontró uno bajo hielo de hace más de 10 000 años.",
+        "Plata SoulSilver": "Habitaba por todo el planeta durante la glaciación, pero su número se redujo después de ésta.",
+        "Negro": "Se encontró un ejemplar congelado hace 10000 años en una excavación. ¡Y se despertó!",
+        "Blanco": "Se encontró un ejemplar congelado hace 10000 años en una excavación. ¡Y se despertó!",
+        "Negro 2": "Se dice que, cuando las temperaturas aumentaron tras la era glaciar, muchos Mamoswine desaparecieron del globo.",
+        "Blanco 2": "Se dice que, cuando las temperaturas aumentaron tras la era glaciar, muchos Mamoswine desaparecieron del globo.",
+        "Pokémon X": "Ya existía en la antigüedad. Se encontró uno bajo hielo de hace más de 10 000 años.",
+        "Pokémon Y": "Sus impresionantes colmillos están hechos de hielo. Su población se redujo tras la glaciación.",
+        "Rubí Omega": "Ya existía en la antigüedad. Se encontró uno bajo hielo de hace más de 10 000 años.",
+        "Zafiro Alfa": "Sus impresionantes colmillos están hechos de hielo. Su población se redujo tras la glaciación.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Aparece representado en pinturas rupestres de hace 10 000 años. Hubo un tiempo en el que se lo consideró extinto.",
+        "Escudo": "Es tan fuerte como parece. Cuanto más frío hace, más gruesos, largos e imponentes se vuelven sus colmillos de hielo.",
+        "Diamante Brillante": "Sus impresionantes colmillos están hechos de hielo. Su población se redujo debido al aumento de las temperaturas tras la glaciación.",
+        "Perla Reluciente": "Sus impresionantes colmillos están hechos de hielo. Su población se redujo debido al aumento de las temperaturas tras la glaciación.",
+        "Leyendas: Arceus": "Esta especie vivió su máximo apogeo durante la era glacial. Presumo que el intenso frío de Hisui despertó el poder latente en su interior."
+    },
+    "evolution": [
+        [
+            "Swinub",
+            "Nivel 33",
+            "Piloswine",
+            "Conociendo poder pasado+ nivel",
+            "Mamoswine"
+        ]
+    ]
+}

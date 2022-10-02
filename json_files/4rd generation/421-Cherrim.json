@@ -1,0 +1,121 @@
+{
+    "dex number": "421",
+    "pokemon name": "Cherrim",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Don floral"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "70",
+        "atk": "60",
+        "def": "70",
+        "atk esp": "87",
+        "def esp": "78",
+        "speed": "85"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Cherubi (nivel 25)"
+        ],
+        "Perla": [
+            "Evolucionar: a Cherubi (nivel 25)"
+        ],
+        "Platino": [
+            "Evolucionar: a Cherubi (nivel 25)"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Cherubi (nivel 25)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Cherubi (nivel 25)"
+        ],
+        "Negro": [
+            "Salvaje: Ruta 12"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 12"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque espejismo"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Es uno de los Pokémon que pueden caer de los árboles de bayas en cualquier lugar del Área Silvestre.",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro."
+        ],
+        "Escudo": [
+            "Salvaje: Es uno de los Pokémon que pueden caer de los árboles de bayas en cualquier lugar del Área Silvestre.",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Cherubi (nivel 25)."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Cherubi (nivel 25)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje (solo en árboles): Pradera Obsidiana: Bosque Recóndito (en el árbol al sur). Pantanal Carmesí: Ciénaga Bocazas. Ladera Corona: Manantial Solitario, Fuente de las Hadas, Caverna Inmemorial.",
+            "Evolucionar: a Cherubi (nivel 25)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Florece en épocas de mucha luz solar. Intenta compensar lo que soportó como capullo.",
+        "Perla": "Es muy dócil como capullo y alegre cuando florece. Si la luz solar mengua, se transforma en capullo.",
+        "Platino": "Cuando detecta luz solar fuerte, despliega los pétalos y absorbe todos los rayos posibles.",
+        "Oro HeartGold": "Cuando los rayos del sol inundan su capullo, abre de par en par sus pétalos y se vuelve muy dinámico.",
+        "Plata SoulSilver": "Cuando los rayos del sol inundan su capullo, abre de par en par sus pétalos y se vuelve muy dinámico.",
+        "Negro": "Cuando detecta luz solar fuerte, despliega los pétalos y absorbe todos los rayos posibles.",
+        "Blanco": "Cuando detecta luz solar fuerte, despliega los pétalos y absorbe todos los rayos posibles.",
+        "Negro 2": "Cuando detecta luz solar fuerte, despliega los pétalos y absorbe todos los rayos posibles.",
+        "Blanco 2": "Cuando detecta luz solar fuerte, despliega los pétalos y absorbe todos los rayos posibles.",
+        "Pokémon X": "Cuando los rayos del sol inundan su capullo, abre de par en par sus pétalos y se vuelve muy dinámico.",
+        "Pokémon Y": "Cuando detecta luz solar fuerte, despliega los pétalos y absorbe todos los rayos posibles.",
+        "Rubí Omega": "Cuando los rayos del sol inundan su capullo, abre de par en par sus pétalos y se vuelve muy dinámico.",
+        "Zafiro Alfa": "Cuando detecta luz solar fuerte, despliega los pétalos y absorbe todos los rayos posibles.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "\nForma encapotada: Permanece casi inmóvil cerrado en un capullo a la espera de que lo bañen los rayos del sol.\nForma soleada: Adopta esta forma cuando lo bañan los rayos del sol. Siempre está rebosante de energía y se mantiene activo hasta el ocaso.",
+        "Escudo": "\nForma encapotada: Al cerrarse, sus pétalos son tan duros que resultan inmunes a los picotazos de los Pokémon pájaro.\nForma soleada: Al abrirse, libera una sutil fragancia que atrae a los Pokémon insecto.",
+        "Diamante Brillante": "Florece cuando el sol pega con fuerza y trata de aprovechar al máximo la energía de la que no ha podido disfrutar en su estadio como capullo.",
+        "Perla Reluciente": "Es muy dócil como capullo y alegre cuando florece. Si la luz solar mengua, vuelve a replegarse en un capullo.",
+        "Leyendas: Arceus": "\nForma Encapotado: Apenas se mueve, salvo algún que otro temblor. El aroma que emana de su capota parece atraer a una gran variedad de Pokémon.\nForma Soleado: Rebosa alegría y energía siempre que brilla el sol y hace buen tiempo. En cuanto se nubla el día, se queda inerte y sus pétalos se pliegan."
+    },
+    "evolution": [
+        [
+            "Cherubi",
+            "Nivel 25",
+            "Cherrim"
+        ]
+    ]
+}

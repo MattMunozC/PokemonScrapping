@@ -1,0 +1,134 @@
+{
+    "dex number": "404",
+    "pokemon name": "Luxio",
+    "types": [
+        "eléctrico"
+    ],
+    "abilities": [
+        "Rivalidad",
+        "Intimidación"
+    ],
+    "hidden abilities": [
+        "Agallas"
+    ],
+    "stats": {
+        "hp": "60",
+        "atk": "85",
+        "def": "49",
+        "atk esp": "60",
+        "def esp": "49",
+        "speed": "60"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Forja Fuego.",
+            "Evolucionar: a Shinx (nivel 15)."
+        ],
+        "Perla": [
+            "Salvaje: Forja Fuego.",
+            "Evolucionar: a Shinx (nivel 15)."
+        ],
+        "Platino": [
+            "Salvaje: Ruta 222",
+            "Evolucionar: a Shinx (nivel 15)."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Shinx (nivel 15)."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Shinx (nivel 15).",
+            "Zona Safari: Después de haber obtenido la Pokédex Nacional y los bloques"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco": [
+            "Evolucionar: a Shinx (nivel 15)."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco."
+        ],
+        "Pokémon X": [
+            "Safari Amistad, zona de Eléctricidad, al nivel 30."
+        ],
+        "Pokémon Y": [
+            "Safari Amistad, zona de Eléctricidad, al nivel 30."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 118, usando el DexNav después de tener la Pokédex Nacional."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 118, usando el DexNav después de tener la Pokédex Nacional."
+        ],
+        "Sol": [
+            "Escáner insular: en la Ruta 8 (Solo los Martes)."
+        ],
+        "Luna": [
+            "Escáner insular: en la Ruta 8 (Solo los Martes)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Evolucionar: a Shinx (nivel 15)."
+        ],
+        "Escudo": [
+            "Evolucionar: a Shinx (nivel 15)."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Forja Fuego.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Nevisca y Cueva Ventisca.",
+            "Evolucionar: a Shinx (nivel 15)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Forja Fuego.",
+            "Grutas del Subsuelo: Cueva Menor, Cueva Espaciosa, Cueva Herbazal, Cueva Pradera, Caverna Solana, Cueva Nevisca y Cueva Ventisca.",
+            "Evolucionar: a Shinx (nivel 15)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Campo Aromaflor, Gruta Pirita, Planicie Arena. Ladera Corona: Loma Sagrada, Senda del Peregrino, Agora de la Plegaria, Paso Píleo.",
+            "Evolucionar: a Shinx (nivel 15).",
+            "Pokémon alfa: Pradera Obsidiana:  Campo Aromaflor",
+            "Distorsión espaciotemporal: Pantanal Carmesí"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Sus garras emiten electricidad que puede debilitar a sus rivales. Viven en grupos pequeños.",
+        "Perla": "Para comunicarse, se tocan con las patas delanteras y transmiten pulsos eléctricos con las garras.",
+        "Platino": "Por las puntas de sus garras pasa una fuerte corriente eléctrica. El mínimo roce debilita al enemigo.",
+        "Oro HeartGold": "Al unir su cola con otro Luxio, pueden desprender potentes descargas por sus garras.",
+        "Plata SoulSilver": "Al unir su cola con otro Luxio, pueden desprender potentes descargas por sus garras.",
+        "Negro": "Por las puntas de sus garras pasa una fuerte corriente eléctrica. El mínimo roce debilita al enemigo.",
+        "Blanco": "Por las puntas de sus garras pasa una fuerte corriente eléctrica. El mínimo roce debilita al enemigo.",
+        "Negro 2": "Por las puntas de sus garras pasa una fuerte corriente eléctrica. El mínimo roce debilita al enemigo.",
+        "Blanco 2": "Por las puntas de sus garras pasa una fuerte corriente eléctrica. El mínimo roce debilita al enemigo.",
+        "Pokémon X": "Sus garras emiten electricidad que puede debilitar a sus rivales. Viven en grupos pequeños.",
+        "Pokémon Y": "Por las puntas de sus garras pasa una fuerte corriente eléctrica. El mínimo roce debilita al enemigo.",
+        "Rubí Omega": "Sus garras emiten electricidad que puede debilitar a sus rivales. Viven en grupos pequeños.",
+        "Zafiro Alfa": "Por las puntas de sus garras pasa una fuerte corriente eléctrica. El mínimo roce debilita al enemigo.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Al unir la cola con otro congénere, este le transmite electricidad, lo que aumenta la potencia de sus descargas eléctricas.",
+        "Escudo": "Cuando encuentra a un adversario, se prepara para combatir sacando las garras, que emiten una corriente eléctrica de un millón de voltios.",
+        "Diamante Brillante": "Sus garras emiten electricidad con tal intensidad que puede debilitar a sus rivales. Viven en grupos pequeños.",
+        "Perla Reluciente": "Para comunicarse entre sí, se tocan con las patas delanteras y transmiten pulsos eléctricos con las garras.",
+        "Leyendas: Arceus": "Sus garras electrizantes son su arma más letal. Parece generoso, pues no duda en compartir los frutos de su caza con sus semejantes."
+    },
+    "evolution": [
+        [
+            "Shinx",
+            "Nivel 15",
+            "Luxio",
+            "Nivel 30",
+            "Luxray"
+        ]
+    ]
+}

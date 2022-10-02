@@ -1,0 +1,130 @@
+{
+    "dex number": "453",
+    "pokemon name": "Croagunk",
+    "types": [
+        "veneno",
+        "lucha"
+    ],
+    "abilities": [
+        "Anticipación",
+        "Piel seca"
+    ],
+    "hidden abilities": [
+        "Toque tóxico"
+    ],
+    "stats": {
+        "hp": "48",
+        "atk": "61",
+        "def": "40",
+        "atk esp": "61",
+        "def esp": "40",
+        "speed": "50"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Gran Pantano"
+        ],
+        "Perla": [
+            "Salvaje: Gran Pantano"
+        ],
+        "Platino": [
+            "Salvaje: Gran Pantano y Ruta 212"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Zona Safari (Albufera)"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Zona Safari (Albufera)"
+        ],
+        "Negro": [
+            "Manada Pokémon: Ruta 8",
+            "Pokémon Dream World: Monte Escarpado"
+        ],
+        "Blanco": [
+            "Manada Pokémon: Ruta 8",
+            "Pokémon Dream World: Monte Escarpado"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)",
+            "Pokémon Dream World: Monte Escarpado"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)",
+            "Pokémon Dream World: Monte Escarpado"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 7"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 7"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Intercambiar: de  Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Mina de Galar n.º 2",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Gran Pantano.",
+            "Grutas del Subsuelo: Cueva Lodazal, Cueva Pantanosa, Caverna Insondable, Cueva Ribera y Caverna Reflelago."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Ciénaga Bocazas, Ciénaga Bermeja, Banco del Juicio y Cantera Ancestral.",
+            "Aparición supermasiva: Pantanal Carmesí"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Tiene bolsas venenosas en las mejillas. Pilla desprevenidos a sus rivales para pincharles.",
+        "Perla": "Cuando infla sus bolsas venenosas, emite un fuerte sonido para intimidar.",
+        "Platino": "Rara vez combate limpio, pero es para asegurar su supervivencia. Es muy popular como mascota.",
+        "Oro HeartGold": "Las toxinas que segrega por los dedos alivian el dolor de espalda y se usan en ciertos medicamentos.",
+        "Plata SoulSilver": "Las toxinas que segrega por los dedos alivian el dolor de espalda y se usan en ciertos medicamentos.",
+        "Negro": "Rara vez combate limpio, pero es para asegurar su supervivencia. Es muy popular como mascota.",
+        "Blanco": "Rara vez combate limpio, pero es para asegurar su supervivencia. Es muy popular como mascota.",
+        "Negro 2": "Infla sus bolsas venenosas para emitir un sonido macabro mientras asesta golpes que hacen retroceder a los rivales.",
+        "Blanco 2": "Infla sus bolsas venenosas para emitir un sonido macabro mientras asesta golpes que hacen retroceder a los rivales.",
+        "Pokémon X": "Tiene bolsas venenosas en las mejillas. Pilla desprevenidos a sus rivales para pincharles.",
+        "Pokémon Y": "Infla sus bolsas venenosas para emitir un sonido macabro mientras asesta golpes que hacen retroceder a los rivales.",
+        "Rubí Omega": "Tiene bolsas venenosas en las mejillas. Pilla desprevenidos a sus rivales para pincharles.",
+        "Zafiro Alfa": "Infla sus bolsas venenosas para emitir un sonido macabro mientras asesta golpes que hacen retroceder a los rivales.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Amenaza a los rivales haciendo sonar las bolsas venenosas de sus mejillas y aprovecha su estupor para inyectarles toxinas.",
+        "Escudo": "Su veneno posee propiedades medicinales si se diluye. Se ha vuelto muy popular desde que una empresa farmacéutica lo adoptó como mascota.",
+        "Diamante Brillante": "Tiene bolsas de veneno en las mejillas. Pilla desprevenidos a sus rivales para inyectarles ponzoña con sus dedos.",
+        "Perla Reluciente": "Infla sus bolsas de veneno para emitir un sonido macabro con el que intimidar a sus adversarios.",
+        "Leyendas: Arceus": "Es venenoso y le gusta jugar sucio, mas su grito extravagante y su expresión bobalicona parecen hacer de él un Pokémon bastante popular."
+    },
+    "evolution": [
+        [
+            "Croagunk",
+            "Nivel 37",
+            "Toxicroak"
+        ]
+    ]
+}

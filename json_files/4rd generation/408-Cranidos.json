@@ -1,0 +1,122 @@
+{
+    "dex number": "408",
+    "pokemon name": "Cranidos",
+    "types": [
+        "roca"
+    ],
+    "abilities": [
+        "Rompemoldes"
+    ],
+    "hidden abilities": [
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": "67",
+        "atk": "125",
+        "def": "40",
+        "atk esp": "30",
+        "def esp": "30",
+        "speed": "58"
+    },
+    "location": {
+        "Diamante": [
+            "Especial: Revivir el fósil cráneo, disponible en el subsuelo, en el Museo Minero de Ciudad Pirita."
+        ],
+        "Perla": [
+            "Intercambiar: de Pokémon Diamante o Platino, se trata de un Pokémon exclusivo."
+        ],
+        "Platino": [
+            "Especial: Revivir el fósil cráneo, disponible en el subsuelo (solo si el último número del ID del jugador es impar:(1,3,5,7,9), en el Museo Minero de Ciudad Pirita."
+        ],
+        "Oro HeartGold": [
+            "Especial: Revivir el fósil cráneo, solo si es transferido desde Pokémon Diamante o Pokémon Platino, en el Museo de ciudad Plateada."
+        ],
+        "Plata SoulSilver": [
+            "Especial: Revivir el fósil cráneo, solo si es transferido desde Pokémon Diamante o Pokémon Platino, en el Museo de ciudad Plateada."
+        ],
+        "Negro": [
+            "Especial: Revivir: Fósil cráneo (Te lo puede entregar un excavador en Monte Tuerca una vez completas la Liga Pokémon por primera vez. El hombre te entrega aleatoriamente y a diario uno de los fósiles existentes). Al nivel 25."
+        ],
+        "Blanco": [
+            "Especial: Revivir: Fósil cráneo (Te lo puede entregar un excavador en Monte Tuerca una vez completas la Liga Pokémon por primera vez. El hombre te entrega aleatoriamente y a diario uno de los fósiles existentes). Al nivel 25."
+        ],
+        "Negro 2": [
+            "Especial: Revivir el fósil cráneo, disponible aleatoriamente por el excavador del monte Tuerca, en el gimnasio Pokémon de Ciudad Esmalte.",
+            "Intercambiar: por cualquier Pokémon con el dueño del objeto perdido en Ciudad Mayólica al llamarla un cierto número de veces (solo si eres chica). Está al nivel 50, equipado con una barrita plus y tiene la habilidad Potencia bruta."
+        ],
+        "Blanco 2": [
+            "Especial: Revivir el fósil cráneo, disponible aleatoriamente por el excavador del monte Tuerca, en el gimnasio Pokémon de Ciudad Esmalte.",
+            "Intercambiar: por cualquier Pokémon con el dueño del objeto perdido en Ciudad Mayólica al llamarla un cierto número de veces (solo si eres chica). Está al nivel 50, equipado con una barrita plus y tiene la habilidad Potencia bruta."
+        ],
+        "Pokémon X": [
+            "Especial: Revivir el fósil cráneo, uno de los tipos de fósiles que puede aparecer al usar golpe roca en las rocas. Se puede revivir el fósil en el Instituto Paleontológico."
+        ],
+        "Pokémon Y": [
+            "Especial: Revivir el fósil cráneo, uno de los tipos de fósiles que puede aparecer al usar golpe roca en las rocas. Se puede revivir el fósil en el Instituto Paleontológico."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Revivir el fósil cráneo que aparece al romper rocas en islas espejismo usando golpe roca. El fósil se puede revivir en Devon S. A."
+        ],
+        "Sol": [
+            "Especial: Revivir el fósil cráneo que se compra en la joyería de Mayla por 7000, ubicada en Ciudad Konikoni de la isla Akala. El fósil se puede revivir en el rancho Otrora de la ruta 8."
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol."
+        ],
+        "Ultrasol": [
+            "Especial: Revivir el fósil cráneo que se compra en la joyería de Mayla por 7000, ubicada en Ciudad Konikoni de la isla Akala. El fósil se puede revivir en el rancho Otrora de la ruta 8."
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol."
+        ],
+        "Espada": [
+            "Cranidos no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Cranidos no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Revivir: Fósil cráneo en el Museo Minero de Ciudad Pirita. El fósil se obtiene en las Grutas del Subsuelo."
+        ],
+        "Perla Reluciente": [
+            "Intercambiar: de Pokémon Diamante Brillante."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Distorsión espaciotemporal: Ladera Corona."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Vivía en la jungla hace unos 100 millones de años. Su cráneo es tan duro como el hierro.",
+        "Perla": "Fue recreado a partir de un fósil con forma esférica. Derriba a las presas a cabezazos.",
+        "Platino": "Vivía en la jungla hace 100 millones de años. Apartaba los árboles del camino a cabezazos.",
+        "Oro HeartGold": "Hace chocar su cabeza con otros Cranidos para poder hacerse más fuerte si cabe.",
+        "Plata SoulSilver": "Hace chocar su cabeza con otros Cranidos para poder hacerse más fuerte si cabe.",
+        "Negro": "Vivía en la jungla hace 100 millones de años. Apartaba los árboles del camino a cabezazos.",
+        "Blanco": "Vivía en la jungla hace 100 millones de años. Apartaba los árboles del camino a cabezazos.",
+        "Negro 2": "Vivía en la jungla hace 100 millones de años. Apartaba los árboles del camino a cabezazos.",
+        "Blanco 2": "Vivía en la jungla hace 100 millones de años. Apartaba los árboles del camino a cabezazos.",
+        "Pokémon X": "Fue recreado a partir de un fósil con forma esférica. Derriba a las presas a cabezazos.",
+        "Pokémon Y": "Vivía en la jungla hace 100 millones de años. Apartaba los árboles del camino a cabezazos.",
+        "Rubí Omega": "Fue recreado a partir de un fósil con forma esférica. Derriba a las presas a cabezazos.",
+        "Zafiro Alfa": "Vivía en la jungla hace 100 millones de años. Apartaba los árboles del camino a cabezazos.",
+        "Sol": "Vivía en la jungla hace 100 millones de años. Gracias a su destreza propinando cabezazos podía hacerle frente a Aerodactyl.",
+        "Luna": "En los estratos geológicos donde se encuentran fósiles de Cranidos también aparecen muchos fósiles de árboles destrozados.",
+        "Ultrasol": "Este Pokémon arcaico cuenta con un cráneo sólido y resistente, pero su cerebro no está a la par.",
+        "Ultraluna": "Se caracteriza por la dureza de su cráneo. Derribaba árboles a cabezazos para comerse las bayas maduras que colgaban de ellos.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Vivía en la jungla hace unos cien millones de años. Su cráneo es tan duro como el hierro.",
+        "Perla Reluciente": "Este Pokémon prehistórico fue regenerado a partir de un fósil con forma esférica. Derriba las presas a cabezazos.",
+        "Leyendas: Arceus": "Un Pokémon extremadamente difícil de localizar. Si dos Cranidos chocan las cabezas al pelear, el sonido del golpe resuena como el tañido de una campana."
+    },
+    "evolution": [
+        [
+            "Cranidos",
+            "Nivel 30",
+            "Rampardos"
+        ]
+    ]
+}

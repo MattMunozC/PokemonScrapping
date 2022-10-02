@@ -1,0 +1,123 @@
+{
+    "dex number": "396",
+    "pokemon name": "Starly",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Vista lince"
+    ],
+    "hidden abilities": [
+        "Audaz"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "55",
+        "def": "30",
+        "atk esp": "30",
+        "def esp": "30",
+        "speed": "60"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: rutas 201, 202, 203, 204, 209, Ruta 212 y Lago Veraz"
+        ],
+        "Perla": [
+            "Salvaje: rutas 201, 202, 203, 204, 209, Ruta 212 y Lago Veraz"
+        ],
+        "Platino": [
+            "Salvaje: rutas 201, 202, 203, 204, 209, Ruta 212 y Lago Veraz"
+        ],
+        "Oro HeartGold": [
+            "Salvaje: Utilizando golpe cabeza en Ciudad Plateada"
+        ],
+        "Plata SoulSilver": [
+            "Salvaje: Utilizando golpe cabeza en Ciudad Plateada"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Blanco"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 11 (encuentro de horda)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 11 (encuentro de horda)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Criar: de Staravia"
+        ],
+        "Luna": [
+            "Criar: de Staravia"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Starly no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Starly no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: rutas 201, 202, 203, 204, 209, 212 (norte), Lago Veraz y Gran Pantano."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: rutas 201, 202, 203, 204, 209, 212 (norte), Lago Veraz y Gran Pantano."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Pradera Obsidiana: Colina del Anhelo, Prado Herradura, Vereda del Viento y Presa del Estuario. Costa Cobalto: Playa Ginkgo, Arboleda Tétrica."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Viaja en grandes bandadas. Aunque es pequeño, agita las alas con gran fuerza.",
+        "Perla": "Suele volar en bandadas, pero pasa desapercibido cuando está solo. Chilla de forma estridente.",
+        "Platino": "Son débiles individualmente, por eso forman grupos. Pero, si el grupo crece demasiado, se pelean.",
+        "Oro HeartGold": "Sobrevuela los campos buscando Pokémon de tipo bicho. Chilla de forma muy estridente.",
+        "Plata SoulSilver": "Sobrevuela los campos buscando Pokémon de tipo bicho. Chilla de forma muy estridente.",
+        "Negro": "Son débiles individualmente, por eso forman grupos. Pero, si el grupo crece demasiado, se pelean.",
+        "Blanco": "Son débiles individualmente, por eso forman grupos. Pero, si el grupo crece demasiado, se pelean.",
+        "Negro 2": "Son débiles individualmente, por eso forman grupos. Pero, si el grupo crece demasiado, se pelean.",
+        "Blanco 2": "Son débiles individualmente, por eso forman grupos. Pero, si el grupo crece demasiado, se pelean.",
+        "Pokémon X": "Viaja en grandes bandadas. Aunque es pequeño, agita las alas con gran fuerza.",
+        "Pokémon Y": "Sobrevuela los campos buscando Pokémon de tipo bicho. Chilla de forma muy estridente.",
+        "Rubí Omega": "Viaja en grandes bandadas. Aunque es pequeño, agita las alas con gran fuerza.",
+        "Zafiro Alfa": "Sobrevuela los campos buscando Pokémon de tipo bicho. Chilla de forma muy estridente.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Viaja en grandes bandadas. Aunque es pequeño, agita las alas con gran fuerza.",
+        "Perla Reluciente": "Suele vivir en grupo, pero pasa totalmente desapercibido cuando está solo. Profiere unos gritos muy estridentes.",
+        "Leyendas: Arceus": "Vive en el campo formando bandadas de lo más estridentes. A pesar de su pequeño tamaño, con sus fuertes alas puede causar contusiones que tardan una semana en sanar."
+    },
+    "evolution": [
+        [
+            "Starly",
+            "Nivel 14",
+            "Staravia",
+            "Nivel 34",
+            "Staraptor"
+        ]
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "dex number": "429",
+    "pokemon name": "Mismagius",
+    "types": [
+        "fantasma"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "60",
+        "atk": "60",
+        "def": "60",
+        "atk esp": "105",
+        "def esp": "105",
+        "speed": "105"
+    },
+    "location": {
+        "Diamante": [
+            "Intercambiar: de Pokémon Perla, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Perla": [
+            "Evolucionar: a Misdreavus (piedra noche)"
+        ],
+        "Platino": [
+            "Intercambiar: de Pokémon Perla, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Misdreavus (piedra noche)"
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Misdreavus (piedra noche)"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco": [
+            "Salvaje: Santuario Abundancia",
+            "Evolucionar: a Misdreavus (piedra noche)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Pokétrasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Pokétrasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Misdreavus (piedra noche)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Misdreavus (piedra noche)"
+        ],
+        "Sol": [
+            "Evolucionar: a Misdreavus (piedra noche)",
+            "Poké Resort: Cayo Recreo, tras superar la Liga Pokémon"
+        ],
+        "Luna": [
+            "Evolucionar: a Misdreavus (piedra noche)",
+            "Poké Resort: Cayo Recreo, tras superar la Liga Pokémon"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Misdreavus (piedra noche)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Misdreavus (piedra noche)"
+        ],
+        "Espada": [
+            "Mismagius no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Mismagius no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Intercambiar: de Pokémon Perla Reluciente."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Misdreavus (piedra noche)."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje, de noche: Cañón Lítico",
+            "Evolucionar: a Misdreavus (piedra noche).",
+            "Aparición supermasiva: Ladera Corona y Tundra Alba.",
+            "Pokémon alfa: Cañón Lítico (noche)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Sus gritos parecen cánticos. Los que los escuchan padecen migrañas y alucinaciones.",
+        "Perla": "Recita cánticos. Algunos de ellos atormentan a sus rivales, mientras que otros producen felicidad.",
+        "Platino": "Sus gritos parecen cánticos. Se dice que en alguna rara ocasión han imbuido felicidad a quien los oía.",
+        "Oro HeartGold": "Atormenta a sus rivales con gritos que parecen conjuros. Aparece en ocasiones y lugares imprevistos.",
+        "Plata SoulSilver": "Atormenta a sus rivales con gritos que parecen conjuros. Aparece en ocasiones y lugares imprevistos.",
+        "Negro": "Sus gritos parecen cánticos. Se dice que en alguna rara ocasión han imbuido felicidad a quien los oía.",
+        "Blanco": "Sus gritos parecen cánticos. Se dice que en alguna rara ocasión han imbuido felicidad a quien los oía.",
+        "Negro 2": "Sus gritos parecen cánticos. Se dice que en alguna rara ocasión han imbuido felicidad a quien los oía.",
+        "Blanco 2": "Sus gritos parecen cánticos. Se dice que en alguna rara ocasión han imbuido felicidad a quien los oía.",
+        "Pokémon X": "Recita cánticos. Algunos de ellos atormentan a sus rivales, mientras que otros producen felicidad.",
+        "Pokémon Y": "Atormenta a sus rivales con gritos que parecen conjuros. Aparece en ocasiones y lugares imprevistos.",
+        "Rubí Omega": "Recita cánticos. Algunos de ellos atormentan a sus rivales, mientras que otros producen felicidad.",
+        "Zafiro Alfa": "Atormenta a sus rivales con gritos que parecen conjuros. Aparece en ocasiones y lugares imprevistos.",
+        "Sol": "Aparece de la nada sin previo aviso y lanza conjuros por medio de cánticos. Quienes los escuchan pueden sufrir terroríficas visiones.",
+        "Luna": "Es capaz de lanzar hechizos y conjuros de amor, por lo que hay gente totalmente obsesionada con encontrar a un Mismagius.",
+        "Ultrasol": "Es temido por su afición a lanzar maldiciones y conjuros a diestro y siniestro, pero a veces le da por usar la magia para ayudar a alguien.",
+        "Ultraluna": "Murmura conjuros para atormentar al enemigo y provocarle dolores de cabeza insoportables o visiones terroríficas.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Sus gritos parecen cánticos. Quienes los escuchan padecen migrañas y alucinaciones.",
+        "Perla Reluciente": "Recita conjuros. Algunos de ellos atormentan a sus rivales, mientras que otros producen felicidad.",
+        "Leyendas: Arceus": "Existe la costumbre de invitarlo a entrar en los hogares debido a sus cánticos contra la mala fortuna. No obstante, si se comete el error de importunarlo, acaecerá una terrible desgracia."
+    },
+    "evolution": [
+        [
+            "Misdreavus",
+            "Piedra noche ",
+            "Mismagius"
+        ]
+    ]
+}

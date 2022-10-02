@@ -1,0 +1,130 @@
+{
+    "dex number": "441",
+    "pokemon name": "Chatot",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Tumbos"
+    ],
+    "hidden abilities": [
+        "Sacapecho"
+    ],
+    "stats": {
+        "hp": "76",
+        "atk": "65",
+        "def": "45",
+        "atk esp": "92",
+        "def esp": "42",
+        "speed": "91"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: Rutas 222 y 224 (mañana y día)",
+            "Intercambio del videojuego: intercambiar por un Buizel en Ciudad Vetusta"
+        ],
+        "Perla": [
+            "Salvaje: Rutas 222 y 224 (mañana y día)",
+            "Intercambio del videojuego: intercambiar por un Buizel en Ciudad Vetusta"
+        ],
+        "Platino": [
+            "Salvaje: Rutas 213, 218 y 222 (mañana y día)",
+            "Intercambio del videojuego: intercambiar por un Buizel en Ciudad Vetusta"
+        ],
+        "Oro HeartGold": [
+            "Sonidos de Sinnoh: Torre Bellsprout, Torre Campana y Torre Quemada"
+        ],
+        "Plata SoulSilver": [
+            "Sonidos de Sinnoh: Torre Bellsprout, Torre Campana y Torre Quemada"
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Alto Cielo"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro 2 o Pokémon Blanco 2",
+            "Dream World: Alto Cielo"
+        ],
+        "Negro 2": [
+            "Claro oculto: Ruta 18",
+            "Dream World: Alto Cielo"
+        ],
+        "Blanco 2": [
+            "Claro oculto: Ruta 18",
+            "Dream World: Alto Cielo"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 12 y Bahía Azul"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 12 y Bahía Azul"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 103, Ruta 104 y Ruta 110, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 103, Ruta 104 y Ruta 110, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Chatot no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Chatot no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje de mañana y día: Rutas 222 y 224.",
+            "Intercambio del videojuego: intercambiar por un Buizel en Ciudad Vetusta."
+        ],
+        "Perla Reluciente": [
+            "Salvaje de mañana y día: Rutas 222 y 224.",
+            "Intercambio del videojuego: intercambiar por un Buizel en Ciudad Vetusta."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje (Desde la mañana hasta en la tarde): Arboleda Tétrica",
+            "Aparición supermasiva: Pradera Obsidiana y Costa Cobalto"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Pueden aprender y hablar lenguas humanas. Si se juntan, todos aprenden las mismas palabras.",
+        "Perla": "Mantiene el compás agitando las plumas de su cola como un metrónomo. Imita el habla humana.",
+        "Platino": "Su lengua es como la de cualquier persona, así que puede imitar muy bien el habla humana.",
+        "Oro HeartGold": "Imita los sonidos de sus rivales, haciéndoles creer que son amigos e impidiendo que le ataquen.",
+        "Plata SoulSilver": "Imita los sonidos de sus rivales, haciéndoles creer que son amigos e impidiendo que le ataquen.",
+        "Negro": "Su lengua es como la de cualquier persona, así que puede imitar muy bien el habla humana.",
+        "Blanco": "Su lengua es como la de cualquier persona, así que puede imitar muy bien el habla humana.",
+        "Negro 2": "Su lengua es como la de cualquier persona, así que puede imitar muy bien el habla humana.",
+        "Blanco 2": "Su lengua es como la de cualquier persona, así que puede imitar muy bien el habla humana.",
+        "Pokémon X": "Imita los sonidos de sus rivales, haciéndoles creer que son amigos e impidiendo que le ataquen.",
+        "Pokémon Y": "Puede imitar el lenguaje humano. Si se juntan varios, todos aprenden las mismas palabras.",
+        "Rubí Omega": "Imita los sonidos de sus rivales, haciéndoles creer que son amigos e impidiendo que le ataquen.",
+        "Zafiro Alfa": "Puede imitar el lenguaje humano. Si se juntan varios, todos aprenden las mismas palabras.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Puede imitar el lenguaje humano. Si se juntan varios, todos aprenden las mismas palabras.",
+        "Perla Reluciente": "Mantiene el compás agitando la cola como un metrónomo. Imita el habla humana.",
+        "Leyendas: Arceus": "Un virtuoso Pokémon versado en el noble arte de replicar el habla humana. Los ejemplares de cierta edad cuentan con más experiencia y parecen entender el significado de las palabras."
+    },
+    "evolution": [
+        [
+            "Chatot"
+        ]
+    ]
+}

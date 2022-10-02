@@ -1,0 +1,127 @@
+{
+    "dex number": "474",
+    "pokemon name": "Porygon-Z",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Adaptable",
+        "Descarga"
+    ],
+    "hidden abilities": [
+        "Cálculo final"
+    ],
+    "stats": {
+        "hp": "85",
+        "atk": "80",
+        "def": "70",
+        "atk esp": "135",
+        "def esp": "75",
+        "speed": "90"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Perla": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Platino": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Oro HeartGold": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Plata SoulSilver": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco.",
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Blanco": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco.",
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco.",
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Sol": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Luna": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Espada": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Escudo": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Porygon2, intercambiándolo con disco extraño equipado."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Porygon2 (usando disco extraño)",
+            "Distorsión espaciotemporal: Pantanal Carmesí"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Se le instaló un software para mejorarlo. Sin embargo, comenzó a comportarse de manera extraña.",
+        "Perla": "Se le instaló un software para mejorarlo. Sin embargo, comenzó a comportarse de manera extraña.",
+        "Platino": "Se modificó su programación para que pudiera trabajar en dimensiones alienígenas. Pero no funcionó.",
+        "Oro HeartGold": "Aunque le instalaron un software para desplazarse por otras dimensiones, algo no funcionó bien.",
+        "Plata SoulSilver": "Aunque le instalaron un software para desplazarse por otras dimensiones, algo no funcionó bien.",
+        "Negro": "Se modificó su programación para que pudiera trabajar en dimensiones alienígenas. Pero no funcionó.",
+        "Blanco": "Se modificó su programación para que pudiera trabajar en dimensiones alienígenas. Pero no funcionó.",
+        "Negro 2": "Se modificó su programación para que pudiera trabajar en dimensiones alienígenas. Pero no funcionó.",
+        "Blanco 2": "Se modificó su programación para que pudiera trabajar en dimensiones alienígenas. Pero no funcionó.",
+        "Pokémon X": "Se le instaló un software para mejorarlo. Sin embargo, comenzó a comportarse de manera extraña.",
+        "Pokémon Y": "Aunque le instalaron un software para desplazarse por otras dimensiones, algo no funcionó bien.",
+        "Rubí Omega": "Se le instaló un software para mejorarlo. Sin embargo, comenzó a comportarse de manera extraña.",
+        "Zafiro Alfa": "Aunque le instalaron un software para desplazarse por otras dimensiones, algo no funcionó bien.",
+        "Sol": "Se le instaló un software para mejorarlo. Sin embargo, algo salió mal y a raíz de ello comenzó a comportarse de manera extraña.",
+        "Luna": "La actualización de software que recibió para viajar a otras dimensiones ha causado cambios extraños y llamativos en su comportamiento.",
+        "Ultrasol": "Llama la atención por su errática conducta, la cual se debe a la torpeza de quien realizara la actualización de su sistema operativo.",
+        "Ultraluna": "El software que se le instaló era defectuoso. Tal vez se trate de un experimento fallido, a tenor de su extraño comportamiento.",
+        "Espada": "Se le instaló un software que le permite entrar y salir de otras dimensiones, pero que provocó que su comportamiento se volviese inestable.",
+        "Escudo": "Se dice que evolucionó con la instalación de un nuevo software, pero la comunidad científica está dividida respecto a si es o no una evolución.",
+        "Diamante Brillante": "Se le instaló un software extra para mejorarlo, pero, por algún motivo, comenzó a comportarse de manera extraña.",
+        "Perla Reluciente": "Se le instaló un software extra para mejorarlo, pero, por algún motivo, comenzó a comportarse de manera extraña.",
+        "Leyendas: Arceus": "Un extraño objeto provocó esta nueva evolución. Su poder actual es claramente superior, mas el acrecentamiento de su conducta errática resulta verdaderamente preocupante."
+    },
+    "evolution": [
+        [
+            "Porygon",
+            "Intercambio equipado con / Exponer 2mejora ",
+            "Porygon2",
+            "Intercambio equipado con / Exponer 2Disco extraño ",
+            "Porygon-Z"
+        ]
+    ]
+}

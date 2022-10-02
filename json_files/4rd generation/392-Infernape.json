@@ -1,0 +1,126 @@
+{
+    "dex number": "392",
+    "pokemon name": "Infernape",
+    "types": [
+        "fuego",
+        "lucha"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Puño férreo"
+    ],
+    "stats": {
+        "hp": "76",
+        "atk": "104",
+        "def": "71",
+        "atk esp": "104",
+        "def esp": "71",
+        "speed": "108"
+    },
+    "location": {
+        "Diamante": [
+            "Evolucionar: a Monferno (nivel 36)"
+        ],
+        "Perla": [
+            "Evolucionar: a Monferno (nivel 36)"
+        ],
+        "Platino": [
+            "Evolucionar: a Monferno (nivel 36)"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Pokémon Platino"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador transferir de Pokémon Negro, Pokémon Blanco, Pokémon Blanco 2 o Pokémon Negro 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador transferir de Pokémon Negro, Pokémon Blanco, Pokémon Blanco 2 o Pokémon Negro 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Monferno (nivel 36)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Monferno (nivel 36)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Monferno (nivel 36)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Monferno (nivel 36)"
+        ],
+        "Espada": [
+            "No disponible"
+        ],
+        "Escudo": [
+            "No disponible"
+        ],
+        "Diamante Brillante": [
+            "Evolucionar: a Monferno (nivel 36)"
+        ],
+        "Perla Reluciente": [
+            "Evolucionar: a Monferno (nivel 36)"
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Monferno (nivel 36)",
+            "Salvaje: Isla Hansa (Pokémon alfa)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Utiliza un tipo especial de artes marciales con todos sus miembros. Su fuego nunca se extingue.",
+        "Perla": "Su corona de fuego demuestra su naturaleza ígnea. Pocos le ganan en velocidad.",
+        "Platino": "Utiliza movimientos en combate únicos con fuego en manos y pies. Se enfrenta a cualquier enemigo.",
+        "Oro HeartGold": "Maneja a sus rivales con tremenda agilidad. En su especial forma de luchar usa todos sus miembros.",
+        "Plata SoulSilver": "Maneja a sus rivales con tremenda agilidad. En su especial forma de luchar usa todos sus miembros.",
+        "Negro": "Utiliza movimientos en combate únicos con fuego en manos y pies. Se enfrenta a cualquier enemigo.",
+        "Blanco": "Utiliza movimientos en combate únicos con fuego en manos y pies. Se enfrenta a cualquier enemigo.",
+        "Negro 2": "Utiliza movimientos en combate únicos con fuego en manos y pies. Se enfrenta a cualquier enemigo.",
+        "Blanco 2": "Utiliza movimientos en combate únicos con fuego en manos y pies. Se enfrenta a cualquier enemigo.",
+        "Pokémon X": "Su corona de fuego demuestra su naturaleza ígnea. Nadie le gana en velocidad.",
+        "Pokémon Y": "Maneja a sus rivales con tremenda agilidad. En su especial forma de luchar usa todos sus miembros.",
+        "Rubí Omega": "Su corona de fuego demuestra su naturaleza ígnea. Nadie le gana en velocidad.",
+        "Zafiro Alfa": "Maneja a sus rivales con tremenda agilidad. En su especial forma de luchar usa todos sus miembros.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Practica un tipo especial de artes marciales que se caracteriza por el empleo de todos sus miembros. Su fuego nunca se extingue.",
+        "Perla Reluciente": "Su corona de fuego demuestra su naturaleza ardiente. Nadie le gana en velocidad.",
+        "Leyendas: Arceus": "Un Pokémon fornido a la par que elegante. Su llamativo estilo de combate, que se asemeja a una danza bajo un manto de fuego, es todo un regalo para la vista."
+    },
+    "evolution": [
+        [
+            "Chimchar",
+            "Nivel 14",
+            "Monferno",
+            "Nivel 36",
+            "Infernape"
+        ]
+    ]
+}

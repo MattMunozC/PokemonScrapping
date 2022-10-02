@@ -1,0 +1,134 @@
+{
+    "dex number": "412",
+    "pokemon name": "Burmy",
+    "types": [
+        "bicho"
+    ],
+    "abilities": [
+        "Mudar"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": "40",
+        "atk": "29",
+        "def": "45",
+        "atk esp": "29",
+        "def esp": "45",
+        "speed": "36"
+    },
+    "location": {
+        "Diamante": [
+            "Salvaje: en los árboles de miel"
+        ],
+        "Perla": [
+            "Salvaje: en los árboles de miel"
+        ],
+        "Platino": [
+            "Salvaje: en los árboles de miel"
+        ],
+        "Oro HeartGold": [
+            "Golpe cabeza: en ruta 38 en la zona en donde se puede usar treparrocas cerca de la granja (ver imagenÁrbol donde capturar a Burmy)"
+        ],
+        "Plata SoulSilver": [
+            "Golpe cabeza: en ruta 38 en la zona en donde se puede usar treparrocas cerca de la granja (ver imagenÁrbol donde capturar a Burmy)"
+        ],
+        "Negro": [
+            "Dream World: Monte Escarpado",
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Platino"
+        ],
+        "Blanco": [
+            "Dream World: Monte Escarpado",
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Platino"
+        ],
+        "Negro 2": [
+            "Dream World: Monte Escarpado",
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Platino"
+        ],
+        "Blanco 2": [
+            "Dream World: Monte Escarpado",
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla o Platino"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 3 y en el huerto de bayas, cuando se mueven los árboles"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 3 y en el huerto de bayas, cuando se mueven los árboles"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Burmy no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Burmy no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: en los árboles en los que se puede untar miel (a veces)."
+        ],
+        "Perla Reluciente": [
+            "Salvaje: en los árboles en los que se puede untar miel (a veces)."
+        ],
+        "Leyendas: Arceus": [
+            "Planta:",
+            "Árbol tembloroso: Cascada Obsidiana, Foresta Funesta, Senda del Venado, Loma del Venado, Alacena del Bosque, Foresta Funesta.",
+            "Arena:",
+            "Árbol tembloroso:Pradera Áurea, Ciénaga Bocazas, Rellano Nebuloso, Ruinas de la Niebla, Loma Sagrada, Senda Celestial, Ruinas Celestiales, Cañón Lítico.",
+            "Basura:",
+            "Árbol tembloroso:Playa Ginkgo, Paso Costanero, Cabo Rocavelo, Albuferas Chapuzón, Páramo Algente, Terraza Glaciar, Lago Agudeza y Desfiladero Alud."
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Para protegerse de los vientos fríos invernales, se cubre con un caparazón de ramas y hojas.",
+        "Perla": "Si su capullo es quebrado en batalla, rápidamente lo rehace con materiales cercanos.",
+        "Platino": "Aunque nazca en un lugar en el que no haya muchos materiales, siempre consigue crearse un caparazón.",
+        "Oro HeartGold": "En épocas frías recubre su cuerpo con una capa de ramas y hojas. Al llegar el calor la hace más fina.",
+        "Plata SoulSilver": "En épocas frías recubre su cuerpo con una capa de ramas y hojas. Al llegar el calor la hace más fina.",
+        "Negro": "Aunque nazca en un lugar en el que no haya muchos materiales, siempre consigue crearse un caparazón.",
+        "Blanco": "Aunque nazca en un lugar en el que no haya muchos materiales, siempre consigue crearse un caparazón.",
+        "Negro 2": "Aunque nazca en un lugar en el que no haya muchos materiales, siempre consigue crearse un caparazón.",
+        "Blanco 2": "Aunque nazca en un lugar en el que no haya muchos materiales, siempre consigue crearse un caparazón.",
+        "Pokémon X": "Para protegerse de los vientos fríos invernales, se cubre con un caparazón de ramas y hojas.",
+        "Pokémon Y": "Si su caparazón se rompe en combate, lo rehace rápidamente con lo que tenga a mano.",
+        "Rubí Omega": "Para protegerse de los vientos fríos invernales, se cubre con un caparazón de ramas y hojas.",
+        "Zafiro Alfa": "Si su caparazón se rompe en combate, lo rehace rápidamente con lo que tenga a mano.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Para protegerse de los vientos fríos invernales, se cubre con un saco de ramitas y hojas.",
+        "Perla Reluciente": "Si se le rompe el saco en combate, lo rehace rápidamente con lo que tenga a mano.",
+        "Leyendas: Arceus": "\nTronco Planta: Su cuerpo flacucho no soporta el frío. Si su manto se daña, aun si es levemente, lo repara sin demora con lo que tenga a mano.\nTronco Arena: Es capaz de crear un abrigo con el limo y la hebra que regurgita. Como este no es idóneo para resguardarse del viento y la lluvia, se refugia en lugares como cuevas.\nTronco Basura: Si no encuentra materiales adecuados, rebusca en la basura y crea un manto con desechos. Parece que este es mucho más cómodo de lo que se pudiera creer."
+    },
+    "evolution": [
+        [
+            "Burmy",
+            "Nivel 20 + ♀",
+            "Wormadam"
+        ],
+        [
+            "",
+            "Nivel 20 + ♂",
+            "Mothim"
+        ]
+    ]
+}

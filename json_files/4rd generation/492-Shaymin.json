@@ -1,0 +1,130 @@
+{
+    "dex number": "492",
+    "pokemon name": "Shaymin",
+    "types": [
+        "planta",
+        "planta",
+        "volador"
+    ],
+    "abilities": [
+        "Cura natural",
+        "Dicha"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": "100",
+        "atk": "100",
+        "def": "100",
+        "atk esp": "100",
+        "def esp": "100",
+        "speed": "100"
+    },
+    "location": {
+        "Diamante": [
+            "Evento: Evento de Shaymin en tiendas Game, del 15 de abril del 2009 al 15 de mayo del 2009",
+            "Especial: Transferir de Pokémon Ranger: Trazos de luz tras completar la misión Rescata al Shaymin perdido"
+        ],
+        "Perla": [
+            "Evento: Evento de Shaymin en tiendas Game, del 15 de abril del 2009 al 15 de mayo del 2009",
+            "Especial: Transferir de Pokémon Ranger: Trazos de luz tras completar la misión Rescata al Shaymin perdido"
+        ],
+        "Platino": [
+            "Salvaje: Paraíso Floral, requiere la carta de Oak",
+            "Especial: Transferir de Pokémon Ranger: Trazos de luz tras completar la misión Rescata al Shaymin perdido"
+        ],
+        "Oro HeartGold": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Especial: Transferir de Pokémon Ranger: Trazos de luz tras completar la misión Rescata al Shaymin perdido"
+        ],
+        "Plata SoulSilver": [
+            "Intercambiar: de Pokémon Diamante, Pokémon Perla o Pokémon Platino",
+            "Especial: Transferir de Pokémon Ranger: Trazos de luz tras completar la misión Rescata al Shaymin perdido"
+        ],
+        "Negro": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Evento: realizado en los Centros Pokémon de Japón del 19 de diciembre de 2011 al 5 de enero de 2012"
+        ],
+        "Blanco": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver",
+            "Evento: realizado en los Centros Pokémon de Japón del 19 de diciembre de 2011 al 5 de enero de 2012"
+        ],
+        "Negro 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Blanco 2": [
+            "Pokétransfer: Transferir de Pokémon Diamante, Pokémon Perla, Pokémon Platino, Pokémon Oro HeartGold o Pokémon Plata SoulSilver"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2",
+            "Evento: Repartido por el 20 aniversario de Pokémon"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2",
+            "Evento: Repartido por el 20 aniversario de Pokémon"
+        ],
+        "Rubí Omega": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2",
+            "Evento: Repartido por el 20 aniversario de Pokémon"
+        ],
+        "Zafiro Alfa": [
+            "Poké Trasladador: Transferir de Pokémon Negro, Blanco, Negro 2 o Blanco 2",
+            "Evento: Repartido por el 20 aniversario de Pokémon"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir de videojuegos anteriores"
+        ],
+        "Espada": [
+            "Shaymin no se puede conseguir en este videojuego."
+        ],
+        "Escudo": [
+            "Shaymin no se puede conseguir en este videojuego."
+        ],
+        "Diamante Brillante": [
+            "Salvaje: Paraíso Floral, requiere la carta de Oak disponible por regalo misterioso"
+        ],
+        "Perla Reluciente": [
+            "Salvaje: Paraíso Floral, requiere la carta de Oak disponible por regalo misterioso"
+        ],
+        "Leyendas: Arceus": [
+            "Especial: En Campo Aromaflor (al tener guardado de Pokémon Espada o Pokémon Escudo e iniciar la Petición 92)"
+        ]
+    },
+    "pokedex": {
+        "Diamante": "Vive entre las flores. Para evitar ser descubierto, se enrosca como si fuera una planta.",
+        "Perla": "Puede disolver las toxinas del aire para transformar tierra yerma en campos de flores.",
+        "Platino": "Todas las flores de su cuerpo florecen si se le abraza con amor y percibe gratitud.",
+        "Oro HeartGold": "Se dice que, cuando florecen las Gracídeas, Shaymin alza el vuelo para mostrar su gratitud.",
+        "Plata SoulSilver": "Se dice que, cuando florecen las Gracídeas, Shaymin alza el vuelo para mostrar su gratitud.",
+        "Negro": "Todas las flores de su cuerpo florecen si se le abraza con amor y percibe gratitud.",
+        "Blanco": "Todas las flores de su cuerpo florecen si se le abraza con amor y percibe gratitud.",
+        "Negro 2": "Todas las flores de su cuerpo florecen si se le abraza con amor y percibe gratitud.",
+        "Blanco 2": "Todas las flores de su cuerpo florecen si se le abraza con amor y percibe gratitud.",
+        "Pokémon X": "Puede disolver las toxinas del aire para transformar tierra yerma en campos de flores.",
+        "Pokémon Y": "Se dice que, cuando florecen las Gracídeas, Shaymin alza el vuelo para mostrar su gratitud.",
+        "Rubí Omega": "Puede disolver las toxinas del aire para transformar tierra yerma en campos de flores.",
+        "Zafiro Alfa": "Vive entre las flores. Para evitar ser descubierto, se enrosca como si fuera una planta.",
+        "Sol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de este Pokémon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon no se puede conseguir en Pokémon Espada.",
+        "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
+        "Diamante Brillante": "Vive entre las flores. Para evitar ser descubierto, se enrolla para parecer una planta florida.",
+        "Perla Reluciente": "Puede disolver las toxinas del aire para transformar al instante tierra yerma en campos de flores.",
+        "Leyendas: Arceus": "\nForma Tierra: Cuando la gente da gracias al cielo por el fin del largo y crudo invierno, Shaymin aparece y cubre con flores todos los campos marchitos.\nForma Cielo: Al olisquear el aroma de una flor extraña, la luz rodea su pequeño cuerpo y se transforma. He olfateado esta flor, pero no ha surtido efecto en mí."
+    },
+    "evolution": [
+        [
+            "Shaymin"
+        ]
+    ]
+}
