@@ -12,22 +12,14 @@
         "Impasible"
     ],
     "stats": {
-        "hp": "80",
-        "atk": "100",
-        "def": "70",
-        "atk esp": "50",
-        "def esp": "60",
-        "speed": "45"
+        "hp": 80,
+        "atk": 100,
+        "def": 70,
+        "atk esp": 50,
+        "def esp": 60,
+        "speed": 45
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Calle Victoria (planta baja, piso 1 y 2).",
-            "Evolucionar: a Machop (nivel 28)."
-        ],
-        "Azul": [
-            "Salvaje: Calle Victoria (planta baja, piso 1 y 2).",
-            "Evolucionar: a Machop (nivel 28)."
-        ],
         "Amarillo": [
             "Salvaje: Calle Victoria (piso 1 y 2).",
             "Intercambiar: por un Cubone en casa de entrada al Camino Subterráneo de la Ruta 5.",
@@ -132,14 +124,6 @@
         "Ultraluna": [
             "Salvaje: Cañón de Poni"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Calle Victoria.",
-            "Evolucionar: a Machop (nivel 28)."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Calle Victoria.",
-            "Evolucionar: a Machop (nivel 28)."
-        ],
         "Espada": [
             "Salvaje: Lago Milotic (sur).",
             "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew.",
@@ -200,12 +184,7 @@
         "Escudo": "Tiene una complexión tan fuerte que nunca se cansa. Suele ayudar a la gente a cargar objetos pesados.",
         "Diamante Brillante": "Posee una extraordinaria fuerza que puede resultar muy peligrosa, por lo que lleva un cinturón que la limita.",
         "Perla Reluciente": "Puede levantar un camión con una sola mano. Utiliza su fuerza para ayudar a la gente en trabajos que la requieren.",
-        "Leyendas: Arceus": "Esta robusta criatura cuenta con una fuerza y resistencia asombrosas. Adora tanto entrenarse que se presta a ayudar con labores como la labranza y la construcción.",
-        "Stadium": "A pesar de su increíble fuerza, es muy modesto. Retiene su fuerza con un cinturón de seguridad de energía.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Los entrenados músculos de Machoke son tan fuertes como el acero. Este Pokémon es tan fuerte que puede levantar con un solo dedo a un luchador de sumo.",
-        "Ranger": "Machoke se enorgullece de sus músculos y rompe grandes rocas sin pestañear.",
-        "RubíZafiro": "Los entrenados músculos de Machoke son tan fuertes como el acero. Este Pokémon es tan fuerte que puede levantar con un solo dedo a un luchador de sumo."
+        "Leyendas: Arceus": "Esta robusta criatura cuenta con una fuerza y resistencia asombrosas. Adora tanto entrenarse que se presta a ayudar con labores como la labranza y la construcción."
     },
     "evolution": [
         [

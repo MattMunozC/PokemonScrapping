@@ -12,20 +12,14 @@
         "Cosecha"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "40",
-        "def": "80",
-        "atk esp": "60",
-        "def esp": "45",
-        "speed": "40"
+        "hp": 60,
+        "atk": 40,
+        "def": 80,
+        "atk esp": 60,
+        "def esp": 45,
+        "speed": 40
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Zona Safari"
-        ],
-        "Azul": [
-            "Salvaje: Zona Safari"
-        ],
         "Amarillo": [
             "Salvaje: Zona Safari"
         ],
@@ -115,12 +109,6 @@
         "Ultraluna": [
             "Salvaje: Isla Exeggutor"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 23"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 23"
-        ],
         "Espada": [
             "Salvaje: Mar Gimnástico , Mar Islejos  y Mar Andana ",
             "Incursiones Dinamax: Nidos en Humedal Frescor , Bosque Concentración , Playa Desafío , Llano Entrenamiento  y Mar Andana "
@@ -172,10 +160,7 @@
         "Escudo": "Necesita contar con la totalidad de sus seis miembros para mantener la calma. Si desaparece uno siquiera, le entran ganas de salir huyendo.",
         "Diamante Brillante": "Sus seis miembros se comunican telepáticamente, lo que les permite reagruparse con rapidez en caso de separarse.",
         "Perla Reluciente": "Sus seis miembros se comunican telepáticamente, lo que les permite reagruparse con rapidez en caso de separarse.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Un Pokémon que es como las semillas de una planta. Si encuentras uno y lo cazas, otros se unirán sin que te des cuenta.",
-        "Stadium 2": "Pokémon Oro insertado: Usan poderes telepáticos entre ellos para reunirse entre grupos de seis Exeggcute.\nPokémon Plata insertado: Su cáscara es muy resistente. Si llega a romperse, podría sobrevivir si evita derramar su contenido.\n",
-        "Pokémon GO": "Este Pokémon está compuesto de seis huevos que forman una tupida piña que va girando. Cuando se empiezan a resquebrajar las cáscaras, no hay duda de que Exeggcute está a punto de evolucionar."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

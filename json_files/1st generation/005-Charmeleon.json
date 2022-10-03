@@ -11,20 +11,14 @@
         "Poder solar"
     ],
     "stats": {
-        "hp": "58",
-        "atk": "64",
-        "def": "58",
-        "atk esp": "80",
-        "def esp": "65",
-        "speed": "80"
+        "hp": 58,
+        "atk": 64,
+        "def": 58,
+        "atk esp": 80,
+        "def esp": 65,
+        "speed": 80
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Charmander (nivel 16)"
-        ],
-        "Azul": [
-            "Evolucionar: a Charmander (nivel 16)"
-        ],
         "Amarillo": [
             "Evolucionar: a Charmander (nivel 16)"
         ],
@@ -116,13 +110,6 @@
         "Ultraluna": [
             "Evolucionar: a Charmander (nivel 16)"
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Charmander (nivel 16)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Charmander (nivel 16)"
-        ],
         "Espada": [
             "Incursiones Dinamax: Cornisa de Artejo, nido al sur y Lago del Enfado, nido al oeste.",
             "Aventura Dinamax ",
@@ -176,12 +163,7 @@
         "Escudo": "Si se exalta en combate, expulsa intensas llamaradas que incineran todo a su alrededor.",
         "Diamante Brillante": "En las montañas rocosas donde viven los Charmeleon, sus colas ardientes brillan como estrellas en la noche.",
         "Perla Reluciente": "En las montañas rocosas donde viven los Charmeleon, sus colas ardientes brillan como estrellas en la noche.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Parece ser muy malvado. Ataca con sus afiladas garras y no se detiene hasta que ha derrotado al enemigo.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Charmeleon no tiene reparo en acabar con su rival usando las afiladas garras que tiene. Si su enemigo es fuerte, se vuelve agresivo, y la llama que tiene en el extremo de la cola empieza a arder con mayor intensidad tornándose azulada.",
-        "Ranger": "Charmeleon escupe grandes bolas de fuego capaces de derretir chatarra.",
-        "Sombras de Almia": "Ataca escupiendo brasa y bolas de fuego."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

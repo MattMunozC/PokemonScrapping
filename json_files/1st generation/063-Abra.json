@@ -12,22 +12,14 @@
         "Muro mágico"
     ],
     "stats": {
-        "hp": "25",
-        "atk": "20",
-        "def": "15",
-        "atk esp": "105",
-        "def esp": "55",
-        "speed": "90"
+        "hp": 25,
+        "atk": 20,
+        "def": 15,
+        "atk esp": 105,
+        "def esp": 55,
+        "speed": 90
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Ruta 24 y Ruta 25.",
-            "Especial: Casino de Ciudad Azulona por 180 fichas."
-        ],
-        "Azul": [
-            "Salvaje: Ruta 24 y Ruta 25.",
-            "Especial: Casino de Ciudad Azulona por 120 fichas."
-        ],
         "Amarillo": [
             "Salvaje: Rutas 5, 6, 7 y 8.",
             "Especial: Casino de Ciudad Azulona por 230 fichas."
@@ -128,12 +120,6 @@
         "Ultraluna": [
             "Salvaje: Ciudad Hauoli, Ruta 2."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 5, Ruta 6, Ruta 7 y Ruta 8"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 5, Ruta 6, Ruta 7 y Ruta 8"
-        ],
         "Espada": [
             "Salvaje: Prado Reverencia"
         ],
@@ -185,12 +171,7 @@
         "Escudo": "Puede teletransportarse mientras duerme. Se dice que, cuanto más profundo sea su sueño, mayor será la distancia a la que se desplace.",
         "Diamante Brillante": "Duerme 18 horas al día. Cuando está despierto, no se levanta ni para teletransportarse.",
         "Perla Reluciente": "Su radar telepático está activo incluso cuando duerme. Si se ve amenazado, se teletransporta.",
-        "Leyendas: Arceus": "Duerme 18 horas al día. Incluso en pleno sueño, usa sus poderes psíquicos para huir mediante teletransportación si advierte algún peligro.",
-        "Stadium": "Puede sentir que los enemigos se acercan incluso cuando duerme. Se TELETRANSPORTA a otro lugar si hay algún peligro.",
-        "Stadium 2": "Pokémon Oro insertado: Si decide teletransportarse al azar, dará la impresión de haber creado copias de sí mismo.\nPokémon Plata insertado: Siente los ataques inminentes y se teletransporta a un lugar seguro, antes de que éstos puedan darle.\n",
-        "Pokémon GO": "Abra duerme 18 horas al día, pero puede detectar a cualquier enemigo que se le acerque mientras duerme. En una situación así, usa Teletransporte para protegerse.",
-        "Ranger": "Por teletransporte, Abra puede moverse mientras levita.",
-        "RubíZafiro": "Abra necesita dormir 18 horas al día. Si no, pierde la habilidad que tiene de usar poderes de telequinesia. Si le atacan, Abra puede escapar usando Teletransporte mientras duerme."
+        "Leyendas: Arceus": "Duerme 18 horas al día. Incluso en pleno sueño, usa sus poderes psíquicos para huir mediante teletransportación si advierte algún peligro."
     },
     "evolution": [
         [

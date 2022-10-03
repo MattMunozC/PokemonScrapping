@@ -13,20 +13,14 @@
         "Compiescolta"
     ],
     "stats": {
-        "hp": "115",
-        "atk": "45",
-        "def": "20",
-        "atk esp": "45",
-        "def esp": "25",
-        "speed": "20"
+        "hp": 115,
+        "atk": 45,
+        "def": 20,
+        "atk esp": 45,
+        "def esp": 25,
+        "speed": 20
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Ruta 3"
-        ],
-        "Azul": [
-            "Salvaje: Ruta 3"
-        ],
         "Amarillo": [
             "Salvaje: Ruta 5, Ruta 6, Ruta 7 y Ruta 8"
         ],
@@ -122,12 +116,6 @@
             " Salvaje: Rutas 4 y 6 (como refuerzo de Igglybuff)",
             "Evolucionar: a Igglybuff (amistad + nivel)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 5, Ruta 6, Ruta 7 y Ruta 8"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 5, Ruta 6, Ruta 7 y Ruta 8"
-        ],
         "Espada": [
             "Salvaje: Prado Reverencia y Playa Desafío",
             "Aventura Dinamax "
@@ -181,12 +169,7 @@
         "Escudo": "Posee la capacidad de modular su voz a voluntad cambiando la longitud de onda para entonar una melodía misteriosa que provoca adormecimiento.",
         "Diamante Brillante": "Cuando le tiemblan sus enormes y redondas pupilas, comienza a cantar una nana que duerme a quien la oiga.",
         "Perla Reluciente": "Cuando le tiemblan sus enormes y redondas pupilas, comienza a cantar una nana que duerme a quien la oiga.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Hipnotiza con sus ojos enormes y redondos y canta una melodía sedante. El Pokémon que la oiga caerá dormido.",
-        "Stadium 2": "Pokémon Oro insertado: Si le miras a sus bonitos y redondos ojos, cantará una relajante melodía con la que duerme al enemigo.\nPokémon Plata insertado: Si se hincha para cantar una nana, cantará más tiempo, y puede causar sopor en el público.\n",
-        "Pokémon GO": "Jigglypuff tiene unas cuerdas vocales que ajustan sin problema la longitud de onda de su voz. Este Pokémon usa la habilidad que tiene para cantar con la longitud de onda necesaria para adormecer a su rival.",
-        "Ranger": "Jigglypuff da saltos como si bailase. A veces se pasea por las ciudades.",
-        "RubíZafiro": "Cuando este Pokémon canta, no para nunca para respirar. Si en combate el enemigo no se queda dormido con facilidad, Jigglypuff no podrá respirar y su vida correrá peligro."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

@@ -12,22 +12,14 @@
         "Clorofila"
     ],
     "stats": {
-        "hp": "45",
-        "atk": "49",
-        "def": "49",
-        "atk esp": "65",
-        "def esp": "65",
-        "speed": "45"
+        "hp": 45,
+        "atk": 49,
+        "def": 49,
+        "atk esp": 65,
+        "def esp": 65,
+        "speed": 45
     },
     "location": {
-        "Rojo": [
-            "Especial: Es uno de los posibles Pokémon iniciales que entrega el profesor Oak en su laboratorio de Pueblo Paleta (solo uno)",
-            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al alto mando."
-        ],
-        "Azul": [
-            "Especial: Es uno de los posibles Pokémon iniciales que entrega el profesor Oak en su laboratorio de Pueblo Paleta (solo uno)",
-            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al alto mando."
-        ],
         "Amarillo": [
             "Especial: Lo entrega una chica en Ciudad Celeste en la casa de la izquierda del centro Pokémon solo si Pikachu está al nivel 16 o más y tiene un alto grado de amistad (solo uno)",
             "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al alto mando."
@@ -116,16 +108,6 @@
         "Ultraluna": [
             "Escáner insular: Ruta 2 (viernes)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Bosque Verde; solo con uso de colonia y/o alta racha de capturas",
-            "Especial: Lo entrega una chica en Ciudad Celeste si se han capturado 30 o más Pokémon",
-            "GO Park Transferir desde Pokémon GO."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Bosque Verde; solo con uso de colonia y/o alta racha de capturas",
-            "Especial: Lo entrega una chica en Ciudad Celeste si se han capturado 30 o más Pokémon",
-            "GO Park Transferir desde Pokémon GO."
-        ],
         "Espada": [
             "Transferir: Transferir desde Pokémon HOME.",
             "Especial: es uno de los dos Pokémon que te da a elegir Tania en el Dojo Maestro ."
@@ -177,13 +159,7 @@
         "Escudo": "Desde que nace, crece alimentándose de los nutrientes que contiene la semilla de su lomo.",
         "Diamante Brillante": "Durante un tiempo tras nacer, se alimenta de la semilla que tiene en el lomo para crecer.",
         "Perla Reluciente": "Durante un tiempo tras nacer, se alimenta de la semilla que tiene en el lomo para crecer.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "La bolsa con forma de bulbo de su espalda se agranda con los años. La bolsa está llena de semillas.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "A Bulbasaur es fácil verle echándose una siesta al sol. La semilla que tiene en el lomo va creciendo cada vez más a medida que absorbe los rayos del sol.",
-        "Ranger": "Bulbasaur extiende sus lianas para evitar que le capturen.",
-        "Trazos de luz": "Dispara semillas contra el oponente.",
-        "New Pokémon Snap": "Durante un tiempo después de nacer, vive de la luz que toma del sol y de los nutrientes que guarda en su bulbo, y depende de otros Pokémon para sobrevivir hasta que es lo suficientemente maduro."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

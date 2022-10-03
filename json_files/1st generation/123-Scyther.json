@@ -13,21 +13,14 @@
         "Impasible"
     ],
     "stats": {
-        "hp": "70",
-        "atk": "110",
-        "def": "80",
-        "atk esp": "55",
-        "def esp": "80",
-        "speed": "105"
+        "hp": 70,
+        "atk": 110,
+        "def": 80,
+        "atk esp": 55,
+        "def esp": 80,
+        "speed": 105
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Zona Safari (Zona Central y Zona 1).",
-            "Especial: Casino de Ciudad Azulona (5500 fichas)."
-        ],
-        "Azul": [
-            "Intercambiar: de Pokémon Rojo o Amarillo."
-        ],
         "Amarillo": [
             "Salvaje: Zona Safari (Zona 1 y Zona 2).",
             "Premio del Casino de Ciudad Azulona (6500 fichas)."
@@ -119,13 +112,6 @@
         "Ultraluna": [
             "Salvaje, en arbusto que se mueve: Llanura de Poni"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 14 y Ruta 15."
-        ],
-        "Let's Go Eevee!": [
-            "Intercambiar: de Pokémon: Let's Go, Pikachu!.",
-            "Especial: Transferir desde Pokémon GO."
-        ],
         "Espada": [
             "Salvaje: Llano Entrenamiento"
         ],
@@ -177,12 +163,7 @@
         "Escudo": "El territorio de un Scyther se identifica fácilmente por el gran número de árboles talados de forma indiscriminada en una misma zona del bosque.",
         "Diamante Brillante": "Es casi imposible evitar el ataque de sus guadañas, ya que se mueve como un ninja.",
         "Perla Reluciente": "Es casi imposible evitar el ataque de sus guadañas, ya que se mueve como un ninja.",
-        "Leyendas: Arceus": "Las guadañas que tiene por brazos, enormes y muy afiladas, son un arma temible. No hay presa que escape a sus ágiles movimientos.",
-        "Stadium": "Se mueve muy rápido y hace trizas a su enemigo con sus afiladas guadañas. Raras veces vuela con sus alas.",
-        "Stadium 2": "Pokémon Oro insertado: Al moverse deja solo una estela. Si se esconde en la hierba, sus colores le hacen invisible.\nPokémon Plata insertado: Avanza por la hierba con sus afiladas guadañas, más rápido de lo que el ojo humano pueda percibir.\n",
-        "Pokémon GO": "Es espectacular ver lo rápido que es Scyther. Su increíble velocidad refuerza el efecto de su par de guadañas que tiene en los brazos, que ya son de por sí contundentes; rebanan gruesos troncos de un tajo.",
-        "Ranger": "Scyther ataca con sus guadañas mientras da saltos. Rompe incluso jaulas grandes.",
-        "Sombras de Almia": "Ataca con sus guadañas mientras da saltos."
+        "Leyendas: Arceus": "Las guadañas que tiene por brazos, enormes y muy afiladas, son un arma temible. No hay presa que escape a sus ágiles movimientos."
     },
     "evolution": [
         [

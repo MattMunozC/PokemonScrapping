@@ -11,20 +11,14 @@
         "Ímpetu arena"
     ],
     "stats": {
-        "hp": "50",
-        "atk": "75",
-        "def": "85",
-        "atk esp": "20",
-        "def esp": "30",
-        "speed": "40"
+        "hp": 50,
+        "atk": 75,
+        "def": 85,
+        "atk esp": 20,
+        "def esp": 30,
+        "speed": 40
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: de Pokémon Azul, Pokémon Amarillo, Pokémon Oro, Plata y Cristal"
-        ],
-        "Azul": [
-            "Salvaje: Rutas 4, 8, 9, 10, 11 y 23"
-        ],
         "Amarillo": [
             "Salvaje: Ruta 4 y Monte Moon"
         ],
@@ -113,13 +107,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 3 y Ruta 4"
-        ],
-        "Let's Go Eevee!": [
-            "Intercambiar: de Pokémon: Let's Go, Pikachu!",
-            "GO Park: Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Salvaje: Gruta Calentamiento "
         ],
@@ -169,12 +156,7 @@
         "Escudo": "Excava madrigueras profundas en las que vive. Parte con sus afiladas garras cualquier roca, por dura que sea, que le entorpezca el camino.",
         "Diamante Brillante": "Vive en zonas áridas donde casi no llueve. Se enrosca formando una bola para defenderse.",
         "Perla Reluciente": "Vive en zonas áridas donde casi no llueve. Se enrosca formando una bola para defenderse.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Cuando caza, se esconde en el borde de su madriguera. Si la presa se acerca, salta y la atrapa instantáneamente.",
-        "Stadium 2": "Pokémon Oro insertado: Como odia el agua, vive en madrigueras muy profundas en zonas áridas. Puede hacerse una bola al instante.\nPokémon Plata insertado: Si cae de gran altura, este Pokémon podría convertirse en una pelota y rebotar contra el suelo.\n",
-        "Pokémon GO": "Sandshrew es capaz de absorber agua y no perder ni una gota, algo que le permite sobrevivir en el desierto. Este Pokémon se enrosca para defenderse de los enemigos.",
-        "RubíZafiro": "Sandshrew tiene una piel muy seca y extremadamente dura. Tiene la habilidad de hacerse una bola y evitar cualquier ataque. Por las noches, escarba en la arena del desierto y se echa a dormir.",
-        "New Pokémon Snap": "La piel que recubre su espalda es muy dura y le sirve para proteger todo el cuerpo cuando se enrosca sobre sí mismo. De este modo también puede atravesar el desierto rodando a toda velocidad."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

@@ -13,20 +13,14 @@
         "Potencia bruta"
     ],
     "stats": {
-        "hp": "81",
-        "atk": "102",
-        "def": "77",
-        "atk esp": "85",
-        "def esp": "75",
-        "speed": "85"
+        "hp": 81,
+        "atk": 102,
+        "def": 77,
+        "atk esp": 85,
+        "def esp": 75,
+        "speed": 85
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: de Nidorino (utilizando piedra lunar)."
-        ],
-        "Azul": [
-            "Evolucionar: de Nidorino (utilizando piedra lunar)."
-        ],
         "Amarillo": [
             "Evolucionar: de Nidorino (utilizando piedra lunar)."
         ],
@@ -115,14 +109,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 23",
-            "Evolucionar: a Nidorino (utilizando Piedra lunar)."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 23",
-            "Evolucionar: a Nidorino (utilizando Piedra lunar)."
-        ],
         "Espada": [
             "Salvaje: Lecho del Gigante ",
             "Aventura Dinamax ",
@@ -176,10 +162,7 @@
         "Escudo": "Presume de su hercúlea fuerza y combate vigorosamente con su robusta cola y su cuerno, con el que hasta puede pulverizar diamantes.",
         "Diamante Brillante": "Con un golpe de su poderosa cola puede partir un poste de teléfono como si fuese una cerilla.",
         "Perla Reluciente": "Con un golpe de su poderosa cola puede partir un poste de teléfono como si fuese una cerilla.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Posee una roca escondida que usa como munición. El largo cuerno de su cabeza es afilado y muy venenoso.",
-        "Stadium 2": "Pokémon Oro insertado: Su cola es gruesa y potente. Si atrapa al enemigo con ella, podría romperle la columna.\nPokémon Plata insertado: Mueve su cola en combate. Si su enemigo queda atontado, le embiste con su robusto cuerpo.\n",
-        "Pokémon GO": "La gruesa cola de Nidoking encierra una fuerza realmente destructora. Con una vez que la agite, es capaz de tumbar una torre metálica de transmisión. Una vez que este Pokémon se desboca, no hay quien lo pare."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

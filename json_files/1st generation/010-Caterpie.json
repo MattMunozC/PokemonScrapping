@@ -11,20 +11,14 @@
         "Fuga"
     ],
     "stats": {
-        "hp": "45",
-        "atk": "30",
-        "def": "35",
-        "atk esp": "20",
-        "def esp": "20",
-        "speed": "45"
+        "hp": 45,
+        "atk": 30,
+        "def": 35,
+        "atk esp": 20,
+        "def esp": 20,
+        "speed": 45
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Bosque Verde y Ruta 25"
-        ],
-        "Azul": [
-            "Salvaje: Bosque Verde y Rutas 2, 24 y 25."
-        ],
         "Amarillo": [
             "Salvaje: Bosque Verde."
         ],
@@ -119,14 +113,6 @@
         "Ultraluna": [
             "Salvaje: Ruta 1, Ruta 5, Jardines de Melemele y Jungla Umbría (como refuerzo de Metapod)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Bosque Verde y Ruta 2",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Bosque Verde y Ruta 2",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             " Salvaje: Ruta 1.",
             "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares."
@@ -178,11 +164,7 @@
         "Escudo": "Sus cortas patas están recubiertas de ventosas que le permiten subir incansable por muros y cuestas.",
         "Diamante Brillante": "Su antena roja desprende un gran hedor para repeler a los enemigos. Muda repetidamente al crecer.",
         "Perla Reluciente": "Su antena roja desprende un gran hedor para repeler a los enemigos. Muda repetidamente al crecer.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Tiene grandes dibujos con forma de ojo en su cabeza como protección. Los utiliza para asustar a sus enemigos.",
-        "Stadium 2": "Pokémon Oro insertado: Sus patas tienen ventosas con las que se adhieren a cualquier sitio. Escala árboles en busca de forraje.\nPokémon Plata insertado: Para protegerse despide un hedor horrible de sus antenas, con el que repele a sus enemigos.\n",
-        "Pokémon GO": "Caterpie tiene un apetito voraz. Es capaz de devorar hojas que superen su tamaño en un abrir y cerrar de ojos. Atención a la antena que tiene: libera un hedor realmente fuerte.",
-        "New Pokémon Snap": "Estos glotones se ocultan entre la hierba para ponerse las botas a base de hojas. Cuando se sienten amenazados, liberan un hedor repulsivo por la antena."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

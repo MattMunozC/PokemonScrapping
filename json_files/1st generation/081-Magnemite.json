@@ -13,20 +13,14 @@
         "Cálculo final"
     ],
     "stats": {
-        "hp": "25",
-        "atk": "35",
-        "def": "70",
-        "atk esp": "95",
-        "def esp": "55",
-        "speed": "45"
+        "hp": 25,
+        "atk": 35,
+        "def": 70,
+        "atk esp": 95,
+        "def esp": 55,
+        "speed": 45
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Central de Energía"
-        ],
-        "Azul": [
-            "Salvaje: Central de Energía"
-        ],
         "Amarillo": [
             "Salvaje: Ruta 10 y Central de Energía"
         ],
@@ -118,12 +112,6 @@
         "Ultraluna": [
             "Salvaje: Ciudad Hauoli, Escuela de entrenadores y Cabo de las Afueras"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Central de Energía"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Central de Energía"
-        ],
         "Espada": [
             "Salvaje: Playa Desafío ",
             "Incursiones Dinamax: nidos en Prado Reverencia , Bosque Concentración , Playa Desafío, Cueva Contienda , Cueva Tenacidad , Mar Andana  y Mar Meloso "
@@ -177,13 +165,7 @@
         "Escudo": "Se nutre de electricidad. Puede flotar en el aire gracias a las ondas electromagnéticas que emite a través de las unidades de sus extremidades.",
         "Diamante Brillante": "Las unidades laterales crean ondas electromagnéticas que le permiten flotar. Se alimenta de electricidad.",
         "Perla Reluciente": "Las unidades laterales crean ondas electromagnéticas que le permiten flotar. Se alimenta de electricidad.",
-        "Leyendas: Arceus": "Su aspecto de bola metálica con un ojo resulta verdaderamente extraño. Suponemos que flota gracias al magnetismo de los imanes con forma de herradura a ambos lados de su cuerpo.",
-        "Stadium": "Aparece salido de ninguna parte. Flota utilizando anti-gravedad y descarga electricidad con sus dos unidades laterales.",
-        "Stadium 2": "Pokémon Oro insertado:  Las unidades a los lados de su cuerpo generan energía antigravitatoria para mantenerlo en el aire.\nPokémon Plata insertado: Atraído por ondas electromagnéticas, podría acercarse a los entrenadores que estén usando el Pokégear.\n",
-        "Pokémon GO": "Magnemite se engancha a las líneas de tensión para nutrirse de electricidad. Cuando se producen apagones en las casas, es aconsejable revisar el automático y comprobar que no hay Pokémon de este tipo colgados de la caja de fusibles.",
-        "Ranger": "Magnemite libera electricidad para atacar. También puede recargar tu capturador.",
-        "Sombras de Almia": "Ataca liberando descargas eléctricas.",
-        "RubíZafiro": "Magnemite flota en el aire emitiendo ondas electromagnéticas a través de las unidades de las extremidades, que bloquean la gravedad. Si se agota su suministro de electricidad interno, es incapaz de mantenerse flotando."
+        "Leyendas: Arceus": "Su aspecto de bola metálica con un ojo resulta verdaderamente extraño. Suponemos que flota gracias al magnetismo de los imanes con forma de herradura a ambos lados de su cuerpo."
     },
     "evolution": [
         [

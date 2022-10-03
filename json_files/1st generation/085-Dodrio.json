@@ -13,22 +13,14 @@
         "Tumbos"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "110",
-        "def": "70",
-        "atk esp": "60",
-        "def esp": "60",
-        "speed": "100"
+        "hp": 60,
+        "atk": 110,
+        "def": 70,
+        "atk esp": 60,
+        "def esp": 60,
+        "speed": 100
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Mazmorra Rara.",
-            "Evolucionar: a Doduo (nivel 31)."
-        ],
-        "Azul": [
-            "Salvaje: Mazmorra Rara.",
-            "Evolucionar: a Doduo (nivel 31)."
-        ],
         "Amarillo": [
             "Salvaje: Ruta 17.",
             "Evolucionar: a Doduo (nivel 31)."
@@ -130,14 +122,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Rutas 16, 17 y 18.",
-            "Evolucionar: a Doduo (nivel 31)."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 16, 17 y 18.",
-            "Evolucionar: a Doduo (nivel 31)."
-        ],
         "Espada": [
             "Dodrio no se puede conseguir en este videojuego."
         ],
@@ -187,14 +171,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Esta extraña especie es el resultado de la división de una de las cabezas de Doduo al evolucionar. Puede correr a más de 60 km/h.",
         "Perla Reluciente": "Esta extraña especie es el resultado de la división de una de las cabezas de Doduo al evolucionar. Puede correr a más de 60 km/h.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Las tres cabezas expresan alegría, enfado y preocupación cuando planean estrategias. Al dormir, una cabeza permanece despierta.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Según parece, las cabezas no son las únicas partes del cuerpo que tiene triplicadas. Dodrio también tiene tres corazones y tres pares de pulmones. Con esta constitución, puede correr largas distancias sin cansarse.",
-        "Ranger": "Dodrio es difícil de capturar porque corre y salta a gran velocidad.",
-        "Sombras de Almia": "Da picotazos para atacar.",
-        "RubíZafiro": "Hay que tener cuidado cuando las tres cabezas de Dodrio miran cada una para un lado, pues están en guardia. No te acerques a este Pokémon cuando está vigilando porque puede darte un picotazo.",
-        "New Pokémon Snap": "Estos corredores natos son capaces de atravesar el parque natural en un abrir y cerrar de ojos. Sus patas tienen una potencia increíble, y saltan tan alto que parece que están volando."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

@@ -12,20 +12,14 @@
         "Justiciero"
     ],
     "stats": {
-        "hp": "55",
-        "atk": "70",
-        "def": "45",
-        "atk esp": "70",
-        "def esp": "50",
-        "speed": "60"
+        "hp": 55,
+        "atk": 70,
+        "def": 45,
+        "atk esp": 70,
+        "def esp": 50,
+        "speed": 60
     },
     "location": {
-        "Rojo": [
-            "Salvaje: rutas 7 y 8, Mansión Pokémon."
-        ],
-        "Azul": [
-            "Intercambiar: de Pokémon Rojo, Pokémon Amarillo, Pokémon Oro o Pokémon Cristal."
-        ],
         "Amarillo": [
             "Salvaje: Mansión Pokémon (planta baja)."
         ],
@@ -112,13 +106,6 @@
         "Ultraluna": [
             "Salvaje: Ruta 2."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 5, Ruta 6, Ruta 7 y Ruta 8."
-        ],
-        "Let's Go Eevee!": [
-            "Intercambiar: de Pokémon: Let's Go, Pikachu!",
-            "Especial: Transferir desde Pokémon GO."
-        ],
         "Espada": [
             "Salvaje: Cuenca Polvorienta, Cornisa de Artejo, Espejo del Gigante."
         ],
@@ -169,12 +156,7 @@
         "Escudo": "Extremadamente fiel, ladrará furioso a cualquiera que suponga una amenaza para su Entrenador con tal de defenderlo.",
         "Diamante Brillante": "Un Pokémon leal por naturaleza. Permanece inmóvil a la espera de recibir órdenes de su Entrenador.",
         "Perla Reluciente": "Un Pokémon leal por naturaleza. Permanece inmóvil a la espera de recibir órdenes de su Entrenador.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Amistoso y leal, pero también celoso protector de su territorio. Si te acercas sin cuidado te morderá.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Growlithe tiene un sentido del olfato excepcional y una memoria sensitiva tremenda, nunca olvida una esencia. Este Pokémon saca provecho de este don para identificar las sensaciones que tienen otros seres vivos.",
-        "Ranger": "Growlithe es un Pokémon animado que respira brasas mientras corretea.",
-        "Sombras de Almia": "Escupe brasas y embiste para atacar."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

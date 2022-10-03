@@ -12,20 +12,14 @@
         "Nerviosismo"
     ],
     "stats": {
-        "hp": "40",
-        "atk": "45",
-        "def": "35",
-        "atk esp": "40",
-        "def esp": "40",
-        "speed": "90"
+        "hp": 40,
+        "atk": 45,
+        "def": 35,
+        "atk esp": 40,
+        "def esp": 40,
+        "speed": 90
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: de Pokémon Azul, Plata y Cristal."
-        ],
-        "Azul": [
-            "Salvaje: Rutas 5, 6, 7 y 8."
-        ],
         "Amarillo": [
             "Intercambiar: de Pokémon Azul, Plata y Cristal."
         ],
@@ -115,13 +109,6 @@
         "Ultraluna": [
             "Especial: Transferir de videojuegos anteriores a través del Banco de Pokémon."
         ],
-        "Let's Go Pikachu!": [
-            "Intercambiar: de Pokémon: Let's Go, Eevee!",
-            "Especial: Transferir desde Pokémon GO."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 24 y Ruta 25."
-        ],
         "Espada": [
             "Intercambiar: por un Meowth de Galar en el Estadio de Hoyuelo",
             "Evento: entre el 15 de noviembre del 2019 y el 15 de enero del 2020",
@@ -175,12 +162,7 @@
         "Escudo": "\nMeowth: Se lava cuidadosamente la cara para que no se le ensucie la moneda de oro que tiene en la frente. No se lleva nada bien con los Meowth de Galar.\nMeowth Gigamax: Debido al fenómeno Gigamax, tanto la moneda de su frente como su torso han crecido de forma descomunal.",
         "Diamante Brillante": "Un Pokémon de hábitos nocturnos al que se le ilumina la mirada si encuentra algún objeto brillante.",
         "Perla Reluciente": "Un Pokémon de hábitos nocturnos al que se le ilumina la mirada si encuentra algún objeto brillante.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Duerme de día. De noche, sus ojos brillan mientras, contento, recoge monedas, sus objetos preferidos.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Meowth retrae las afiladas uñas de sus zarpas para caminar a hurtadillas, dando sigilosos pasos para pasar inadvertido. No se sabe muy bien por qué, pero este Pokémon adora las monedas brillantes que resplandecen con la luz.",
-        "Ranger": "Meowth puede eliminar obstáculos con sus garras y camina sobre sus patas traseras.",
-        "New Pokémon Snap": "No estoy muy seguro de cuándo se vino a vivir por aquí cerca, pero se pasa a jugar o a dormir cuando le place. Cada vez que lo pillo jugueteando con el Neo-One, me da un soponcio."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

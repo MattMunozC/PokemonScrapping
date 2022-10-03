@@ -12,20 +12,14 @@
         "Gula"
     ],
     "stats": {
-        "hp": "50",
-        "atk": "75",
-        "def": "35",
-        "atk esp": "70",
-        "def esp": "30",
-        "speed": "40"
+        "hp": 50,
+        "atk": 75,
+        "def": 35,
+        "atk esp": 70,
+        "def esp": 30,
+        "speed": 40
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: de Pokémon Azul, Amarillo u Oro, Plata y Cristal"
-        ],
-        "Azul": [
-            "Salvaje: Rutas 5, 6, 7, 12, 13, 14, 15, 24, 25"
-        ],
         "Amarillo": [
             "Salvaje: Rutas 12, 13, 14, 15, 24, 25"
         ],
@@ -115,13 +109,6 @@
         "Ultraluna": [
             "Intercambiar: de Pokémon Sol o Pokémon Luna"
         ],
-        "Let's Go Pikachu!": [
-            "Intercambiar: de Pokémon: Let's Go, Eevee!",
-            "Especial: Transferir desde Pokémon GO."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 1, 2, 12, 13, 14, 15, 21, 24, 25 y Bosque Verde."
-        ],
         "Espada": [
             "Bellsprout no se puede conseguir en este videojuego."
         ],
@@ -173,11 +160,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Prefiere los lugares cálidos y húmedos. Captura presas alargando sus lianas a gran velocidad.",
         "Perla Reluciente": "Prefiere los lugares cálidos y húmedos. Captura presas alargando sus lianas a gran velocidad.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Una especia de planta carnívora que come pequeños bichos. Utiliza sus raíces para caminar.",
-        "Stadium 2": "Pokémon Oro insertado: Planta sus patas bajo tierra para absorber agua. No puede escapar de su enemigo si está arraigado.\nPokémon Plata insertado: Aunque su cuerpo es extremadamente delgado, es muy rápido a la hora de capturar a sus presas.\n",
-        "Pokémon GO": "Bellsprout tiene un cuerpo delgado y flexible que le permite inclinarse y balancearse para esquivar los ataques. Este Pokémon escupe por la boca un fluido corrosivo capaz de hacer que se derrita hasta el hierro.",
-        "Ranger": "Bellsprout provoca cortes con sus hojas afiladas. Solo es un brote, pero ¡cuidado!"
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

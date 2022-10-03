@@ -13,20 +13,14 @@
         "Fuga"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "55",
-        "def": "50",
-        "atk esp": "40",
-        "def esp": "55",
-        "speed": "45"
+        "hp": 60,
+        "atk": 55,
+        "def": 50,
+        "atk esp": 40,
+        "def esp": 55,
+        "speed": 45
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Rutas 12, 13, 14, 15, Zona Safari (entrada y área 3)."
-        ],
-        "Azul": [
-            "Salvaje: Rutas 12, 13, 14, 15, Zona Safari (entrada y área 3)."
-        ],
         "Amarillo": [
             "Salvaje: Rutas 14, 15, 24, 25"
         ],
@@ -122,12 +116,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Rutas 14, 15, 24, 25."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 14, 15, 24, 25."
-        ],
         "Espada": [
             "Venonat no se puede conseguir en este videojuego."
         ],
@@ -179,11 +167,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Sus grandes ojos son en realidad grupos de ojos diminutos. Por la noche se siente atraído por la luz.",
         "Perla Reluciente": "Sus grandes ojos son en realidad grupos de ojos diminutos. Por la noche se siente atraído por la luz.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Utiliza sus grandes ojos como radar para moverse en la oscuridad. Le atrae instintivamente la luz.",
-        "Stadium 2": "Pokémon Oro insertado: Rezuma veneno por todo su cuerpo. Atrapa y come pequeños bichos nocturnos atraídos por la luz.\nPokémon Plata insertado: Sus ojos también funcionan como radares. Atrapa y come pequeños bichos ocultos en la oscuridad.\n",
-        "Pokémon GO": "Dicen que durante su evolución Venonat desarrolló una fina capa de espeso pelo alrededor de todo el cuerpo para protegerse. Tiene unos ojos tan grandes que no hay presa que le pase desapercibida.",
-        "Ranger": "Venonat salta para esparcir nubes de polvo tóxico."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

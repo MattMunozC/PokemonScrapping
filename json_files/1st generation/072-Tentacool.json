@@ -13,22 +13,14 @@
         "Cura lluvia"
     ],
     "stats": {
-        "hp": "40",
-        "atk": "40",
-        "def": "35",
-        "atk esp": "50",
-        "def esp": "100",
-        "speed": "70"
+        "hp": 40,
+        "atk": 40,
+        "def": 35,
+        "atk esp": 50,
+        "def esp": 100,
+        "speed": 70
     },
     "location": {
-        "Rojo": [
-            "Pescando: Rutas 12, 13, 17, 18, 20, 21, Pueblo Paleta, Ciudad Verde.",
-            "Surf: Rutas 19, 20 y 21."
-        ],
-        "Azul": [
-            "Pescando: Rutas 12, 13, 17, 18, 20, 21, Pueblo Paleta, Ciudad Verde.",
-            "Surf: Rutas 19, 20 y 21."
-        ],
         "Amarillo": [
             "Pescando: 11, 13, 17, 18, 19, 20, 21, Pueblo Paleta, Ciudad Verde, Ciudad Carmín, Islas Espuma, Isla Canela, S.S. Anne.",
             "Surf: Rutas 19, 20, 21, Islas Espuma."
@@ -133,12 +125,6 @@
         "Ultraluna": [
             "Surf: Rutas 7, 8, Colina Saltagua, Playa de Hanohano, Ciudad Hauoli, Bahía Kalae y Mar de Melemele."
         ],
-        "Let's Go Pikachu!": [
-            "Surcaaguas: Rutas 4, 10, 12, 13, 18, 19, 20, 21, 24, e Islas Espuma."
-        ],
-        "Let's Go Eevee!": [
-            "Surcaaguas: Rutas 4, 10, 12, 13, 18, 19, 20, 21, 24, e Islas Espuma."
-        ],
         "Espada": [
             "Salvaje: Cueva Tenacidad, Mar Andana "
         ],
@@ -190,11 +176,7 @@
         "Escudo": "Su cuerpo está compuesto casi por completo de agua, por lo que resulta muy difícil distinguirlo cuando está sumergido en el mar.",
         "Diamante Brillante": "Su cuerpo se compone casi en exclusiva de agua. Lanza extraños rayos con sus ojos cristalinos.",
         "Perla Reluciente": "Se deja arrastrar por las corrientes marinas. Numerosos pescadores sufren la punzada de sus aguijones venenosos.",
-        "Leyendas: Arceus": "Sus órganos rojos y cristalinos, que parecen ojos, emiten rayos de luz. Suele flotar por mares poco profundos, pero, cuando la marea baja, puede varar en la orilla y terminar secándose.",
-        "Stadium": "Dispara rayos de luz con sus ojos claros. Flota en aguas poco profundas y puede picar a incautos pescadores.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Tentacool está compuesto en su mayor parte por agua. Si se le saca del mar, se secará y se quedará acartonado. Si este Pokémon se deshidrata, hay que echarlo inmediatamente de vuelta al mar.",
-        "RubíZafiro": "Tentacool está compuesto en su mayor parte por agua. Si lo sacas del mar, se secará y quedará acartonado. Si este Pokémon se deshidrata, hay que ponerlo inmediatamente de vuelta en el mar."
+        "Leyendas: Arceus": "Sus órganos rojos y cristalinos, que parecen ojos, emiten rayos de luz. Suele flotar por mares poco profundos, pero, cuando la marea baja, puede varar en la orilla y terminar secándose."
     },
     "evolution": [
         [

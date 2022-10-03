@@ -13,24 +13,14 @@
         "Regeneración"
     ],
     "stats": {
-        "hp": "95",
-        "atk": "75",
-        "def": "110",
-        "atk esp": "100",
-        "def esp": "80",
-        "speed": "30"
+        "hp": 95,
+        "atk": 75,
+        "def": 110,
+        "atk esp": 100,
+        "def esp": 80,
+        "speed": 30
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Islas Espuma (planta baja).",
-            "Pescando (Supercaña): Ruta 23, Mazmorra Rara.",
-            "Evolucionar: a Slowpoke (nivel 37)."
-        ],
-        "Azul": [
-            "Salvaje: Islas Espuma (sótano 2 y 4).",
-            "Pescando (Supercaña): Ruta 23, Mazmorra Rara.",
-            "Evolucionar: a Slowpoke (nivel 37)."
-        ],
         "Amarillo": [
             "Salvaje: Islas Espuma (sótano 2).",
             "Surf: Rutas 12 y 13.",
@@ -132,14 +122,6 @@
             "Salvaje: Bahía Kalae (como refuerzo de Slowpoke)",
             "Evolucionar: a Slowpoke (nivel 37)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Islas Espuma.",
-            "Evolucionar: a Slowpoke (nivel 37)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Islas Espuma.",
-            "Evolucionar: a Slowpoke (nivel 37)"
-        ],
         "Espada": [
             "Aventura Dinamax ",
             "Evolucionar: a Slowpoke (nivel 37)"
@@ -191,10 +173,7 @@
         "Escudo": "Se volvió bípedo por el impacto que le causó la mordedura del Shellder. Si este se desprende, vuelve a convertirse en un Slowpoke.",
         "Diamante Brillante": "Normalmente se muestra distraído, pero parece espabilar si el Shellder le muerde con fuerza la cola.",
         "Perla Reluciente": "Normalmente se muestra distraído, pero parece espabilar si el Shellder le muerde con fuerza la cola.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Si su cola es mordida por un Shellder, Slowpoke evoluciona en Slowbro. A Shellder le encanta su cola crujiente.",
-        "Stadium 2": "Pokémon Oro insertado: Algo torpe por naturaleza, ha dejado de sentir dolor por el veneno de Shellder.\nPokémon Plata insertado: Si el Shellder que muerde su cola se desprende durante una lucha, se convertirá en un simple Slowpoke.\n",
-        "Pokémon GO": "\nSlowbro: Slowbro lleva en la cola un Shellder enganchado, sujeto por los dientes. Como Slowbro no puede usar la cola para pescar, se mete en el agua de mala gana en busca de sus presas.\nMega-Slowbro: El Shellder ha engullido a Slowbro por completo, aportándole una defensa impenetrable cuyo interior resulta muy agradable."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

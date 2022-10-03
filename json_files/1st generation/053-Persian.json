@@ -12,20 +12,14 @@
         "Nerviosismo"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "70",
-        "def": "60",
-        "atk esp": "65",
-        "def esp": "65",
-        "speed": "115"
+        "hp": 65,
+        "atk": 70,
+        "def": 60,
+        "atk esp": 65,
+        "def esp": 65,
+        "speed": 115
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: de Pokémon Azul, Pokémon Plata o Pokémon Cristal"
-        ],
-        "Azul": [
-            "Evolucionar: a Meowth (nivel 28)"
-        ],
         "Amarillo": [
             "Intercambiar: de Pokémon Azul, Pokémon Plata o Pokémon Cristal"
         ],
@@ -117,12 +111,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Especial: Regalo en Ciudad Carmín por capturar 5 Growlithe salvajes"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Meowth (nivel 28)"
-        ],
         "Espada": [
             "Aventura Dinamax ",
             "Evolucionar: a Meowth (nivel 28)."
@@ -174,10 +162,7 @@
         "Escudo": "Hace gala de un porte elegante y majestuoso. No congenia con los toscos Perrserker y ambos se profesan un mutuo desprecio.",
         "Diamante Brillante": "Un Pokémon muy arrogante. El tamaño de la joya que luce en la frente suele dar mucho que hablar entre sus admiradores.",
         "Perla Reluciente": "Un Pokémon muy arrogante. El tamaño de la joya que luce en la frente suele dar mucho que hablar entre sus admiradores.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Es muy querido como mascota por su precioso pelaje. Sin embargo, es muy temperamental y difícil de mantener.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Persian tiene seis llamativos bigotes que le dan un aspecto feroz. Además, le sirven para detectar el movimiento del aire, delator de la presencia cercana de algún Pokémon. Si se le agarra por los bigotes, se vuelve dócil."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

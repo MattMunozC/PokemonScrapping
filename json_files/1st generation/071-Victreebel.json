@@ -12,20 +12,14 @@
         "Gula"
     ],
     "stats": {
-        "hp": "80",
-        "atk": "105",
-        "def": "65",
-        "atk esp": "100",
-        "def esp": "70",
-        "speed": "70"
+        "hp": 80,
+        "atk": 105,
+        "def": 65,
+        "atk esp": 100,
+        "def esp": 70,
+        "speed": 70
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: de Pokémon Azul o Pokémon Amarillo"
-        ],
-        "Azul": [
-            "Evolucionar: a Weepinbell (piedra hoja)"
-        ],
         "Amarillo": [
             "Evolucionar: a Weepinbell (piedra hoja)"
         ],
@@ -109,13 +103,6 @@
         "Ultraluna": [
             "Intercambiar: de Pokémon Sol o Pokémon Luna"
         ],
-        "Let's Go Pikachu!": [
-            "Intercambiar: de Pokémon: Let's Go, Eevee!",
-            "GO Park: transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Weepinbell (piedra hoja)"
-        ],
         "Espada": [
             "Victreebel no se puede conseguir en este videojuego."
         ],
@@ -165,12 +152,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Su boca segrega un fluido de olor parecido al de la miel. En realidad, se trata de un potente ácido que disuelve cualquier cosa.",
         "Perla Reluciente": "Su boca segrega un fluido de olor parecido al de la miel. En realidad, se trata de un potente ácido que disuelve cualquier cosa.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Atrae a su presa con miel de dulce olor. Sus presas son bichos, aunque a veces también atrapa grandes animales.",
-        "Stadium 2": "Pokémon Oro insertado: Este terrorífico Pokémon planta atrae a su presa con miel aromática para derretirla luego en su boca.\nPokémon Plata insertado: El ácido con que disuelve a muchas presas se endulza, haciéndolo hasta más efectivo para atraer a su presa.\n",
-        "Pokémon GO": "Victreebel tiene una enredadera que le sale de la cabeza y que agita a modo de señuelo para atraer a sus presas y así engullirlas por sorpresa cuando estas se aproximan incautas.",
-        "Ranger": "Victreebel escupe veneno con su enorme boca. ¡Cuidado con los charcos!",
-        "Sombras de Almia": "Ataca lanzando hojas y encharcando el terreno con veneno."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

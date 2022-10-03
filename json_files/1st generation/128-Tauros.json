@@ -12,20 +12,14 @@
         "Potencia bruta"
     ],
     "stats": {
-        "hp": "75",
-        "atk": "100",
-        "def": "95",
-        "atk esp": "40",
-        "def esp": "70",
-        "speed": "110"
+        "hp": 75,
+        "atk": 100,
+        "def": 95,
+        "atk esp": 40,
+        "def esp": 70,
+        "speed": 110
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Zona Safari"
-        ],
-        "Azul": [
-            "Salvaje: Zona Safari"
-        ],
         "Amarillo": [
             "Salvaje: Zona Safari"
         ],
@@ -117,12 +111,6 @@
             "Salvaje: Rancho Ohana y Llanura de Poni",
             "Intercambiar: por un Bewear en la Pendiente de Poni"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 14 y Ruta 15"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 14 y Ruta 15"
-        ],
         "Espada": [
             "Salvaje: Llano Entrenamiento ",
             "Incursiones Dinamax: nidos en Humedal Frescor , Cueva Tenacidad  y Llano Entrenamiento ",
@@ -178,11 +166,7 @@
         "Escudo": "Los Tauros que habitan en la región de Galar son de temperamento irascible y no permiten que los humanos monten en su lomo.",
         "Diamante Brillante": "Cuando elige una presa, embiste sin pensárselo. Este Pokémon es famoso por su carácter violento.",
         "Perla Reluciente": "Cuando elige una presa, embiste sin pensárselo. Este Pokémon es famoso por su carácter violento.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Ataca mientras azota su robusto cuerpo con sus colas. Aunque poderoso, sólo puede atacar en línea recta.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Este Pokémon no está contento a menos que esté continuamente de aquí para allá. Si no hay rival que luche contra Tauros, se estampa contra árboles grandes para calmarse y los embiste para echarlos abajo.",
-        "Ranger": "Si Tauros ve un Ranger, resopla y se lanza a embestirlo con sus cuernos."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

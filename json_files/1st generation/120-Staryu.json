@@ -12,22 +12,14 @@
         "Cálculo final"
     ],
     "stats": {
-        "hp": "30",
-        "atk": "45",
-        "def": "55",
-        "atk esp": "70",
-        "def esp": "55",
-        "speed": "85"
+        "hp": 30,
+        "atk": 45,
+        "def": 55,
+        "atk esp": 70,
+        "def esp": 55,
+        "speed": 85
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Islas Espuma",
-            "Pescando, supercaña: Rutas 19, 20, 21, Isla Canela e Islas Espuma"
-        ],
-        "Azul": [
-            "Salvaje: Islas Espuma",
-            "Pescando, supercaña: Rutas 19, 20, 21, Isla Canela e Islas Espuma"
-        ],
         "Amarillo": [
             "Salvaje: Islas Espuma",
             "Pescando, supercaña: Rutas 19, 20, 21, Isla Canela e Islas Espuma"
@@ -128,12 +120,6 @@
             "Pescando: Ruta 7",
             "Poké Resort: Cayo Recreo, tras llegar a Akala"
         ],
-        "Let's Go Pikachu!": [
-            "Surcaaguas: Rutas 18, 19 y 21."
-        ],
-        "Let's Go Eevee!": [
-            "Surcaaguas: Rutas 18, 19 y 21."
-        ],
         "Espada": [
             "Salvaje: Playa Desafío  y Llano Entrenamiento ",
             "Incursiones Dinamax: nidos en Mar Gimnástico , Mar Andana , Mar Islejos  y Mar Meloso "
@@ -187,13 +173,7 @@
         "Escudo": "No le importa que le mordisqueen el cuerpo los Pokémon pez, ya que las partes desgarradas se regeneran casi al instante.",
         "Diamante Brillante": "Puede recuperar las extremidades que pierde si mantiene intacto su núcleo rojo, que brilla en la noche.",
         "Perla Reluciente": "Puede recuperar las extremidades que pierde si mantiene intacto su núcleo rojo, que brilla en la noche.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Es capaz de hacer crecer cualquier parte de su cuerpo que haya sido cortada. De noche, su corazón brilla con una luz roja.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Staryu posee un órgano central conocido como su núcleo, que brilla con una luz roja. Si vas a la playa a finales de verano, podrás ver los núcleos de estos Pokémon brillando como las estrellas del cielo.",
-        "Ranger": "Staryu ataca dando vueltas. Intenta no tocarlo en ese momento.",
-        "Sombras de Almia": "Ataca lanzando bolas extrañas y dando vueltas.",
-        "RubíZafiro": "Staryu posee un órgano central conocido como su núcleo, que brilla con una luz roja. Si vas a la playa a finales de verano, podrás ver los núcleos de estos Pokémon brillando como las estrellas del cielo."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

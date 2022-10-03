@@ -12,22 +12,14 @@
         "Allanamiento"
     ],
     "stats": {
-        "hp": "75",
-        "atk": "80",
-        "def": "70",
-        "atk esp": "65",
-        "def esp": "75",
-        "speed": "90"
+        "hp": 75,
+        "atk": 80,
+        "def": 70,
+        "atk esp": 65,
+        "def esp": 75,
+        "speed": 90
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Islas Espuma, Calle Victoria, Cueva Celeste.",
-            "Evolucionar: a Zubat (nivel 22)."
-        ],
-        "Azul": [
-            "Salvaje: Islas Espuma, Calle Victoria, Cueva Celeste.",
-            "Evolucionar: a Zubat (nivel 22)."
-        ],
         "Amarillo": [
             "Salvaje: Islas Espuma, Calle Victoria, Cueva Celeste.",
             "Evolucionar: a Zubat (nivel 22)."
@@ -144,14 +136,6 @@
             "Salvaje: Túnel Diglett (como refuerzo), Jungla Umbría, Colina del Recuerdo (como refuerzo), Monte Lanakila, Gruta Desenlace, Súper Ultraganga y Cañón de Poni.",
             "Evolucionar: a Zubat (nivel 22)."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Túnel Roca. Torre Pokémon, Islas Espuma, Calle Victoria, Cueva Celeste.",
-            "Evolucionar: a Zubat (nivel 22)."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Túnel Roca. Torre Pokémon, Islas Espuma, Calle Victoria, Cueva Celeste.",
-            "Evolucionar: a Zubat (nivel 22)."
-        ],
         "Espada": [
             "Salvaje: Túnel Ascensión  y Grutas Sonamar ",
             "Incursiones Dinamax: Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol "
@@ -210,13 +194,7 @@
         "Escudo": "Camina con soltura sobre sus pequeñas patas. Se acerca con sigilo a su presa mientras esta duerme y le clava los colmillos para chuparle la sangre.",
         "Diamante Brillante": "Le encanta la sangre, tanto la de Pokémon como la humana. Por la noche vuela en busca de cuellos con los que calmar su sed.",
         "Perla Reluciente": "Cuando chupa sangre, no para hasta hartarse. Por la noche sale volando a la caza de presas.",
-        "Leyendas: Arceus": "Clava sus afilados colmillos en otros seres vivos para chuparles la sangre. Al analizarlos, notamos que están huecos por dentro, como tubos.",
-        "Stadium": "Muerde a su presa y se alimenta de la energía de la víctima. Su propio tipo de sangre se cambia por el de la víctima.",
-        "Stadium 2": "Pokémon Oro insertado: Puede succionar mas de 300 ml de sangre por golpe. Si toma demasiada, engorda mucho y vuela torpemente.\nPokémon Plata insertado: Por muy dura que sea la piel de su víctima, clava sus afilados colmillos para atiborrarse de su sangre.\n",
-        "Pokémon GO": "A Golbat le encanta chuparles la sangre a los seres vivos. Este Pokémon es más activo en la oscuridad de la noche. Es al caer la noche cuando sale a revolotear y a buscar sangre fresca.",
-        "Ranger": "Golbat puede provocar grandes ráfagas de viento con sus enormes alas.",
-        "Sombras de Almia": "Ataca con ondas ultrasónicas y escupiendo veneno.",
-        "RubíZafiro": "Golbat derriba a sus víctimas mordiéndoles con los cuatro colmillos que tiene y chupándoles la sangre. Sólo entra en acción en las noches sin luna. Revolotea en la oscuridad para atacar a Pokémon y personas."
+        "Leyendas: Arceus": "Clava sus afilados colmillos en otros seres vivos para chuparles la sangre. Al analizarlos, notamos que están huecos por dentro, como tubos."
     },
     "evolution": [
         [

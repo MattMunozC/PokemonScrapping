@@ -13,20 +13,14 @@
         "Velo arena"
     ],
     "stats": {
-        "hp": "80",
-        "atk": "110",
-        "def": "130",
-        "atk esp": "55",
-        "def esp": "65",
-        "speed": "45"
+        "hp": 80,
+        "atk": 110,
+        "def": 130,
+        "atk esp": 55,
+        "def esp": 65,
+        "speed": 45
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Graveler (intercambio)"
-        ],
-        "Azul": [
-            "Evolucionar: a Graveler (intercambio)"
-        ],
         "Amarillo": [
             "Evolucionar: a Graveler (intercambio)"
         ],
@@ -112,12 +106,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Graveler (intercambio)"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Graveler (intercambio)"
-        ],
         "Espada": [
             "Golem no se puede conseguir en este videojuego."
         ],
@@ -167,13 +155,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Muda su piel una vez al año. Su cuerpo rocoso es tan duro que ni la dinamita lo daña.",
         "Perla Reluciente": "Conviene alejarse de los caminos que recorren la montaña de la cima al pie, pues son los surcos que dejan los Golem al rodar por la ladera.",
-        "Leyendas: Arceus": "Muda su rocoso caparazón una vez al año. La parte descartada se descompone en un amasijo de tierra y sirve como fertilizante para los cultivos.",
-        "Stadium": "Su cuerpo, que pesa unos 300 kilos, es duro como una piedra. Se hace más grande mudando la piel una vez al año.",
-        "Stadium 2": "Pokémon Oro insertado: Es capaz de inflarse a sí mismo. Usa esta fuerza explosiva para saltar de montaña en montaña.\nPokémon Plata insertado: Muda su piel una vez al año. La concha desechada se endurece de inmediato y se desmorona.\n",
-        "Pokémon GO": "Golem vive en las montañas. Si se produce un gran terremoto, estos Pokémon descienden rodando en masa por las laderas.",
-        "Ranger": "Golem es capaz de romper grandes rocas con su extraordinaria fuerza.",
-        "Sombras de Almia": "Ataca lanzando piedras y abriendo grietas en el suelo.",
-        "RubíZafiro": "Golem es conocido por su afición a bajar de las montañas rodando. La gente que vive en la falda de las mismas ha cavado surcos para conducirlo en su descenso por las laderas y evitar que se cuele en sus casas."
+        "Leyendas: Arceus": "Muda su rocoso caparazón una vez al año. La parte descartada se descompone en un amasijo de tierra y sirve como fertilizante para los cultivos."
     },
     "evolution": [
         [

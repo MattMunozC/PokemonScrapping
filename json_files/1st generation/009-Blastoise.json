@@ -11,20 +11,14 @@
         "Cura lluvia"
     ],
     "stats": {
-        "hp": "79",
-        "atk": "83",
-        "def": "100",
-        "atk esp": "85",
-        "def esp": "105",
-        "speed": "78"
+        "hp": 79,
+        "atk": 83,
+        "def": 100,
+        "atk esp": 85,
+        "def esp": 105,
+        "speed": 78
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Wartortle (nivel 36)"
-        ],
-        "Azul": [
-            "Evolucionar: a Wartortle (nivel 36)"
-        ],
         "Amarillo": [
             "Evolucionar: a Wartortle (nivel 36)"
         ],
@@ -110,14 +104,6 @@
         "Ultraluna": [
             "Evolucionar: a Wartortle (nivel 36)"
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Wartortle (nivel 36)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Wartortle (nivel 36)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Incursiones Dinamax: Mar Gimnástico, nido de Rotom , Mar Andana, nido al noroeste ",
             "Incursiones Gigamax: Mar Gimnástico, nido de Rotom , Mar Andana, nido al noroeste ",
@@ -173,14 +159,7 @@
         "Escudo": "\nBlastoise: Dispara chorros de agua a través de los cañones de su caparazón, capaces de agujerear incluso el acero.\nBlastoise Gigamax: Los chorros de agua que dispara por el cañón central tienen la fuerza suficiente como para abrir un boquete en una montaña.",
         "Diamante Brillante": "Los chorros de agua que lanza por los cañones de su caparazón pueden perforar incluso una gruesa plancha de acero.",
         "Perla Reluciente": "Los chorros de agua que lanza por los cañones de su caparazón pueden perforar incluso una gruesa plancha de acero.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Sus surtidores van del caparazón a lo alto. Lanzan agua a cañonazos, capaz de destrozar muros de hormigón.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "\nBlastoise: Blastoise lanza chorros de agua con gran precisión por los tubos que le salen del caparazón que tiene en la espalda. Puede disparar chorros de agua con tanta puntería que no fallaría al tirar contra una lata pequeña a 50 m.\nMega-Blastoise: Sus fornidas patas y lomo le permiten aguantar el retroceso del cañón de su caparazón, cuya potencia de disparo es pareja a la de un tanque.",
-        "Ranger": "Blastoise ataca lanzando potentes chorros de agua.",
-        "Sombras de Almia": "Ataca lanzando potentes chorros de agua por los cañones de su lomo.",
-        "Trazos de luz": "Dispara burbujas que ralentizan al oponente",
-        "New Pokémon Snap": "¿Sabías que pueden usar la presión del agua de sus cañones para volar? A veces se meten dentro del caparazón mientras toman el sol para sentirse más seguros."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

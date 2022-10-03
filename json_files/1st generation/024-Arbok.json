@@ -12,21 +12,14 @@
         "Nerviosismo"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "85",
-        "def": "69",
-        "atk esp": "65",
-        "def esp": "79",
-        "speed": "80"
+        "hp": 60,
+        "atk": 85,
+        "def": 69,
+        "atk esp": 65,
+        "def esp": 79,
+        "speed": 80
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Ruta 23, Mazmorra Rara.",
-            "Evolucionar: a Ekans (Nivel 22)"
-        ],
-        "Azul": [
-            "Intercambiar: de Pokémon Rojo o Pokémon Oro, Plata y Cristal"
-        ],
         "Amarillo": [
             "Intercambiar: de Pokémon Rojo o Pokémon Oro, Plata y Cristal"
         ],
@@ -130,14 +123,6 @@
             "Intercambiar: por Trumbeak en el centro Pokémon de la ruta 8.",
             "Evolucionar: a Ekans (Nivel 22)."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Ekans (Nivel 22).",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Ekans (Nivel 22).",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Arbok no se puede conseguir en este videojuego."
         ],
@@ -187,12 +172,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Intimida a sus presas con el dibujo de su vientre y, una vez paralizadas por el miedo, se enrosca a su alrededor y las asfixia.",
         "Perla Reluciente": "Intimida a sus presas con el dibujo de su vientre y, una vez paralizadas por el miedo, se enrosca a su alrededor y las asfixia.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Si encuentra un enemigo, levanta su cabeza, intimidando al oponente con los terribles dibujos de su cuerpo.",
-        "Stadium 2": "Pokémon Oro insertado: De naturaleza muy vengativa, no cejará en la persecución. Irá tras su presa, no importa dónde.\nPokémon Plata insertado: Paralizando a su presa con los dibujos de su piel, apresa y envenena a la asustada víctima.\n",
-        "Pokémon GO": "Este Pokémon es tremendamente fuerte, puede oprimir cualquier cosa con su cuerpo y hasta es capaz de estrujar un barril de acero. Una vez que Arbok se enrosca a su víctima, no hay forma de escapar de su asfixiante abrazo.",
-        "Ranger": "Arbok evitará que lo capturen lanzando terribles bolsas de veneno.",
-        "New Pokémon Snap": "No es raro verlo durmiendo cómodamente en las copas de los árboles de la jungla. Cuando quiere intimidar a sus enemigos, ostenta los espantosos motivos en forma de cara que tiene en la panza."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

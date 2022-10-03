@@ -13,20 +13,14 @@
         "Armadura frágil"
     ],
     "stats": {
-        "hp": "70",
-        "atk": "60",
-        "def": "125",
-        "atk esp": "115",
-        "def esp": "70",
-        "speed": "55"
+        "hp": 70,
+        "atk": 60,
+        "def": 125,
+        "atk esp": 115,
+        "def esp": 70,
+        "speed": 55
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Omanyte (nivel 40)."
-        ],
-        "Azul": [
-            "Evolucionar: a Omanyte (nivel 40)."
-        ],
         "Amarillo": [
             "Evolucionar: a Omanyte (nivel 40)."
         ],
@@ -114,12 +108,6 @@
         "Ultraluna": [
             "Evolucionar: a Omanyte (nivel 40)."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Omanyte (nivel 40)."
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Omanyte (nivel 40)."
-        ],
         "Espada": [
             "Salvaje: Grutas Sonamar ",
             "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Suela del Gigante , Mar Gélido  y Lago Bolaguna "
@@ -170,10 +158,7 @@
         "Escudo": "Posee unos colmillos afilados con los que puede partir piedras, pero solo ataca a presas que se hallan al alcance de sus tentáculos.",
         "Diamante Brillante": "Se cree que este Pokémon se extinguió porque su concha en forma de espiral creció demasiado.",
         "Perla Reluciente": "Se cree que este Pokémon se extinguió porque su concha en forma de espiral creció demasiado.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Ataca atrapando a sus enemigos con sus tentáculos y mordiendo con afilados dientes. Su largo caparazón lo vuelve muy lento.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Omastar usa los tentáculos para atrapar a su presa. Se cree que el motivo de su extinción fue el tamaño y el peso que llegó a alcanzar la concha que lleva a cuestas, lo que le entorpeció y ralentizó los movimientos."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

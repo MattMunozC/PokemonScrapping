@@ -13,20 +13,14 @@
         "Tumbos"
     ],
     "stats": {
-        "hp": "35",
-        "atk": "85",
-        "def": "45",
-        "atk esp": "35",
-        "def esp": "35",
-        "speed": "75"
+        "hp": 35,
+        "atk": 85,
+        "def": 45,
+        "atk esp": 35,
+        "def esp": 35,
+        "speed": 75
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Rutas 16, 17, 18, Zona Safari (áreas 1 y 3)."
-        ],
-        "Azul": [
-            "Salvaje: Rutas 16, 17, 18, Zona Safari (áreas 1 y 3)."
-        ],
         "Amarillo": [
             "Salvaje: Rutas 16, 17 y 18."
         ],
@@ -116,12 +110,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Rutas 16, 17 y 18"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 16, 17 y 18"
-        ],
         "Espada": [
             "Doduo no se puede conseguir en este videojuego."
         ],
@@ -173,13 +161,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Al parecer, los cerebros de sus dos cabezas se comunican por telepatía.",
         "Perla Reluciente": "Al parecer, los cerebros de sus dos cabezas se comunican por telepatía.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Un Pokémon con dos cabezas. Más capaz de correr que de volar, puede alcanzar velocidades de 110 kmh.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Las dos cabezas de Doduo duermen de forma independiente, siempre por turnos. Mientras una duerme, la otra hace de centinela por si aparecen enemigos.",
-        "Ranger": "Doduo puede alcanzar una gran velocidad gracias a sus poderosas patas.",
-        "Sombras de Almia": "Embiste y da picotazos para atacar.",
-        "RubíZafiro": "Las dos cabezas de Doduo duermen de forma independiente, por turnos. Mientras una duerme la otra hace de centinela por si aparecen enemigos."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

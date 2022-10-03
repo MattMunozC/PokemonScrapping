@@ -10,23 +10,14 @@
     ],
     "hidden abilities": "None",
     "stats": {
-        "hp": "45",
-        "atk": "50",
-        "def": "45",
-        "atk esp": "115",
-        "def esp": "55",
-        "speed": "95"
+        "hp": 45,
+        "atk": 50,
+        "def": 45,
+        "atk esp": 115,
+        "def esp": 55,
+        "speed": 95
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Torre Pokémon (plantas 2 a 6 teniendo el Scope Silph en la mochila).",
-            "Evolucionar: de Gastly (nivel 25)."
-        ],
-        "Azul": [
-            "Salvaje: Torre Pokémon (plantas 2 a 6 teniendo el Scope Silph en la mochila).",
-            "Evolucionar: de Gastly (nivel 25).",
-            "Intercambiar: por un Machoke en Ciudad Celeste. (sólo para la versión japonesa)."
-        ],
         "Amarillo": [
             "Salvaje: Torre Pokémon (plantas 2 a 6 teniendo el Scope Silph en la mochila).",
             "Evolucionar: de Gastly (nivel 25)."
@@ -129,14 +120,6 @@
         "Ultraluna": [
             "Salvaje: Supermercado Ultraganga (Local Abandonado)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Torre Pokémon (plantas 2 a 6 teniendo el Scope Silph en la mochila).",
-            "Evolucionar: de Gastly (nivel 25)."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Torre Pokémon (plantas 2 a 6 teniendo el Scope Silph en la mochila).",
-            "Evolucionar: de Gastly (nivel 25)."
-        ],
         "Espada": [
             "Salvaje: Ruta 8, Pradera Radiante (lluvia, tormenta).",
             "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Cornisa de Artejo, nido al noroeste, Espejo del Gigante, nido al sur, Gorro del Gigante, nido al suroeste, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 2 y Ribera de Pistón, nido junto al muro de Ciudad Pistón.",
@@ -195,12 +178,7 @@
         "Escudo": "Cuando se tiene la sensación de ser observado en la oscuridad sin que haya nadie alrededor, seguro que es porque un Haunter anda cerca.",
         "Diamante Brillante": "Puede atravesar cualquier obstáculo. Se esconde en las paredes para espiar a sus enemigos.",
         "Perla Reluciente": "Utiliza su lengua gaseosa para absorberles la vida a sus víctimas. Acecha a sus presas en la oscuridad.",
-        "Leyendas: Arceus": "Es un espíritu maligno que puede atravesar paredes y aparecer en cualquier lugar. Se rumorea que aquellos a los que lame se debilitan día tras día y sucumben poco después.",
-        "Stadium": "Si tropiezas y caes sin razón aparente o escuchas un ruido cuando estás solo, será un HAUNTER.",
-        "Stadium 2": "Pokémon Oro insertado: Su lengua está hecha de gas. Si lame a su víctima, ésta sufrirá constantes temblores hasta que muera.\nPokémon Plata insertado: En la oscuridad total, donde no se ve nada, Haunter acecha a su próxima víctima.\n",
-        "Pokémon GO": "Haunter es un Pokémon peligroso. Si en la oscuridad ves a uno flotando y haciéndote señas, no te acerques. Este Pokémon intentará darte lametazos para robarte la energía.",
-        "Ranger": "Si Haunter desaparece, reaparecerá detrás de tu Pokémon y se lo llevará.",
-        "Sombras de Almia": "Ataca escupiendo ráfagas cargadas de sentimientos de odio."
+        "Leyendas: Arceus": "Es un espíritu maligno que puede atravesar paredes y aparecer en cualquier lugar. Se rumorea que aquellos a los que lame se debilitan día tras día y sucumben poco después."
     },
     "evolution": [
         [

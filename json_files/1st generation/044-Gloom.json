@@ -12,21 +12,14 @@
         "Hedor"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "65",
-        "def": "70",
-        "atk esp": "85",
-        "def esp": "75",
-        "speed": "40"
+        "hp": 60,
+        "atk": 65,
+        "def": 70,
+        "atk esp": 85,
+        "def esp": 75,
+        "speed": 40
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Rutas 12, 13, 14, 15.",
-            "Evolucionar: a Oddish (nivel 21)."
-        ],
-        "Azul": [
-            "Intercambiar: de Rojo, Pokémon Amarillo o Pokémon Oro, Plata y Cristal"
-        ],
         "Amarillo": [
             "Salvaje: Rutas 12, 13, 14, 15.",
             "Evolucionar: a Oddish (nivel 21)."
@@ -136,14 +129,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Oddish (nivel 21).",
-            "Salvaje: Rutas 12, 13, 14, 15 y 21"
-        ],
-        "Let's Go Eevee!": [
-            "Intercambiar: de Pokémon: Let's Go, Pikachu!.",
-            " GO Park: Transferir de Pokémon GO"
-        ],
         "Espada": [
             "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al suroeste y Ribera de Pistón, nido junto al muro de Ciudad Pistón.",
             "Aventura Dinamax ",
@@ -201,12 +186,7 @@
         "Escudo": "Lo que parece baba es realmente un néctar muy pegajoso que se adhiere sin remisión al tocarlo.",
         "Diamante Brillante": "La miel que emana de su boca posee un hedor insoportable que puede percibirse incluso a 2 km de distancia.",
         "Perla Reluciente": "La miel que emana de su boca posee un hedor insoportable que puede percibirse incluso a 2 km de distancia.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "El horrible olor que destila su flor se extiende en más de una milla a la redonda. Te debilita si lo respiras accidentalmente.",
-        "Stadium 2": "Pokémon Oro insertado: Segrega una miel pegajosa. Aunque es dulce, su olor es demasiado repulsivo como para acercarse.\nPokémon Plata insertado: Lo que parece ser baba es realmente miel. Es muy pegajoso y se adhiere tercamente si lo tocas.\n",
-        "Pokémon GO": "Gloom libera un fétido olor por el pistilo de la flor. Cuando está en peligro, el hedor se intensifica. Si este Pokémon está tranquilo y no se siente amenazado, no libera el desagradable olor.",
-        "Ranger": "Gloom lanza gas fétido y entierra su cuerpo, excepto la cabeza, en el suelo.",
-        "RubíZafiro": "Gloom babea una miel que tiene un olor realmente horrible, aunque parece ser que a él le gusta. De hecho, aspira los gases nocivos y libera más miel aún."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

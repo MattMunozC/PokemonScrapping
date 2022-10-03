@@ -12,20 +12,14 @@
         "Clorofila"
     ],
     "stats": {
-        "hp": "80",
-        "atk": "82",
-        "def": "83",
-        "atk esp": "100",
-        "def esp": "100",
-        "speed": "80"
+        "hp": 80,
+        "atk": 82,
+        "def": 83,
+        "atk esp": 100,
+        "def esp": 100,
+        "speed": 80
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Ivysaur (nivel 32)"
-        ],
-        "Azul": [
-            "Evolucionar: a Ivysaur (nivel 32)"
-        ],
         "Amarillo": [
             "Evolucionar: a Ivysaur (nivel 32)"
         ],
@@ -109,14 +103,6 @@
         "Ultraluna": [
             "Evolucionar: a Ivysaur (nivel 32)"
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Ivysaur (nivel 32)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Ivysaur (nivel 32)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Pokémon HOME: Transferir desde videojuegos anteriores",
             "Incursiones Dinamax: Bosque Concentración, nido al este , Llano Entrenamiento, nido al este ",
@@ -170,13 +156,7 @@
         "Escudo": "\nVenusaur: La flor que tiene en el lomo libera un delicado aroma, que tiene un efecto relajante en combate.\nVenusaur Gigamax: Esparce cantidades ingentes de polen con la fuerza de una erupción volcánica. Inhalado en exceso, puede provocar vahídos.",
         "Diamante Brillante": "Después de un día de lluvia, el aroma de la flor que tiene en el lomo se intensifica y atrae a otros Pokémon.",
         "Perla Reluciente": "Después de un día de lluvia, el aroma de la flor que tiene en el lomo se intensifica y atrae a otros Pokémon.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Se alimenta de energía solar. Cuando está tomando los rayos del sol, a menudo permanece quieto y silencioso.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "\nVenusaur: Venusaur tiene una flor enorme en el lomo que, según parece, adquiere unos colores muy vivos si está bien nutrido y le da mucho el sol. El aroma delicado de la flor tiene un efecto relajante en el ánimo de las personas.\nMega-Venusaur: Sus patas y lomo se han fortalecido para soportar el peso de la flor, que ha crecido considerablemente tras la megaevolución.",
-        "Ranger": "Venusaur escupe grandes semillas de las que brotan molestas lianas.",
-        "Trazos de luz": "Dispara semillas contra el oponente.",
-        "New Pokémon Snap": "El aroma de la enorme flor de su espalda tiene el poder de tranquilizar a otros Pokémon. Incluso los Pokémon más pequeñitos juegan a su lado en el agua con total despreocupación."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

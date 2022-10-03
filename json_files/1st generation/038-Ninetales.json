@@ -11,20 +11,14 @@
         "Sequía"
     ],
     "stats": {
-        "hp": "73",
-        "atk": "76",
-        "def": "75",
-        "atk esp": "81",
-        "def esp": "100",
-        "speed": "100"
+        "hp": 73,
+        "atk": 76,
+        "def": 75,
+        "atk esp": 81,
+        "def esp": 100,
+        "speed": 100
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: de Pokémon Azul, Pokémon Amarillo o Pokémon Plata."
-        ],
-        "Azul": [
-            "Evolucionar: de Vulpix (piedra fuego)"
-        ],
         "Amarillo": [
             "Evolucionar: de Vulpix (piedra fuego)"
         ],
@@ -112,13 +106,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            " Intercambiar: Pokémon: Let's Go, Eevee!",
-            "Especial: Transferir desde Pokémon GO."
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: de Vulpix (piedra fuego)"
-        ],
         "Espada": [
             "Salvaje: ",
             "Salvaje: Lago del Enfado (con clima soleado)",
@@ -175,12 +162,7 @@
         "Escudo": "Muy inteligente y vengativo. Agarrar una de sus colas podría traer 1000 años de mala suerte.",
         "Diamante Brillante": "Cuentan que llega a vivir hasta mil años y que sus nueve colas poseen poderes sobrenaturales.",
         "Perla Reluciente": "Cuentan que llega a vivir hasta mil años y que sus nueve colas poseen poderes sobrenaturales.",
-        "Leyendas: Arceus": "Posee un maravilloso pelaje con un brillo dorado. Cuentan que sus nueve largas colas encierran un poder sagrado y que puede vivir mil años.",
-        "Stadium": "Es extremadamente vengativo. Se dice que echa una maldición de 1.000 años a quien se burle de su cola.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Ninetales emite una siniestra luz a través de los brillantes ojos rojos que tiene, para conseguir controlar del todo la mente de su rival. Dicen que este Pokémon llega a vivir mil años.",
-        "RubíZafiro": "Ninetales emite una siniestra luz a través de los brillantes ojos que tiene, para conseguir controlar del todo la mente de su rival. Dicen que este Pokémon llega a vivir miles de años.",
-        "New Pokémon Snap": "Un Pokémon misterioso rodeado de mitos. Su gran intelecto solo es comparable a su enorme curiosidad, motivo por el cual observa fijamente a sus oponentes, analizando a fondo cada detalle."
+        "Leyendas: Arceus": "Posee un maravilloso pelaje con un brillo dorado. Cuentan que sus nueve largas colas encierran un poder sagrado y que puede vivir mil años."
     },
     "evolution": [
         [

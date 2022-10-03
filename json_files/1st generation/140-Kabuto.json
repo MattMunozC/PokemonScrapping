@@ -13,20 +13,14 @@
         "Armadura frágil"
     ],
     "stats": {
-        "hp": "30",
-        "atk": "80",
-        "def": "90",
-        "atk esp": "55",
-        "def esp": "45",
-        "speed": "55"
+        "hp": 30,
+        "atk": 80,
+        "def": 90,
+        "atk esp": 55,
+        "def esp": 45,
+        "speed": 55
     },
     "location": {
-        "Rojo": [
-            "Especial: Revivir el fósil domo en el Laboratorio de Isla Canela"
-        ],
-        "Azul": [
-            "Especial: Revivir el fósil domo en el Laboratorio de Isla Canela"
-        ],
         "Amarillo": [
             "Especial: Revivir el fósil domo en el Laboratorio de Isla Canela"
         ],
@@ -116,12 +110,6 @@
         "Ultraluna": [
             "Especial: Revivir el fósil domo en la Ruta 8"
         ],
-        "Let's Go Pikachu!": [
-            "Especial: Revivir el fósil domo en el Laboratorio de Isla Canela"
-        ],
-        "Let's Go Eevee!": [
-            "Especial: Revivir el fósil domo en el Laboratorio de Isla Canela"
-        ],
         "Espada": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores",
             "Intercambiar: de Pokémon Escudo"
@@ -172,10 +160,7 @@
         "Escudo": "Se consideraba extinto, pero, al parecer, existen determinadas zonas en las que es posible hallar ejemplares con facilidad.",
         "Diamante Brillante": "Se cree que habitó las playas hace 300 millones de años. Posee una dura coraza que lo protege.",
         "Perla Reluciente": "Se cree que habitó las playas hace 300 millones de años. Posee una dura coraza que lo protege.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Pokémon que fue reproducido desde un fósil encontrado en el fondo del mar. Incapaz de controlarse si enloquece.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Kabuto es un Pokémon regenerado a partir de un fósil. Aunque, en raras ocasiones, se han encontrado casos de ejemplares vivos. En sus 300 millones de años, este Pokémon no ha cambiado en nada."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

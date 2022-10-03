@@ -13,20 +13,14 @@
         "Piel seca"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "50",
-        "def": "35",
-        "atk esp": "115",
-        "def esp": "95",
-        "speed": "95"
+        "hp": 65,
+        "atk": 50,
+        "def": 35,
+        "atk esp": 115,
+        "def esp": 95,
+        "speed": 95
     },
     "location": {
-        "Rojo": [
-            "Especial: Intercambiar por un Poliwhirl en una casa a la izquierda del Centro Pokémon de Ciudad Celeste. Apodo: Lola. Nivel: Dependiendo del nivel del Poliwhirl."
-        ],
-        "Azul": [
-            "Especial: Intercambiar por un Poliwhirl en una casa a la izquierda del Centro Pokémon de Ciudad Celeste. Apodo: Lola. Nivel: Dependiendo del nivel del Poliwhirl."
-        ],
         "Amarillo": [
             "Intercambiar: de Rojo o Azul."
         ],
@@ -126,12 +120,6 @@
             "Salvaje: Gruta Unemar (como refuerzo)",
             "Poké Resort: Cayo Recreo, tras llegar a Akala"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Islas Espuma."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Islas Espuma."
-        ],
         "Espada": [
             "Salvaje: Campo Deslizante y Campo Bajocero. "
         ],
@@ -181,12 +169,7 @@
         "Escudo": "Los ejemplares que habitan en Galar poseen una voz tan delicada y hermosa que incluso cuentan con su propio grupo de admiradores.",
         "Diamante Brillante": "Sus gritos se parecen al lenguaje humano, pero es imposible entender lo que dice.",
         "Perla Reluciente": "Sus gritos se parecen al lenguaje humano, pero es imposible entender lo que dice.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Habla en un lenguaje extraño e incomprensible. Se lo conoce por su extraño meneo que hace bailar a la gente.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Jynx camina con ritmo, balanceándose y moviendo las caderas como si estuviera bailando. Realiza unos movimientos tan vistosos y atractivos que no hay quien pueda resistirse a mover las caderas.",
-        "Ranger": "Jynx contonea las caderas como si bailase al andar. ¡No dejes que te bese!",
-        "New Pokémon Snap": "Se dice que Jynx puede hacer realidad las cosas solo con desearlas. Desde luego, yo creo que es innegable que andaba detrás de los extraños sucesos del Valle Algente."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

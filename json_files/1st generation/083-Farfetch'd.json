@@ -13,20 +13,14 @@
         "Competitivo"
     ],
     "stats": {
-        "hp": "52",
-        "atk": "90",
-        "def": "55",
-        "atk esp": "58",
-        "def esp": "62",
-        "speed": "60"
+        "hp": 52,
+        "atk": 90,
+        "def": 55,
+        "atk esp": 58,
+        "def esp": 62,
+        "speed": 60
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: por un Spearow en Ciudad Carmín"
-        ],
-        "Azul": [
-            "Intercambiar: por un Spearow (por un Pidgey en la versión japonesa) en Ciudad Carmín"
-        ],
         "Amarillo": [
             "Salvaje: Ruta 12 y Ruta 13"
         ],
@@ -118,12 +112,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 12 y Ruta 13"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 12 y Ruta 13"
-        ],
         "Espada": [
             "Especial: Transferir desde Pokémon HOME",
             "Intercambio: Intercambio con Tatiana por Farfetch'd de Galar. "
@@ -177,10 +165,7 @@
         "Escudo": "Combate empuñando un puerro como arma. La forma de blandirlo es tan variada que ha llegado a generar sus propias escuelas.",
         "Diamante Brillante": "No puede vivir sin el puerro que lleva, así que lo protege de sus atacantes con todas sus fuerzas.",
         "Perla Reluciente": "No puede vivir sin el puerro que lleva, así que lo protege de sus atacantes con todas sus fuerzas.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Lleva siempre el tallo de una planta no identificada. Se dice que usa el tallo para hacer un nido o como arma.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Al parecer, entre los puerros que suelen llevar los Farfetch'd, los hay mejores y peores. A estos Pokémon se les ha visto luchar entre ellos por los mejores puerros."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

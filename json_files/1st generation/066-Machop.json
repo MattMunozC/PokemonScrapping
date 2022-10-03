@@ -12,20 +12,14 @@
         "Impasible"
     ],
     "stats": {
-        "hp": "70",
-        "atk": "80",
-        "def": "50",
-        "atk esp": "35",
-        "def esp": "35",
-        "speed": "35"
+        "hp": 70,
+        "atk": 80,
+        "def": 50,
+        "atk esp": 35,
+        "def esp": 35,
+        "speed": 35
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Túnel Roca y Calle Victoria"
-        ],
-        "Azul": [
-            "Salvaje: Túnel Roca y Calle Victoria"
-        ],
         "Amarillo": [
             "Salvaje: Ruta 10, Túnel Roca (sótano 1)"
         ],
@@ -123,12 +117,6 @@
         "Ultraluna": [
             "Salvaje: Colina Dequilate."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Túnel Roca y Calle Victoria"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Túnel Roca y Calle Victoria"
-        ],
         "Espada": [
             "Salvaje: Ruta 3, Área Silvestre: Lago Milotic (sur)",
             "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew."
@@ -182,12 +170,7 @@
         "Escudo": "Siempre rebosante de energía, pasa el tiempo levantando piedras para hacerse aún más fuerte.",
         "Diamante Brillante": "Levanta Graveler para entrenar los músculos de todo el cuerpo. Practica todas las artes marciales.",
         "Perla Reluciente": "Por más que haga ejercicio, nunca tiene agujetas. Vive lejos de los humanos, en las montañas.",
-        "Leyendas: Arceus": "A pesar de tener la estatura de un niño, puede lanzar por los aires a un hombre fornido sin problema. Para fortalecerse aún más, entrena llevando Graveler a sus espaldas.",
-        "Stadium": "Todo su cuerpo está cubierto de músculos, así que puede levantar bultos en cualquier parte. Puede tumbar a cien adultos.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Gracias a su portentosa musculatura, Machop no se agota por mucho esfuerzo que haga. Este Pokémon es tan fuerte que puede derrotar a cien personas adultas de una sola vez.",
-        "Ranger": "Machop esconde una enorme fuerza en su cuerpecito. Rompe rocas fácilmente.",
-        "RubíZafiro": "Machop tiene una musculatura especial que nunca se agota por mucho que la use. Este Pokémon es tan fuerte que puede derrotar a cien personas adultas de una sola vez."
+        "Leyendas: Arceus": "A pesar de tener la estatura de un niño, puede lanzar por los aires a un hombre fornido sin problema. Para fortalecerse aún más, entrena llevando Graveler a sus espaldas."
     },
     "evolution": [
         [

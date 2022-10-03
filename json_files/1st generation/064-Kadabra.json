@@ -12,22 +12,14 @@
         "Muro mágico"
     ],
     "stats": {
-        "hp": "40",
-        "atk": "35",
-        "def": "30",
-        "atk esp": "120",
-        "def esp": "70",
-        "speed": "105"
+        "hp": 40,
+        "atk": 35,
+        "def": 30,
+        "atk esp": 120,
+        "def esp": 70,
+        "speed": 105
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Mazmorra Rara.",
-            "Evolucionar: a Abra (nivel 16)"
-        ],
-        "Azul": [
-            "Salvaje: Mazmorra Rara.",
-            "Evolucionar: a Abra (nivel 16)"
-        ],
         "Amarillo": [
             "Salvaje: Ruta 8.",
             "Evolucionar: a Abra (nivel 16)"
@@ -131,14 +123,6 @@
         "Ultraluna": [
             "Evolucionar: a Abra (nivel 16)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 7 y Ruta 8.",
-            "Evolucionar: a Abra (nivel 16)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 7 y Ruta 8.",
-            "Evolucionar: a Abra (nivel 16)"
-        ],
         "Espada": [
             "Salvaje: Prado Reverencia y Humedal Frescor.",
             "Aventura Dinamax ",
@@ -198,11 +182,7 @@
         "Escudo": "La potencia de su telequinesis es inmensa. Acumula poder psíquico en la estrella de la frente como preparativo de cara a su evolución.",
         "Diamante Brillante": "Su presencia provoca la aparición de una extraña sombra en los televisores. Se dice que verla trae mala suerte.",
         "Perla Reluciente": "Cuando utiliza su poder psíquico, emite poderosas ondas alfa que pueden destruir instrumentos de precisión.",
-        "Leyendas: Arceus": "Corre el rumor de que se trata de un niño con poderes transformado, mas desconozco si es cierto o no. Creemos que la cuchara que lleva amplifica sus ondas cerebrales.",
-        "Stadium": "Cuando utiliza su poder mental, todas las células de su cerebro trabajan juntas para generar poderosas ondas alfa.",
-        "Stadium 2": "Pokémon Oro insertado: Si usa sus habilidades, emite ondas alfa especiales que hace que las máquinas fallen.\nPokémon Plata insertado: Es muy fuerte espiritualmente. Cuanto mayor sea el peligro, mayor será su poder psíquico.\n",
-        "Pokémon GO": "Kadabra emite unas ondas alfa muy particulares que provocan dolores de cabeza a los demás. Solo aquellos que tengan gran poder mental podrán optar a ser Entrenador de este Pokémon.",
-        "RubíZafiro": "Kadabra lleva siempre una cuchara de plata en la mano, que usa para amplificar las ondas alfa de su cerebro. Dicen que sin cuchara, sus poderes de telequinesia se reducen a la mitad."
+        "Leyendas: Arceus": "Corre el rumor de que se trata de un niño con poderes transformado, mas desconozco si es cierto o no. Creemos que la cuchara que lleva amplifica sus ondas cerebrales."
     },
     "evolution": [
         [

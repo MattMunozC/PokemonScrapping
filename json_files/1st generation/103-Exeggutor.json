@@ -12,20 +12,14 @@
         "Cosecha"
     ],
     "stats": {
-        "hp": "95",
-        "atk": "95",
-        "def": "85",
-        "atk esp": "125",
-        "def esp": "75",
-        "speed": "55"
+        "hp": 95,
+        "atk": 95,
+        "def": 85,
+        "atk esp": 125,
+        "def esp": 75,
+        "speed": 55
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Exeggcute (piedra hoja)"
-        ],
-        "Azul": [
-            "Evolucionar: a Exeggcute (piedra hoja)"
-        ],
         "Amarillo": [
             "Evolucionar: a Exeggcute (piedra hoja)"
         ],
@@ -111,14 +105,6 @@
         "Ultraluna": [
             "Evolucionar: a Exeggcute (piedra hoja en el Ultraespacio)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 23",
-            "Evolucionar: a Exeggcute (piedra hoja)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 23",
-            "Evolucionar: a Exeggcute (piedra hoja)"
-        ],
         "Espada": [
             "Salvaje: Mar Gimnástico  y Mar Islejos ",
             "Incursiones Dinamax: Humedal Frescor , Bosque Concentración , Playa Desafío , Llano Entrenamiento  y Mar Andana ",
@@ -174,11 +160,7 @@
         "Escudo": "Puede lanzar ataques psíquicos de gran potencia si sus tres cabezas se ponen de acuerdo. Cuando se nubla el cielo, sus movimientos se ralentizan.",
         "Diamante Brillante": "Se le llama la Selva Andante. Si una cabeza crece demasiado, se cae y forma un Exeggcute.",
         "Perla Reluciente": "Se le llama la Selva Andante. Si una cabeza crece demasiado, se cae y forma un Exeggcute.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Cada una de las frutas es una cabeza que piensa por su cuenta. Se dice que si una se cae, se convierte en un EXEGGCUTE.",
-        "Stadium 2": "Pokémon Oro insertado: Si se le cae una cabeza, emite una señal telepática para ir por más y formar un grupo de Exeggcute.\nPokémon Plata insertado: Sus tres cabezas piensan de forma independiente. Sin embargo, son amigas y no suelen discutir nunca.\n",
-        "Pokémon GO": "Exeggutor es originario del trópico. Cuando se expone a un sol intenso, le empiezan a crecer las cabezas. Hay quien dice que, cuando las cabezas caen al suelo, se unen para formar un Exeggcute.",
-        "New Pokémon Snap": "Sus tres cabezas se llevan bien entre sí, aunque piensan de forma independiente. Suelen dormir junto a las palmeras de la playa para camuflarse entre ellas y pasar desapercibidos."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

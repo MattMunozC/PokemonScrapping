@@ -13,20 +13,14 @@
         "Humedad"
     ],
     "stats": {
-        "hp": "35",
-        "atk": "70",
-        "def": "55",
-        "atk esp": "45",
-        "def esp": "55",
-        "speed": "25"
+        "hp": 35,
+        "atk": 70,
+        "def": 55,
+        "atk esp": 45,
+        "def esp": 55,
+        "speed": 25
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Monte Moon y Zona Safari"
-        ],
-        "Azul": [
-            "Salvaje: Monte Moon y Zona Safari"
-        ],
         "Amarillo": [
             "Salvaje: Monte Moon y Zona Safari"
         ],
@@ -126,14 +120,6 @@
         "Ultraluna": [
             "Salvaje: Colina Saltagua y Jungla Umbría (por el día)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Monte Moon",
-            "Especial: Transferir desde Pokémon GO."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Monte Moon",
-            "Especial: Transferir desde Pokémon GO."
-        ],
         "Espada": [
             "Paras no se puede conseguir en este videojuego."
         ],
@@ -185,11 +171,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Tiene en el lomo unas setas parásitas llamadas tochukaso que crecen con él.",
         "Perla Reluciente": "Tiene en el lomo unas setas parásitas llamadas tochukaso que crecen con él.",
-        "Leyendas: Arceus": "Se suele dejar ver en bosques húmedos, cerca de las raíces de los árboles. Nace sin las setas tochukaso del lomo, que brotan a medida que crece.",
-        "Stadium": "Crece succionando nutrientes de las raíces de los árboles. Las setas de su espalda crecen sacando extractos de su anfitrión.",
-        "Stadium 2": "Pokémon Oro insertado: Al crecer, unas setas orientales llamadas tochukaso comienzan a florecer en su lomo.\nPokémon Plata insertado: Está cubierto de esporas de seta al nacer. A medida que crece, las setas brotan de su lomo.\n",
-        "Pokémon GO": "Paras lleva dos setas parásitas a cuestas llamadas tochukaso. Estas crecen alimentándose de los nutrientes de este Pokémon de tipo bicho y planta que les sirve de huésped. Las setas se usan como elixir de vida.",
-        "Ranger": "Paras tratará de cortar la línea de captura con sus pinzas."
+        "Leyendas: Arceus": "Se suele dejar ver en bosques húmedos, cerca de las raíces de los árboles. Nace sin las setas tochukaso del lomo, que brotan a medida que crece."
     },
     "evolution": [
         [

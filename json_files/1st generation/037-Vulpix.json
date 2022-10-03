@@ -11,20 +11,14 @@
         "Sequía"
     ],
     "stats": {
-        "hp": "38",
-        "atk": "41",
-        "def": "40",
-        "atk esp": "50",
-        "def esp": "65",
-        "speed": "65"
+        "hp": 38,
+        "atk": 41,
+        "def": 40,
+        "atk esp": 50,
+        "def esp": 65,
+        "speed": 65
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: de Pokémon Azul, Pokémon Amarillo o Pokémon Plata"
-        ],
-        "Azul": [
-            "Salvaje: Ruta 7, Ruta 8 y Mansión Pokémon"
-        ],
         "Amarillo": [
             "Especial: Canjear en el Casino Rocket por 1000 fichas"
         ],
@@ -114,13 +108,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Intercambiar: de Pokémon: Let's Go, Eevee!",
-            "Especial: Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 5, Ruta 6, Ruta 7 y Ruta 8"
-        ],
         "Espada": [
             "Salvaje:",
             "Ruta 3 y Estadio de Pistón",
@@ -175,11 +162,7 @@
         "Escudo": "Su pelaje se va volviendo más suave, lustroso y bello a medida que le crecen las seis colas. Al abrazarlo, emana una ligera calidez.",
         "Diamante Brillante": "Es capaz de controlar bolas de fuego. A medida que crece, sus seis colas se multiplican al dividirse desde la punta.",
         "Perla Reluciente": "Es capaz de controlar bolas de fuego. A medida que crece, sus seis colas se multiplican al dividirse desde la punta.",
-        "Leyendas: Arceus": "Expulsa las llamas de su interior en forma de bolas de fuego. La cola blanca que tiene de pequeño se divide en seis puntas a medida que crece.",
-        "Stadium": "Una única cola blanca se divide en seis hermosas colas. Cuando crece, le salen más colas.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Al nacer, Vulpix tiene una cola blanca que se divide en seis si recibe cariño por parte de su Entrenador. Las seis colas se le rizan de forma majestuosa.",
-        "RubíZafiro": "Al nacer, Vulpix tiene una cola blanca que se divide en seis si recibe cariño por parte de su Entrenador. Las seis colas se le rizan de manera majestuosa."
+        "Leyendas: Arceus": "Expulsa las llamas de su interior en forma de bolas de fuego. La cola blanca que tiene de pequeño se divide en seis puntas a medida que crece."
     },
     "evolution": [
         [

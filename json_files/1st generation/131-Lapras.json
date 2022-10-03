@@ -13,20 +13,14 @@
         "Hidratación"
     ],
     "stats": {
-        "hp": "130",
-        "atk": "85",
-        "def": "80",
-        "atk esp": "85",
-        "def esp": "95",
-        "speed": "60"
+        "hp": 130,
+        "atk": 85,
+        "def": 80,
+        "atk esp": 85,
+        "def esp": 95,
+        "speed": 60
     },
     "location": {
-        "Rojo": [
-            "Regalo: de un hombre en la sexta planta de Silph S. A. (solo uno)"
-        ],
-        "Azul": [
-            "Regalo: de un hombre en la sexta planta de Silph S. A. (solo uno)"
-        ],
         "Amarillo": [
             "Regalo: de un hombre en la sexta planta de Silph S. A. (solo uno)"
         ],
@@ -129,14 +123,6 @@
             "Surfeando: Arrecife de Poni",
             "Poké Resort: Cayo Recreo, tras llegar a Poni"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 19 y Ruta 20; solo con uso de colonia y/o alta racha de capturas",
-            "Regalo: de un hombre en la séptima planta de Silph S. A. (solo uno)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 19 y Ruta 20; solo con uso de colonia y/o alta racha de capturas",
-            "Regalo: de un hombre en la séptima planta de Silph S. A. (solo uno)"
-        ],
         "Espada": [
             "Pokémon salvaje: Ruta 2, Ruta 9, Lago del Enfado y Lago Milotic (norte)",
             "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Espejo del Gigante, nido en la laguna, Gorro del Gigante, nido en el centro, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al puente (norte), Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua, Llanura Pétrea, nido al este 1 y Valle Entrepuentes, nido en la laguna"
@@ -189,12 +175,7 @@
         "Escudo": "\nLapras: Nada sin problema en aguas heladas gracias a la soberbia resistencia al frío que posee. Su tersa piel es ligeramente fría al tacto.\nLapras Gigamax: Surca los mares tranquilamente y destroza los icebergs que encuentra a su paso formando a su alrededor un gran anillo de cristales de hielo.",
         "Diamante Brillante": "Le encanta surcar los mares con gente y Pokémon sobre el lomo. Entiende el lenguaje humano.",
         "Perla Reluciente": "Le encanta surcar los mares con gente y Pokémon sobre el lomo. Entiende el lenguaje humano.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Capaz de entender el lenguaje humano, se divierte llevando gente en su espalda. Está en peligro de extinción.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Por culpa de la gente, Lapras está casi en extinción. Dicen que, al anochecer, se pone a cantar quejicoso mientras busca a los miembros de su especie que puedan quedar.",
-        "Ranger": "Si te montas en Lapras, te llevará de crucero por los mares.",
-        "New Pokémon Snap": "Son tan inteligentes que comprenden el lenguaje humano, y su hermoso canto es una delicia para el oído. Cuando el mar está en calma, pueden verse nadando con sus crías."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

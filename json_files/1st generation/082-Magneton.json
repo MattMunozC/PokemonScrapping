@@ -13,22 +13,14 @@
         "Cálculo final"
     ],
     "stats": {
-        "hp": "50",
-        "atk": "60",
-        "def": "95",
-        "atk esp": "120",
-        "def esp": "70",
-        "speed": "70"
+        "hp": 50,
+        "atk": 60,
+        "def": 95,
+        "atk esp": 120,
+        "def esp": 70,
+        "speed": 70
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Central Energía, Mazmorra Rara (planta baja).",
-            "Evolucionar: a Magnemite (nivel 30)."
-        ],
-        "Azul": [
-            "Salvaje: Central Energía, Mazmorra Rara (planta baja).",
-            "Evolucionar: a Magnemite (nivel 30)."
-        ],
         "Amarillo": [
             "Salvaje: Central Energía.",
             "Evolucionar: a Magnemite (nivel 30)."
@@ -130,14 +122,6 @@
         "Ultraluna": [
             "Evolucionar: a Magnemite (nivel 30)."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Central Energía.",
-            "Evolucionar: a Magnemite (nivel 30)."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Central Energía.",
-            "Evolucionar: a Magnemite (nivel 30)."
-        ],
         "Espada": [
             "Salvaje: Playa Desafío, Llano Entrenamiento y Ruta Desafío",
             "Incursiones Dinamax: Prado Reverencia, Bosque Concentración, Playa Desafío, Cueva Contienda, Cueva Tenacidad, Mar Andana y Mar Meloso",
@@ -192,13 +176,7 @@
         "Escudo": "Emite de forma constante una potente fuerza magnética que causa estragos en prácticamente cualquier ordenador al que se acerque.",
         "Diamante Brillante": "Realmente son tres Magnemite unidos por un campo magnético. Cuando se juntan varios, provocan tormentas magnéticas.",
         "Perla Reluciente": "Realmente son tres Magnemite unidos por un campo magnético. Cuando se juntan varios, provocan tormentas magnéticas.",
-        "Leyendas: Arceus": "Son tres Magnemite que evolucionaron al unirse. Su fuerte magnetismo puede causar averías en el equipo de investigación, lo que es un engorro.",
-        "Stadium": "Formado por MAGNEMITE que se unen cuando el número de puntos negros del sol aumenta. Desprende energía de alto voltaje.",
-        "Stadium 2": "Pokémon Oro insertado: Los Magnemite están unidos por un magnetismo tan fuerte, que repele la humedad que hay a su alrededor.\nPokémon Plata insertado: Tres Magnemite se enlazan por una intensa fuerza magnética. Si te acercas, te dolerán los oídos.\n",
-        "Pokémon GO": "Magneton emite una fuerte energía magnética que causa estragos en los instrumentos mecánicos. Por ello, en las ciudades se avisa con sirenas cuando hay concentraciones de estos Pokémon.",
-        "Ranger": "Magneton genera electricidad con su magnetismo para recargar tu Capturador.",
-        "Sombras de Almia": "Libera electricidad con el cuerpo y se protege con una barrera eléctrica.",
-        "RubíZafiro": "Magneton emite una fuerte energía magnética, fatal para los instrumentos electrónicos y de precisión. Éste es el motivo por el que, dicen, mucha gente mantiene a este Pokémon en Poké ball."
+        "Leyendas: Arceus": "Son tres Magnemite que evolucionaron al unirse. Su fuerte magnetismo puede causar averías en el equipo de investigación, lo que es un engorro."
     },
     "evolution": [
         [

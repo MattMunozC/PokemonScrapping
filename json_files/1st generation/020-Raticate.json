@@ -12,22 +12,14 @@
         "Entusiasmo"
     ],
     "stats": {
-        "hp": "55",
-        "atk": "81",
-        "def": "60",
-        "atk esp": "50",
-        "def esp": "70",
-        "speed": "97"
+        "hp": 55,
+        "atk": 81,
+        "def": 60,
+        "atk esp": 50,
+        "def esp": 70,
+        "speed": 97
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Ruta 16, Ruta 17, Ruta 18 y Ruta 21",
-            "Evolucionar: a Rattata (nivel 20)"
-        ],
-        "Azul": [
-            "Salvaje: Ruta 16, Ruta 17, Ruta 18 y Ruta 21",
-            "Evolucionar: a Rattata (nivel 20)"
-        ],
         "Amarillo": [
             "Salvaje: Ruta 9, Ruta 10, Ruta 11, Ruta 16, Ruta 18 y Ruta 21 y Mansión Pokémon",
             "Evolucionar: a Rattata (nivel 20)"
@@ -130,16 +122,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir de Pokémon Rubí Omega o Zafiro Alfa"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 7, Ruta 8, Ruta 9, Ruta 10, Ruta 11, Ruta 16, Ruta 18, Ruta 21 y Mansión Pokémon",
-            "Evolucionar: a Rattata (nivel 20)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 7, Ruta 8, Ruta 9, Ruta 10, Ruta 11, Ruta 16, Ruta 18, Ruta 21 y Mansión Pokémon",
-            "Evolucionar: a Rattata (nivel 20)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Raticate no se puede conseguir en este videojuego."
         ],
@@ -193,12 +175,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Roe objetos duros para limar sus incisivos, que nunca dejan de crecer. Con ellos puede destruir incluso paredes de hormigón.",
         "Perla Reluciente": "Roe objetos duros para limar sus incisivos, que nunca dejan de crecer. Con ellos puede destruir incluso paredes de hormigón.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Si ataca, se mantiene sobre las patas traseras, muestra sus colmillos y grita intimidando a su enemigo.",
-        "Stadium 2": "Pokémon Oro insertado: Sus bigotes le ayudan a guardar el equilibrio. Sus colmillos no dejan de crecer, y los reduce mordiendo.\nPokémon Plata insertado: Roe cualquier cosa con sus duros colmillos. Puede hasta derribar ciertos edificios royéndolos.\n",
-        "Pokémon GO": "A Raticate le crecen los incisivos firmes y fuertes. Para mantenerlos afilados roe troncos y rocas, e incluso las paredes de las casas.",
-        "Ranger": "Raticate puede romper vallas de metal con sus afilados colmillos.",
-        "Sombras de Almia": "Ataca con fuertes mordiscos."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

@@ -10,22 +10,14 @@
     ],
     "hidden abilities": "None",
     "stats": {
-        "hp": "45",
-        "atk": "25",
-        "def": "50",
-        "atk esp": "25",
-        "def esp": "25",
-        "speed": "35"
+        "hp": 45,
+        "atk": 25,
+        "def": 50,
+        "atk esp": 25,
+        "def esp": 25,
+        "speed": 35
     },
     "location": {
-        "Rojo": [
-            "Salvaje:: Bosque Verde, Ruta 24 y Ruta 25",
-            "Evolucionar: a Weedle (nivel 7)"
-        ],
-        "Azul": [
-            "Salvaje: Bosque Verde y Ruta 25",
-            "Evolucionar: a Weedle (nivel 7)"
-        ],
         "Amarillo": [
             "Intercambiar: de Pokémon Rojo y Azul, Pokémon Oro y Plata o Pokémon Cristal"
         ],
@@ -128,14 +120,6 @@
         "Ultraluna": [
             "Criar: de Beedrill y evolucionar a Weedle (nivel 7)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Bosque Verde",
-            "Evolucionar: a Weedle (nivel 7)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Bosque Verde",
-            "Evolucionar: a Weedle (nivel 7)"
-        ],
         "Espada": [
             "Kakuna no se puede conseguir en este videojuego."
         ],
@@ -185,10 +169,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Se esconde de sus atacantes entre las ramas de los árboles mientras espera a evolucionar.",
         "Perla Reluciente": "Se esconde de sus atacantes entre las ramas de los árboles mientras espera a evolucionar.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Por su virtual inmovilidad, puede parecer que está muerto. Dentro, sin embargo, está surgiendo un nuevo cuerpo.",
-        "Stadium 2": "Pokémon Oro insertado: A partir de esta forma, crece hasta ser adulto. Su cuerpo se ablanda mientras su capullo se fortalece.\nPokémon Plata insertado: Aunque sea un capullo, es capaz de moverse. Si le atacan extenderá su púa venenosa.\n",
-        "Pokémon GO": "Kakuna permanece prácticamente inmóvil al encaramarse a los árboles, aunque la actividad interna de su organismo tiene un ritmo frenético, pues se prepara para su evolución. Prueba de esto es la alta temperatura de su caparazón."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

@@ -11,22 +11,14 @@
         "Poder solar"
     ],
     "stats": {
-        "hp": "39",
-        "atk": "52",
-        "def": "43",
-        "atk esp": "60",
-        "def esp": "50",
-        "speed": "65"
+        "hp": 39,
+        "atk": 52,
+        "def": 43,
+        "atk esp": 60,
+        "def esp": 50,
+        "speed": 65
     },
     "location": {
-        "Rojo": [
-            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. Te da a elegir el Profesor Oak en su laboratorio de pueblo Paleta. Solo uno, al nivel 5.",
-            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al alto mando."
-        ],
-        "Azul": [
-            "Especial: Es uno de los Pokémon iniciales que puedes conseguir al inicio de la aventura. Te da a elegir el Profesor Oak en su laboratorio de pueblo Paleta. Solo uno, al nivel 5.",
-            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al alto mando."
-        ],
         "Amarillo": [
             "Especial: Te lo entrega un chico en la ruta 24, arriba del puente pepita, al norte de ciudad Celeste. Solo uno, al nivel 10.",
             "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al alto mando."
@@ -117,16 +109,6 @@
         "Ultraluna": [
             "Escáner insular: Ruta 3 (domingo)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 3, Ruta 4 y Túnel Roca, más probable con uso de colonia y/o alta racha de capturas",
-            "Especial: Lo entrega un chico en la Ruta 24, si se han capturado 50 o más Pokémon",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 3, Ruta 4 y Túnel Roca, más probable con uso de colonia y/o alta racha de capturas",
-            "Especial: Lo entrega un chico en la Ruta 24, si se han capturado 50 o más Pokémon",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Incursiones Dinamax: Cornisa de Artejo, nido al sur y Lago del Enfado, nido al oeste.",
             "Especial: Lo regala Lionel en su casa de Pueblo Yarda, tras vencer en la Liga Pokémon (solo uno, posee factor Gigamax)"
@@ -178,13 +160,7 @@
         "Escudo": "Este Pokémon nace con una llama en la punta de la cola. Si se le apagara, fallecería.",
         "Diamante Brillante": "La llama de la punta de la cola es un indicador de su salud. Si Charmander está sano, arderá con más fuerza.",
         "Perla Reluciente": "La llama de la punta de la cola es un indicador de su salud. Si Charmander está sano, arderá con más fuerza.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Los recién nacidos tienen colas llameantes. Se dice que los bebés, no familiarizados con el fuego, se queman a sí mismos.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "La llama que tiene en la punta de la cola arde según sus sentimientos. Llamea levemente cuando está alegre y arde vigorosamente cuando está enfadado.",
-        "Ranger": "Charmander se sacude el escupir fuego. Es la viva imagen de la vitalidad.",
-        "Sombras de Almia": "Ataca escupiendo brasas.",
-        "New Pokémon Snap": "Los Charmander viven en grupos, cuidando de que no se apaguen las llamas de las colas de sus compañeros. Si ves a uno solo, busca a los demás, que no andarán muy lejos."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

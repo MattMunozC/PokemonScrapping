@@ -11,22 +11,14 @@
         "Cobardía"
     ],
     "stats": {
-        "hp": "20",
-        "atk": "10",
-        "def": "55",
-        "atk esp": "15",
-        "def esp": "20",
-        "speed": "80"
+        "hp": 20,
+        "atk": 10,
+        "def": 55,
+        "atk esp": 15,
+        "def esp": 20,
+        "speed": 80
     },
     "location": {
-        "Rojo": [
-            "Pescando: con caña vieja o supercaña, en las rutas 12, 13, 17, 18 y Ciudad Fucsia.",
-            "Especial: Un hombre en el centro Pokémon en la entrada oeste del Monte Moon lo vende por 500, al nivel 5."
-        ],
-        "Azul": [
-            "Pescando: con caña vieja o supercaña, en las rutas 12, 13, 17, 18 y Ciudad Fucsia.",
-            "Especial: Un hombre en el centro Pokémon en la entrada oeste del Monte Moon lo vende por 500, al nivel 5."
-        ],
         "Amarillo": [
             "Pescando: con caña vieja o caña buena, en Ciudad Fucsia y Zona Safari",
             "Especial: Un hombre en el centro Pokémon en la entrada oeste del Monte Moon lo vende por 500, al nivel 5."
@@ -130,14 +122,6 @@
         "Ultraluna": [
             "Pescando: Rutas 7, 8, 9, 13, 14, 15, Afueras de Akala, Colina Saltagua, Bahía Kalae, Parque de Malíe, Mar de Melemele, Pueblo Ohana, Arrecife de Poni, Pendiente de Poni, Jardines de Poni, Aldea Marina, Gruta Unemar y Cañón de Poni."
         ],
-        "Let's Go Pikachu!": [
-            "Especial: Un hombre en el centro Pokémon en la entrada oeste del Monte Moon lo vende por 500, al nivel 5.",
-            "Surcaaguas: Rutas 4, 6, 12, 13, 18, 19, 20, 21, 22, 23, 24, 25, Islas Espuma y Cueva Celeste."
-        ],
-        "Let's Go Eevee!": [
-            "Especial: Un hombre en el centro Pokémon en la entrada oeste del Monte Moon lo vende por 500, al nivel 5.",
-            "Surcaaguas: Rutas 4, 6, 12, 13, 18, 19, 20, 21, 22, 23, 24, 25, Islas Espuma y Cueva Celeste."
-        ],
         "Espada": [
             "Pescando: Ruta 2, Ruta 4, Ruta 5, Ruta 6, Ojo de Axew, Valle Entrepuentes, Lago Axew (este), Ciudad Pistón, Lago Milotic (sur), Lago Milotic (norte), Bosque Oniria.",
             "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna."
@@ -190,13 +174,7 @@
         "Escudo": "Este Pokémon débil y patético se limita a dejarse llevar por la corriente cuando esta tiene fuerza.",
         "Diamante Brillante": "Dicen que es el Pokémon más débil del mundo. No se sabe cómo ha logrado sobrevivir.",
         "Perla Reluciente": "Como es incapaz de nadar contra la más mínima corriente, siempre termina siendo arrastrado. Se pasa el día chapoteando sin razón alguna.",
-        "Leyendas: Arceus": "Es débil, inútil y patético, pero se ha constatado que tiene tal resistencia que tolera hasta aguas ponzoñosas, por lo que habita en todas partes.",
-        "Stadium": "Sea cual sea su oponente, o el horrible ataque que reciba, lo único que hace es dedicarse a SALPICAR.",
-        "Stadium 2": "Pokémon Oro insertado: Salta y chapotea sin razón alguna. Es una presa fácil para Pidgeotto, que lo atrapa en pleno salto.\nPokémon Plata insertado: Un Pokémon desvalido y patético. A veces es capaz de saltar alto, pero nunca más de 2 metros.\n",
-        "Pokémon GO": "Magikarp es el triste ejemplo de un Pokémon capaz únicamente de saltar y salpicar. Esta conducta llevó a científicos a estudiarlo en profundidad.",
-        "Ranger": "Parece que Magikarp solo es capaz de dejarse caer indefenso.",
-        "RubíZafiro": "Magikarp es prácticamente inútil en combate; solo sirve para salpicar, y se le considera muy débil. Con todo, en realidad es un Pokémon muy práctico. Sobrevive en cualquier medio acuático, aunque esté contaminado.",
-        "New Pokémon Snap": "Como habrás visto, los Magikarp suelen chapotear cerca de las orillas. Aunque su aspecto sea algo penoso, su fuerza vital puede resultar sorprendente a veces."
+        "Leyendas: Arceus": "Es débil, inútil y patético, pero se ha constatado que tiene tal resistencia que tolera hasta aguas ponzoñosas, por lo que habita en todas partes."
     },
     "evolution": [
         [

@@ -12,22 +12,14 @@
         "Nado rápido"
     ],
     "stats": {
-        "hp": "50",
-        "atk": "52",
-        "def": "48",
-        "atk esp": "65",
-        "def esp": "50",
-        "speed": "55"
+        "hp": 50,
+        "atk": 52,
+        "def": 48,
+        "atk esp": 65,
+        "def esp": 50,
+        "speed": 55
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Islas Espuma (sólo planta baja).",
-            "Pescando (Supercaña): Zona Safari, Ciudad Celeste, rutas 24 y 25."
-        ],
-        "Azul": [
-            "Salvaje: Islas Espuma (sólo planta baja).",
-            "Pescando (Supercaña): Zona Safari, Ciudad Celeste, rutas 24 y 25."
-        ],
         "Amarillo": [
             "Salvaje:",
             "Surf: Ruta 6."
@@ -135,12 +127,6 @@
         "Ultraluna": [
             "Salvaje: Colina Saltagua, Parque de Malíe, Gruta Unemar, Colina Dequilate y Cueva Costera."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Rutas 4, 5, 6, 17, 24, 25 y Cueva Celeste."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 4, 5, 6, 17, 24, 25 y Cueva Celeste."
-        ],
         "Espada": [
             "Salvaje: Cueva Contienda y Playa Desafío."
         ],
@@ -194,13 +180,7 @@
         "Escudo": "Sus dolores de cabeza empeoran a medida que aumenta su nivel de estrés. Su increíble poder psíquico puede causar estragos a su alrededor.",
         "Diamante Brillante": "Cuando su jaqueca se intensifica, es capaz de utilizar unos poderes misteriosos. Sin embargo, nunca recuerda haberlos usado.",
         "Perla Reluciente": "Posee extraños poderes, pero nunca recuerda haberlos usado, por lo que tiene siempre una expresión de desconcierto.",
-        "Leyendas: Arceus": "Sufre constantes jaquecas. Cuando el dolor se intensifica, libera sin querer su poder interior, por lo que estamos investigando cómo calmarlo.",
-        "Stadium": "Parece totalmente inconsciente y despreocupado. Pero si su crónico dolor de cabeza empeora, muestra raros poderes.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Psyduck tiene un extraño poder, que consiste en generar ondas cerebrales iguales a las que se generan cuando se está dormido. Este descubrimiento levantó una gran polémica entre eruditos.",
-        "Ranger": "Psyduck es un Pokémon al que le encanta flotar en el agua tranquilamente.",
-        "RubíZafiro": "Psyduck tiene un extraño poder, consiste en generar ondas cerebrales iguales a las que se generan cuando se está dormido. Este descubrimiento levantó una gran polémica entre eruditos.",
-        "New Pokémon Snap": "Parece que siempre estén en Babia debido a los constantes dolores de cabeza que sufren. A veces los arrastran las corrientes de los ríos, pero no parece importarles demasiado."
+        "Leyendas: Arceus": "Sufre constantes jaquecas. Cuando el dolor se intensifica, libera sin querer su poder interior, por lo que estamos investigando cómo calmarlo."
     },
     "evolution": [
         [

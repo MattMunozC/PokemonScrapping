@@ -9,20 +9,14 @@
     ],
     "hidden abilities": "None",
     "stats": {
-        "hp": "100",
-        "atk": "100",
-        "def": "100",
-        "atk esp": "100",
-        "def esp": "100",
-        "speed": "100"
+        "hp": 100,
+        "atk": 100,
+        "def": 100,
+        "atk esp": 100,
+        "def esp": 100,
+        "speed": 100
     },
     "location": {
-        "Rojo": [
-            "Evento: Repartido por evento (ver más abajo). Glitch: Realizando el Glitch de Mew"
-        ],
-        "Azul": [
-            "Evento: Repartido por evento (ver más abajo). Glitch: Realizando el Glitch de Mew"
-        ],
         "Amarillo": [
             "Evento: Repartido por evento (ver más abajo). Glitch: Realizando el Glitch de Mew"
         ],
@@ -123,14 +117,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Especial: Transferir de la Poké Ball Plus al videojuego.",
-            "Especial: Transferir desde Pokémon HOME."
-        ],
-        "Let's Go Eevee!": [
-            "Especial: Transferir de la Poké Ball Plus al videojuego.",
-            "Especial: Transferir desde Pokémon HOME."
-        ],
         "Espada": [
             "Especial: Transferir de la Poké Ball Plus al videojuego.",
             "Especial: Transferir desde Pokémon HOME."
@@ -182,12 +168,7 @@
         "Escudo": "Los repetidos avistamientos registrados de este Pokémon singular ponen en entredicho la creencia popular de su extinción.",
         "Diamante Brillante": "Debido a su capacidad para utilizar todo tipo de movimientos, muchos científicos lo consideran el ancestro de todos los Pokémon.",
         "Perla Reluciente": "Debido a su capacidad para utilizar todo tipo de movimientos, muchos científicos lo consideran el ancestro de todos los Pokémon.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Místico Pokémon de América del Sur que se consideraba extinguido. Un creciente número de personas lo ha visto recientemente.",
-        "Stadium 2": "Pokémon Oro insertado: Dicen que solo se aparece a los puros de corazón, y a quienes desean verlo con todas sus fuerzas.\nPokémon Plata insertado: Dicen que su ADN contiene el código genético de todos los Pokémon, por lo que conoce cualquier técnica.\n",
-        "Pokémon GO": "Dicen que Mew posee el mapa genético de todos los Pokémon. Puede hacerse invisible cuando quiere, así que pasa desapercibido cada vez que se le acerca alguien.",
-        "Ranger": "Mew es un Pokémon extraño considerado un espejismo. Puede volverse invisible.",
-        "New Pokémon Snap": "Este Pokémon dotado de una grandísima inteligencia vive oculto en las ruinas. Se dice que solo se aparece ante la gente pura de corazón."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

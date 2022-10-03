@@ -13,22 +13,14 @@
         "Audaz"
     ],
     "stats": {
-        "hp": "105",
-        "atk": "130",
-        "def": "120",
-        "atk esp": "45",
-        "def esp": "45",
-        "speed": "40"
+        "hp": 105,
+        "atk": 130,
+        "def": 120,
+        "atk esp": 45,
+        "def esp": 45,
+        "speed": 40
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Cueva Celeste.",
-            "Evolucionar: a Rhyhorn (nivel 42)."
-        ],
-        "Azul": [
-            "Salvaje: Cueva Celeste.",
-            "Evolucionar: a Rhyhorn (nivel 42)."
-        ],
         "Amarillo": [
             "Salvaje: Cueva Celeste.",
             "Evolucionar: a Rhyhorn (nivel 42).",
@@ -125,14 +117,6 @@
         "Ultraluna": [
             "Evolucionar: a Rhyhorn (nivel 42)."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Calle Victoria y Cueva Celeste.",
-            "Evolucionar: a Rhyhorn (nivel 42)."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Calle Victoria y Cueva Celeste.",
-            "Evolucionar: a Rhyhorn (nivel 42)."
-        ],
         "Espada": [
             "Salvaje: Ruta 10 (cuando la hierba se mueve), Cuenca Polvorienta (escondido en hierba alta con sol), Lago del Enfado (escondido en hierba alta con sol y encuentro especial en tormenta de arena), Llanura Pétrea (encuentro especial), Ribera de Pistón (encuentro especial con sol y en tormenta de arena), Silla del Gigante (encuentro especial cuando está despejado) y Valle Entrepuentes (encuentro especial con sol y en tormenta de arena).",
             "Incursiones Dinamax: Llanura Pétrea, nido al suroeste entre rocas y Pradera Radiante, nido al sureste junto a la pared.",
@@ -193,13 +177,7 @@
         "Escudo": "La piel le sirve de escudo protector. Puede vivir en lava líquida a 2000 °C.",
         "Diamante Brillante": "Su cerebro se desarrolló cuando comenzó a caminar sobre sus patas traseras. Puede taladrar túneles en la roca con su cuerno.",
         "Perla Reluciente": "Su cerebro se desarrolló cuando comenzó a caminar sobre sus patas traseras. Puede taladrar túneles en la roca con su cuerno.",
-        "Leyendas: Arceus": "Gira su cuerno a gran velocidad para taladrar rocas. Se pasea por zonas volcánicas como si nada gracias a su piel, dura cual coraza, que resiste el calor de la lava.",
-        "Stadium": "Protegido por una piel-armadura, puede sobrevivir con hasta 3.600 grados. Su cuerno puede hacer agujeros en la roca.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Rhydon tiene un cuerno capaz de horadar hasta un diamante en bruto y con una sacudida de la cola puede derribar un edificio. La piel de este Pokémon es muy fuerte; ni los disparos de un cañón le arañarían.",
-        "Ranger": "Rhydon lanza grandes piedras con tal potencia que rompen murallas.",
-        "Sombras de Almia": "Ataca embistiendo con su enorme cuerpo.",
-        "RubíZafiro": "Rhydon tiene un cuerno capaz de horadar hasta un diamante en bruto. Y con una sacudida de la cola puede derribar un edificio. La piel de este Pokémon es muy fuerte; ni los disparos de un cañón le arañarían."
+        "Leyendas: Arceus": "Gira su cuerno a gran velocidad para taladrar rocas. Se pasea por zonas volcánicas como si nada gracias a su piel, dura cual coraza, que resiste el calor de la lava."
     },
     "evolution": [
         [

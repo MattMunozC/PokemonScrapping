@@ -12,22 +12,14 @@
         "Francotirador"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "90",
-        "def": "65",
-        "atk esp": "61",
-        "def esp": "61",
-        "speed": "100"
+        "hp": 65,
+        "atk": 90,
+        "def": 65,
+        "atk esp": 61,
+        "def esp": 61,
+        "speed": 100
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Rutas 17, 18, y 23.",
-            "Evolucionar: a Spearow (Nivel 20)"
-        ],
-        "Azul": [
-            "Salvaje: Rutas 17, 18, y 23.",
-            "Evolucionar: a Spearow (Nivel 20)"
-        ],
         "Amarillo": [
             "Salvaje: Rutas 9, 16, 17, 18, y 23.",
             "Evolucionar: a Spearow (Nivel 20)"
@@ -136,16 +128,6 @@
             "Salvaje: Rutas 10, 17, Pico Hokulani y Llanura de Poni.",
             "Evolucionar: a Spearow (Nivel 20)."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Rutas 3, 4, 9 10, 22, y 23.",
-            "Evolucionar: a Spearow (Nivel 20)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 3, 4, 9 10, 22, y 23.",
-            "Evolucionar: a Spearow (Nivel 20)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Fearow no se puede conseguir en este videojuego."
         ],
@@ -197,11 +179,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Tiene energía para volar todo el día con sus grandes alas. Lucha con su afilado pico.",
         "Perla Reluciente": "Tiene energía para volar todo el día con sus grandes alas. Lucha con su afilado pico.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Con su majestuoso aleteo, es capaz de planear durante largo tiempo. Si siente peligro volará lejos inmediatamente.",
-        "Stadium 2": "Pokémon Oro insertado: Usa sabiamente su largo y fino pico para extraer y comer insectos que se ocultan bajo tierra.\nPokémon Plata insertado: Asciende al cielo repentinamente para caer después en picado, y de un solo golpe atrapar a su presa.\n",
-        "Pokémon GO": "A Fearow se le reconoce por tener un pescuezo y un pico largos que le permiten cazar en tierra y agua. Tiene una gran habilidad moviendo el fino pico para atrapar a sus presas.",
-        "Ranger": "Fearow vuela a gran velocidad y ataca con ráfagas de viento."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

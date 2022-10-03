@@ -12,23 +12,14 @@
         "Potencia bruta"
     ],
     "stats": {
-        "hp": "55",
-        "atk": "130",
-        "def": "115",
-        "atk esp": "50",
-        "def esp": "50",
-        "speed": "75"
+        "hp": 55,
+        "atk": 130,
+        "def": 115,
+        "atk esp": 50,
+        "def esp": 50,
+        "speed": 75
     },
     "location": {
-        "Rojo": [
-            "Pescando: Ruta 23, Cueva Celeste",
-            "Evolucionar: a Krabby (nivel 28)"
-        ],
-        "Azul": [
-            "Salvaje: Islas Espuma",
-            "Pescando: Ruta 23, Cueva Celeste",
-            "Evolucionar: a Krabby (nivel 28)"
-        ],
         "Amarillo": [
             "Salvaje: Islas Espuma",
             "Pescando: Rutas 10, 25, Islas Espuma",
@@ -130,14 +121,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 12 y 13",
-            "Evolucionar: a Krabby (nivel 28)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 12 y 13",
-            "Evolucionar: a Krabby (nivel 28)"
-        ],
         "Espada": [
             "Salvaje: Ruta 9 (cuando la hierba se mueve), Lago Axew (oeste) (encuentro especial cuando está despejado), Lago Milotic (sur) (encuentro especial cuando está despejado, y en tormenta) y Ojo de Axew (cuando está despejado, nublado y en tormenta).",
             "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Espejo del Gigante, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur.",
@@ -195,11 +178,7 @@
         "Escudo": "\nKingler: Su gran pinza posee una potencia devastadora, pero su peso excesivo la convierte en un estorbo fuera del terreno de combate.\nKingler Gigamax: Expulsa una espuma tan alcalina y corrosiva que es capaz de disolver al instante el cuerpo de sus adversarios.",
         "Diamante Brillante": "La pinza mayor posee una fuerza devastadora, pero es tan pesada que le cuesta usarla con precisión.",
         "Perla Reluciente": "La pinza mayor posee una fuerza devastadora, pero es tan pesada que le cuesta usarla con precisión.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Se dice que es capaz de abrir los caparazones de Shellder y Cloyster con sus fuertes tenazas.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Kingler tiene una pinza enorme y descomunal que usa agitándola en el aire para comunicarse con otros. Lo malo es que, al pesarle tanto, se cansa enseguida.",
-        "Trazos de luz": "Lanza bolas de agua contra el oponente"
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

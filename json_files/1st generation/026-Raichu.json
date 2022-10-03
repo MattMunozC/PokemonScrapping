@@ -11,22 +11,14 @@
         "Pararrayos"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "90",
-        "def": "55",
-        "atk esp": "90",
-        "def esp": "80",
-        "speed": "110"
+        "hp": 60,
+        "atk": 90,
+        "def": 55,
+        "atk esp": 90,
+        "def esp": 80,
+        "speed": 110
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Mazmorra Rara",
-            "Evolucionar: a Pikachu (piedra trueno)"
-        ],
-        "Azul": [
-            "Salvaje: Central Energía, Mazmorra Rara",
-            "Evolucionar: a Pikachu (piedra trueno)"
-        ],
         "Amarillo": [
             "Intercambiar: de Pokémon Rojo, Azul, Oro, Plata o Cristal (el Pikachu inicial se negará a evolucionar)"
         ],
@@ -116,14 +108,6 @@
         "Ultraluna": [
             "Evolucionar: a Pikachu (piedra trueno en el ultraespacio)"
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Pikachu (piedra trueno)",
-            "GO Park Transferir desde Pokémon GO."
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Pikachu (piedra trueno)",
-            "GO Park Transferir desde Pokémon GO."
-        ],
         "Espada": [
             "Incursiones Dinamax: Con posible habilidad oculta: Gorro del Gigante, nido al noroeste y Ribera de Pistón, nido al suroeste.",
             "Salvaje: Humedal Frescor, Bosque Concentración y en la Playa Desafío con (Clima de Tormentas) .",
@@ -180,14 +164,7 @@
         "Escudo": "Cuando ha descargado las bolsas de las mejillas, levanta la cola y absorbe la carga eléctrica que hay en el ambiente.",
         "Diamante Brillante": "Se vuelve agresivo si su cuerpo acumula demasiada electricidad, que descarga a través de la cola.",
         "Perla Reluciente": "Puede emitir ráfagas de 100 000 V capaces de acabar de un solo golpe con rivales mucho más grandes que él.",
-        "Leyendas: Arceus": "Libera unas descargas eléctricas que superan los 100 000 V. Con semejante potencia podría derribar de un golpe incluso a un Copperajah, un Pokémon de mi tierra.",
-        "Stadium": "Sus ataques eléctricos pueden alcanzar los 10.000 voltios. Descarga electricidad desde su cola: no es dañado por su propia energía.",
-        "Stadium 2": "Pokémon Oro insertado: Si sus mejillas se cargan por completo de electricidad, ambas orejas se levantarán.\nPokémon Plata insertado: Cuando se carga de electricidad, sus músculos se tensan y se vuelve más agresivo de lo normal.\n",
-        "Pokémon GO": "Si las bolsas de los mofletes se le cargan demasiado, Raichu planta la cola en el suelo para liberar electricidad. Es común encontrar zonas chamuscadas cerca de la madriguera de este Pokémon.",
-        "Ranger": "Raichu descarga gran cantidad de electricidad para recargar el Capturador.",
-        "Sombras de Almia": "Descarga potentes rayos eléctricos para atacar.",
-        "Trazos de luz": "Restaura la energía del Capturador.",
-        "RubíZafiro": "Si las bolsas de los mofletes se le cargan demasiado, Raichu planta la cola en el suelo para liberar electricidad. Es común encontrar zonas chamuscadas cerca de la madriguera de este Pokémon."
+        "Leyendas: Arceus": "Libera unas descargas eléctricas que superan los 100 000 V. Con semejante potencia podría derribar de un golpe incluso a un Copperajah, un Pokémon de mi tierra."
     },
     "evolution": [
         [

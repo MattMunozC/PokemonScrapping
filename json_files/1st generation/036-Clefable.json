@@ -12,20 +12,14 @@
         "Ignorante"
     ],
     "stats": {
-        "hp": "95",
-        "atk": "70",
-        "def": "73",
-        "atk esp": "95",
-        "def esp": "90",
-        "speed": "60"
+        "hp": 95,
+        "atk": 70,
+        "def": 73,
+        "atk esp": 95,
+        "def esp": 90,
+        "speed": 60
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Clefairy (piedra lunar)"
-        ],
-        "Azul": [
-            "Evolucionar: a Clefairy (piedra lunar)"
-        ],
         "Amarillo": [
             "Evolucionar: a Clefairy (piedra lunar)"
         ],
@@ -113,14 +107,6 @@
         "Ultraluna": [
             "Evolucionar: a Clefairy (piedra lunar)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Monte Moon",
-            "Evolucionar: a Clefairy (piedra lunar)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Monte Moon",
-            "Evolucionar: a Clefairy (piedra lunar)"
-        ],
         "Espada": [
             "Salvaje: Ribera de Pistón",
             "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado y Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón. Nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración  y Mar Islejos ",
@@ -177,10 +163,7 @@
         "Escudo": "Su oído es tan fino que puede percibir cómo cae una aguja a 1 km de distancia. Por eso suele habitar en lugares tranquilos.",
         "Diamante Brillante": "Rara vez se lo ve. Dicen que en noches de luna llena sale a jugar en lagos solitarios.",
         "Perla Reluciente": "Su oído es tan agudo que puede oír una aguja caer a 1 km. Vive en montañas solitarias.",
-        "Leyendas: Arceus": "Dicen que, en noches tranquilas y despejadas, este Pokémon se para a escuchar las voces de los compañeros que dejó atrás en la luna. Se ve que no soy el único que extraña su tierra natal.",
-        "Stadium": "Sus orejas son muy sensibles, por lo que odia los ruidos fuertes y los lugares llenos. No sale cuando hay gente.",
-        "Stadium 2": "Pokémon Oro insertado: Sus sensibles oídos le permiten distinguir sonidos lejanos. Por eso, prefiere lugares tranquilos.\nPokémon Plata insertado: Con su fino oído puede percibir sonidos muy lejanos. Suele habitar en lugares silenciosos.\n",
-        "Pokémon GO": "Clefable se mueve dando saltitos como si fuera haciendo uso de las alas. Estos pequeños brincos le permiten caminar por el agua. De todos es sabido que le encanta darse paseos por los lagos en tranquilas noches de luna llena."
+        "Leyendas: Arceus": "Dicen que, en noches tranquilas y despejadas, este Pokémon se para a escuchar las voces de los compañeros que dejó atrás en la luna. Se ve que no soy el único que extraña su tierra natal."
     },
     "evolution": [
         [

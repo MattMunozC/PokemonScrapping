@@ -11,20 +11,14 @@
     ],
     "hidden abilities": "None",
     "stats": {
-        "hp": "60",
-        "atk": "65",
-        "def": "60",
-        "atk esp": "130",
-        "def esp": "75",
-        "speed": "110"
+        "hp": 60,
+        "atk": 65,
+        "def": 60,
+        "atk esp": 130,
+        "def esp": 75,
+        "speed": 110
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Haunter (intercambio)"
-        ],
-        "Azul": [
-            "Evolucionar: a Haunter (intercambio)"
-        ],
         "Amarillo": [
             "Evolucionar: a Haunter (intercambio)"
         ],
@@ -115,12 +109,6 @@
             "Salvaje: Supermercado Ultraganga (Local Abandonado) (como refuerzo de Haunter)",
             "Evolucionar: a Haunter (intercambio)"
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Haunter (intercambio)"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Haunter (intercambio)"
-        ],
         "Espada": [
             "Salvaje: Gorro del Gigante.",
             "Incursiones Dinamax: Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte y Llanura Pétrea, nido al noreste junto a una pared 2.",
@@ -176,13 +164,7 @@
         "Escudo": "\nGengar: Dicen que sale de la oscuridad para robarles el alma a los que se pierden por las montañas.\nGengar Gigamax: Tiende trampas mortales: quienes osan acercarse a su boca escuchan la llamada de sus seres queridos.",
         "Diamante Brillante": "Se esconde entre las sombras. Dicen que la temperatura baja 5 ºC allí donde acecha.",
         "Perla Reluciente": "Acecha en las esquinas oscuras a la espera de una oportunidad para arrebatarle la vida a su presa.",
-        "Leyendas: Arceus": "Posee las sombras de las víctimas cuyas vidas pretende arrebatar. Si alguien ve que su sombra se empieza a reír sola, debería conseguir un amuleto purificador lo más rápido posible.",
-        "Stadium": "Al parecer ataca a la gente que se pierde en las montañas. Se dice que se esconde en las sombras que produce la luna.",
-        "Stadium 2": "\nPokémon Oro insertado: Para quitar la vida a su presa, se desliza en su sombra y espera su oportunidad en silencio.\nPokémon Plata insertado: Roba el calor de sus alrededores. Si sientes un escalofrío, seguro que hay algún Gengar cerca.",
-        "Pokémon GO": "\nGengar: Si alguien ve que su sombra le adelanta de repente en una noche oscura, es muy probable que lo que esté viendo no sea su sombra, sino a un Gengar haciéndose pasar por la misma.\nMega-Gengar: La megaevolución le ha hecho capaz de acceder a otras dimensiones. Su cuerpo rebosa un poder inquietante.",
-        "Ranger": "¡Ojo! Gengar secuestra a tus Pokémon. Hace copias de sí mismo para atacar.",
-        "Sombras de Almia": "Ataca con bolas terroríficas y ráfagas malditas.",
-        "New Pokémon Snap": "Los libros infantiles de Lensis también dicen que, si los niños no se portan bien, un Gengar vendrá a por ellos. Por lo visto les encanta usar su capacidad de atravesar paredes para hacer travesuras."
+        "Leyendas: Arceus": "Posee las sombras de las víctimas cuyas vidas pretende arrebatar. Si alguien ve que su sombra se empieza a reír sola, debería conseguir un amuleto purificador lo más rápido posible."
     },
     "evolution": [
         [

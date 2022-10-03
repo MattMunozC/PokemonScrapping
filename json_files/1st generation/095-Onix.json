@@ -13,20 +13,14 @@
         "Armadura frágil"
     ],
     "stats": {
-        "hp": "35",
-        "atk": "45",
-        "def": "160",
-        "atk esp": "30",
-        "def esp": "45",
-        "speed": "70"
+        "hp": 35,
+        "atk": 45,
+        "def": 160,
+        "atk esp": 30,
+        "def esp": 45,
+        "speed": 70
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Túnel Roca, Calle Victoria."
-        ],
-        "Azul": [
-            "Salvaje: Túnel Roca, Calle Victoria."
-        ],
         "Amarillo": [
             "Salvaje: Túnel Roca (sótano), Calle Victoria."
         ],
@@ -125,12 +119,6 @@
         "Ultraluna": [
             "Escáner insular: Colina Dequilate (martes)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Monte Moon, Túnel Roca, Calle Victoria"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Monte Moon, Túnel Roca, Calle Victoria"
-        ],
         "Espada": [
             "Salvaje: Lago Axew (este), Ribera de Pistón, Silla del Gigante y Pradera Radiante.",
             "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al extremo noreste, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Pradera Radiante, nido en mitad de los árboles, Silla del Gigante, nido al centro junto al lago, Silla del Gigante, nido al norte, Silla del Gigante, nido al sur junto al lago, Silla del Gigante, nido al sureste y Valle Entrepuentes, nido al sur."
@@ -184,11 +172,7 @@
         "Escudo": "Perfora el suelo a una velocidad de 80 km/h girando y retorciendo su robusto y enorme cuerpo.",
         "Diamante Brillante": "Cuando viaja bajo tierra, causa temblores y estruendo. Se puede mover a 80 km/h.",
         "Perla Reluciente": "Se alimenta sin cesar a medida que se abre paso bajo tierra retorciendo su robusto y largo cuerpo.",
-        "Leyendas: Arceus": "Tiene el aspecto de una gran serpiente formada por rocas encadenadas. Provoca temblores al cavar túneles a gran profundidad y engulle las rocas que encuentra a su paso.",
-        "Stadium": "Su enorme cuerpo mide 26 pies de largo. A pesar de su tamaño, es capaz de desplazarse a 90 kmh.",
-        "Stadium 2": "Pokémon Oro insertado: Perfora el suelo rápidamente, a 80 km/h, girando y retorciendo su robusto y enorme cuerpo.\nPokémon Plata insertado: Gira y se retuerce bajo la tierra. El atronador rugido de su excavación resuena a lo lejos.\n",
-        "Pokémon GO": "Onix tiene un imán en el cerebro, que actúa como una brújula para no perder a orientación cuando está cavando túneles. A medida que crece, se le redondea y suaviza el cuerpo.",
-        "New Pokémon Snap": "Son capaces de atravesar paredes de roca y mares de arena como si nada. Los túneles que dejan a su paso sirven de madriguera a otros Pokémon."
+        "Leyendas: Arceus": "Tiene el aspecto de una gran serpiente formada por rocas encadenadas. Provoca temblores al cavar túneles a gran profundidad y engulle las rocas que encuentra a su paso."
     },
     "evolution": [
         [

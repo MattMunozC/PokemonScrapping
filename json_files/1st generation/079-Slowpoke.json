@@ -13,23 +13,14 @@
         "Regeneración"
     ],
     "stats": {
-        "hp": "90",
-        "atk": "65",
-        "def": "65",
-        "atk esp": "40",
-        "def esp": "40",
-        "speed": "15"
+        "hp": 90,
+        "atk": 65,
+        "def": 65,
+        "atk esp": 40,
+        "def esp": 40,
+        "speed": 15
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Islas Espuma",
-            "Pescando: Ruta 9, Ruta 10, Ciudad Azulona y Zona Safari"
-        ],
-        "Azul": [
-            "Salvaje: Islas Espuma",
-            "Pescando: Ruta 9 y Ruta 10, Ciudad Azulona y Zona Safari",
-            "Intercambiar: por un Seel en el Laboratorio de Isla Canela (solo en la versión japonesa)."
-        ],
         "Amarillo": [
             "Salvaje: Islas Espuma",
             "Surfeando: Ruta 12 y Ruta 13"
@@ -124,12 +115,6 @@
             "Salvaje: Afueras de Hauoli, Ruta 15, Ruta 16 y Bahía Kalae",
             "Poké Resort: Cayo Recreo, tras llegar a Akala"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Islas Espuma"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Islas Espuma"
-        ],
         "Espada": [
             "Regalo: del Entrenador de Diglett en la Isla de la Armadura luego de encontrar a 10 de sus Diglett de Alola."
         ],
@@ -180,11 +165,7 @@
         "Escudo": "Hunde la cola en el agua y la usa cual caña de pescar. La sustancia dulce que secreta le sirve de cebo para atraer a sus presas.",
         "Diamante Brillante": "A pesar de su lentitud, tiene una gran habilidad para pescar con la cola, que es insensible al dolor.",
         "Perla Reluciente": "A pesar de su lentitud, tiene una gran habilidad para pescar con la cola, que es insensible al dolor.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Un Pokémon atontado que permanece aturdido excepto cuando pesca con su cola. Dormido o despierto, no hay mucha diferencia.",
-        "Stadium 2": "Pokémon Oro insertado: De la punta de su cola gotea una savia muy dulce. No es nutritiva, pero es deliciosa para mascar.\nPokémon Plata insertado: Descansa ocioso junto al agua. Si algo muerde su cola, no lo notará en todo el día.\n",
-        "Pokémon GO": "Slowpoke usa la cola para atrapar a sus presas metiéndola bajo el agua en las riberas de los ríos. Con todo, es olvidadizo, se le puede pasar lo que estaba haciendo y quedarse días enteros holgazaneando en la orilla.",
-        "Ranger": "Slowpoke es increíblemente vago. Duerme mucho y solo para para bostezar."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

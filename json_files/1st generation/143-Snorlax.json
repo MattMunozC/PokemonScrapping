@@ -12,20 +12,14 @@
         "Gula"
     ],
     "stats": {
-        "hp": "160",
-        "atk": "110",
-        "def": "65",
-        "atk esp": "65",
-        "def esp": "110",
-        "speed": "30"
+        "hp": 160,
+        "atk": 110,
+        "def": 65,
+        "atk esp": 65,
+        "def esp": 110,
+        "speed": 30
     },
     "location": {
-        "Rojo": [
-            "Salvaje: bloqueando la Ruta 12 y la Ruta 16. Se necesita la Poké flauta (solo dos)"
-        ],
-        "Azul": [
-            "Salvaje: bloqueando la Ruta 12 y la Ruta 16. Se necesita la Poké flauta (solo dos)"
-        ],
         "Amarillo": [
             "Salvaje: bloqueando la Ruta 12 y la Ruta 16. Se necesita la Poké flauta (solo dos)"
         ],
@@ -119,14 +113,6 @@
             "Salvaje: Ruta 1 (como refuerzo de Munchlax)",
             "Evolucionar: a Munchlax (amistad + nivel)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Cueva Celeste; solo con uso de colonia y/o alta racha de capturas",
-            "Especial: bloqueando la Ruta 12 y la Ruta 16. Se necesita la Poké flauta (solo dos)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Cueva Celeste; solo con uso de colonia y/o alta racha de capturas",
-            "Especial: bloqueando la Ruta 12 y la Ruta 16. Se necesita la Poké flauta (solo dos)"
-        ],
         "Espada": [
             "Salvaje: Ribera de Pistón",
             "Incursiones Dinamax: Con posible habilidad oculta: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Llanura Pétrea, nido al sureste junto a una pared, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste."
@@ -180,12 +166,7 @@
         "Escudo": "\nSnorlax: Este Pokémon tiene un estómago a prueba de bombas, por lo que es capaz de ingerir incluso comida podrida o mohosa.\nSnorlax Gigamax: Posee una fuerza aterradora. Su imponente aspecto y proverbial indolencia hacen que sea fácil confundirlo con una montaña.",
         "Diamante Brillante": "Su estómago puede digerir todo tipo de comida, incluso si está podrida o mohosa.",
         "Perla Reluciente": "Solo deja de comer para dormir. No se siente saciado a menos que ingiera 400 kg diarios.",
-        "Leyendas: Arceus": "Considerado desde antaño una calamidad, este insaciable glotón aparece de repente en pueblos y vacía los graneros en un instante.",
-        "Stadium": "Perezoso Pokémon que no deja de engordar cayendo en un círculo de comer y dormir. Sólo está despierto cuando come.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Un día cualquiera en la vida de Snorlax consiste en comer y dormir. Es un Pokémon tan dócil que es fácil ver niños usando la gran panza que tiene como lugar de juegos.",
-        "Ranger": "Snorlax es un Pokémon grande y pesado que siempre está dormido.",
-        "New Pokémon Snap": "¿Has visto la barrigota que tienen por ingerir casi su propio peso en comida? Por lo visto no les importa que otros Pokémon más pequeños duerman sobre ella como si se tratase de una cama."
+        "Leyendas: Arceus": "Considerado desde antaño una calamidad, este insaciable glotón aparece de repente en pueblos y vacía los graneros en un instante."
     },
     "evolution": [
         [

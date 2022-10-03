@@ -12,20 +12,14 @@
         "Clorofila"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "62",
-        "def": "63",
-        "atk esp": "80",
-        "def esp": "80",
-        "speed": "60"
+        "hp": 60,
+        "atk": 62,
+        "def": 63,
+        "atk esp": 80,
+        "def esp": 80,
+        "speed": 60
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Bulbasaur (nivel 16)"
-        ],
-        "Azul": [
-            "Evolucionar: a Bulbasaur (nivel 16)"
-        ],
         "Amarillo": [
             "Evolucionar: a Bulbasaur (nivel 16)"
         ],
@@ -111,14 +105,6 @@
         "Ultraluna": [
             "Evolucionar: a Bulbasaur (nivel 16)"
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Bulbasaur (nivel 16)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Bulbasaur (nivel 16)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Aventura Dinamax ",
             "Especial: Transferir desde Pokémon HOME.",
@@ -172,12 +158,7 @@
         "Escudo": "La luz del sol lo fortalece y hace que le crezca el capullo que tiene en el lomo.",
         "Diamante Brillante": "Cuando se le hincha el bulbo del lomo, desprende un dulce aroma para indicar que su gran flor se va a abrir.",
         "Perla Reluciente": "Cuando se le hincha el bulbo del lomo, desprende un dulce aroma para indicar que su gran flor se va a abrir.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "El capullo de su espalda aparentemente saca energía de su cuerpo. Se dice que el capullo se convierte en una flor cuando ha crecido.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Este Pokémon lleva un bulbo en el lomo y, para poder con su peso, tiene unas patas y un tronco gruesos y fuertes. Si empieza a pasar más tiempo al sol, será porque el bulbo está a punto de hacerse una flor grande.",
-        "Ranger": "Las poderosas lianas de Ivysaur se pueden usar como un lazo.",
-        "Trazos de luz": "Dispara semillas contra el oponente."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

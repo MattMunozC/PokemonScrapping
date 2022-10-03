@@ -12,24 +12,14 @@
         "Detonación"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "50",
-        "def": "70",
-        "atk esp": "80",
-        "def esp": "80",
-        "speed": "150"
+        "hp": 60,
+        "atk": 50,
+        "def": 70,
+        "atk esp": 80,
+        "def esp": 80,
+        "speed": 150
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Mazmorra Rara y Central Energía (camuflados como objetos).",
-            "Intercambiar: por un Raichu en el Laboratorio de Isla Canela.",
-            "Evolucionar: a Voltorb (nivel 30)."
-        ],
-        "Azul": [
-            "Salvaje: Mazmorra Rara y Central Energía (camuflados como objetos).",
-            "Intercambiar: por un Raichu en el Laboratorio de Isla Canela.",
-            "Evolucionar: a Voltorb (nivel 30)."
-        ],
         "Amarillo": [
             "Salvaje: Central Energía (camuflados como objetos).",
             "Evolucionar: a Voltorb (nivel 30)."
@@ -134,14 +124,6 @@
         "Ultraluna": [
             "Especial: Castillo Team Rocket (camuflados como objetos)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Central de Energía.",
-            "Evolucionar: a Voltorb (nivel 30)."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Central de Energía.",
-            "Evolucionar: a Voltorb (nivel 30)."
-        ],
         "Espada": [
             "Electrode no se puede conseguir en este videojuego."
         ],
@@ -191,13 +173,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "El viento a veces arrastra Electrode hinchados por almacenar demasiada electricidad.",
         "Perla Reluciente": "El viento a veces arrastra Electrode hinchados por almacenar demasiada electricidad.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Almacena enormes cantidades de electricidad dentro de su cuerpo y explota a la mínima provocación. Extremadamente peligroso.",
-        "Stadium 2": "Pokémon Oro insertado: Almacena una gran cantidad de electricidad en su cuerpo. Una pequeña sacudida le hará explotar.\nPokémon Plata insertado: Es peligroso. Si almacena mucha electricidad y está ocioso, se entretiene explosionando.\n",
-        "Pokémon GO": "Los Electrode se alimentan de la electricidad de la atmósfera. En días de tormentas con rayos, es fácil verlos explotando por todos lados tras haber consumido demasiada electricidad.",
-        "Sombras de Almia": "Lanza descargas eléctricas de su cuerpo. Ten cuidado: ¡podría explotar!.",
-        "Trazos de luz": "Provoca explosiones a su alrededor.",
-        "RubíZafiro": "Los Electrode se alimentan de la electricidad de la atmósfera. En días de tormentas con rayos, es fácil verlos explotando por todos lados tras haber consumido demasiada electricidad."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

@@ -12,20 +12,14 @@
         "Cuerpo llama"
     ],
     "stats": {
-        "hp": "50",
-        "atk": "85",
-        "def": "55",
-        "atk esp": "65",
-        "def esp": "65",
-        "speed": "90"
+        "hp": 50,
+        "atk": 85,
+        "def": 55,
+        "atk esp": 65,
+        "def esp": 65,
+        "speed": 90
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Mansión Pokémon"
-        ],
-        "Azul": [
-            "Salvaje: Mansión Pokémon"
-        ],
         "Amarillo": [
             "Salvaje: Ruta 17"
         ],
@@ -115,12 +109,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 17"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 17"
-        ],
         "Espada": [
             "Especial: Transferir desde Pokémon HOME",
             "Intercambiar: de Pokémon Escudo"
@@ -174,10 +162,7 @@
         "Escudo": "Por extraño que parezca, una vez que alguien se ha hecho merecedor de su confianza, puede tocarle la ardiente crin sin quemarse.",
         "Diamante Brillante": "Apenas una hora después de nacer, ya le crecen la cola y la crin de fuego, que le confieren un aspecto magnífico.",
         "Perla Reluciente": "Seguir el ritmo de sus progenitores le sirve para fortalecer las patas. Galopa el día entero por el campo y la montaña.",
-        "Leyendas: Arceus": "Forman manadas en las praderas. La crin de fuego no les crece hasta una hora después de nacer.",
-        "Stadium": "Capaz de saltar por encima de la Giralda de una sola zancada gigante. Sus pezuñas son diez veces más fuertes que los diamantes.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Al nacer, Ponyta es muy débil y apenas puede ponerse en pie. Con todo, se va haciendo más fuerte al tropezarse y caerse en su intento por seguir a sus progenitores."
+        "Leyendas: Arceus": "Forman manadas en las praderas. La crin de fuego no les crece hasta una hora después de nacer."
     },
     "evolution": [
         [

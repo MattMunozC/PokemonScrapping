@@ -12,20 +12,14 @@
         "Fuga"
     ],
     "stats": {
-        "hp": "40",
-        "atk": "35",
-        "def": "30",
-        "atk esp": "20",
-        "def esp": "20",
-        "speed": "50"
+        "hp": 40,
+        "atk": 35,
+        "def": 30,
+        "atk esp": 20,
+        "def esp": 20,
+        "speed": 50
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Rutas 2, 24 y 25 y Bosque Verde."
-        ],
-        "Azul": [
-            "Salvaje: Ruta 25 y Bosque Verde."
-        ],
         "Amarillo": [
             "Intercambiar: de Pokémon Rojo y Azul, Pokémon Oro y Plata o Pokémon Cristal."
         ],
@@ -120,14 +114,6 @@
         "Ultraluna": [
             "Criando: de Beedrill"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Bosque Verde y Ruta 2",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Bosque Verde y Ruta 2",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Weedle no se puede conseguir en este videojuego."
         ],
@@ -177,11 +163,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Come el equivalente a su peso en hojas todos los días. Se defiende con el aguijón que tiene en la cabeza.",
         "Perla Reluciente": "Come el equivalente a su peso en hojas todos los días. Se defiende con el aguijón que tiene en la cabeza.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Lo verás en bosques y zonas verdes. Posee un aguijón venenoso en la cabeza y lo usará si lo pisas.",
-        "Stadium 2": "Pokémon Oro insertado: Ataca con la púa de 5 cm de su cabeza. Suele encontrarse debajo de las hojas que come.\nPokémon Plata insertado: Su venenoso aguijón es muy potente, y su colorido cuerpo hace que los enemigos huyan.\n",
-        "Pokémon GO": "Weedle tiene un finísimo sentido del olfato. Es capaz de distinguir las hojas que le gustan de las que no le gustan olisqueando un poco con la gran nariz que tiene.",
-        "Sombras de Almia": "Ataca lanzando una seda pegajosa."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

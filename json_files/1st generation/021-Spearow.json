@@ -12,20 +12,14 @@
         "Francotirador"
     ],
     "stats": {
-        "hp": "40",
-        "atk": "60",
-        "def": "30",
-        "atk esp": "31",
-        "def esp": "31",
-        "speed": "70"
+        "hp": 40,
+        "atk": 60,
+        "def": 30,
+        "atk esp": 31,
+        "def esp": 31,
+        "speed": 70
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Rutas 3, 4, 9, 10, 11, 16, 17, 18, 22 y 23."
-        ],
-        "Azul": [
-            "Salvaje: Rutas 3, 4, 9, 10, 11, 16, 17, 18, 22 y 23."
-        ],
         "Amarillo": [
             "Salvaje: Rutas 3, 4, 9, 16, 18 y 22."
         ],
@@ -129,14 +123,6 @@
         "Ultraluna": [
             "Salvaje: Rutas 2 y 3"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Rutas 3, 4, 9, 10, 22 y 23",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 3, 4, 9, 10, 22 y 23",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Spearow no se puede conseguir en este videojuego."
         ],
@@ -186,12 +172,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Agita sin cesar sus cortas alas para mantener el vuelo. Busca presas entre la hierba con el pico.",
         "Perla Reluciente": "Agita sin cesar sus cortas alas para mantener el vuelo. Busca presas entre la hierba con el pico.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "",
-        "Stadium 2": "Pokémon Oro insertado: Muy protector de su territorio, mueve sus cortas alas sin descanso para lanzarse a toda velocidad.\nPokémon Plata insertado: Aletea con sus cortas alas para hacer salir a los insectos de la hierba, y los caza con su pico.\n",
-        "Pokémon GO": "Spearow pía con tanta fuerza que se le puede oír a 1 km de distancia. Si al agudo chillido le sigue una especie de eco, estaremos oyendo la respuesta de otros Spearow que contestan ante el aviso de peligro.",
-        "Ranger": "Spearow puede provocar ráfagas de viento agitando sus pequeñas alas.",
-        "Sombras de Almia": "Ataca batiendo sus alas para provocar ráfagas de aire."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

@@ -12,22 +12,14 @@
         "Entusiasmo"
     ],
     "stats": {
-        "hp": "55",
-        "atk": "47",
-        "def": "52",
-        "atk esp": "40",
-        "def esp": "40",
-        "speed": "41"
+        "hp": 55,
+        "atk": 47,
+        "def": 52,
+        "atk esp": 40,
+        "def esp": 40,
+        "speed": 41
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Ruta 22, Zona Safari (zonas 1 y 3).",
-            "Intercambiar: por un Nidoran♂ en la entrada al paso subterráneo de la Ruta 5."
-        ],
-        "Azul": [
-            "Salvaje: Ruta 22, Zona Safari (entrada y zonas 1, 2 y 3).",
-            "Intercambiar: por un Nidoran♂ en la entrada al paso subterráneo de la Ruta 5."
-        ],
         "Amarillo": [
             "Salvaje: Rutas 2, 9, 10, 22 y Zona Safari."
         ],
@@ -116,12 +108,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Rutas 9, 10, 22 y 23."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 9, 10, 22 y 23."
-        ],
         "Espada": [
             "Salvaje: Campo Bajocero, Lecho del Gigante, Viejo Cementerio. "
         ],
@@ -173,10 +159,7 @@
         "Escudo": "Parte las bayas con sus duros incisivos para comérselas. La punta del cuerno de las hembras es más redondeada que la de los machos.",
         "Diamante Brillante": "Aunque no le gusta luchar, una sola gota del veneno de sus púas puede resultar letal.",
         "Perla Reluciente": "Aunque no le gusta luchar, una sola gota del veneno de sus púas puede resultar letal.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Aunque pequeña, deberías tratarla con cuidado por sus tóxicas escamas. Tiene un pequeño cuerno poco útil.",
-        "Stadium 2": "Pokémon Oro insertado: Aunque no es muy agresivo, castiga a sus enemigos con púas venenosas, si se siente amenazado.\nPokémon Plata insertado: El veneno oculto en su pequeño cuerno es extremadamente potente. El menor roce sería fatal.\n",
-        "Pokémon GO": "Nidoran♀ tiene púas que segregan un veneno muy potente. Se piensa que las desarrolló como protección del cuerpo tan pequeño que tiene. Cuando se enfada, libera una horrible sustancia tóxica por el cuerno."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

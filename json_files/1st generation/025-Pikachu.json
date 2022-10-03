@@ -11,20 +11,14 @@
         "Pararrayos"
     ],
     "stats": {
-        "hp": "35",
-        "atk": "55",
-        "def": "40",
-        "atk esp": "50",
-        "def esp": "50",
-        "speed": "90"
+        "hp": 35,
+        "atk": 55,
+        "def": 40,
+        "atk esp": 50,
+        "def esp": 50,
+        "speed": 90
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Bosque Verde y Central Energía."
-        ],
-        "Azul": [
-            "Salvaje: Bosque Verde y Central Energía."
-        ],
         "Amarillo": [
             "Especial: Pokémon inicial entregado por el profesor Oak en Pueblo Paleta (solo uno)."
         ],
@@ -131,15 +125,6 @@
             "Evolucionar: a Pichu (amistad + nivel).",
             "Especial: Regalo en el Club de Surf de Ciudad Kantai al obtener la mejor puntuación en el Surfeo Mantine (solo uno, conoce surf)."
         ],
-        "Let's Go Pikachu!": [
-            "Especial: Pokémon inicial entregado por el profesor Oak en Pueblo Paleta (solo uno).",
-            "Salvaje: Bosque Verde.",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Bosque Verde.",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Salvaje: Ruta 4, Llanura Pétrea (con lluvia o tormenta), también en Humedal Frescor, Prado Reverencia y en el Bosque Concentración con (Clima de Tormentas) .",
             "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Espejo del Gigante, nido al este, Gorro del Gigante, nido al noroeste, Lago del Enfado, nido al noreste junto al lago y Ribera de Pistón, nido al suroeste. Con posible habilidad oculta: Espejo del Gigante, nido al este.",
@@ -196,15 +181,7 @@
         "Escudo": "\nPikachu: Los miembros de esta especie se saludan entre sí uniendo sus colas y transmitiéndose corriente eléctrica.\nPikachu Gigamax: Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.",
         "Diamante Brillante": "Habita en bosques, donde forma grupos con sus congéneres. Almacena electricidad en las bolsas de las mejillas.",
         "Perla Reluciente": "Cuando se pone en alerta, las bolsas de sus mejillas emiten chisporroteos de electricidad.",
-        "Leyendas: Arceus": "Acumula electricidad en las bolsas que tiene en las mejillas. Habita en los bosques, donde tuesta con gran astucia las duras bayas que encuentra para comérselas.",
-        "Stadium": "Vive en bosques, lejos de la gente. Almacena electricidad en sus carrillos para eliminar a un enemigo si es atacado.",
-        "Stadium 2": "Pokémon Oro insertado: Levanta su cola para vigilar los alrededores. A veces, puede ser alcanzado por un rayo en esa pose.\nPokémon Plata insertado: Este inteligente Pokémon tuesta las duras bayas con electricidad para hacerlas más comestibles.\n",
-        "Pokémon GO": "Cada vez que un Pikachu se encuentra con algo nuevo, le lanza una descarga eléctrica. Cuando se ve alguna baya chamuscada, es muy probable que sea obra de un Pikachu, ya que a veces no controlan la intensidad de la descarga.",
-        "Ranger": "Pikachu descarga electricidad para recargar el Capturador.",
-        "Sombras de Almia": "Descarga electricidad para atacar.",
-        "Trazos de luz": "Restaura la energía del Capturador.",
-        "RubíZafiro": "Cada vez que Pikachu se encuentra con algo nuevo, le lanza una sacudida eléctrica. Si ves alguna baya chamuscada, seguro que ha sido Pikachu; a veces no controla la intensidad de la descarga.",
-        "New Pokémon Snap": "Mientras duermen, generan electricidad y la almacenan en las bolsas que tienen en las mejillas. Son Pokémon de naturaleza curiosa, así que se ven a menudo por el campamento base."
+        "Leyendas: Arceus": "Acumula electricidad en las bolsas que tiene en las mejillas. Habita en los bosques, donde tuesta con gran astucia las duras bayas que encuentra para comérselas."
     },
     "evolution": [
         [

@@ -12,20 +12,14 @@
         "Poder arena"
     ],
     "stats": {
-        "hp": "10",
-        "atk": "55",
-        "def": "25",
-        "atk esp": "35",
-        "def esp": "45",
-        "speed": "95"
+        "hp": 10,
+        "atk": 55,
+        "def": 25,
+        "atk esp": 35,
+        "def esp": 45,
+        "speed": 95
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Cueva Diglett."
-        ],
-        "Azul": [
-            "Salvaje: Cueva Diglett."
-        ],
         "Amarillo": [
             "Salvaje: Cueva Diglett."
         ],
@@ -115,12 +109,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Cueva Diglett."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Cueva Diglett."
-        ],
         "Espada": [
             "Salvaje: Ruta 4, Mina de Galar, Espejo del Gigante (soleado), Pradera Radiante.",
             "Incursiones Dinamax: Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur."
@@ -172,12 +160,7 @@
         "Escudo": "Este Pokémon avanza horadando la tierra a poca profundidad. Resulta fácil localizarlo por los montículos que deja como rastro.",
         "Diamante Brillante": "Este Pokémon vive a oscuras bajo tierra, por lo que la luz solar le espanta.",
         "Perla Reluciente": "Este Pokémon vive a oscuras bajo tierra, por lo que la luz solar le espanta.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Su cabeza sobresale a unas ocho pulgadas del suelo. Sin embargo, su tamaño real es un misterio hasta el momento.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "En la mayoría de las granjas se suelen criar Diglett por la sencilla razón de que, excaven donde excaven, dejan la tierra perfectamente labrada para sembrar. El terreno queda listo para plantar ricas verduras.",
-        "Ranger": "Diglett cava túneles bajo tierra. A veces asoma la cabeza para descansar.",
-        "New Pokémon Snap": "Viven bajo tierra porque no les gustan nada los rayos del sol. Los túneles que los Onix dejan a su paso son ideales para las madrigueras de los Diglett."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

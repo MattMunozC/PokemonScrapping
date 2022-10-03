@@ -12,22 +12,14 @@
         "Armadura batalla"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "80",
-        "def": "110",
-        "atk esp": "50",
-        "def esp": "80",
-        "speed": "45"
+        "hp": 60,
+        "atk": 80,
+        "def": 110,
+        "atk esp": 50,
+        "def esp": 80,
+        "speed": 45
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Calle Victoria (planta baja y piso 1), Mazmorra Rara (piso 1 y sótano 1).",
-            "Evolucionar: a Cubone (nivel 28)"
-        ],
-        "Azul": [
-            "Salvaje: Calle Victoria (planta baja y piso 1), Mazmorra Rara (piso 1 y sótano 1).",
-            "Evolucionar: a Cubone (nivel 28)"
-        ],
         "Amarillo": [
             "Salvaje: Zona Safari (áreas 1 y 3)",
             "Evolucionar: a Cubone (nivel 28)"
@@ -127,12 +119,6 @@
         "Ultraluna": [
             "Evolucionar: a Cubone (nivel 28 en el ultraespacio)."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Cubone (nivel 28)"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Cubone (nivel 28)"
-        ],
         "Espada": [
             "Salvaje:  Cuenca Arenosa",
             "Aventura Dinamax ",
@@ -186,10 +172,7 @@
         "Escudo": "Al evolucionar, se ha fusionado con el cráneo de su madre y, además, ha adquirido un carácter agresivo.",
         "Diamante Brillante": "Este Pokémon de carácter salvaje porta desde que nace un hueso que utiliza con maestría.",
         "Perla Reluciente": "Este Pokémon de carácter salvaje porta desde que nace un hueso que utiliza con maestría.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Al principio era un Pokémon pequeño y débil, pero se volvió rudo y agresivo cuando empezó a utilizar huesos como armas.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Marowak es la forma evolucionada de Cubone. Es más fuerte porque ha superado la pena por la pérdida de su madre. El ánimo de este Pokémon, ya curtido y fortalecido, no es muy fácil de alterar."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

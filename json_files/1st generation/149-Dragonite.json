@@ -12,20 +12,14 @@
         "Multiescamas"
     ],
     "stats": {
-        "hp": "91",
-        "atk": "134",
-        "def": "95",
-        "atk esp": "100",
-        "def esp": "100",
-        "speed": "80"
+        "hp": 91,
+        "atk": 134,
+        "def": 95,
+        "atk esp": 100,
+        "def esp": 100,
+        "speed": 80
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Dragonair (nivel 55)"
-        ],
-        "Azul": [
-            "Evolucionar: a Dragonair (nivel 55)"
-        ],
         "Amarillo": [
             "Evolucionar: a Dragonair (nivel 55)"
         ],
@@ -123,14 +117,6 @@
             "Pescando: Pendiente de Poni (como refuerzo de Dratini)",
             "Evolucionar: a Dragonair (nivel 55)"
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Dragonair (nivel 55)",
-            "Salvaje: Ruta 1, Ruta 2, Ruta 3, Ruta 4, Ruta 6, Ruta 7, Ruta 8, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 21, Ruta 22, Ruta 23, Ruta 24 y Ruta 25; solo con uso de colonia y alta racha de capturas"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Dragonair (nivel 55)",
-            "Salvaje: Ruta 1, Ruta 2, Ruta 3, Ruta 4, Ruta 6, Ruta 7, Ruta 8, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 21, Ruta 22, Ruta 23, Ruta 24 y Ruta 25; solo con uso de colonia y alta racha de capturas"
-        ],
         "Espada": [
             "Salvaje: Lago Bolaguna ",
             "Incursiones Dinamax: Nidos en Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
@@ -182,11 +168,7 @@
         "Escudo": "Se lo conoce como el Avatar de la Mar. Muchos barcos lucen una talla de Dragonite como mascarón de proa.",
         "Diamante Brillante": "Se dice que vive en algún lugar del mar. Guía a la costa a las tripulaciones de los barcos que han naufragado.",
         "Perla Reluciente": "Se dice que vive en algún lugar del mar. Guía a la costa a las tripulaciones de los barcos que han naufragado.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Posee una inteligencia similar a la humana. Se dice que este “guardián del mar” es capaz de volar alrededor de la Tierra en 16 horas.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Dragonite es capaz de dar la vuelta al mundo en solo 16 horas. Es un Pokémon de buen corazón que guía hasta tierra a barcos que se encuentran perdidos en plena tormenta y a punto de zozobrar.",
-        "Ranger": "Dragonite transporta de una ciudad a otra a los Rangers que le merecen confianza."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

@@ -13,20 +13,14 @@
         "Sacapecho"
     ],
     "stats": {
-        "hp": "83",
-        "atk": "80",
-        "def": "75",
-        "atk esp": "70",
-        "def esp": "70",
-        "speed": "91"
+        "hp": 83,
+        "atk": 80,
+        "def": 75,
+        "atk esp": 70,
+        "def esp": 70,
+        "speed": 91
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Pidgeotto (nivel 36)"
-        ],
-        "Azul": [
-            "Evolucionar: a Pidgeotto (nivel 36)"
-        ],
         "Amarillo": [
             "Evolucionar: a Pidgeotto (nivel 36)"
         ],
@@ -112,14 +106,6 @@
         "Ultraluna": [
             "Escáner insular: Ruta 10 (jueves)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 1, Ruta 2, Ruta 5, Ruta 6, Ruta 7, Ruta 8, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 20, Ruta 21, Ruta 22, Ruta 23, Ruta 24 y Ruta 25",
-            "Evolucionar: a Pidgeotto (nivel 36)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 1, Ruta 2, Ruta 5, Ruta 6, Ruta 7, Ruta 8, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 20, Ruta 21, Ruta 22, Ruta 23, Ruta 24 y Ruta 25",
-            "Evolucionar: a Pidgeotto (nivel 36)"
-        ],
         "Espada": [
             "Pidgeot no se puede conseguir en este videojuego."
         ],
@@ -169,12 +155,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Cuando aletea con toda su fuerza, crea corrientes de aire capaces de doblar grandes árboles.",
         "Perla Reluciente": "Cuando aletea con toda su fuerza, crea corrientes de aire capaces de doblar grandes árboles.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Capaz de volar increíblemente rápido. Cuando percibas su aleteo hará mucho que habrá desaparecido.",
-        "Stadium 2": "Pokémon Oro insertado: Despliega sus bellas alas para acobardar a sus enemigos. Puede volar a velocidad Mach 2.\nPokémon Plata insertado: Sus músculos pectorales son tan fuertes que podría parar una ventisca con unos cuantos aleteos.\n",
-        "Pokémon GO": "\nPidgeot: El plumaje de este Pokémon es bonito e hipnótico. Muchos Entrenadores se quedan embobados ante la belleza impactante de las plumas que tiene en la cabeza; lo que les lleva a elegir a Pidgeot como su Pokémon.\nMega-Pidgeot: Su potencia muscular ha aumentado tanto que es capaz de mantener el vuelo sin descanso durante dos semanas.",
-        "Trazos de luz": "Lanza varios tornados contra el oponente.",
-        "New Pokémon Snap": "Las corrientes de aire que crean al batir las alas arrastran todo a su paso. Su excelente vista les permite localizar Magikarp chapoteando en la distancia."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

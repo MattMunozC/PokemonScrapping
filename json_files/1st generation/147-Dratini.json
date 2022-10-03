@@ -11,22 +11,14 @@
         "Escama especial"
     ],
     "stats": {
-        "hp": "41",
-        "atk": "64",
-        "def": "45",
-        "atk esp": "50",
-        "def esp": "50",
-        "speed": "50"
+        "hp": 41,
+        "atk": 64,
+        "def": 45,
+        "atk esp": 50,
+        "def esp": 50,
+        "speed": 50
     },
     "location": {
-        "Rojo": [
-            "Pescando con supercaña: Zona Safari",
-            "Especial: Canjear en el Casino Rocket por 2.800 fichas"
-        ],
-        "Azul": [
-            "Pescando con supercaña: Zona Safari",
-            "Especial: Canjear en el Casino Rocket por 4.600 fichas"
-        ],
         "Amarillo": [
             "Pescando con supercaña: Zona Safari"
         ],
@@ -136,12 +128,6 @@
         "Ultraluna": [
             "Pescando: Pendiente de Poni y Jardines de Poni"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 10"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 10"
-        ],
         "Espada": [
             "Salvaje: Lago Bolaguna ",
             "Pescando: Lago Bolaguna ",
@@ -197,11 +183,7 @@
         "Escudo": "Durante mucho tiempo se dudó de su existencia. La pequeña protuberancia de la frente es en realidad un cuerno incipiente.",
         "Diamante Brillante": "Lo llaman el Pokémon Espejismo porque son muy pocos los que lo han visto, aunque se han encontrado ejemplares de su muda.",
         "Perla Reluciente": "Lo llaman el Pokémon Espejismo porque son muy pocos los que lo han visto, aunque se han encontrado ejemplares de su muda.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Se sabe que incluso los jóvenes superan los 2 metros. Es raro y se ha considerado que su existencia era sólo un mito.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Dratini muda y se despoja de la vieja piel continuamente. Es algo que necesita hacer porque la energía que tiene en su interior no para de alcanzar niveles incontrolables.",
-        "Sombras de Almia": "Ataca lanzando llamas azules que solo poseen los Pokémon del grupo dragón."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

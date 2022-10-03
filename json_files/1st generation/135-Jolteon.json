@@ -11,20 +11,14 @@
         "Pies rápidos"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "65",
-        "def": "60",
-        "atk esp": "110",
-        "def esp": "95",
-        "speed": "130"
+        "hp": 65,
+        "atk": 65,
+        "def": 60,
+        "atk esp": 110,
+        "def esp": 95,
+        "speed": 130
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Eevee (utilizando piedra trueno)."
-        ],
-        "Azul": [
-            "Evolucionar: a Eevee (utilizando piedra trueno)."
-        ],
         "Amarillo": [
             "Evolucionar: a Eevee (utilizando piedra trueno)."
         ],
@@ -114,12 +108,6 @@
         "Ultraluna": [
             "Evolucionar: a Eevee (utilizando piedra trueno)."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Eevee (utilizando piedra trueno)."
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Eevee (utilizando piedra trueno)."
-        ],
         "Espada": [
             "Salvaje:",
             "Área Silvestre: Lago del Enfado, sólo en presencia de tormenta eléctrica.",
@@ -176,12 +164,7 @@
         "Escudo": "Acumula iones negativos de la atmósfera para lanzar rayos de 10 000 V de potencia.",
         "Diamante Brillante": "La electricidad que maneja alcanza una potencia de 10 000 V. Cuando eriza el pelaje que le recubre el cuerpo, este forma púas afiladísimas.",
         "Perla Reluciente": "La electricidad que maneja alcanza una potencia de 10 000 V. Cuando eriza el pelaje que le recubre el cuerpo, este forma púas afiladísimas.",
-        "Leyendas: Arceus": "Cuando se enfada, el pelaje se le eriza a modo de agujas puntiagudas. Es posible oír el crepitar de la electricidad latente en su respiración.",
-        "Stadium": "Sus armas son sus ataques eléctricos de 10.000 voltios y su pelaje espinoso. Su pelo afilado despedaza a los enemigos al erizarse.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Las células de Jolteon generan un nivel bajo de electricidad, cuya intensidad aumenta con la electricidad estática que acumula por un pelaje formado por agujas cargadas de electricidad. Esta característica le permite lanzar rayos.",
-        "Ranger": "Jolteon es una de las llaves del Templo de Floresta. Ataca con rayos.",
-        "New Pokémon Snap": "Todos y cada uno de los pelos de su pelaje están cargados de electricidad. El voltaje de un Jolteon es tan potente que incluso los pelos que pierde y caen al suelo tardan un rato en descargarse por completo."
+        "Leyendas: Arceus": "Cuando se enfada, el pelaje se le eriza a modo de agujas puntiagudas. Es posible oír el crepitar de la electricidad latente en su respiración."
     },
     "evolution": [
         [

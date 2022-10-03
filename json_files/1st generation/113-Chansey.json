@@ -12,20 +12,14 @@
         "Alma cura"
     ],
     "stats": {
-        "hp": "250",
-        "atk": "5",
-        "def": "5",
-        "atk esp": "35",
-        "def esp": "105",
-        "speed": "50"
+        "hp": 250,
+        "atk": 5,
+        "def": 5,
+        "atk esp": 35,
+        "def esp": 105,
+        "speed": 50
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Zona Safari y Mazmorra Rara"
-        ],
-        "Azul": [
-            "Salvaje: Zona Safari y Mazmorra Rara"
-        ],
         "Amarillo": [
             "Salvaje: Zona Safari y Mazmorra Rara"
         ],
@@ -130,12 +124,6 @@
             " Salvaje: Llanura de Poni",
             "Evolucionar: a Happiny (nivel, día, piedra oval equipada)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 5, Ruta 6, Ruta 8, Ruta 9, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 21, Ruta 23, Monte Moon, Cueva Diglett, Torre Pokémon, Central de Energía, Mansión Pokémon, Ruta 5 y Calle Victoria (planta baja); solo con uso de colonia y/o alta racha de capturas"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 5, Ruta 6, Ruta 8, Ruta 9, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 21, Ruta 23, Monte Moon, Cueva Diglett, Torre Pokémon, Central de Energía, Mansión Pokémon, Ruta 5 y Calle Victoria (planta baja); solo con uso de colonia y/o alta racha de capturas"
-        ],
         "Espada": [
             "Salvaje: Cueva Contienda, Playa Desafío, Ruta Desafío, Cueva Tenacidad, Prado Reverencia, Bosque Concentración, Isla Melosa, Bahía Circular, Cuenca Arenosa, Gruta Calentamiento, Humedal Frescor, Mar Andana, Llano Entrenamiento y Mar Gimnástico",
             "Aventura Dinamax "
@@ -191,10 +179,7 @@
         "Escudo": "Este Pokémon solía ser lento de reflejos, pero ha desarrollado una gran velocidad para evitar que le roben sus preciados huevos.",
         "Diamante Brillante": "Se dice que trae la felicidad. Es un Pokémon amable que comparte sus huevos con la gente herida.",
         "Perla Reluciente": "Pone varios huevos al día, pero no los comparte con aquellos que albergan el mal en su corazón.",
-        "Leyendas: Arceus": "Este Pokémon de corazón puro comparte con aquellos que están heridos sus preciados huevos, comúnmente conocidos como \"alejamédicos\" por sus altas propiedades nutritivas.",
-        "Stadium": "Desprende suculentos huevos cada día. Si lo tratas con amor y cariño, sus huevos se volverán más deliciosos todavía.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Chansey pone a diario huevos con un valor nutritivo altísimo. Están tan ricos que hasta quien no tenga hambre se los comerá en un abrir y cerrar de ojos."
+        "Leyendas: Arceus": "Este Pokémon de corazón puro comparte con aquellos que están heridos sus preciados huevos, comúnmente conocidos como \"alejamédicos\" por sus altas propiedades nutritivas."
     },
     "evolution": [
         [

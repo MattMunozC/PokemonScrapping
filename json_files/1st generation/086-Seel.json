@@ -12,22 +12,14 @@
         "Gélido"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "45",
-        "def": "55",
-        "atk esp": "45",
-        "def esp": "70",
-        "speed": "45"
+        "hp": 65,
+        "atk": 45,
+        "def": 55,
+        "atk esp": 45,
+        "def esp": 70,
+        "speed": 45
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Islas Espuma",
-            "Intercambiar: por un Ponyta en el Laboratorio de Isla Canela"
-        ],
-        "Azul": [
-            "Salvaje: Islas Espuma",
-            "Intercambiar: por un Ponyta en el Laboratorio de Isla Canela"
-        ],
         "Amarillo": [
             "Salvaje: Islas Espuma"
         ],
@@ -123,12 +115,6 @@
             "Surfeando: Gruta Unemar",
             "Poké Resort: Cayo Recreo, tras llegar a Melemele"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Islas Espuma"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Islas Espuma"
-        ],
         "Espada": [
             "Seel no se puede conseguir en este videojuego."
         ],
@@ -179,10 +165,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Este Pokémon vive en icebergs. Usa el cuerno que tiene en la cabeza para abrirse paso en mares helados.",
         "Perla Reluciente": "Este Pokémon vive en icebergs. Usa el cuerno que tiene en la cabeza para abrirse paso en mares helados.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Se jacta de su gruesa piel, cubierta por un pelaje de brillante azul. Atraviesa témpanos de hielo incluso a 40 grados bajo cero.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Seel busca a sus presas en aguas heladas, bajo las capas de hielo. Cuando necesita respirar, abre un agujero en el hielo con la afilada protuberancia que tiene encima de la cabeza."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

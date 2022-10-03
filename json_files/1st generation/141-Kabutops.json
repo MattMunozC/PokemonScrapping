@@ -13,20 +13,14 @@
         "Armadura frágil"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "115",
-        "def": "105",
-        "atk esp": "65",
-        "def esp": "70",
-        "speed": "80"
+        "hp": 60,
+        "atk": 115,
+        "def": 105,
+        "atk esp": 65,
+        "def esp": 70,
+        "speed": 80
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Kabuto (nivel 40)."
-        ],
-        "Azul": [
-            "Evolucionar: a Kabuto (nivel 40)."
-        ],
         "Amarillo": [
             "Evolucionar: a Kabuto (nivel 40)."
         ],
@@ -114,12 +108,6 @@
         "Ultraluna": [
             "Evolucionar: a Kabuto (nivel 40)."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Kabuto (nivel 40)."
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Kabuto (nivel 40)."
-        ],
         "Espada": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores",
             "Intercambiar: de Pokémon Espada",
@@ -172,10 +160,7 @@
         "Escudo": "Se desconoce el motivo de la extinción de este feroz Pokémon prehistórico que habitaba en los cálidos mares de antaño.",
         "Diamante Brillante": "Se cree que este Pokémon cambió de hábitat y pasó del mar a la tierra cuando sus presas se adaptaron a vivir fuera del agua.",
         "Perla Reluciente": "Se cree que este Pokémon cambió de hábitat y pasó del mar a la tierra cuando sus presas se adaptaron a vivir fuera del agua.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Nada muy rápido. Atrapa a su oponente con sus patas delanteras en forma de hoz y extrae todo el líquido de su cuerpo.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Hace mucho tiempo, Kabutops buceaba para atrapar a sus presas. Parece ser que en algún momento cambió de hábitat y se adaptó a vivir en tierra firme. La transformación que se aprecia en las patas y branquias así lo confirma."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

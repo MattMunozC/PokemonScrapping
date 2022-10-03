@@ -11,22 +11,14 @@
         "Cura lluvia"
     ],
     "stats": {
-        "hp": "44",
-        "atk": "48",
-        "def": "65",
-        "atk esp": "50",
-        "def esp": "64",
-        "speed": "43"
+        "hp": 44,
+        "atk": 48,
+        "def": 65,
+        "atk esp": 50,
+        "def esp": 64,
+        "speed": 43
     },
     "location": {
-        "Rojo": [
-            "Especial: Es uno de los Pokémon iniciales que se pueden conseguir al inicio de la aventura. Te da a elegir el Profesor Oak en su laboratorio de pueblo Paleta (solo uno)",
-            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
-        ],
-        "Azul": [
-            "Especial: Es uno de los Pokémon iniciales que se pueden conseguir al inicio de la aventura. Te da a elegir el Profesor Oak en su laboratorio de pueblo Paleta (solo uno)",
-            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
-        ],
         "Amarillo": [
             "Especial: Lo entrega una agente de policía en el centro de Ciudad Carmín, solo si has conseguido la medalla Trueno (solo uno)",
             "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
@@ -117,16 +109,6 @@
         "Ultraluna": [
             "Escáner insular: Gruta Unemar (lunes)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 24, Ruta 25 e Islas Espuma; solo con uso de colonia y/o alta racha de capturas",
-            "Especial: Lo entrega la agente Mara de Ciudad Carmín si se han capturado 60 o más Pokémon (solo uno)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 24, Ruta 25 e Islas Espuma; solo con uso de colonia y/o alta racha de capturas",
-            "Especial: Lo entrega la agente Mara de Ciudad Carmín si se han capturado 60 o más Pokémon (solo uno)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Transferir: desde Pokémon HOME.",
             "Especial: es uno de los dos Pokémon que te da a elegir Tania en el Dojo Maestro."
@@ -178,13 +160,7 @@
         "Escudo": "Cuando se siente en peligro, se esconde en su caparazón y escupe chorros de agua por la boca.",
         "Diamante Brillante": "Se mete en el caparazón para protegerse y no desaprovecha ninguna oportunidad para contraatacar con un chorro de agua a presión.",
         "Perla Reluciente": "Se mete en el caparazón para protegerse y no desaprovecha ninguna oportunidad para contraatacar con un chorro de agua a presión.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Tarda en formar el caparazón y se endurece al salir del huevo. Despide por la boca poderosa espuma.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "El caparazón de Squirtle no le sirve de protección únicamente. Su forma redondeada y las hendiduras que tiene le ayudan a deslizarse en el agua y le permiten nadar a gran velocidad.",
-        "Ranger": "Squirtle lanza chorros de agua capaces de apagar llamas pequeñas.",
-        "Sombras de Almia": "Lanza por la boca chorros de agua para atacar.",
-        "New Pokémon Snap": "Los Squirtle se tumban al sol para secar su caparazón y, al mismo tiempo, obtener los nutrientes que necesitan para hacerse más fuertes. Como son algo débiles, a veces necesitan que Lapras los saque de apuros."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

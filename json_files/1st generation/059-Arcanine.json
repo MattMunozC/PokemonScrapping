@@ -12,20 +12,14 @@
         "Justiciero"
     ],
     "stats": {
-        "hp": "90",
-        "atk": "110",
-        "def": "80",
-        "atk esp": "100",
-        "def esp": "80",
-        "speed": "95"
+        "hp": 90,
+        "atk": 110,
+        "def": 80,
+        "atk esp": 100,
+        "def esp": 80,
+        "speed": 95
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Growlithe (usando piedra fuego)"
-        ],
-        "Azul": [
-            "Intercambiar: de Pokémon Rojo, Pokémon Amarillo, Pokémon Oro o Pokémon Cristal."
-        ],
         "Amarillo": [
             "Evolucionar: a Growlithe (usando piedra fuego)"
         ],
@@ -109,13 +103,6 @@
         "Ultraluna": [
             "Evolucionar: a Growlithe (usando piedra fuego)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 7 y Ruta 8",
-            "Evolucionar: a Growlithe (usando piedra fuego)"
-        ],
-        "Let's Go Eevee!": [
-            "Especial: Regalo en Ciudad Carmín por capturar 5 Meowth salvajes"
-        ],
         "Espada": [
             "Incursiones Dinamax: Con posible habilidad oculta: Gorro del Gigante, nido al sureste.",
             "Evolucionar: a Growlithe (usando piedra fuego)"
@@ -167,12 +154,7 @@
         "Escudo": "Muchos han quedado cautivados por su belleza desde la antigüedad. Corre ágilmente como si tuviera alas.",
         "Diamante Brillante": "Su aspecto regio y orgulloso le ha hecho ganarse el corazón de la gente desde antaño.",
         "Perla Reluciente": "Su aspecto regio y orgulloso le ha hecho ganarse el corazón de la gente desde antaño.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Un Pokémon muy admirado en China desde la antigüedad por su belleza. Corre ágilmente como si tuviera alas.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Arcanine es conocido por lo veloz que es. Dicen que es capaz de correr 10.000 km en 24 horas. El fuego que arde con vigor en el interior de este Pokémon constituye su fuente de energía.",
-        "Ranger": "Arcanine se mueve a velocidad de vértigo mientras lanza grandes llamas.",
-        "Sombras de Almia": "Ataca lanzando llamas que se extienden y embistiendo a sus enemigos."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

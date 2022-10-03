@@ -12,20 +12,14 @@
         "Aclimatación"
     ],
     "stats": {
-        "hp": "90",
-        "atk": "55",
-        "def": "75",
-        "atk esp": "60",
-        "def esp": "75",
-        "speed": "30"
+        "hp": 90,
+        "atk": 55,
+        "def": 75,
+        "atk esp": 60,
+        "def esp": 75,
+        "speed": 30
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: por un Slowbro en el paso del camino de Bicis."
-        ],
-        "Azul": [
-            "Intercambiar: por un Slowbro en el paso del camino de Bicis."
-        ],
         "Amarillo": [
             "Salvaje: Mazmorra Rara."
         ],
@@ -113,12 +107,6 @@
         "Ultraluna": [
             "Salvaje: Pendiente de Poni"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Cueva Celeste"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Cueva Celeste"
-        ],
         "Espada": [
             "Salvaje: Cueva Contienda y Humedal Frescor",
             "Aventura Dinamax "
@@ -172,10 +160,7 @@
         "Escudo": "Se nutre principalmente de Pokémon insecto, a los que paraliza primero lamiéndolos con su larga lengua y luego engulle de un bocado.",
         "Diamante Brillante": "En vez de las manos, usa la lengua, que mide el doble que su cuerpo. Su saliva pegajosa lo atrapa todo.",
         "Perla Reluciente": "En vez de las manos, usa la lengua, que mide el doble que su cuerpo. Su saliva pegajosa lo atrapa todo.",
-        "Leyendas: Arceus": "Usa su larga lengua con destreza, como si de una mano se tratase. Al hervir su untuosa saliva, se obtiene un pegamento muy potente con multitud de usos.",
-        "Stadium": "Su lengua, el doble de la longitud del cuerpo, se mueve libremente para cazar presas. Sus lametazos producen escalofríos.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Cada vez que Lickitung se encuentra con algo que no conoce, le da un lametazo. Es la forma que tiene de memorizar las cosas, por la textura y el sabor. No soporta los sabores ácidos."
+        "Leyendas: Arceus": "Usa su larga lengua con destreza, como si de una mano se tratase. Al hervir su untuosa saliva, se obtiene un pegamento muy potente con multitud de usos."
     },
     "evolution": [
         [

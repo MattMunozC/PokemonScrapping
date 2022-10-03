@@ -12,20 +12,14 @@
         "Cálculo final"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "60",
-        "def": "70",
-        "atk esp": "85",
-        "def esp": "75",
-        "speed": "40"
+        "hp": 65,
+        "atk": 60,
+        "def": 70,
+        "atk esp": 85,
+        "def esp": 75,
+        "speed": 40
     },
     "location": {
-        "Rojo": [
-            "Especial: Canjear en el casino de Ciudad Azulona por 9.999 fichas"
-        ],
-        "Azul": [
-            "Especial: Canjear en el casino de Ciudad Azulona por 6.500 fichas"
-        ],
         "Amarillo": [
             "Especial: Canjear en el casino de Ciudad Azulona por 9.999 fichas"
         ],
@@ -111,14 +105,6 @@
         "Ultraluna": [
             "Especial: Lo entrega un empleado en la Casa Æther tras el Episodio RR"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 7; solo con uso de colonia y/o alta racha de capturas",
-            "Especial: Regalo de un hombre en Ciudad Azafrán tras expulsar al Team Rocket de Silph S. A."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 7; solo con uso de colonia y/o alta racha de capturas",
-            "Especial: Regalo de un hombre en Ciudad Azafrán tras expulsar al Team Rocket de Silph S. A."
-        ],
         "Espada": [
             "Especial: En el Dojo Maestro. Te lo entrega el hijo de Mostaz en la sala de la derecha."
         ],
@@ -168,11 +154,7 @@
         "Escudo": "Durante los últimos años, ha estado muy activo en el ciberespacio comprobando que no haya datos sospechosos.",
         "Diamante Brillante": "Es el primer Pokémon creado de forma artificial. Puede viajar por el ciberespacio.",
         "Perla Reluciente": "Es el primer Pokémon creado de forma artificial. Puede viajar por el ciberespacio.",
-        "Leyendas: Arceus": "No hemos percibido respiración ni pulso algunos, mas su cuerpo parece funcionar sin problema. Es tan extraño que me tiene perplejo.",
-        "Stadium": "Pokémon hecho por el hombre que consiste en código de programación. Puede moverse libremente en el ciberespacio.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Porygon es capaz de convertirse otra vez en datos informáticos y de entrar en el ciberespacio. Tiene protección anticopia, así que es imposible duplicarlo.",
-        "Ranger": "Porygon se vuelve invisible para confundir a los enemigos e impedir su captura."
+        "Leyendas: Arceus": "No hemos percibido respiración ni pulso algunos, mas su cuerpo parece funcionar sin problema. Es tan extraño que me tiene perplejo."
     },
     "evolution": [
         [

@@ -12,21 +12,14 @@
         "Humedad"
     ],
     "stats": {
-        "hp": "30",
-        "atk": "40",
-        "def": "70",
-        "atk esp": "70",
-        "def esp": "25",
-        "speed": "60"
+        "hp": 30,
+        "atk": 40,
+        "def": 70,
+        "atk esp": 70,
+        "def esp": 25,
+        "speed": 60
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Islas Espuma",
-            "Pescando con supercaña: Ruta 19, Ruta 20, Ruta 21, Islas Espuma e Isla Canela"
-        ],
-        "Azul": [
-            "Pescando con supercaña: Ruta 19, Ruta 20, Ruta 21, Islas Espuma e Isla Canela"
-        ],
         "Amarillo": [
             "Pescando con supercaña: Ruta 10, Ruta 11, Ruta 12 y  Ruta 13 y Ciudad Carmín"
         ],
@@ -124,12 +117,6 @@
         "Ultraluna": [
             "Escáner insular: Bahía Kalae (solo los miércoles)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 11, Ruta 12 y Ruta 13"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 11, Ruta 12 y Ruta 13"
-        ],
         "Espada": [
             "Salvaje: Mar Islejos ",
             "Incursiones Dinamax: nidos en Bahía Circular , Mar Gimnástico  y Mar Meloso "
@@ -183,13 +170,7 @@
         "Escudo": "Nada con la gracilidad de un bailarín, creando remolinos a su paso, y juega con sus congéneres a ver quién forma el más grande.",
         "Diamante Brillante": "Hace su nido entre los corales. Si advierte peligro, escupe una tinta negra y huye.",
         "Perla Reluciente": "Hace su nido entre los corales. Si advierte peligro, escupe una tinta negra y huye.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Utiliza la cola para mantener el equilibrio mientras expulsa tinta por la boca. Parece que usa la tinta para disparar a los bichos.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Horsea come insectos pequeños y el musgo de las rocas. Si las corrientes del océano cobran fuerza, este Pokémon se anclará con la cola a rocas o corales para evitar que las aguas lo arrastren.",
-        "Ranger": "Que no te confunda su aspecto. Horsea ataca con chorros de agua.",
-        "Sombras de Almia": "Lanza burbujas por la boca para atacar.",
-        "RubíZafiro": "Si Horsea siente peligro, echará por la boca una densa tinta negra inconscientemente e intentará huir. Este Pokémon nada muy bien batiendo las aletas que tiene en el lomo."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

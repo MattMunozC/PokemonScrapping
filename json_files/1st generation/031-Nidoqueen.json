@@ -13,20 +13,14 @@
         "Potencia bruta"
     ],
     "stats": {
-        "hp": "90",
-        "atk": "92",
-        "def": "87",
-        "atk esp": "75",
-        "def esp": "85",
-        "speed": "76"
+        "hp": 90,
+        "atk": 92,
+        "def": 87,
+        "atk esp": 75,
+        "def esp": 85,
+        "speed": 76
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Nidorina (utilizando piedra lunar)."
-        ],
-        "Azul": [
-            "Evolucionar: a Nidorina (utilizando piedra lunar)."
-        ],
         "Amarillo": [
             "Evolucionar: a Nidorina (utilizando piedra lunar)."
         ],
@@ -115,14 +109,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Nidorina (utilizando piedra lunar).",
-            "Salvaje: Ruta 23"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Nidorina (utilizando piedra lunar).",
-            "Salvaje: Ruta 23"
-        ],
         "Espada": [
             "Salvaje: Lecho del Gigante ",
             "Aventura Dinamax ",
@@ -176,10 +162,7 @@
         "Escudo": "Para mecer a sus crías, las coloca en los huecos que tiene entre las púas dorsales, momento durante el cual no secretan veneno.",
         "Diamante Brillante": "Tiene el cuerpo recubierto de duras escamas. No duda en arriesgar su vida para proteger a las crías de su madriguera.",
         "Perla Reluciente": "Tiene el cuerpo recubierto de duras escamas. No duda en arriesgar su vida para proteger a las crías de su madriguera.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Sus durísimas y afiladas escamas se erizan cuando está nerviosa. Utiliza su corpulencia para realizar poderosos movimientos.",
-        "Stadium 2": "Pokémon Oro insertado: Usa su cuerpo duro y con escamas para sellar la entrada a su madriguera y protegerse de los depredadores.\nPokémon Plata insertado: Su cuerpo está cubierto por pequeñas escamas. Nunca parece acobardarse ante ningún ataque.\n",
-        "Pokémon GO": "Nidoqueen tiene el cuerpo totalmente recubierto de escamas durísimas. Suele lanzar por los aires a sus rivales de los violentos golpes que les propina. Cuando se trata de defender a sus crías, alcanza su nivel máximo de fuerza."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

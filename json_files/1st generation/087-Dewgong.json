@@ -13,22 +13,14 @@
         "Gélido"
     ],
     "stats": {
-        "hp": "90",
-        "atk": "70",
-        "def": "80",
-        "atk esp": "70",
-        "def esp": "95",
-        "speed": "70"
+        "hp": 90,
+        "atk": 70,
+        "def": 80,
+        "atk esp": 70,
+        "def esp": 95,
+        "speed": 70
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Islas Espuma (sótanos 1 y 3).",
-            "Evolucionar: a Seel (nivel 34)."
-        ],
-        "Azul": [
-            "Salvaje: Islas Espuma (sótanos 1 y 3).",
-            "Evolucionar: a Seel (nivel 34)."
-        ],
         "Amarillo": [
             "Salvaje: Islas Espuma (sótanos 3 y 4).",
             "Intercambiar: por un Growlithe en el laboratorio de Isla Canela.",
@@ -129,14 +121,6 @@
         "Ultraluna": [
             "Evolucionar: a Seel (nivel 34)."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Islas Espuma.",
-            "Evolucionar: a Seel (nivel 34)."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Islas Espuma.",
-            "Evolucionar: a Seel (nivel 34)."
-        ],
         "Espada": [
             "Dewgong no se puede conseguir en este videojuego."
         ],
@@ -188,11 +172,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Está cubierto de un luminoso pelaje blanco que lo camufla en la nieve.",
         "Perla Reluciente": "Está cubierto de un luminoso pelaje blanco que lo camufla en la nieve.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Almacena energía termal en su cuerpo níveo cubierto de pelaje. Nada en agua glacial a ocho nudos.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "A Dewgong le encanta dormitar sobre la frialdad del hielo. Antiguamente, algún que otro marino lo confundió con una sirena al verlo dormido sobre un glaciar.",
-        "New Pokémon Snap": "Pueden nadar a grandes velocidades gracias a la forma hidrodinámica de su esbelto cuerpo. ¡Verlos jugar con Spheal como si de pelotas se tratasen es todo un espectáculo!"
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

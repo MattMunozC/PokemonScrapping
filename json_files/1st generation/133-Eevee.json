@@ -12,22 +12,14 @@
         "Anticipación"
     ],
     "stats": {
-        "hp": "55",
-        "atk": "55",
-        "def": "50",
-        "atk esp": "45",
-        "def esp": "65",
-        "speed": "55"
+        "hp": 55,
+        "atk": 55,
+        "def": 50,
+        "atk esp": 45,
+        "def esp": 65,
+        "speed": 55
     },
     "location": {
-        "Rojo": [
-            "Regalo: Azotea de la Mansión Azulona, entrando por la parte posterior",
-            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
-        ],
-        "Azul": [
-            "Regalo: Azotea de la Mansión Azulona, entrando por la parte posterior",
-            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
-        ],
         "Amarillo": [
             "Regalo: Azotea de la Mansión Azulona, entrando por la parte posterior",
             "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
@@ -140,13 +132,6 @@
             "Salvaje: Ruta 4 y Ruta 6",
             "Regalo: Eclosionar el huevo recibido en Cuidados Pokémon"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 17"
-        ],
-        "Let's Go Eevee!": [
-            "Especial: Pokémon inicial entregado por el profesor Oak en Pueblo Paleta (solo uno)",
-            "Salvaje: Ruta 17."
-        ],
         "Espada": [
             "Salvaje: Ruta 4, Lecho del Gigante  cuando el tiempo está soleado y Lago Bolaguna cuando el tiempo está soleado.",
             "Incursiones Dinamax: Con posible habilidad oculta: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste",
@@ -203,12 +188,7 @@
         "Escudo": "\nEevee: Su irregular estructura genética alberga el secreto de la capacidad que posee este Pokémon tan especial para adoptar evoluciones muy variadas.\nEevee Gigamax: Su ingenuidad ha alcanzado nuevas cotas. Juguetea inocentemente con cualquiera, pero es tan grande que termina aplastándolo.",
         "Diamante Brillante": "Un extraño Pokémon que se adapta a los entornos más hostiles gracias a los distintos poderes y aspectos que adopta al evolucionar.",
         "Perla Reluciente": "Un extraño Pokémon que se adapta a los entornos más hostiles gracias a los distintos poderes y aspectos que adopta al evolucionar.",
-        "Leyendas: Arceus": "Puede adoptar distintas formas al evolucionar. Creemos que en él reside la clave para comprender el secreto de la evolución de los Pokémon.",
-        "Stadium": "Su código genético es irregular. Evoluciona a tres tipos de Pokémon cuando es expuesto a la radiación de las piedras elementales.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "La configuración genética de Eevee le permite mutar y adaptarse enseguida a cualquier medio en el que viva. La evolución de este Pokémon suele ser posible gracias a las radiaciones emitidas por varias piedras.",
-        "Sombras de Almia": "Se mueve con velocidad y embiste para atacar.",
-        "New Pokémon Snap": "Se dice que su peculiar genética esconde un sinfín de posibilidades. Es posible que los Eevee de Lensis se hayan adaptado a los entornos de las diferentes islas."
+        "Leyendas: Arceus": "Puede adoptar distintas formas al evolucionar. Creemos que en él reside la clave para comprender el secreto de la evolución de los Pokémon."
     },
     "evolution": [
         [

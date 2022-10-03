@@ -13,20 +13,14 @@
         "Nado rápido"
     ],
     "stats": {
-        "hp": "90",
-        "atk": "95",
-        "def": "95",
-        "atk esp": "70",
-        "def esp": "90",
-        "speed": "70"
+        "hp": 90,
+        "atk": 95,
+        "def": 95,
+        "atk esp": 70,
+        "def esp": 90,
+        "speed": 70
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Poliwhirl (utilizando piedra agua)."
-        ],
-        "Azul": [
-            "Evolucionar: a Poliwhirl (utilizando piedra agua)."
-        ],
         "Amarillo": [
             "Evolucionar: a Poliwhirl (utilizando piedra agua)."
         ],
@@ -125,14 +119,6 @@
             "Salvaje, de día: Parque de Malíe (como refuerzo en clima lluvioso).",
             "Evolucionar: a Poliwhirl (utilizando piedra agua)."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Poliwhirl (utilizando piedra agua).",
-            "Salvaje: Cueva Celeste"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Poliwhirl (utilizando piedra agua).",
-            "Salvaje: Cueva Celeste"
-        ],
         "Espada": [
             "Salvaje: Cueva Contienda",
             "Aventura Dinamax ",
@@ -186,11 +172,7 @@
         "Escudo": "No solo es un experto nadador, sino que también domina las artes marciales. Propina enérgicos puñetazos gracias a sus musculosos brazos.",
         "Diamante Brillante": "Tiene unos músculos tan desarrollados que es capaz de atravesar enormes océanos a nado sin descanso.",
         "Perla Reluciente": "Tiene unos músculos tan desarrollados que es capaz de atravesar enormes océanos a nado sin descanso.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Excelente nadador, es más rápido que un campeón humano. Es capaz de llegar más lejos y más rápido sin apenas respirar.",
-        "Stadium 2": "Pokémon Oro insertado: Aunque es un nadador muy hábil y enérgico, que usa todos sus músculos, vive en tierra firme.\nPokémon Plata insertado: Este fuerte y hábil nadador es capaz hasta de cruzar los grandes océanos, sólo por placer.\n",
-        "Pokémon GO": "Poliwrath tiene unos músculos fornidos y muy desarrollados, por lo que nunca se agota. Es tan fuerte e incansable que cruzar el océano a nado no le supone ningún esfuerzo.",
-        "Ranger": "Poliwrath lanza grandes chorros de agua con enorme potencia."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

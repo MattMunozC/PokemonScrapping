@@ -12,22 +12,14 @@
         "Toque tóxico"
     ],
     "stats": {
-        "hp": "105",
-        "atk": "105",
-        "def": "75",
-        "atk esp": "65",
-        "def esp": "100",
-        "speed": "50"
+        "hp": 105,
+        "atk": 105,
+        "def": 75,
+        "atk esp": 65,
+        "def esp": 100,
+        "speed": 50
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Mansión Pokémon",
-            "Evolucionar: a Grimer (nivel 38)"
-        ],
-        "Azul": [
-            "Salvaje: Mansión Pokémon",
-            "Evolucionar: a Grimer (nivel 38)"
-        ],
         "Amarillo": [
             "Salvaje: Mansión Pokémon y Central de Energía",
             "Intercambiar: por un Kangaskhan en el laboratorio de Isla Canela",
@@ -132,13 +124,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Mansión Pokémon y Central de Energía",
-            "Evolucionar: a Grimer (nivel 38)"
-        ],
-        "Let's Go Eevee!": [
-            "Intercambio de Pokémon: Pokémon: Let's Go, Pikachu!"
-        ],
         "Espada": [
             "Muk no se puede conseguir en este videojuego."
         ],
@@ -188,12 +173,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Su cuerpo segrega un fluido tóxico que elimina la vida vegetal cuando la toca.",
         "Perla Reluciente": "Su cuerpo segrega un fluido tóxico que elimina la vida vegetal cuando la toca.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Se vuelve casi invisible en la suciedad. Tocar su cuerpo cubierto de fango provoca horribles envenenamientos.",
-        "Stadium 2": "Pokémon Oro insertado: Su cuerpo está hecho de un veneno muy potente. Si se toca, causa fiebre y obliga a guardar cama.\nPokémon Plata insertado: Les encanta reunirse en zonas apestosas donde se acumula el lodo, haciendo su olor más insoportable.\n",
-        "Pokémon GO": "Les encanta reunirse en zonas apestosas donde se acumula el lodo, haciendo su olor más insoportable.",
-        "Ranger": "Muk va directo al Disco Capturador y lanza grandes bolas de lodo.",
-        "RubíZafiro": "A este Pokémon le encanta comer cosas repulsivas. En ciudades sucias en las que la gente tira la basura por la calle, los Muk tienen sin duda su punto de encuentro."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

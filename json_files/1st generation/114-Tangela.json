@@ -12,22 +12,14 @@
         "Regeneración"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "55",
-        "def": "115",
-        "atk esp": "100",
-        "def esp": "40",
-        "speed": "60"
+        "hp": 65,
+        "atk": 55,
+        "def": 115,
+        "atk esp": 100,
+        "def esp": 40,
+        "speed": 60
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Ruta 21.",
-            "Intercambiar: por un Venonat en el Laboratorio de Isla Canela. Apodo \"Rinkes\", al nivel 24."
-        ],
-        "Azul": [
-            "Salvaje: Ruta 21.",
-            "Intercambiar: por un Venonat en el Laboratorio de Isla Canela. Apodo \"Rinkes\", al nivel 24."
-        ],
         "Amarillo": [
             "Salvaje: Zona Safari (entrada y área 3)."
         ],
@@ -123,12 +115,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 21."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 21."
-        ],
         "Espada": [
             "Salvaje: Bosque Concentración",
             "Aventura Dinamax "
@@ -180,11 +166,7 @@
         "Escudo": "Sus lianas despiden una fragancia peculiar. En cierta zona de Galar se usan como aderezo.",
         "Diamante Brillante": "Está envuelto en lianas azules. Nadie ha logrado ver el rostro que se oculta tras ellas.",
         "Perla Reluciente": "Está envuelto en lianas azules. Nadie ha logrado ver el rostro que se oculta tras ellas.",
-        "Leyendas: Arceus": "Las lianas azules que lo recubren impiden ver su verdadero aspecto. Estas se usan como especia por la sensación refrescante que producen al morderlas.",
-        "Stadium": "Su identidad se ve oscurecida por innumerables lianas azules, parecidas a algas. Se enredará con cualquier cosa.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Se camufla con la multitud de lianas que envuelven su cuerpo y que no dejan de crecer a lo largo de toda su vida.",
-        "Ranger": "Tangela puede lanzar una liana a modo de lazo para fijarse a un poste."
+        "Leyendas: Arceus": "Las lianas azules que lo recubren impiden ver su verdadero aspecto. Estas se usan como especia por la sensación refrescante que producen al morderlas."
     },
     "evolution": [
         [

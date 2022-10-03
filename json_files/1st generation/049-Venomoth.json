@@ -13,22 +13,14 @@
         "Piel milagro"
     ],
     "stats": {
-        "hp": "70",
-        "atk": "65",
-        "def": "60",
-        "atk esp": "90",
-        "def esp": "75",
-        "speed": "90"
+        "hp": 70,
+        "atk": 65,
+        "def": 60,
+        "atk esp": 90,
+        "def esp": 75,
+        "speed": 90
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Zona Safari, Calle Victoria, Mazmorra Rara",
-            "Evolucionar: a Venonat (nivel 31)"
-        ],
-        "Azul": [
-            "Salvaje: Zona Safari, Calle Victoria, Mazmorra Rara",
-            "Evolucionar: a Venonat (nivel 31)"
-        ],
         "Amarillo": [
             "Salvaje: Rutas 14, 15 y Mazmorra rara (planta baja).",
             "Evolucionar: a Venonat (nivel 31)"
@@ -125,14 +117,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 14 y Ruta 15",
-            "Evolucionar: a Venonat (nivel 31)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 14 y Ruta 15",
-            "Evolucionar: a Venonat (nivel 31)"
-        ],
         "Espada": [
             "Venomoth no se puede conseguir en este videojuego."
         ],
@@ -186,10 +170,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Agita las alas para dispersar un polvillo de escamas cuyas toxinas penetran la piel al entrar en contacto con ella.",
         "Perla Reluciente": "Agita las alas para dispersar un polvillo de escamas cuyas toxinas penetran la piel al entrar en contacto con ella.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "El polvo de sus alas es venenoso. Desprende el polvo en cada aleteo: te envenenará si estás en la dirección del viento.",
-        "Stadium 2": "Pokémon Oro insertado: El polvo de sus alas es venenoso si es de color oscuro. Si es claro, causa parálisis.\nPokémon Plata insertado: Cuando ataca, agita sus largas alas violentamente para esparcir polvo venenoso a su alrededor.\n",
-        "Pokémon GO": "Venomoth es nocturno, solo actúa en la oscuridad. Su alimento preferido son los pequeños insectos que se concentran cerca de los focos de luz en la oscuridad de la noche."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

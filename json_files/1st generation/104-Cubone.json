@@ -12,20 +12,14 @@
         "Armadura batalla"
     ],
     "stats": {
-        "hp": "50",
-        "atk": "50",
-        "def": "95",
-        "atk esp": "40",
-        "def esp": "50",
-        "speed": "35"
+        "hp": 50,
+        "atk": 50,
+        "def": 95,
+        "atk esp": 40,
+        "def esp": 50,
+        "speed": 35
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Torre Pokémon (se necesita el Scope Silph)"
-        ],
-        "Azul": [
-            "Salvaje: Torre Pokémon (se necesita el Scope Silph)"
-        ],
         "Amarillo": [
             "Salvaje: Torre Pokémon (se necesita el Scope Silph) y Zona Safari"
         ],
@@ -116,12 +110,6 @@
         "Ultraluna": [
             "Salvaje: Área Volcánica del Wela"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Torre Pokémon y Túnel Roca"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Torre Pokémon y Túnel Roca"
-        ],
         "Espada": [
             "Salvaje: Bosque Concentración y Gruta Calentamiento ",
             "Incursiones Dinamax: Nidos en Mar Andana , Cuenca Arenosa , Playa Desafío  y Cueva Tenacidad "
@@ -175,10 +163,7 @@
         "Escudo": "Lleva puesto el cráneo de su difunta madre. A veces llora en sueños, pero cada lágrima vertida le hace más fuerte.",
         "Diamante Brillante": "El llanto que emite cuando se acuerda de su madre fallecida resuena en el cráneo que lleva en la cabeza.",
         "Perla Reluciente": "El llanto que emite cuando se acuerda de su madre fallecida resuena en el cráneo que lleva en la cabeza.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Siempre lleva la calavera de su madre muerta en su cabeza y nunca muestra el rostro. Grita terroríficamente a la luz de la luna.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "A Cubone le ahoga la pena porque no volverá a ver jamás a su madre. La luna le recuerda a veces a ella, y se pone a llorar. Los churretes que tiene en el cráneo que lleva puesto son debidos a las lágrimas que derrama."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

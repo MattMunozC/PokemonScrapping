@@ -12,20 +12,14 @@
         "Francotirador"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "80",
-        "def": "40",
-        "atk esp": "45",
-        "def esp": "80",
-        "speed": "75"
+        "hp": 65,
+        "atk": 80,
+        "def": 40,
+        "atk esp": 45,
+        "def esp": 80,
+        "speed": 75
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Kakuna (nivel 10)"
-        ],
-        "Azul": [
-            "Evolucionar: a Kakuna (nivel 10)"
-        ],
         "Amarillo": [
             "Intercambiar: de Pokémon Rojo, Azul, Oro, Plata o Cristal."
         ],
@@ -123,15 +117,6 @@
         "Ultraluna": [
             "Escáner insular: Ruta 4 (jueves)"
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Kakuna (nivel 10)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Bosque Verde",
-            "Evolucionar: a Kakuna (nivel 10)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Beedrill no se puede conseguir en este videojuego."
         ],
@@ -181,12 +166,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Su táctica más efectiva consiste en volar a gran velocidad alrededor del enemigo, atacar con sus aguijones venenosos y huir inmediatamente.",
         "Perla Reluciente": "Su táctica más efectiva consiste en volar a gran velocidad alrededor del enemigo, atacar con sus aguijones venenosos y huir inmediatamente.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Vuela a grandes velocidades y ataca con tres aguijones: uno en el trasero y dos en las patas delanteras. Aparece en enjambres.",
-        "Stadium 2": "Pokémon Oro insertado: Tiene tres púas venenosas. La púa de su cola segrega un veneno muy potente.\nPokémon Plata insertado: Puede vencer a cualquier rival con sus potentes aguijones venenosos. A veces ataca en grupo.\n",
-        "Pokémon GO": "\nBeedrill: Los Beedrill defienden su territorio a toda costa. No es conveniente acercarse a su colmena, por seguridad. Si se les molesta, todo un enjambre atacará ferozmente.\nMega-Beedrill: Al megaevolucionar, también le salen aguijones venenosos en las patas posteriores. Tras hincar los de las patas, remata con el del abdomen.",
-        "Ranger": "Beedrill lanza agujas afiladas que pueden romper rocas pequeñas.",
-        "Sombras de Almia": "Vuela a toda velocidad y ataca con aguijones venenosos."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

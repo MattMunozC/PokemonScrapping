@@ -11,20 +11,14 @@
         "Escama especial"
     ],
     "stats": {
-        "hp": "61",
-        "atk": "84",
-        "def": "65",
-        "atk esp": "70",
-        "def esp": "70",
-        "speed": "70"
+        "hp": 61,
+        "atk": 84,
+        "def": 65,
+        "atk esp": 70,
+        "def esp": 70,
+        "speed": 70
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Dratini (nivel 30)"
-        ],
-        "Azul": [
-            "Evolucionar: a Dratini (nivel 30)"
-        ],
         "Amarillo": [
             "Pescando (Supercaña): Zona Safari",
             "Evolucionar: a Dratini (nivel 30)"
@@ -131,14 +125,6 @@
             "Pescando: Jardines de Poni y Pendiente de Poni (como refuerzo de Dratini)",
             "Evolucionar: a Dratini (nivel 30)"
         ],
-        "Let's Go Pikachu!": [
-            "TS Surcaaguas: Ruta 10.",
-            "Evolucionar: a Dratini (nivel 30)."
-        ],
-        "Let's Go Eevee!": [
-            "TS Surcaaguas: Ruta 10.",
-            "Evolucionar: a Dratini (nivel 30)."
-        ],
         "Espada": [
             "Salvaje: Lago Bolaguna ",
             "Aventura Dinamax "
@@ -192,12 +178,7 @@
         "Escudo": "Acumula energía en las esferas de la cola para controlar el clima. La sutil aura que lo rodea le confiere un aspecto misterioso y místico.",
         "Diamante Brillante": "Cuando un aura le rodea el cuerpo, el clima cambia de repente. Se dice que vive en mares y lagos.",
         "Perla Reluciente": "Cuando un aura le rodea el cuerpo, el clima cambia de repente. Se dice que vive en mares y lagos.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Vive en grandes acumulaciones de agua, como el mar o los lagos. Se dice que es capaz de variar el tiempo y volar.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Dragonair acumula grandes cantidades de energía dentro de sí. Dicen que altera el clima de la zona en la que está, descargando energía a través de las esferas de cristal que tiene en el cuello y en la cola.",
-        "Ranger": "Dragonair anda lentamente, pero a veces puede saltar y ponerse a volar.",
-        "Sombras de Almia": "Ataca lanzando llamas azules y se protege con una barrera misteriosa."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

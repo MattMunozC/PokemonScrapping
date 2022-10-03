@@ -12,20 +12,14 @@
         "Fuga"
     ],
     "stats": {
-        "hp": "45",
-        "atk": "50",
-        "def": "55",
-        "atk esp": "75",
-        "def esp": "65",
-        "speed": "30"
+        "hp": 45,
+        "atk": 50,
+        "def": 55,
+        "atk esp": 75,
+        "def esp": 65,
+        "speed": 30
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Ruta 5, Ruta 6, Ruta 7, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 24 y Ruta 25"
-        ],
-        "Azul": [
-            "Intercambiar: de Pokémon Rojo o Pokémon Amarillo"
-        ],
         "Amarillo": [
             "Salvaje: Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 24 y Ruta 25"
         ],
@@ -117,13 +111,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 1, Ruta 2, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 21, Ruta 24, Ruta 25 y Bosque Verde."
-        ],
-        "Let's Go Eevee!": [
-            "Intercambiar: de Pokémon: Let's Go, Pikachu!",
-            "GO Park: Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Salvaje: Lago Axew (este), Antigua Atalaya, Arboleda Claroscuro y Pradera Radiante. (Recomendable el clima nublado)",
             "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón."
@@ -177,13 +164,7 @@
         "Escudo": "Durante el día, se agazapa en el frío subsuelo huyendo del sol. La luz de la luna le hace crecer.",
         "Diamante Brillante": "Sus patas le sirven de raíces, que emplea para plantarse en el suelo durante el día. Por la noche merodea esparciendo semillas.",
         "Perla Reluciente": "Sus patas le sirven de raíces, que emplea para plantarse en el suelo durante el día. Por la noche merodea esparciendo semillas.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Cava bajo tierra durante el día, mostrando solamente sus hojas. Se dice que grita con fuerza si le intentan desenterrar.",
-        "Stadium 2": "Pokémon Oro insertado: Se mueve si se expone a la luz de la luna. Merodea por la noche para esparcir sus semillas.\nPokémon Plata insertado: Despertado por la luz de la luna, vaga por la noche. De día se mantiene en silencio bajo la tierra.\n",
-        "Pokémon GO": "Durante el día, Oddish se entierra en el suelo para absorber nutrientes valiéndose de todo el cuerpo. Cuanto más fértil sea el suelo, mayor brillo tendrá en las hojas.",
-        "Ranger": "Las hojas de la cabeza de Oddish son tan afiladas que pueden cortar la madera.",
-        "Sombras de Almia": "Ataca lanzando sus hojas y liberando polen venenoso.",
-        "RubíZafiro": "Oddish busca los suelos fértiles y ricos en nutrientes para plantarse en la tierra. Durante el día, se cree que le cambia la forma de los pies y se le empiezan a parecer a las raíces de los árboles."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

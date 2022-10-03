@@ -12,20 +12,14 @@
         "Foco interno"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "48",
-        "def": "45",
-        "atk esp": "43",
-        "def esp": "90",
-        "speed": "42"
+        "hp": 60,
+        "atk": 48,
+        "def": 45,
+        "atk esp": 43,
+        "def esp": 90,
+        "speed": 42
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Ruta 11"
-        ],
-        "Azul": [
-            "Salvaje: Ruta 11"
-        ],
         "Amarillo": [
             "Salvaje: Ruta 11"
         ],
@@ -113,12 +107,6 @@
         "Ultraluna": [
             "Salvaje: Ruta 2"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 11"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 11"
-        ],
         "Espada": [
             "Drowzee no se puede conseguir en este videojuego."
         ],
@@ -170,11 +158,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Gracias a su protuberante nariz, es capaz de saber qué sueña quien tenga delante. Le encantan los sueños divertidos.",
         "Perla Reluciente": "Gracias a su protuberante nariz, es capaz de saber qué sueña quien tenga delante. Le encantan los sueños divertidos.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Hace dormir a su enemigo y se come los sueños de la víctima. Se dice que desciende de la bestia legendaria Baku.",
-        "Stadium 2": "Pokémon Oro insertado: Recuerda todos los sueños que come. Raramente comesueños de adultos, porque los de los niños son mejores.\nPokémon Plata insertado: Si crees haber tenido un buen sueño, y no puedes acordarte, seguro que se lo ha comido un Drowzee.\n",
-        "Pokémon GO": "Si te pica la nariz mientras duermes, seguro que es porque tienes a uno de estos Pokémon cerca de la almohada intentando sacarte los sueños por la nariz para comérselos.",
-        "Ranger": "Drowzee libera poder psíquico de sus manos para impedir ser capturado."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

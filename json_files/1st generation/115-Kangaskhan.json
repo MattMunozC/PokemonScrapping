@@ -12,20 +12,14 @@
         "Foco interno"
     ],
     "stats": {
-        "hp": "105",
-        "atk": "95",
-        "def": "80",
-        "atk esp": "40",
-        "def esp": "80",
-        "speed": "90"
+        "hp": 105,
+        "atk": 95,
+        "def": 80,
+        "atk esp": 40,
+        "def esp": 80,
+        "speed": 90
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Zona Safari (áreas 1 y 3)"
-        ],
-        "Azul": [
-            "Salvaje: Zona Safari (áreas 1 y 3)"
-        ],
         "Amarillo": [
             "Salvaje: Zona Safari (área 2)"
         ],
@@ -119,12 +113,6 @@
             "Área Volcánica del Wela",
             "Área Volcánica del Wela (como refuerzo de Cubone)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Túnel Roca."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Túnel Roca."
-        ],
         "Espada": [
             "Salvaje: Gruta Calentamiento y Llano Entrenamiento",
             "Aventura Dinamax "
@@ -176,12 +164,7 @@
         "Escudo": "Se han documentado casos de Kangaskhan sin crías que han adoptado bebés humanos cuyos padres habían sido víctimas de accidentes.",
         "Diamante Brillante": "Lleva a su cría en el marsupio. Solo deja que salga a jugar cuando no advierte peligro.",
         "Perla Reluciente": "Lleva a su cría en el marsupio. Solo deja que salga a jugar cuando no advierte peligro.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "La hembra lleva a su hijo en una bolsa del vientre durante unos tres años. El hijo sale cuando ha aprendido a encontrar comida.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "\nKangaskhan: No es recomendable molestar ni intentar atrapar a crías de Kangaskhan mientras estén jugando, ya que seguro que su madre anda cerca y reaccionará con enfado y violencia.\nMega-Kangaskhan: Al ver cómo su cría crece tras megaevolucionar, la madre comienza a pensar en el inevitable momento de su separación.",
-        "Ranger": "Kangaskhan emite un rayo con la boca que puede atravesar cualquier cosa.",
-        "New Pokémon Snap": "Los Kangaskhan crían a sus pequeños en las bolsas de sus tripas. Amenazan a cualquiera que se acerque, aunque solo lo hacen por defender a sus crías. En realidad son criaturas muy afables."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

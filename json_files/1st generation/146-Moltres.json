@@ -12,20 +12,14 @@
         "Cuerpo llama"
     ],
     "stats": {
-        "hp": "90",
-        "atk": "100",
-        "def": "90",
-        "atk esp": "125",
-        "def esp": "85",
-        "speed": "90"
+        "hp": 90,
+        "atk": 100,
+        "def": 90,
+        "atk esp": 125,
+        "def esp": 85,
+        "speed": 90
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Calle Victoria (solo uno)"
-        ],
-        "Azul": [
-            "Salvaje: Calle Victoria (solo uno)"
-        ],
         "Amarillo": [
             "Salvaje: Calle Victoria (solo uno)"
         ],
@@ -123,16 +117,6 @@
         "Ultraluna": [
             "Ultraumbral: Acceder desde un ultraumbral de color rojo (solo uno)."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje:",
-            "Calle Victoria (solo uno)",
-            "Ruta 1, Ruta 2, Ruta 3, Ruta 4, Ruta 6, Ruta 7, Ruta 8, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 21, Ruta 22, Ruta 23, Ruta 24 y Ruta 25; tras haberlo capturado en la Calle Victoria y solo con uso de colonia y alta racha de capturas"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje:",
-            "Calle Victoria (solo uno)",
-            "Ruta 1, Ruta 2, Ruta 3, Ruta 4, Ruta 6, Ruta 7, Ruta 8, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 21, Ruta 22, Ruta 23, Ruta 24 y Ruta 25; tras haberlo capturado en la Calle Victoria y solo con uso de colonia y alta racha de capturas"
-        ],
         "Espada": [
             "Especial: Aleatoriamente en una Aventura Dinamax"
         ],
@@ -182,11 +166,7 @@
         "Escudo": "Se cuenta que alguna vez ha iluminado el camino con sus alas flamígeras para rescatar a alguien que se había perdido en la montaña.",
         "Diamante Brillante": "Una de las aves legendarias. Dicen que su presencia anuncia la llegada de la primavera.",
         "Perla Reluciente": "Una de las aves legendarias. Dicen que su presencia anuncia la llegada de la primavera.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Legendario Pokémon conocido como “pájaro de fuego”. Cuando aletea, sus alas llamean y brillan como el fuego.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Moltres es un legendario pájaro Pokémon que tiene la habilidad de controlar el fuego. Dicen que, si resulta herido, se sumerge en el líquido magma de un volcán para arder y curarse.",
-        "Trazos de luz": "Origina llamas y columnas de fuego por doquier."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

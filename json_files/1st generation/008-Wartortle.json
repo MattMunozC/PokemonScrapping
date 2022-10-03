@@ -11,20 +11,14 @@
         "Cura lluvia"
     ],
     "stats": {
-        "hp": "59",
-        "atk": "63",
-        "def": "80",
-        "atk esp": "65",
-        "def esp": "80",
-        "speed": "58"
+        "hp": 59,
+        "atk": 63,
+        "def": 80,
+        "atk esp": 65,
+        "def esp": 80,
+        "speed": 58
     },
     "location": {
-        "Rojo": [
-            "Evolucionar a Squirtle (nivel 16)"
-        ],
-        "Azul": [
-            "Evolucionar a Squirtle (nivel 16)"
-        ],
         "Amarillo": [
             "Evolucionar a Squirtle (nivel 16)"
         ],
@@ -112,14 +106,6 @@
         "Ultraluna": [
             "Evolucionar a Squirtle (nivel 16)"
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Squirtle (nivel 16)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Squirtle (nivel 16)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Aventura Dinamax ",
             "Especial: Transferir desde Pokémon HOME.",
@@ -173,12 +159,7 @@
         "Escudo": "Utiliza hábilmente sus peludas orejas y la cola para mantener el equilibrio al nadar.",
         "Diamante Brillante": "Se dice que vive diez mil años. Su peluda cola es popular como símbolo de longevidad.",
         "Perla Reluciente": "Se dice que vive diez mil años. Su peluda cola es popular como símbolo de longevidad.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "La cola está cubierta por un abundante pelaje. Almacena aire en él antes de sumergirse largo rato en el agua.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Tiene una cola larga y cubierta de un pelo abundante y grueso que se torna más oscuro a medida que crece. Los arañazos que tiene en el caparazón dan fe de lo buen guerrero que es.",
-        "Ranger": "Wartortle escupe bolsas de agua. Es pequeño pero fuerte.",
-        "Sombras de Almia": "Lanza por la boca chorros de agua para atacar."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

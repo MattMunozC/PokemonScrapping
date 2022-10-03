@@ -13,20 +13,14 @@
         "Electricidad estática"
     ],
     "stats": {
-        "hp": "90",
-        "atk": "90",
-        "def": "85",
-        "atk esp": "125",
-        "def esp": "90",
-        "speed": "100"
+        "hp": 90,
+        "atk": 90,
+        "def": 85,
+        "atk esp": 125,
+        "def esp": 90,
+        "speed": 100
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Central de Energía (solo uno)"
-        ],
-        "Azul": [
-            "Salvaje: Central de Energía (solo uno)"
-        ],
         "Amarillo": [
             "Salvaje: Central de Energía (solo uno)"
         ],
@@ -124,16 +118,6 @@
         "Ultraluna": [
             "Ultraumbral: Acceder desde un ultraumbral de color rojo (solo uno)."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje:",
-            "Central de Energía (solo uno)",
-            "Ruta 1, Ruta 2, Ruta 3, Ruta 4, Ruta 6, Ruta 7, Ruta 8, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 21, Ruta 22, Ruta 23, Ruta 24 y Ruta 25; tras haberlo capturado en la Central de Energía y solo con uso de colonia y alta racha de capturas"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje:",
-            "Central de Energía (solo uno)",
-            "Ruta 1, Ruta 2, Ruta 3, Ruta 4, Ruta 6, Ruta 7, Ruta 8, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 21, Ruta 22, Ruta 23, Ruta 24 y Ruta 25; tras haberlo capturado en la Central de Energía y solo con uso de colonia y alta racha de capturas"
-        ],
         "Espada": [
             "Especial: Aleatoriamente en una Aventura Dinamax."
         ],
@@ -183,11 +167,7 @@
         "Escudo": "Una de las aves legendarias. Dicen que, cuando este Pokémon frota las alas, cae al instante un relámpago del cielo.",
         "Diamante Brillante": "Una de las aves legendarias. Según dicen, vive en los nubarrones y controla los rayos a su antojo.",
         "Perla Reluciente": "Una de las aves legendarias. Según dicen, vive en los nubarrones y controla los rayos a su antojo.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Legendario pájaro Pokémon que aparece con una enorme tormenta de truenos. Vuela con el zumbido y el chasquido de la electricidad.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Zapdos es un legendario pájaro Pokémon que tiene la habilidad de controlar la electricidad. Suele vivir en nubarrones. Este Pokémon gana mucha fuerza si le alcanzan los rayos.",
-        "Trazos de luz": "Provoca truenos y descargas eléctricas en el aire."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

@@ -12,20 +12,14 @@
         "Nerviosismo"
     ],
     "stats": {
-        "hp": "35",
-        "atk": "60",
-        "def": "44",
-        "atk esp": "40",
-        "def esp": "54",
-        "speed": "55"
+        "hp": 35,
+        "atk": 60,
+        "def": 44,
+        "atk esp": 40,
+        "def esp": 54,
+        "speed": 55
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Rutas 4, 8, 9, 10, 11, 23."
-        ],
-        "Azul": [
-            "Intercambiar: de Pokémon Rojo, Pokémon Oro y Plata o Pokémon Cristal"
-        ],
         "Amarillo": [
             "Intercambiar: de Pokémon Rojo, Pokémon Oro y Plata o Pokémon Cristal"
         ],
@@ -115,14 +109,6 @@
         "Ultraluna": [
             "Salvaje: Ruta 2"
         ],
-        "Let's Go Pikachu!": [
-            "Intercambiar: de Pokémon: Let's Go, Eevee!",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 3 y Ruta 4",
-            "Especial: Transferir desde Pokémon GO.* Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Ekans no se puede conseguir en este videojuego."
         ],
@@ -172,11 +158,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Se mueve por la hierba en silencio y sorprende a sus presas atacando por detrás.",
         "Perla Reluciente": "Se mueve por la hierba en silencio y sorprende a sus presas atacando por detrás.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Se desliza silenciosamente por la hierba, buscando su comida favorita: huevos de PIDGEY y SPEAROW.",
-        "Stadium 2": "Pokémon Oro insertado: Siempre se esconde en la hierba. Como no tiene veneno al nacer, su mordisco es doloroso pero inofensivo.\nPokémon Plata insertado: Puede separar su mandíbula para engullir a grandes presas, aunque esto le dificulte el movimiento.\n",
-        "Pokémon GO": "Ekans se enrosca para descansar. Adoptando esta posición puede responder rápidamente a cualquier amenaza que le aceche desde cualquier lugar, levantando la cabeza con una feroz mirada.",
-        "Ranger": "Si ve un Disco de Captura, Ekans se deslizará hacia él sin dudarlo."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

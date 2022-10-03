@@ -13,22 +13,14 @@
         "Armadura frágil"
     ],
     "stats": {
-        "hp": "35",
-        "atk": "40",
-        "def": "100",
-        "atk esp": "90",
-        "def esp": "55",
-        "speed": "35"
+        "hp": 35,
+        "atk": 40,
+        "def": 100,
+        "atk esp": 90,
+        "def esp": 55,
+        "speed": 35
     },
     "location": {
-        "Rojo": [
-            "Especial: Revivir el fósil hélix en el Laboratorio de Isla Canela",
-            "Especial: Regalo entregado en Pokémon Stadium tras derrotar al alto mando."
-        ],
-        "Azul": [
-            "Especial: Revivir el fósil hélix en el Laboratorio de Isla Canela",
-            "Especial: Regalo entregado en Pokémon Stadium tras derrotar al alto mando."
-        ],
         "Amarillo": [
             "Especial: Revivir el fósil hélix en el Laboratorio de Isla Canela",
             "Especial: Regalo entregado en Pokémon Stadium tras derrotar al alto mando."
@@ -117,12 +109,6 @@
         "Ultraluna": [
             "Especial: Revivir el fósil hélix en la Ruta 8"
         ],
-        "Let's Go Pikachu!": [
-            "Especial: Revivir el fósil hélix en el Laboratorio de Isla Canela"
-        ],
-        "Let's Go Eevee!": [
-            "Especial: Revivir el fósil hélix en el Laboratorio de Isla Canela"
-        ],
         "Espada": [
             "Salvaje: Suela del Gigante  y Grutas Sonamar ",
             "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Suela del Gigante , Mar Gélido  y Lago Bolaguna "
@@ -173,10 +159,7 @@
         "Escudo": "Un Pokémon de la era prehistórica, ahora extinto. Solía nadar moviendo sus diez tentáculos para desplazarse por el agua como si flotara.",
         "Diamante Brillante": "Fue regenerado a partir de un fósil gracias a la ciencia moderna. Habitó los océanos de la antigüedad.",
         "Perla Reluciente": "Fue regenerado a partir de un fósil gracias a la ciencia moderna. Habitó los océanos de la antigüedad.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Pokémon prehistórico extinguido hace mucho que ha sido reproducido desde un fósil. Nada haciendo girar sus 10 tentáculos.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Omanyte es uno de esos Pokémon ancestrales que se extinguieron hace muchísimo tiempo y que la gente ha recuperado a partir de fósiles. Si un enemigo le ataca, se esconderá dentro de la dura concha que tiene."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

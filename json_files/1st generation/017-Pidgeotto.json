@@ -13,22 +13,14 @@
         "Sacapecho"
     ],
     "stats": {
-        "hp": "63",
-        "atk": "60",
-        "def": "55",
-        "atk esp": "50",
-        "def esp": "50",
-        "speed": "71"
+        "hp": 63,
+        "atk": 60,
+        "def": 55,
+        "atk esp": 50,
+        "def esp": 50,
+        "speed": 71
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Ruta 14, Ruta 15, y Ruta 21",
-            "Evolucionar: a Pidgey (nivel 18)"
-        ],
-        "Azul": [
-            "Salvaje: Ruta 14, Ruta 15, y Ruta 21",
-            "Evolucionar: a Pidgey (nivel 18)"
-        ],
         "Amarillo": [
             "Salvaje: Rutas 5, 6, 7, 8, 11, 12, 13, 14, Ruta 15, 21, 24 y 25 y Bosque Verde",
             "Evolucionar: a Pidgey (nivel 18)"
@@ -124,16 +116,6 @@
         "Ultraluna": [
             "Criar: de Pidgeot y evolucionar a Pidgey (nivel 18)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 1, Ruta 2, Ruta 5, Ruta 6, Ruta 7, Ruta 8, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 20, Ruta 21, Ruta 22, Ruta 23, Ruta 24, Ruta 25",
-            "Evolucionar: a Pidgey (nivel 18)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 1, Ruta 2, Ruta 5, Ruta 6, Ruta 7, Ruta 8, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 20, Ruta 21, Ruta 22, Ruta 23, Ruta 24, Ruta 25",
-            "Evolucionar: a Pidgey (nivel 18)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Pidgeotto no se puede conseguir en este videojuego."
         ],
@@ -183,11 +165,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Sobrevuela su extenso territorio en busca de presas, a las que abate con sus poderosas garras.",
         "Perla Reluciente": "Sobrevuela su extenso territorio en busca de presas, a las que abate con sus poderosas garras.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Construye su nido en el centro de su gran territorio. Utiliza sus poderosas garras para cazar rápidamente a sus víctimas.",
-        "Stadium 2": "Pokémon Oro insertado: Inmoviliza a su presa usando sus enormes garras, y después la lleva hasta su nido, a unos 100 Km.\nPokémon Plata insertado: Su visión es extraordinaria. Aunque vuele muy alto, detectará todo movimiento de su presa.\n",
-        "Pokémon GO": "Pidgeotto se apodera de una zona muy vasta como su territorio y la sobrevuela para controlarla. Si alguien invade su espacio vital, no tendrá ningún reparo en castigarlo con sus afiladas garras.",
-        "Trazos de luz": "Lanza varios tornados contra el oponente."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

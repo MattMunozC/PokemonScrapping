@@ -12,20 +12,14 @@
         "Poder solar"
     ],
     "stats": {
-        "hp": "78",
-        "atk": "84",
-        "def": "78",
-        "atk esp": "109",
-        "def esp": "85",
-        "speed": "100"
+        "hp": 78,
+        "atk": 84,
+        "def": 78,
+        "atk esp": 109,
+        "def esp": 85,
+        "speed": 100
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: de Charmeleon (nivel 36)"
-        ],
-        "Azul": [
-            "Evolucionar: de Charmeleon (nivel 36)"
-        ],
         "Amarillo": [
             "Evolucionar: de Charmeleon (nivel 36)"
         ],
@@ -116,16 +110,6 @@
         "Ultraluna": [
             "Evolucionar: de Charmeleon (nivel 36)"
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: de Charmeleon (nivel 36)",
-            "Salvaje: Ruta 2, Ruta 3, Ruta 4, Ruta 7, Ruta 8, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 21, Ruta 22, Ruta 23, Ruta 24 y Ruta 25; al pasar la liga y solo con uso de colonia y/o alta racha de capturas",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: de Charmeleon (nivel 36)",
-            "Salvaje: Ruta 2, Ruta 3, Ruta 4, Ruta 7, Ruta 8, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 21, Ruta 22, Ruta 23, Ruta 24 y Ruta 25; al pasar la liga y solo con uso de colonia y/o alta racha de capturas",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al sur, Prado Reverencia, nido al noreste después del puente , Playa Desafío, nido al norte , Bahía Circular, nido en la isla central, sur , Cuenca Arenosa, nido al norte ",
             "Incursiones Gigamax: Con posible habilidad oculta: Lago del Enfado, nido al oeste",
@@ -181,13 +165,7 @@
         "Escudo": "\nCharizard: Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.\nCharizard Gigamax: Las llamas del interior de su cuerpo forman un torbellino que alcanza los 2000 °C. Al rugir aumenta todavía más su energía térmica.",
         "Diamante Brillante": "Se dice que el fuego de Charizard arde con más fuerza cuantas más duras batallas haya vivido.",
         "Perla Reluciente": "Se dice que el fuego de Charizard arde con más fuerza cuantas más duras batallas haya vivido.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Su abrasador aliento alcanza increíbles temperaturas. Puede derretir rápidamente icebergs de 10.000 toneladas.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "\nCharizard: Charizard se dedica a volar por los cielos en busca de oponentes fuertes. Echa fuego por la boca y es capaz de derretir cualquier cosa. No obstante, si su rival es más débil que él, no usará este ataque.\nMega-Charizard X: La extraordinaria energía que fluye por su cuerpo le ha ennegrecido la piel y provocado la aparición de intensas llamas azules.\nMega-Charizard Y: El vínculo que lo une a su Entrenador es la fuente de su poder. Su capacidad de vuelo supera la de un avión a reacción.",
-        "Ranger": "Charizard escupe llamas capaces de derretir el hielo y fundir el acero.",
-        "Sombras de Almia": "Ataca escupiendo bolas de fuego y llamas que se extienden.",
-        "New Pokémon Snap": "Este Pokémon se agrupa con Charmander para vivir en entornos volcánicos. Las llamas que expulsa por la boca alcanzan temperaturas comparables a las de la lava."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

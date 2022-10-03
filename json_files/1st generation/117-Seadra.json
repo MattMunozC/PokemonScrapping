@@ -12,23 +12,14 @@
         "Humedad"
     ],
     "stats": {
-        "hp": "55",
-        "atk": "65",
-        "def": "95",
-        "atk esp": "95",
-        "def esp": "45",
-        "speed": "85"
+        "hp": 55,
+        "atk": 65,
+        "def": 95,
+        "atk esp": 95,
+        "def esp": 45,
+        "speed": 85
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Islas Espuma (sótanos 1 y 3).",
-            "Pescando, supercaña: Ruta 23, Mazmorra Rara.",
-            "Evolucionar: a Horsea (nivel 32)."
-        ],
-        "Azul": [
-            "Pescando, supercaña: Ruta 23, Mazmorra Rara.",
-            "Evolucionar: a Horsea (nivel 32)."
-        ],
         "Amarillo": [
             "Pescando, supercaña: Rutas 12, 13.",
             "Evolucionar: a Horsea (nivel 32)."
@@ -135,12 +126,6 @@
         "Ultraluna": [
             "Evolucionar: a Horsea (nivel 32)."
         ],
-        "Let's Go Pikachu!": [
-            "Surcaaguas: Rutas 11, 12 y 13."
-        ],
-        "Let's Go Eevee!": [
-            "Surcaaguas: Rutas 11, 12 y 13."
-        ],
         "Espada": [
             "Evolucionar: a Horsea (nivel 32).",
             "Aventura Dinamax "
@@ -194,13 +179,7 @@
         "Escudo": "Su estrecho morro posee tal fuerza de succión que es capaz de aspirar presas de mayor tamaño y engullirlas enteras.",
         "Diamante Brillante": "Se protege de los enemigos con sus púas. Sus aletas y huesos son muy valorados en la medicina tradicional.",
         "Perla Reluciente": "Se protege de los enemigos con sus púas. Sus aletas y huesos son muy valorados en la medicina tradicional.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Inteligente Pokémon que puede nadar hacia atrás mientras mira hacia adelante. Un pinchazo de sus espinas te debilitará.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Seadra se echa a dormir tras abrirse un hueco entre las ramas de los corales. Los pescadores de coral suelen pincharse con las púas venenosas de estos Pokémon si no los ven",
-        "Ranger": "Seadra lanza agua con mucha fuerza. ¡Atrápalo antes de que se sumerja!",
-        "Sombras de Almia": "Lanza burbujas por la boca para atacar.",
-        "RubíZafiro": "Seadra gira sobre sí mismo y crea unos remolinos lo suficientemente fuertes como para engullir barcos de pesca. Este Pokémon aprovecha las corrientes que crea para debilitar a su presa y tragársela de una vez."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

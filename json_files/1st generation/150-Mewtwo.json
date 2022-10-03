@@ -11,20 +11,14 @@
         "Nerviosismo"
     ],
     "stats": {
-        "hp": "106",
-        "atk": "110",
-        "def": "90",
-        "atk esp": "154",
-        "def esp": "90",
-        "speed": "130"
+        "hp": 106,
+        "atk": 110,
+        "def": 90,
+        "atk esp": 154,
+        "def esp": 90,
+        "speed": 130
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Cueva Celeste, después de haber derrotado al Alto Mando (solo uno)."
-        ],
-        "Azul": [
-            "Salvaje: Cueva Celeste, después de haber derrotado al Alto Mando (solo uno)."
-        ],
         "Amarillo": [
             "Salvaje: Cueva Celeste, después de haber derrotado al Alto Mando (solo uno)."
         ],
@@ -121,12 +115,6 @@
         "Ultraluna": [
             "Ultraumbral: Ultraespacio Cero. Acceder desde un ultraumbral de color verde (solo uno)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Cueva Celeste (solo uno)."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Cueva Celeste (solo uno)."
-        ],
         "Espada": [
             "Especial: Aleatoriamente en una Aventura Dinamax"
         ],
@@ -176,11 +164,7 @@
         "Escudo": "Este Pokémon es el fruto de la investigación de cierto científico. La fuerza que atesora luce en todo su esplendor durante los combates.",
         "Diamante Brillante": "Este Pokémon se creó recombinando los genes de Mew. Se dice que es el más violento de todos.",
         "Perla Reluciente": "Este Pokémon se creó recombinando los genes de Mew. Se dice que es el más violento de todos.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Malvado Pokémon psíquico creado por ingenieros genéticos. Sus ojos fríos y brillantes inspiran temor al enemigo.",
-        "Stadium 2": "Por lo general, permanece inmóvil para conservar energía, de modo que pueda liberar todo su poder en la batalla.",
-        "Pokémon GO": "Mewtwo fue creado por manipulación genética. Pero, a pesar de que el hombre creó su cuerpo, dotar a Mewtwo de un corazón compasivo quedó en el olvido.",
-        "Trazos de luz": "Ataca con esferas de energía psíquica o con potentes rayos."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

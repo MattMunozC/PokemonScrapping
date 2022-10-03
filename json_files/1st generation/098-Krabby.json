@@ -12,22 +12,14 @@
         "Potencia bruta"
     ],
     "stats": {
-        "hp": "30",
-        "atk": "105",
-        "def": "90",
-        "atk esp": "25",
-        "def esp": "25",
-        "speed": "50"
+        "hp": 30,
+        "atk": 105,
+        "def": 90,
+        "atk esp": 25,
+        "def esp": 25,
+        "speed": 50
     },
     "location": {
-        "Rojo": [
-            "Pescando (Supercaña): Rutas 11, 12, 13, 17, 18, 24, 25, Ciudad Celeste, Ciudad Carmín, Ciudad Fucsia, Zona Safari, S.S. Anne."
-        ],
-        "Azul": [
-            "Salvaje: Islas Espuma.",
-            "Pescando (Supercaña): Rutas 11, 12, 13, 17, 18, 24, 25, Ciudad Celeste, Ciudad Carmín, Ciudad Fucsia, Zona Safari, S.S. Anne.",
-            "Intercambiar: por un Growlithe en el Laboratorio de Isla Canela (solo en la versión japonesa)."
-        ],
         "Amarillo": [
             "Salvaje: Islas Espuma.",
             "Pescando (Supercaña): Rutas 10, 25, Islas Espuma."
@@ -129,12 +121,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Rutas 10, 12 y 13"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 10, 12 y 13"
-        ],
         "Espada": [
             "Salvaje: Gorro del Gigante (pescando), Lago Axew (oeste) (excepto cuando hay sol, nieve y tormenta de arena) y Lago Milotic (sur) (excepto cuando hay sol, nieve, tormenta de arena y neblina).",
             "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Espejo del Gigante, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur y Lago Milotic (sur), nido en el centro."
@@ -188,12 +174,7 @@
         "Escudo": "Ante el peligro, se camufla con las burbujas que desprende por la boca para parecer más grande.",
         "Diamante Brillante": "Vive en madrigueras excavadas en playas arenosas. Sus pinzas vuelven a crecer si se desprenden.",
         "Perla Reluciente": "Vive en madrigueras excavadas en playas arenosas. Sus pinzas vuelven a crecer si se desprenden.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Vive en playas y orillas. Si pierde una tenaza, una nueva y más fuerte crecerá en su lugar.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Krabby vive en la playa, enterrado en agujeros en la arena. Cuando en las playas de arena fina escasea la comida, es común ver a estos Pokémon echando un pulso panza contra panza en defensa de su territorio.",
-        "Ranger": "Cuando a Krabby le sale espuma por la boca, es que va a atacar lanzando pompas.",
-        "Trazos de luz": "Lanza bolas de agua contra el oponente"
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

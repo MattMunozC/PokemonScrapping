@@ -12,20 +12,14 @@
         "Impasible"
     ],
     "stats": {
-        "hp": "90",
-        "atk": "130",
-        "def": "80",
-        "atk esp": "65",
-        "def esp": "85",
-        "speed": "55"
+        "hp": 90,
+        "atk": 130,
+        "def": 80,
+        "atk esp": 65,
+        "def esp": 85,
+        "speed": 55
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Machoke (intercambio)."
-        ],
-        "Azul": [
-            "Evolucionar: a Machoke (intercambio)."
-        ],
         "Amarillo": [
             "Intercambiar: por un Cubone en la casa de entrada al Camino Subterráneo de la Ruta 5. Recibirás un Machoke, que evolucionará a Machamp.",
             "Evolucionar: a Machoke (intercambio)."
@@ -110,12 +104,6 @@
         "Ultraluna": [
             "Evolucionar: a Machoke (intercambio)."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Machoke (intercambio)."
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Machoke (intercambio)."
-        ],
         "Espada": [
             "Salvaje: Espejo del Gigante (niebla)",
             "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew.",
@@ -171,13 +159,7 @@
         "Escudo": "\nMachamp: Puede dar varios puñetazos de una sola vez gracias a sus cuatro brazos. Golpea más rápido de lo que piensa.\n Machamp Gigamax: Gracias a su tremendo incremento de fuerza, puede cargar con embarcaciones de gran tamaño que estén en dificultades y llevarlas a puerto.",
         "Diamante Brillante": "Mueve sus cuatro brazos a tal velocidad que resultan imposibles de ver. Puede asestar hasta mil puñetazos en dos segundos.",
         "Perla Reluciente": "Propina tales puñetazos que es capaz de lanzar un tren por los aires de un solo golpe, pero es incapaz de realizar trabajos delicados.",
-        "Leyendas: Arceus": "En combates cuerpo a cuerpo, sus cuatro brazos le otorgan una ofensiva y una defensa sin fisuras. Puede propinar mil golpes en un abrir y cerrar de ojos, lo cual abruma a sus rivales.",
-        "Stadium": "Entre sus movimientos está la simultánea descarga del uppercut, el gancho, el directo y el GOLPE KARATE de sus cuatro brazos.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Machamp es tan fuerte que puede derribar lo que quiera. Sin embargo, cuando tiene que realizar una tarea que requiera delicadeza y destreza, se le enredan los brazos. Este Pokémon pasa a la acción sin pensar.",
-        "Ranger": "Machamp puede pulverizar grandes rocas con la fuerza de su cuerpo.",
-        "RubíZafiro": "Machamp es tan fuerte que puede derribar lo que quiera. Sin embargo, cuando tiene que realizar una tarea que requiera delicadeza y destreza, se le enredan los brazos. Este Pokémon pasa a la acción sin pensar.",
-        "New Pokémon Snap": "Sus dos pares de brazos musculosos los convierten en unos nadadores excelentes. De hecho, son capaces de nadar a la misma velocidad que los Pokémon marinos."
+        "Leyendas: Arceus": "En combates cuerpo a cuerpo, sus cuatro brazos le otorgan una ofensiva y una defensa sin fisuras. Puede propinar mil golpes en un abrir y cerrar de ojos, lo cual abruma a sus rivales."
     },
     "evolution": [
         [

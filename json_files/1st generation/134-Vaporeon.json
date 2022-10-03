@@ -11,20 +11,14 @@
         "Hidratación"
     ],
     "stats": {
-        "hp": "130",
-        "atk": "65",
-        "def": "60",
-        "atk esp": "110",
-        "def esp": "95",
-        "speed": "65"
+        "hp": 130,
+        "atk": 65,
+        "def": 60,
+        "atk esp": 110,
+        "def esp": 95,
+        "speed": 65
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Eevee (utilizando Piedra agua)."
-        ],
-        "Azul": [
-            "Evolucionar: a Eevee (utilizando Piedra agua)."
-        ],
         "Amarillo": [
             "Evolucionar: a Eevee (utilizando Piedra agua)."
         ],
@@ -114,12 +108,6 @@
         "Ultraluna": [
             "Evolucionar: a Eevee (utilizando Piedra agua)."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Eevee (utilizando Piedra agua)."
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Eevee (utilizando Piedra agua)."
-        ],
         "Espada": [
             "Salvaje:",
             "Área Silvestre: Lago del Enfado, sólo en presencia de clima lluvia.",
@@ -176,12 +164,7 @@
         "Escudo": "La composición celular de su cuerpo es tan similar a la estructura molecular del agua que se vuelve invisible al fundirse en ella.",
         "Diamante Brillante": "Ha evolucionado para adaptarse a la vida acuática. Se mimetiza a la perfección con el agua.",
         "Perla Reluciente": "Ha evolucionado para adaptarse a la vida acuática. Se mimetiza a la perfección con el agua.",
-        "Leyendas: Arceus": "Según nuestros análisis, su estructura celular es similar a las moléculas de agua, lo que le permite mimetizarse al sumergirse. Tal vez sea el origen de los cuentos de sirenas.",
-        "Stadium": "Aparece descansando en la orilla de los lagos. Su estructura celular es como la del agua; se hace invisible mezclándose con ella.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Vaporeon sufrió una mutación repentina y desarrolló aletas y branquias que le permiten vivir abajo del agua. Asimismo, este Pokémon tiene la habilidad de controlar las aguas.",
-        "Ranger": "Vaporeon es una de las llaves del Templo de Floresta. Ataca con un rayo arco iris.",
-        "New Pokémon Snap": "Estos Pokémon viven dentro de agujeros azules que parecen vacíos a simple vista. Sus células se parecen a las moléculas de agua, lo que los hace invisibles cuando se encuentran dentro de ella."
+        "Leyendas: Arceus": "Según nuestros análisis, su estructura celular es similar a las moléculas de agua, lo que le permite mimetizarse al sumergirse. Tal vez sea el origen de los cuentos de sirenas."
     },
     "evolution": [
         [

@@ -12,22 +12,14 @@
         "Poder arena"
     ],
     "stats": {
-        "hp": "35",
-        "atk": "100",
-        "def": "50",
-        "atk esp": "50",
-        "def esp": "70",
-        "speed": "120"
+        "hp": 35,
+        "atk": 100,
+        "def": 50,
+        "atk esp": 50,
+        "def esp": 70,
+        "speed": 120
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Cueva Diglett",
-            "Evolucionar: de Diglett (nivel 26)"
-        ],
-        "Azul": [
-            "Salvaje: Cueva Diglett",
-            "Evolucionar: de Diglett (nivel 26)"
-        ],
         "Amarillo": [
             "Salvaje: Cueva Diglett",
             "Intercambiar: por un Lickitung, en la casa que separa la Ruta 11 de la Ruta 12.",
@@ -129,14 +121,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Cueva Diglett",
-            "Evolucionar: de Diglett (nivel 26)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Cueva Diglett",
-            "Evolucionar: de Diglett (nivel 26)"
-        ],
         "Espada": [
             "Salvaje: Ruta 6, Gorro del Gigante (soleado), Espejo del Gigante, Cornisa de Artejo (tormenta de arena), Lago del Enfado (tormenta de arena).",
             "Incursiones Dinamax: Con posible habilidad oculta: Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur.",
@@ -194,11 +178,7 @@
         "Escudo": "Estos trillizos cavan a una profundidad de hasta 100 km. Se desconoce el aspecto de la parte de sus cuerpos que se oculta bajo tierra.",
         "Diamante Brillante": "Es capaz de llegar hasta los 100 km de profundidad incluso en la más dura tierra gracias a sus tres cabezas que excavan por turnos.",
         "Perla Reluciente": "Es capaz de llegar hasta los 100 km de profundidad incluso en la más dura tierra gracias a sus tres cabezas que excavan por turnos.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Trillizos de DIGLETT que siempre viajan juntos. Conocidos por cavar más de sesenta millas bajo tierra y provocar terremotos.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Los Dugtrio son trillizos que se originaron a partir de un solo cuerpo, por eso piensan de la misma forma. A la hora de excavar, trabajan en equipo y sin descanso.",
-        "Ranger": "Dugtrio a veces saca sus cabezas a la superficie, pero muy brevemente."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

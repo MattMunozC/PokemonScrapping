@@ -13,22 +13,14 @@
         "Cacheo"
     ],
     "stats": {
-        "hp": "140",
-        "atk": "70",
-        "def": "45",
-        "atk esp": "85",
-        "def esp": "50",
-        "speed": "45"
+        "hp": 140,
+        "atk": 70,
+        "def": 45,
+        "atk esp": 85,
+        "def esp": 50,
+        "speed": 45
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Cueva Celeste (primera planta).",
-            "Evolucionar: a Jigglypuff (utilizando la piedra lunar)."
-        ],
-        "Azul": [
-            "Salvaje: Cueva Celeste (primera planta).",
-            "Evolucionar: a Jigglypuff (utilizando la piedra lunar)."
-        ],
         "Amarillo": [
             "Especial: Casino Rocket por 2680 fichas.",
             "Evolucionar: a Jigglypuff (utilizando la piedra lunar)."
@@ -119,12 +111,6 @@
         "Ultraluna": [
             "Evolucionar: a Jigglypuff (utilizando la piedra lunar)."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Jigglypuff (utilizando la piedra lunar)."
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Jigglypuff (utilizando la piedra lunar)."
-        ],
         "Espada": [
             "Salvaje: Playa Desafío, Prado Reverencia, Bosque Concentración, Bahía Circular, Humedal Frescor y Llano Entrenamiento.",
             "Aventura Dinamax ",
@@ -178,12 +164,7 @@
         "Escudo": "Se enorgullece de su pelaje fino y sedoso. El rizo de la frente, en especial, posee un tacto sublime.",
         "Diamante Brillante": "Tiene un finísimo pelaje muy agradable al tacto. Traga aire para hinchar su cuerpo.",
         "Perla Reluciente": "Tiene un finísimo pelaje muy agradable al tacto. Traga aire para hinchar su cuerpo.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Su suave y flexible piel le permite hincharse como un globo. Si se enfada, inhala y se infla constantemente.",
-        "Stadium 2": "Pokémon Oro insertado: Tiene una piel muy fina. Ten cuidado de no enfadarle, o se inflará y golpeará con un golpe cuerpo.\nPokémon Plata insertado: Su piel es tan suave que si dos de ellos se acurrucan juntos, no querrán separarse nunca.\n",
-        "Pokémon GO": "Wigglytuff tiene unos ojos enormes con forma de platillo, que siempre están cubiertos de lágrimas. Si se le metiera algo en el ojo, enseguida se le saldría solo.",
-        "Sombras de Almia": "Wigglytuff suele cantar y saltar, haciendo que sea aún más difícil su captura.",
-        "RubíZafiro": "El cuerpo de Wigglytuff es muy flexible. Dicen que, al aspirar aire, puede hincharse sin límites. Y, una vez hinchado, se pone a botar como si fuera un globo."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

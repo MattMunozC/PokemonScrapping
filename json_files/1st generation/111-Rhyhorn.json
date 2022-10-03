@@ -13,20 +13,14 @@
         "Audaz"
     ],
     "stats": {
-        "hp": "80",
-        "atk": "85",
-        "def": "95",
-        "atk esp": "30",
-        "def esp": "30",
-        "speed": "25"
+        "hp": 80,
+        "atk": 85,
+        "def": 95,
+        "atk esp": 30,
+        "def esp": 30,
+        "speed": 25
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Zona Safari (entrada y área 2)."
-        ],
-        "Azul": [
-            "Salvaje: Zona Safari (entrada y área 2)."
-        ],
         "Amarillo": [
             "Salvaje: Zona Safari (entrada y área 2), Cueva Celeste."
         ],
@@ -116,12 +110,6 @@
         "Ultraluna": [
             "Escáner insular: en el Monte Rubor (Solo los Domingos)."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Túnel Roca, Calle Victoria y Cueva Celeste."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Túnel Roca, Calle Victoria y Cueva Celeste."
-        ],
         "Espada": [
             "Salvaje: Ruta 8 (cuando la hierba se mueve), Espejo del Gigante (en tormenta de arena), Gorro del Gigante, Llanura Pétrea (escondido en la hierba en tormenta de arena), Ribera de Pistón (en hierba cuando hay tormenta de arena y escondido en la hierba alta con sol) y Valle Entrepuentes (escondido en la hierba alta en tormenta de arena)",
             "Incursiones Dinamax: Llanura Pétrea, nido al suroeste entre rocas y Pradera Radiante, nido al sureste junto a la pared."
@@ -175,12 +163,7 @@
         "Escudo": "La cabeza no le da para retener más de una cosa. Si se pone a correr, se le olvida al instante por qué empezó a hacerlo.",
         "Diamante Brillante": "Su cuerpo está protegido por una gruesa piel y es capaz de derribar edificios con su embestida, pero no es muy listo.",
         "Perla Reluciente": "Su cuerpo está protegido por una gruesa piel y es capaz de derribar edificios con su embestida, pero no es muy listo.",
-        "Leyendas: Arceus": "Puede partir montañas a cabezazos con su fuerza descomunal. Sus cortas patas le impiden girar con facilidad, y es incapaz de detenerse hasta chocar con algo.",
-        "Stadium": "Sus huesos son 1.000 veces más duros que los humanos. Con su fuerza y resistencia, puede destruir edificios enteros.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Rhyhorn corre en línea recta arrasando todo lo que encuentra en su camino. Aun estrellándose de cabeza contra un bloque de acero, no se vería afectado; a lo sumo, notaría algo de dolor al día siguiente.",
-        "Sombras de Almia": "Abre grietas en el suelo para atacar.",
-        "RubíZafiro": "Rhyhorn corre en línea recta arrasando todo lo que encuentra en su camino. Aun estrellándose de cabeza contra un bloque de acero, no se vería afectado. Bueno, como mucho notaría algo de dolor al día siguiente."
+        "Leyendas: Arceus": "Puede partir montañas a cabezazos con su fuerza descomunal. Sus cortas patas le impiden girar con facilidad, y es incapaz de detenerse hasta chocar con algo."
     },
     "evolution": [
         [

@@ -12,20 +12,14 @@
         "Allanamiento"
     ],
     "stats": {
-        "hp": "40",
-        "atk": "45",
-        "def": "35",
-        "atk esp": "30",
-        "def esp": "40",
-        "speed": "55"
+        "hp": 40,
+        "atk": 45,
+        "def": 35,
+        "atk esp": 30,
+        "def esp": 40,
+        "speed": 55
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Monte Moon, Túnel Roca, Islas Espuma y Calle Victoria"
-        ],
-        "Azul": [
-            "Salvaje: Monte Moon, Túnel Roca, Islas Espuma y Calle Victoria"
-        ],
         "Amarillo": [
             "Salvaje: Monte Moon, Túnel Roca, Islas Espuma y Calle Victoria"
         ],
@@ -143,12 +137,6 @@
             "Salvaje: Cementerio de Hauoli, Cueva Costera, Cueva Sotobosque, Gruta Unemar, Colina Dequilate, Túnel Diglett y Colina del Recuerdo",
             "Poké Resort: Cayo Recreo, tras llegar a Melemele"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Monte Moon, Cueva Diglett, Túnel Roca, Torre Pokémon, Cueva Celeste, Islas Espuma y Calle Victoria."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Monte Moon, Cueva Diglett, Túnel Roca, Torre Pokémon, Cueva Celeste, Islas Espuma y Calle Victoria."
-        ],
         "Espada": [
             "Salvaje: Túnel Ascensión, Grutas Sonamar, Gruta del Lago. "
         ],
@@ -206,13 +194,7 @@
         "Escudo": "Habitan en cuevas donde no llegan los rayos del sol. De día, se acurrucan unos junto a otros para entrar en calor mientras duermen.",
         "Diamante Brillante": "Aunque carezca de ojos, puede detectar obstáculos con las ondas ultrasónicas que emite por la boca.",
         "Perla Reluciente": "No le gusta el sol, por lo que permanece dormido en bosques y cuevas hasta el anochecer.",
-        "Leyendas: Arceus": "Duerme en cuevas oscuras. Al haber perdido los ojos, no percibe la luz, pero emite ondas ultrasónicas por la boca para examinar los alrededores mientras vuela.",
-        "Stadium": "No tiene ojos ni nariz. Emite gritos ultrasónicos que rebotan en sus grandes orejas, permitiéndole volar a salvo.",
-        "Stadium 2": "Pokémon Oro insertado: Capaz de volar con seguridad en la oscuridad, emite ultrasonidos para detectar los obstáculos.\nPokémon Plata insertado: Al volar, emite constantemente ondas ultrasónicas por la boca para comprobar los alrededores.\n",
-        "Pokémon GO": "Durante el día, Zubat permanece inmóvil y a oscuras. Si este Pokémon pasara mucho tiempo expuesto al sol, correría el peligro de sufrir quemaduras.",
-        "Ranger": "Zubat prefiere los lugares oscuros, como cuevas, y ataca con ondas ultrasónicas.",
-        "Sombras de Almia": "Revolotea y ataca con ondas ultrasónicas.",
-        "RubíZafiro": "Zubat evita la luz del día porque le resulta perjudicial para la salud. Durante el día, permanece en cuevas o bajo los aleros de las casas viejas durmiendo colgado de las patas, cabeza abajo."
+        "Leyendas: Arceus": "Duerme en cuevas oscuras. Al haber perdido los ojos, no percibe la luz, pero emite ondas ultrasónicas por la boca para examinar los alrededores mientras vuela."
     },
     "evolution": [
         [

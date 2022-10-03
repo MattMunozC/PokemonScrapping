@@ -12,22 +12,14 @@
         "Nado rápido"
     ],
     "stats": {
-        "hp": "80",
-        "atk": "82",
-        "def": "78",
-        "atk esp": "95",
-        "def esp": "80",
-        "speed": "85"
+        "hp": 80,
+        "atk": 82,
+        "def": 78,
+        "atk esp": 95,
+        "def esp": 80,
+        "speed": 85
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Islas Espuma (planta baja)",
-            "Evolucionar: a Psyduck (nivel 33)"
-        ],
-        "Azul": [
-            "Salvaje: Islas Espuma (sótanos 2 y 4)",
-            "Evolucionar: a Psyduck (nivel 33)"
-        ],
         "Amarillo": [
             "Salvaje:",
             "Surf: Ruta 6",
@@ -156,14 +148,6 @@
             "Surf: Cañón de Poni",
             "Evolucionar: a Psyduck (nivel 33)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Cueva Celeste.",
-            "Evolucionar: a Psyduck (nivel 33)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Cueva Celeste.",
-            "Evolucionar: a Psyduck (nivel 33)"
-        ],
         "Espada": [
             "Salvaje: Cueva Contienda, Playa Desafío, Bosque Concentración y Llano Entrenamiento.",
             "Aventura Dinamax ",
@@ -222,11 +206,7 @@
         "Escudo": "Cuenta una antigua leyenda que los Golduck arrastraban a quienes contaminaran sus ríos al fondo de las aguas.",
         "Diamante Brillante": "Este Pokémon vive en lagos. Ni el más destacado campeón de natación puede igualar su velocidad de nado.",
         "Perla Reluciente": "La membrana interdigital de sus extremidades le confiere una velocidad increíble que lo convierte en el mejor nadador entre los Pokémon.",
-        "Leyendas: Arceus": "Su excelente condición física y las aletas de las extremidades le permiten abrirse paso a través de olas gigantescas y nadar por mares embravecidos sin esfuerzo.",
-        "Stadium": "Sus manos y pies palmeados lo convierten en un excelente nadador. Se le puede ver al anochecer, nadando con elegancia en lagos.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Golduck alcanza una velocidad de vértigo gracias a las aletas palmípedas de las extremidades y a la forma aerodinámica de su cuerpo. Realmente, la velocidad de este Pokémon supera la de cualquier nadador.",
-        "RubíZafiro": "Golduck alcanza una velocidad de vértigo gracias a las aletas palmípedas de las extremidades y a la forma aerodinámica de su cuerpo. Realmente, la velocidad de este Pokémon supera a la de cualquier nadador."
+        "Leyendas: Arceus": "Su excelente condición física y las aletas de las extremidades le permiten abrirse paso a través de olas gigantescas y nadar por mares embravecidos sin esfuerzo."
     },
     "evolution": [
         [

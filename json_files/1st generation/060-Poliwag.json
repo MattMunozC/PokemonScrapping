@@ -12,22 +12,14 @@
         "Nado rápido"
     ],
     "stats": {
-        "hp": "40",
-        "atk": "50",
-        "def": "40",
-        "atk esp": "40",
-        "def esp": "40",
-        "speed": "90"
+        "hp": 40,
+        "atk": 50,
+        "def": 40,
+        "atk esp": 40,
+        "def esp": 40,
+        "speed": 90
     },
     "location": {
-        "Rojo": [
-            "Pescando con caña buena: Ruta 6, Ruta 10, Ruta 12, Ruta 13, Ruta 17, Ruta 18, Ruta 19, Ruta 20, Ruta 21, Ruta 22, Pueblo Paleta, Ciudad Verde, Ciudad Celeste, Gimnasio Celeste, Cueva Celeste, Ciudad Carmín, Ciudad Azulona, Ciudad Fucsia, Zona Safari, Islas Espuma e Isla Canela",
-            "Pescando con supercaña: Ruta 22, Pueblo Paleta y Ciudad Verde"
-        ],
-        "Azul": [
-            "Pescando con caña buena: Ruta 6, Ruta 10, Ruta 12, Ruta 13, Ruta 17, Ruta 18, Ruta 19, Ruta 20, Ruta 21, Ruta 22, Pueblo Paleta, Ciudad Verde, Ciudad Celeste, Gimnasio Celeste, Cueva Celeste, Ciudad Carmín, Ciudad Azulona, Ciudad Fucsia, Zona Safari, Islas Espuma e Isla Canela",
-            "Pescando con supercaña: Ruta 22, Pueblo Paleta y Ciudad Verde"
-        ],
         "Amarillo": [
             "Pescando con caña buena: Ruta 6, Ruta 10, Ruta 12, Ruta 13, Ruta 17, Ruta 18, Ruta 19, Ruta 20, Ruta 21, Ruta 22, Pueblo Paleta, Ciudad Verde, Ciudad Celeste, Gimnasio Celeste, Cueva Celeste, Ciudad Carmín, Ciudad Azulona, Ciudad Fucsia, Zona Safari, Islas Espuma e Isla Canela",
             "Pescando con supercaña: Ruta 22, Ruta 23 y Ciudad Verde"
@@ -140,12 +132,6 @@
             "Salvaje: Colina Saltagua",
             "Surfeando: Colina Saltagua"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 22, Ruta 23, Ruta 25 y Cueva Celeste"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 22, Ruta 23, Ruta 25 y Cueva Celeste"
-        ],
         "Espada": [
             "Salvaje: Cueva Contienda ",
             "Incursiones Dinamax: nidos en Prado Reverencia , Humedal Frescor  y Cueva Tenacidad "
@@ -201,11 +187,7 @@
         "Escudo": "En ríos de aguas bravas, usa sus gruesos labios a modo de ventosa para adherirse a las rocas.",
         "Diamante Brillante": "Su piel es tan fina que permite ver sus órganos. Le cuesta andar con sus nuevas patas.",
         "Perla Reluciente": "Su piel es tan fina que permite ver sus órganos. Le cuesta andar con sus nuevas patas.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "La espiral de su vientre son órganos internos vistos a través de su fina piel. Es mejor para nadar que para caminar.",
-        "Stadium 2": "Pokémon Oro insertado: La dirección de la espiral de su tripa cambia por zonas. Se cree que le influye el ecuador.\nPokémon Plata insertado: Por ser un poco torpe al caminar con sus jóvenes patas, siempre prefiere nadar a caminar.\n",
-        "Pokémon GO": "Poliwag tiene una piel muy fina. Tanto que es posible entrever a través de la misma las vísceras en espiral que tiene. La piel, aunque fina, tiene la ventaja de ser flexible y hacer rebotar hasta los colmillos más afilados.",
-        "Ranger": "Si Poliwag ve a un Ranger, se asusta y se sumerge bajo el agua."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

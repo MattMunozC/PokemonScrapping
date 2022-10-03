@@ -13,20 +13,14 @@
         "Funda"
     ],
     "stats": {
-        "hp": "50",
-        "atk": "95",
-        "def": "180",
-        "atk esp": "85",
-        "def esp": "45",
-        "speed": "70"
+        "hp": 50,
+        "atk": 95,
+        "def": 180,
+        "atk esp": 85,
+        "def esp": 45,
+        "speed": 70
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Shellder (usando una piedra agua)"
-        ],
-        "Azul": [
-            "Evolucionar: a Shellder (usando una piedra agua)"
-        ],
         "Amarillo": [
             "Evolucionar: a Shellder (usando una piedra agua)"
         ],
@@ -118,14 +112,6 @@
         "Ultraluna": [
             "Evolucionar: a Shellder (usando una piedra agua)"
         ],
-        "Let's Go Pikachu!": [
-            "Surcaaguas: Islas Espuma.",
-            "Evolucionar: a Shellder (usando una piedra agua)"
-        ],
-        "Let's Go Eevee!": [
-            "Surcaaguas: Islas Espuma.",
-            "Evolucionar: a Shellder (usando una piedra agua)"
-        ],
         "Espada": [
             "Incursiones Dinamax: Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur y Llanura Pétrea, nido al este 1. Con posible habilidad oculta: Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte) y Lago Axew (oeste), nido junto al puente (sur)."
         ],
@@ -175,10 +161,7 @@
         "Escudo": "Una vez que ha cerrado la concha, es imposible abrirla, independientemente de la fuerza que se ejerza.",
         "Diamante Brillante": "Su táctica de combate consiste en encerrarse en la concha y arrojar púas a sus enemigos para repelerlos.",
         "Perla Reluciente": "Su táctica de combate consiste en encerrarse en la concha y arrojar púas a sus enemigos para repelerlos.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Su concha es tan fuerte que podría soportar una bomba. Nadie ha visto nunca qué hay bajo la concha.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Cloyster es capaz de nadar por el mar. Su técnica consiste en tragar agua y expulsarla por el conducto que tiene en la parte trasera. Este mismo sistema es el que usa para lanzar los pinchos que tiene alrededor de la concha."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

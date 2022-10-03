@@ -12,20 +12,14 @@
         "Detonación"
     ],
     "stats": {
-        "hp": "40",
-        "atk": "30",
-        "def": "50",
-        "atk esp": "55",
-        "def esp": "55",
-        "speed": "100"
+        "hp": 40,
+        "atk": 30,
+        "def": 50,
+        "atk esp": 55,
+        "def esp": 55,
+        "speed": 100
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Ruta 10 y Central de Energía."
-        ],
-        "Azul": [
-            "Salvaje: Ruta 10 y Central de Energía."
-        ],
         "Amarillo": [
             "Salvaje: Central de Energía."
         ],
@@ -120,12 +114,6 @@
         "Ultraluna": [
             "Criando: de Electrode."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Central de Energía."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Central de Energía."
-        ],
         "Espada": [
             "Voltorb no se puede conseguir en este videojuego."
         ],
@@ -177,13 +165,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Parece una Poké Ball. Es muy peligroso, ya que puede lanzar descargas eléctricas o estallar si lo tocan por accidente.",
         "Perla Reluciente": "Parece una Poké Ball. Es muy peligroso, ya que puede lanzar descargas eléctricas o estallar si lo tocan por accidente.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Normalmente aparece en plantas eléctricas. A veces han sido vistos extrayendo energía de vagones de trenes eléctricos.",
-        "Stadium 2": "Pokémon Oro insertado: Fue descubierto cuando se crearon las Poké Ball, se dice que tienen algo que ver con ellas.\nPokémon Plata insertado: Se mueve rodando, si el terreno es irregular, una chispa provocada por algún bache lo haría explotar.\n",
-        "Pokémon GO": "Voltorb fue visto por primera vez en una empresa encargada de comercializar Poké Balls. La conexión que existe entre aquella primera vez que se le vio y el hecho de que se parece mucho a una Poké Ball sigue siendo un misterio.",
-        "Ranger": "Con la electricidad que despide su cuerpo, Voltorb puede recargar tu Capturador.",
-        "Sombras de Almia": "Lanza descargas eléctricas para atacar. Ten cuidado: ¡podría explotar!",
-        "RubíZafiro": "Voltorb fue visto por primera vez en una empresa encargada de comercializar Poké Balls. La conexión que existe entre aquella primera vez que se le vio y el hecho de que se parece mucho a una Poké Ball sigue siendo un misterio."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

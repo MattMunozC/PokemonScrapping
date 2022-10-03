@@ -12,20 +12,14 @@
         "Cuerpo llama"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "100",
-        "def": "70",
-        "atk esp": "80",
-        "def esp": "80",
-        "speed": "105"
+        "hp": 65,
+        "atk": 100,
+        "def": 70,
+        "atk esp": 80,
+        "def esp": 80,
+        "speed": 105
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Ponyta (nivel 40)."
-        ],
-        "Azul": [
-            "Evolucionar: a Ponyta (nivel 40)."
-        ],
         "Amarillo": [
             "Evolucionar: a Ponyta (nivel 40)."
         ],
@@ -122,13 +116,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Ponyta (nivel 40).",
-            "Salvaje: Ruta 17"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Ponyta (nivel 40)."
-        ],
         "Espada": [
             "Especial: Transferir desde Pokémon HOME",
             "Intercambio: Pokémon Escudo"
@@ -181,11 +168,7 @@
         "Escudo": "El ejemplar más rápido se convierte en el líder de la manada y decide tanto el ritmo de galope como su destino.",
         "Diamante Brillante": "Su crin de fuego centellea cuando galopa como una flecha a velocidades que llegan a alcanzar los 240 km/h.",
         "Perla Reluciente": "Posee una gran aceleración. En tan solo diez pasos, puede llegar a su máxima velocidad.",
-        "Leyendas: Arceus": "El brillo de su crin ardiente hace que parezca una flecha al galopar. Puede atravesar Hisui en un día y medio gracias a su velocidad prodigiosa.",
-        "Stadium": "No puede evitar correr detrás de trenes o coches rápidos. Alcanza hasta 280 kmh de velocidad máxima.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "A Rapidash se le suele ver trotando sin rumbo fijo por los campos y llanos. Cuando tiene que ir a algún sitio en concreto, se le aviva el fuego de las melenas y emprende el galope llameante llegando a los 240 km/h.",
-        "Ranger": "Rapidash ataca envuelto en llamas que carbonizan todo lo que tocan."
+        "Leyendas: Arceus": "El brillo de su crin ardiente hace que parezca una flecha al galopar. Puede atravesar Hisui en un día y medio gracias a su velocidad prodigiosa."
     },
     "evolution": [
         [

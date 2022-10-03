@@ -12,20 +12,14 @@
         "Manto níveo"
     ],
     "stats": {
-        "hp": "90",
-        "atk": "85",
-        "def": "100",
-        "atk esp": "95",
-        "def esp": "125",
-        "speed": "85"
+        "hp": 90,
+        "atk": 85,
+        "def": 100,
+        "atk esp": 95,
+        "def esp": 125,
+        "speed": 85
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Islas Espuma (solo uno)"
-        ],
-        "Azul": [
-            "Salvaje: Islas Espuma (solo uno)"
-        ],
         "Amarillo": [
             "Salvaje: Islas Espuma (solo uno)"
         ],
@@ -123,16 +117,6 @@
         "Ultraluna": [
             "Ultraumbral: Acceder desde un ultraumbral de color rojo (solo uno)."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje:",
-            "Islas Espuma (solo uno)",
-            "Ruta 1, Ruta 2, Ruta 3, Ruta 4, Ruta 6, Ruta 7, Ruta 8, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 21, Ruta 22, Ruta 23, Ruta 24 y Ruta 25; tras haberlo capturado en las Islas Espuma y solo con uso de colonia y alta racha de capturas"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje:",
-            "Islas Espuma (solo uno)",
-            "Ruta 1, Ruta 2, Ruta 3, Ruta 4, Ruta 6, Ruta 7, Ruta 8, Ruta 10, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Ruta 17, Ruta 18, Ruta 19, Ruta 21, Ruta 22, Ruta 23, Ruta 24 y Ruta 25; tras haberlo capturado en las Islas Espuma y solo con uso de colonia y alta racha de capturas"
-        ],
         "Espada": [
             "Especial: Aleatoriamente en una Aventura Dinamax."
         ],
@@ -182,11 +166,7 @@
         "Escudo": "Posee el poder de controlar el hielo a su antojo. Se dice que este Pokémon habita en montañas de nieves perpetuas.",
         "Diamante Brillante": "Una de las aves legendarias. Es capaz de generar ventiscas congelando la humedad del aire.",
         "Perla Reluciente": "Una de las aves legendarias. Es capaz de generar ventiscas congelando la humedad del aire.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Legendario pájaro Pokémon con largas y distintivas plumas en la cola. Se dice que aparece si te hielas en una montaña nevada.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Articuno es un legendario pájaro Pokémon que puede controlar el hielo. El batir de sus alas congela el aire. Dicen que consigue hacer que nieve cuando vuela.",
-        "Trazos de luz": "Cuando se siente amenazado, provoca tormentas de nieve para protegerse"
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

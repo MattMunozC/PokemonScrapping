@@ -12,20 +12,14 @@
         "Entusiasmo"
     ],
     "stats": {
-        "hp": "30",
-        "atk": "56",
-        "def": "35",
-        "atk esp": "25",
-        "def esp": "35",
-        "speed": "72"
+        "hp": 30,
+        "atk": 56,
+        "def": 35,
+        "atk esp": 25,
+        "def esp": 35,
+        "speed": 72
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Rutas 1, 2, 4, 9, 16, 21 y 22."
-        ],
-        "Azul": [
-            "Salvaje: Rutas 1, 2, 4, 9, 16, 21 y 22."
-        ],
         "Amarillo": [
             "Salvaje: Rutas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 16, 18, 21, 22 y Mansión Pokémon."
         ],
@@ -117,14 +111,6 @@
         "Ultraluna": [
             "Especial: Transferir de videojuegos anteriores a través del Banco de Pokémon."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 1, Ruta 2, Ruta 3, Ruta 4, Ruta 5, Ruta 6, Ruta 7, Ruta 8, Ruta 9, Ruta 10, Ruta 11, Ruta 16, Ruta 17, Ruta 18, Ruta 21, Ruta 22 y Mansión Pokémon",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 1, Ruta 2, Ruta 3, Ruta 4, Ruta 5, Ruta 6, Ruta 7, Ruta 8, Ruta 9, Ruta 10, Ruta 11, Ruta 16, Ruta 17, Ruta 18, Ruta 21, Ruta 22 y Mansión Pokémon",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Rattata no se puede conseguir en este videojuego."
         ],
@@ -176,13 +162,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Su capacidad de adaptación le permite vivir en cualquier lugar. Es tremendamente cauteloso.",
         "Perla Reluciente": "Su capacidad de adaptación le permite vivir en cualquier lugar. Es tremendamente cauteloso.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Se escabulle rápidamente, buscando objetos duros que roer. Parece muy intranquilo e incapaz de estarse quieto.",
-        "Stadium 2": "Pokémon Oro insertado: Vive allí donde haya comida disponible. Busca todo el día, sin descanso, algo comestible.\nPokémon Plata insertado: Come de todo. Se establece donde quiera que haya comida, y se reproduce continuamente.\n",
-        "Pokémon GO": "Rattata es cauto como él solo. Hasta cuando duerme mueve las orejas para oír todos los ruidos. No es nada delicado a la hora de elegir su hábitat. Cualquier sitio es bueno para cavar su madriguera.",
-        "Ranger": "Si es capturado, Rattata usa su pequeño cuerpo para atacar con toda su fuerza.",
-        "Sombras de Almia": "Ataca con fuertes mordiscos.",
-        "New Pokémon Snap": "Imagino que lo habrás visto jugando con Trubbish cerca del laboratorio. Entiendo que tenga que roer algo para que sus incisivos no crezcan de más, ¡pero qué manía con las columnas!"
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

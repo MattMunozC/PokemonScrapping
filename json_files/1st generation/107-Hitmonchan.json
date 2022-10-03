@@ -12,22 +12,14 @@
         "Foco interno"
     ],
     "stats": {
-        "hp": "50",
-        "atk": "105",
-        "def": "79",
-        "atk esp": "35",
-        "def esp": "110",
-        "speed": "76"
+        "hp": 50,
+        "atk": 105,
+        "def": 79,
+        "atk esp": 35,
+        "def esp": 110,
+        "speed": 76
     },
     "location": {
-        "Rojo": [
-            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonlee o un Hitmonchan tras derrotarle (solo uno)",
-            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
-        ],
-        "Azul": [
-            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonlee o un Hitmonchan tras derrotarle (solo uno)",
-            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
-        ],
         "Amarillo": [
             "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonlee o un Hitmonchan tras derrotarle (solo uno)",
             "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
@@ -112,14 +104,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Calle Victoria (segundo piso), solo con uso de colonia y/o alta racha de capturas",
-            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonlee o un Hitmonchan tras derrotarle (solo uno)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Calle Victoria (segundo piso), solo con uso de colonia y/o alta racha de capturas",
-            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonlee o un Hitmonchan tras derrotarle (solo uno)"
-        ],
         "Espada": [
             "Incursiones Dinamax: Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew.",
             "Aventura Dinamax ",
@@ -175,10 +159,7 @@
         "Escudo": "Sus puñetazos son capaces incluso de cortar el aire, aunque parece necesitar un descanso tras estar luchando durante 3 min.",
         "Diamante Brillante": "Sus potentes puñetazos giratorios son capaces de pulverizar hormigón, pero necesita descansar tras combatir tres minutos.",
         "Perla Reluciente": "Sus potentes puñetazos giratorios son capaces de pulverizar hormigón, pero necesita descansar tras combatir tres minutos.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Adepto a golpear rápido como el rayo, a la velocidad de un tren bala. Se toma un respiro cada tres minutos cuando da vueltas.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Dicen que Hitmonchan tiene el mismo ímpetu que un boxeador entrenándose para un campeonato mundial. Este Pokémon tiene un espíritu indomable que nunca se doblega ante la adversidad."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

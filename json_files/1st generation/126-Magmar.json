@@ -11,20 +11,14 @@
         "Espíritu vital"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "95",
-        "def": "57",
-        "atk esp": "100",
-        "def esp": "85",
-        "speed": "93"
+        "hp": 65,
+        "atk": 95,
+        "def": 57,
+        "atk esp": 100,
+        "def esp": 85,
+        "speed": 93
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: desde Azul, Oro, Plata o Cristal."
-        ],
-        "Azul": [
-            "Salvaje: Mansión Pokémon."
-        ],
         "Amarillo": [
             "Intercambiar: desde Azul, Oro, Plata o Cristal."
         ],
@@ -116,12 +110,6 @@
         "Ultraluna": [
             "Salvaje: Área Volcánica del Wela (combate con refuerzos, refuerzo de Magby)."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Mansión Pokémon."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Mansión Pokémon."
-        ],
         "Espada": [
             "Salvaje: Campo Deslizante, Campo Bajocero, Desfiladero Nevado, Encrucijada Tresvías, Lago Bolaguna, Lecho del Gigante, Suela del Gigante y Viejo Cementerio. "
         ],
@@ -173,12 +161,7 @@
         "Escudo": "Un Pokémon cuyo cuerpo está siempre envuelto en llamas. Es temido porque se lo considera un causante potencial de incendios.",
         "Diamante Brillante": "Nació en el cráter de un volcán. Su cuerpo está cubierto de llamas que brillan como el sol.",
         "Perla Reluciente": "Nació en el cráter de un volcán. Su cuerpo está cubierto de llamas que brillan como el sol.",
-        "Leyendas: Arceus": "Se dice que nace en los cráteres de los volcanes. Se baña en lava cuando está herido para curarse, como si de aguas termales se tratase.",
-        "Stadium": "Con una temperatura corporal de cerca de 2.200 grados, su cuerpo siempre arde con llamas rojas. Vive junto a los volcanes.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Al luchar, Magmar expulsa violentas llamas por todo el cuerpo para intimidar a su rival. Estos estallidos de fuego crean ondas de calor que abrasan la hierba y los árboles que haya en las proximidades.",
-        "Ranger": "Magmar escupe fuego y puede derretir chatarra fácilmente.",
-        "Sombras de Almia": "Ataca escupiendo bolas y chorros de fuego."
+        "Leyendas: Arceus": "Se dice que nace en los cráteres de los volcanes. Se baña en lava cuando está herido para curarse, como si de aguas termales se tratase."
     },
     "evolution": [
         [

@@ -12,20 +12,14 @@
         "Hedor"
     ],
     "stats": {
-        "hp": "40",
-        "atk": "65",
-        "def": "95",
-        "atk esp": "60",
-        "def esp": "45",
-        "speed": "35"
+        "hp": 40,
+        "atk": 65,
+        "def": 95,
+        "atk esp": 60,
+        "def esp": 45,
+        "speed": 35
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Mansión Pokémon."
-        ],
-        "Azul": [
-            "Salvaje: Mansión Pokémon."
-        ],
         "Amarillo": [
             "Intercambiar: de Pokémon Rojo y Azul, Pokémon Oro y Plata o Pokémon Cristal"
         ],
@@ -117,13 +111,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Intercambiar: de Pokémon: Let's Go, Eevee!",
-            "Especial: Transferir desde Pokémon GO."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Mansión Pokémon, Central Energía"
-        ],
         "Espada": [
             "Salvaje: Afueras de Pistón.",
             "Área Silvestre: Ribera de Pistón, Cuenca Polvorienta, Espejo del Gigante.",
@@ -177,13 +164,7 @@
         "Escudo": "Se nutre de aire contaminado. Al parecer, antaño eran mucho más numerosos en Galar.",
         "Diamante Brillante": "Los gases del interior de su cuerpo son más ligeros que el aire, lo que le permite flotar. Además de oler mal, también son explosivos.",
         "Perla Reluciente": "Los gases del interior de su cuerpo son más ligeros que el aire, lo que le permite flotar. Además de oler mal, también son explosivos.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Un Pokémon que es como un globo de fina piel lleno de un gas altamente tóxico. Se sabe que ocasionalmente explota.",
-        "Stadium 2": "Pokémon Oro insertado: Los gases venenosos que contiene son más ligeros que el aire, y por eso, puede flotar.\nPokémon Plata insertado: Su fino y delgado cuerpo está lleno de gases que causan tos, estornudos y lagrimeos constantes.\n",
-        "Pokémon GO": "Si Koffing se pone nervioso, aumenta el nivel de toxicidad de los gases que tiene y los expulsa por todo el cuerpo. También suele hincharse mucho hasta llegar a explotar.",
-        "Ranger": "Koffing dispersa veneno en el aire para atacar. Se hincha al trazar un círculo.",
-        "RubíZafiro": "Si Koffing se pone nervioso, aumenta el nivel de toxicidad de los gases que tiene y los expulsa por todo el cuerpo. También suele hincharse mucho hasta llegar a explotar.",
-        "New Pokémon Snap": "Su cuerpo está lleno de gases tóxicos. Cuando se hincha, es señal de que los gases de las ciénagas están provocando una reacción química en su interior."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

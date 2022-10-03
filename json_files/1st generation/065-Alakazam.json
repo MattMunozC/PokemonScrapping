@@ -12,20 +12,14 @@
         "Muro mágico"
     ],
     "stats": {
-        "hp": "55",
-        "atk": "50",
-        "def": "45",
-        "atk esp": "135",
-        "def esp": "95",
-        "speed": "120"
+        "hp": 55,
+        "atk": 50,
+        "def": 45,
+        "atk esp": 135,
+        "def esp": 95,
+        "speed": 120
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Kadabra (Intercambiar)."
-        ],
-        "Azul": [
-            "Evolucionar: a Kadabra (Intercambiar)."
-        ],
         "Amarillo": [
             "Evolucionar: a Kadabra (Intercambiar)."
         ],
@@ -116,12 +110,6 @@
         "Ultraluna": [
             "Evolucionar: a Kadabra (Intercambiar)."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Kadabra (Intercambiar)."
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Kadabra (Intercambiar)."
-        ],
         "Espada": [
             "Salvaje: Bahía Circular y Mar Islejos.",
             "Evolucionar: a Kadabra (Intercambiar)."
@@ -175,11 +163,7 @@
         "Escudo": "Posee unos poderes psíquicos extraordinarios con los que, según se dice, creó las cucharas que lleva en las manos.",
         "Diamante Brillante": "Su gran memoria le permite recordar todo lo que ha vivido desde su nacimiento. Su coeficiente intelectual es superior a 5000.",
         "Perla Reluciente": "Su cerebro está tan desarrollado como un superordenador, lo que le permite usar cualquier poder psíquico.",
-        "Leyendas: Arceus": "Su cabeza se vuelve más grande y pesada con los años. Tras un riguroso estudio, concluimos que existe una correlación entre el peso de su cráneo y la fuerza de sus poderes psíquicos.",
-        "Stadium": "Un Pokémon que utiliza poder mental. Es muy inteligente y capaz de identificar de forma instantánea la debilidad de su enemigo.",
-        "Stadium 2": "Pokémon Oro insertado: Sus neuronas se multiplican continuamente durante su vida. Por eso, siempre lo recuerda todo.\nPokémon Plata insertado: Al cerrar los ojos, aumenta sus demás sentidos. Esto le permite utilizar sus habilidades al máximo.\n",
-        "Pokémon GO": "\nAlakazam: El cerebro de Alakazam nunca deja de crecer y por ello al cuello le cuesta sostener el peso de la cabeza. Este Pokémon usa sus poderes psicoquinéticos para mantener en alto la cabeza.\nMega-Alakazam: Sacrifica su musculatura a cambio de liberar la verdadera escala de su fuerza. Con sus poderes psíquicos, no hay nada que se le escape.",
-        "RubíZafiro": "El cerebro de Alakazam siempre está creciendo y el número de neuronas no deja de aumentar. Este Pokémon tiene un coeficiente intelectual de 5000. Tiene archivado en su memoria todo lo que ha ocurrido en el mundo."
+        "Leyendas: Arceus": "Su cabeza se vuelve más grande y pesada con los años. Tras un riguroso estudio, concluimos que existe una correlación entre el peso de su cráneo y la fuerza de sus poderes psíquicos."
     },
     "evolution": [
         [

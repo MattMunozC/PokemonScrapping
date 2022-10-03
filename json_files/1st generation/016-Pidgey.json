@@ -13,20 +13,14 @@
         "Sacapecho"
     ],
     "stats": {
-        "hp": "40",
-        "atk": "45",
-        "def": "40",
-        "atk esp": "35",
-        "def esp": "35",
-        "speed": "56"
+        "hp": 40,
+        "atk": 45,
+        "def": 40,
+        "atk esp": 35,
+        "def esp": 35,
+        "speed": 56
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Rutas 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 21, 24 y 25."
-        ],
-        "Azul": [
-            "Salvaje: Rutas 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 21, 24 y 25."
-        ],
         "Amarillo": [
             "Salvaje: Rutas 1, 2, 5, 6, 7, 8, 11, 12, 13, 21, 24, 25 y Bosque Verde."
         ],
@@ -116,14 +110,6 @@
         "Ultraluna": [
             "Criando: de Pidgeot."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Rutas 1, 2, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 24, 25, Ciudad Celeste, Isla Canela, Ciudad Fucsia, Pueblo Lavanda, Pueblo Paleta, Ciudad Plateada, Ciudad Carmín, Ciudad Verde y Bosque Verde",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 1, 2, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 24, 25, Ciudad Celeste, Isla Canela, Ciudad Fucsia, Pueblo Lavanda, Pueblo Paleta, Ciudad Plateada, Ciudad Carmín, Ciudad Verde y Bosque Verde",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Pidgey no se puede conseguir en este videojuego."
         ],
@@ -173,11 +159,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Es de carácter pacífico y prefiere no combatir, pero contraatacará ferozmente si lo molestan.",
         "Perla Reluciente": "Es de carácter pacífico y prefiere no combatir, pero contraatacará ferozmente si lo molestan.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Si es posible, intentará evitar las batallas. Los enemigos pequeños o débiles volarán con su REMOLINO.",
-        "Stadium 2": "Pokémon Oro insertado: Común en zonas de hierba y bosques, es muy dócil y ahuyenta a sus enemigos levantando arena.\nPokémon Plata insertado: Suele ocultarse entre altas hierbas. Como no le gusta luchar, se defiende pateando arena.\n",
-        "Pokémon GO": "Pidgey tiene un sentido de la orientación muy desarrollado. Es capaz de regresar a su nido, por lejos que se encuentre de las zonas que le resultan familiares.",
-        "Trazos de luz": "Lanza varios tornados contra el oponente."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

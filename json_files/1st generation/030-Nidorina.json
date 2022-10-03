@@ -12,25 +12,14 @@
         "Entusiasmo"
     ],
     "stats": {
-        "hp": "70",
-        "atk": "62",
-        "def": "67",
-        "atk esp": "55",
-        "def esp": "55",
-        "speed": "56"
+        "hp": 70,
+        "atk": 62,
+        "def": 67,
+        "atk esp": 55,
+        "def esp": 55,
+        "speed": 56
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Zona Safari (entrada y área 2).",
-            "Intercambiar: por un Nidorino en el primer piso de la casa que comunica la Ruta 11 con Ruta 12.",
-            "Especial: Casino de Ciudad Azulona por 1200 fichas",
-            "Evolucionar: a Nidoran♀ (Nivel 16)"
-        ],
-        "Azul": [
-            "Salvaje: Zona Safari (entrada y áreas 1, 2 y 3).",
-            "Intercambiar: por un Nidorino en el primer piso de la casa que comunica la Ruta 11 con Ruta 12.",
-            "Evolucionar: a Nidoran♀ (Nivel 16)"
-        ],
         "Amarillo": [
             "Salvaje: Rutas 9, 23 y Zona Safari (áreas 1 y 2).",
             "Evolucionar: a Nidoran♀ (Nivel 16)"
@@ -131,14 +120,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Rutas 9, 10 y 23.",
-            "Evolucionar: a Nidoran♀ (Nivel 16)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 9, 10 y 23.",
-            "Evolucionar: a Nidoran♀ (Nivel 16)"
-        ],
         "Espada": [
             "Salvaje: Lecho del Gigante. ",
             "Evolucionar: a Nidoran♀ (Nivel 16) "
@@ -194,10 +175,7 @@
         "Escudo": "Cuando el peligro se cierne sobre la manada, los miembros unen fuerzas para defenderse emitiendo un coro de ondas ultrasónicas.",
         "Diamante Brillante": "Si percibe peligro, eriza las púas de todo el cuerpo. Sus púas crecen más despacio que las de Nidorino.",
         "Perla Reluciente": "Si percibe peligro, eriza las púas de todo el cuerpo. Sus púas crecen más despacio que las de Nidorino.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Normalmente, es dócil. Sin embargo, si se enfada, atacará salvajemente con mordiscos y arañazos.",
-        "Stadium 2": "Pokémon Oro insertado: Es tranquilo por naturaleza. Como su cuerno crece lentamente, prefiere no luchar.\nPokémon Plata insertado: Cuando alimenta a sus crías, primero mastica y ablanda la comida y luego la escupe para su prole.\n",
-        "Pokémon GO": "Cuando están en familia o con sus amigos, esconden las púas para evitar accidentes. Según parece, se alteran bastante si se separan del grupo."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

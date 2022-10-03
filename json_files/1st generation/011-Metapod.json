@@ -9,22 +9,14 @@
     ],
     "hidden abilities": "None",
     "stats": {
-        "hp": "50",
-        "atk": "20",
-        "def": "55",
-        "atk esp": "25",
-        "def esp": "25",
-        "speed": "30"
+        "hp": 50,
+        "atk": 20,
+        "def": 55,
+        "atk esp": 25,
+        "def esp": 25,
+        "speed": 30
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Bosque Verde y Ruta 25",
-            "Evolucionar: a Caterpie (nivel 7)"
-        ],
-        "Azul": [
-            "Salvaje: Bosque Verde, Ruta 24 y Ruta 25",
-            "Evolucionar: a Caterpie (nivel 7)"
-        ],
         "Amarillo": [
             "Salvaje: Bosque Verde",
             "Evolucionar: a Caterpie (nivel 7)"
@@ -130,14 +122,6 @@
             "Salvaje: Ruta 5 y Jardines de Melemele",
             "Evolucionar: a Caterpie (nivel 7)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Bosque Verde",
-            "Evolucionar: a Caterpie (nivel 7)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Bosque Verde",
-            "Evolucionar: a Caterpie (nivel 7)"
-        ],
         "Espada": [
             "Salvaje:",
             "Área Silvestre: Pradera Radiante",
@@ -193,11 +177,7 @@
         "Escudo": "Aunque cuenta con una coraza muy dura, tiene un cuerpo bastante blando. Un ataque violento puede acabar con él.",
         "Diamante Brillante": "Su débil cuerpo está recubierto de una coraza dura como el acero. Permanece inmóvil hasta que evoluciona.",
         "Perla Reluciente": "Su débil cuerpo está recubierto de una coraza dura como el acero. Permanece inmóvil hasta que evoluciona.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Cuando se endurece, sólo el caparazón se transforma. Por dentro permanece tierno.",
-        "Stadium 2": "Pokémon Oro insertado: Prepara su evolución fortaleciendo su caparazón para proteger su débil cuerpo.\nPokémon Plata insertado: En el caparazón, mientras se prepara para evolucionar, está blando y débil, en estado catatónico.\n",
-        "Pokémon GO": "La capa que recubre el cuerpo de este Pokémon es tan dura como una plancha de hierro. Metapod apenas se mueve. Permanece inmóvil para que las vísceras evolucionen dentro de la coraza que le rodea.",
-        "New Pokémon Snap": "¿Sabías que todas sus células se están regenerando dentro de esa dura coraza? Los Metapod se agrupan y permanecen inmóviles para que el líquido de su interior no se vierta por el suelo accidentalmente."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

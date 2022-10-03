@@ -12,22 +12,14 @@
         "Hedor"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "90",
-        "def": "120",
-        "atk esp": "85",
-        "def esp": "70",
-        "speed": "60"
+        "hp": 65,
+        "atk": 90,
+        "def": 120,
+        "atk esp": 85,
+        "def esp": 70,
+        "speed": 60
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Mansión Pokémon.",
-            "Evolucionar: a Koffing (nivel 35)."
-        ],
-        "Azul": [
-            "Salvaje: Mansión Pokémon.",
-            "Evolucionar: a Koffing (nivel 35)."
-        ],
         "Amarillo": [
             "Intercambiar: de Pokémon Rojo y Azul, Pokémon Oro y Plata o Pokémon Cristal."
         ],
@@ -122,14 +114,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Intercambio: Pokémon: Let's Go Eevee!.",
-            "GO Park: Transferir de Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Central de Energía y Mansión Pokémon.",
-            "Evolucionar: a Koffing (nivel 35)."
-        ],
         "Espada": [
             "Aventura Dinamax ",
             "Especial: Transferir desde Pokémon HOME",
@@ -187,11 +171,7 @@
         "Escudo": "Posee una capacidad de succión inferior a la del Weezing de Galar, pero las toxinas que genera son más potentes.",
         "Diamante Brillante": "Crece alimentándose de los gases emanados por la basura. Se han dado raros casos de trillizos.",
         "Perla Reluciente": "Crece alimentándose de los gases emanados por la basura. Se han dado raros casos de trillizos.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Una pareja de KOFFING que se forma a veces, al juntarse gases venenosos. Parece que sus dos gases tóxicos son diferentes.",
-        "Stadium 2": "Pokémon Oro insertado: El mejor perfume se fabrica con sus venenosos gases internos, diluyéndolos lo máximo posible.\nPokémon Plata insertado: Si uno de los gemelos Koffing se infla, el otro se desinfla. Mezclan constantemente sus venenosos gases.\n",
-        "Pokémon GO": "A Weezing le encantan los gases que emanan de los desperdicios que quedan en la cocina. Este Pokémon busca casas sucias y abandonadas para crear su hogar. De noche, cuando los habitantes de la casa duermen, va a por la basura.",
-        "RubíZafiro": "A Weezing le encantan los gases que emanan de los desperdicios que quedan en la cocina. Este Pokémon busca casas sucias y abandonadas para crear su hogar. De noche, cuando los habitantes de la casa duermen, va a por la basura."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

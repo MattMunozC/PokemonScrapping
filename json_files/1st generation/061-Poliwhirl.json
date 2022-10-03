@@ -12,22 +12,14 @@
         "Nado rápido"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "65",
-        "def": "65",
-        "atk esp": "50",
-        "def esp": "50",
-        "speed": "90"
+        "hp": 65,
+        "atk": 65,
+        "def": 65,
+        "atk esp": 50,
+        "def esp": 50,
+        "speed": 90
     },
     "location": {
-        "Rojo": [
-            "Pescando (Supercaña): Ruta 10 y Ciudad Azulona.",
-            "Evolucionar: a Poliwag (nivel 25)."
-        ],
-        "Azul": [
-            "Pescando (Supercaña): Ruta 10 y Ciudad Azulona.",
-            "Evolucionar: a Poliwag (nivel 25)."
-        ],
         "Amarillo": [
             "Pescando (Supercaña): Rutas 22 y 23.",
             "Evolucionar: a Poliwag (nivel 25)."
@@ -148,12 +140,6 @@
             "Salvaje: Parque de Malíe (Como refuerzo en clima lluvioso)",
             "Evolucionar: a Poliwag (nivel 25)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Rutas 22, 23, 25 y Cueva Celeste."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 22, 23, 25 y Cueva Celeste."
-        ],
         "Espada": [
             "Salvaje: Humedal Frescor.",
             "Evolucionar: a Poliwag (nivel 25)"
@@ -211,11 +197,7 @@
         "Escudo": "Secreta un sudor viscoso que le sirve para escurrirse y escapar del agarre de sus enemigos.",
         "Diamante Brillante": "La espiral de su panza ondea levemente. Si se mira fijamente, provoca somnolencia.",
         "Perla Reluciente": "La espiral de su panza ondea levemente. Si se mira fijamente, provoca somnolencia.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Es capaz de vivir en tierra, pero prefiere el agua. Si está fuera del agua, intenta mantener su piel húmeda.",
-        "Stadium 2": "Pokémon Oro insertado: Gran parte de su piel es esponjosa. Sin embargo, la piel de su espiral es muy suave.\nPokémon Plata insertado: La espiral de su pecho se ondula delicadamente. Mirarlo provoca gradualmente un estado de sopor.\n",
-        "Pokémon GO": "La piel de Poliwhirl está siempre húmeda y lubricada con un fluido viscoso. Gracias a esta película resbaladiza, puede escapar de las garras del enemigo, resbalándosele de las zarpas en pleno combate.",
-        "Ranger": "Poliwhirl atacará con chorros de agua. ¡Cuidado! Atacará muchas veces."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

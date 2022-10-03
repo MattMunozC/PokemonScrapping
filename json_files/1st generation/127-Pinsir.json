@@ -12,21 +12,14 @@
         "Autoestima"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "125",
-        "def": "100",
-        "atk esp": "55",
-        "def esp": "70",
-        "speed": "85"
+        "hp": 65,
+        "atk": 125,
+        "def": 100,
+        "atk esp": 55,
+        "def esp": 70,
+        "speed": 85
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: de Pokémon Azul, Pokémon Amarillo, Pokémon Oro, Pokémon Plata o Pokémon Cristal."
-        ],
-        "Azul": [
-            "Salvaje: Zona Safari (áreas central y 1).",
-            "Especial: Casino de Ciudad Azulona (2500 fichas)."
-        ],
         "Amarillo": [
             "Salvaje: Zona Safari (áreas 3 y 4).",
             "Especial: Casino de Ciudad Azulona (6500 fichas)."
@@ -126,13 +119,6 @@
             "Especial: Isla Exeggutor",
             "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
         ],
-        "Let's Go Pikachu!": [
-            "Intercambiar: de Pokémon: Let's Go, Eevee!.",
-            "Especial: Transferir desde Pokémon GO."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 14 y Ruta 15."
-        ],
         "Espada": [
             "Salvaje: Ruta Desafío, Bosque Concentración, Llano Entrenamiento "
         ],
@@ -183,14 +169,7 @@
         "Escudo": "Usa la cornamenta a modo de pinza para atrapar a sus presas. Acto seguido, las parte por la mitad o las arroja lejos.",
         "Diamante Brillante": "Usa la cornamenta a modo de pinza para atrapar a las presas y no las suelta hasta que las ha hecho trizas. Si no puede destrozar algo, lo lanza lejos.",
         "Perla Reluciente": "Usa la cornamenta a modo de pinza para atrapar a las presas y no las suelta hasta que las ha hecho trizas. Si no puede destrozar algo, lo lanza lejos.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Atrapa y desgarra a sus enemigos con las dos pinzas de su cabeza. Atrapa y arroja a los enemigos de cuerpos duros.",
-        "Stadium 2": "Pokémon Oro insertado: Arremete violentamente con su cornamenta. Cuando llega el frío, se adentra en los bosques.\nPokémon Plata insertado: Cava guaridas con sus cuernos para pasar la noche. Por la mañana, la tierra húmeda se pega a su cuerpo.\n",
-        "Pokémon GO": "Pinsir es sorprendentemente fuerte. Puede agarrar con los cuernos a un rival que pese el doble que él y levantarlo por los aires. En zonas frías, los movimientos de este Pokémon se vuelven lentos.",
-        "Ranger": "Pinsir puede cortar con sus largos cuernos. Puede cortar vallas metálicas fácilmente.",
-        "Sombras de Almia": "Ataca embistiendo con sus largos cuernos.",
-        "RubíZafiro": "Pinsir es sorprendentemente grande. Puede agarrar con los cuernos a un rival que pese el doble que él y levantarlo por los aires. En zonas frías, los movimientos de este Pokémon se vuelven lentos.",
-        "New Pokémon Snap": "Como habrás notado, al visitar el parque natural de noche pueden verse pinzas de Pinsir saliendo del suelo. Si te preguntas por qué se entierran así, lo hacen para resguardarse del frío."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

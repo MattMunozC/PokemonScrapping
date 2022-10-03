@@ -12,22 +12,14 @@
         "Liviano"
     ],
     "stats": {
-        "hp": "50",
-        "atk": "120",
-        "def": "53",
-        "atk esp": "35",
-        "def esp": "110",
-        "speed": "87"
+        "hp": 50,
+        "atk": 120,
+        "def": 53,
+        "atk esp": 35,
+        "def esp": 110,
+        "speed": 87
     },
     "location": {
-        "Rojo": [
-            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonchan o un Hitmonlee tras derrotarle (solo uno)",
-            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
-        ],
-        "Azul": [
-            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonchan o un Hitmonlee tras derrotarle (solo uno)",
-            "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
-        ],
         "Amarillo": [
             "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonchan o un Hitmonlee tras derrotarle (solo uno)",
             "Especial: Regalo entregado al azar de Pokémon Stadium tras derrotar al Alto Mando"
@@ -112,14 +104,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Calle Victoria (primer piso), solo con uso de colonia y/o alta racha de capturas",
-            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonchan o un Hitmonlee tras derrotarle (solo uno)"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Calle Victoria (primer piso), solo con uso de colonia y/o alta racha de capturas",
-            "Especial: El maestro karateka del Dojo-Karate da a elegir entre un Hitmonchan o un Hitmonlee tras derrotarle (solo uno)"
-        ],
         "Espada": [
             "Salvaje:",
             "Área Silvestre: Cuenca Polvorienta.",
@@ -175,10 +159,7 @@
         "Escudo": "Encoge y estira las piernas a su antojo. De hecho, hasta puede propinar una patada a un rival que se encuentre lejos.",
         "Diamante Brillante": "Puede extender sus piernas hasta doblar su longitud, por lo que su alcance sorprende a los que se enfrentan a él por primera vez.",
         "Perla Reluciente": "Puede extender sus piernas hasta doblar su longitud, por lo que su alcance sorprende a los que se enfrentan a él por primera vez.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Patea repetidamente a su enemigo con piernas que extiende y contrae libremente. Hay quien lo llama “el maestro que patea”.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Hitmonlee tiene la facilidad de encoger y estirar las patas. Con extremidades tan flexibles, propina unas patadas demoledoras. Tras la lucha, se masajea las piernas y relaja los músculos para descansar."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

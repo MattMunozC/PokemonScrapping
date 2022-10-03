@@ -12,21 +12,14 @@
         "Gula"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "90",
-        "def": "50",
-        "atk esp": "85",
-        "def esp": "45",
-        "speed": "55"
+        "hp": 65,
+        "atk": 90,
+        "def": 50,
+        "atk esp": 85,
+        "def esp": 45,
+        "speed": 55
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: de Pokémon Azul, Amarillo, Oro, Plata o Cristal"
-        ],
-        "Azul": [
-            "Salvaje: Rutas 12, 13, 14 y 15.",
-            "Evolucionar: a Bellsprout (nivel 21)."
-        ],
         "Amarillo": [
             "Salvaje: Rutas 12, 13, 14 y 15 y Cueva Celeste (planta baja y planta 1).",
             "Evolucionar: a Bellsprout (nivel 21)."
@@ -131,13 +124,6 @@
         "Ultraluna": [
             "Intercambiar: de Pokémon Sol o Pokémon Luna"
         ],
-        "Let's Go Pikachu!": [
-            "Intercambiar: de Pokémon: Let's Go, Eevee!"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Rutas 12, 13, 14, 15 y 21.",
-            "Evolucionar: a Bellsprout (nivel 21)."
-        ],
         "Espada": [
             "Weepinbell no se puede conseguir en este videojuego."
         ],
@@ -189,11 +175,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Este Pokémon parece una planta. Cuando se le acerca una presa desprevenida, le escupe un polvo tóxico y la captura.",
         "Perla Reluciente": "Este Pokémon parece una planta. Cuando se le acerca una presa desprevenida, le escupe un polvo tóxico y la captura.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Armado con afiladas hojas, utiliza polen tóxico para inmovilizar al enemigo y lo disuelve con ÁCIDO.",
-        "Stadium 2": "Pokémon Oro insertado: Si su presa no le cabe en la boca, la corta con hojas afiladas, facilitando su digestión.\nPokémon Plata insertado: Aunque está lleno de ácido, no llega a derretirse porque también rezuma fluidos neutralizantes.\n",
-        "Pokémon GO": "Weepinbell tiene un gancho a modo de extremidad superior trasera, que usa por la noche para colgarse de una rama y echarse a dormir. Si se mueve mientras duerme, puede acabar en el suelo.",
-        "Ranger": "Weepinbell se traga a los incautos y los escupe al lugar de donde vinieron."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

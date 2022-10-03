@@ -12,22 +12,14 @@
         "Funda"
     ],
     "stats": {
-        "hp": "30",
-        "atk": "65",
-        "def": "100",
-        "atk esp": "45",
-        "def esp": "25",
-        "speed": "40"
+        "hp": 30,
+        "atk": 65,
+        "def": 100,
+        "atk esp": 45,
+        "def esp": 25,
+        "speed": 40
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Islas Espuma.",
-            "Pescando (supercaña): Rutas 6, 11, 19, 20, 21, Ciudad Carmín, S.S. Anne, Islas Espuma, Isla Canela."
-        ],
-        "Azul": [
-            "Salvaje: Islas Espuma.",
-            "Pescando (supercaña): Rutas 6, 11, 19, 20, 21, Ciudad Carmín, S.S. Anne, Islas Espuma, Isla Canela."
-        ],
         "Amarillo": [
             "Pescando (supercaña): Rutas 17, 18, S.S. Anne."
         ],
@@ -120,12 +112,6 @@
         "Ultraluna": [
             "Pescando: Bahía Kalae."
         ],
-        "Let's Go Pikachu!": [
-            "Surcaaguas: Islas Espuma."
-        ],
-        "Let's Go Eevee!": [
-            "Surcaaguas: Islas Espuma."
-        ],
         "Espada": [
             "Pescando: Lago Axew (este).",
             "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur."
@@ -179,10 +165,7 @@
         "Escudo": "La concha lo protege de cualquier tipo de ataque. Solo es vulnerable cuando se abre.",
         "Diamante Brillante": "Nada hacia atrás abriendo y cerrando la concha. Siempre tiene la lengua fuera.",
         "Perla Reluciente": "Nada hacia atrás abriendo y cerrando la concha. Siempre tiene la lengua fuera.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Su concha es más fuerte que el diamante. Se esconde en la arena del suelo marino y caza presas con su suave lengua.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Por la noche, este Pokémon usa la ancha lengua que tiene para hacer un agujero en el fondo del mar y echarse a dormir. Mientras duerme, Shellder cierra la concha, pero deja la lengua por fuera."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

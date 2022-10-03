@@ -13,22 +13,14 @@
         "Humedad"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "95",
-        "def": "80",
-        "atk esp": "60",
-        "def esp": "80",
-        "speed": "30"
+        "hp": 60,
+        "atk": 95,
+        "def": 80,
+        "atk esp": 60,
+        "def esp": 80,
+        "speed": 30
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Zona Safari (entrada y área 1), Cueva Celeste (planta baja y sótano 1)",
-            "Evolucionar: a Paras (nivel 24)"
-        ],
-        "Azul": [
-            "Salvaje: Zona Safari (entrada y área 1), Cueva Celeste (planta baja y sótano 1)",
-            "Evolucionar: a Paras (nivel 24)"
-        ],
         "Amarillo": [
             "Salvaje: Zona Safari (entrada), Cueva Celeste (planta baja)",
             "Intercambiar: por un Tangela en la casa de acceso a la Ruta 18",
@@ -121,12 +113,6 @@
             "Salvaje: Ruta 11 (solo de día)",
             "Evolucionar: a Paras (nivel 24)"
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Paras (nivel 24)"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Paras (nivel 24)"
-        ],
         "Espada": [
             "Parasect no se puede conseguir en este videojuego."
         ],
@@ -177,11 +163,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Este Pokémon está dominado por una seta parásita que lo supera en tamaño y que dispersa esporas venenosas.",
         "Perla Reluciente": "La seta parásita del lomo controla la voluntad del huésped, al que ha superado en tamaño. Se dice que le gustan los lugares húmedos.",
-        "Leyendas: Arceus": "A veces se encuentran en los bosques ejemplares inmóviles sin la seta del lomo. Esto corrobora la teoría de que es la enorme seta quien los domina.",
-        "Stadium": "El bicho anfitrión es controlado por la seta, que desprende esporas venenosas. A veces, éstas se usan como medicina en China.",
-        "Stadium 2": "Pokémon Oro insertado: Cuanto más grande sea la seta de su lomo, más resistentes serán las esporas que ésta suelta.\nPokémon Plata insertado: Suele vivir en lugares oscuros y húmedos, los preferidos, no del bicho, sino de la seta de su lomo.\n",
-        "Pokémon GO": "Parasect es conocido por destruir en plaga grandes árboles, absorbiendo los nutrientes que tienen en la parte baja del tronco y las raíces. Cuando un árbol azotado por la plaga muere, los Parasect van a por el siguiente al instante.",
-        "Ranger": "Parasect ataca lanzando esporas tóxicas que produce su cuerpo."
+        "Leyendas: Arceus": "A veces se encuentran en los bosques ejemplares inmóviles sin la seta del lomo. Esto corrobora la teoría de que es la enorme seta quien los domina."
     },
     "evolution": [
         [

@@ -12,20 +12,14 @@
         "Autoestima"
     ],
     "stats": {
-        "hp": "95",
-        "atk": "125",
-        "def": "79",
-        "atk esp": "60",
-        "def esp": "100",
-        "speed": "81"
+        "hp": 95,
+        "atk": 125,
+        "def": 79,
+        "atk esp": 60,
+        "def esp": 100,
+        "speed": 81
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Magikarp (nivel 20)"
-        ],
-        "Azul": [
-            "Evolucionar: a Magikarp (nivel 20)"
-        ],
         "Amarillo": [
             "Pescando (supercaña): Ciudad Fucsia",
             "Evolucionar: a Magikarp (nivel 20)"
@@ -145,14 +139,6 @@
             "Pescando: Parque de Malíe",
             "Pescando (como refuerzo de Magikarp): Rutas 7, 8, 9, 13, 14, 15, Afueras de Akala, Colina Saltagua, Bahía Kalae, Mar de Melemele, Pueblo Ohana, Arrecife de Poni, Pendiente de Poni, Jardines de Poni, Aldea Marina, Gruta Unemar y Cañón de Poni"
         ],
-        "Let's Go Pikachu!": [
-            "Surcaaguas: Ruta 20",
-            "Evolucionar: a Magikarp (nivel 20)"
-        ],
-        "Let's Go Eevee!": [
-            "Surcaaguas: Ruta 20",
-            "Evolucionar: a Magikarp (nivel 20)"
-        ],
         "Espada": [
             "Surfeando: Ruta 2, Playa Desafío , Bahía Circular , Mar Gimnástico , Mar Andana , Mar Islejos , Mar Meloso , Isla Melosa , Lecho del Gigante ",
             "Área Silvestre: Valle Entrepuentes, Cuenca Polvorienta, Lago Axew (este), Lago Axew (oeste), Lago del Enfado, Lago Milotic (norte), Lago Milotic (sur)",
@@ -216,13 +202,7 @@
         "Escudo": "Cuando monta en cólera, puede quemarlo todo, incluso en medio de la más violenta tormenta.",
         "Diamante Brillante": "Cuando se enfada, su furia solo se calma tras haber arrasado los campos y montañas vecinos.",
         "Perla Reluciente": "Se conservan escritos antiguos que narran cómo un Gyarados redujo a cenizas un poblado que había sido consumido por la violencia.",
-        "Leyendas: Arceus": "Se trata del dragón descrito en las leyendas antiguas. Según dicen, los abrasadores rayos que lanza por la boca pueden reducir asentamientos enteros a cenizas.",
-        "Stadium": "Extremadamente malicioso y brutal. Tiene suficiente poder destructivo para aniquilar incluso una gran ciudad.",
-        "Stadium 2": "Pokémon Oro insertado: Cuando aparece lo destroza todo. No deja de estar furioso hasta que lo destruye todo.\nPokémon Plata insertado: Dicen que en guerras pasadas, Gyarados aparecía dejando a su paso la ruina y el caos.\n",
-        "Pokémon GO": "\nGyarados: Cuando Magikarp evoluciona y se convierte en Gyarados, sufre un cambio estructural en las células del cerebro. Dicen que esa transformación es la causa de la naturaleza violenta y salvaje de este Pokémon.\nMega-Gyarados: Sale del agua a velocidad supersónica, partiendo en dos las embarcaciones que se encuentren surcando la superficie.",
-        "Ranger": "Gyarados es un Pokémon violento capaz de lanzar grandes chorros con la boca.",
-        "RubíZafiro": "Una vez Gyarados se desmanda, la presión incontrolable y enrabiada de la sangre no se le calmará hasta que no haya quemado todo lo que le rodea. Según parece, a este Pokémon le duran los arranques de cólera hasta un mes.",
-        "New Pokémon Snap": "Un Pokémon muy agresivo que posee una fuerza capaz de destruir cualquier cosa. Las marcas de la pared rocosa del Río Rebos las provocó Gyarados al subir por la cascada."
+        "Leyendas: Arceus": "Se trata del dragón descrito en las leyendas antiguas. Según dicen, los abrasadores rayos que lanza por la boca pueden reducir asentamientos enteros a cenizas."
     },
     "evolution": [
         [

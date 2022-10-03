@@ -12,20 +12,14 @@
         "Competitivo"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "105",
-        "def": "60",
-        "atk esp": "60",
-        "def esp": "70",
-        "speed": "95"
+        "hp": 65,
+        "atk": 105,
+        "def": 60,
+        "atk esp": 60,
+        "def esp": 70,
+        "speed": 95
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Mankey (nivel 28)"
-        ],
-        "Azul": [
-            "Intercambiar: de Pokémon Rojo, Amarillo u Oro"
-        ],
         "Amarillo": [
             "Salvaje: Ruta 23",
             "Evolucionar: a Mankey (nivel 28)"
@@ -124,12 +118,6 @@
             "Salvaje: Llanura de Poni (en árbol que se mueve).",
             "Evolucionar: a Mankey (nivel 28)."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Mankey (nivel 28)"
-        ],
-        "Let's Go Eevee!": [
-            "Intercambiar: de Pokémon: Let's Go, Pikachu! y GO Park"
-        ],
         "Espada": [
             "Primeape no se puede conseguir en este videojuego."
         ],
@@ -183,11 +171,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Un cruce de miradas basta para provocar su ira, que aumenta si el rival echa a correr y no amaina aun después de haberlo derrotado.",
         "Perla Reluciente": "Un cruce de miradas basta para provocar su ira, que aumenta si el rival echa a correr y no amaina aun después de haberlo derrotado.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Si se enrabieta, te persigue incansablemente. Como es imposible determinar qué lo enfadó, no hay modo de calmarlo.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Cuando Primeape se enfada, se le acelera el ritmo cardíaco y se le fortalecen los músculos. Con todo, pierde en inteligencia.",
-        "Ranger": "Primeape siempre está furioso y alterado. Puede romper grandes piedras."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

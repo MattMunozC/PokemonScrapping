@@ -12,20 +12,14 @@
         "Efecto espora"
     ],
     "stats": {
-        "hp": "75",
-        "atk": "80",
-        "def": "85",
-        "atk esp": "110",
-        "def esp": "90",
-        "speed": "50"
+        "hp": 75,
+        "atk": 80,
+        "def": 85,
+        "atk esp": 110,
+        "def esp": 90,
+        "speed": 50
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Gloom (usando una piedra hoja)"
-        ],
-        "Azul": [
-            "Intercambiar: de Pokémon Rojo, Pokémon Amarillo o Pokémon Oro, Plata y Cristal"
-        ],
         "Amarillo": [
             "Evolucionar: a Gloom (usando una piedra hoja)"
         ],
@@ -109,14 +103,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Gloom (usando una piedra hoja)",
-            "Salvaje: 21"
-        ],
-        "Let's Go Eevee!": [
-            "Inrecambiar: de Pokémon: Let's Go, Pikachu!",
-            "Especial: Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón. Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2 y Arboleda Claroscuro, nido al sur.",
             "Aventura Dinamax ",
@@ -170,12 +156,7 @@
         "Escudo": "Cuanto mayores son sus pétalos, más tóxico es su polen. Le pesa la cabeza y le cuesta mantenerla erguida.",
         "Diamante Brillante": "Sus pétalos son los más grandes del mundo. Cuando anda, desprende un polen tóxico que provoca alergias.",
         "Perla Reluciente": "Sus pétalos son los más grandes del mundo. Cuando anda, desprende un polen tóxico que provoca alergias.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Desprende polen alérgico desde sus amplios pétalos. Cuanto más largos sean, más polen desprenderán.",
-        "Stadium 2": "Pokémon Oro insertado: El capullo florece de golpe. Entonces, empieza a soltar polen alergénico y venenoso\nPokémon Plata insertado: Tiene los pétalos más grandes del mundo. Éstos expulsan densas nubes de polen tóxico al caminar\n",
-        "Pokémon GO": "El polen que contienen las esporas tóxicas de Vileplume causa unos ataques de alergia muy agudos. Por eso, no es aconsejable acercarse a ninguna flor selvática, por muy bonita que sea.",
-        "Ranger": "Vileplume lanza esporas desde la flor del centro de su cabeza.",
-        "RubíZafiro": "Vileplume tiene los mayores pétalos del mundo. Los usa para atraer a sus presas y llenarlas de esporas tóxicas. Una vez ha inmovilizado a las víctimas, las atrapa y las devora."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

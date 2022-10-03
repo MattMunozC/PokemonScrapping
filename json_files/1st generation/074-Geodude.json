@@ -13,20 +13,14 @@
         "Velo arena"
     ],
     "stats": {
-        "hp": "40",
-        "atk": "80",
-        "def": "100",
-        "atk esp": "30",
-        "def esp": "30",
-        "speed": "20"
+        "hp": 40,
+        "atk": 80,
+        "def": 100,
+        "atk esp": 30,
+        "def esp": 30,
+        "speed": 20
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Monte Moon, Túnel Roca y Calle Victoria"
-        ],
-        "Azul": [
-            "Salvaje: Monte Moon, Túnel Roca y Calle Victoria"
-        ],
         "Amarillo": [
             "Salvaje: Monte Moon, Túnel Roca y Calle Victoria"
         ],
@@ -124,12 +118,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Monte Moon, Túnel Roca, Calle Victoria y Cueva Celeste"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Monte Moon, Túnel Roca, Calle Victoria y Cueva Celeste"
-        ],
         "Espada": [
             "Geodude no se puede conseguir en este videojuego."
         ],
@@ -181,14 +169,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Muchos viven en zonas montañosas y permanecen semienterrados mientras miran a los escaladores.",
         "Perla Reluciente": "Es imposible distinguirlos de las rocas. Compiten chocándose entre sí para ver quién es más duro.",
-        "Leyendas: Arceus": "Se vale de los brazos para escalar las montañas escarpadas en donde vive. Si alguien lo patea sin querer, se enfada y persigue a su agresor, por lo que puede resultar molesto.",
-        "Stadium": "Cuando está subiendo una colina, si encuentra un paso elevado, se alza con inteligencia gracias a sus dos brazos.",
-        "Stadium 2": "\nPokémon Oro insertado: Usa sus brazos para escalar montañas escarpadas. Si se enfada, balancea sus puños.\nPokémon Plata insertado: Puede que mucha gente no se dé cuenta, pero si lo miras de cerca, descubrirás muchos Geodude alrededor.",
-        "Pokémon GO": "Cuanto más larga es la vida de Geodude, mayor es el desgaste y la erosión que sufre, y más redondeada la forma que va adquiriendo. Sin embargo, el corazón permanece siempre duro, rocoso y tosco.",
-        "Ranger": "Geodude a menudo esta tirado en el suelo. Tiene fuerza para romper rocas pequeñas.",
-        "Sombras de Almia": "Ataca lanzando piedras.",
-        "RubíZafiro": "Cuando Geodude duerme profundamente, se entierra a medias en el suelo y no se despierta ni aunque lo pisen sin querer. Por la mañana, se dedica a buscar comida rodando ladera abajo.",
-        "New Pokémon Snap": "Cuando duermen se parecen tanto a una piedra que no llegas siquiera a advertir su presencia. Por lo visto están tan orgullosos de su robustez que compiten contra sus congéneres para ver quién es más duro."
+        "Leyendas: Arceus": "Se vale de los brazos para escalar las montañas escarpadas en donde vive. Si alguien lo patea sin querer, se enfada y persigue a su agresor, por lo que puede resultar molesto."
     },
     "evolution": [
         [

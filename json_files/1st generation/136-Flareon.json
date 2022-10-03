@@ -11,20 +11,14 @@
         "Agallas"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "130",
-        "def": "60",
-        "atk esp": "95",
-        "def esp": "110",
-        "speed": "65"
+        "hp": 65,
+        "atk": 130,
+        "def": 60,
+        "atk esp": 95,
+        "def esp": 110,
+        "speed": 65
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Eevee (utilizando piedra fuego)."
-        ],
-        "Azul": [
-            "Evolucionar: a Eevee (utilizando piedra fuego)."
-        ],
         "Amarillo": [
             "Evolucionar: a Eevee (utilizando piedra fuego)."
         ],
@@ -114,12 +108,6 @@
         "Ultraluna": [
             "Evolucionar: a Eevee (utilizando piedra fuego)."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Eevee (utilizando piedra fuego)."
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Eevee (utilizando piedra fuego)."
-        ],
         "Espada": [
             "Salvaje:",
             "Área Silvestre: Lago del Enfado, sólo en clima soleado.",
@@ -176,12 +164,7 @@
         "Escudo": "Almacena parte del aire que inhala en la saca de fuego de su interior, que llega a calentarse a más de 1700 °C.",
         "Diamante Brillante": "Posee una saca de fuego en su interior. Antes de un combate, su temperatura corporal asciende hasta los 900 ºC.",
         "Perla Reluciente": "Posee una saca de fuego en su interior. Antes de un combate, su temperatura corporal asciende hasta los 900 ºC.",
-        "Leyendas: Arceus": "Tiene un órgano en forma de bolsa donde almacena llamas. Su poder ígneo, que puede alcanzar los 1700 °C, aumenta cuando inhala profundamente.",
-        "Stadium": "Su ardiente aliento alcanza cerca de 3.000 grados. La temperatura de su cuerpo supera los 1.650 grados cuando almacena fuego.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "La suavidad del pelaje de Flareon tiene una función clara: libera calor para que el Pokémon no se asfixie. La temperatura corporal de este Pokémon puede alcanzar los 900 grados centígrados.",
-        "Ranger": "Flareon es una de las llaves del Templo de Floresta. Ataca con su aliento ardiente.",
-        "New Pokémon Snap": "Son tan curiosos que casi todo les llama la atención. Su temperatura corporal aumenta cuando se emocionan, pero la regulan expulsando calor a través de ese pelaje tan esponjoso que tienen."
+        "Leyendas: Arceus": "Tiene un órgano en forma de bolsa donde almacena llamas. Su poder ígneo, que puede alcanzar los 1700 °C, aumenta cuando inhala profundamente."
     },
     "evolution": [
         [

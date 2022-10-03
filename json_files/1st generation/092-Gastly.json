@@ -10,20 +10,14 @@
     ],
     "hidden abilities": "None",
     "stats": {
-        "hp": "30",
-        "atk": "35",
-        "def": "30",
-        "atk esp": "100",
-        "def esp": "35",
-        "speed": "80"
+        "hp": 30,
+        "atk": 35,
+        "def": 30,
+        "atk esp": 100,
+        "def esp": 35,
+        "speed": 80
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Torre Pokémon (llevando el objeto Scope Silph)."
-        ],
-        "Azul": [
-            "Salvaje: Torre Pokémon (llevando el objeto Scope Silph)."
-        ],
         "Amarillo": [
             "Salvaje: Torre Pokémon (llevando el objeto Scope Silph)."
         ],
@@ -116,12 +110,6 @@
             "Salvaje: Cementerio de Hauoli y Colina del Recuerdo.",
             "Especial: Escuela de entrenadores."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Torre Pokémon (llevando el objeto Scope Silph)."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Torre Pokémon (llevando el objeto Scope Silph)."
-        ],
         "Espada": [
             "Salvaje: Antigua Atalaya (nublado, lluvia, tormenta, ventisca, tormenta de arena, niebla)",
             "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Cornisa de Artejo, nido al noroeste, Espejo del Gigante, nido al sur, Gorro del Gigante, nido al suroeste, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 2 y Ribera de Pistón, nido junto al muro de Ciudad Pistón."
@@ -175,12 +163,7 @@
         "Escudo": "Con su cuerpo gaseoso puede colarse por donde quiera, aunque con un golpe de viento sale despedido.",
         "Diamante Brillante": "El cuerpo de este Pokémon está compuesto en un 95 % de gases, por lo que un fuerte golpe de viento lo arrastra con facilidad.",
         "Perla Reluciente": "Nació a partir de gases venenosos, con los que asfixia incluso a enemigos de gran tamaño.",
-        "Leyendas: Arceus": "Es una forma de vida gaseosa, intangible y muy peligrosa. Cualquiera que inhale una fracción de su tóxico cuerpo se desmayará de inmediato.",
-        "Stadium": "Hecho de una sustancia gaseosa que debilita si quedas envuelto por ella. No aparecerá si hay mucho viento.",
-        "Stadium 2": "Pokémon Oro insertado: Su delgado cuerpo está hecho de gas. Puede envolver a un oponente de cualquier tamaño hasta ahogarlo.\nPokémon Plata insertado: Con su cuerpo gaseoso puede colarse por donde quiera, aunque con un golpe de viento saldría despedido.\n",
-        "Pokémon GO": "Gastly está compuesto en gran medida de materia gaseosa. Cuando hay viento, el aire arrastra parte de esta materia y el Pokémon mengua. Suelen agruparse bajo los aleros de las casas para resguardarse del viento.",
-        "Ranger": "Gastly aparece y desaparece de la vista mientras intenta llevarse a tu Pokémon.",
-        "Sombras de Almia": "Ataca escupiendo bolas terroríficas."
+        "Leyendas: Arceus": "Es una forma de vida gaseosa, intangible y muy peligrosa. Cualquiera que inhale una fracción de su tóxico cuerpo se desmayará de inmediato."
     },
     "evolution": [
         [

@@ -11,20 +11,14 @@
         "Impostor"
     ],
     "stats": {
-        "hp": "48",
-        "atk": "48",
-        "def": "48",
-        "atk esp": "48",
-        "def esp": "48",
-        "speed": "48"
+        "hp": 48,
+        "atk": 48,
+        "def": 48,
+        "atk esp": 48,
+        "def esp": 48,
+        "speed": 48
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Rutas 13, 14, 15, 23 y Cueva Celeste"
-        ],
-        "Azul": [
-            "Salvaje: Rutas 13, 14, 15, 23 y Cueva Celeste"
-        ],
         "Amarillo": [
             "Salvaje: Mansión Pokémon y Cueva Celeste"
         ],
@@ -116,12 +110,6 @@
             "Salvaje: Pico Hokulani",
             "Especial: Ruta 9 y Ciudad Konikoni"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Mansión Pokémon y Cueva Celeste."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Mansión Pokémon y Cueva Celeste."
-        ],
         "Espada": [
             "Salvaje: Lago del Enfado y Mar Gimnástico ",
             "Incursiones Dinamax: Con posible habilidad oculta: Llanura Pétrea, nido al sureste junto a una pared."
@@ -175,11 +163,7 @@
         "Escudo": "Cuando se encuentra con otro Ditto, se mueve más rápido de lo normal para intentar adoptar su aspecto.",
         "Diamante Brillante": "Puede alterar por completo su estructura celular para emular cualquier objeto que vea.",
         "Perla Reluciente": "Puede alterar por completo su estructura celular para emular cualquier objeto que vea.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Capaz de reorganizar sus células para transformarse en un exacto duplicado de su enemigo. Suele ser una mancha informe.",
-        "Stadium 2": "Pokémon Oro insertado: Su habilidad para transformarse es perfecta. Pero si se le hace reír, perderá su poder de transformación.\nPokémon Plata insertado: Se puede transformar en cualquier cosa. Cuando duerme, se vuelve roca para evitar el ataque.\n",
-        "Pokémon GO": "Ditto reorganiza la estructura de sus células para adoptar otras formas. Pero como intenta transformarse en algo guiándose por los datos que tenga almacenados en la memoria, habrá detalles que se le escapen.",
-        "Trazos de luz": "Se transforma en Raikou, Entei o Suicune y ataca"
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

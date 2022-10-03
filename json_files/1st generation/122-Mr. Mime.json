@@ -13,20 +13,14 @@
         "Experto"
     ],
     "stats": {
-        "hp": "40",
-        "atk": "45",
-        "def": "65",
-        "atk esp": "100",
-        "def esp": "120",
-        "speed": "90"
+        "hp": 40,
+        "atk": 45,
+        "def": 65,
+        "atk esp": 100,
+        "def esp": 120,
+        "speed": 90
     },
     "location": {
-        "Rojo": [
-            "Intercambiar: por un Abra en la casa al norte de la salida de Cueva Diglett en la Ruta 2. Tendrá el nivel del Abra intercambiado y el apodo Marcel."
-        ],
-        "Azul": [
-            "Intercambiar: por un Abra (un Jigglypuff en la versión japonesa) en la casa al norte de la salida de Cueva Diglett en la Ruta 2. Tendrá el nivel del Abra/Jigglypuff intercambiado y el apodo Marcel."
-        ],
         "Amarillo": [
             "Intercambiar: por un Clefairy en la casa al sur de la salida de Cueva Diglett en la Ruta 2. Tendrá el nivel del Clefairy intercambiado y el apodo Miles."
         ],
@@ -124,12 +118,6 @@
             "Salvaje: Ciudad Hauoli (Como refuerzo).",
             "Poké Resort: Cayo Recreo, tras llegar a Akala"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Ruta 11."
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Ruta 11."
-        ],
         "Espada": [
             "Intercambiar: por un Obstagoon en Pueblo Crampón.",
             "Intercambio:Intercambio con Tatiana por Mr. Mime de Galar. ",
@@ -188,11 +176,7 @@
         "Escudo": "Domina con maestría la pantomima. La barrera generada con las ondas que emite por los dedos le permite protegerse de numerosos ataques.",
         "Diamante Brillante": "Un experto de la pantomima capaz de crear paredes invisibles pero sólidas solo con sus gestos.",
         "Perla Reluciente": "Para repeler ataques, solidifica el aire y crea muros invisibles gracias a las ondas que emite por la punta de los dedos.",
-        "Leyendas: Arceus": "Su aspecto recuerda al de un payaso, y su comportamiento al de un mimo. De la punta de sus dedos emana una energía con la que crea muros invisibles.",
-        "Stadium": "Es un experto mimo y ama la actuación. Se dice que abofetea a cualquiera que lo moleste con sus anchas manos.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Mr. Mime es un experto en pantomima. Con sus gestos y movimientos es capaz de convencer a sus espectadores de que algo existe, cuando en realidad no es así. Pero, cuando el público se lo cree, las ilusiones se hacen realidad.",
-        "Ranger": "Mr. Mime pone barreras invisibles mientras se mueve como un mimo."
+        "Leyendas: Arceus": "Su aspecto recuerda al de un payaso, y su comportamiento al de un mimo. De la punta de sus dedos emana una energía con la que crea muros invisibles."
     },
     "evolution": [
         [

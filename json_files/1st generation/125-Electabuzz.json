@@ -11,20 +11,14 @@
         "Espíritu vital"
     ],
     "stats": {
-        "hp": "65",
-        "atk": "83",
-        "def": "57",
-        "atk esp": "95",
-        "def esp": "85",
-        "speed": "105"
+        "hp": 65,
+        "atk": 83,
+        "def": 57,
+        "atk esp": 95,
+        "def esp": 85,
+        "speed": 105
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Central energía"
-        ],
-        "Azul": [
-            "Intercambiar: de Rojo, Oro, Plata o Cristal"
-        ],
         "Amarillo": [
             "Intercambiar: de Rojo, Oro, Plata o Cristal"
         ],
@@ -123,12 +117,6 @@
             "Salvaje: Monte Rubor y Pico Hokulani (como refuerzo de Elekid).",
             "Evolucionar: a Elekid (nivel 30)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Central de Energía"
-        ],
-        "Let's Go Eevee!": [
-            "Salvaje: Central de Energía"
-        ],
         "Espada": [
             "Salvaje: Lecho del Gigante , Viejo Cementerio , Suela del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
             "Incursiones Dinamax: Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
@@ -184,12 +172,7 @@
         "Escudo": "Al desatarse una tormenta, se reúnen en torno a los árboles de mayor altura y esperan inmóviles a que caiga algún rayo.",
         "Diamante Brillante": "La mitad de los apagones los provoca este Pokémon tras colarse en las centrales eléctricas para alimentarse de electricidad.",
         "Perla Reluciente": "La mitad de los apagones los provoca este Pokémon tras colarse en las centrales eléctricas para alimentarse de electricidad.",
-        "Leyendas: Arceus": "Se alimenta de electricidad. Cuando, al ocaso, el cielo se cubre de nubarrones y cae un aguacero, es posible verlo subido a los árboles más altos a la espera de que caigan rayos.",
-        "Stadium": "Aparece en plantas eléctricas en busca de electricidad. Se dice que causan grandes apagones si desaparecen.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Al desatarse una tormenta, bandadas de estos Pokémon se enfrentan entre sí para ver quién alcanza antes sitios más altos en los que suelen caer rayos. Hay ciudades que utilizan Electabuzz en lugar de pararrayos.",
-        "Ranger": "Electabuzz ataca liberando mucha energía eléctrica. También puede recargar tu Capturador.",
-        "Sombras de Almia": "Libera electricidad de su cuerpo. Ataca lanzando descargas eléctricas."
+        "Leyendas: Arceus": "Se alimenta de electricidad. Cuando, al ocaso, el cielo se cubre de nubarrones y cae un aguacero, es posible verlo subido a los árboles más altos a la espera de que caigan rayos."
     },
     "evolution": [
         [

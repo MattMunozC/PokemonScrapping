@@ -11,21 +11,14 @@
         "Ímpetu arena"
     ],
     "stats": {
-        "hp": "75",
-        "atk": "100",
-        "def": "110",
-        "atk esp": "45",
-        "def esp": "55",
-        "speed": "65"
+        "hp": 75,
+        "atk": 100,
+        "def": 110,
+        "atk esp": 45,
+        "def esp": 55,
+        "speed": 65
     },
     "location": {
-        "Rojo": [
-            "Intercambiar de Pokémon Azul, Pokémon Amarillo o Pokémon Oro, Plata y Cristal"
-        ],
-        "Azul": [
-            "Salvaje: Ruta 23 y Cueva Celeste (Planta baja y primer sótano).",
-            "Evolucionar: a Sandshrew (Nivel 22)."
-        ],
         "Amarillo": [
             "Salvaje: Cueva Celeste (Planta baja y primera planta).",
             "Evolucionar: a Sandshrew (Nivel 22)."
@@ -127,14 +120,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Sandshrew (Nivel 22)",
-            "GO Park Transferir desde Pokémon GO."
-        ],
-        "Let's Go Eevee!": [
-            "Intercambiar de Pokémon: Let's Go, Pikachu!",
-            "GO Park Transferir desde Pokémon GO."
-        ],
         "Espada": [
             "Aventura Dinamax ",
             "Evolucionar: a Sandshrew (Nivel 22)."
@@ -187,11 +172,7 @@
         "Escudo": "Trepa a los árboles con sus afiladas garras y deja caer bayas para los Sandshrew que esperan debajo.",
         "Diamante Brillante": "Se hace una bola y se lanza rodando hacia los enemigos para clavarles las afiladas púas de la espalda, con las que les causa un gran daño.",
         "Perla Reluciente": "Se hace una bola y se lanza rodando hacia los enemigos para clavarles las afiladas púas de la espalda, con las que les causa un gran daño.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Se enrolla en una bola de pinchos y rueda contra los enemigos. También le encanta dar zarpazos con sus afiladas garras.",
-        "Stadium 2": "Pokémon Oro insertado: Si cava a gran velocidad, puede que se le caigan las garras y púas. Vuelven a crecerle en un día.\nPokémon Plata insertado: En un intento por esconderse, saldrá corriendo a gran velocidad, dejando tras de sí una gran polvareda.\n",
-        "Pokémon GO": "Sandslash está recubierto de duras púas que son partes endurecidas de la piel. Suele mudarlas una vez al año; debajo de las viejas púas crecen unas nuevas que las sustituyen.",
-        "RubíZafiro": "Sandslash se puede enroscar y convertirse en una bola de largas púas. En combate, este Pokémon hará lo posible por debilitar a su rival: le clavará las púas, se le acercará y le atacará con las afiladas garras."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

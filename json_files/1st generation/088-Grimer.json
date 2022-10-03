@@ -12,20 +12,14 @@
         "Toque tóxico"
     ],
     "stats": {
-        "hp": "80",
-        "atk": "80",
-        "def": "50",
-        "atk esp": "40",
-        "def esp": "50",
-        "speed": "25"
+        "hp": 80,
+        "atk": 80,
+        "def": 50,
+        "atk esp": 40,
+        "def esp": 50,
+        "speed": 25
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Mansión Pokémon"
-        ],
-        "Azul": [
-            "Salvaje: Mansión Pokémon"
-        ],
         "Amarillo": [
             "Salvaje: Mansión Pokémon y Central de Energía"
         ],
@@ -126,13 +120,6 @@
         "Ultraluna": [
             "Banco de Pokémon: Transferir desde videojuegos anteriores."
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Mansión Pokémon y Central de Energía."
-        ],
-        "Let's Go Eevee!": [
-            "Intercambiar: de Pokémon: Let's Go, Pikachu!",
-            "Especial: Transferir desde Pokémon GO."
-        ],
         "Espada": [
             "Grimer no se puede conseguir en este videojuego."
         ],
@@ -184,12 +171,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Emergió cuando los rayos X lunares bañaron el lodo de un riachuelo. Vive entre la mugre.",
         "Perla Reluciente": "Emergió cuando los rayos X lunares bañaron el lodo de un riachuelo. Vive entre la mugre.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Lodo que se transformó al exponerse a rayos X venidos de la luna. Ama el lodo, los residuos industriales y los desperdicios.",
-        "Stadium 2": "Pokémon Oro insertado: Grimer deja tantos gérmenes por donde pasa, que allí no vuelve a crecer ninguna planta.\nPokémon Plata insertado: Mientras se mueve, pierde partes de su cuerpo, de donde saldrá un nuevo Grimer. Esto aumenta su hedor.\n",
-        "Pokémon GO": "El elástico cuerpo de lodo de Grimer le permite colarse por cualquier orificio, sea del tamaño que sea. Este Pokémon entra en los bajantes de las cloacas para beberse el agua sucia.",
-        "Ranger": "Grimer lanza bolas de lodo. Ten en cuidado también con el rastro de lodo que deja.",
-        "RubíZafiro": "Grimer emergió del lodo que se formó en una zona contaminada en el fondo del mar. A este Pokémon le encanta todo lo que sea suciedad. Emana continuamente y por todo el cuerpo un horrible fluido contaminado de bacterias."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

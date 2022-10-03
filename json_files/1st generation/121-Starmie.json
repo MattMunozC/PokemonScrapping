@@ -13,20 +13,14 @@
         "Cálculo final"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "75",
-        "def": "85",
-        "atk esp": "100",
-        "def esp": "85",
-        "speed": "115"
+        "hp": 60,
+        "atk": 75,
+        "def": 85,
+        "atk esp": 100,
+        "def esp": 85,
+        "speed": 115
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Staryu (piedra agua)"
-        ],
-        "Azul": [
-            "Evolucionar: a Staryu (piedra agua)"
-        ],
         "Amarillo": [
             "Evolucionar: a Staryu (piedra agua)"
         ],
@@ -119,14 +113,6 @@
             "Salvaje: Ruta 7 y Playa de Hanohano (como refuerzo de Staryu)",
             "Evolucionar: a Staryu (piedra agua)"
         ],
-        "Let's Go Pikachu!": [
-            "Surcaaguas: Rutas 18, 19 y 21.",
-            "Evolucionar: a Staryu (piedra agua)"
-        ],
-        "Let's Go Eevee!": [
-            "Surcaaguas: Rutas 18, 19 y 21.",
-            "Evolucionar: a Staryu (piedra agua)"
-        ],
         "Espada": [
             "Salvaje: Pradera Radiante",
             "Aventura Dinamax "
@@ -178,13 +164,7 @@
         "Escudo": "Starmie absorbe plancton al tiempo que nada por el mar haciendo girar su cuerpo a gran velocidad.",
         "Diamante Brillante": "El núcleo rojo que tiene en el centro del cuerpo emite extrañas señales de radio en la noche.",
         "Perla Reluciente": "El núcleo rojo que tiene en el centro del cuerpo emite extrañas señales de radio en la noche.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Se dice que cuando está lejos de los ojos humanos su corazón brilla con siete colores. Este Pokémon quizá sea extraterrestre.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "La parte central de Starmie (el núcleo brillante) resplandece con siete colores distintos. Debido a su naturaleza luminosa, a este Pokémon se le ha dado el apelativo de \"la gema del mar\".",
-        "Ranger": "Starmie da vueltas para atacar. Se mueve a gran velocidad sobre el agua.",
-        "RubíZafiro": "La parte central de Starmie (el núcleo brillante) resplandece con siete colores distintos. Debido a su naturaleza luminosa, a este Pokémon se le ha dado el apelativo de \"la gema del mar\".",
-        "New Pokémon Snap": "El núcleo de su cuerpo brilla a veces con los colores del arcoíris, como una gema. Se dice que las ondas electromagnéticas y el brillo que emite le permiten ponerse en contacto con el espacio exterior."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

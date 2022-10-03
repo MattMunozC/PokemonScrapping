@@ -13,20 +13,14 @@
         "Cura lluvia"
     ],
     "stats": {
-        "hp": "80",
-        "atk": "70",
-        "def": "65",
-        "atk esp": "80",
-        "def esp": "120",
-        "speed": "100"
+        "hp": 80,
+        "atk": 70,
+        "def": 65,
+        "atk esp": 80,
+        "def esp": 120,
+        "speed": 100
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Tentacool (nivel 30)."
-        ],
-        "Azul": [
-            "Evolucionar: a Tentacool (nivel 30)."
-        ],
         "Amarillo": [
             "Surf: Rutas 19, 20, 21.",
             "Pescando: Rutas 19, 20, 21.",
@@ -151,14 +145,6 @@
             "Surf: Rutas 14, 15, 16 y Arrecife de Poni.",
             "Evolucionar: a Tentacool (nivel 30)."
         ],
-        "Let's Go Pikachu!": [
-            "Surcaaguas: Rutas 4, 10, 12, 13, 18, 19, 20, 21, 24, e Islas Espuma.",
-            "Evolucionar: a Tentacool (nivel 30)."
-        ],
-        "Let's Go Eevee!": [
-            "Surcaaguas: Rutas 4, 10, 12, 13, 18, 19, 20, 21, 24, e Islas Espuma.",
-            "Evolucionar: a Tentacool (nivel 30)."
-        ],
         "Espada": [
             "Salvaje: Cueva Tenacidad, Mar Andana ",
             "Aventura Dinamax ",
@@ -217,12 +203,7 @@
         "Escudo": "Puede estirar y contraer con total libertad sus 80 tentáculos. Con ellos atrapa a sus presas y les inyecta un veneno debilitante.",
         "Diamante Brillante": "Posee 80 tentáculos con los que aprisiona a sus presas hasta que se debilitan por el veneno.",
         "Perla Reluciente": "Para alertar a sus congéneres de un peligro, emite destellos con las esferas rojas que tiene en la cabeza.",
-        "Leyendas: Arceus": "Sus 80 tentáculos tienen veneno en la punta, y además es capaz de estirarlos para atrapar a sus presas. Hay que tener cuidado con él.",
-        "Stadium": "Tiene 80 tentáculos. Una vez ha atrapado a un enemigo, los tentáculos no lo sueltan, pase lo que pase.",
-        "Stadium 2": "Desconocida.",
-        "Pokémon GO": "Tentacruel tiene unas enormes esferas rojas en la cabeza, que brillan antes de lanzar una descarga ultrasónica a lo que le rodea. Este estallido crea unas olas tremendas a su alrededor.",
-        "RubíZafiro": "Tentacruel tiene unas enormes esferas rojas en la cabeza, que brillan antes de lanzar una descarga ultrasónica a lo que le rodea. Este estallido crea unas olas tremendas a su alrededor.",
-        "New Pokémon Snap": "Examina el entorno con ondas ultrasónicas y alerta a los suyos de peligros mediante el brillo que emite por la cabeza. Tentacruel también reaccionó al sentir tu radar, tal vez porque su funcionamiento es similar."
+        "Leyendas: Arceus": "Sus 80 tentáculos tienen veneno en la punta, y además es capaz de estirarlos para atrapar a sus presas. Hay que tener cuidado con él."
     },
     "evolution": [
         [

@@ -12,20 +12,14 @@
         "Cromolente"
     ],
     "stats": {
-        "hp": "60",
-        "atk": "45",
-        "def": "50",
-        "atk esp": "90",
-        "def esp": "80",
-        "speed": "70"
+        "hp": 60,
+        "atk": 45,
+        "def": 50,
+        "atk esp": 90,
+        "def esp": 80,
+        "speed": 70
     },
     "location": {
-        "Rojo": [
-            "Evolucionar: a Metapod (nivel 10)"
-        ],
-        "Azul": [
-            "Evolucionar: a Metapod (nivel 10)"
-        ],
         "Amarillo": [
             "Evolucionar: a Metapod (nivel 10)"
         ],
@@ -137,15 +131,6 @@
             "Salvaje: Ruta 5 y Jardines de Melemele",
             "Evolucionar: a Metapod (nivel 10)"
         ],
-        "Let's Go Pikachu!": [
-            "Salvaje: Bosque Verde",
-            "Evolucionar: de Metapod (nivel 10)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: de Metapod (nivel 10)",
-            "Especial: GO Park Transferir desde Pokémon GO"
-        ],
         "Espada": [
             "Salvaje:",
             "Bosque Oniria",
@@ -207,10 +192,7 @@
         "Escudo": "\nButterfree: Recoge néctar a diario y se lo adhiere al pelo de las patas para llevarlo a su nido.\nButterfree Gigamax: Envuelve a sus enemigos en un remolino capaz de lanzar por los aires un camión de diez toneladas y los remata con sus escamas tóxicas.",
         "Diamante Brillante": "Adora el néctar de las flores. Una pequeña cantidad de polen le basta para localizar prados floridos.",
         "Perla Reluciente": "Adora el néctar de las flores. Una pequeña cantidad de polen le basta para localizar prados floridos.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Sus alas están cubiertas de polvo venenoso. Si ves a uno moviendo las alas, procura no inhalar el polvo que despide.",
-        "Stadium 2": "Pokémon Oro insertado: El polvo hidrófugo de sus alas le permite recoger miel, incluso bajo la lluvia más intensa.\nPokémon Plata insertado: Recoge miel a diario y la adhiere al pelo de sus patas para llevarla a su colmena.\n",
-        "Pokémon GO": "Butterfree tiene una habilidad especial para encontrar delicioso polen en las flores. Puede localizar, extraer y transportar polen de flores que estén floreciendo a 10 km de distancia de su nido."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [

@@ -12,22 +12,14 @@
         "Foco interno"
     ],
     "stats": {
-        "hp": "85",
-        "atk": "73",
-        "def": "70",
-        "atk esp": "73",
-        "def esp": "115",
-        "speed": "67"
+        "hp": 85,
+        "atk": 73,
+        "def": 70,
+        "atk esp": 73,
+        "def esp": 115,
+        "speed": 67
     },
     "location": {
-        "Rojo": [
-            "Salvaje: Cueva Celeste (planta baja).",
-            "Evolucionar: a Drowzee (nivel 26)."
-        ],
-        "Azul": [
-            "Salvaje: Cueva Celeste (planta baja).",
-            "Evolucionar: a Drowzee (nivel 26)."
-        ],
         "Amarillo": [
             "Evolucionar: a Drowzee (nivel 26)."
         ],
@@ -128,12 +120,6 @@
             "Salvaje: Llanura de Poni.",
             "Especial: Ciudad Hauoli."
         ],
-        "Let's Go Pikachu!": [
-            "Evolucionar: a Drowzee (nivel 26)."
-        ],
-        "Let's Go Eevee!": [
-            "Evolucionar: a Drowzee (nivel 26)."
-        ],
         "Espada": [
             "Hypno no se puede conseguir en este videojuego."
         ],
@@ -183,11 +169,7 @@
         "Escudo": "Este Pokémon no se puede conseguir en Pokémon Escudo.",
         "Diamante Brillante": "Observar el balanceo de su péndulo puede inducir el sueño en tres segundos a cualquiera, aunque acabe de despertarse.",
         "Perla Reluciente": "Observar el balanceo de su péndulo puede inducir el sueño en tres segundos a cualquiera, aunque acabe de despertarse.",
-        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus.",
-        "Stadium": "Si lo miras a los ojos, tratará de hipnotizarte. Es mejor que cierres los ojos rápidamente antes de que te hipnotice.",
-        "Stadium 2": "Pokémon Oro insertado: Lleva siempre un péndulo que oscila a un ritmo constante. Éste causa sueño a su alrededor.\nPokémon Plata insertado: Cuando está muy hambriento, duerme a los humanos que encuentra para poder devorar sus sueños.\n",
-        "Pokémon GO": "Hypno lleva un péndulo en la mano. El balanceo y el brillo que tiene sumen al rival en un estado de hipnosis profundo. Mientras busca a su presa, saca brillo al péndulo.",
-        "Ranger": "Cuando Hypno abre sus brazos, se está preparando para poder lanzar ondas psíquicas."
+        "Leyendas: Arceus": "Este Pokémon no se puede conseguir en Leyendas Pokémon: Arceus."
     },
     "evolution": [
         [
