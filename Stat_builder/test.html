@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./script/module.js" type="module"></script>
+</head>
+<body>
+    <div class="background">
+        <select id="pkmnname"></select>
+        
+        <div class="ev">        
+            <input type="range" min="0" max="252" value="0" class="slider" id="hp_ev">
+            <label for="hp_ev" id="hp_ev_label">0</label>
+            <input type="range" min="0" max="252" value="0" class="slider" id="atk_ev">
+            <label for="atk_ev" id="atk_ev_label">0</label>
+            <input type="range" min="0" max="252" value="0" class="slider" id="def_ev">
+            <label for="def_ev" id="def_ev_label">0</label>
+            <input type="range" min="0" max="252" value="0" class="slider" id="atkesp_ev">
+            <label for="atkspe_ev" id="atkesp_ev_label">0</label>
+            <input type="range" min="0" max="252" value="0" class="slider" id="defesp_ev">
+            <label for="defesp_ev" id="defesp_ev_label">0</label>
+            <input type="range" min="0" max="252" value="0" class="slider" id="spd_ev">
+            <label for="spd_ev" id="spd_ev_label">0</label>
+        </div>
+        <img id="pkmnimg">
+    </div>
+</body>
+<style>
+.ev{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100px;
+}
+body{
+
+    background-image: url("./content/bg.jpg");
+    overflow: hidden;
+}
+.background{
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.619);
+    height: 90%;
+    aspect-ratio: 21/9;
+    margin: 10px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    overflow:hidden;
+    
+}
+
+
+</style>
+</html>
