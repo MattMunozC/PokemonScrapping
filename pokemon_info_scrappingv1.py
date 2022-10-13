@@ -5,6 +5,7 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 from bs4 import BeautifulSoup as bs
 from pprint import pprint
 import json
+
 r.packages.urllib3.disable_warnings(InsecureRequestWarning) 
 
 VALID_TITLES=['RojoAzul', 'Amarillo', 'Oro', 'Plata', 'Cristal', 'Rubí', 'Zafiro', 'Esmeralda', 'Rojo Fuego', 'Verde Hoja', 'Diamante', 'Perla', 'Platino', 'Oro HeartGold', 'Plata SoulSilver', 'Negro', 'Blanco', 'Negro 2', 'Blanco 2', 'Pokémon X', 'Pokémon Y', 'Rubí Omega', 'Zafiro Alfa', 'Sol', 'Luna', 'Ultrasol', 'Ultraluna', "Let's Go Pikachu!Let's Go Eevee!", 'Espada', 'Escudo', 'Diamante Brillante', 'Perla Reluciente', 'Leyendas: Arceus']
@@ -55,8 +56,15 @@ def scrapping(list):
 
         #MO_MT=[i.text for i in url_html.find_all("section",{"class":"tabber__section"})[1].find_all("tr")]
 
-        save_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo)
+        save_image(dexnum,pkmnname)
+        #save_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo)
         #print_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo)
+
+def save_image(dexnum,pkmnname):
+    content=r.get(f"https://assets.pokemon.com/assets/cms2/img/pokedex/full/{dexnum}.png").content
+    with open(f"{dexnum}{pkmnname}.jpg","wb") as img:
+        img.write(content)
+        img.close()
 
 def print_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo):
     pprint({"dex number":dexnum,
@@ -113,7 +121,7 @@ def Stats(url_html,pkmnname):
         raw_stats=raw_stats[1]
     except KeyError:
         raw_stats=raw_stats[1] if pkmnname in EXCEPTED_POKEMON  else raw_stats[0]
-    return [i.find("td").text[:-1] for i in raw_stats.find_all("tr")[1:7]]
+    return [int(i.find("td").text[:-1]) for i in raw_stats.find_all("tr")[1:7]]
 
 def Pokedex(url_html):
     pkdex_table=url_html.find_all("table",{"class":"pokedex"})[0].find_all("tr")    
@@ -132,8 +140,8 @@ def Location(url_html):
         row=[row_content for row_content in i.text.split("\n") if row_content!=""]
         if row[0] in VALID_TITLES: location_info[row[0]]=row[1::]
     return location_info
-
-
+def evolution_v2(evolution_lane):
+    pkmnname=evolution_lane[::2]
 def evolution(url_html,pkmname,previous=None):
 #   To save some resources, it will be check if the new pokemon is a evolution from the previous or not
     if previous==None or pkmname not in previous:
@@ -160,6 +168,6 @@ if __name__=="__main__":
     #gen 4 ok 
     #gen 5 ok
     #gen 6 ok 
-    #gen 7 problem
+    #gen 7 ok
     #gen 8 problem
-    scrapping(gen[1])
+    scrapping(gen[0])
