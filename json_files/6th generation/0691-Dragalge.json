@@ -1,0 +1,92 @@
+{
+    "dex number": "0691",
+    "pokemon name": "Dragalge",
+    "types": [
+        "veneno",
+        "dragón"
+    ],
+    "abilities": [
+        "Punto tóxico",
+        "Toque tóxico"
+    ],
+    "hidden abilities": [
+        "Adaptable"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 75,
+        "def": 90,
+        "atk esp": 97,
+        "def esp": 123,
+        "speed": 44
+    },
+    "location": {
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Y o Pokémon Rubí Omega"
+        ],
+        "Pokémon Y": [
+            "Pescando: Ruta 8, Ciudad Relieve y Pueblo Petroglifo (supercaña)",
+            "Evolucionar: a Skrelp (nivel 48)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Skrelp (nivel 48)"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon Y o Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Surfeando: Arrecife de Poni",
+            "Evolucionar: a Skrelp (nivel 48)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Mar Andana , Mar Gimnástico , Mar Islejos , Mar Meloso  e Isla Melosa ",
+            "Incursiones Dinamax: nidos en Mar Andana , Mar Gimnástico , Mar Islejos  y Mar Meloso ",
+            "Evolucionar: a Skrelp (nivel 48)"
+        ],
+        "Diamante Brillante": [
+            "Dragalge no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dragalge no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Dragalge no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Ataca de manera indiscriminada a quien ose adentrarse en su territorio, escupiéndole un virulento veneno que puede corroer hasta el casco de un petrolero.",
+        "Pokémon Y": "Según se dice, los barcos que se aventuran en aguas donde habitan Dragalge desaparecen del mapa y no regresan a puerto.",
+        "Rubí Omega": "Ataca de manera indiscriminada a quien ose adentrarse en su territorio, escupiéndole un virulento veneno que puede corroer hasta el casco de un petrolero.",
+        "Zafiro Alfa": "Según se dice, los barcos que se aventuran en aguas donde habitan Dragalge desaparecen del mapa y no regresan a puerto.",
+        "Sol": "No hay entrada de Dragalge en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Dragalge en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Este violento Pokémon escupe veneno a los rivales que se le acercan. Sin embargo, por algún extraño motivo, se lleva muy bien con Dhelmise.",
+        "Ultraluna": "Se esconde entre las algas y espera a sus presas, a las cuales rocía con un veneno tan cáustico que puede derretir hasta el metal.",
+        "Espada": "Utiliza su veneno capaz de corroer el metal para enviar a pique cualquier navío que ose adentrarse en las aguas que habita.",
+        "Escudo": "Asoma la cresta de la cabeza sobre la superficie del agua y transforma la luz que absorbe del sol en energía dragón.",
+        "Diamante Brillante": "Dragalge no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dragalge no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Dragalge no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Skrelp",
+            "Nivel 48",
+            "Dragalge"
+        ]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "dex number": "0711",
+    "pokemon name": "Gourgeist",
+    "types": [
+        "fantasma",
+        "planta"
+    ],
+    "abilities": [
+        "Recogida",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Insomnio"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 85,
+        "def": 122,
+        "atk esp": 58,
+        "def esp": 75,
+        "speed": 99
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Pumpkaboo (intercambio)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Pumpkaboo (intercambio)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Cornisa de Artejo",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Antigua Atalaya, nido junto a la pared, Arboleda Claroscuro, nido al norte 1, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte y Llanura Pétrea, nido al noreste junto a una pared 2. Nidos en Playa Desafío , Cueva Tenacidad  y Mar Andana ",
+            "Evolucionar: a Pumpkaboo (intercambio)"
+        ],
+        "Escudo": [
+            "Salvaje: Cornisa de Artejo",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Antigua Atalaya, nido junto a la pared, Arboleda Claroscuro, nido al norte 1, Espejo del Gigante, nido al sur y Llanura Pétrea, nido al noreste junto a una pared 2. Nidos en Playa Desafío , Cueva Tenacidad  y Mar Andana ",
+            "Evolucionar: a Pumpkaboo (intercambio)"
+        ],
+        "Diamante Brillante": [
+            "Gourgeist no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Gourgeist no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Gourgeist no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "En las noches de luna nueva deambula por las calles de las ciudades y emite espeluznantes alaridos que maldicen a quienes los oyen.",
+        "Pokémon Y": "Atrapa a su presa con los brazos, que parecen formar sendas matas de pelo, y entona una alegre canción mientras se regodea con su sufrimiento.",
+        "Rubí Omega": "En las noches de luna nueva deambula por las calles de las ciudades y emite espeluznantes alaridos que maldicen a quienes los oyen.",
+        "Zafiro Alfa": "Atrapa a su presa con los brazos, que parecen formar sendas matas de pelo, y entona una alegre canción mientras se regodea con su sufrimiento.",
+        "Sol": "No hay entrada de Gourgeist en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Gourgeist en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Gourgeist en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Gourgeist en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "\nTamaño pequeño: Los Gourgeist Tamaño Pequeño se hacen pasar por niños para que los adultos bajen la guardia y así llevárselos al otro mundo.\nTamaño normal: Se dice que los espeluznantes alaridos que emite bien entrada la noche son los lamentos de almas en pena desde el más allá.\nTamaño grande: Los Gourgeist Tamaño Grande se hacen pasar por adultos para tomar a los niños de la mano y llevárselos al otro mundo.\nTamaño extragrande: Los Gourgeist tamaño Extragrande se llevan a cualquiera al otro mundo, pues nadie puede resistir su fuerza.",
+        "Escudo": "\nTamaño pequeño: Es la forma evolucionada de un Pumpkaboo Tamaño Pequeño. En esta cadena evolutiva, la talla es un rasgo hereditario.\nTamaño normal: Las noches de luna nueva llama a la puerta de las casas y se lleva al otro mundo a quien abra.\nTamaño grande: Es la forma evolucionada de un Pumpkaboo Tamaño Grande. En esta cadena evolutiva, la talla es un rasgo hereditario.\nTamaño extragrande: Es la forma evolucionada de un Pumpkaboo Tamaño Extragrande. En esta cadena evolutiva, la talla es un rasgo hereditario.",
+        "Diamante Brillante": "Gourgeist no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Gourgeist no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Gourgeist no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Pumpkaboo",
+            "Intercambio",
+            "Gourgeist"
+        ]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "dex number": "0702",
+    "pokemon name": "Dedenne",
+    "types": [
+        "eléctrico",
+        "hada"
+    ],
+    "abilities": [
+        "Carrillo",
+        "Recogida"
+    ],
+    "hidden abilities": [
+        "Más"
+    ],
+    "stats": {
+        "hp": 67,
+        "atk": 58,
+        "def": 57,
+        "atk esp": 81,
+        "def esp": 67,
+        "speed": 101
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 11",
+            "Especial: Safari Amistad: en algunos safaris de tipo eléctrico y de tipo hada"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 11",
+            "Especial: Safari Amistad: en algunos safaris de tipo eléctrico y de tipo hada"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Monte Rubor"
+        ],
+        "Ultraluna": [
+            "Salvaje: Monte Rubor"
+        ],
+        "Espada": [
+            "Salvaje: Playa Desafío ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Prado Reverencia , Playa Desafío , Bosque Concentración , Mar Meloso , Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Playa Desafío ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Prado Reverencia , Playa Desafío , Bosque Concentración , Mar Meloso , Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Dedenne no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dedenne no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Dedenne no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Sus bigotes hacen función de antenas, por lo que puede enviar y recibir ondas eléctricas para comunicarse a grandes distancias.",
+        "Pokémon Y": "Con su cola absorbe la electricidad procedente de las centrales de energía o los enchufes de las casas, para liberarla en forma de ataque por los bigotes.",
+        "Rubí Omega": "Sus bigotes hacen función de antenas, por lo que puede enviar y recibir ondas eléctricas para comunicarse a grandes distancias.",
+        "Zafiro Alfa": "Con su cola absorbe la electricidad procedente de las centrales de energía o los enchufes de las casas, para liberarla en forma de ataque por los bigotes.",
+        "Sol": "No hay entrada de Dedenne en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Dedenne en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Se infiltra en los hogares para robar energía de los enchufes. Si la factura de la electricidad es inusualmente alta, seguro que él tiene la culpa.",
+        "Ultraluna": "Los bigotes superiores actúan como sensores del entorno, mientras que los inferiores son órganos que generan electricidad.",
+        "Espada": "Se sirve de sus bigotes para captar las ondas que emiten sus compañeros, con las que se indican dónde encontrar sustento o electricidad.",
+        "Escudo": "Su capacidad para producir electricidad es muy limitada, de modo que tiene que robarla de las tomas de corriente o de otros Pokémon.",
+        "Diamante Brillante": "Dedenne no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dedenne no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Dedenne no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Dedenne"
+        ]
+    ]
+}

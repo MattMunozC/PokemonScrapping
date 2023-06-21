@@ -1,0 +1,90 @@
+{
+    "dex number": "0653",
+    "pokemon name": "Fennekin",
+    "types": [
+        "fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Prestidigitador"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 45,
+        "def": 40,
+        "atk esp": 62,
+        "def esp": 60,
+        "speed": 60
+    },
+    "location": {
+        "Pokémon X": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir Benigno en Pueblo Acuarela (solo uno)",
+            "Intercambiar: por cualquier Pokémon a Xana en Pueblo Boceto después de pasarse el juego si se eligió a Froakie"
+        ],
+        "Pokémon Y": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir Benigno en Pueblo Acuarela (solo uno)",
+            "Intercambiar: por cualquier Pokémon a Xana en Pueblo Boceto después de pasarse el juego si se eligió a Froakie"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Delphox"
+        ],
+        "Ultraluna": [
+            "Criar: de Delphox"
+        ],
+        "Espada": [
+            "Fennekin no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Fennekin no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Fennekin no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Fennekin no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Fennekin no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Tras masticar e ingerir pequeñas ramas se siente pletórico y expulsa aire caliente por sus grandes orejas a temperaturas superiores a los 200 °C.",
+        "Pokémon Y": "Mordisquea una ramita mientras camina, como si de un aperitivo se tratase. Intimida a su enemigo expulsando aire caliente por las orejas.",
+        "Rubí Omega": "Tras masticar e ingerir pequeñas ramas se siente pletórico y expulsa aire caliente por sus grandes orejas a temperaturas superiores a los 200 °C.",
+        "Zafiro Alfa": "Mordisquea una ramita mientras camina, como si de un aperitivo se tratase. Intimida a su enemigo expulsando aire caliente por las orejas.",
+        "Sol": "No hay entrada de Fennekin en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Fennekin en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Fennekin en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Fennekin en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Fennekin no aparece en Pokémon Espada.",
+        "Escudo": "Fennekin no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Fennekin no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Fennekin no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Fennekin no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Fennekin",
+            "Nivel 16",
+            "Braixen",
+            "Nivel 36",
+            "Delphox"
+        ]
+    ]
+}

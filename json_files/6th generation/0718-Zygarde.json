@@ -1,0 +1,86 @@
+{
+    "dex number": "0718",
+    "pokemon name": "Zygarde",
+    "types": [
+        "dragón",
+        "tierra"
+    ],
+    "abilities": [
+        "Rompeaura",
+        "Agrupamiento"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 54,
+        "atk": 100,
+        "def": 71,
+        "atk esp": 61,
+        "def esp": 85,
+        "speed": 115
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Cueva Desenlace, después de superar la Liga Pokémon (solo uno)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva Desenlace, después de superar la Liga Pokémon (solo uno)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            "Especial: Sintetizar a partir de las células y núcleos del arca de Zygarde en el laboratorio Æther de la ruta 16."
+        ],
+        "Luna": [
+            "Especial: Sintetizar a partir de las células y núcleos del arca de Zygarde en el laboratorio Æther de la ruta 16."
+        ],
+        "Ultrasol": [
+            "Salvaje: Gruta Desenlace, después de superar la Liga Pokémon (solo uno, al 50%).",
+            "Regalo: de Dexio en la ruta 16 (al 10%).",
+            "Especial: Sintetizar a partir de las células y núcleos del arca de Zygarde en el laboratorio Æther de la Ruta 16."
+        ],
+        "Ultraluna": [
+            "Salvaje: Gruta Desenlace, después de superar la Liga Pokémon (solo uno, al 50%).",
+            "Regalo: de Dexio en la ruta 16 (al 10%).",
+            "Especial: Sintetizar a partir de las células y núcleos del arca de Zygarde en el laboratorio Æther de la Ruta 16."
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Zygarde no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Zygarde no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Zygarde no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Cuando el ecosistema de Kalos se encuentra en peligro, aparece y revela su poder secreto.",
+        "Pokémon Y": "Vive en las profundidades de las cavernas, desde donde vigila a todos aquellos que se dediquen a destruir el ecosistema.",
+        "Rubí Omega": "Cuando el ecosistema de Kalos se encuentra en peligro, aparece y revela su poder secreto.",
+        "Zafiro Alfa": "Vive en las profundidades de las cavernas, desde donde vigila a todos aquellos que se dediquen a destruir el ecosistema.",
+        "Sol": "\nForma al 10%: Abate a sus enemigos con sus afilados colmillos. Esta forma es inestable, por lo que termina deshaciéndose transcurrido un tiempo.\nForma al 50%: La forma que adopta Zygarde al reunir el 50% de sus células. Quienes se le oponen son aniquilados sin la menor valoración.\nForma completa: En esta forma, Zygarde se vale de un poder arrollador para someter a quienquiera que ponga en peligro el ecosistema.",
+        "Luna": "\nForma al 10%: Zygarde adopta esta forma al reunir cerca del 10% de sus células. Puede desplazarse a 100 km/h.\nForma al 50%: Se cree que este Pokémon vela por el equilibrio del ecosistema. Se rumorea que en su interior yace un poder que va más allá de la imaginación.\nForma completa: Zygarde adopta esta forma al reunir el 100% de sus células. Su poder sobrepasa incluso al de Xerneas e Yveltal.",
+        "Ultrasol": "\nForma al 10%: Zygarde asume esta forma al reunir el 10% de sus células. Se abalanza sobre su oponente y lo hace trizas con sus afilados colmillos.\nForma al 50%: Esta es la forma que adopta Zygarde al reunir el 50% de sus células. Su cometido consiste en vigilar el ecosistema.\nForma completa: Esta es la forma definitiva de Zygarde. Por la boca de su pecho emite una potente energía que arrasa con todo.",
+        "Ultraluna": "\nForma al 10%: Zygarde adopta esta forma al reunir el 10% de sus células. Destaca en el combate a corta distancia.\nForma al 50%: Según rumores, puede adoptar una forma aún más poderosa cuando se enfrenta a quienquiera que amenace el ecosistema.\nForma completa: Zygarde adopta esta forma al reunir el 100% de sus células. Con fuerza, abate a quienquiera que amenace el ecosistema.",
+        "Espada": "No hay entrada de Zygarde en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Zygarde en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Zygarde no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Zygarde no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Zygarde no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Zygarde"
+        ]
+    ]
+}

@@ -17,8 +17,9 @@ def list_pkmn():
     url_html=bs(url_html,"html.parser")
     return url_html.find_all("table",{"class": "tabpokemon"})
 def table_unwrapper(table):
-    return [{"num":i.find_all("td")[0].text[:-1],"name":i.find_all("td")[1].text[:-1],"url":i.find_all("td")[1].a['href']} for i in table.find_all("tr")[1::]] 
-
+    return [{"num":i.find_all("td")[0].text[:-1],"name":i.find_all("td")[1].text[:-1],"url":i.find_all("td")[1].a['href']} for i in table.find_all("tr")[1::] if i.find_all("td")[0].text[:-1].isnumeric()] 
+def alternative_forms(table):
+    return [{"num":i.find_all("td")[0].text[:-1],"name":i.find_all("td")[1].text[:-1],"url":i.find_all("td")[1].a['href']} for i in table.find_all("tr")[1::] if not i.find_all("td")[0].text[:-1].isnumeric()] 
 def scrapping(list):
     for i in list:
         #info dumb
@@ -56,13 +57,13 @@ def scrapping(list):
 
         #MO_MT=[i.text for i in url_html.find_all("section",{"class":"tabber__section"})[1].find_all("tr")]
 
-        save_image(dexnum,pkmnname)
+        #save_image(dexnum,pkmnname)
         save_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo)
         #print_json(pkmnname,dexnum,types,abilities,hidden,stats,location_info,pkdex_info,evo)
 
 def save_image(dexnum,pkmnname):
     content=r.get(f"https://assets.pokemon.com/assets/cms2/img/pokedex/full/{dexnum}.png").content
-    with open(f"{dexnum}{pkmnname}.jpg","wb") as img:
+    with open(f"{dexnum}{pkmnname}.png","wb") as img:
         img.write(content)
         img.close()
 
@@ -162,7 +163,7 @@ def evolution(url_html,pkmname,previous=None):
 
 if __name__=="__main__":
     gen=[table_unwrapper(i) for i in list_pkmn()]
-    print(gen)
+
     #gen 1 ok
     #gen 2 ok
     #gen 3 ok
@@ -171,4 +172,4 @@ if __name__=="__main__":
     #gen 6 ok 
     #gen 7 ok
     #gen 8 problem
-    #scrapping(gen[0])
+    scrapping(gen[5])

@@ -1,0 +1,90 @@
+{
+    "dex number": "0654",
+    "pokemon name": "Braixen",
+    "types": [
+        "fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Prestidigitador"
+    ],
+    "stats": {
+        "hp": 59,
+        "atk": 59,
+        "def": 58,
+        "atk esp": 90,
+        "def esp": 70,
+        "speed": 73
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Fennekin (nivel 16)",
+            "Especial: Safari Amistad, en algunos safaris de tipo fuego"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Fennekin (nivel 16)",
+            "Especial: Safari Amistad, en algunos safaris de tipo fuego"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Delphox y evolucionar a Fennekin (nivel 16)"
+        ],
+        "Ultraluna": [
+            "Criar: de Delphox y evolucionar a Fennekin (nivel 16)"
+        ],
+        "Espada": [
+            "Braixen no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Braixen no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Braixen no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Braixen no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Braixen no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Tiene una rama enredada en la cola. Cuando la saca, la rama prende fuego al hacer fricción con su pelaje y se lanza al ataque con ella.",
+        "Pokémon Y": "Al extraer la rama que tiene en la cola, esta prende debido a la fricción. Usa esa rama candente para enviar señales a sus compañeros.",
+        "Rubí Omega": "Tiene una rama enredada en la cola. Cuando la saca, la rama prende fuego al hacer fricción con su pelaje y se lanza al ataque con ella.",
+        "Zafiro Alfa": "Al extraer la rama que tiene en la cola, esta prende debido a la fricción. Usa esa rama candente para enviar señales a sus compañeros.",
+        "Sol": "No hay entrada de Braixen en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Braixen en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Braixen en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Braixen en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Braixen no aparece en Pokémon Espada.",
+        "Escudo": "Braixen no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Braixen no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Braixen no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Braixen no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Fennekin",
+            "Nivel 16",
+            "Braixen",
+            "Nivel 36",
+            "Delphox"
+        ]
+    ]
+}

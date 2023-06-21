@@ -1,0 +1,90 @@
+{
+    "dex number": "0651",
+    "pokemon name": "Quilladin",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Antibalas"
+    ],
+    "stats": {
+        "hp": 61,
+        "atk": 78,
+        "def": 95,
+        "atk esp": 56,
+        "def esp": 58,
+        "speed": 57
+    },
+    "location": {
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo planta.",
+            "Evolucionar: a Chespin (nivel 16)"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo planta.",
+            "Evolucionar: a Chespin (nivel 16)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Chesnaught y evolucionar a Chespin (nivel 16)"
+        ],
+        "Ultraluna": [
+            "Criar: de Chesnaught y evolucionar a Chespin (nivel 16)"
+        ],
+        "Espada": [
+            "Quilladin no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Quilladin no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Quilladin no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Quilladin no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Quilladin no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Desvía los ataques de los enemigos con la robusta coraza que cubre su cuerpo y contraataca con sus dos afilados cuernos.",
+        "Pokémon Y": "Chocan contra sus congéneres para fortalecer sus piernas. Debido a su carácter afable, nunca son los que provocan un combate.",
+        "Rubí Omega": "Desvía los ataques de los enemigos con la robusta coraza que cubre su cuerpo y contraataca con sus dos afilados cuernos.",
+        "Zafiro Alfa": "Chocan contra sus congéneres para fortalecer sus piernas. Debido a su carácter afable, nunca son los que provocan un combate.",
+        "Sol": "No hay entrada de Quilladin en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Quilladin en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Quilladin en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Quilladin en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Quilladin no aparece en Pokémon Espada.",
+        "Escudo": "Quilladin no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Quilladin no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Quilladin no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Quilladin no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Chespin",
+            "Nivel 16",
+            "Quilladin",
+            "Nivel 36",
+            "Chesnaught"
+        ]
+    ]
+}

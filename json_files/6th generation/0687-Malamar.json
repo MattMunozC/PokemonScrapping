@@ -1,0 +1,94 @@
+{
+    "dex number": "0687",
+    "pokemon name": "Malamar",
+    "types": [
+        "siniestro",
+        "psíquico"
+    ],
+    "abilities": [
+        "Respondón",
+        "Ventosas"
+    ],
+    "hidden abilities": [
+        "Allanamiento"
+    ],
+    "stats": {
+        "hp": 86,
+        "atk": 92,
+        "def": 88,
+        "atk esp": 68,
+        "def esp": 75,
+        "speed": 73
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Inkay (nivel 30 + consola al revés)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Inkay (nivel 30 + consola al revés)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Inkay (nivel 30 + consola al revés)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Inkay (nivel 30 + consola al revés)"
+        ],
+        "Espada": [
+            "Salvaje:' Humedal Frescor , Playa Desafío , Bahía Circular , Llano Entrenamiento  y Prado Reverencia ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Lago Axew (oeste), nido junto a Ciudad Pistón y Llanura Pétrea, nido al norte 2. Con posible habilidad oculta: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Espejo del Gigante, nido al noreste, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol y Ribera de Pistón, nido al este, nidos en Humedal Frescor , Ruta Desafío , Mar Gimnástico  y Mar Meloso ",
+            "Evolucionar: a Inkay (nivel 30 + consola al revés)"
+        ],
+        "Escudo": [
+            "Salvaje:' Humedal Frescor , Playa Desafío , Bahía Circular , Llano Entrenamiento  y Prado Reverencia ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Lago Axew (oeste), nido junto a Ciudad Pistón y Llanura Pétrea, nido al norte 2. Con posible habilidad oculta: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Espejo del Gigante, nido al noreste, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol y Ribera de Pistón, nido al este, nidos en Humedal Frescor , Ruta Desafío , Mar Gimnástico  y Mar Meloso ",
+            "Evolucionar: a Inkay (nivel 30 + consola al revés)"
+        ],
+        "Diamante Brillante": [
+            "Malamar no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Malamar no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Malamar no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Tiene a su disposición los poderes hipnóticos más poderosos de entre todos los Pokémon. Controla al enemigo a su voluntad.",
+        "Pokémon Y": "Hipnotiza a su objetivo para atraerlo y lo aprisiona con los tentáculos de su cabeza, para asestarle el golpe de gracia rociándolo con sus jugos gástricos.",
+        "Rubí Omega": "Tiene a su disposición los poderes hipnóticos más poderosos de entre todos los Pokémon. Controla al enemigo a su voluntad.",
+        "Zafiro Alfa": "Hipnotiza a su objetivo para atraerlo y lo aprisiona con los tentáculos de su cabeza, para asestarle el golpe de gracia rociándolo con sus jugos gástricos.",
+        "Sol": "No hay entrada de Malamar en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Malamar en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Posee grandes poderes hipnóticos de los que innumerables criminales se aprovechan para cometer delitos.",
+        "Ultraluna": "Hipnotiza a su presa con las luces que emite su torso y la atrae hacia sí. Las puntas de sus tentáculos son extremadamente afiladas.",
+        "Espada": "Los destellos que emite sumen rápidamente en un estado hipnótico al observador, que queda bajo su control.",
+        "Escudo": "Se dice que sus poderes hipnóticos han influido en grandes acontecimientos que han cambiado el curso de la historia.",
+        "Diamante Brillante": "Malamar no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Malamar no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Malamar no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Inkay",
+            "Nivel 30 +sostener la consola al revés ⤾",
+            "Malamar"
+        ]
+    ]
+}

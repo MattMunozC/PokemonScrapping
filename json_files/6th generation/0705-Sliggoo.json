@@ -1,0 +1,106 @@
+{
+    "dex number": "0705",
+    "pokemon name": "Sliggoo",
+    "types": [
+        "dragón"
+    ],
+    "abilities": [
+        "Herbívoro",
+        "Hidratación"
+    ],
+    "hidden abilities": [
+        "Baba"
+    ],
+    "stats": {
+        "hp": 68,
+        "atk": 75,
+        "def": 53,
+        "atk esp": 83,
+        "def esp": 113,
+        "speed": 60
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 19",
+            "Evolucionar: a Goomy (nivel 40)",
+            "Especial: Safari Amistad, en algunos safaris de tipo dragón"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 19",
+            "Evolucionar: a Goomy (nivel 40)",
+            "Especial: Safari Amistad, en algunos safaris de tipo dragón"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            " Salvaje: Isla Exeggutor (como refuerzo en clima lluvioso)",
+            "Evolucionar: a Goomy (nivel 40)"
+        ],
+        "Luna": [
+            " Salvaje: Isla Exeggutor (como refuerzo en clima lluvioso)",
+            "Evolucionar: a Goomy (nivel 40)"
+        ],
+        "Ultrasol": [
+            " Salvaje: Isla Exeggutor (como refuerzo en clima lluvioso)",
+            "Evolucionar: a Goomy (nivel 40)"
+        ],
+        "Ultraluna": [
+            " Salvaje: Isla Exeggutor (como refuerzo en clima lluvioso)",
+            "Evolucionar: a Goomy (nivel 40)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado, (cuando hay tormenta), Pokémon oculto 2% probabilidad aparición.",
+            "Incursiones Dinamax: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Bahía Circular , Mar Gimnástico  y Mar Meloso ",
+            "Evolucionar: a Goomy (nivel 40)"
+        ],
+        "Diamante Brillante": [
+            "Sliggoo no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sliggoo no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Sliggoo no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Segrega una mucosidad que corroe todo lo que toca y consigue así ahuyentar al enemigo. Sus ojos han involucionado, por lo que no puede ver.",
+        "Pokémon Y": "Sus cuatro antenas constituyen un radar de gran potencia. Hacen las veces de nariz y oídos para percibir tanto ruidos como olores.",
+        "Rubí Omega": "Segrega una mucosidad que corroe todo lo que toca y consigue así ahuyentar al enemigo. Sus ojos han involucionado, por lo que no puede ver.",
+        "Zafiro Alfa": "Sus cuatro antenas constituyen un radar de gran potencia. Hacen las veces de nariz y oídos para percibir tanto ruidos como olores.",
+        "Sol": "Le cuesta distinguir a sus presas de sus aliados, por eso no es raro que se coma a uno de los suyos de vez en cuando sin inmutarse.",
+        "Luna": "Al carecer de dientes, segrega una mucosidad que disuelve a sus presas para facilitar su posterior ingestión.",
+        "Ultrasol": "Este Pokémon se arrastra con lentitud. La protuberancia en espiral de su espalda contiene tanto el cerebro como los órganos internos.",
+        "Ultraluna": "Su cuerpo está recubierto por una mucosidad que puede disolver cualquier material, así que es mejor usar guantes especiales para tocarlo.",
+        "Espada": "Segrega una mucosidad que corroe todo lo que toca. Esto le ha permitido protegerse y evitar la extinción a pesar de su debilidad intrínseca.",
+        "Escudo": "La protuberancia del lomo contiene su pequeño cerebro, que solo piensa en buscar comida y huir de los enemigos.",
+        "Diamante Brillante": "Sliggoo no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sliggoo no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sliggoo no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Goomy",
+            "Nivel 40(fuera de Hisui)",
+            "Sliggoo",
+            "",
+            "Nivel 50 +lluvia o niebla",
+            "Goodra"
+        ],
+        [
+            "",
+            "Nivel 40(en Hisui)",
+            "Sliggoo de Hisui",
+            "",
+            "Nivel 50 +lluvia o niebla",
+            "Goodra de Hisui"
+        ]
+    ]
+}

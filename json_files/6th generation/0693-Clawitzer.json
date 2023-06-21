@@ -1,0 +1,86 @@
+{
+    "dex number": "0693",
+    "pokemon name": "Clawitzer",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Megadisparador"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 71,
+        "atk": 73,
+        "def": 88,
+        "atk esp": 120,
+        "def esp": 89,
+        "speed": 59
+    },
+    "location": {
+        "Pokémon X": [
+            "Pescando: Ruta 8, Ciudad Relieve y Pueblo Petroglifo (supercaña)",
+            "Evolucionar: de Clauncher (nivel 37)"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon X o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Clauncher (nivel 37)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Surfeando: Arrecife de Poni"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Salvaje: Mar Andana , Mar Gimnástico , Mar Islejos , Mar Meloso  e Isla Melosa ",
+            "Incursiones Dinamax: nidos en Mar Andana , Mar Gimnástico , Mar Islejos  y Mar Meloso "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Clawitzer no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Clawitzer no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Clawitzer no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Posee una enorme pinza que dispara bolas de agua que podrían atravesar incluso el casco de un petrolero.",
+        "Pokémon Y": "El chorro de agua que dispara la tobera situada en la parte trasera de su pinza le permite avanzar a una velocidad de 60 nudos.",
+        "Rubí Omega": "Posee una enorme pinza que dispara bolas de agua que podrían atravesar incluso el casco de un petrolero.",
+        "Zafiro Alfa": "El chorro de agua que dispara la tobera situada en la parte trasera de su pinza le permite avanzar a una velocidad de 60 nudos.",
+        "Sol": "No hay entrada de Clawitzer en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Clawitzer en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Comprime el agua que traga y la convierte en proyectiles de tal potencia que atraviesan incluso gruesas placas de metal.",
+        "Ultraluna": "La pinza de su extremidad derecha es muy robusta. Cuando se les caen, se recogen para exportarlas como ingrediente culinario.",
+        "Espada": "Las antenas de su enorme pinza le permiten detectar la posición de sus presas para luego acribillarlas a cañonazos con bolas de agua.",
+        "Escudo": "Con el cañón de su brazo derecho dispara proyectiles de agua marina con tanta potencia que son capaces de hundir un petrolero.",
+        "Diamante Brillante": "Clawitzer no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Clawitzer no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Clawitzer no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Clauncher",
+            "Nivel 37",
+            "Clawitzer"
+        ]
+    ]
+}

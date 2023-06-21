@@ -1,0 +1,91 @@
+{
+    "dex number": "0677",
+    "pokemon name": "Espurr",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Allanamiento"
+    ],
+    "hidden abilities": [
+        "Ritmo propio"
+    ],
+    "stats": {
+        "hp": 62,
+        "atk": 48,
+        "def": 54,
+        "atk esp": 63,
+        "def esp": 60,
+        "speed": 68
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 6",
+            "Especial: Safari Amistad, en algunos safaris de tipo psíquico"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 6",
+            "Especial: Safari Amistad, en algunos safaris de tipo psíquico"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 5, Cornisa de Artejo y Ribera de Pistón",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol",
+            "Curri: Ruta 5"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 5, Cornisa de Artejo y Ribera de Pistón",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol",
+            "Curri: Ruta 5"
+        ],
+        "Diamante Brillante": [
+            "Espurr no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Espurr no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Espurr no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Protege con las orejas el órgano con el que irradia su intenso poder psíquico para evitar que este escape al exterior.",
+        "Pokémon Y": "Posee poderes psíquicos suficientes para lanzar por los aires objetos situados en un radio de 100 metros, pero carece de pericia para controlarlos.",
+        "Rubí Omega": "Protege con las orejas el órgano con el que irradia su intenso poder psíquico para evitar que este escape al exterior.",
+        "Zafiro Alfa": "Posee poderes psíquicos suficientes para lanzar por los aires objetos situados en un radio de 100 metros, pero carece de pericia para controlarlos.",
+        "Sol": "No hay entrada de Espurr en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Espurr en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Espurr en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Espurr en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Su inexpresividad aparente esconde una lucha titánica por contener su inmenso poder psíquico.",
+        "Escudo": "Es capaz de mandar por los aires a un luchador profesional gracias a sus poderes psíquicos, pero tiene serios problemas para controlarlos.",
+        "Diamante Brillante": "Espurr no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Espurr no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Espurr no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Espurr",
+            "Nivel 25",
+            "Meowstic"
+        ]
+    ]
+}

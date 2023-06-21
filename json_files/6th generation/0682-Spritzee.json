@@ -1,0 +1,87 @@
+{
+    "dex number": "0682",
+    "pokemon name": "Spritzee",
+    "types": [
+        "hada"
+    ],
+    "abilities": [
+        "Alma cura"
+    ],
+    "hidden abilities": [
+        "Velo aroma"
+    ],
+    "stats": {
+        "hp": 78,
+        "atk": 52,
+        "def": 60,
+        "atk esp": 63,
+        "def esp": 65,
+        "speed": 23
+    },
+    "location": {
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo hada"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 7",
+            "Especial: Safari Amistad, en algunos safaris de tipo hada"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje:Ruta 5, Bosque Lumirinto, Espejo del Gigante (niebla) y Llanura Pétrea (nublado)",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón",
+            "Curri: Ruta 5 y Bosque Lumirinto"
+        ],
+        "Diamante Brillante": [
+            "Spritzee no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Spritzee no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Spritzee no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Su cuerpo emana una fragancia que embelesa a quien la huele. La fragancia es diferente según los alimentos que ingiere.",
+        "Pokémon Y": "Antaño, las damas de la nobleza llevaban un Spritzee consigo que desprendía su aroma preferido, en vez de utilizar un perfume convencional.",
+        "Rubí Omega": "Su cuerpo emana una fragancia que embelesa a quien la huele. La fragancia es diferente según los alimentos que ingiere.",
+        "Zafiro Alfa": "Antaño, las damas de la nobleza llevaban un Spritzee consigo que desprendía su aroma preferido, en vez de utilizar un perfume convencional.",
+        "Sol": "No hay entrada de Spritzee en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Spritzee en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Spritzee en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Spritzee en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Posee un órgano interno con el cual produce una fragancia que varía en función de los alimentos que ingiere.",
+        "Escudo": "Su cuerpo emana una fragancia que embelesa a quien la huele. Llegó a ser muy apreciado entre las damas de la nobleza.",
+        "Diamante Brillante": "Spritzee no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Spritzee no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Spritzee no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Spritzee",
+            "Intercambio equipado con saquito fragante ",
+            "Aromatisse"
+        ]
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "dex number": "0707",
+    "pokemon name": "Klefki",
+    "types": [
+        "acero",
+        "hada"
+    ],
+    "abilities": [
+        "Bromista"
+    ],
+    "hidden abilities": [
+        "Prestidigitador"
+    ],
+    "stats": {
+        "hp": 57,
+        "atk": 80,
+        "def": 91,
+        "atk esp": 80,
+        "def esp": 87,
+        "speed": 75
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 15, Ruta 16 y Hotel Desolación",
+            "Especial: Safari Amistad, en algunos safaris de tipo acero"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 15, Ruta 16 y Hotel Desolación",
+            "Especial: Safari Amistad, en algunos safaris de tipo acero"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 113, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 113, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Salvaje: Supermercado Ultraganga (Local Abandonado)",
+            "Poké Resort: Cayo Recreo, tras llegar a Poni"
+        ],
+        "Luna": [
+            "Salvaje: Supermercado Ultraganga (Local Abandonado)",
+            "Poké Resort: Cayo Recreo, tras llegar a Poni"
+        ],
+        "Ultrasol": [
+            "Salvaje: Supermercado Ultraganga (Local Abandonado)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Supermercado Ultraganga (Local Abandonado)"
+        ],
+        "Espada": [
+            "Salvaje: Prado Reverencia ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Bosque Concentración , Humedal Frescor , Cueva Contienda , Cueva Tenacidad , Mar Andana  y Mar Islejos "
+        ],
+        "Escudo": [
+            "Salvaje: Prado Reverencia ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Bosque Concentración , Humedal Frescor , Cueva Contienda , Cueva Tenacidad , Mar Andana  y Mar Islejos "
+        ],
+        "Diamante Brillante": [
+            "Klefki no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Klefki no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Klefki no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Tiene el hábito de coleccionar llaves. Cuando un enemigo lo ataca, las hace tintinear como método de intimidación.",
+        "Pokémon Y": "Como no se separa de las llaves que le gustan bajo ningún concepto, la gente les encomienda las llaves de cajas fuertes para prevenir posibles robos.",
+        "Rubí Omega": "Tiene el hábito de coleccionar llaves. Cuando un enemigo lo ataca, las hace tintinear como método de intimidación.",
+        "Zafiro Alfa": "Como no se separa de las llaves que le gustan bajo ningún concepto, la gente les encomienda las llaves de cajas fuertes para prevenir posibles robos.",
+        "Sol": "Tiene el hábito de coleccionar llaves. Su carácter tranquilo no impide que le guste colarse en casas ajenas a robar llaves.",
+        "Luna": "Introduce el apéndice de su cabeza por los resquicios de los metales para absorber los iones. Por alguna razón, adora las llaves.",
+        "Ultrasol": "Su afán por coleccionar llaves es un misterio y se alegra mucho si le regalan una, pero si esta no es una llave maestra, se le tuerce la cara.",
+        "Ultraluna": "Hace tiempo solía vivir en minas, pero tras la disminución de los minerales que le servían de alimento, se trasladó a poblaciones humanas.",
+        "Espada": "Un Pokémon coleccionista de llaves. Si alguien le confía una muy importante, la protegerá como si le fuese la vida en ello.",
+        "Escudo": "Según parece, absorbe iones metálicos por el apéndice de la cabeza para adoptar una forma similar a la de sus amadas llaves.",
+        "Diamante Brillante": "Klefki no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Klefki no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Klefki no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Klefki"
+        ]
+    ]
+}

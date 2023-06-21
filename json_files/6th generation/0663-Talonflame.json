@@ -1,0 +1,95 @@
+{
+    "dex number": "0663",
+    "pokemon name": "Talonflame",
+    "types": [
+        "fuego",
+        "volador"
+    ],
+    "abilities": [
+        "Cuerpo llama"
+    ],
+    "hidden abilities": [
+        "Alas vendaval"
+    ],
+    "stats": {
+        "hp": 78,
+        "atk": 81,
+        "def": 71,
+        "atk esp": 74,
+        "def esp": 69,
+        "speed": 126
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Fletchinder (nivel 35)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Fletchinder (nivel 35)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Evolucionar: a Fletchinder (nivel 35)",
+            "Intercambiar: por un Bewear a un chico malo en la Pendiente de Poni"
+        ],
+        "Luna": [
+            "Evolucionar: a Fletchinder (nivel 35)",
+            "Intercambiar: por un Bewear a un chico malo en la Pendiente de Poni"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Fletchinder (nivel 35)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Fletchinder (nivel 35)"
+        ],
+        "Espada": [
+            "Salvaje: Bahía Circular , Humedal Frescor  y Llano Entrenamiento ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Bahía Circular , Prado Reverencia , Playa Desafío , Ruta Desafío , Cuenca Arenosa , Mar Andana  y Mar Gimnástico ",
+            "Evolucionar: a Fletchinder (nivel 35)"
+        ],
+        "Escudo": [
+            "Salvaje: Bahía Circular , Humedal Frescor  y Llano Entrenamiento ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Bahía Circular , Prado Reverencia , Playa Desafío , Ruta Desafío , Cuenca Arenosa , Mar Andana  y Mar Gimnástico ",
+            "Evolucionar: a Fletchinder (nivel 35)"
+        ],
+        "Diamante Brillante": [
+            "Talonflame no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Talonflame no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Talonflame no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Si se exalta durante un combate reñido, arroja chispas y ascuas de los intersticios entre su plumaje mientras vuela.",
+        "Pokémon Y": "Llega a alcanzar los 500 km/h al perseguir a su presa, a quien le asesta el golpe de gracia con una patada muy potente.",
+        "Rubí Omega": "Si se exalta durante un combate reñido, arroja chispas y ascuas de los intersticios entre su plumaje mientras vuela.",
+        "Zafiro Alfa": "Llega a alcanzar los 500 km/h al perseguir a su presa, a quien le asesta el golpe de gracia con una patada muy potente.",
+        "Sol": "Wingull y Pikipek son sus presas favoritas. Les asesta un potente golpe y después las atrapa sin remisión con sus garras afiladas.",
+        "Luna": "Se abalanza en línea recta sobre su presa a una velocidad de 500 km/h mientras arroja chispas y ascuas de los intersticios entre su plumaje.",
+        "Ultrasol": "Sus alas son resistentes al fuego, por lo que se solían usar sus plumas para confeccionar trajes de bombero.",
+        "Ultraluna": "Su presa favorita son los Pokémon pájaro, a los cuales se acerca a velocidades vertiginosas y derriba con la temible potencia de sus patas.",
+        "Espada": "Su presa predilecta son los Pokémon pájaro. Intimida a sus rivales lanzando ascuas desde los intersticios de su plumaje.",
+        "Escudo": "Arremete contra sus presas a una velocidad de 500 km/h y les asesta el golpe de gracia con una patada muy potente, sin dejarles escapatoria.",
+        "Diamante Brillante": "Talonflame no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Talonflame no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Talonflame no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Fletchling",
+            "Nivel 17",
+            "Fletchinder",
+            "Nivel 35",
+            "Talonflame"
+        ]
+    ]
+}

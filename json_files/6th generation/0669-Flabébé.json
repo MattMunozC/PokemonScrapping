@@ -1,0 +1,88 @@
+{
+    "dex number": "0669",
+    "pokemon name": "Flabébé",
+    "types": [
+        "hada"
+    ],
+    "abilities": [
+        "Velo flor"
+    ],
+    "hidden abilities": [
+        "Simbiosis"
+    ],
+    "stats": {
+        "hp": 44,
+        "atk": 38,
+        "def": 39,
+        "atk esp": 61,
+        "def esp": 79,
+        "speed": 42
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 4 y Ruta 7"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 4 y Ruta 7"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: De Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: De Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: De Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: De Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Jardines de Melemele"
+        ],
+        "Ultraluna": [
+            "Salvaje: Jardines de Melemele"
+        ],
+        "Espada": [
+            "Flabébé no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Flabébé no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Flabébé no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Flabébé no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Flabébé no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Puede controlar el poder oculto de las flores. La flor que lleva consigo es como si formara parte de su cuerpo.",
+        "Pokémon Y": "En cuanto encuentra una flor de su agrado, la convierte en su hogar para toda la vida. Flota en el aire a su antojo cabalgando el viento.",
+        "Rubí Omega": "Puede controlar el poder oculto de las flores. La flor que lleva consigo es como si formara parte de su cuerpo.",
+        "Zafiro Alfa": "En cuanto encuentra una flor de su agrado, la convierte en su hogar para toda la vida. Flota en el aire a su antojo cabalgando el viento.",
+        "Sol": "No hay entrada de Flabébé en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Flabébé en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Sin el poder que le confiere la flor es una presa fácil, así que busca una del tamaño y color idóneos y no cesa hasta dar con ella.",
+        "Ultraluna": "Acumula el polen de las flores para confeccionar la tiara que lleva en la cabeza, que cuenta con propiedades curativas.",
+        "Espada": "Flabébé no aparece en Pokémon Espada.",
+        "Escudo": "Flabébé no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Flabébé no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Flabébé no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Flabébé no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Flabébé",
+            "Nivel 19",
+            "Floette",
+            "Piedra día ",
+            "Florges"
+        ]
+    ]
+}

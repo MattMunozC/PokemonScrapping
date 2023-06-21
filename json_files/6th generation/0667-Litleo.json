@@ -1,0 +1,88 @@
+{
+    "dex number": "0667",
+    "pokemon name": "Litleo",
+    "types": [
+        "fuego",
+        "normal"
+    ],
+    "abilities": [
+        "Rivalidad",
+        "Nerviosismo"
+    ],
+    "hidden abilities": [
+        "Autoestima"
+    ],
+    "stats": {
+        "hp": 62,
+        "atk": 50,
+        "def": 58,
+        "atk esp": 73,
+        "def esp": 54,
+        "speed": 72
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 22"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 22"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir de videoguegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir de videoguegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Poké Resort: Cayo Recreo, tras superar la Liga Pokémon"
+        ],
+        "Ultraluna": [
+            "Poké Resort: Cayo Recreo, tras superar la Liga Pokémon"
+        ],
+        "Espada": [
+            "Litleo no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Litleo no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Litleo no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Litleo no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Litleo no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Cuanto más poderoso es el enemigo al que se enfrenta, más calor desprende su mechón y más energía recorre todo su cuerpo.",
+        "Pokémon Y": "Se separa de su manada para hacerse más fuerte y aprender a valerse por sí mismo. Su excesiva fogosidad le hace saltar a la mínima.",
+        "Rubí Omega": "Cuanto más poderoso es el enemigo al que se enfrenta, más calor desprende su mechón y más energía recorre todo su cuerpo.",
+        "Zafiro Alfa": "Se separa de su manada para hacerse más fuerte y aprender a valerse por sí mismo. Su excesiva fogosidad le hace saltar a la mínima.",
+        "Sol": "No hay entrada de Litleo en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Litleo en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Mientras es solo una cría vive con el resto de la manada, pero en cuanto aprende a cazar se separa del grupo y se independiza.",
+        "Ultraluna": "Este enérgico Pokémon es de naturaleza curiosa e inquieta y, tanto al comienzo de un combate como cuando se enoja, su crin prende fuego.",
+        "Espada": "Litleo no aparece en Pokémon Espada.",
+        "Escudo": "Litleo no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Litleo no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Litleo no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Litleo no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Litleo",
+            "Nivel 35",
+            "Pyroar"
+        ]
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "dex number": "0666",
+    "pokemon name": "Vivillon",
+    "types": [
+        "bicho",
+        "volador"
+    ],
+    "abilities": [
+        "Polvo escudo",
+        "Ojo compuesto"
+    ],
+    "hidden abilities": [
+        "Compiescolta"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 52,
+        "def": 50,
+        "atk esp": 90,
+        "def esp": 50,
+        "speed": 89
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Spewpa (nivel 12)",
+            "Especial: Safari Amistad, en algunos safaris de tipo bicho",
+            "Evento: Repartidos por evento los motivos Poké Ball y Fantasía (ver más abajo)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Spewpa (nivel 12)",
+            "Especial: Safari Amistad, en algunos safaris de tipo bicho",
+            "Evento: Repartidos por evento los motivos Poké Ball y Fantasía (ver más abajo)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Spewpa (nivel 12)",
+            "Intercambiar: desde Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Spewpa (nivel 12)",
+            "Intercambiar: desde Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Spewpa (nivel 12)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Spewpa (nivel 12)"
+        ],
+        "Espada": [
+            "Vivillon no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Vivillon no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Vivillon no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Vivillon no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Vivillon no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "En el mundo existen Vivillon con diferentes motivos en sus alas. El clima de cada región influye en sus rasgos.",
+        "Pokémon Y": "Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.",
+        "Rubí Omega": "En el mundo existen Vivillon con diferentes motivos en sus alas. El clima de cada región influye en sus rasgos.",
+        "Zafiro Alfa": "Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.",
+        "Sol": "No hay entrada de Vivillon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Vivillon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Vivillon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Vivillon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Vivillon no aparece en Pokémon Espada.",
+        "Escudo": "Vivillon no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Vivillon no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Vivillon no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Vivillon no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Scatterbug",
+            "Nivel 9",
+            "Spewpa",
+            "Nivel 12",
+            "Vivillon"
+        ]
+    ]
+}

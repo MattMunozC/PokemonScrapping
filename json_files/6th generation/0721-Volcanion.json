@@ -1,0 +1,83 @@
+{
+    "dex number": "0721",
+    "pokemon name": "Volcanion",
+    "types": [
+        "fuego",
+        "agua"
+    ],
+    "abilities": [
+        "Absorbe agua"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 80,
+        "atk": 110,
+        "def": 120,
+        "atk esp": 130,
+        "def esp": 90,
+        "speed": 70
+    },
+    "location": {
+        "Pokémon X": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Pokémon Y": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Rubí Omega": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Zafiro Alfa": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Diamante Brillante": [
+            "Volcanion no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Volcanion no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Volcanion no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Expulsa vapor y desaparece entre la densa niebla. Dicen que habita en montañas solitarias.",
+        "Pokémon Y": "Expulsa vapor de agua por los brazos que tiene en la espalda. Sale a tal potencia que sería capaz de arrasar una montaña entera.",
+        "Rubí Omega": "Expulsa vapor y desaparece entre la densa niebla. Dicen que habita en montañas solitarias.",
+        "Zafiro Alfa": "Expulsa vapor de agua por los brazos que tiene en la espalda. Sale a tal potencia que sería capaz de arrasar una montaña entera.",
+        "Sol": "No hay entrada de Volcanion en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Volcanion en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Volcanion en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Volcanion en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de Volcanion en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Volcanion en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Volcanion no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Volcanion no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Volcanion no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Volcanion"
+        ]
+    ]
+}

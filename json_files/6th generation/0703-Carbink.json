@@ -1,0 +1,87 @@
+{
+    "dex number": "0703",
+    "pokemon name": "Carbink",
+    "types": [
+        "roca",
+        "hada"
+    ],
+    "abilities": [
+        "Cuerpo puro"
+    ],
+    "hidden abilities": [
+        "Robustez"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 50,
+        "def": 150,
+        "atk esp": 50,
+        "def esp": 150,
+        "speed": 50
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Cueva de los Reflejos"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva de los Reflejos"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Salvaje: Colina Dequilate y Cañón de Poni",
+            "Poké Resort: Cayo Recreo, tras llegar a Akala"
+        ],
+        "Luna": [
+            "Salvaje: Colina Dequilate y Cañón de Poni",
+            "Poké Resort: Cayo Recreo, tras llegar a Akala"
+        ],
+        "Ultrasol": [
+            "Salvaje: Colina Dequilate y Cañón de Poni"
+        ],
+        "Ultraluna": [
+            "Salvaje: Colina Dequilate y Cañón de Poni"
+        ],
+        "Espada": [
+            "Salvaje: Túnel Ascensión , Grutas Sonamar , Gruta del Lago ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Túnel Ascensión , Grutas Sonamar , Gruta del Lago ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Carbink no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Carbink no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Carbink no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Nace en las profundidades subterráneas, a altas temperaturas y a gran presión. Irradia energía por la roca que tiene en la cabeza.",
+        "Pokémon Y": "Lleva varios cientos de millones de años durmiendo en las profundidades subterráneas, desde su nacimiento. Aparece a veces al excavar en cuevas.",
+        "Rubí Omega": "Nace en las profundidades subterráneas, a altas temperaturas y a gran presión. Irradia energía por la roca que tiene en la cabeza.",
+        "Zafiro Alfa": "Lleva varios cientos de millones de años durmiendo en las profundidades subterráneas, desde su nacimiento. Aparece a veces al excavar en cuevas.",
+        "Sol": "Nace en las profundidades subterráneas, a altas temperaturas y a gran presión. Lanza rayos por sus gemas a modo de defensa.",
+        "Luna": "Aunque no es un Pokémon especialmente raro de ver, el brillo de las joyas que lleva incrustadas lo hace muy popular.",
+        "Ultrasol": "Se dice que en las profundidades subterráneas viven grupos enteros de Carbink con su reina rodeados de toda suerte de joyas.",
+        "Ultraluna": "Para que las piedras preciosas que adornan sus cuerpos no pierdan lustre, los Carbink se las pulen unos a otros con sus mullidos bigotes.",
+        "Espada": "Fulmina a sus enemigos con potentes rayos de energía que dispara por las gemas que tiene incrustadas en el cuerpo.",
+        "Escudo": "Se cree que en algún lugar de este mundo existe un filón rebosante de Carbink que viven bajo las órdenes de una reina.",
+        "Diamante Brillante": "Carbink no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Carbink no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Carbink no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Carbink"
+        ]
+    ]
+}

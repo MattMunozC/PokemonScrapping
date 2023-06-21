@@ -1,0 +1,90 @@
+{
+    "dex number": "0658",
+    "pokemon name": "Greninja",
+    "types": [
+        "agua",
+        "siniestro"
+    ],
+    "abilities": [
+        "Torrente",
+        "Fuerte afecto"
+    ],
+    "hidden abilities": [
+        "Mutatipo"
+    ],
+    "stats": {
+        "hp": 72,
+        "atk": 95,
+        "def": 67,
+        "atk esp": 103,
+        "def esp": 71,
+        "speed": 122
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Frogadier (nivel 36)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Frogadier (nivel 36)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Especial: Transferir de la Demo especial de Pokémon Sol y Pokémon Luna",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Especial: Transferir de la Demo especial de Pokémon Sol y Pokémon Luna",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Escáner insular: Prado de Poni (viernes)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Prado de Poni (viernes)"
+        ],
+        "Espada": [
+            "Greninja no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Greninja no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Greninja no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Greninja no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Greninja no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Comprime agua y crea estrellas ninja con las que ataca al enemigo. Cuando las hace girar a gran velocidad cortan en dos hasta el metal.",
+        "Pokémon Y": "Aparece y desaparece de improvisto, cual ninja. Marea al oponente con su soberbia agilidad y lo hace trizas con sus Shuriken de agua.",
+        "Rubí Omega": "Comprime agua y crea estrellas ninja con las que ataca al enemigo. Cuando las hace girar a gran velocidad cortan en dos hasta el metal.",
+        "Zafiro Alfa": "Aparece y desaparece de improvisto, cual ninja. Marea al oponente con su soberbia agilidad y lo hace trizas con sus Shuriken de agua.",
+        "Sol": "No hay entrada de Greninja en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Greninja en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Greninja en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Greninja en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Greninja no aparece en Pokémon Espada.",
+        "Escudo": "Greninja no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Greninja no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Greninja no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Greninja no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Froakie",
+            "Nivel 16",
+            "Frogadier",
+            "Nivel 36",
+            "Greninja"
+        ]
+    ]
+}

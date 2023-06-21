@@ -1,0 +1,89 @@
+{
+    "dex number": "0698",
+    "pokemon name": "Amaura",
+    "types": [
+        "roca",
+        "hielo"
+    ],
+    "abilities": [
+        "Piel helada"
+    ],
+    "hidden abilities": [
+        "Nevada"
+    ],
+    "stats": {
+        "hp": 77,
+        "atk": 59,
+        "def": 50,
+        "atk esp": 67,
+        "def esp": 63,
+        "speed": 46
+    },
+    "location": {
+        "Pokémon X": [
+            "Especial: revivir el fósil aleta en el Instituto Paleontológico"
+        ],
+        "Pokémon Y": [
+            "Especial: revivir el fósil aleta en el Instituto Paleontológico"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Especial: revivir el fósil aleta en la Ruta 8"
+        ],
+        "Ultraluna": [
+            "Especial: revivir el fósil aleta en la Ruta 8"
+        ],
+        "Espada": [
+            "Salvaje: Campo Deslizante , Campo Bajocero  y Desfiladero Nevado ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Desfiladero Nevado  y Mar Gélido "
+        ],
+        "Escudo": [
+            "Salvaje: Campo Deslizante , Campo Bajocero  y Desfiladero Nevado ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Desfiladero Nevado  y Mar Gélido "
+        ],
+        "Diamante Brillante": [
+            "Amaura no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Amaura no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Amaura no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Pokémon que ha sido regenerado a partir de un trozo de su antiguo cuerpo, que quedó congelado hace unos 100 millones de años.",
+        "Pokémon Y": "Un Pokémon de carácter sosegado. Habitaba en lugares fríos donde no existían depredadores tan feroces como Tyrantrum.",
+        "Rubí Omega": "Pokémon que ha sido regenerado a partir de un trozo de su antiguo cuerpo, que quedó congelado hace unos 100 millones de años.",
+        "Zafiro Alfa": "Un Pokémon de carácter sosegado. Habitaba en lugares fríos donde no existían depredadores tan feroces como Tyrantrum.",
+        "Sol": "No hay entrada de Amaura en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Amaura en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Vivía en zonas gélidas en épocas pasadas y, según dicen, el sonido que emite provoca la aparición de auroras boreales nocturnas.",
+        "Ultraluna": "Aunque se ha regenerado con éxito, las cálidas temperaturas actuales no le son propicias y afectan a su esperanza de vida.",
+        "Espada": "Este Pokémon ha sido regenerado a partir de un fósil. Habitaba en manadas en lugares fríos donde los depredadores escaseaban.",
+        "Escudo": "Un Pokémon prehistórico extinto. Se han hallado algunos ejemplares conservados bajo el hielo.",
+        "Diamante Brillante": "Amaura no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Amaura no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Amaura no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Amaura",
+            "Nivel 39 (noche) ",
+            "Aurorus"
+        ]
+    ]
+}

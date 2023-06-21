@@ -1,0 +1,86 @@
+{
+    "dex number": "0671",
+    "pokemon name": "Florges",
+    "types": [
+        "hada"
+    ],
+    "abilities": [
+        "Velo flor"
+    ],
+    "hidden abilities": [
+        "Simbiosis"
+    ],
+    "stats": {
+        "hp": 78,
+        "atk": 65,
+        "def": 68,
+        "atk esp": 112,
+        "def esp": 154,
+        "speed": 75
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Floette (piedra día)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Floette (piedra día)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Floette (piedra día)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Floette (piedra día)"
+        ],
+        "Espada": [
+            "Florges no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Florges no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Florges no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Florges no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Florges no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Habita en preciosos jardines floridos. Absorbe la energía que emiten las plantas y la convierte en su fuente de poder.",
+        "Pokémon Y": "Los propietarios de los castillos de antaño solían invitar a Florges para que creasen jardines floridos, a fin de decorar sus terrenos.",
+        "Rubí Omega": "Habita en preciosos jardines floridos. Absorbe la energía que emiten las plantas y la convierte en su fuente de poder.",
+        "Zafiro Alfa": "Los propietarios de los castillos de antaño solían invitar a Florges para que creasen jardines floridos, a fin de decorar sus terrenos.",
+        "Sol": "No hay entrada de Florges en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Florges en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Es capaz de controlar las flores que cultiva. La ráfaga de pétalos que emplea es hermosa a la vez que devastadora.",
+        "Ultraluna": "Su esperanza de vida asciende a varios siglos y dedica toda su dilatada existencia al cuidado de los jardines.",
+        "Espada": "Florges no aparece en Pokémon Espada.",
+        "Escudo": "Florges no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Florges no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Florges no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Florges no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Flabébé",
+            "Nivel 19",
+            "Floette",
+            "Piedra día ",
+            "Florges"
+        ]
+    ]
+}

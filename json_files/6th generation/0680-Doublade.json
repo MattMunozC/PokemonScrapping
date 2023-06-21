@@ -1,0 +1,91 @@
+{
+    "dex number": "0680",
+    "pokemon name": "Doublade",
+    "types": [
+        "acero",
+        "fantasma"
+    ],
+    "abilities": [
+        "Indefenso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 59,
+        "atk": 110,
+        "def": 150,
+        "atk esp": 45,
+        "def esp": 49,
+        "speed": 35
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Honedge (nivel 35)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Honedge (nivel 35)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Evolucionar: a Honedge (nivel 35)"
+        ],
+        "Luna": [
+            "Evolucionar: a Honedge (nivel 35)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Honedge (nivel 35)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Honedge (nivel 35)"
+        ],
+        "Espada": [
+            "Salvaje: Gorro del Gigante y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax:: nido junto a la pared y Antigua Atalaya, nido junto a la pared",
+            "Evolucionar: a Honedge (nivel 35)"
+        ],
+        "Escudo": [
+            "Salvaje: Gorro del Gigante y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared y Llanura Pétrea, nido al noreste junto a una pared 1",
+            "Evolucionar: a Honedge (nivel 35)"
+        ],
+        "Diamante Brillante": [
+            "Doublade no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Doublade no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Doublade no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Al evolucionar se divide en dos espadas. Se comunican entre sí mediante telepatía y coordinan los ataques para rebanar al enemigo.",
+        "Pokémon Y": "Ni siquiera el espadachín más ducho conseguiría esquivar los complejos ataques que encadenan ambas espadas a la vez.",
+        "Rubí Omega": "Al evolucionar se divide en dos espadas. Se comunican entre sí mediante telepatía y coordinan los ataques para rebanar al enemigo.",
+        "Zafiro Alfa": "Ni siquiera el espadachín más ducho conseguiría esquivar los complejos ataques que encadenan ambas espadas a la vez.",
+        "Sol": "No hay entrada de Doublade en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Doublade en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Doublade en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Doublade en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Su espada se duplicó durante su proceso de evolución. Intimida a los rivales con el chirrido metálico que produce al frotar ambas hojas.",
+        "Escudo": "Su táctica para abatir a las presas consiste en alternar ataque y defensa de forma frenética entre ambas espadas.",
+        "Diamante Brillante": "Doublade no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Doublade no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Doublade no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Honedge",
+            "Nivel 35",
+            "Doublade",
+            "Piedra noche ",
+            "Aegislash"
+        ]
+    ]
+}

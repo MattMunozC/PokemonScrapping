@@ -1,0 +1,98 @@
+{
+    "dex number": "0704",
+    "pokemon name": "Goomy",
+    "types": [
+        "dragón"
+    ],
+    "abilities": [
+        "Herbívoro",
+        "Hidratación"
+    ],
+    "hidden abilities": [
+        "Baba"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 50,
+        "def": 35,
+        "atk esp": 55,
+        "def esp": 75,
+        "speed": 40
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 14"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 14"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Salvaje: Jungla Umbría y Ruta 17 en combate con refuerzos (en clima lluvioso)"
+        ],
+        "Luna": [
+            "Salvaje: Jungla Umbría y Ruta 17 en combate con refuerzos (en clima lluvioso)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Jungla Umbría y Ruta 17 en combate con refuerzos (en clima lluvioso)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Jungla Umbría y Ruta 17 en combate con refuerzos (en clima lluvioso)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado, Humedal Frescor  y Playa Desafío ",
+            "Incursiones Dinamax: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Bahía Circular , Mar Gimnástico  y Mar Meloso "
+        ],
+        "Diamante Brillante": [
+            "Goomy no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Goomy no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Banco del Juicio y Cantera Ancestral",
+            "Aparición supermasiva: Pantanal Carmesí"
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Es el Pokémon de tipo Dragón más débil. Habita en zonas oscuras y húmedas para evitar que su viscoso cuerpo se seque.",
+        "Pokémon Y": "La membrana mucosa que lo recubre hace resbalar tanto los puñetazos como las patadas de los enemigos que lo golpean, gracias a su viscosidad.",
+        "Rubí Omega": "Es el Pokémon de tipo Dragón más débil. Habita en zonas oscuras y húmedas para evitar que su viscoso cuerpo se seque.",
+        "Zafiro Alfa": "La membrana mucosa que lo recubre hace resbalar tanto los puñetazos como las patadas de los enemigos que lo golpean, gracias a su viscosidad.",
+        "Sol": "Es el Pokémon de tipo Dragón más débil. Necesita mantener la piel húmeda para respirar, y por eso se oculta en las sombras.",
+        "Luna": "Una membrana viscosa lo envuelve y lo protege, pero tiene tal cantidad de gérmenes que hay que lavarse bien las manos tras tocarlo.",
+        "Ultrasol": "Palpa los alrededores con sus cuernos. Estos son tan sensibles que se queda paralizado si alguien se los agarra.",
+        "Ultraluna": "La mayor parte de su cuerpo está compuesto por agua, por lo que muere si llega a secarse. Siempre se le encuentra inmóvil en la sombra.",
+        "Espada": "Su cuerpo se compone casi exclusivamente de agua, por lo que se debilitaría si se deshidratase. Es el Pokémon de tipo Dragón más débil.",
+        "Escudo": "Sus antenas son órganos sensoriales sumamente desarrollados. Poder esconderse nada más detectar enemigos le ha permitido sobrevivir.",
+        "Diamante Brillante": "Goomy no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Goomy no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Se refugia a la sombra de los árboles donde la humedad es alta. Si el líquido viscoso que cubre su cuerpo se reseca, no tarda en aletargarse."
+    },
+    "evolution": [
+        [
+            "Goomy",
+            "Nivel 40 (fuera de Hisui)",
+            "Sliggoo",
+            "",
+            "Nivel 50 +lluvia (fuera de Hisui)",
+            "Goodra"
+        ],
+        [
+            "",
+            "Nivel 40 (en Hisui)",
+            "Sliggoo de Hisui",
+            "",
+            "Nivel 50 +lluvia (en Hisui)",
+            "Goodra de Hisui"
+        ]
+    ]
+}

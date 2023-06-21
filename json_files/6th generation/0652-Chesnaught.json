@@ -1,0 +1,89 @@
+{
+    "dex number": "0652",
+    "pokemon name": "Chesnaught",
+    "types": [
+        "planta",
+        "lucha"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Antibalas"
+    ],
+    "stats": {
+        "hp": 88,
+        "atk": 107,
+        "def": 122,
+        "atk esp": 74,
+        "def esp": 75,
+        "speed": 64
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Quilladin (nivel 36)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Quilladin (nivel 36)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Escáner insular: Isla Exeggutor (jueves)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Isla Exeggutor (jueves)"
+        ],
+        "Espada": [
+            "Chesnaught no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Chesnaught no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Chesnaught no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Chesnaught no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Chesnaught no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Su fuerza es tal que, de un empellón, puede hacer volcar un tanque de 50 toneladas. Protege a sus aliados cuando hace de escudo.",
+        "Pokémon Y": "Cuando adopta una postura defensiva juntando ambos puños delante de la cara, es capaz de resistir incluso el impacto directo de una bomba.",
+        "Rubí Omega": "Su fuerza es tal que, de un empellón, puede hacer volcar un tanque de 50 toneladas. Protege a sus aliados cuando hace de escudo.",
+        "Zafiro Alfa": "Cuando adopta una postura defensiva juntando ambos puños delante de la cara, es capaz de resistir incluso el impacto directo de una bomba.",
+        "Sol": "No hay entrada de Chesnaught en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Chesnaught en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Chesnaught en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Chesnaught en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Chesnaught no aparece en Pokémon Espada.",
+        "Escudo": "Chesnaught no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Chesnaught no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Chesnaught no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Chesnaught no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Chespin",
+            "Nivel 16",
+            "Quilladin",
+            "Nivel 36",
+            "Chesnaught"
+        ]
+    ]
+}

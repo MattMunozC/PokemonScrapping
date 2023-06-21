@@ -1,0 +1,96 @@
+{
+    "dex number": "0660",
+    "pokemon name": "Diggersby",
+    "types": [
+        "normal",
+        "tierra"
+    ],
+    "abilities": [
+        "Recogida",
+        "Carrillo"
+    ],
+    "hidden abilities": [
+        "Potencia"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 56,
+        "def": 77,
+        "atk esp": 50,
+        "def esp": 77,
+        "speed": 78
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 22",
+            "Evolucionar: a Bunnelby (nivel 20)",
+            "Especial: Safari Amistad, en algunos safaris de tipo tierra"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 22",
+            "Evolucionar: a Bunnelby (nivel 20)",
+            "Especial: Safari Amistad, en algunos safaris de tipo tierra"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Pradera Radiante, Ojo de Axew, Valle Entrepuentes, Gorro del Gigante, Espejo del Gigante, Silla del Gigante y Lago Milotic (norte)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Pradera Radiante, nido cerca del Punto de Encuentro, Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur. Con posible habilidad oculta: Llanura Pétrea, nido al sureste junto a una pared, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste",
+            "Evolucionar: a Bunnelby (nivel 20)"
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante, Ojo de Axew, Valle Entrepuentes, Gorro del Gigante, Espejo del Gigante, Silla del Gigante y Lago Milotic (norte)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Pradera Radiante, nido cerca del Punto de Encuentro, Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur. Con posible habilidad oculta: Llanura Pétrea, nido al sureste junto a una pared, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste",
+            "Evolucionar: a Bunnelby (nivel 20)"
+        ],
+        "Diamante Brillante": [
+            "Diggersby no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Diggersby no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Diggersby no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Sus grandes orejas tienen tal fuerza que con ellas puede levantar con facilidad rocas de más de una tonelada. Es de una ayuda inestimable en las obras.",
+        "Pokémon Y": "Sus orejas, tan poderosas como una excavadora, pueden hacer añicos hasta la roca más sólida. Cuando termina de cavar, se toma un respiro.",
+        "Rubí Omega": "Sus grandes orejas tienen tal fuerza que con ellas puede levantar con facilidad rocas de más de una tonelada. Es de una ayuda inestimable en las obras.",
+        "Zafiro Alfa": "Sus orejas, tan poderosas como una excavadora, pueden hacer añicos hasta la roca más sólida. Cuando termina de cavar, se toma un respiro.",
+        "Sol": "No hay entrada de Diggersby en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Diggersby en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Diggersby en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Diggersby en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Puede horadar incluso el duro sustrato rocoso con la fuerza de una excavadora, por lo que su ayuda resulta inestimable para construir túneles.",
+        "Escudo": "El pelaje de su abdomen es un aislante térmico excelente, tanto que antaño se usaba el que mudaba para confeccionar prendas de abrigo.",
+        "Diamante Brillante": "Diggersby no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Diggersby no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Diggersby no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Bunnelby",
+            "Nivel 20",
+            "Diggersby"
+        ]
+    ]
+}

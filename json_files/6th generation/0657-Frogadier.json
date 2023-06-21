@@ -1,0 +1,90 @@
+{
+    "dex number": "0657",
+    "pokemon name": "Frogadier",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Mutatipo"
+    ],
+    "stats": {
+        "hp": 54,
+        "atk": 63,
+        "def": 52,
+        "atk esp": 83,
+        "def esp": 56,
+        "speed": 97
+    },
+    "location": {
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo agua",
+            "Evolucionar: a Froakie (nivel 16)"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo agua",
+            "Evolucionar: a Froakie (nivel 16)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Greninja y evolucionar a Froakie (nivel 16)"
+        ],
+        "Ultraluna": [
+            "Criar: de Greninja y evolucionar a Froakie (nivel 16)"
+        ],
+        "Espada": [
+            "Frogadier no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Frogadier no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Frogadier no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Frogadier no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Frogadier no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Puede lanzar piedras envueltas en burbujas con tal puntería que acierta latas vacías a 30 metros de distancia.",
+        "Pokémon Y": "Su agilidad no tiene parangón. De hecho, es capaz de escalar una torre de más de 600 metros en tan solo un minuto.",
+        "Rubí Omega": "Puede lanzar piedras envueltas en burbujas con tal puntería que acierta latas vacías a 30 metros de distancia.",
+        "Zafiro Alfa": "Su agilidad no tiene parangón. De hecho, es capaz de escalar una torre de más de 600 metros en tan solo un minuto.",
+        "Sol": "No hay entrada de Frogadier en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Frogadier en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Frogadier en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Frogadier en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Frogadier no aparece en Pokémon Espada.",
+        "Escudo": "Frogadier no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Frogadier no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Frogadier no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Frogadier no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Froakie",
+            "Nivel 16",
+            "Frogadier",
+            "Nivel 36",
+            "Greninja"
+        ]
+    ]
+}

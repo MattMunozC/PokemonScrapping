@@ -1,0 +1,98 @@
+{
+    "dex number": "0709",
+    "pokemon name": "Trevenant",
+    "types": [
+        "fantasma",
+        "planta"
+    ],
+    "abilities": [
+        "Cura natural",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Cosecha"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 110,
+        "def": 76,
+        "atk esp": 65,
+        "def esp": 82,
+        "speed": 56
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 20 y Villa Pokémon",
+            "Evolucionar: a Phantump (intercambio)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 20 y Villa Pokémon",
+            "Evolucionar: a Phantump (intercambio)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Phantump (intercambio)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Phantump (intercambio)"
+        ],
+        "Sol": [
+            "Evolucionar: a Phantump (intercambio)",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Luna": [
+            "Evolucionar: a Phantump (intercambio)",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Ultrasol": [
+            "Intercambiar: a un hombre en el Centro Pokémon de la Aldea Tapu por un Phantump",
+            "Evolucionar: a Phantump (intercambio)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: a un hombre en el Centro Pokémon de la Aldea Tapu por un Phantump",
+            "Evolucionar: a Phantump (intercambio)"
+        ],
+        "Espada": [
+            "Salvaje: Campo Deslizante , Viejo Cementerio  y Desfiladero Nevado ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al norte 1 y Espejo del Gigante, nido al sur. Con posible habilidad oculta: Antigua Atalaya, nido junto a la pared y Llanura Pétrea, nido al noreste junto a una pared 2. Nidos en Campo Deslizante , Viejo Cementerio , Suela del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Phantump (intercambio)"
+        ],
+        "Escudo": [
+            "Salvaje: Campo Deslizante , Viejo Cementerio  y Desfiladero Nevado ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al norte 1 y Espejo del Gigante, nido al sur. Con posible habilidad oculta: Antigua Atalaya, nido junto a la pared y Llanura Pétrea, nido al noreste junto a una pared 2. Nidos en Campo Deslizante , Viejo Cementerio , Suela del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Phantump (intercambio)"
+        ],
+        "Diamante Brillante": [
+            "Trevenant no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Trevenant no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Trevenant no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Puede controlar los árboles a su voluntad. Retiene hasta el fin de sus días a los humanos que se adentran en el bosque y lo mancillan.",
+        "Pokémon Y": "Sus raíces le permiten controlar los árboles del bosque, al funcionar como un sistema nervioso. Es amable con los Pokémon que habitan su cuerpo.",
+        "Rubí Omega": "Puede controlar los árboles a su voluntad. Retiene hasta el fin de sus días a los humanos que se adentran en el bosque y lo mancillan.",
+        "Zafiro Alfa": "Sus raíces le permiten controlar los árboles del bosque, al funcionar como un sistema nervioso. Es amable con los Pokémon que habitan su cuerpo.",
+        "Sol": "Es amable con los seres que habitan los bosques, pero se cuenta que devora a quienes los mancillan.",
+        "Luna": "Controla los árboles con sus raíces. Si alguien tala un árbol en los bosques en los que habita, será maldecido de por vida.",
+        "Ultrasol": "Se cree que es un demonio del bosque. Los leñadores solo se adentran llevando consigo Pokémon de tipo Fuego, a los que detesta.",
+        "Ultraluna": "Este Pokémon controla a los árboles alargando las raíces que surgen de sus pies, para así plantar cara a quienes perjudican el bosque.",
+        "Espada": "Los humanos lo temen porque devora a quienes osen talar los árboles, pero es amable con los Pokémon que habitan en el bosque.",
+        "Escudo": "Puede extender las finas raíces que le brotan de las extremidades inferiores para conectarse con el resto de los árboles y controlarlos a voluntad.",
+        "Diamante Brillante": "Trevenant no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Trevenant no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Trevenant no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Phantump",
+            "Intercambio",
+            "Trevenant"
+        ]
+    ]
+}

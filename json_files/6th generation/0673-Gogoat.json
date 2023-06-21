@@ -1,0 +1,86 @@
+{
+    "dex number": "0673",
+    "pokemon name": "Gogoat",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Herbívoro"
+    ],
+    "hidden abilities": [
+        "Manto frondoso"
+    ],
+    "stats": {
+        "hp": 123,
+        "atk": 100,
+        "def": 62,
+        "atk esp": 97,
+        "def esp": 81,
+        "speed": 68
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: de Skiddo (nivel 32)",
+            "Especial: Safari Amistad, en algunos safaris de tipo planta"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Skiddo (nivel 32)",
+            "Especial: Safari Amistad, en algunos safaris de tipo planta"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Gogoat no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Gogoat no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Gogoat no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Gogoat no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Gogoat no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Percibe los sentimientos del Entrenador por la forma en la que agarra sus cuernos, aunque sean variaciones sutiles, y así avanzan como si fueran un solo ente.",
+        "Pokémon Y": "Habita en regiones montañosas. El líder de la manada se decide en una demostración de fuerza en la que los contendientes luchan con los cuernos.",
+        "Rubí Omega": "Percibe los sentimientos del Entrenador por la forma en la que agarra sus cuernos, aunque sean variaciones sutiles, y así avanzan como si fueran un solo ente.",
+        "Zafiro Alfa": "Habita en regiones montañosas. El líder de la manada se decide en una demostración de fuerza en la que los contendientes luchan con los cuernos.",
+        "Sol": "No hay entrada de Gogoat en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Gogoat en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Gogoat en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Gogoat en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Gogoat no aparece en Pokémon Espada.",
+        "Escudo": "Gogoat no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Gogoat no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Gogoat no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Gogoat no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Skiddo",
+            "Nivel 32",
+            "Gogoat"
+        ]
+    ]
+}

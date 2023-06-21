@@ -1,0 +1,95 @@
+{
+    "dex number": "0712",
+    "pokemon name": "Bergmite",
+    "types": [
+        "hielo"
+    ],
+    "abilities": [
+        "Ritmo propio",
+        "Gélido"
+    ],
+    "hidden abilities": [
+        "Robustez"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 69,
+        "def": 85,
+        "atk esp": 32,
+        "def esp": 35,
+        "speed": 28
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Gruta Helada",
+            "Especial: Safari Amistad, en algunos safaris de tipo hielo"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Gruta Helada",
+            "Especial: Safari Amistad, en algunos safaris de tipo hielo"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 9, Afueras de Crampón, Encrucijada Tresvías  y Mar Gélido ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro y Llanura Pétrea, nido al este 1. Nidos en Lecho del Gigante  y Mar Gélido "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 9, Afueras de Crampón, Encrucijada Tresvías  y Mar Gélido ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro, Llanura Pétrea, nido al este 1 y Silla del Gigante, nido al sur junto al lago"
+        ],
+        "Diamante Brillante": [
+            "Bergmite no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Bergmite no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Témpano Avalugg y Senda de la Arena.",
+            "Aparición supermasiva: Tundra Alba"
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Envuelve su cuerpo en una capa de hielo que le permite evitar los ataques del enemigo. Si se resquebraja, la recompone con aire gélido.",
+        "Pokémon Y": "Congela a sus enemigos sometiéndolos a un aire gélido de -100 ºC. Forman grupos para habitar montañas cubiertas de una nieve sempiterna.",
+        "Rubí Omega": "Envuelve su cuerpo en una capa de hielo que le permite evitar los ataques del enemigo. Si se resquebraja, la recompone con aire gélido.",
+        "Zafiro Alfa": "Congela a sus enemigos sometiéndolos a un aire gélido de -100 ºC. Forman grupos para habitar montañas cubiertas de una nieve sempiterna.",
+        "Sol": "No hay entrada de Bergmite en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Bergmite en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Bergmite en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Bergmite en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Congela la humedad del ambiente exhalando vaho a -100 °C para crear una coraza de hielo con la que protege su cuerpo.",
+        "Escudo": "Vive en regiones sumamente frías. Se aferra al lomo de los Avalugg congelando sus propias extremidades.",
+        "Diamante Brillante": "Bergmite no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Bergmite no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Habita en montañas de nieves perpetuas. Congela el vapor de agua del aire para crear un casco de hielo que le sirve como defensa."
+    },
+    "evolution": [
+        [
+            "Bergmite",
+            "Nivel 37(fuera de Hisui)",
+            "Avalugg"
+        ],
+        [
+            "",
+            "Nivel 37(en Hisui)",
+            "Avalugg de Hisui"
+        ]
+    ]
+}

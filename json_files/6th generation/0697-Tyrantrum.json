@@ -1,0 +1,93 @@
+{
+    "dex number": "0697",
+    "pokemon name": "Tyrantrum",
+    "types": [
+        "roca",
+        "dragón"
+    ],
+    "abilities": [
+        "Mandíbula fuerte"
+    ],
+    "hidden abilities": [
+        "Cabeza roca"
+    ],
+    "stats": {
+        "hp": 82,
+        "atk": 121,
+        "def": 119,
+        "atk esp": 69,
+        "def esp": 59,
+        "speed": 71
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Tyrunt (nivel 39 + día)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Tyrunt (nivel 39 + día)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Tyrunt (nivel 39 + día)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Tyrunt (nivel 39 + día)"
+        ],
+        "Espada": [
+            "Salvaje: Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Evolucionar: a Tyrunt (nivel 39 + día)"
+        ],
+        "Escudo": [
+            "Salvaje: Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Evolucionar: a Tyrunt (nivel 39 + día)"
+        ],
+        "Diamante Brillante": [
+            "Tyrantrum no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tyrantrum no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Tyrantrum no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "En el mundo antiguo en el que habita no tenía rivales gracias a sus mandíbulas, con las que podría despedazar con facilidad gruesas placas de acero.",
+        "Pokémon Y": "Hace 100 millones de años, este Pokémon se comportaba como un rey, sin nadie que osase hacerle frente.",
+        "Rubí Omega": "En el mundo antiguo en el que habita no tenía rivales gracias a sus mandíbulas, con las que podría despedazar con facilidad gruesas placas de acero.",
+        "Zafiro Alfa": "Hace 100 millones de años, este Pokémon se comportaba como un rey, sin nadie que osase hacerle frente.",
+        "Sol": "No hay entrada de Tyrantrum en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Tyrantrum en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Según algunas teorías, este Pokémon no es una recreación exacta del de épocas pasadas, ya que debería estar recubierto de plumas.",
+        "Ultraluna": "Antaño era considerado un rey indiscutible. El brutal poder de su mandíbula le permite triturar un coche con suma facilidad.",
+        "Espada": "Este Pokémon vivió hace cien millones de años. A pesar de su ferocidad, posee una firmeza y una presencia dignas de un rey.",
+        "Escudo": "Puede hacer trizas un coche de un solo mordisco gracias a sus potentes mandíbulas. Antaño era considerado un rey.",
+        "Diamante Brillante": "Tyrantrum no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tyrantrum no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Tyrantrum no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Tyrunt",
+            "Nivel 39 (día) ",
+            "Tyrantrum"
+        ]
+    ]
+}

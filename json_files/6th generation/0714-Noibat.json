@@ -1,0 +1,96 @@
+{
+    "dex number": "0714",
+    "pokemon name": "Noibat",
+    "types": [
+        "volador",
+        "dragón"
+    ],
+    "abilities": [
+        "Cacheo",
+        "Allanamiento"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 30,
+        "def": 35,
+        "atk esp": 45,
+        "def esp": 40,
+        "speed": 55
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Cueva Desenlace y Calle Victoria (cayendo del techo)",
+            "Especial: Safari Amistad, en algunos safaris de tipo dragón"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva Desenlace y Calle Victoria (cayendo del techo)",
+            "Especial: Safari Amistad, en algunos safaris de tipo dragón"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar:  de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar:  de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Cueva Sotobosque",
+            "Intercambiar: por un Lillipup en el Centro Pokémon de la Ruta 5"
+        ],
+        "Ultraluna": [
+            "Salvaje: Cueva Sotobosque",
+            "Intercambiar: por un Lillipup en el Centro Pokémon de la Ruta 5"
+        ],
+        "Espada": [
+            "Salvaje: Mina de Galar n.º 2, Antigua Atalaya y Valle Entrepuentes",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Curri: Mina de Galar n.° 2"
+        ],
+        "Escudo": [
+            "Salvaje: Mina de Galar n.º 2, Antigua Atalaya y Valle Entrepuentes",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Curri: Mina de Galar n.° 2"
+        ],
+        "Diamante Brillante": [
+            "Noibat no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Noibat no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Noibat no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Habita en cuevas donde reina la más absoluta oscuridad y emite ondas ultrasónicas de 200000 Hz a través de sus enormes orejas.",
+        "Pokémon Y": "Ni el más recio de los luchadores profesionales seria capaz de aguantar sus ondas ultrasónicas de 200000 Hz sin marearse e hincar la rodilla.",
+        "Rubí Omega": "Habita en cuevas donde reina la más absoluta oscuridad y emite ondas ultrasónicas de 200000 Hz a través de sus enormes orejas.",
+        "Zafiro Alfa": "Ni el más recio de los luchadores profesionales seria capaz de aguantar sus ondas ultrasónicas de 200000 Hz sin marearse e hincar la rodilla.",
+        "Sol": "No hay entrada de Noibat en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Noibat en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Le encanta la fruta, pero es tan selecto que emite ondas ultrasónicas para detectar cuáles están maduras y el resto lo descarta.",
+        "Ultraluna": "Revolotea en busca de fruta, su principal fuente de sustento. Con las ondas ultrasónicas que emite puede determinar cuáles están maduras.",
+        "Espada": "Al caer la noche, abandona su cueva y revolotea en busca de fruta madura, que localiza mediante ondas ultrasónicas.",
+        "Escudo": "Su registro vocal cubre todo el espectro de frecuencias. Ni los Pokémon más grandes soportan las ondas ultrasónicas que emite.",
+        "Diamante Brillante": "Noibat no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Noibat no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Noibat no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Noibat",
+            "Nivel 48",
+            "Noivern"
+        ]
+    ]
+}

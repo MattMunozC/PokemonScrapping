@@ -1,0 +1,82 @@
+{
+    "dex number": "0716",
+    "pokemon name": "Xerneas",
+    "types": [
+        "hada"
+    ],
+    "abilities": [
+        "Aura feérica"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 126,
+        "atk": 131,
+        "def": 95,
+        "atk esp": 131,
+        "def esp": 98,
+        "speed": 99
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Guarida Team Flare (solo uno)"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon X"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde (solo uno)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Xerneas no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Xerneas no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Xerneas no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Según las leyendas, puede compartir el secreto de la vida eterna. Ha despertado tras dormir durante mil años bajo la apariencia de un árbol.",
+        "Pokémon Y": "Cuando los cuernos de su cabeza brillan en siete colores, se dice que comparte el don de la vida eterna.",
+        "Rubí Omega": "Según las leyendas, puede compartir el secreto de la vida eterna. Ha despertado tras dormir durante mil años bajo la apariencia de un árbol.",
+        "Zafiro Alfa": "Cuando los cuernos de su cabeza brillan en siete colores, se dice que comparte el don de la vida eterna.",
+        "Sol": "No hay entrada de Xerneas en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Xerneas en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Xerneas en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Xerneas en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de Xerneas en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Xerneas en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Xerneas no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Xerneas no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Xerneas no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Xerneas"
+        ]
+    ]
+}

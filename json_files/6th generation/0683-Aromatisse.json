@@ -1,0 +1,85 @@
+{
+    "dex number": "0683",
+    "pokemon name": "Aromatisse",
+    "types": [
+        "hada"
+    ],
+    "abilities": [
+        "Alma cura"
+    ],
+    "hidden abilities": [
+        "Velo aroma"
+    ],
+    "stats": {
+        "hp": 101,
+        "atk": 72,
+        "def": 72,
+        "atk esp": 99,
+        "def esp": 89,
+        "speed": 29
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Spritzee (intercambio + saquito fragante)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Spritzee (intercambio + saquito fragante)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Lago del Enfado, nido al norte junto al lago y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Con posible habilidad oculta: Cornisa de Artejo, nido al centro-oeste y Pradera Radiante, nido al sureste junto al acantilado",
+            "Evolucionar: a Spritzee (intercambio + saquito fragante)"
+        ],
+        "Diamante Brillante": [
+            "Aromatisse no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Aromatisse no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Aromatisse no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Puede producir multitud de olores diferentes y, en combate, secreta los que le resultan molestos al enemigo para así contar con cierta ventaja.",
+        "Pokémon Y": "La fragancia que despide es tan potente que solo podría caminar a su lado un Entrenador que tenga especial predilección por ese aroma.",
+        "Rubí Omega": "Puede producir multitud de olores diferentes y, en combate, secreta los que le resultan molestos al enemigo para así contar con cierta ventaja.",
+        "Zafiro Alfa": "La fragancia que despide es tan potente que solo podría caminar a su lado un Entrenador que tenga especial predilección por ese aroma.",
+        "Sol": "No hay entrada de Aromatisse en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Aromatisse en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Aromatisse en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Aromatisse en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "La fragancia que despide su pelaje es tan potente que puede dejar sin olfato a su Entrenador.",
+        "Escudo": "Puede emanar tanto un olor desagradable para desmotivar al rival como un dulce aroma para reconfortar a los aliados en combate.",
+        "Diamante Brillante": "Aromatisse no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Aromatisse no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Aromatisse no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Spritzee",
+            "Intercambio equipadocon saquito fragante ",
+            "Aromatisse"
+        ]
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "dex number": "0685",
+    "pokemon name": "Slurpuff",
+    "types": [
+        "hada"
+    ],
+    "abilities": [
+        "Velo dulce"
+    ],
+    "hidden abilities": [
+        "Liviano"
+    ],
+    "stats": {
+        "hp": 82,
+        "atk": 80,
+        "def": 86,
+        "atk esp": 85,
+        "def esp": 75,
+        "speed": 72
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Swirlix (intercambio + dulce de nata)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Swirlix (intercambio + dulce de nata)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Lago del Enfado, nido al norte junto al lago y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Con posible habilidad oculta: Cornisa de Artejo, nido al centro-oeste y Pradera Radiante, nido al sureste junto al acantilado",
+            "Evolucionar: a Swirlix (intercambio + dulce de nata)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Slurpuff no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Slurpuff no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Slurpuff no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Puede rastrear hasta el más débil de los olores. Hace uso de su fino olfato para ayudar a los pasteleros más exquisitos.",
+        "Pokémon Y": "Su sentido del olfato es varios millones de veces más agudo que el de un humano. Con él percibe lo que sucede a su alrededor, por sutil que sea el olor.",
+        "Rubí Omega": "Puede rastrear hasta el más débil de los olores. Hace uso de su fino olfato para ayudar a los pasteleros más exquisitos.",
+        "Zafiro Alfa": "Su sentido del olfato es varios millones de veces más agudo que el de un humano. Con él percibe lo que sucede a su alrededor, por sutil que sea el olor.",
+        "Sol": "No hay entrada de Slurpuff en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Slurpuff en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Slurpuff en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Slurpuff en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Puede percibir el estado físico y mental de alguien solo con olerlo, lo que podría tener aplicaciones útiles en el campo de la medicina.",
+        "Escudo": "La gran cantidad de aire acumulada en su pelaje le confiere un tacto aterciopelado y un peso muy inferior al que aparenta.",
+        "Diamante Brillante": "Slurpuff no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Slurpuff no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Slurpuff no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Swirlix",
+            "Intercambio equipado con dulce de nata ",
+            "Slurpuff"
+        ]
+    ]
+}

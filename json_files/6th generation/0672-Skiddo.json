@@ -1,0 +1,84 @@
+{
+    "dex number": "0672",
+    "pokemon name": "Skiddo",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Herbívoro"
+    ],
+    "hidden abilities": [
+        "Manto frondoso"
+    ],
+    "stats": {
+        "hp": 66,
+        "atk": 65,
+        "def": 48,
+        "atk esp": 62,
+        "def esp": 57,
+        "speed": 52
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 5"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 5"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Skiddo no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Skiddo no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Skiddo no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Skiddo no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Skiddo no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Se dice que fue la primera especie de Pokémon que se acostumbró a vivir con los seres humanos. Tiene una naturaleza muy afable.",
+        "Pokémon Y": "Puede generar energía con las hojas que tiene en la espalda disponiendo tan solo de agua y luz solar. Gracias a ello puede sobrevivir sin comer.",
+        "Rubí Omega": "Se dice que fue la primera especie de Pokémon que se acostumbró a vivir con los seres humanos. Tiene una naturaleza muy afable.",
+        "Zafiro Alfa": "Puede generar energía con las hojas que tiene en la espalda disponiendo tan solo de agua y luz solar. Gracias a ello puede sobrevivir sin comer.",
+        "Sol": "No hay entrada de Skiddo en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Skiddo en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Skiddo en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Skiddo en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Skiddo no aparece en Pokémon Espada.",
+        "Escudo": "Skiddo no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Skiddo no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Skiddo no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Skiddo no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Skiddo",
+            "Nivel 32",
+            "Gogoat"
+        ]
+    ]
+}

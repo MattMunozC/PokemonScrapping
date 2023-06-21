@@ -1,0 +1,87 @@
+{
+    "dex number": "0684",
+    "pokemon name": "Swirlix",
+    "types": [
+        "hada"
+    ],
+    "abilities": [
+        "Velo dulce"
+    ],
+    "hidden abilities": [
+        "Liviano"
+    ],
+    "stats": {
+        "hp": 62,
+        "atk": 48,
+        "def": 66,
+        "atk esp": 59,
+        "def esp": 57,
+        "speed": 49
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 7",
+            "Especial: Safari Amistad, en algunos safaris de tipo hada"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo hada"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Lumirinto, Ruta 5, Espejo del Gigante y Llanura Pétrea",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón",
+            "Curri: Ruta 5 y Bosque Lumirinto"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Swirlix no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Swirlix no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Swirlix no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Escupe hebras pegajosas de color blanco y textura parecida a las del algodón de azúcar, con las que envuelve al enemigo y le impide que se mueva.",
+        "Pokémon Y": "Como se alimenta exclusivamente de dulces, su pelaje es tan pegajoso y dulzón como el algodón de azúcar.",
+        "Rubí Omega": "Escupe hebras pegajosas de color blanco y textura parecida a las del algodón de azúcar, con las que envuelve al enemigo y le impide que se mueva.",
+        "Zafiro Alfa": "Como se alimenta exclusivamente de dulces, su pelaje es tan pegajoso y dulzón como el algodón de azúcar.",
+        "Sol": "No hay entrada de Swirlix en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Swirlix en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Swirlix en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Swirlix en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Ingiere diariamente una cantidad de azúcar equivalente a su peso corporal. De lo contrario, se pone de muy mal humor.",
+        "Escudo": "Su esponjoso pelaje desprende un olor dulzón como el del algodón de azúcar. Escupe hebras pegajosas con las que envuelve a sus enemigos.",
+        "Diamante Brillante": "Swirlix no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Swirlix no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Swirlix no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Swirlix",
+            "Intercambio equipado con dulce de nata ",
+            "Slurpuff"
+        ]
+    ]
+}

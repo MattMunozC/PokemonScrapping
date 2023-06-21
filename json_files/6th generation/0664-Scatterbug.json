@@ -1,0 +1,89 @@
+{
+    "dex number": "0664",
+    "pokemon name": "Scatterbug",
+    "types": [
+        "bicho"
+    ],
+    "abilities": [
+        "Polvo escudo",
+        "Ojo compuesto"
+    ],
+    "hidden abilities": [
+        "Compiescolta"
+    ],
+    "stats": {
+        "hp": 38,
+        "atk": 35,
+        "def": 40,
+        "atk esp": 27,
+        "def esp": 25,
+        "speed": 35
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 2 y Bosque de Novarte"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 2 y Bosque de Novarte"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Escáner insular: Ciudad Hauoli (jueves)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Ciudad Hauoli (jueves)"
+        ],
+        "Espada": [
+            "Scatterbug no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Scatterbug no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Scatterbug no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Scatterbug no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Scatterbug no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Cuando recibe el ataque de un Pokémon pájaro, expulsa unas escamas negras que provocan parálisis si se entra en contacto con ellas.",
+        "Pokémon Y": "Gracias al polvo de escamas que lo recubre y regula su temperatura, puede vivir en cualquier región, sin importar las características del terreno o el clima.",
+        "Rubí Omega": "Cuando recibe el ataque de un Pokémon pájaro, expulsa unas escamas negras que provocan parálisis si se entra en contacto con ellas.",
+        "Zafiro Alfa": "Gracias al polvo de escamas que lo recubre y regula su temperatura, puede vivir en cualquier región, sin importar las características del terreno o el clima.",
+        "Sol": "No hay entrada de Scatterbug en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Scatterbug en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Scatterbug en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Scatterbug en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Scatterbug no aparece en Pokémon Espada.",
+        "Escudo": "Scatterbug no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Scatterbug no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Scatterbug no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Scatterbug no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Scatterbug",
+            "Nivel 9",
+            "Spewpa",
+            "Nivel 12",
+            "Vivillon"
+        ]
+    ]
+}

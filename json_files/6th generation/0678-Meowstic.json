@@ -1,0 +1,92 @@
+{
+    "dex number": "0678",
+    "pokemon name": "Meowstic",
+    "types": [
+        "psíquico"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Allanamiento"
+    ],
+    "hidden abilities": [
+        "Bromista",
+        "Tenacidad"
+    ],
+    "stats": {
+        "hp": 74,
+        "atk": 48,
+        "def": 76,
+        "atk esp": 83,
+        "def esp": 81,
+        "speed": 104
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Espurr (nivel 25)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Espurr (nivel 25)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 7 y Cuenca Polvorienta",
+            "Incursiones Dinamax (solo Meowstic macho): Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol. Nidos en Playa Desafío , Humedal Frescor , Llano Entrenamiento  y Mar Andana ",
+            "Curri (solo Meowstic macho): Ruta 7",
+            "Evolucionar: a Espurr (nivel 25)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 7 y Cuenca Polvorienta",
+            "Incursiones Dinamax (solo Meowstic hembra): Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol. Nidos en Playa Desafío , Humedal Frescor , Llano Entrenamiento  y Mar Andana ",
+            "Curri (solo Meowstic hembra): Ruta 7",
+            "Evolucionar: a Espurr (nivel 25)"
+        ],
+        "Diamante Brillante": [
+            "Meowstic no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Meowstic no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Meowstic no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Cuando percibe peligro, yergue sus orejas y desata un poder psíquico capaz de levantar un camión de unas 10 toneladas.",
+        "Pokémon Y": "Las marcas en forma de ojos que tiene en las orejas emiten poderes psíquicos, pero su potencia es tan avasalladora que las mantiene tapadas.",
+        "Rubí Omega": "Cuando percibe peligro, yergue sus orejas y desata un poder psíquico capaz de levantar un camión de unas 10 toneladas.",
+        "Zafiro Alfa": "Las marcas en forma de ojos que tiene en las orejas emiten poderes psíquicos, pero su potencia es tan avasalladora que las mantiene tapadas.",
+        "Sol": "No hay entrada de Meowstic en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Meowstic en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Meowstic en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Meowstic en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "\nMeowstic macho: Emite sus poderes psíquicos por las marcas en forma de ojos que tiene en las orejas, aunque, por lo general, las mantiene ocultas.\nMeowstic hembra: Son ligeramente más agresivas y egoístas que los machos. Castigan sin piedad con sus poderes psíquicos a quienes las enojen.",
+        "Escudo": "\nMeowstic macho: El fuerte instinto protector de los machos los lleva a liberar todo su poder cuando se trata de defenderse a sí mismos o a su Entrenador.\nMeowstic hembra: Cuando libera todo su poder psíquico, su fuerza puede hacer trizas un petrolero. Su carácter arisco forma parte de su encanto.",
+        "Diamante Brillante": "Meowstic no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Meowstic no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Meowstic no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Espurr",
+            "Nivel 25",
+            "Meowstic"
+        ]
+    ]
+}

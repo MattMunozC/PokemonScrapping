@@ -1,0 +1,81 @@
+{
+    "dex number": "0719",
+    "pokemon name": "Diancie",
+    "types": [
+        "roca",
+        "hada"
+    ],
+    "abilities": [
+        "Cuerpo puro"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 50,
+        "atk": 100,
+        "def": 150,
+        "atk esp": 100,
+        "def esp": 150,
+        "speed": 50
+    },
+    "location": {
+        "Pokémon X": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Pokémon Y": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Rubí Omega": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Zafiro Alfa": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores."
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores."
+        ],
+        "Diamante Brillante": [
+            "Diancie no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Diancie no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Diancie no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Es una transformación súbita de Carbink. Se dice que su cuerpo, que irradia destellos rosados, es lo más bonito de este mundo.",
+        "Pokémon Y": "Puede crear una gran cantidad de diamantes en un instante comprimiendo con las manos el carbono que flota en el aire.",
+        "Rubí Omega": "Es una transformación súbita de Carbink. Se dice que su cuerpo, que irradia destellos rosados, es lo más bonito de este mundo.",
+        "Zafiro Alfa": "Puede crear una gran cantidad de diamantes en un instante comprimiendo con las manos el carbono que flota en el aire.",
+        "Sol": "No hay entrada de Diancie en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Diancie en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Diancie en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Diancie en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de Diancie en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Diancie en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Diancie no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Diancie no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Diancie no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Diancie"
+        ]
+    ]
+}

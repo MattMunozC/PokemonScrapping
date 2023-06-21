@@ -1,0 +1,91 @@
+{
+    "dex number": "0661",
+    "pokemon name": "Fletchling",
+    "types": [
+        "normal",
+        "volador"
+    ],
+    "abilities": [
+        "Sacapecho"
+    ],
+    "hidden abilities": [
+        "Alas vendaval"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 50,
+        "def": 43,
+        "atk esp": 40,
+        "def esp": 38,
+        "speed": 62
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 2, Ruta 3 y Bosque de Novarte"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 2, Ruta 3 y Bosque de Novarte"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Salvaje: Área Volcánica del Wela",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Luna": [
+            "Salvaje: Área Volcánica del Wela",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 8 y Área Volcánica del Wela"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 8 y Área Volcánica del Wela"
+        ],
+        "Espada": [
+            "Salvaje: Bahía Circular , Ruta Desafío  y Cuenca Arenosa ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Bahía Circular , Playa Desafío , Ruta Desafío , Cuenca Arenosa , Mar Andana  y Mar Gimnástico "
+        ],
+        "Escudo": [
+            "Salvaje: Bahía Circular , Ruta Desafío  y Cuenca Arenosa ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Bahía Circular , Playa Desafío , Ruta Desafío , Cuenca Arenosa , Mar Andana  y Mar Gimnástico "
+        ],
+        "Diamante Brillante": [
+            "Fletchling no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Fletchling no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Fletchling no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Es muy amigable y se comunica con sus aliados mediante melodiosos gorjeos y el movimiento de su cola y sus gráciles alas.",
+        "Pokémon Y": "Su melodioso gorjeo lo dota de una gran belleza, pero adopta una actitud agresiva y despiadada hacia cualquiera que ose invadir su territorio.",
+        "Rubí Omega": "Es muy amigable y se comunica con sus aliados mediante melodiosos gorjeos y el movimiento de su cola y sus gráciles alas.",
+        "Zafiro Alfa": "Su melodioso gorjeo lo dota de una gran belleza, pero adopta una actitud agresiva y despiadada hacia cualquiera que ose invadir su territorio.",
+        "Sol": "Su carácter amigable lo convierte en un Pokémon muy dócil. Ahora bien, en cuanto se pone a combatir, se vuelve un adversario implacable.",
+        "Luna": "Cuando se exalta, su temperatura corporal llega a duplicarse y sus hormonas se descontrolan.",
+        "Ultrasol": "Es de carácter afable, pero si lo tocan en contra de su voluntad, aumenta repentinamente su temperatura y puede provocar quemaduras.",
+        "Ultraluna": "Su cuerpo emana bastante calor, razón por la que los Entrenadores de regiones frías les permiten dormir en sus camas.",
+        "Espada": "Sus melodiosos gorjeos son en realidad un aviso. Acribilla a picotazos a todo el que ose invadir su territorio.",
+        "Escudo": "Su temperatura corporal aumenta de repente cuando se exalta y puede causar quemaduras al contacto con la piel.",
+        "Diamante Brillante": "Fletchling no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Fletchling no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Fletchling no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Fletchling",
+            "Nivel 17",
+            "Fletchinder",
+            "Nivel 35",
+            "Talonflame"
+        ]
+    ]
+}

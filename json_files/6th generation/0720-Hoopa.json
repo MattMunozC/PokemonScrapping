@@ -1,0 +1,87 @@
+{
+    "dex number": "0720",
+    "pokemon name": "Hoopa",
+    "types": [
+        "psíquico",
+        "fantasma",
+        "psíquico",
+        "siniestro"
+    ],
+    "abilities": [
+        "Prestidigitador"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 80,
+        "atk": 110,
+        "def": 60,
+        "atk esp": 150,
+        "def esp": 130,
+        "speed": 70
+    },
+    "location": {
+        "Pokémon X": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Pokémon Y": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Rubí Omega": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Zafiro Alfa": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Espada": [
+            "Hoopa no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Hoopa no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Hoopa no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Hoopa no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Hoopa no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Este problemático Pokémon envía cualquier objeto a lugares remotos mediante unos anillos que deforman el espacio.",
+        "Pokémon Y": "Reúne los objetos que le atraen para esconderlos en una guarida secreta, teletransportándolos a través de sus anillos.",
+        "Rubí Omega": "En su forma original, este Pokémon posee una fuerza descomunal. Una leyenda cuenta que una vez robó un tesoro del interior de una fortaleza.",
+        "Zafiro Alfa": "Dicen que gracias a sus seis anillos y seis enormes brazos puede robar todo lo que se le antoja. Adquirió una forma reducida cuando alguien selló su poder.",
+        "Sol": "No hay entrada de Hoopa en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Hoopa en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Hoopa en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Hoopa en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Hoopa no aparece en Pokémon Espada.",
+        "Escudo": "Hoopa no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Hoopa no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Hoopa no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Hoopa no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Hoopa"
+        ]
+    ]
+}

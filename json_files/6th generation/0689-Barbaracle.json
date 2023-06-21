@@ -1,0 +1,96 @@
+{
+    "dex number": "0689",
+    "pokemon name": "Barbaracle",
+    "types": [
+        "roca",
+        "agua"
+    ],
+    "abilities": [
+        "Garra dura",
+        "Francotirador"
+    ],
+    "hidden abilities": [
+        "Hurto"
+    ],
+    "stats": {
+        "hp": 72,
+        "atk": 105,
+        "def": 115,
+        "atk esp": 54,
+        "def esp": 86,
+        "speed": 68
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Binacle (nivel 39)",
+            "Especial: Safari Amistad, en algunos safaris de tipo roca"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Binacle (nivel 39)",
+            "Especial: Safari Amistad, en algunos safaris de tipo roca"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Binacle (nivel 39)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Binacle (nivel 39)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 9, Cuenca Polvorienta y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Espejo del Gigante, nido en la laguna, Lago Axew (oeste), nido en el agua (oeste), Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago, Silla del Gigante, nido al sureste, nidos en Playa Desafío , Prado Reverencia , Bahía Circular, Mar Gimnástico  y Mar Andana ",
+            "Evolucionar: a Binacle (nivel 39)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 9, Cuenca Polvorienta y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Espejo del Gigante, nido en la laguna, Lago Axew (oeste), nido en el agua (oeste), Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago, Silla del Gigante, nido al sureste, nidos en Playa Desafío , Prado Reverencia , Bahía Circular, Mar Gimnástico  y Mar Andana ",
+            "Evolucionar: a Binacle (nivel 39)"
+        ],
+        "Diamante Brillante": [
+            "Barbaracle no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Barbaracle no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Barbaracle no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Al evolucionar, los dos Binacle se dividen y dan lugar a siete criaturas que se aglomeran formando un Barbaracle y suman su poder al combatir.",
+        "Pokémon Y": "Si bien todas las extremidades de Barbaracle tienen cerebro propio y se mueven a su antojo, suelen seguir órdenes que imparte la cabeza.",
+        "Rubí Omega": "Al evolucionar, los dos Binacle se dividen y dan lugar a siete criaturas que se aglomeran formando un Barbaracle y suman su poder al combatir.",
+        "Zafiro Alfa": "Si bien todas las extremidades de Barbaracle tienen cerebro propio y se mueven a su antojo, suelen seguir órdenes que imparte la cabeza.",
+        "Sol": "No hay entrada de Barbaracle en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Barbaracle en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Barbaracle en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Barbaracle en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Su cuerpo está formado por siete Binacle. El situado en la posición central a modo de cabeza suele impartir las órdenes a las extremidades.",
+        "Escudo": "Los ojos de las manos le permiten ver en todas direcciones. En caso de apuro, sus extremidades se mueven solas para derribar al enemigo.",
+        "Diamante Brillante": "Barbaracle no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Barbaracle no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Barbaracle no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Binacle",
+            "Nivel 39",
+            "Barbaracle"
+        ]
+    ]
+}

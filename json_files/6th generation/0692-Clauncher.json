@@ -1,0 +1,85 @@
+{
+    "dex number": "0692",
+    "pokemon name": "Clauncher",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Megadisparador"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 50,
+        "atk": 53,
+        "def": 62,
+        "atk esp": 58,
+        "def esp": 63,
+        "speed": 44
+    },
+    "location": {
+        "Pokémon X": [
+            "Pescando: Ruta 8, Pueblo Petroglifo y Ciudad Relieve (pescando con caña buena)"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de de Pokémon X o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de de Pokémon X o Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 105, Ruta 106, Ruta 107, Ruta 108 y Ruta 109, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Criando: de Clawitzer"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Salvaje: Mar Andana , Mar Gimnástico , Mar Meloso , Mar Islejos  e Isla Melosa ",
+            "Incursiones Dinamax: nidos en Mar Andana , Mar Gimnástico , Mar Meloso  y Mar Islejos "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Clauncher no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Clauncher no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Clauncher no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Abate a enemigos voladores disparando agua a presión con su enorme pinza como si de una pistola se tratara.",
+        "Pokémon Y": "Al explotar el gas que se halla en su interior, expulsa un chorro de agua cual pistola, que a bocajarro es incluso capaz de pulverizar rocas.",
+        "Rubí Omega": "Abate a enemigos voladores disparando agua a presión con su enorme pinza como si de una pistola se tratara.",
+        "Zafiro Alfa": "Al explotar el gas que se halla en su interior, expulsa un chorro de agua cual pistola, que a bocajarro es incluso capaz de pulverizar rocas.",
+        "Sol": "No hay entrada de Clauncher en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Clauncher en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "En alguna que otra ocasión se le cae la pinza, y hasta que le crece de nuevo vive aislado. La carne del interior de las pinzas es deliciosa.",
+        "Ultraluna": "Para moverse, expulsa chorros de agua por su pinza derecha. Tiene muy mal equilibrio, por lo que es incapaz de nadar en línea recta.",
+        "Espada": "Aunque pierda una pinza en combate, volverá a crecerle. La carne del interior de sus pinzas es considerada un auténtico manjar en Galar.",
+        "Escudo": "Acalla a sus enemigos con balas de agua que dispara haciendo explotar el gas de su pinza derecha.",
+        "Diamante Brillante": "Clauncher no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Clauncher no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Clauncher no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Clauncher",
+            "Nivel 37",
+            "Clawitzer"
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "dex number": "0679",
+    "pokemon name": "Honedge",
+    "types": [
+        "acero",
+        "fantasma"
+    ],
+    "abilities": [
+        "Indefenso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 45,
+        "atk": 80,
+        "def": 100,
+        "atk esp": 35,
+        "def esp": 37,
+        "speed": 28
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 6"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 6"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Escáner insular: Afueras de Akala (miércoles)"
+        ],
+        "Luna": [
+            "Escáner insular: Afueras de Akala (miércoles)"
+        ],
+        "Ultrasol": [
+            "Escáner insular: Afueras de Akala (miércoles)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Afueras de Akala (miércoles)"
+        ],
+        "Espada": [
+            "Salvaje: Cornisa de Artejo",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Cuenca Polvorienta, nido al noroeste entre troncos, Llanura Pétrea, nido al sureste y Silla del Gigante, nido al centro junto a la pared"
+        ],
+        "Escudo": [
+            "Salvaje: Cornisa de Artejo",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Cuenca Polvorienta, nido al noroeste entre troncos, Llanura Pétrea, nido al noreste junto a una pared 1, Llanura Pétrea, nido al sureste y Silla del Gigante, nido al centro junto a la pared"
+        ],
+        "Diamante Brillante": [
+            "Honedge no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Honedge no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Honedge no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Cuentan que este Pokémon nace cuando el espíritu de un difunto toma posesión de una espada antigua. Se aferra a las personas y absorbe su energía.",
+        "Pokémon Y": "Si alguien osa empuñarlo, se enrolla en el brazo del desafortunado con su paño azul y le absorbe toda la energía hasta que pierde el sentido.",
+        "Rubí Omega": "Cuentan que este Pokémon nace cuando el espíritu de un difunto toma posesión de una espada antigua. Se aferra a las personas y absorbe su energía.",
+        "Zafiro Alfa": "Si alguien osa empuñarlo, se enrolla en el brazo del desafortunado con su paño azul y le absorbe toda la energía hasta que pierde el sentido.",
+        "Sol": "No hay entrada de Honedge en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Honedge en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Honedge en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Honedge en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Su alma es la de un ser humano que poseyó la misma espada que lo abatió en tiempos remotos.",
+        "Escudo": "El ojo azul de la empuñadura es su verdadero cuerpo. Absorbe la energía vital de las personas con su paño de aspecto andrajoso.",
+        "Diamante Brillante": "Honedge no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Honedge no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Honedge no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Honedge",
+            "Nivel 35",
+            "Doublade",
+            "Piedra noche ",
+            "Aegislash"
+        ]
+    ]
+}

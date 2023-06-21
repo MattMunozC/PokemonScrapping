@@ -1,0 +1,89 @@
+{
+    "dex number": "0681",
+    "pokemon name": "Aegislash",
+    "types": [
+        "acero",
+        "fantasma"
+    ],
+    "abilities": [
+        "Cambio táctico"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 60,
+        "atk": 50,
+        "def": 150,
+        "atk esp": 50,
+        "def esp": 150,
+        "speed": 60
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Doublade (usando piedra noche)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Doublade (usando piedra noche)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Evolucionar: a Doublade (usando piedra noche)"
+        ],
+        "Luna": [
+            "Evolucionar: a Doublade (usando piedra noche)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Doublade (usando piedra noche)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Doublade (usando piedra noche)"
+        ],
+        "Espada": [
+            "Salvaje: Gorro del Gigante",
+            "Incursiones Dinamax: nido junto a la pared y Antigua Atalaya, nido junto a la pared",
+            "Evolucionar: a Doublade (usando piedra noche)"
+        ],
+        "Escudo": [
+            "Salvaje: Gorro del Gigante",
+            "Incursiones Dinamax: nido junto a la pared y Antigua Atalaya, nido junto a la pared",
+            "Evolucionar: a Doublade (usando piedra noche)"
+        ],
+        "Diamante Brillante": [
+            "Aegislash no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Aegislash no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Aegislash no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Han permanecido junto a estirpes de reyes durante generaciones. Mediante su poder espectral pueden controlar a humanos y a Pokémon.",
+        "Pokémon Y": "Al parecer, puede intuir si un humano tiene madera de rey. Según se dice, las personas que obtuvieron su reconocimiento acabaron siendo reyes.",
+        "Rubí Omega": "Han permanecido junto a estirpes de reyes durante generaciones. Mediante su poder espectral pueden controlar a humanos y a Pokémon.",
+        "Zafiro Alfa": "Al parecer, puede intuir si un humano tiene madera de rey. Según se dice, las personas que obtuvieron su reconocimiento acabaron siendo reyes.",
+        "Sol": "No hay entrada de Aegislash en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Aegislash en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Aegislash en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Aegislash en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "\nForma escudo: Gracias a su cuerpo de acero y a una barrera de poder espectral, crea una defensa que le permite mitigar prácticamente cualquier ataque.\nForma filo: Al adoptar esta forma, centra su estrategia en la ofensiva, aprovechando todo el peso y la fuerza del acero para atacar al rival.",
+        "Escudo": "\nForma escudo: Mediante el control ejercido con su inmenso poder espectral, logró que humanos y Pokémon le forjaran un país a medida de sus necesidades.\nForma filo: Antiguamente, un rey logró conquistar un país con la ayuda de este Pokémon, pero le costó la vida y condenó su nación a la ruina.",
+        "Diamante Brillante": "Aegislash no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Aegislash no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Aegislash no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Honedge",
+            "Nivel 35",
+            "Doublade",
+            "Piedra noche ",
+            "Aegislash"
+        ]
+    ]
+}

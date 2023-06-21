@@ -1,0 +1,124 @@
+{
+    "dex number": "0700",
+    "pokemon name": "Sylveon",
+    "types": [
+        "hada"
+    ],
+    "abilities": [
+        "Gran encanto"
+    ],
+    "hidden abilities": [
+        "Piel feérica"
+    ],
+    "stats": {
+        "hp": 95,
+        "atk": 65,
+        "def": 65,
+        "atk esp": 110,
+        "def esp": 130,
+        "speed": 60
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Eevee (2 corazones de afecto + movimiento de tipo hada + nivel)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Eevee (2 corazones de afecto + movimiento de tipo hada + nivel)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Eevee (2 corazones de afecto + movimiento de tipo hada + nivel)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Eevee (2 corazones de afecto + movimiento de tipo hada + nivel)"
+        ],
+        "Sol": [
+            "Evolucionar: a Eevee (2 corazones de afecto + movimiento de tipo hada + nivel)"
+        ],
+        "Luna": [
+            "Evolucionar: a Eevee (2 corazones de afecto + movimiento de tipo hada + nivel)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Eevee (2 corazones de afecto + movimiento de tipo hada + nivel)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Eevee (2 corazones de afecto + movimiento de tipo hada + nivel)"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado y Lecho del Gigante ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago del Enfado, nido al norte junto al lago. Nido en Lago Bolaguna ",
+            "Evolucionar: a Eevee (amistad alta + movimiento de tipo hada + nivel)"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado y Lecho del Gigante ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago del Enfado, nido al norte junto al lago. Nido en Lago Bolaguna ",
+            "Evolucionar: a Eevee (amistad alta + movimiento de tipo hada + nivel)"
+        ],
+        "Diamante Brillante": [
+            "Sylveon no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sylveon no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Distorsión espaciotemporal: Pradera Obsidiana.",
+            "Evolucionar: a Eevee (amistad alta + movimiento de tipo hada + nivel)"
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "A través de sus apéndices sensitivos con forma de cinta, emite unas ondas tranquilizadoras mediante las cuales detiene los combates.",
+        "Pokémon Y": "Enrolla sus apéndices sensoriales con forma de cinta en los brazos de su querido entrenador cuando caminan juntos.",
+        "Rubí Omega": "A través de sus apéndices sensitivos con forma de cinta, emite unas ondas tranquilizadoras mediante las cuales detiene los combates.",
+        "Zafiro Alfa": "Enrolla sus apéndices sensoriales con forma de cinta en los brazos de su querido entrenador cuando caminan juntos.",
+        "Sol": "Con sus apéndices sensoriales con forma de cinta, puede emitir ondas que neutralizan la hostilidad y hacen bajar la guardia a su presa.",
+        "Luna": "Al detectar a una presa, agita sus apéndices sensoriales con forma de cinta para distraerla y, cuando lo consigue, se abalanza sobre ella.",
+        "Ultrasol": "Cuando se enfrasca en un combate lo da todo sin titubear un segundo, aunque se enfrente a un Pokémon de tipo Dragón más grande que él.",
+        "Ultraluna": "Al rodear el brazo de su Entrenador con los apéndices sensoriales en forma de cintas, es capaz de comprender sus sentimientos.",
+        "Espada": "Con sus apéndices sensoriales en forma de cinta, puede emitir ondas que neutralizan la hostilidad y detener así cualquier contienda.",
+        "Escudo": "En un cuento infantil de Galar se narra la victoria de un Sylveon de extraordinaria belleza sobre un temible Pokémon de tipo Dragón.",
+        "Diamante Brillante": "Sylveon no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sylveon no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Emite ondas por sus apéndices en forma de lazo que calman la ira al instante. Puede acallar cualquier situación violenta envolviendo con ellos a los partícipes de una disputa."
+    },
+    "evolution": [
+        [
+            "Eevee",
+            "Piedra agua ",
+            "Vaporeon"
+        ],
+        [
+            "",
+            "Piedra trueno ",
+            "Jolteon"
+        ],
+        [
+            "",
+            "Piedra fuego ",
+            "Flareon"
+        ],
+        [
+            "",
+            "Amistad + nivel (día) ",
+            "Espeon"
+        ],
+        [
+            "",
+            "Amistad + nivel (noche) ",
+            "Umbreon"
+        ],
+        [
+            "",
+            "Subir nivel cerca de la roca musgo 1; o piedra hoja 2",
+            "Leafeon"
+        ],
+        [
+            "",
+            "Subir nivel cerca de la roca hielo 1; o piedra hielo 2",
+            "Glaceon"
+        ],
+        [
+            "",
+            "2 corazones de afecto1/160 de amistad2 + nivel + conocer un movimiento de hada",
+            "Sylveon"
+        ]
+    ]
+}

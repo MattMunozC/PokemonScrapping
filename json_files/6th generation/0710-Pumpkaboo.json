@@ -1,0 +1,90 @@
+{
+    "dex number": "0710",
+    "pokemon name": "Pumpkaboo",
+    "types": [
+        "fantasma",
+        "planta"
+    ],
+    "abilities": [
+        "Recogida",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Insomnio"
+    ],
+    "stats": {
+        "hp": 44,
+        "atk": 66,
+        "def": 70,
+        "atk esp": 44,
+        "def esp": 55,
+        "speed": 56
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 16",
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma (solo tamaño normal)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 16",
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma (solo tamaño normal)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 4, Espejo del Gigante y Cornisa de Artejo",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Arboleda Claroscuro, nido al norte 1, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte y Llanura Pétrea, nido al noreste junto a una pared 2."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 4, Espejo del Gigante y Cornisa de Artejo",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Arboleda Claroscuro, nido al norte 1, Espejo del Gigante, nido al sur y Llanura Pétrea, nido al noreste junto a una pared 2"
+        ],
+        "Diamante Brillante": [
+            "Pumpkaboo no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pumpkaboo no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pumpkaboo no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "En el interior de la calabaza reside un espíritu que ha permanecido atrapado en este mundo. Entra en acción al caer la noche.",
+        "Pokémon Y": "Se dice que este Pokémon se dedica a guiar las almas errantes al otro mundo para que así puedan descansar en paz durante toda la eternidad.",
+        "Rubí Omega": "En el interior de la calabaza reside un espíritu que ha permanecido atrapado en este mundo. Entra en acción al caer la noche.",
+        "Zafiro Alfa": "Se dice que este Pokémon se dedica a guiar las almas errantes al otro mundo para que así puedan descansar en paz durante toda la eternidad.",
+        "Sol": "No hay entrada de Pumpkaboo en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Pumpkaboo en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Pumpkaboo en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Pumpkaboo en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "\nTamaño pequeño: A los Pumpkaboo Tamaño Pequeño les encanta guiar las almas de los niños al otro mundo.\nTamaño normal: Las almas errantes de este mundo se introducen en su cuerpo e inician así su viaje al más allá.\nTamaño grande: A los Pumpkaboo Tamaño Grande les encanta guiar las almas de los adultos al otro mundo.\nTamaño extragrande: A los Pumpkaboo Tamaño Extragrande les encanta guiar al otro mundo las almas de personas especialmente voluminosas.",
+        "Escudo": "\nTamaño pequeño: Se atribuye su pequeño tamaño al hecho de haber vivido en un lugar donde no abundaban las almas errantes.\nTamaño normal: La luz que emite por los orificios de la calabaza hipnotiza a humanos y Pokémon y los deja bajo su control.\nTamaño grande: Se atribuye su gran tamaño al hecho de haber vivido en un lugar donde no escaseaban las almas errantes.\nTamaño extragrande: Se atribuye su enorme tamaño al hecho de haber vivido en un lugar donde abundaban las almas errantes.",
+        "Diamante Brillante": "Pumpkaboo no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pumpkaboo no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pumpkaboo no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Pumpkaboo",
+            "Intercambio",
+            "Gourgeist"
+        ]
+    ]
+}

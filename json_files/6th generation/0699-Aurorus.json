@@ -1,0 +1,91 @@
+{
+    "dex number": "0699",
+    "pokemon name": "Aurorus",
+    "types": [
+        "roca",
+        "hielo"
+    ],
+    "abilities": [
+        "Piel helada"
+    ],
+    "hidden abilities": [
+        "Nevada"
+    ],
+    "stats": {
+        "hp": 123,
+        "atk": 77,
+        "def": 72,
+        "atk esp": 99,
+        "def esp": 92,
+        "speed": 58
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Amaura (nivel 39 + noche)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Amaura (nivel 39 + noche)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Amaura (nivel 39 + noche)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Amaura (nivel 39 + noche)"
+        ],
+        "Espada": [
+            "Salvaje: Desfiladero Nevado ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Desfiladero Nevado  y Mar Gélido ",
+            "Evolucionar: a Amaura (nivel 39 + noche)"
+        ],
+        "Escudo": [
+            "Salvaje: Desfiladero Nevado ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Campo Deslizante , Desfiladero Nevado  y Mar Gélido ",
+            "Evolucionar: a Amaura (nivel 39 + noche)"
+        ],
+        "Diamante Brillante": [
+            "Aurorus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Aurorus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Aurorus no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Expulsa gas gélido a temperaturas inferiores a los -150 ºC a través de sus cristales romboides y congela así a su enemigo.",
+        "Pokémon Y": "Gracias a sus cristales con forma de rombo, puede crear al momento una barrera de hielo para bloquear el ataque de su enemigo.",
+        "Rubí Omega": "Expulsa gas gélido a temperaturas inferiores a los -150 ºC a través de sus cristales romboides y congela así a su enemigo.",
+        "Zafiro Alfa": "Gracias a sus cristales con forma de rombo, puede crear al momento una barrera de hielo para bloquear el ataque de su enemigo.",
+        "Sol": "No hay entrada de Aurorus en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Aurorus en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "El descubrimiento de un Aurorus en perfecto estado de conservación en el interior de un iceberg se convirtió en noticia.",
+        "Ultraluna": "La superficie de su cuerpo se mantiene a una temperatura de -150 ºC. Por lo general, es un Pokémon muy dócil y afable.",
+        "Espada": "Fue regenerado a partir de un fósil. Dicen que el rugido de Aurorus hace aparecer la aurora boreal en el cielo nocturno.",
+        "Escudo": "Cuando se deja llevar por la ira, emite un vaho extremadamente gélido que lo congela todo a su alrededor.",
+        "Diamante Brillante": "Aurorus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Aurorus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Aurorus no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Amaura",
+            "Nivel 39 (noche) ",
+            "Aurorus"
+        ]
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "dex number": "0665",
+    "pokemon name": "Spewpa",
+    "types": [
+        "bicho"
+    ],
+    "abilities": [
+        "Mudar"
+    ],
+    "hidden abilities": [
+        "Compiescolta"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 22,
+        "def": 60,
+        "atk esp": 27,
+        "def esp": 30,
+        "speed": 29
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Scatterbug (nivel 9)",
+            "Salvaje: Ruta 7 en los árboles de bayas"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Scatterbug (nivel 9)",
+            "Salvaje: Ruta 7 en los árboles de bayas"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Scatterbug (nivel 9)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Scatterbug (nivel 9)"
+        ],
+        "Espada": [
+            "Spewpa no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Spewpa no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Spewpa no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Spewpa no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Spewpa no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Habita en la sombra de la espesura. Si percibe alguna amenaza, su pelaje se eriza y se vuelve muy afilado para así intimidar al enemigo.",
+        "Pokémon Y": "Su cuerpo es tan duro que ni siquiera los Pokémon pájaro pueden hacerle el menor rasguño con sus picos. Esparce polvo de escamas para defenderse.",
+        "Rubí Omega": "Habita en la sombra de la espesura. Si percibe alguna amenaza, su pelaje se eriza y se vuelve muy afilado para así intimidar al enemigo.",
+        "Zafiro Alfa": "Su cuerpo es tan duro que ni siquiera los Pokémon pájaro pueden hacerle el menor rasguño con sus picos. Esparce polvo de escamas para defenderse.",
+        "Sol": "No hay entrada de Spewpa en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Spewpa en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Spewpa en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Spewpa en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Spewpa no aparece en Pokémon Espada.",
+        "Escudo": "Spewpa no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Spewpa no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Spewpa no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Spewpa no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Scatterbug",
+            "Nivel 9",
+            "Spewpa",
+            "Nivel 12",
+            "Vivillon"
+        ]
+    ]
+}

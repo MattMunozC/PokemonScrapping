@@ -1,0 +1,91 @@
+{
+    "dex number": "0674",
+    "pokemon name": "Pancham",
+    "types": [
+        "lucha"
+    ],
+    "abilities": [
+        "Puño férreo",
+        "Rompemoldes"
+    ],
+    "hidden abilities": [
+        "Intrépido"
+    ],
+    "stats": {
+        "hp": 67,
+        "atk": 82,
+        "def": 62,
+        "atk esp": 46,
+        "def esp": 48,
+        "speed": 43
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 5",
+            "Especial: Safari Amistad, en algunos safaris de tipo lucha"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 5",
+            "Especial: Safari Amistad, en algunos safaris de tipo lucha"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Salvaje: Ruta 10, Ruta 11 y Ruta 17"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 10, Ruta 11 y Ruta 17"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 10 y Ruta 11"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 10 y Ruta 11"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 3, Pradera Radiante, Lago Axew (oeste) y Lago Axew (este)",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste y Lago Milotic (norte), nido junto al lago",
+            "Curri: Ruta 3"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 3, Pradera Radiante, Lago Axew (oeste) y Lago Axew (este)",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste y Lago Milotic (norte), nido junto al lago",
+            "Curri: Ruta 3"
+        ],
+        "Diamante Brillante": [
+            "Pancham no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pancham no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pancham no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Se esfuerza mucho para que el enemigo no lo menosprecie, pero su mirada no intimida demasiado. Se caracteriza por mascar siempre una hoja.",
+        "Pokémon Y": "Se desvive tratando de fulminar a su rival con una mirada aterradora, pero en cuanto le acarician la cabeza, no puede evitar sonreír de oreja a oreja.",
+        "Rubí Omega": "Se esfuerza mucho para que el enemigo no lo menosprecie, pero su mirada no intimida demasiado. Se caracteriza por mascar siempre una hoja.",
+        "Zafiro Alfa": "Se desvive tratando de fulminar a su rival con una mirada aterradora, pero en cuanto le acarician la cabeza, no puede evitar sonreír de oreja a oreja.",
+        "Sol": "En su afán por madurar, toma como modelo a Pangoro, hacia el que profesa sumo respeto. Para él es como una especie de mentor.",
+        "Luna": "Solo masca la hoja que lleva porque le gusta el aire que le confiere. Su carácter pícaro lo hace incompatible con los Entrenadores novatos.",
+        "Ultrasol": "Sigue los pasos de Pangoro, a quien considera su maestro. En caso de cometer un grave error, este le arrebata la hierba de la boca.",
+        "Ultraluna": "Intenta amedrentar a su oponente a toda costa. Si fija la mirada en alguien, solo hay que aparentar tener miedo para hacerlo feliz.",
+        "Espada": "Sigue los pasos de Pangoro, a quien considera su mentor. A base de imitarlo, aprende a combatir y a cazar presas.",
+        "Escudo": "Siempre lanza una mirada fulminante al rival para que no lo menosprecie, pero en cuanto se relaja esboza sin querer una sonrisa.",
+        "Diamante Brillante": "Pancham no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pancham no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pancham no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Pancham",
+            "Nivel 32 + Pokémon de tipo siniestroen el equipo",
+            "Pangoro"
+        ]
+    ]
+}

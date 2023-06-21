@@ -1,0 +1,90 @@
+{
+    "dex number": "0668",
+    "pokemon name": "Pyroar",
+    "types": [
+        "fuego",
+        "normal"
+    ],
+    "abilities": [
+        "Rivalidad",
+        "Nerviosismo"
+    ],
+    "hidden abilities": [
+        "Autoestima"
+    ],
+    "stats": {
+        "hp": 86,
+        "atk": 68,
+        "def": 72,
+        "atk esp": 109,
+        "def esp": 66,
+        "speed": 106
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Litleo (nivel 35)",
+            "Especial: Safari amistad, en algunos safaris de tipo fuego"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Litleo (nivel 35)",
+            "Especial: Safari amistad, en algunos safaris de tipo fuego"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: De Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: De Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: De Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: De Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Llanura de Poni"
+        ],
+        "Ultraluna": [
+            "Salvaje: Llanura de Poni"
+        ],
+        "Espada": [
+            "Pyroar no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Pyroar no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Pyroar no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pyroar no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pyroar no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "El macho con la melena de fuego más grande de toda la manada es el líder de sus compañeros.",
+        "Pokémon Y": "Intimida con ferocidad al enemigo exhalando su aliento abrasador a 6000 °C de temperatura. Las hembras protegen a los cachorros de la manada.",
+        "Rubí Omega": "El macho con la melena de fuego más grande de toda la manada es el líder de sus compañeros.",
+        "Zafiro Alfa": "Intimida con ferocidad al enemigo exhalando su aliento abrasador a 6000 °C de temperatura. Las hembras protegen a los cachorros de la manada.",
+        "Sol": "No hay entrada de Pyroar en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Pyroar en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Por lo general, el macho suele ser un holgazán, pero si aparece un enemigo poderoso, no duda en plantarle cara para proteger a los suyos.",
+        "Ultraluna": "Su aliento alcanza temperaturas de 6000 ºC, aunque no lo emplea contra sus presas, ya que prefiere la carne más bien cruda.",
+        "Espada": "Pyroar no aparece en Pokémon Espada.",
+        "Escudo": "Pyroar no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Pyroar no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pyroar no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pyroar no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Litleo",
+            "Nivel 35",
+            "Pyroar"
+        ]
+    ]
+}

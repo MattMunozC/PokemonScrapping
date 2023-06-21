@@ -1,0 +1,96 @@
+{
+    "dex number": "0675",
+    "pokemon name": "Pangoro",
+    "types": [
+        "lucha",
+        "siniestro"
+    ],
+    "abilities": [
+        "Puño férreo",
+        "Rompemoldes"
+    ],
+    "hidden abilities": [
+        "Intrépido"
+    ],
+    "stats": {
+        "hp": 95,
+        "atk": 124,
+        "def": 78,
+        "atk esp": 69,
+        "def esp": 71,
+        "speed": 58
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Pancham (nivel 32 + Pokémon de tipo siniestro en el equipo)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Pancham (nivel 32 + Pokémon de tipo siniestro en el equipo)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Salvaje: Rutas 10, 11 y 17 (como refuerzo de Pancham)",
+            "Evolucionar: a Pancham (nivel 32 + Pokémon de tipo siniestro en el equipo)"
+        ],
+        "Luna": [
+            "Salvaje: Rutas 10, 11 y 17 (como refuerzo de Pancham)",
+            "Evolucionar: a Pancham (nivel 32 + Pokémon de tipo siniestro en el equipo)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Rutas 10 y 11 (como refuerzo de Pancham)",
+            "Evolucionar: a Pancham (nivel 32 + Pokémon de tipo siniestro en el equipo)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Rutas 10, 11 y 17 (como refuerzo de Pancham)",
+            "Evolucionar: a Pancham (nivel 32 + Pokémon de tipo siniestro en el equipo)"
+        ],
+        "Espada": [
+            "Salvaje: Pradera Radiante, Arboleda Claroscuro, Valle Entrepuentes y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna. Con posible habilidad oculta: Cuenca Polvorienta, nido al suroeste",
+            "Evolucionar: a Pancham (nivel 32 + Pokémon de tipo siniestro en el equipo)"
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante, Arboleda Claroscuro, Valle Entrepuentes y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna. Con posible habilidad oculta: Cuenca Polvorienta, nido al suroeste",
+            "Evolucionar: a Pancham (nivel 32 + Pokémon de tipo siniestro en el equipo)"
+        ],
+        "Diamante Brillante": [
+            "Pangoro no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pangoro no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pangoro no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Es muy temperamental, pero no permite que nadie se meta con los débiles. Mediante su hoja, predice los movimientos del enemigo.",
+        "Pokémon Y": "No se arredra ante los ataques y embiste con una fuerza tan abrumadora que sería capaz de derribar un robusto poste telefónico de hormigón.",
+        "Rubí Omega": "Es muy temperamental, pero no permite que nadie se meta con los débiles. Mediante su hoja, predice los movimientos del enemigo.",
+        "Zafiro Alfa": "No se arredra ante los ataques y embiste con una fuerza tan abrumadora que sería capaz de derribar un robusto poste telefónico de hormigón.",
+        "Sol": "Su aspecto imponente rinde justicia a la fuerza de la que hace gala. Todo aspirante a entrenarlo deberá entender el lenguaje de los puños.",
+        "Luna": "Predice los movimientos del enemigo mediante su hoja. Pese a su carácter temperamental, se muestra muy afable con sus compañeros.",
+        "Ultrasol": "Pokémon un tanto agresivo que se jacta de la fuerza de sus puños. A muchos Entrenadores les llama la atención su carácter atrevido.",
+        "Ultraluna": "Prefiere solucionar las disputas a mamporros. Puede embestir un camión y hacerlo volar por los aires a largas distancias sin despeinarse.",
+        "Espada": "Este Pokémon de carácter agresivo lo soluciona todo a golpes. Desata su espíritu combativo al enfrentarse a los Obstagoon.",
+        "Escudo": "La hoja que lleva en la boca le permite predecir los movimientos del rival. Puede reducir un camión a chatarra de un solo puñetazo.",
+        "Diamante Brillante": "Pangoro no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pangoro no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pangoro no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Pancham",
+            "Nivel 32 + Pokémon de tipo siniestroen el equipo",
+            "Pangoro"
+        ]
+    ]
+}

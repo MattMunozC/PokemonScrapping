@@ -1,0 +1,97 @@
+{
+    "dex number": "0706",
+    "pokemon name": "Goodra",
+    "types": [
+        "dragón"
+    ],
+    "abilities": [
+        "Herbívoro",
+        "Hidratación"
+    ],
+    "hidden abilities": [
+        "Baba"
+    ],
+    "stats": {
+        "hp": 90,
+        "atk": 100,
+        "def": 70,
+        "atk esp": 110,
+        "def esp": 150,
+        "speed": 80
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Sliggoo (nivel 50 + clima lluvioso)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Sliggoo (nivel 50 + clima lluvioso)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Evolucionar: a Sliggoo (nivel 50 + clima lluvioso o niebla)"
+        ],
+        "Luna": [
+            "Evolucionar: a Sliggoo (nivel 50 + clima lluvioso o niebla)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Sliggoo (nivel 50 + clima lluvioso o niebla)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Sliggoo (nivel 50 + clima lluvioso o niebla)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Bahía Circular , Mar Gimnástico  y Mar Meloso ",
+            "Evolucionar: a Sliggoo (nivel 50 + clima lluvioso)"
+        ],
+        "Diamante Brillante": [
+            "Goodra no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Goodra no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Goodra no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Pokémon de tipo Dragón muy afable al que le gusta abrazar con efusión a su Entrenador, aunque después lo deja totalmente pringado.",
+        "Pokémon Y": "Ataca con sus antenas retráctiles, desplegando una fuerza comparable a los puñetazos de 100 boxeadores profesionales.",
+        "Rubí Omega": "Pokémon de tipo Dragón muy afable al que le gusta abrazar con efusión a su Entrenador, aunque después lo deja totalmente pringado.",
+        "Zafiro Alfa": "Ataca con sus antenas retráctiles, desplegando una fuerza comparable a los puñetazos de 100 boxeadores profesionales.",
+        "Sol": "Es muy afable y cariñoso. Si lo ignoran, le invade la tristeza y llora lágrimas viscosas.",
+        "Luna": "Golpea con sus antenas retráctiles y derriba con su gruesa cola a aquellos que se burlan de él creyendo que es inofensivo.",
+        "Ultrasol": "Un Pokémon muy amistoso que demuestra su afecto con abrazos viscosos y gelatinosos. Se necesita algo de estoicismo para no apartarse.",
+        "Ultraluna": "Debajo de su resbaladiza piel cuenta con una voluminosa capa de grasa que le permite bloquear los ataques enemigos.",
+        "Espada": "A veces no entiende las instrucciones de su Entrenador y se queda como abstraído, pero mucha gente encuentra este rasgo adorable.",
+        "Escudo": "Ataca extendiendo sus largas antenas. La fuerza que despliega es 100 veces superior a la del puñetazo de un boxeador de peso pesado.",
+        "Diamante Brillante": "Goodra no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Goodra no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Goodra no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Goomy",
+            "Nivel 40 (fuera de Hisui)",
+            "Sliggoo",
+            "",
+            "Nivel 50 +lluvia (fuera de Hisui)",
+            "Goodra"
+        ],
+        [
+            "",
+            "Nivel 40 (en Hisui)",
+            "Sliggoo de Hisui",
+            "",
+            "Nivel 50 +lluvia (en Hisui)",
+            "Goodra de Hisui"
+        ]
+    ]
+}

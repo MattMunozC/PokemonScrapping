@@ -1,0 +1,87 @@
+{
+    "dex number": "0659",
+    "pokemon name": "Bunnelby",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Recogida",
+        "Carrillo"
+    ],
+    "hidden abilities": [
+        "Potencia"
+    ],
+    "stats": {
+        "hp": 38,
+        "atk": 36,
+        "def": 38,
+        "atk esp": 32,
+        "def esp": 36,
+        "speed": 57
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 2, Ruta 3, Ruta 5 y Ruta 22"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 2, Ruta 3, Ruta 5 y Ruta 22"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Pradera Radiante, Arboleda Claroscuro, Lago Axew (este), Gorro del Gigante, Lago Milotic (norte) y Lago Axew (oeste)",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste"
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante, Arboleda Claroscuro, Lago Axew (este), Gorro del Gigante, Lago Milotic (norte) y Lago Axew (oeste)",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste"
+        ],
+        "Diamante Brillante": [
+            "Bunnelby no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Bunnelby no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Bunnelby no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Usa sus grandes orejas para excavar en la tierra y así crear madrigueras. Puede pasarse una noche entera cavando sin parar.",
+        "Pokémon Y": "Tiene unas orejas tan grandes que parecen palas. Las ha fortalecido tanto usándolas para excavar que son capaces de arrancar raíces bien gruesas.",
+        "Rubí Omega": "Usa sus grandes orejas para excavar en la tierra y así crear madrigueras. Puede pasarse una noche entera cavando sin parar.",
+        "Zafiro Alfa": "Tiene unas orejas tan grandes que parecen palas. Las ha fortalecido tanto usándolas para excavar que son capaces de arrancar raíces bien gruesas.",
+        "Sol": "No hay entrada de Bunnelby en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Bunnelby en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Bunnelby en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Bunnelby en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Usa hábilmente las orejas para hacer hoyos. Es capaz de excavar una madriguera a 10 m bajo tierra en una sola noche.",
+        "Escudo": "Está en alerta permanente. En cuanto oye el batir de alas de un Corviknight, cava un agujero y se oculta bajo tierra.",
+        "Diamante Brillante": "Bunnelby no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Bunnelby no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Bunnelby no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Bunnelby",
+            "Nivel 20",
+            "Diggersby"
+        ]
+    ]
+}

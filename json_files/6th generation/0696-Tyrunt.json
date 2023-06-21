@@ -1,0 +1,89 @@
+{
+    "dex number": "0696",
+    "pokemon name": "Tyrunt",
+    "types": [
+        "roca",
+        "dragón"
+    ],
+    "abilities": [
+        "Mandíbula fuerte"
+    ],
+    "hidden abilities": [
+        "Robustez"
+    ],
+    "stats": {
+        "hp": 58,
+        "atk": 89,
+        "def": 77,
+        "atk esp": 45,
+        "def esp": 45,
+        "speed": 48
+    },
+    "location": {
+        "Pokémon X": [
+            "Especial: Revivir el fósil mandíbula en el Instituto Paleontológico"
+        ],
+        "Pokémon Y": [
+            "Especial: Revivir el fósil mandíbula en el Instituto Paleontológico"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Especial: Revivir el fósil mandíbula en la Ruta 8"
+        ],
+        "Ultraluna": [
+            "Especial: Revivir el fósil mandíbula en la Ruta 8"
+        ],
+        "Espada": [
+            "Salvaje: Lago Bolaguna ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Lago Bolaguna ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Tyrunt no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tyrunt no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Tyrunt no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Pokémon recreado a partir de fósiles. Cuando sucede algo que no es de su agrado, se enfurece y se vuelve violento.",
+        "Pokémon Y": "Su gran mandíbula posee una potencia tan atroz que sería capaz de destruir a bocados un coche. Ya vivía hace la friolera de 100 millones de años",
+        "Rubí Omega": "Pokémon recreado a partir de fósiles. Cuando sucede algo que no es de su agrado, se enfurece y se vuelve violento.",
+        "Zafiro Alfa": "Su gran mandíbula posee una potencia tan atroz que sería capaz de destruir a bocados un coche. Ya vivía hace la friolera de 100 millones de años",
+        "Sol": "No hay entrada de Tyrunt en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Tyrunt en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Puede ejercer una enorme presión con su gran mandíbula. Se cree que esta especie regenerada a partir de un fósil difiere de la de tiempo ha.",
+        "Ultraluna": "Un tanto egoísta y malcriado. Aunque solo esté bromeando, a veces puede causar graves heridas a sus compañeros de juegos.",
+        "Espada": "Pokémon prehistórico recreado a partir de un fósil. De carácter violento y egoísta, sus enormes mandíbulas pueden triturar cualquier cosa.",
+        "Escudo": "Un Pokémon un tanto egoísta y malcriado. Puede ocasionar graves lesiones a su Entrenador incluso jugando.",
+        "Diamante Brillante": "Tyrunt no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tyrunt no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Tyrunt no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Tyrunt",
+            "Nivel 39 (día) ",
+            "Tyrantrum"
+        ]
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "dex number": "0676",
+    "pokemon name": "Furfrou",
+    "types": [
+        "normal"
+    ],
+    "abilities": [
+        "Pelaje recio"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 75,
+        "atk": 80,
+        "def": 60,
+        "atk esp": 65,
+        "def esp": 90,
+        "speed": 102
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 5"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 5"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 2, Ciudad Hauoli, Antiguo Paso de Poni y Prado de Poni"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 2, Ciudad Hauoli, Antiguo Paso de Poni y Prado de Poni"
+        ],
+        "Espada": [
+            "Furfrou no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Furfrou no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Furfrou no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Furfrou no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Furfrou no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Cuando le esquilan su mullido pelaje, no solo mejora su apariencia, sino que aumenta su agilidad.",
+        "Pokémon Y": "Antiguamente, estos Pokémon desempeñaban el cometido de guardián del rey en la región de Kalos.",
+        "Rubí Omega": "Cuando le esquilan su mullido pelaje, no solo mejora su apariencia, sino que aumenta su agilidad.",
+        "Zafiro Alfa": "Antiguamente, estos Pokémon desempeñaban el cometido de guardián del rey en la región de Kalos.",
+        "Sol": "No hay entrada de Furfrou en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Furfrou en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Hubo una época en la que los aristócratas competían entre ellos procurando que el corte de pelo de su Furfrou fuera el mejor de todos.",
+        "Ultraluna": "El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.",
+        "Espada": "Furfrou no aparece en Pokémon Espada.",
+        "Escudo": "Furfrou no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Furfrou no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Furfrou no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Furfrou no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Furfrou"
+        ]
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "dex number": "0655",
+    "pokemon name": "Delphox",
+    "types": [
+        "fuego",
+        "psíquico"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Prestidigitador"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 69,
+        "def": 72,
+        "atk esp": 114,
+        "def esp": 100,
+        "speed": 104
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Braixen (nivel 36)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Braixen (nivel 36)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Escáner insular: Antiguo Paso de Poni (sábado)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Antiguo Paso de Poni (sábado)"
+        ],
+        "Espada": [
+            "Delphox no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Delphox no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Delphox no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Delphox no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Delphox no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Fija la mirada en la llama que arde en la punta de su bastón para concentrarse y prever sucesos que tienen lugar en el futuro.",
+        "Pokémon Y": "Sus poderes psíquicos le permiten controlar vórtices de fuego a 3000 ºC que envuelven y calcinan a sus enemigos.",
+        "Rubí Omega": "Fija la mirada en la llama que arde en la punta de su bastón para concentrarse y prever sucesos que tienen lugar en el futuro.",
+        "Zafiro Alfa": "Sus poderes psíquicos le permiten controlar vórtices de fuego a 3000 ºC que envuelven y calcinan a sus enemigos.",
+        "Sol": "No hay entrada de Delphox en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Delphox en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Delphox en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Delphox en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Delphox no aparece en Pokémon Espada.",
+        "Escudo": "Delphox no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Delphox no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Delphox no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Delphox no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Fennekin",
+            "Nivel 16",
+            "Braixen",
+            "Nivel 36",
+            "Delphox"
+        ]
+    ]
+}

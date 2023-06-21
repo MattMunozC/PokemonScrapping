@@ -1,0 +1,92 @@
+{
+    "dex number": "0695",
+    "pokemon name": "Heliolisk",
+    "types": [
+        "eléctrico",
+        "normal"
+    ],
+    "abilities": [
+        "Piel seca",
+        "Velo arena"
+    ],
+    "hidden abilities": [
+        "Poder solar"
+    ],
+    "stats": {
+        "hp": 62,
+        "atk": 55,
+        "def": 52,
+        "atk esp": 109,
+        "def esp": 94,
+        "speed": 109
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Helioptile (piedra solar)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Helioptile (piedra solar)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde"
+        ],
+        "Espada": [
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Espejo del Gigante, nido al este y Lago del Enfado, nido al noreste junto al lago. Con posible habilidad oculta: Espejo del Gigante, nido al este, Lago Axew (este), nido al oeste de la entrada a ciudad Pistón y Pradera Radiante, nido cerca del Punto de Encuentro",
+            "Evolucionar: a Helioptile (piedra solar)"
+        ],
+        "Escudo": [
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Espejo del Gigante, nido al este y Lago del Enfado, nido al noreste junto al lago. Con posible habilidad oculta: Espejo del Gigante, nido al este, Lago Axew (este), nido al oeste de la entrada a ciudad Pistón y Pradera Radiante, nido cerca del Punto de Encuentro",
+            "Evolucionar: a Helioptile (piedra solar)"
+        ],
+        "Diamante Brillante": [
+            "Heliolisk no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Heliolisk no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Heliolisk no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Extiende su gorguera y genera energía eléctrica suficiente para cubrir el consumo de electricidad de un rascacielos entero.",
+        "Pokémon Y": "Si estimula sus músculos a base de electricidad, sus piernas alcanzan una potencia tal que puede recorrer 100 metros en apenas cinco segundos.",
+        "Rubí Omega": "Extiende su gorguera y genera energía eléctrica suficiente para cubrir el consumo de electricidad de un rascacielos entero.",
+        "Zafiro Alfa": "Si estimula sus músculos a base de electricidad, sus piernas alcanzan una potencia tal que puede recorrer 100 metros en apenas cinco segundos.",
+        "Sol": "No hay entrada de Heliolisk en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Heliolisk en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Heliolisk en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Heliolisk en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Venerado por una antigua civilización del desierto, ahora desaparecida, llegó a Galar junto a sus tesoros y reliquias.",
+        "Escudo": "Al extender su gorguera y exponerse a la luz solar, genera la energía eléctrica suficiente para cubrir el consumo de una metrópoli entera.",
+        "Diamante Brillante": "Heliolisk no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Heliolisk no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Heliolisk no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Helioptile",
+            "Piedra solar ",
+            "Heliolisk"
+        ]
+    ]
+}

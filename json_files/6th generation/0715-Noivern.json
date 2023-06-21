@@ -1,0 +1,92 @@
+{
+    "dex number": "0715",
+    "pokemon name": "Noivern",
+    "types": [
+        "volador",
+        "dragón"
+    ],
+    "abilities": [
+        "Cacheo",
+        "Allanamiento"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 70,
+        "def": 80,
+        "atk esp": 97,
+        "def esp": 80,
+        "speed": 123
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Noibat (nivel 48)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Noibat (nivel 48)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Salvaje: Gruta Desenlace",
+            "Evolucionar: a Noibat (nivel 48)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Gruta Desenlace",
+            "Evolucionar: a Noibat (nivel 48)"
+        ],
+        "Espada": [
+            "Salvaje: Valle Entrepuentes, Lago del Enfado, Lago Bolaguna  y Gruta del Lago ",
+            "Incursiones Dinamax: Ojo de Axew, nido central. Nidos en Mar Gimnástico , Mar Meloso , Campo Bajocero , Lecho del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Evolucionar: a Noibat (nivel 48)"
+        ],
+        "Escudo": [
+            "Salvaje: Valle Entrepuentes, Lago del Enfado, Lago Bolaguna  y Gruta del Lago ",
+            "Incursiones Dinamax: Ojo de Axew, nido central. Nidos en Mar Gimnástico , Mar Meloso , Campo Bajocero , Lecho del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Evolucionar: a Noibat (nivel 48)"
+        ],
+        "Diamante Brillante": [
+            "Noivern no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Noivern no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Noivern no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Surca el cielo nocturno cuando ni siquiera la luna brilla y ataca a presas incautas. Es imbatible en combates que tienen lugar a oscuras.",
+        "Pokémon Y": "Las ondas ultrasónicas que emite por las orejas pueden hacer añicos incluso rocas enormes. Aprovecha la oscuridad para desplegar su ataque.",
+        "Rubí Omega": "Surca el cielo nocturno cuando ni siquiera la luna brilla y ataca a presas incautas. Es imbatible en combates que tienen lugar a oscuras.",
+        "Zafiro Alfa": "Las ondas ultrasónicas que emite por las orejas pueden hacer añicos incluso rocas enormes. Aprovecha la oscuridad para desplegar su ataque.",
+        "Sol": "No hay entrada de Noivern en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Noivern en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Es de carácter violento, pero si se le da su alimento favorito, una fruta madura, su actitud cambia totalmente y se muestra muy dócil.",
+        "Ultraluna": "De temperamento violento, ataca a todo el que se cruce en su camino con unas ondas ultrasónicas capaces de partir rocas.",
+        "Espada": "Posee un carácter violento y cruel, por lo que no muestra reparos en aprovechar la oscuridad para atacar a enemigos indefensos.",
+        "Escudo": "Vuela en la oscuridad atormentando al enemigo con ondas ultrasónicas capaces de partir rocas antes de rematarlo con sus afilados colmillos.",
+        "Diamante Brillante": "Noivern no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Noivern no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Noivern no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Noibat",
+            "Nivel 48",
+            "Noivern"
+        ]
+    ]
+}

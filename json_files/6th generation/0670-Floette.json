@@ -1,0 +1,90 @@
+{
+    "dex number": "0670",
+    "pokemon name": "Floette",
+    "types": [
+        "hada"
+    ],
+    "abilities": [
+        "Velo flor"
+    ],
+    "hidden abilities": [
+        "Simbiosis"
+    ],
+    "stats": {
+        "hp": 54,
+        "atk": 45,
+        "def": 47,
+        "atk esp": 75,
+        "def esp": 98,
+        "speed": 52
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Flabébé (nivel 19)",
+            "Especial: Safari Amistad, en algunos safaris de tipo hada (flor azul, amarilla y roja)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Flabébé (nivel 19)",
+            "Especial: Safari Amistad, en algunos safaris de tipo hada (flor azul, amarilla y roja)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Jardines de Poni y Jardines de Ula-Ula"
+        ],
+        "Ultraluna": [
+            "Salvaje: Jardines de Poni y Jardines de Ula-Ula"
+        ],
+        "Espada": [
+            "Floette no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Floette no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Floette no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Floette no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Floette no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Revolotea alrededor de campos de flores y cuida de aquellas que empiezan a marchitarse. Usa en combate el poder oculto de las flores.",
+        "Pokémon Y": "Cuando las plantas bien cuidadas de un parterre florecen, hace acto de presencia e interpreta un baile primoroso para celebrarlo.",
+        "Rubí Omega": "Revolotea alrededor de campos de flores y cuida de aquellas que empiezan a marchitarse. Usa en combate el poder oculto de las flores.",
+        "Zafiro Alfa": "Cuando las plantas bien cuidadas de un parterre florecen, hace acto de presencia e interpreta un baile primoroso para celebrarlo.",
+        "Sol": "No hay entrada de Floette en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Floette en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "\nFlor común: Usa como arma la flor que cultiva por su cuenta y, cuanto mayor sea la belleza de esta, mayor será también el poder que oculta en su interior.\nFlor eterna: Hoy en día, la flor que lleva ya no se ve en la naturaleza. Se cree que alberga un temible poder.",
+        "Ultraluna": "\nFlor común: Confiere su poder a las flores y cuida de ellas con mucho esmero; no perdona que destruyan los campos donde estas crecen.\nFlor eterna: Menea descuidadamente su siniestra flor sin reparar en el aterrador poder que esta esconde.",
+        "Espada": "Floette no aparece en Pokémon Espada.",
+        "Escudo": "Floette no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Floette no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Floette no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Floette no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Flabébé",
+            "Nivel 19",
+            "Floette",
+            "Piedra día ",
+            "Florges"
+        ]
+    ]
+}

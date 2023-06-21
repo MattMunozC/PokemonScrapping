@@ -1,0 +1,98 @@
+{
+    "dex number": "0701",
+    "pokemon name": "Hawlucha",
+    "types": [
+        "lucha",
+        "volador"
+    ],
+    "abilities": [
+        "Flexibilidad",
+        "Liviano"
+    ],
+    "hidden abilities": [
+        "Rompemoldes"
+    ],
+    "stats": {
+        "hp": 78,
+        "atk": 92,
+        "def": 75,
+        "atk esp": 74,
+        "def esp": 63,
+        "speed": 118
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 10",
+            "Especial: Safari Amistad; en algunos safaris de tipo volador"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 10",
+            "Especial: Safari Amistad; en algunos safaris de tipo volador"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna."
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 3",
+            "Intercambiar: por un Spearow en el Centro Pokémon de la Ruta 2",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 3",
+            "Intercambiar: por un Spearow en el Centro Pokémon de la Ruta 2",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 6 y Cornisa de Artejo",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago y Llanura Pétrea, nido al noreste junto a una pared 1. Con posible habilidad oculta: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste y Lago Axew (este), nido frente a la entrada a ciudad Pistón",
+            "Curri: Ruta 6"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 6 y Cornisa de Artejo",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste y Lago Milotic (norte), nido junto al lago. Con posible habilidad oculta: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Cuenca Polvorienta, nido al sur, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago y Pradera Radiante, nido hacia el puente de Lago Axew",
+            "Curri: Ruta 6"
+        ],
+        "Diamante Brillante": [
+            "Hawlucha no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Hawlucha no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Hawlucha no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "A pesar de ser un Pokémon de pequeña estatura, su pericia en el combate le permite plantar cara a Pokémon como Machamp o Hariyama.",
+        "Pokémon Y": "Controla su posición en el aire con las alas. Lanza ataques desde gran altura que resultan difíciles de evitar.",
+        "Rubí Omega": "A pesar de ser un Pokémon de pequeña estatura, su pericia en el combate le permite plantar cara a Pokémon como Machamp o Hariyama.",
+        "Zafiro Alfa": "Controla su posición en el aire con las alas. Lanza ataques desde gran altura que resultan difíciles de evitar.",
+        "Sol": "No hay entrada de Hawlucha en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Hawlucha en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Deja atónito al rival con sus rápidos ataques, pero se luce tanto antes de dar el golpe definitivo que a veces sale mal parado.",
+        "Ultraluna": "Con sus ágiles saltos y su juego de piernas, permanece siempre en el punto ciego del rival. Es un experto en llaves inmovilizadoras.",
+        "Espada": "Se vale de su agilidad para minar las fuerzas del rival y, una vez extenuado, remata el combate ejecutando una técnica formidable.",
+        "Escudo": "Siempre se exhibe con alguna pose justo antes de propinar el golpe de gracia, momento que algunos rivales aprovechan para contraatacar.",
+        "Diamante Brillante": "Hawlucha no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Hawlucha no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Hawlucha no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Hawlucha"
+        ]
+    ]
+}

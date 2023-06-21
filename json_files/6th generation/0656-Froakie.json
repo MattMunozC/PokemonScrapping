@@ -1,0 +1,90 @@
+{
+    "dex number": "0656",
+    "pokemon name": "Froakie",
+    "types": [
+        "agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Mutatipo"
+    ],
+    "stats": {
+        "hp": 41,
+        "atk": 56,
+        "def": 40,
+        "atk esp": 62,
+        "def esp": 44,
+        "speed": 71
+    },
+    "location": {
+        "Pokémon X": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir Beni en Pueblo Acuarela (solo uno)",
+            "Intercambiar: a Xana por cualquier Pokémon en Pueblo Boceto tras superar la Liga Pokémon (solo si se ha elegido a Chespin)"
+        ],
+        "Pokémon Y": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir Beni en Pueblo Acuarela (solo uno)",
+            "Intercambiar: a Xana por cualquier Pokémon en Pueblo Boceto tras superar la Liga Pokémon (solo si se ha elegido a Chespin)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Greninja"
+        ],
+        "Ultraluna": [
+            "Criar: de Greninja"
+        ],
+        "Espada": [
+            "Froakie no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Froakie no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Froakie no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Froakie no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Froakie no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Secreta burbujas tanto por la espalda como por el pecho. Gracias a la elasticidad de estas, puede parar ataques y reducir el daño recibido.",
+        "Pokémon Y": "Protege su piel cubriendo el cuerpo con una fina capa de burbujas. Aunque parezca despreocupado, no deja de vigilar con astucia lo que le rodea.",
+        "Rubí Omega": "Secreta burbujas tanto por la espalda como por el pecho. Gracias a la elasticidad de estas, puede parar ataques y reducir el daño recibido.",
+        "Zafiro Alfa": "Protege su piel cubriendo el cuerpo con una fina capa de burbujas. Aunque parezca despreocupado, no deja de vigilar con astucia lo que le rodea.",
+        "Sol": "No hay entrada de Froakie en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Froakie en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Froakie en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Froakie en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Froakie no aparece en Pokémon Espada.",
+        "Escudo": "Froakie no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Froakie no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Froakie no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Froakie no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Froakie",
+            "Nivel 16",
+            "Frogadier",
+            "Nivel 36",
+            "Greninja"
+        ]
+    ]
+}

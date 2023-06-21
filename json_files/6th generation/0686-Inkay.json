@@ -1,0 +1,94 @@
+{
+    "dex number": "0686",
+    "pokemon name": "Inkay",
+    "types": [
+        "siniestro",
+        "psíquico"
+    ],
+    "abilities": [
+        "Respondón",
+        "Ventosas"
+    ],
+    "hidden abilities": [
+        "Allanamiento"
+    ],
+    "stats": {
+        "hp": 53,
+        "atk": 54,
+        "def": 53,
+        "atk esp": 37,
+        "def esp": 46,
+        "speed": 45
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 8 y Bahía Azul",
+            "Especial: Safari Amistad, en algunos safaris de tipo siniestro"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 8 y Bahía Azul",
+            "Especial: Safari Amistad, en algunos safaris de tipo siniestro"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Afueras de Hauoli, Antiguo Paso de Poni, Pendiente de Poni y Prado de Poni"
+        ],
+        "Ultraluna": [
+            "Salvaje: Afueras de Hauoli, Antiguo Paso de Poni, Pendiente de Poni y Prado de Poni"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 7, Ruta 9, Cornisa de Artejo, Cuenca Polvorienta, Espejo del Gigante, Valle Entrepuentes, Playa Desafío , Prado Reverencia , Bahía Circular  y Llano Entrenamiento ",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Llanura Pétrea, nido al norte 2, Ribera de Pistón, nido al este, Humedal Frescor , Ruta Desafío , Mar Gimnástico  y Mar Meloso ",
+            "Curri: Ruta 9 (bahía de Auriga)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 7, Ruta 9, Cornisa de Artejo, Cuenca Polvorienta, Espejo del Gigante, Valle Entrepuentes, Playa Desafío , Prado Reverencia , Bahía Circular  y Llano Entrenamiento ",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Llanura Pétrea, nido al norte 2, Ribera de Pistón, nido al este, Humedal Frescor , Ruta Desafío , Mar Gimnástico  y Mar Meloso ",
+            "Curri: Ruta 9 (bahía de Auriga)"
+        ],
+        "Diamante Brillante": [
+            "Inkay no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Inkay no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Inkay no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Los enemigos que contemplan el titilante fulgor de su brillante cuerpo terminan mareándose y pierden las ganas de continuar combatiendo.",
+        "Pokémon Y": "La luz intermitente que emite aplaca el ánimo de lucha del enemigo. Aprovecha la ocasión para esconderse.",
+        "Rubí Omega": "Los enemigos que contemplan el titilante fulgor de su brillante cuerpo terminan mareándose y pierden las ganas de continuar combatiendo.",
+        "Zafiro Alfa": "La luz intermitente que emite aplaca el ánimo de lucha del enemigo. Aprovecha la ocasión para esconderse.",
+        "Sol": "No hay entrada de Inkay en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Inkay en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Los destellos que emite atraen a su presa, a la que rodea con sus largos tentáculos e inmoviliza por completo.",
+        "Ultraluna": "Los complejos patrones de destellos que emite con sus órganos luminosos le permiten comunicarse con sus congéneres.",
+        "Espada": "Gira sobre sí mismo emitiendo luz intermitente con la que crea señales para comunicarse con los suyos.",
+        "Escudo": "Los destellos de luz intermitente que emite aplacan el ánimo de lucha del enemigo, tras lo que aprovecha para esconderse.",
+        "Diamante Brillante": "Inkay no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Inkay no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Inkay no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Inkay",
+            "Nivel 30 +Subir un nivel con la consola al revés ⤾",
+            "Malamar"
+        ]
+    ]
+}

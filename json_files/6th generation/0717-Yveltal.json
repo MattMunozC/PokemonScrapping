@@ -1,0 +1,83 @@
+{
+    "dex number": "0717",
+    "pokemon name": "Yveltal",
+    "types": [
+        "siniestro",
+        "volador"
+    ],
+    "abilities": [
+        "Aura oscura"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 126,
+        "atk": 131,
+        "def": 95,
+        "atk esp": 131,
+        "def esp": 98,
+        "speed": 99
+    },
+    "location": {
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Y"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Guarida Team Flare (solo uno)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo (solo uno)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Yveltal no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Yveltal no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Yveltal no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Pokémon legendario que, al extender sus alas y las plumas de la cola, emite un brillo carmesí que absorbe la energía vital de su enemigo.",
+        "Pokémon Y": "Cuando su vida se extingue, absorbe la vitalidad de todos los seres vivos y regresa a su forma de crisálida.",
+        "Rubí Omega": "Pokémon legendario que, al extender sus alas y las plumas de la cola, emite un brillo carmesí que absorbe la energía vital de su enemigo.",
+        "Zafiro Alfa": "Cuando su vida se extingue, absorbe la vitalidad de todos los seres vivos y regresa a su forma de crisálida.",
+        "Sol": "No hay entrada de Yveltal en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Yveltal en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Yveltal en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Yveltal en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de Yveltal en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Yveltal en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Yveltal no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Yveltal no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Yveltal no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Yveltal"
+        ]
+    ]
+}

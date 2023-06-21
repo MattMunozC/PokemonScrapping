@@ -1,0 +1,94 @@
+{
+    "dex number": "0708",
+    "pokemon name": "Phantump",
+    "types": [
+        "fantasma",
+        "planta"
+    ],
+    "abilities": [
+        "Cura natural",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Cosecha"
+    ],
+    "stats": {
+        "hp": 43,
+        "atk": 70,
+        "def": 48,
+        "atk esp": 50,
+        "def esp": 60,
+        "speed": 38
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 16",
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 16",
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque Petalia, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque Petalia, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Salvaje: Colina del Recuerdo"
+        ],
+        "Luna": [
+            "Salvaje: Colina del Recuerdo"
+        ],
+        "Ultrasol": [
+            "Salvaje: Colina del Recuerdo",
+            "Intercambiar: por otro Phantump en la Aldea Tapu"
+        ],
+        "Ultraluna": [
+            "Salvaje: Colina del Recuerdo",
+            "Intercambiar: por otro Phantump en la Aldea Tapu"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Lumirinto, Campo Deslizante , Desfiladero Nevado , Encrucijada Tresvías , Suela del Gigante  y Viejo Cementerio ",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Arboleda Claroscuro, nido al norte 1, Espejo del Gigante, nido al sur y Llanura Pétrea, nido al noreste junto a una pared 2. Nidos en Campo Deslizante , Viejo Cementerio , Suela del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Curri: Bosque Lumirinto"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Lumirinto, Campo Deslizante , Desfiladero Nevado , Encrucijada Tresvías , Suela del Gigante  y Viejo Cementerio ",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Arboleda Claroscuro, nido al norte 1, Espejo del Gigante, nido al sur y Llanura Pétrea, nido al noreste junto a una pared 2. Nidos en Campo Deslizante , Viejo Cementerio , Suela del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Curri: Bosque Lumirinto"
+        ],
+        "Diamante Brillante": [
+            "Phantump no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Phantump no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Phantump no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Pokémon que nace cuando un espíritu se adentra en un tocón podrido. Habita en bosques que son poco frecuentados por humanos.",
+        "Pokémon Y": "Según una leyenda, son en realidad almas de niños que pasaron a mejor vida tras perderse en el bosque y se convirtieron en Pokémon al habitar un tocón.",
+        "Rubí Omega": "Pokémon que nace cuando un espíritu se adentra en un tocón podrido. Habita en bosques que son poco frecuentados por humanos.",
+        "Zafiro Alfa": "Según una leyenda, son en realidad almas de niños que pasaron a mejor vida tras perderse en el bosque y se convirtieron en Pokémon al habitar un tocón.",
+        "Sol": "Nace cuando el alma de un niño perdido habita un tocón. Su grito se asemeja a un escalofriante chillido.",
+        "Luna": "Se cree que con las hojillas verdes que le crecen se puede preparar una infusión capaz de curar cualquier enfermedad.",
+        "Ultrasol": "Imita la voz de un niño con la intención de que algún humano se adentre y se pierda en lo más profundo del bosque y puedan hacerse amigos.",
+        "Ultraluna": "Nació cuando un espíritu desconocido se alojó en el interior de un tocón. Una infusión con sus hojas verdes puede curar toda afección.",
+        "Espada": "Se dice que en realidad son almas de niños que pasaron a mejor vida tras perderse en el bosque y se convirtieron en Pokémon al habitar un tocón.",
+        "Escudo": "Imita el llanto de un niño con la intención de que algún adulto se adentre y se pierda en lo más profundo del bosque.",
+        "Diamante Brillante": "Phantump no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Phantump no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Phantump no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Phantump",
+            "Intercambio",
+            "Trevenant"
+        ]
+    ]
+}

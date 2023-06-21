@@ -1,0 +1,94 @@
+{
+    "dex number": "0713",
+    "pokemon name": "Avalugg",
+    "types": [
+        "hielo"
+    ],
+    "abilities": [
+        "Ritmo propio",
+        "Gélido"
+    ],
+    "hidden abilities": [
+        "Robustez"
+    ],
+    "stats": {
+        "hp": 95,
+        "atk": 117,
+        "def": 184,
+        "atk esp": 44,
+        "def esp": 46,
+        "speed": 28
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Bergmite (nivel 37)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Bergmite (nivel 37)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado, Encrucijada Tresvías  y Mar Gélido ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro y Llanura Pétrea, nido al este 1. Nidos en Mar Islejos , Lecho del Gigante  y Mar Gélido ",
+            "Evolucionar: a Bergmite (nivel 37)"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado, Encrucijada Tresvías  y Mar Gélido ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro, Llanura Pétrea, nido al este 1 y Silla del Gigante, nido al sur junto al lago. Nidos en Mar Islejos , Lecho del Gigante  y Mar Gélido ",
+            "Evolucionar: a Bergmite (nivel 37)"
+        ],
+        "Diamante Brillante": [
+            "Avalugg no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Avalugg no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Avalugg no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Su cuerpo, cubierto de hielo, es tan duro como el propio acero. Su abultada figura le permite arramblar con todo lo que se encuentra a su paso.",
+        "Pokémon Y": "Parece un portaaviones de hielo, por el aspecto que presenta al llevar varios Bergmite en su espalda.",
+        "Rubí Omega": "Su cuerpo, cubierto de hielo, es tan duro como el propio acero. Su abultada figura le permite arramblar con todo lo que se encuentra a su paso.",
+        "Zafiro Alfa": "Parece un portaaviones de hielo, por el aspecto que presenta al llevar varios Bergmite en su espalda.",
+        "Sol": "No hay entrada de Avalugg en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Avalugg en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Avalugg en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Avalugg en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Surca las aguas de mares gélidos, situados a altas latitudes, llevando a varios Bergmite en el lomo y confundiéndose entre los icebergs.",
+        "Escudo": "Las fisuras de su cuerpo se agrandan durante el día, pero por la noche vuelven a cerrarse.",
+        "Diamante Brillante": "Avalugg no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Avalugg no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Avalugg no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Bergmite",
+            "Nivel 37(fuera de Hisui)",
+            "Avalugg"
+        ],
+        [
+            "",
+            "Nivel 37(en Hisui)",
+            "Avalugg de Hisui"
+        ]
+    ]
+}

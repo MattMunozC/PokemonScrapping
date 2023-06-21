@@ -1,0 +1,97 @@
+{
+    "dex number": "0662",
+    "pokemon name": "Fletchinder",
+    "types": [
+        "fuego",
+        "volador"
+    ],
+    "abilities": [
+        "Cuerpo llama"
+    ],
+    "hidden abilities": [
+        "Alas vendaval"
+    ],
+    "stats": {
+        "hp": 62,
+        "atk": 73,
+        "def": 55,
+        "atk esp": 56,
+        "def esp": 52,
+        "speed": 84
+    },
+    "location": {
+        "Pokémon X": [
+            "Evolucionar: a Fletchling (nivel 17)",
+            "Especial: Safari Amistad, en algunos safaris de tipo fuego"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Fletchling (nivel 17)",
+            "Especial: Safari Amistad, en algunos safaris de tipo fuego"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Salvaje: Ruta 8",
+            "Evolucionar: a Fletchling (nivel 17)"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 8",
+            "Evolucionar: a Fletchling (nivel 17)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Área Volcánica del Wela y Ruta 8 (como refuerzo de Fletchling)",
+            "Evolucionar: a Fletchling (nivel 17)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Área Volcánica del Wela y Ruta 8 (como refuerzo de Fletchling)",
+            "Evolucionar: a Fletchling (nivel 17)"
+        ],
+        "Espada": [
+            "Salvaje: Prado Reverencia , Humedal Frescor , Llano Entrenamiento , Playa Desafío , Mar Gimnástico , Mar Andana , Mar Meloso  e Isla Melosa ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Playa Desafío , Ruta Desafío , Bahía Circular , Cuenca Arenosa , Mar Gimnástico  y Mar Andana ",
+            "Evolucionar: a Fletchling (nivel 17)"
+        ],
+        "Escudo": [
+            "Salvaje: Prado Reverencia , Humedal Frescor , Llano Entrenamiento , Playa Desafío , Mar Gimnástico , Mar Andana , Mar Meloso  e Isla Melosa ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Playa Desafío , Ruta Desafío , Bahía Circular , Cuenca Arenosa , Mar Gimnástico  y Mar Andana ",
+            "Evolucionar: a Fletchling (nivel 17)"
+        ],
+        "Diamante Brillante": [
+            "Fletchinder no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Fletchinder no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Fletchinder no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Lanza chispas por su pico y prende fuego a la hierba alta para así sorprender a sus presas y atraparlas cuando intentan escapar.",
+        "Pokémon Y": "Cuanto más intenso sea el calor que se genera en la saca de fuego de su vientre, más rápido es capaz de volar. Sin embargo, la llama tarda en prender.",
+        "Rubí Omega": "Lanza chispas por su pico y prende fuego a la hierba alta para así sorprender a sus presas y atraparlas cuando intentan escapar.",
+        "Zafiro Alfa": "Cuanto más intenso sea el calor que se genera en la saca de fuego de su vientre, más rápido es capaz de volar. Sin embargo, la llama tarda en prender.",
+        "Sol": "Lanza chispas por el pico para atacar a su presa, a la que devora una vez calcinada.",
+        "Luna": "No tolera bajo ningún concepto que otro Fletchinder invada su territorio, cuyo radio abarca varios kilómetros.",
+        "Ultrasol": "Prende fuego a los arbustos con las chispas que suelta y aprovecha para cazar los Pokémon Bicho que salen corriendo despavoridos.",
+        "Ultraluna": "La velocidad que alcanza nada más emprender el vuelo es de las más altas de entre todos los Pokémon pájaro.",
+        "Espada": "Lanza chispas al interior de la guarida de su presa y, cuando esta sale despavorida, la ataca por sorpresa con sus afiladas garras.",
+        "Escudo": "Defienden su territorio con suma agresividad. Se pelean entre sí por el control de las áreas de caza.",
+        "Diamante Brillante": "Fletchinder no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Fletchinder no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Fletchinder no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Fletchling",
+            "Nivel 17",
+            "Fletchinder",
+            "Nivel 35",
+            "Talonflame"
+        ]
+    ]
+}

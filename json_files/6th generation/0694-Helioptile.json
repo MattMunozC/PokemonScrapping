@@ -1,0 +1,92 @@
+{
+    "dex number": "0694",
+    "pokemon name": "Helioptile",
+    "types": [
+        "eléctrico",
+        "normal"
+    ],
+    "abilities": [
+        "Piel seca",
+        "Velo arena"
+    ],
+    "hidden abilities": [
+        "Poder solar"
+    ],
+    "stats": {
+        "hp": 44,
+        "atk": 38,
+        "def": 33,
+        "atk esp": 61,
+        "def esp": 43,
+        "speed": 70
+    },
+    "location": {
+        "Pokémon X": [
+            "Salvaje: Ruta 9",
+            "Especial: Safari Amistad, en algunos safaris de tipo eléctrico"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 9",
+            "Especial: Safari Amistad, en algunos safaris de tipo eléctrico"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Heliolisk"
+        ],
+        "Ultraluna": [
+            "Criar: de Heliolisk"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 6 y Espejo del Gigante",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Espejo del Gigante, nido al este, Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago del Enfado, nido al noreste junto al lago y Pradera Radiante, nido cerca del Punto de Encuentro"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 6 y Espejo del Gigante",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Espejo del Gigante, nido al este, Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago del Enfado, nido al noreste junto al lago y Pradera Radiante, nido cerca del Punto de Encuentro"
+        ],
+        "Diamante Brillante": [
+            "Helioptile no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Helioptile no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Helioptile no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Habita en los desiertos y, cuando toma el sol, acumula energía, lo que le permite vivir sin la necesidad de ingerir alimentos.",
+        "Pokémon Y": "Bajo los pliegues situados a ambos lados de la cabeza residen células que, al exponerse a la luz del sol, son capaces de generar electricidad.",
+        "Rubí Omega": "Habita en los desiertos y, cuando toma el sol, acumula energía, lo que le permite vivir sin la necesidad de ingerir alimentos.",
+        "Zafiro Alfa": "Bajo los pliegues situados a ambos lados de la cabeza residen células que, al exponerse a la luz del sol, son capaces de generar electricidad.",
+        "Sol": "No hay entrada de Helioptile en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Helioptile en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Helioptile en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Helioptile en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Extiende los pliegues de la cabeza para absorber la luz del sol y convertirla en electricidad, con la que realiza potentes ataques de tipo Eléctrico.",
+        "Escudo": "Es capaz de generar electricidad a partir de la luz del sol. Si lo interrumpen en pleno proceso, se pone nervioso y pierde las fuerzas.",
+        "Diamante Brillante": "Helioptile no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Helioptile no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Helioptile no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Helioptile",
+            "Piedra solar ",
+            "Heliolisk"
+        ]
+    ]
+}

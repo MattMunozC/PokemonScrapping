@@ -1,0 +1,90 @@
+{
+    "dex number": "0650",
+    "pokemon name": "Chespin",
+    "types": [
+        "planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Antibalas"
+    ],
+    "stats": {
+        "hp": 56,
+        "atk": 61,
+        "def": 65,
+        "atk esp": 48,
+        "def esp": 45,
+        "speed": 38
+    },
+    "location": {
+        "Pokémon X": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir Benigno en Pueblo Acuarela (solo uno)",
+            "Intercambiar: por cualquier Pokémon a Xana en Pueblo Boceto tras superar la Liga Pokémon (solo si se eligió a Fennekin)"
+        ],
+        "Pokémon Y": [
+            "Especial: Es uno de los Pokémon iniciales que da a elegir Benigno en Pueblo Acuarela (solo uno)",
+            "Intercambiar: por cualquier Pokémon a Xana en Pueblo Boceto tras superar la Liga Pokémon (solo si se eligió a Fennekin)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Chesnaught"
+        ],
+        "Ultraluna": [
+            "Criar: de Chesnaught"
+        ],
+        "Espada": [
+            "Chespin no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Chespin no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Chespin no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Chespin no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Chespin no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Cuando acumula energía, las suaves púas de su cabeza se vuelven tan duras y afiladas que hasta pueden atravesar rocas.",
+        "Pokémon Y": "La robusta coraza que le recubre la cabeza y la espalda lo protege de tal manera que podría chocar contra un camión y permanecer impasible.",
+        "Rubí Omega": "Cuando acumula energía, las suaves púas de su cabeza se vuelven tan duras y afiladas que hasta pueden atravesar rocas.",
+        "Zafiro Alfa": "La robusta coraza que le recubre la cabeza y la espalda lo protege de tal manera que podría chocar contra un camión y permanecer impasible.",
+        "Sol": "No hay entrada de Chespin en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Chespin en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Chespin en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Chespin en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Chespin no aparece en Pokémon Espada.",
+        "Escudo": "Chespin no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Chespin no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Chespin no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Chespin no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Chespin",
+            "Nivel 16",
+            "Quilladin",
+            "Nivel 36",
+            "Chesnaught"
+        ]
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "dex number": "0690",
+    "pokemon name": "Skrelp",
+    "types": [
+        "veneno",
+        "agua"
+    ],
+    "abilities": [
+        "Punto tóxico",
+        "Toque tóxico"
+    ],
+    "hidden abilities": [
+        "Adaptable"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 60,
+        "def": 60,
+        "atk esp": 60,
+        "def esp": 60,
+        "speed": 30
+    },
+    "location": {
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Y o Pokémon Rubí Omega"
+        ],
+        "Pokémon Y": [
+            "Pescando: Ruta 8, Ciudad Relieve y Pueblo Petroglifo (caña buena)"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 105, Ruta 106, Ruta 107, Ruta 108 y Ruta 109, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon Y o Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Criando: de Dragalge"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Mar Andana , Mar Gimnástico , Mar Islejos , Mar Meloso  e Isla Melosa ",
+            "Incursiones Dinamax: nidos en Mar Andana , Mar Gimnástico , Mar Islejos  y Mar Meloso "
+        ],
+        "Diamante Brillante": [
+            "Skrelp no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Skrelp no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Skrelp no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Pokémon X": "Adopta la apariencia de algas podridas y lanza un líquido venenoso a las presas desprevenidas que pasan cerca.",
+        "Pokémon Y": "Es idéntico a un alga podrida. Mientras burla al enemigo, acumula energía para evolucionar.",
+        "Rubí Omega": "Adopta la apariencia de algas podridas y lanza un líquido venenoso a las presas desprevenidas que pasan cerca.",
+        "Zafiro Alfa": "Es idéntico a un alga podrida. Mientras burla al enemigo, acumula energía para evolucionar.",
+        "Sol": "No hay entrada de Skrelp en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Skrelp en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Permanece escondido e inmóvil entre las algas para protegerse de Pokémon más grandes. Su principal sustento son las algas podridas.",
+        "Ultraluna": "Sus dotes para el nado dejan que desear y se enrolla en las algas. En la región de Alola se le suele ver acompañando a Dhelmise.",
+        "Espada": "Vaga por el océano oculto entre las algas y da buena cuenta de los Pokémon que se acercan para alimentarse de ellas.",
+        "Escudo": "Su aspecto de alga podrida le permite ocultarse entre los restos que flotan a la deriva y pasar desapercibido ante sus enemigos.",
+        "Diamante Brillante": "Skrelp no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Skrelp no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Skrelp no aparece en Leyendas Pokémon: Arceus."
+    },
+    "evolution": [
+        [
+            "Skrelp",
+            "Nivel 48",
+            "Dragalge"
+        ]
+    ]
+}
