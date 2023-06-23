@@ -5,13 +5,14 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 from bs4 import BeautifulSoup as bs
 from pprint import pprint
 import json
-
+from os import getcwd
 r.packages.urllib3.disable_warnings(InsecureRequestWarning) 
 
 VALID_TITLES=['RojoAzul', 'Amarillo', 'Oro', 'Plata', 'Cristal', 'Rubí', 'Zafiro', 'Esmeralda', 'Rojo Fuego', 'Verde Hoja', 'Diamante', 'Perla', 'Platino', 'Oro HeartGold', 'Plata SoulSilver', 'Negro', 'Blanco', 'Negro 2', 'Blanco 2', 'Pokémon X', 'Pokémon Y', 'Rubí Omega', 'Zafiro Alfa', 'Sol', 'Luna', 'Ultrasol', 'Ultraluna', "Let's Go Pikachu!Let's Go Eevee!", 'Espada', 'Escudo', 'Diamante Brillante', 'Perla Reluciente', 'Leyendas: Arceus']
 EXCEPTED_POKEMON=["Mew","Typhlosion","Deoxys"]
 SPECIAL_CASE={"Ditto":-2,"Cinderace":-1}
 BASE_URL="https://www.wikidex.net/"
+BASE_DIR=getcwd()
 
 class PokemonList():
     url=f"{BASE_URL}/wiki/Lista_de_Pok%C3%A9mon"
@@ -81,8 +82,9 @@ class Pokemon():
                 stats_table=stats_table[index].find_all("tr")[1:7]
                 stats_names=["hp","atk","def","atk esp","def esp", "speed"]
                 self.stats={stat_name:int(stat_value.find("td").text[:-1]) for stat_name,stat_value in tuple(zip(stats_names,stats_table))}
-                print(f"index value for {self.name}: {index}")
-                pprint(self.stats)
+                if(index>1):
+                    print(f"index value for {self.name}: {index}")
+                    pprint(self.stats)
                 break
             except:
                 index+=1
@@ -109,24 +111,23 @@ class Scrapping():
     def __init__(self,list):
         for pokemon_data in list:
             pkmn=Pokemon(pokemon_data)
-            #save_image(dexnum,pkmnname)
+            #self.save_image(pkmn.num,pkmn.name)
             #self.save_json(Pokemon)
             #self.print_json(pkmn)
     def print_json(self,Pokemon):
         pprint(Pokemon.data())
     def save_json(self,pokemon):
         print(f"saving {pokemon.name}...")
-        with open(f"json_files\\{pokemon.num}-{pokemon.name}.json","w",encoding="utf-8") as f:
+        with open(f"{BASE_DIR}\\json_files\\{pokemon.num}-{pokemon.name}.json","w",encoding="utf-8") as f:
             f.write(json.dumps(pokemon.data(),indent=4,ensure_ascii=False))
             f.close()
         print(f"{pokemon.name} saved!")
-def save_image(dexnum,pkmnname):
-    content=r.get(f"https://assets.pokemon.com/assets/cms2/img/pokedex/full/{dexnum}.png").content
-    with open(f"{dexnum}{pkmnname}.png","wb") as img:
-        img.write(content)
-        img.close()
-
-
+    def save_image(self,dexnum,pkmnname):
+        dexnum=dexnum[1::] if dexnum[0]=="0" else dexnum
+        content=r.get(f"https://assets.pokemon.com/assets/cms2/img/pokedex/full/{dexnum}.png").content
+        with open(f"{BASE_DIR}\\Portraits\\{dexnum}-{pkmnname}.png","wb") as img:
+            img.write(content)
+            img.close()
 if __name__=="__main__":
     #gen 1 ok
     #gen 2 
@@ -137,6 +138,7 @@ if __name__=="__main__":
     #gen 7 
     #gen 8 
     #gen 9 NOT WORKING
-    Scrapping(PokemonList(8).PokemonList)
+    
+    Scrapping(PokemonList(1).PokemonList)
     #debug=PokemonList(8).PokemonList[5]
     #pprint(Pokemon(debug).data())
