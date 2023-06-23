@@ -135,6 +135,6 @@ if __name__=="__main__":
     #gen 8 ok
     #gen 9 NOT WORKING
 
-    Scrapping(PokemonList(9).PokemonList)
+    Scrapping(PokemonList("INSERT GEN NUMBER HERE").PokemonList)
     #debug=PokemonList(3).PokemonList[-3]
     #pprint(Pokemon(debug).data())
