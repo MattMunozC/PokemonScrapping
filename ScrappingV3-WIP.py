@@ -10,16 +10,22 @@ r.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 VALID_TITLES=['RojoAzul', 'Amarillo', 'Oro', 'Plata', 'Cristal', 'Rubí', 'Zafiro', 'Esmeralda', 'Rojo Fuego', 'Verde Hoja', 'Diamante', 'Perla', 'Platino', 'Oro HeartGold', 'Plata SoulSilver', 'Negro', 'Blanco', 'Negro 2', 'Blanco 2', 'Pokémon X', 'Pokémon Y', 'Rubí Omega', 'Zafiro Alfa', 'Sol', 'Luna', 'Ultrasol', 'Ultraluna', "Let's Go Pikachu!Let's Go Eevee!", 'Espada', 'Escudo', 'Diamante Brillante', 'Perla Reluciente', 'Leyendas: Arceus']
 EXCEPTED_POKEMON=["Mew","Typhlosion","Deoxys"]
-SPECIAL_CASE={"Ditto":-2,"Cinderace":-1}
+SPECIAL_CASE={"Ditto":3,"Cinderace":-1}
 BASE_URL="https://www.wikidex.net/"
 BASE_DIR=getcwd()
-
+class RequestQuery():
+    def __init__(self,url):
+        url_request=r.get(url,verify=False).text
+        self.parsed_request=bs(url_request,"html.parser")
+    def table_query(self,name):
+        return self.parsed_request.find_all("table",{"class": name})
+    def tr_query(self,subquery):
+        return self.parsed_request.find_all("tr",{"title":subquery})[0].find_all("a")[1::]
 class PokemonList():
     url=f"{BASE_URL}/wiki/Lista_de_Pok%C3%A9mon"
     def __init__(self,gen_num):
-        url_html=r.get(self.url,verify=False).text
-        url_html=bs(url_html,"html.parser")
-        table=url_html.find_all("table",{"class": "tabpokemon"})[gen_num-1]
+        request=RequestQuery(self.url)
+        table=request.table_query("tabpokemon")[gen_num-1]
         self.PokemonList=self.table_unwrapper(table)
         self.AltPokemonList=self.alternative_forms(table)
     def table_unwrapper(self,table):
@@ -45,40 +51,32 @@ class Pokemon():
     def __init__(self,data):
         self.name=data["name"]
         self.num=data["num"]
-        raw_html=r.get(f'{BASE_URL}{data["url"]}',verify=False).text
-        self.html_parse=bs(raw_html,"html.parser")
-        self.raw_data=self.html_parse.find("table",{"class":"datos"})
-        self.type()
-        self.abilities_filter()
+        self.request=RequestQuery(f'{BASE_URL}{data["url"]}')
+        self.raw_data=self.request.table_query("datos")
+        self.types=[type['title'][4::] for type in self.request.tr_query("Tipos a los que pertenece") if type.has_attr("title")]
+        self.abilities=[ability['title'].replace("Tipo ","") for ability in self.request.tr_query("Habilidades que puede conocer") if ability.has_attr("title")]
+        try:
+            self.hidden=[i['title'] for i in self.request.tr_query("Habilidad oculta") if i.has_attr("title")]
+        except IndexError:
+            self.hidden="None"
         self.Pokedex()
         self.Location()
         self.Stats_debug()
-    def type(self):
-        raw_types=self.raw_data.find("tr",{"title":"Tipos a los que pertenece"}).find_all("a")[1::]
-        self.types=[i['title'].replace("Tipo ","") for i in raw_types if i.has_attr("title")]
-    def abilities_filter(self):
-        raw_abilities=self.raw_data.find("tr",{"title":"Habilidades que puede conocer"}).find_all("a")[1::]
-        self.abilities=[i['title'].replace("Tipo ","") for i in raw_abilities if i.has_attr("title")]
-        try:
-            raw_hidden=self.raw_data.find("tr",{"title":"Habilidad oculta"}).find_all("a")[1::]
-            self.hidden=[i['title'] for i in raw_hidden if i.has_attr("title")]
-        except AttributeError:
-            self.hidden="None"
     def Pokedex(self):
-        pkdex_table=self.html_parse.find_all("table",{"class":"pokedex"})[0].find_all("tr")    
-        self.pkdex_info={i.find_all("th")[1].text[:-1]:i.find_all("td")[0].text[:-1] for i in pkdex_table[1::] if len(i.find_all("th")) and i.find_all("th")[1].text[:-1] in VALID_TITLES}
+        pkdex_table=self.request.table_query("pokedex")[0].find_all("tr")
+        self.pkdex_info={game.find_all("th")[1].text[:-1]:game.find_all("td")[0].text[:-1] for game in pkdex_table[1::] if len(game.find_all("th")) and game.find_all("th")[1].text[:-1] in VALID_TITLES}
     def Location(self):
-        location_table=self.html_parse.find_all("table",{"class":"localizacion"})[0].find_all("tr")
+        location_table=self.request.table_query("localizacion")[0].find_all("tr")
         location_info={}
-        for i in location_table[1::]:
-            row=[row_content for row_content in i.text.split("\n") if row_content!=""]
+        for game in location_table[1::]:
+            row=[row_content for row_content in game.text.split("\n") if row_content!=""]
             if row[0] in VALID_TITLES: location_info[row[0]]=row[1::]
         self.location_info=location_info
     def Stats_debug(self):
         index=0
         while (1):
             try:
-                stats_table=self.html_parse.find_all("table",{"class","tabpokemon"})
+                stats_table=self.request.table_query("tabpokemon")
                 stats_table=stats_table[index].find_all("tr")[1:7]
                 stats_names=["hp","atk","def","atk esp","def esp", "speed"]
                 self.stats={stat_name:int(stat_value.find("td").text[:-1]) for stat_name,stat_value in tuple(zip(stats_names,stats_table))}
@@ -89,7 +87,7 @@ class Pokemon():
             except:
                 index+=1
     def Stats(self):
-        stats_table=self.html_parse.find_all("table",{"class","tabpokemon"})
+        stats_table=self.request.table_query("tabpokemon")
         index=0
         if(self.name in SPECIAL_CASE.keys()): index=SPECIAL_CASE[self.name]
         elif (self.name in EXCEPTED_POKEMON or stats_table[0].has_attr("style")): index=1
@@ -113,9 +111,7 @@ class Scrapping():
             pkmn=Pokemon(pokemon_data)
             #self.save_image(pkmn.num,pkmn.name)
             #self.save_json(Pokemon)
-            #self.print_json(pkmn)
-    def print_json(self,Pokemon):
-        pprint(Pokemon.data())
+            #pprint(pkmn.data())
     def save_json(self,pokemon):
         print(f"saving {pokemon.name}...")
         with open(f"{BASE_DIR}\\json_files\\{pokemon.num}-{pokemon.name}.json","w",encoding="utf-8") as f:
@@ -130,15 +126,15 @@ class Scrapping():
             img.close()
 if __name__=="__main__":
     #gen 1 ok
-    #gen 2 
-    #gen 3 
-    #gen 4 
-    #gen 5 
+    #gen 2 ok
+    #gen 3 ok
+    #gen 4 ok
+    #gen 5 ok
     #gen 6 
     #gen 7 
     #gen 8 
     #gen 9 NOT WORKING
-    
-    Scrapping(PokemonList(1).PokemonList)
-    #debug=PokemonList(8).PokemonList[5]
+
+    Scrapping(PokemonList(6).PokemonList)
+    #debug=PokemonList(3).PokemonList[-3]
     #pprint(Pokemon(debug).data())
