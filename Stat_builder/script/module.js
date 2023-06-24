@@ -1,7 +1,6 @@
 import {pkdex} from './pokemon_info.js'
 
 var displayer=document.getElementById("pkmnimg");
-
 var selector=document.getElementById("pkmnname");
 pkdex.forEach(function(pokemon,i){
     selector.innerHTML+=`
@@ -28,7 +27,8 @@ var stats={
 const MAX_VALUE=512;
 for (const key in stats) {
     if (stats.hasOwnProperty(key)) {
-      stats[key].addEventListener('input',()=>{
+        document.getElementById(`${key}_ev_label`).innerText=stats[key].value;
+        stats[key].addEventListener('input',()=>{
         if(getTotal()>MAX_VALUE){
             stats[key].value=MAX_VALUE-getTotal(key)
         }
