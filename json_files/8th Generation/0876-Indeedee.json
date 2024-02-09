@@ -1,0 +1,60 @@
+{
+    "dex number": "0876",
+    "pokemon name": "Indeedee",
+    "types": [
+        " psíquico",
+        " normal"
+    ],
+    "abilities": [
+        "Fuerza mental",
+        "Ritmo propio",
+        "Sincronía"
+    ],
+    "hidden abilities": [
+        "Psicogénesis"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 65,
+        "def": 55,
+        "atk esp": 105,
+        "def esp": 95,
+        "speed": 95
+    },
+    "location": {
+        "Espada": [
+            "Macho:",
+            "Salvaje: Bosque Lumirinto, Lago del Enfado y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax (solo Indeedee macho): Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al sureste junto a una pared, Ribera de Pistón, nido al este, Ribera de Pistón, nido junto al puente, Valle Entrepuentes, nido al noroeste y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Con posible habilidad oculta: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste. Nidos en Humedal Frescor , Playa Desafío , Llano Entrenamiento , Mar Andana , Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Lago Bolaguna ",
+            "Curri: Bosque Lumirinto",
+            "Ambos",
+            "Criar: de Indeedee"
+        ],
+        "Escudo": [
+            "Hembra:",
+            "Salvaje: Bosque Lumirinto, Lago del Enfado y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax (solo Indeedee hembra): Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al sureste junto a una pared, Ribera de Pistón, nido al este, Ribera de Pistón, nido junto al puente, Valle Entrepuentes, nido al noroeste y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Con posible habilidad oculta: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste. Nidos en Humedal Frescor , Playa Desafío , Llano Entrenamiento , Mar Andana , Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Lago Bolaguna ",
+            "Curri: Bosque Lumirinto",
+            "Ambos:",
+            "Criar: de Indeedee"
+        ],
+        "Diamante Brillante": [
+            "Indeedee no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Indeedee no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Indeedee no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nMacho: Percibe las emociones del objetivo con los cuernos de la cabeza. Los machos están atentos a cualquier cosa que necesite su Entrenador.\nHembra: Este Pokémon muestra una inteligencia superior. Se comunica e intercambia información con sus congéneres a través de los cuernos.",
+        "Escudo": "\nMacho: Con sus cuernos percibe las emociones de los seres vivos que se hallen cerca. Los sentimientos positivos constituyen su fuente de energía.\nHembra: Ayuda a humanos y Pokémon para que le estén agradecidos. A las hembras se les da especialmente bien cuidar de niños pequeños.",
+        "Diamante Brillante": "Indeedee no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Indeedee no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Indeedee no aparece en Leyendas Pokémon: Arceus."
+    }
+}

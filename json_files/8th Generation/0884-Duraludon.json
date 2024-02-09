@@ -1,0 +1,55 @@
+{
+    "dex number": "0884",
+    "pokemon name": "Duraludon",
+    "types": [
+        " acero",
+        " dragón"
+    ],
+    "abilities": [
+        "Metal liviano",
+        "Metal pesado"
+    ],
+    "hidden abilities": [
+        "Acérrimo"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 95,
+        "def": 115,
+        "atk esp": 120,
+        "def esp": 50,
+        "speed": 85
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 10, Lago del Enfado y Silla del Gigante",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al noroeste entre troncos, Llanura Pétrea, nido al sureste y Silla del Gigante, nido al centro junto a la pared. Nidos en Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Silla del Gigante, nido al norte. Nidos en Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Intercambiar: por un Frosmoth en Ciudad Puntera"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 10, Lago del Enfado y Silla del Gigante",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al noroeste entre troncos, Llanura Pétrea, nido al sureste y Silla del Gigante, nido al centro junto a la pared. Nidos en Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Silla del Gigante, nido al norte. Nidos en Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Intercambiar: por un Frosmoth en Ciudad Puntera"
+        ],
+        "Diamante Brillante": [
+            "Duraludon no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Duraludon no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Duraludon no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nDuraludon: Su cuerpo, similar a un metal pulido, es tan ligero como robusto. Sin embargo, tiene el defecto de que se oxida con facilidad.\nDuraludon Gigamax: Su tamaño se ha vuelto comparable al de un rascacielos. La energía que desborda hace que partes de su cuerpo sean luminiscentes.",
+        "Escudo": "\nDuraludon: Hace gala de una agilidad extraordinaria, ya que su cuerpo está compuesto de un metal especial. Detesta la lluvia, por lo que habita en cuevas.\nDuraludon Gigamax: La solidez de su estructura celular, capaz de soportar la fuerza de un terremoto, destaca incluso entre los Pokémon de tipo Acero.",
+        "Diamante Brillante": "Duraludon no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Duraludon no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Duraludon no aparece en Leyendas Pokémon: Arceus."
+    }
+}

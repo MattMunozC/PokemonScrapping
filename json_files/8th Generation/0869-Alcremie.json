@@ -1,0 +1,51 @@
+{
+    "dex number": "0869",
+    "pokemon name": "Alcremie",
+    "types": [
+        " hada"
+    ],
+    "abilities": [
+        "Velo dulce"
+    ],
+    "hidden abilities": [
+        "Velo aroma"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 60,
+        "def": 75,
+        "atk esp": 110,
+        "def esp": 121,
+        "speed": 64
+    },
+    "location": {
+        "Espada": [
+            "Evolucionar: de Milcery (confite equipado + girar)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago del Enfado, nido al norte junto al lago y Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón. Nidos en Lecho del Gigante , Viejo Cementerio  y Lago Bolaguna ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón. Nidos en Lecho del Gigante , Viejo Cementerio  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Evolucionar: de Milcery (confite equipado + girar)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago del Enfado, nido al norte junto al lago y Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón. Nidos en Lecho del Gigante , Viejo Cementerio  y Lago Bolaguna ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón. Nidos en Lecho del Gigante , Viejo Cementerio  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Alcremie no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Alcremie no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Alcremie no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nAlcremie crema de vainilla: Obsequia bayas decoradas con nata a aquellos Entrenadores en los que confía.\nAlcremie crema rosa: A causa de ciertas vibraciones, las células de su cuerpo se han reconfigurado tras la evolución y le han dado un sabor agridulce.\nAlcremie crema de té: A causa de ciertas vibraciones, las células de su cuerpo se han reconfigurado tras la evolución y le han dado un sabor fragante.\nAlcremie crema de menta: A causa de ciertas vibraciones, las células de su cuerpo se han reconfigurado tras la evolución y le han dado un sabor refrescante.\nAlcremie crema de limón: A causa de ciertas vibraciones, las células de su cuerpo se han reconfigurado tras la evolución y le han dado un sabor agrio.\nAlcremie crema salada: A causa de ciertas vibraciones, las células de su cuerpo se han reconfigurado tras la evolución y le han dado un sabor salado.\nAlcremie mezcla rosa: A causa de ciertas vibraciones, las células de su cuerpo se han reconfigurado tras la evolución y le han dado un sabor especial.\nAlcremie mezcla caramelo: A causa de ciertas vibraciones, las células de su cuerpo se han reconfigurado tras la evolución y le han dado un sabor amargo.\nAlcremie tres sabores: A causa de ciertas vibraciones, las células de su cuerpo se han reconfigurado tras la evolución y le han dado un sabor complejo.\nAlcremie Gigamax: Su cuerpo rezuma nata sin cesar. Cuanto más potentes sean los ataques que recibe, más consistente se vuelve.",
+        "Escudo": "\nAlcremie crema de vainilla: La nata que le brota de las manos es más dulce y sustanciosa cuando está feliz.\nAlcremie crema rosa: Durante su evolución, toma un sabor agridulce debido a la vibración de las células con las que produce nata.\nAlcremie crema de té: Durante su evolución, toma un sabor fragante debido a la vibración de las células con las que produce nata.\nAlcremie crema de menta: Durante su evolución, toma un sabor refrescante debido a la vibración de las células con las que produce nata.\nAlcremie crema de limón: Durante su evolución, toma un sabor agrio debido a la vibración de las células con las que produce nata.\nAlcremie crema salada: Durante su evolución, toma un sabor salado debido a la vibración de las células con las que produce nata.\nAlcremie mezcla rosa: Durante su evolución, toma un sabor especial debido a la vibración de las células con las que produce nata.\nAlcremie mezcla caramelo: Durante su evolución, toma un sabor amargo debido a la vibración de las células con las que produce nata.\nAlcremie tres sabores: Durante su evolución, toma un sabor complejo debido a la vibración de las células con las que produce nata.\nAlcremie Gigamax: Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.",
+        "Diamante Brillante": "Alcremie no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Alcremie no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Alcremie no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "dex number": "0790",
+    "pokemon name": "Cosmoem",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Robustez"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 43,
+        "atk": 29,
+        "def": 131,
+        "atk esp": 29,
+        "def esp": 131,
+        "speed": 37
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Cosmog (nivel 43)"
+        ],
+        "Luna": [
+            "Evolucionar: a Cosmog (nivel 43)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Cosmog (nivel 43)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Cosmog (nivel 43)"
+        ],
+        "Espada": [
+            "Evolucionar: a Cosmog (nivel 43)"
+        ],
+        "Escudo": [
+            "Evolucionar: a Cosmog (nivel 43)"
+        ],
+        "Diamante Brillante": [
+            "Cosmoem no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cosmoem no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cosmoem no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Permanece inmóvil, como si estuviera muerto, aunque al tocarlo se percibe un ligero calor. Antaño se le llamaba Crisálida de las Estrellas.",
+        "Luna": "Se dice que es un Pokémon procedente de otro mundo. Alrededor del núcleo negro que alberga su duro caparazón parece acumularse algo.",
+        "Ultrasol": "En la antigüedad, un rey de Alola lo apodó Crisálida de las Estrellas y erigió un altar en su honor.",
+        "Ultraluna": "Crece continuamente gracias a la luz que absorbe. Su caparazón dorado es más duro de lo que parece.",
+        "Espada": "Está recubierto de un caparazón de una dureza que escapa al entendimiento humano. Crece al exponerse a la luz de las estrellas.",
+        "Escudo": "Absorbe impetuoso polvo de la atmósfera y pone todo su empeño en crear en su núcleo la energía necesaria para evolucionar.",
+        "Diamante Brillante": "Cosmoem no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cosmoem no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cosmoem no aparece en Leyendas Pokémon: Arceus."
+    }
+}

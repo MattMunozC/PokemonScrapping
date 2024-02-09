@@ -1,0 +1,48 @@
+{
+    "dex number": "0829",
+    "pokemon name": "Gossifleur",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Pelusa",
+        "Regeneración"
+    ],
+    "hidden abilities": [
+        "Efecto espora"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 40,
+        "def": 60,
+        "atk esp": 40,
+        "def esp": 60,
+        "speed": 10
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 2, Ruta 3, Ribera de Pistón y Lago Bolaguna ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro. Nidos en Campo Deslizante , Lecho del Gigante , Templo Corona , Suela del Gigante  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 2, Ruta 3, Ribera de Pistón y Lago Bolaguna ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro. Nidos en Campo Deslizante , Lecho del Gigante , Templo Corona , Suela del Gigante  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Gossifleur no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Gossifleur no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Gossifleur no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Si planta su única extremidad inferior en la tierra y se expone a abundante luz solar, sus pétalos cobran un color vivo.",
+        "Escudo": "Muchos los crían tras quedar prendados de lo adorables que resultan cuando cantan dando vueltas empujados por la brisa.",
+        "Diamante Brillante": "Gossifleur no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Gossifleur no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Gossifleur no aparece en Leyendas Pokémon: Arceus."
+    }
+}

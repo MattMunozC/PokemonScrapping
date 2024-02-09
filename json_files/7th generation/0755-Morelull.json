@@ -1,0 +1,65 @@
+{
+    "dex number": "0755",
+    "pokemon name": "Morelull",
+    "types": [
+        " planta",
+        " hada"
+    ],
+    "abilities": [
+        "Iluminación",
+        "Efecto espora"
+    ],
+    "hidden abilities": [
+        "Cura lluvia"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 35,
+        "def": 55,
+        "atk esp": 65,
+        "def esp": 75,
+        "speed": 15
+    },
+    "location": {
+        "Sol": [
+            "Salvaje, de noche: Ruta 11, Colina Saltagua y Jungla Umbría"
+        ],
+        "Luna": [
+            "Salvaje, de noche: Ruta 11, Colina Saltagua y Jungla Umbría"
+        ],
+        "Ultrasol": [
+            "Salvaje, de noche: Colina Saltagua y Jungla Umbría"
+        ],
+        "Ultraluna": [
+            "Salvaje, de noche: Colina Saltagua y Jungla Umbría"
+        ],
+        "Espada": [
+            "Salvaje: Espejo del Gigante y Cornisa de Artejo",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al sur, Cornisa de Artejo, nido al centro-oeste, Espejo del Gigante, nido al sur, Llanura Pétrea, nido al norte 1, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido en el centro. Nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración , Mar Islejos "
+        ],
+        "Escudo": [
+            "Salvaje: Espejo del Gigante y Cornisa de Artejo",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al sur, Cornisa de Artejo, nido al centro-oeste, Espejo del Gigante, nido al sur, Llanura Pétrea, nido al norte 1, Pradera Radiante, nido al sureste junto al acantilado y Valle Entrepuentes, nido en el centro. Nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración , Mar Islejos "
+        ],
+        "Diamante Brillante": [
+            "Morelull no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Morelull no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Morelull no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Cuando titila, esparce esporas luminosas a su alrededor. Todo aquel que ve esta luz cae en un profundo sueño.",
+        "Luna": "Por el día, absorbe los nutrientes de las raíces de los árboles mientras duerme. Por la noche, despierta y parte en busca de nuevos árboles.",
+        "Ultrasol": "Esparce esporas luminosas a su alrededor. A pesar del peligro, los tours nocturnos a través de los bosques que habitan son muy populares.",
+        "Ultraluna": "Prefiere los lugares oscuros y húmedos. Por la noche, las esporas que almacena en los sombrerillos lucen en la oscuridad.",
+        "Espada": "Sus sombrerillos tienen un sabor delicioso. Aunque los Pokémon del bosque se los coman, les vuelven a crecer al día siguiente.",
+        "Escudo": "Vive en bosques umbríos. Esparce a su alrededor esporas titilantes que adormecen a sus enemigos.",
+        "Diamante Brillante": "Morelull no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Morelull no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Morelull no aparece en Leyendas Pokémon: Arceus."
+    }
+}

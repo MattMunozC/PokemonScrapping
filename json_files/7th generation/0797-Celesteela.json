@@ -1,0 +1,60 @@
+{
+    "dex number": "0797",
+    "pokemon name": "Celesteela",
+    "types": [
+        " acero",
+        " volador"
+    ],
+    "abilities": [
+        "Ultraimpulso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 97,
+        "atk": 101,
+        "def": 103,
+        "atk esp": 107,
+        "def esp": 101,
+        "speed": 61
+    },
+    "location": {
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Especial: Desierto de Haina y/o Parque de Malíe, durante la cuarta misión de los ultraentes (solo dos)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Especial: Ultravalle"
+        ],
+        "Espada": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Escudo": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Diamante Brillante": [
+            "Celesteela no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Celesteela no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Celesteela no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Este Ultraente surgió de un Ultraumbral. Parece haber sido avistado surcando los cielos a velocidades vertiginosas.",
+        "Luna": "Varios testigos afirman haber visto como este Ultraente carbonizaba un bosque entero con el gas expelido por sus extremidades.",
+        "Ultrasol": "Uno de los temibles Ultraentes. Las lecturas de las reacciones energéticas procedentes de sus enormes brazos alcanzan picos desorbitados.",
+        "Ultraluna": "Para los seres de este mundo resulta extraño y peligroso, pero en el mundo del que procede es una criatura muy común.",
+        "Espada": "No hay entrada de Celesteela en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Celesteela en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Celesteela no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Celesteela no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Celesteela no aparece en Leyendas Pokémon: Arceus."
+    }
+}

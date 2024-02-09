@@ -1,0 +1,74 @@
+{
+    "dex number": "0743",
+    "pokemon name": "Ribombee",
+    "types": [
+        " bicho",
+        " hada"
+    ],
+    "abilities": [
+        "Recogemiel",
+        "Polvo escudo"
+    ],
+    "hidden abilities": [
+        "Velo dulce"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 55,
+        "def": 60,
+        "atk esp": 95,
+        "def esp": 70,
+        "speed": 124
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Jardines de Ula-Ula y Jardines de Poni",
+            "Evolucionar: a Cutiefly (nivel 25)"
+        ],
+        "Luna": [
+            "Salvaje: Jardines de Ula-Ula y Jardines de Poni",
+            "Evolucionar: a Cutiefly (nivel 25)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Jardines de Ula-Ula y Jardines de Poni",
+            "Evolucionar: a Cutiefly (nivel 25)",
+            "Especial: Regalo de Gabriel Oak en la Playa de Kantai tras reunir 100 dominsignias"
+        ],
+        "Ultraluna": [
+            "Salvaje: Jardines de Ula-Ula y Jardines de Poni",
+            "Evolucionar: a Cutiefly (nivel 25)"
+        ],
+        "Espada": [
+            "Salvaje: Valle Entrepuentes, Ribera de Pistón y Llanura Pétrea",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste y Pradera Radiante, nido al sureste junto al acantilado. Con posible habilidad oculta: Lago Milotic (sur), nido al noroeste y Valle Entrepuentes, nido al noreste cerca de los pilares. Nido en Llano Entrenamiento ",
+            "Evolucionar: a Cutiefly (nivel 25)"
+        ],
+        "Escudo": [
+            "Salvaje: Valle Entrepuentes, Ribera de Pistón y Llanura Pétrea",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste y Pradera Radiante, nido al sureste junto al acantilado. Con posible habilidad oculta: Lago Milotic (sur), nido al noroeste y Valle Entrepuentes, nido al noreste cerca de los pilares. Nido en Llano Entrenamiento ",
+            "Evolucionar: a Cutiefly (nivel 25)"
+        ],
+        "Diamante Brillante": [
+            "Ribombee no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Ribombee no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Ribombee no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Fabrica varios tipos de bolas de polen. Algunas se usan como alimento y otras para el combate.",
+        "Luna": "Algunas de las bolas de polen que fabrican son extremadamente nutritivas, por lo que a veces se venden como suplementos alimenticios.",
+        "Ultrasol": "Odia la lluvia porque humedece el polen. Si en el cielo aparecen nubes amenazadoras, permanece inmóvil y expectante en el hueco de un árbol.",
+        "Ultraluna": "Puede predecir las condiciones meteorológicas fijándose en la humedad y dirección del viento. Solo se avistan cuando reina el buen tiempo.",
+        "Espada": "Mezcla polen y néctar para elaborar unas bolas cuyo efecto varía en función de los ingredientes usados y de sus proporciones.",
+        "Escudo": "Detesta verse empapado por la lluvia, por lo que rara vez se deja ver en la nubosa región de Galar.",
+        "Diamante Brillante": "Ribombee no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Ribombee no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Ribombee no aparece en Leyendas Pokémon: Arceus."
+    }
+}

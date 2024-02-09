@@ -1,0 +1,22 @@
+{
+    "dex number": "1020",
+    "pokemon name": "Flamariete",
+    "types": [
+        " fuego",
+        " dragón"
+    ],
+    "abilities": [
+        "Paleosíntesis"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 105,
+        "atk": 115,
+        "def": 121,
+        "atk esp": 65,
+        "def esp": 93,
+        "speed": 91
+    },
+    "location": {},
+    "pokedex": {}
+}

@@ -1,0 +1,49 @@
+{
+    "dex number": "0904",
+    "pokemon name": "Overqwil",
+    "types": [
+        " siniestro",
+        " veneno"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Punto tóxico"
+    ],
+    "hidden abilities": [
+        "Intimidación"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 115,
+        "def": 95,
+        "atk esp": 65,
+        "def esp": 65,
+        "speed": 85
+    },
+    "location": {
+        "Espada": [
+            "Overqwil no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Overqwil no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Overqwil no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Overqwil no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: al Qwilfish de Hisui (20 veces el movimiento mil púas tóxicas en estilo fuerte)",
+            "Pokémon alfa: Lago Valor (Historia)",
+            "Aparición supermasiva: Costa Cobalto"
+        ]
+    },
+    "pokedex": {
+        "Espada": "Overqwil no aparece en Pokémon Espada.",
+        "Escudo": "Overqwil no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Overqwil no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Overqwil no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sus púas, afiladas como lanzas, y su violento carácter le han granjeado el mote de Demonio del Mar. Puede sorber veneno como sustento alimenticio."
+    }
+}

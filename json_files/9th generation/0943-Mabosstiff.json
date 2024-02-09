@@ -1,0 +1,24 @@
+{
+    "dex number": "0943",
+    "pokemon name": "Mabosstiff",
+    "types": [
+        " siniestro"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Perro guardián"
+    ],
+    "hidden abilities": [
+        "Vigilante"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 120,
+        "def": 90,
+        "atk esp": 60,
+        "def esp": 70,
+        "speed": 85
+    },
+    "location": {},
+    "pokedex": {}
+}

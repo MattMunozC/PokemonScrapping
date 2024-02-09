@@ -1,0 +1,60 @@
+{
+    "dex number": "0798",
+    "pokemon name": "Kartana",
+    "types": [
+        " planta",
+        " acero"
+    ],
+    "abilities": [
+        "Ultraimpulso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 59,
+        "atk": 181,
+        "def": 131,
+        "atk esp": 59,
+        "def esp": 31,
+        "speed": 109
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruta 17 y Parque de Malíe, durante la cuarta misión de los ultraentes (solo cuatro)"
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ultrabosque"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Escudo": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Diamante Brillante": [
+            "Kartana no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Kartana no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Kartana no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Este Ultraente surgió de un Ultraumbral. Se dice que no es muy agresivo, pero su afilado cuerpo es un arma realmente peligrosa.",
+        "Luna": "Varios testigos han observado como este Ultraente cortaba en dos una enorme torre de acero como si fuera mantequilla.",
+        "Ultrasol": "El cuerpo de este Ultraente es fino como el papel y tan cortante como una espada recién afilada.",
+        "Ultraluna": "Para los seres de este mundo resulta extraño y peligroso, pero en el mundo del que procede es una criatura muy común.",
+        "Espada": "No hay entrada de Kartana en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Kartana en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Kartana no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Kartana no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Kartana no aparece en Leyendas Pokémon: Arceus."
+    }
+}

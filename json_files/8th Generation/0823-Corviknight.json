@@ -1,0 +1,57 @@
+{
+    "dex number": "0823",
+    "pokemon name": "Corviknight",
+    "types": [
+        " volador",
+        " acero"
+    ],
+    "abilities": [
+        "Presión",
+        "Nerviosismo"
+    ],
+    "hidden abilities": [
+        "Coraza reflejo"
+    ],
+    "stats": {
+        "hp": 98,
+        "atk": 87,
+        "def": 105,
+        "atk esp": 53,
+        "def esp": 85,
+        "speed": 67
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 7, Bosque Oniria, Antigua Atalaya, Cornisa de Artejo, Cuenca Polvorienta, Gorro del Gigante, Lago del Enfado, Lago Milotic (norte), Ribera de Pistón y Lago Bolaguna ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste y Lago Axew (este), nido frente a la entrada a ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Incursiones Gigamax: Nidos en Gorro del Gigante, Campo Bajocero , Lecho del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Curri: Bosque Oniria (zona norte) y Ruta 7",
+            "Especial: Usar el cristal Dinamax ★And337 en la Antigua Atalaya",
+            "Evolucionar: de Corvisquire (nivel 38)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 7, Bosque Oniria, Antigua Atalaya, Cornisa de Artejo, Cuenca Polvorienta, Gorro del Gigante, Lago del Enfado, Lago Milotic (norte), Ribera de Pistón y Lago Bolaguna ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste y Lago Axew (este), nido frente a la entrada a ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Senda Blancacima , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Incursiones Gigamax: Nidos en Gorro del Gigante, Campo Bajocero , Lecho del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Curri: Bosque Oniria (zona norte) y Ruta 7",
+            "Especial: Usar el cristal Dinamax ★And337 en la Antigua Atalaya",
+            "Evolucionar: de Corvisquire (nivel 38)"
+        ],
+        "Diamante Brillante": [
+            "Corviknight no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Corviknight no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Corviknight no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nCorviknight: No tiene rival en los cielos de Galar. El acero negro y lustroso de su cuerpo intimida a cualquier adversario.\nCorviknight Gigamax: Gracias al fenómeno Gigamax, le basta batir las alas para levantar vientos más fuertes que un huracán, capaces de arrasarlo todo.",
+        "Escudo": "\nCorviknight: Debido a su excelente capacidad de vuelo y a su gran inteligencia, ejerce de taxi volador en Galar.\nCorviknight Gigamax: Las ocho plumas que tiene en el lomo, llamadas ornitofilos, pueden separarse del cuerpo y atacar al rival de forma independiente.",
+        "Diamante Brillante": "Corviknight no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Corviknight no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Corviknight no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "dex number": "0891",
+    "pokemon name": "Kubfu",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Fuerza mental"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 60,
+        "atk": 90,
+        "def": 60,
+        "atk esp": 53,
+        "def esp": 50,
+        "speed": 72
+    },
+    "location": {
+        "Espada": [
+            "Regalo: lo entrega Mostaz en el Dojo Maestro tras completar las tres pruebas "
+        ],
+        "Escudo": [
+            "Regalo: lo entrega Mostaz en el Dojo Maestro tras completar las tres pruebas "
+        ],
+        "Diamante Brillante": [
+            "Kubfu no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Kubfu no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Kubfu no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Perfecciona su técnica mediante una estricta disciplina. Según la corriente marcial que siga, adoptará una forma u otra al evolucionar.",
+        "Escudo": "Al tirar de los mechones blancos de la cabeza, acrecienta su espíritu luchador y empieza a acumular fuerza en el órgano de su bajo vientre.",
+        "Diamante Brillante": "Kubfu no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Kubfu no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Kubfu no aparece en Leyendas Pokémon: Arceus."
+    }
+}

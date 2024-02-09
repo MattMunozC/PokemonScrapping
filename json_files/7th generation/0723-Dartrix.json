@@ -1,0 +1,66 @@
+{
+    "dex number": "0723",
+    "pokemon name": "Dartrix",
+    "types": [
+        " planta",
+        " volador"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Remoto"
+    ],
+    "stats": {
+        "hp": 78,
+        "atk": 75,
+        "def": 75,
+        "atk esp": 70,
+        "def esp": 70,
+        "speed": 52
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Rowlet (nivel 17)"
+        ],
+        "Luna": [
+            "Evolucionar: a Rowlet (nivel 17)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Rowlet (nivel 17)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Rowlet (nivel 17)"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: a Rowlet (nivel 17) "
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: a Rowlet (nivel 17) "
+        ],
+        "Diamante Brillante": [
+            "Dartrix no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dartrix no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Rowlet (nivel 17)",
+            "Distorsión espaciotemporal: Ladera Corona",
+            "Aparición supermasiva: Ladera Corona"
+        ]
+    },
+    "pokedex": {
+        "Sol": "Es un poco coqueto, por lo que, cuando puede, se acicala las alas. En ocasiones se niega a combatir por temor a mancharse las plumas.",
+        "Luna": "Ataca a sus presas y enemigos lanzándoles plumas sorprendentemente afiladas. Acierta prácticamente siempre.",
+        "Ultrasol": "Es narcisista y bastante pulcro, por lo que, si no se le dedica suficiente atención a su aseo, se niega a obedecer cualquier orden.",
+        "Ultraluna": "Su capacidad de percepción es excelente y puede detectar una presencia a sus espaldas y aniquilarla con sus afiladas plumas.",
+        "Espada": "Golpea con precisión los puntos vitales del enemigo arrojando sus plumas afiladas como cuchillos.",
+        "Escudo": "Jamás desatiende el cuidado de sus alas, no solo por mera cuestión estética, sino también para mantener las plumas perfectamente afiladas.",
+        "Diamante Brillante": "Dartrix no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dartrix no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Se expone al sol para reponer energía, quizá debido al frío clima de esta región. Las afiladas plumas de sus alas han permanecido, no obstante, inalteradas."
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "dex number": "0864",
+    "pokemon name": "Cursola",
+    "types": [
+        " fantasma"
+    ],
+    "abilities": [
+        "Armadura frágil"
+    ],
+    "hidden abilities": [
+        "Cuerpo mortal"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 95,
+        "def": 50,
+        "atk esp": 145,
+        "def esp": 130,
+        "speed": 30
+    },
+    "location": {
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Antigua Atalaya, nido junto a la pared, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Llanura Pétrea, nido al noreste junto a una pared 2. Nidos en Playa Desafío , Cueva Tenacidad , Mar Andana , Campo Deslizante , Viejo Cementerio , Suela del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: al Corsola de Galar (nivel 38)"
+        ],
+        "Diamante Brillante": [
+            "Cursola no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cursola no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cursola no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Su energía espiritual ha aumentado hasta hacerlo desprenderse de su base caliza. Protege el alma del núcleo con su cuerpo espectral.",
+        "Escudo": "Conviene tener cuidado con el cuerpo espectral que recubre su alma, pues quien lo toque podría acabar inerte como una piedra.",
+        "Diamante Brillante": "Cursola no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cursola no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cursola no aparece en Leyendas Pokémon: Arceus."
+    }
+}

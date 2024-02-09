@@ -1,0 +1,22 @@
+{
+    "dex number": "0984",
+    "pokemon name": "Colmilargo",
+    "types": [
+        " tierra",
+        " lucha"
+    ],
+    "abilities": [
+        "Paleosíntesis"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 115,
+        "atk": 131,
+        "def": 131,
+        "atk esp": 53,
+        "def esp": 53,
+        "speed": 87
+    },
+    "location": {},
+    "pokedex": {}
+}

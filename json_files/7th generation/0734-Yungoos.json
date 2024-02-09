@@ -1,0 +1,62 @@
+{
+    "dex number": "0734",
+    "pokemon name": "Yungoos",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Vigilante",
+        "Mandíbula fuerte"
+    ],
+    "hidden abilities": [
+        "Adaptable"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 70,
+        "def": 30,
+        "atk esp": 30,
+        "def esp": 30,
+        "speed": 45
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Rutas 1, 2, 3, 4, 6, 8, Ciudad Hauoli, Bahía Kalae (solo de día). Cueva Sotobosque (todo el día)"
+        ],
+        "Luna": [
+            "Salvaje: Rutas 1, 2, 3, 4, 6, 8, Ciudad Hauoli y Bahía Kalae (solo de día)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Rutas 1, 2, 4, 6, 8, Cueva Sotobosque y Bahía Kalae"
+        ],
+        "Ultraluna": [
+            "Salvaje: Rutas 1, 2, 4, 6, 8, Cueva Sotobosque y Bahía Kalae"
+        ],
+        "Espada": [
+            "Yungoos no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Yungoos no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Yungoos no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Yungoos no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Yungoos no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Sus afilados colmillos lo atraviesan todo. No es autóctono de Alola, sino que proviene de otra región.",
+        "Luna": "Deambula todo el día en busca de alimento. Al anochecer, exhausto, se deja caer en cualquier lugar y se queda dormido.",
+        "Ultrasol": "El estómago le ocupa gran parte de su largo cuerpo. Alimentar a este auténtico tragaldabas no es moco de pavo, por el coste que conlleva.",
+        "Ultraluna": "Pese a ser omnívoro, siente predilección por los alimentos frescos o incluso seres vivos. Por eso marcha por los caminos en busca de presas.",
+        "Espada": "Yungoos no aparece en Pokémon Espada.",
+        "Escudo": "Yungoos no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Yungoos no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Yungoos no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Yungoos no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "dex number": "1006",
+    "pokemon name": "Ferropaladín",
+    "types": [
+        " hada",
+        " lucha"
+    ],
+    "abilities": [
+        "Carga cuark"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 74,
+        "atk": 130,
+        "def": 90,
+        "atk esp": 120,
+        "def esp": 60,
+        "speed": 116
+    },
+    "location": {},
+    "pokedex": {}
+}

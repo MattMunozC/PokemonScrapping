@@ -1,0 +1,47 @@
+{
+    "dex number": "0813",
+    "pokemon name": "Scorbunny",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Líbero"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 71,
+        "def": 40,
+        "atk esp": 40,
+        "def esp": 40,
+        "speed": 69
+    },
+    "location": {
+        "Espada": [
+            "Regalo: es uno de los Pokémon iniciales que da a elegir Lionel en Pueblo Yarda (solo uno)",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Escudo": [
+            "Regalo: es uno de los Pokémon iniciales que da a elegir Lionel en Pueblo Yarda (solo uno)",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Diamante Brillante": [
+            "Scorbunny no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Scorbunny no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Scorbunny no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Se pone a correr para elevar su temperatura corporal y propagar la energía ígnea por todo el cuerpo. Desata así su verdadera fuerza.",
+        "Escudo": "Cuando se prepara para combatir, irradia calor por la punta de la nariz y el pelo que le recubre las patas.",
+        "Diamante Brillante": "Scorbunny no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Scorbunny no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Scorbunny no aparece en Leyendas Pokémon: Arceus."
+    }
+}

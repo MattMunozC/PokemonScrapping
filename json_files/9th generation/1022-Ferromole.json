@@ -1,0 +1,22 @@
+{
+    "dex number": "1022",
+    "pokemon name": "Ferromole",
+    "types": [
+        " roca",
+        " psíquico"
+    ],
+    "abilities": [
+        "Carga cuark"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 90,
+        "atk": 120,
+        "def": 80,
+        "atk esp": 68,
+        "def esp": 108,
+        "speed": 124
+    },
+    "location": {},
+    "pokedex": {}
+}

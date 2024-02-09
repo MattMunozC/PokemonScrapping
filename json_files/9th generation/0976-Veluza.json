@@ -1,0 +1,24 @@
+{
+    "dex number": "0976",
+    "pokemon name": "Veluza",
+    "types": [
+        " agua",
+        " psíquico"
+    ],
+    "abilities": [
+        "Rompemoldes"
+    ],
+    "hidden abilities": [
+        "Cortante"
+    ],
+    "stats": {
+        "hp": 90,
+        "atk": 102,
+        "def": 73,
+        "atk esp": 78,
+        "def esp": 65,
+        "speed": 70
+    },
+    "location": {},
+    "pokedex": {}
+}

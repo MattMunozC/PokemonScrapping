@@ -1,0 +1,24 @@
+{
+    "dex number": "0947",
+    "pokemon name": "Brambleghast",
+    "types": [
+        " planta",
+        " fantasma"
+    ],
+    "abilities": [
+        "Surcavientos"
+    ],
+    "hidden abilities": [
+        "Allanamiento"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 115,
+        "def": 70,
+        "atk esp": 80,
+        "def esp": 70,
+        "speed": 90
+    },
+    "location": {},
+    "pokedex": {}
+}

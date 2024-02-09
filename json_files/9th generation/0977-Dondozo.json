@@ -1,0 +1,24 @@
+{
+    "dex number": "0977",
+    "pokemon name": "Dondozo",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Ignorante",
+        "Despiste"
+    ],
+    "hidden abilities": [
+        "Velo agua"
+    ],
+    "stats": {
+        "hp": 150,
+        "atk": 100,
+        "def": 115,
+        "atk esp": 65,
+        "def esp": 65,
+        "speed": 35
+    },
+    "location": {},
+    "pokedex": {}
+}

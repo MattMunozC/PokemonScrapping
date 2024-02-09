@@ -1,0 +1,24 @@
+{
+    "dex number": "0954",
+    "pokemon name": "Rabsca",
+    "types": [
+        " bicho",
+        " psíquico"
+    ],
+    "abilities": [
+        "Sincronía"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 50,
+        "def": 85,
+        "atk esp": 115,
+        "def esp": 100,
+        "speed": 45
+    },
+    "location": {},
+    "pokedex": {}
+}

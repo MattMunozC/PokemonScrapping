@@ -1,0 +1,24 @@
+{
+    "dex number": "0974",
+    "pokemon name": "Cetoddle",
+    "types": [
+        " hielo"
+    ],
+    "abilities": [
+        "Sebo",
+        "Manto níveo"
+    ],
+    "hidden abilities": [
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": 108,
+        "atk": 68,
+        "def": 45,
+        "atk esp": 30,
+        "def esp": 40,
+        "speed": 43
+    },
+    "location": {},
+    "pokedex": {}
+}

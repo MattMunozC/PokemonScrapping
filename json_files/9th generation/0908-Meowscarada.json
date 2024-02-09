@@ -1,0 +1,24 @@
+{
+    "dex number": "0908",
+    "pokemon name": "Meowscarada",
+    "types": [
+        " planta",
+        " siniestro"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Mutatipo"
+    ],
+    "stats": {
+        "hp": 76,
+        "atk": 110,
+        "def": 70,
+        "atk esp": 81,
+        "def esp": 70,
+        "speed": 123
+    },
+    "location": {},
+    "pokedex": {}
+}

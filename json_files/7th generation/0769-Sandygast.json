@@ -1,0 +1,65 @@
+{
+    "dex number": "0769",
+    "pokemon name": "Sandygast",
+    "types": [
+        " fantasma",
+        " tierra"
+    ],
+    "abilities": [
+        "Hidrorrefuerzo"
+    ],
+    "hidden abilities": [
+        "Velo arena"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 55,
+        "def": 80,
+        "atk esp": 70,
+        "def esp": 45,
+        "speed": 15
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Playa de Hanohano"
+        ],
+        "Luna": [
+            "Salvaje: Playa de Hanohano"
+        ],
+        "Ultrasol": [
+            "Salvaje: Playa de Hanohano"
+        ],
+        "Ultraluna": [
+            "Salvaje: Playa de Hanohano",
+            "Especial: Hablar con un niño en la playa al norte de la Ruta 15 y mirar su montón de arena (solo uno)"
+        ],
+        "Espada": [
+            "Salvaje: Bahía Circular ",
+            "Incursiones Dinamax: nidos en Playa Desafío , Mar Andana  y Cueva Tenacidad "
+        ],
+        "Escudo": [
+            "Salvaje: Bahía Circular ",
+            "Incursiones Dinamax: nidos en Playa Desafío , Mar Andana  y Cueva Tenacidad "
+        ],
+        "Diamante Brillante": [
+            "Sandygast no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sandygast no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Sandygast no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Surgió cuando una persona murió abandonada en plena calle y su resentimiento poseyó un montículo de arena apilado por un niño.",
+        "Luna": "Controla a todo aquel que ose meterle la mano en la boca. Su objetivo es aumentar el tamaño de su cuerpo en forma de duna.",
+        "Ultrasol": "Siente mucho apego por la pala de su cabeza. Si un niño intenta quitársela, se enfurece y pelea por ella.",
+        "Ultraluna": "Los montículos de arena que los niños no allanan antes de irse a casa pueden acabar poseídos por un espíritu y convertirse en este Pokémon.",
+        "Espada": "Nace de un montículo de arena poseído por el resentimiento de un difunto. Siente mucho apego por la pala de su cabeza.",
+        "Escudo": "Suele habitar en playas. Aumenta de tamaño al tomar control de todo aquel que se atreva a introducir la mano en su boca.",
+        "Diamante Brillante": "Sandygast no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sandygast no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sandygast no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "dex number": "1017",
+    "pokemon name": "Ogerpon",
+    "types": [
+        " planta",
+        " planta",
+        " agua",
+        " planta",
+        " fuego",
+        " planta",
+        " roca"
+    ],
+    "abilities": [
+        "Competitivo",
+        "Absorbe agua",
+        "Rompemoldes",
+        "Robustez",
+        "Evocarrecuerdos"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 80,
+        "atk": 120,
+        "def": 84,
+        "atk esp": 60,
+        "def esp": 96,
+        "speed": 110
+    },
+    "location": {},
+    "pokedex": {}
+}

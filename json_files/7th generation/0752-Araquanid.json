@@ -1,0 +1,73 @@
+{
+    "dex number": "0752",
+    "pokemon name": "Araquanid",
+    "types": [
+        " agua",
+        " bicho"
+    ],
+    "abilities": [
+        "Pompa"
+    ],
+    "hidden abilities": [
+        "Absorbe agua"
+    ],
+    "stats": {
+        "hp": 68,
+        "atk": 70,
+        "def": 92,
+        "atk esp": 50,
+        "def esp": 132,
+        "speed": 42
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Parque de Malíe (día)",
+            "Evolucionar: a Dewpider (nivel 22)"
+        ],
+        "Luna": [
+            "Salvaje: Parque de Malíe (día)",
+            "Evolucionar: a Dewpider (nivel 22)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Parque de Malíe (día)",
+            "Evolucionar: a Dewpider (nivel 22)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Parque de Malíe (día)",
+            "Evolucionar: a Dewpider (nivel 22)",
+            "Regalo: de Gabriel Oak en la Playa de Kantai tras reunir 40 dominsignias"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado, Llanura Pétrea, Lecho del Gigante , Viejo Cementerio , Suela del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido en el centro, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (sur), nido al noroeste, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared, Valle Entrepuentes, nido al noreste cerca de los pilares y Valle Entrepuentes, nido en la laguna. Nidos en Prado Reverencia , Humedal Frescor , Cueva Tenacidad , Campo Deslizante , Lecho del Gigante , Templo Corona , Suela del Gigante  y Lago Bolaguna ",
+            "Evolucionar: a Dewpider (nivel 22)"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado, Llanura Pétrea, Lecho del Gigante , Viejo Cementerio , Suela del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido en el centro, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (sur), nido al noroeste, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared, Valle Entrepuentes, nido al noreste cerca de los pilares y Valle Entrepuentes, nido en la laguna. Nidos en Prado Reverencia , Humedal Frescor , Cueva Tenacidad , Campo Deslizante , Lecho del Gigante , Templo Corona , Suela del Gigante  y Lago Bolaguna ",
+            "Evolucionar: a Dewpider (nivel 22)"
+        ],
+        "Diamante Brillante": [
+            "Araquanid no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Araquanid no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Araquanid no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Propina cabezazos con su burbuja. Los Pokémon de menor tamaño quedan atrapados en su interior y perecen ahogados.",
+        "Luna": "Es más atento de lo que parece. Si encuentra a uno de los suyos débil o vulnerable, lo protege envolviéndolo con su burbuja.",
+        "Ultrasol": "Pasa la mayor parte del tiempo en el agua. Si atrapa alguna presa sin tener hambre, la almacena en la burbuja de su cabeza.",
+        "Ultraluna": "Guarda en su burbuja todo lo que le es preciado. También intentará atrapar a su Entrenador si este se descuida.",
+        "Espada": "Usa las patas para lanzar burbujas de agua con las que atrapa y ahoga a sus presas. Luego se toma su tiempo para saborearlas.",
+        "Escudo": "Cuida de pequeños Dewpider acogiéndolos en su burbuja de agua y dejando que se alimenten de los restos de las presas que ha ingerido.",
+        "Diamante Brillante": "Araquanid no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Araquanid no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Araquanid no aparece en Leyendas Pokémon: Arceus."
+    }
+}

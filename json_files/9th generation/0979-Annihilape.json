@@ -1,0 +1,25 @@
+{
+    "dex number": "0979",
+    "pokemon name": "Annihilape",
+    "types": [
+        " lucha",
+        " fantasma"
+    ],
+    "abilities": [
+        "Espíritu vital",
+        "Fuerza mental"
+    ],
+    "hidden abilities": [
+        "Competitivo"
+    ],
+    "stats": {
+        "hp": 110,
+        "atk": 115,
+        "def": 80,
+        "atk esp": 50,
+        "def esp": 90,
+        "speed": 90
+    },
+    "location": {},
+    "pokedex": {}
+}

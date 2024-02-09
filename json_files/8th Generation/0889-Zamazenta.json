@@ -1,0 +1,46 @@
+{
+    "dex number": "0889",
+    "pokemon name": "Zamazenta",
+    "types": [
+        " lucha",
+        " lucha",
+        " acero"
+    ],
+    "abilities": [
+        "Escudo recio"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 92,
+        "atk": 130,
+        "def": 115,
+        "atk esp": 80,
+        "def esp": 115,
+        "speed": 138
+    },
+    "location": {
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Escudo": [
+            "Salvaje: Corona de la Torre (solo uno)"
+        ],
+        "Diamante Brillante": [
+            "Zamazenta no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Zamazenta no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Zamazenta no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nGuerrero avezado: Este Pokémon se erigió en salvador de Galar, tras unir fuerzas con un rey de los hombres. Absorbe el metal para utilizarlo en combate.\nEscudo supremo: Esta forma, temida y venerada por igual, le ha valido el nombre de Regio Escudo Guerrero por su capacidad de repeler cualquier ataque.",
+        "Escudo": "\nGuerrero avezado: Con la apariencia de una estatua de piedra, este Pokémon se sumió en un letargo tan profundo que acabó cayendo en el olvido.\nEscudo supremo: En esta forma, su capacidad defensiva es tal que puede bloquear con extrema facilidad incluso los ataques de un Pokémon Dinamax.",
+        "Diamante Brillante": "Zamazenta no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Zamazenta no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Zamazenta no aparece en Leyendas Pokémon: Arceus."
+    }
+}

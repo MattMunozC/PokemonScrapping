@@ -1,0 +1,47 @@
+{
+    "dex number": "0852",
+    "pokemon name": "Clobbopus",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Flexibilidad"
+    ],
+    "hidden abilities": [
+        "Experto"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 68,
+        "def": 60,
+        "atk esp": 50,
+        "def esp": 50,
+        "speed": 32
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 9, Cueva Tenacidad  y Bahía Circular ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste y Lago Milotic (norte), nido junto al lago. Nidos en Prado Reverencia , Playa Desafío , Ruta Desafío  y Mar Meloso "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 9, Cueva Tenacidad  y Bahía Circular ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste y Lago Milotic (norte), nido junto al lago. Nidos en Prado Reverencia , Playa Desafío , Ruta Desafío  y Mar Meloso "
+        ],
+        "Diamante Brillante": [
+            "Clobbopus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Clobbopus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Clobbopus no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Emerge a tierra firme en busca de alimento. Su extrema curiosidad lo induce a golpear con los tentáculos todo lo que entra en su campo visual.",
+        "Escudo": "Su inteligencia es similar a la de un niño de tres años. Sus tentáculos se desprenden a menudo, pero ni se inmuta, ya que se regeneran solos.",
+        "Diamante Brillante": "Clobbopus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Clobbopus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Clobbopus no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "dex number": "1018",
+    "pokemon name": "Archaludon",
+    "types": [
+        " acero",
+        " dragón"
+    ],
+    "abilities": [
+        "Firmeza",
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Acérrimo"
+    ],
+    "stats": {
+        "hp": 90,
+        "atk": 105,
+        "def": 130,
+        "atk esp": 125,
+        "def esp": 65,
+        "speed": 85
+    },
+    "location": {},
+    "pokedex": {}
+}

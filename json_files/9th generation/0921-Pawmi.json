@@ -1,0 +1,24 @@
+{
+    "dex number": "0921",
+    "pokemon name": "Pawmi",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Electricidad estática",
+        "Cura natural"
+    ],
+    "hidden abilities": [
+        "Puño férreo"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 50,
+        "def": 20,
+        "atk esp": 40,
+        "def esp": 25,
+        "speed": 60
+    },
+    "location": {},
+    "pokedex": {}
+}

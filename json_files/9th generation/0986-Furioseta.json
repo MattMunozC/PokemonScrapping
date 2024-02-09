@@ -1,0 +1,22 @@
+{
+    "dex number": "0986",
+    "pokemon name": "Furioseta",
+    "types": [
+        " planta",
+        " siniestro"
+    ],
+    "abilities": [
+        "Paleosíntesis"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 111,
+        "atk": 127,
+        "def": 99,
+        "atk esp": 79,
+        "def esp": 99,
+        "speed": 55
+    },
+    "location": {},
+    "pokedex": {}
+}

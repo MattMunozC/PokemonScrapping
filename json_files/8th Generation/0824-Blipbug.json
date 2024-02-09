@@ -1,0 +1,50 @@
+{
+    "dex number": "0824",
+    "pokemon name": "Blipbug",
+    "types": [
+        " bicho"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Ojo compuesto"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": 25,
+        "atk": 20,
+        "def": 20,
+        "atk esp": 25,
+        "def esp": 45,
+        "speed": 45
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 1, Ruta 2, Bosque Oniria, Gorro del Gigante, Prado Reverencia , Ruta Desafío , Bahía Circular , Llano Entrenamiento , Mar Gimnástico , Mar Andana , Mar Islejos  y Mar Meloso ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared, Valle Entrepuentes, nido al noreste cerca de los pilares y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Llano Entrenamiento ",
+            "Curri: Ruta 1, Ruta 2 y Bosque Oniria (zona sur)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 1, Ruta 2, Bosque Oniria, Gorro del Gigante, Prado Reverencia , Ruta Desafío , Bahía Circular , Llano Entrenamiento , Mar Gimnástico , Mar Andana , Mar Islejos  y Mar Meloso ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared, Valle Entrepuentes, nido al noreste cerca de los pilares y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Llano Entrenamiento ",
+            "Curri: Ruta 1, Ruta 2 y Bosque Oniria (zona sur)"
+        ],
+        "Diamante Brillante": [
+            "Blipbug no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Blipbug no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Blipbug no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Siempre está recopilando información, por lo que es muy inteligente, aunque su fuerza deja bastante que desear.",
+        "Escudo": "Es habitual verlo en el campo. Los pelos que tiene son sensores con los que percibe lo que ocurre a su alrededor.",
+        "Diamante Brillante": "Blipbug no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Blipbug no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Blipbug no aparece en Leyendas Pokémon: Arceus."
+    }
+}

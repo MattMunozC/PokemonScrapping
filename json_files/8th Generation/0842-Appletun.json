@@ -1,0 +1,50 @@
+{
+    "dex number": "0842",
+    "pokemon name": "Appletun",
+    "types": [
+        " planta",
+        " dragón"
+    ],
+    "abilities": [
+        "Maduración",
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Sebo"
+    ],
+    "stats": {
+        "hp": 110,
+        "atk": 85,
+        "def": 80,
+        "atk esp": 100,
+        "def esp": 80,
+        "speed": 30
+    },
+    "location": {
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Árboles de bayas: Mar Andana ",
+            "Evolucionar: a Applin (usando manzana dulce)",
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al norte 2, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1, Ojo de Axew, nido central y Valle Entrepuentes, nido en el centro. Nidos en Bahía Circular , Mar Gimnástico  y Mar Meloso ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al norte 1. Nido en Bahía Circular "
+        ],
+        "Diamante Brillante": [
+            "Appletun no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Appletun no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Appletun no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nAppletun: Ha evolucionado tras ingerir una manzana dulce. De ahí que el olor que emana para atraer a sus presas, los Pokémon insecto, sea tan agradable.\nAppletun Gigamax: Expulsa grandes chorros de néctar con los que rocía y cubre por completo al rival, que acaba asfixiado bajo el fluido viscoso.",
+        "Escudo": "\nAppletun: Su cuerpo está recubierto de néctar. La piel de la espalda es tan dulce que los niños de antaño solían tomarla como merienda.\nAppletun Gigamax: A causa del fenómeno Gigamax, su néctar se hace más viscoso y puede absorber gran parte de los ataques que recibe.",
+        "Diamante Brillante": "Appletun no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Appletun no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Appletun no aparece en Leyendas Pokémon: Arceus."
+    }
+}

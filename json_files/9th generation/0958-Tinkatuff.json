@@ -1,0 +1,25 @@
+{
+    "dex number": "0958",
+    "pokemon name": "Tinkatuff",
+    "types": [
+        " hada",
+        " acero"
+    ],
+    "abilities": [
+        "Rompemoldes",
+        "Ritmo propio"
+    ],
+    "hidden abilities": [
+        "Hurto"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 55,
+        "def": 55,
+        "atk esp": 45,
+        "def esp": 82,
+        "speed": 78
+    },
+    "location": {},
+    "pokedex": {}
+}

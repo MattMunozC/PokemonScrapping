@@ -1,0 +1,23 @@
+{
+    "dex number": "0972",
+    "pokemon name": "Houndstone",
+    "types": [
+        " fantasma"
+    ],
+    "abilities": [
+        "Ímpetu arena"
+    ],
+    "hidden abilities": [
+        "Peluche"
+    ],
+    "stats": {
+        "hp": 72,
+        "atk": 101,
+        "def": 100,
+        "atk esp": 50,
+        "def esp": 97,
+        "speed": 68
+    },
+    "location": {},
+    "pokedex": {}
+}

@@ -1,0 +1,23 @@
+{
+    "dex number": "0935",
+    "pokemon name": "Charcadet",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Absorbe fuego"
+    ],
+    "hidden abilities": [
+        "Cuerpo llama"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 50,
+        "def": 40,
+        "atk esp": 50,
+        "def esp": 40,
+        "speed": 35
+    },
+    "location": {},
+    "pokedex": {}
+}

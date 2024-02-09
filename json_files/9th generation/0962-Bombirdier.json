@@ -1,0 +1,25 @@
+{
+    "dex number": "0962",
+    "pokemon name": "Bombirdier",
+    "types": [
+        " volador",
+        " siniestro"
+    ],
+    "abilities": [
+        "Sacapecho",
+        "Vista lince"
+    ],
+    "hidden abilities": [
+        "Transportarrocas"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 103,
+        "def": 85,
+        "atk esp": 60,
+        "def esp": 85,
+        "speed": 82
+    },
+    "location": {},
+    "pokedex": {}
+}

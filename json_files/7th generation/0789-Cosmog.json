@@ -1,0 +1,59 @@
+{
+    "dex number": "0789",
+    "pokemon name": "Cosmog",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Ignorante"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 43,
+        "atk": 29,
+        "def": 31,
+        "atk esp": 29,
+        "def esp": 31,
+        "speed": 37
+    },
+    "location": {
+        "Sol": [
+            "Especial: Lago Corosol, se une al equipo después de vencer la Liga Pokémon. Se debe atravesar la fisura dimensional en el Altar del Sol con Solgaleo (de noche) o Lunala (de día) en el equipo (solo uno)"
+        ],
+        "Luna": [
+            "Especial: Lago Coroluna, se une al equipo después de vencer la Liga Pokémon. Se debe atravesar la fisura dimensional en el Altar de la Luna con Solgaleo (de noche) o Lunala (de día) en el equipo (solo uno)"
+        ],
+        "Ultrasol": [
+            "Especial: Lago Corosol, se une al equipo después de vencer la Liga Pokémon. Se debe atravesar la fisura dimensional en el Altar del Sol con Solgaleo (de noche) o Lunala (de día) en el equipo (solo uno)"
+        ],
+        "Ultraluna": [
+            "Especial: Lago Coroluna, se une al equipo después de vencer la Liga Pokémon. Se debe atravesar la fisura dimensional en el Altar de la Luna con Solgaleo (de noche) o Lunala (de día) en el equipo (solo uno)"
+        ],
+        "Espada": [
+            "Regalo: Lo entrega una mujer en Villa Helada tras expulsar del pueblo a Glastrier o Spectrier "
+        ],
+        "Escudo": [
+            "Regalo: Lo entrega una mujer en Villa Helada tras expulsar del pueblo a Glastrier o Spectrier "
+        ],
+        "Diamante Brillante": [
+            "Cosmog no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cosmog no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cosmog no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Su cuerpo se compone de una materia gaseosa inestable. Crece poco a poco al acumular las motas de polvo que flotan en el aire.",
+        "Luna": "En tiempos remotos recibía el nombre de Hijo de las estrellas. Cuentan que proviene de otro mundo, pero poco más se sabe al respecto.",
+        "Ultrasol": "Hasta la brisa más leve es capaz de arrastrar su cuerpo, compuesto de una materia gaseosa inestable, pero no parece que eso le moleste.",
+        "Ultraluna": "No está claro si es un Pokémon de este mundo. Cuando está en apuros, se teletransporta a un lugar seguro donde esconderse.",
+        "Espada": "Proviene de otro mundo. Su cuerpo gaseoso es tan liviano que hasta la brisa más suave es capaz de arrastrarlo.",
+        "Escudo": "Su escasa prudencia y gran curiosidad lo llevan a menudo a ponerse en peligro. En caso de apuro, se teletransporta para huir.",
+        "Diamante Brillante": "Cosmog no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cosmog no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cosmog no aparece en Leyendas Pokémon: Arceus."
+    }
+}

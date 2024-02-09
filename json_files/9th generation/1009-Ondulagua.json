@@ -1,0 +1,22 @@
+{
+    "dex number": "1009",
+    "pokemon name": "Ondulagua",
+    "types": [
+        " agua",
+        " dragón"
+    ],
+    "abilities": [
+        "Paleosíntesis"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 99,
+        "atk": 83,
+        "def": 91,
+        "atk esp": 125,
+        "def esp": 83,
+        "speed": 109
+    },
+    "location": {},
+    "pokedex": {}
+}

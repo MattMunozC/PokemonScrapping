@@ -1,0 +1,24 @@
+{
+    "dex number": "0982",
+    "pokemon name": "Dudunsparce",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Dicha",
+        "Fuga"
+    ],
+    "hidden abilities": [
+        "Cobardía"
+    ],
+    "stats": {
+        "hp": 125,
+        "atk": 100,
+        "def": 80,
+        "atk esp": 85,
+        "def esp": 75,
+        "speed": 55
+    },
+    "location": {},
+    "pokedex": {}
+}

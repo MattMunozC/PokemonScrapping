@@ -1,0 +1,24 @@
+{
+    "dex number": "0997",
+    "pokemon name": "Arctibax",
+    "types": [
+        " dragón",
+        " hielo"
+    ],
+    "abilities": [
+        "Termoconversión"
+    ],
+    "hidden abilities": [
+        "Gélido"
+    ],
+    "stats": {
+        "hp": 90,
+        "atk": 95,
+        "def": 66,
+        "atk esp": 45,
+        "def esp": 65,
+        "speed": 62
+    },
+    "location": {},
+    "pokedex": {}
+}

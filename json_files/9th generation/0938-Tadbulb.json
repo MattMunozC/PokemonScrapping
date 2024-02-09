@@ -1,0 +1,24 @@
+{
+    "dex number": "0938",
+    "pokemon name": "Tadbulb",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Ritmo propio",
+        "Electricidad estática"
+    ],
+    "hidden abilities": [
+        "Humedad"
+    ],
+    "stats": {
+        "hp": 61,
+        "atk": 31,
+        "def": 41,
+        "atk esp": 59,
+        "def esp": 35,
+        "speed": 45
+    },
+    "location": {},
+    "pokedex": {}
+}

@@ -1,0 +1,22 @@
+{
+    "dex number": "0990",
+    "pokemon name": "Ferrodada",
+    "types": [
+        " tierra",
+        " acero"
+    ],
+    "abilities": [
+        "Carga cuark"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 90,
+        "atk": 112,
+        "def": 120,
+        "atk esp": 72,
+        "def esp": 70,
+        "speed": 106
+    },
+    "location": {},
+    "pokedex": {}
+}

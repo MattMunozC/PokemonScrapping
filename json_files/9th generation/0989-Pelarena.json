@@ -1,0 +1,22 @@
+{
+    "dex number": "0989",
+    "pokemon name": "Pelarena",
+    "types": [
+        " eléctrico",
+        " tierra"
+    ],
+    "abilities": [
+        "Paleosíntesis"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 85,
+        "atk": 81,
+        "def": 97,
+        "atk esp": 121,
+        "def esp": 85,
+        "speed": 101
+    },
+    "location": {},
+    "pokedex": {}
+}

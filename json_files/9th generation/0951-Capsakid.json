@@ -1,0 +1,24 @@
+{
+    "dex number": "0951",
+    "pokemon name": "Capsakid",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Insomnio"
+    ],
+    "hidden abilities": [
+        "Zoquete"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 62,
+        "def": 40,
+        "atk esp": 62,
+        "def esp": 40,
+        "speed": 50
+    },
+    "location": {},
+    "pokedex": {}
+}

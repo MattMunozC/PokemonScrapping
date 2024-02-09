@@ -1,0 +1,25 @@
+{
+    "dex number": "0959",
+    "pokemon name": "Tinkaton",
+    "types": [
+        " hada",
+        " acero"
+    ],
+    "abilities": [
+        "Rompemoldes",
+        "Ritmo propio"
+    ],
+    "hidden abilities": [
+        "Hurto"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 75,
+        "def": 77,
+        "atk esp": 70,
+        "def esp": 105,
+        "speed": 94
+    },
+    "location": {},
+    "pokedex": {}
+}

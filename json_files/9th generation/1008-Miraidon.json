@@ -1,0 +1,22 @@
+{
+    "dex number": "1008",
+    "pokemon name": "Miraidon",
+    "types": [
+        " eléctrico",
+        " dragón"
+    ],
+    "abilities": [
+        "Motor hadrónico"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 85,
+        "def": 100,
+        "atk esp": 135,
+        "def esp": 115,
+        "speed": 135
+    },
+    "location": {},
+    "pokedex": {}
+}

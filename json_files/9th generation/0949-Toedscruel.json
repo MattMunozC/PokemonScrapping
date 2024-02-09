@@ -1,0 +1,22 @@
+{
+    "dex number": "0949",
+    "pokemon name": "Toedscruel",
+    "types": [
+        " tierra",
+        " planta"
+    ],
+    "abilities": [
+        "Poder fúngico"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 80,
+        "atk": 70,
+        "def": 65,
+        "atk esp": 80,
+        "def esp": 120,
+        "speed": 100
+    },
+    "location": {},
+    "pokedex": {}
+}

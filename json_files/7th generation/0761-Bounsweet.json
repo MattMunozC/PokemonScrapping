@@ -1,0 +1,66 @@
+{
+    "dex number": "0761",
+    "pokemon name": "Bounsweet",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Defensa hoja",
+        "Despiste"
+    ],
+    "hidden abilities": [
+        "Velo dulce"
+    ],
+    "stats": {
+        "hp": 42,
+        "atk": 30,
+        "def": 38,
+        "atk esp": 30,
+        "def esp": 38,
+        "speed": 32
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Jungla Umbría",
+            "Intercambiar: por Lillipup en el Centro Pokémon de la Ruta 5"
+        ],
+        "Luna": [
+            "Salvaje: Jungla Umbría",
+            "Intercambiar: por Lillipup en el Centro Pokémon de la Ruta 5"
+        ],
+        "Ultrasol": [
+            "Criar: de Steenee o Tsareena"
+        ],
+        "Ultraluna": [
+            "Criar: de Steenee o Tsareena"
+        ],
+        "Espada": [
+            "Salvaje: Pradera Radiante, Arboleda Claroscuro, Antigua Atalaya, Lago Axew (este), Llanura Pétrea",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur y Espejo del Gigante, nido al norte"
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante, Arboleda Claroscuro, Antigua Atalaya, Lago Axew (este), Llanura Pétrea",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur y Espejo del Gigante, nido al norte"
+        ],
+        "Diamante Brillante": [
+            "Bounsweet no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Bounsweet no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Bounsweet no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Atraídos por el apetitoso aroma que desprende su cuerpo, los Toucannon los engullen con avidez sin ni siquiera masticar.",
+        "Luna": "La gente lo nota demasiado dulce como para comerlo, pero al diluir el sudor que exhala se obtiene un zumo con el toque justo de dulzura.",
+        "Ultrasol": "El dulce aroma que desprenden los convierte en presa de los Pokémon pájaro, pero, al no ser muy avispados, no se alteran en absoluto.",
+        "Ultraluna": "Cuando un Pokémon pájaro está a punto de engullirlo, gira el cáliz de su cabeza a modo de hélice para evitarlo, pero suele ser en vano.",
+        "Espada": "El dulce y afrutado aroma que desprende estimula sobremanera el apetito de los Pokémon pájaro.",
+        "Escudo": "Cuando lo atacan, produce un sudor dulce y delicioso cuyo aroma atrae a más enemigos.",
+        "Diamante Brillante": "Bounsweet no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Bounsweet no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Bounsweet no aparece en Leyendas Pokémon: Arceus."
+    }
+}

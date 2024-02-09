@@ -1,0 +1,48 @@
+{
+    "dex number": "0827",
+    "pokemon name": "Nickit",
+    "types": [
+        " siniestro"
+    ],
+    "abilities": [
+        "Fuga",
+        "Liviano"
+    ],
+    "hidden abilities": [
+        "Vigilante"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 28,
+        "def": 28,
+        "atk esp": 47,
+        "def esp": 52,
+        "speed": 50
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 1, Ruta 2, Cuenca Polvorienta, Espejo del Gigante y Llanura Pétrea",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 1, Ruta 2, Cuenca Polvorienta, Espejo del Gigante y Llanura Pétrea",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna"
+        ],
+        "Diamante Brillante": [
+            "Nickit no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Nickit no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Nickit no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Se sustenta con el alimento que roba a otros Pokémon. Las almohadillas de sus patas son tan blandas que no hace ningún ruido al caminar.",
+        "Escudo": "Prudente y astuto, borra con la cola las huellas que deja al huir tras robarle el alimento a otro Pokémon.",
+        "Diamante Brillante": "Nickit no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Nickit no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Nickit no aparece en Leyendas Pokémon: Arceus."
+    }
+}

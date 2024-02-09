@@ -1,0 +1,24 @@
+{
+    "dex number": "0961",
+    "pokemon name": "Wugtrio",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Baba",
+        "Cobardía"
+    ],
+    "hidden abilities": [
+        "Velo arena"
+    ],
+    "stats": {
+        "hp": 35,
+        "atk": 100,
+        "def": 50,
+        "atk esp": 50,
+        "def esp": 70,
+        "speed": 120
+    },
+    "location": {},
+    "pokedex": {}
+}

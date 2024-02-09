@@ -1,0 +1,69 @@
+{
+    "dex number": "0738",
+    "pokemon name": "Vikavolt",
+    "types": [
+        " bicho",
+        " eléctrico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 77,
+        "atk": 70,
+        "def": 90,
+        "atk esp": 145,
+        "def esp": 75,
+        "speed": 43
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Charjabug (+ nivel en Cañón de Poni)"
+        ],
+        "Luna": [
+            "Evolucionar: a Charjabug (+ nivel en Cañón de Poni)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Monte Rubor (Como refuerzo de Charjabug; solo de día)",
+            "Evolucionar: a Charjabug (+ nivel en Cañón de Poni o Monte Rubor)",
+            "Regalo: de Gabriel Oak en la Playa de Kantai tras reunir 70 dominsignias"
+        ],
+        "Ultraluna": [
+            "Salvaje: Monte Rubor (Como refuerzo de Charjabug; solo de día)",
+            "Evolucionar: a Charjabug (+ nivel en Cañón de Poni o Monte Rubor)"
+        ],
+        "Espada": [
+            "Salvaje: Espejo del Gigante y Silla del Gigante",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Espejo del Gigante, nido al este, Gorro del Gigante, nido al noroeste, Pradera Radiante, nido en la zona de pasto al este, Ribera de Pistón, nido al suroeste y Valle Entrepuentes, nido al este junto a la pared",
+            "Evolucionar: a Charjabug (piedra trueno)"
+        ],
+        "Escudo": [
+            "Salvaje: Espejo del Gigante y Silla del Gigante",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Espejo del Gigante, nido al este, Gorro del Gigante, nido al noroeste, Pradera Radiante, nido en la zona de pasto al este, Ribera de Pistón, nido al suroeste y Valle Entrepuentes, nido al este junto a la pared",
+            "Evolucionar: a Charjabug (piedra trueno)"
+        ],
+        "Diamante Brillante": [
+            "Vikavolt no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Vikavolt no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Vikavolt no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Sobrevuela un área en busca de presas. Puede concentrar una potente carga eléctrica entre sus mandíbulas para atacar a sus rivales.",
+        "Luna": "En su estómago posee un órgano que genera energía eléctrica. Los Pokémon pájaro no pueden hacer nada contra los rayos que lanza.",
+        "Ultrasol": "El órgano que posee en el abdomen genera electricidad. Libera la energía acumulada en sus grandes mandíbulas con una potente descarga.",
+        "Ultraluna": "Aturde al enemigo con su vuelo acrobático y aprovecha el desconcierto para propinarle una descarga en forma de rayo.",
+        "Espada": "Acumula en sus enormes mandíbulas la carga eléctrica que genera en su abdomen y la libera en forma de rayos de alto voltaje.",
+        "Escudo": "Cuando vuela llevando consigo un Charjabug a modo de batería adicional, puede liberar potentes descargas electromagnéticas.",
+        "Diamante Brillante": "Vikavolt no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Vikavolt no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Vikavolt no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "dex number": "0775",
+    "pokemon name": "Komala",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Letargo perenne"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 65,
+        "atk": 115,
+        "def": 65,
+        "atk esp": 75,
+        "def esp": 95,
+        "speed": 65
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruta 11"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 11"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 11"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 11"
+        ],
+        "Espada": [
+            "Komala no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Komala no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Komala no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Komala no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Komala no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Pasa la vida entera sumido en un profundo sueño. Toda su actividad parece reflejar los sueños que tiene en ese momento.",
+        "Luna": "El tronco que agarra es un regalo que le dieron sus padres al nacer. También se aferra al brazo de todo aquel Entrenador con el que congenie.",
+        "Ultrasol": "Duerme continuamente desde que nace. Cuando el sueño en el que está sumido es especialmente profundo, se queda inmóvil.",
+        "Ultraluna": "El motivo de su letargo vitalicio es la sustancia somnífera que contienen las hojas de las que se alimenta.",
+        "Espada": "Komala no aparece en Pokémon Espada.",
+        "Escudo": "Komala no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Komala no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Komala no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Komala no aparece en Leyendas Pokémon: Arceus."
+    }
+}

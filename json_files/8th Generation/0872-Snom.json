@@ -1,0 +1,50 @@
+{
+    "dex number": "0872",
+    "pokemon name": "Snom",
+    "types": [
+        " hielo",
+        " bicho"
+    ],
+    "abilities": [
+        "Polvo escudo"
+    ],
+    "hidden abilities": [
+        "Escama de hielo"
+    ],
+    "stats": {
+        "hp": 30,
+        "atk": 25,
+        "def": 35,
+        "atk esp": 45,
+        "def esp": 30,
+        "speed": 20
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 8, Ruta 10, Lago del Enfado, Campo Deslizante , Desfiladero Nevado  y Senda Blancacima ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Gorro del Gigante, nido en el centro y Llanura Pétrea, nido al este 1",
+            "Curri: Ruta 8 (Senda Vaporosa), Ruta 10"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 8, Ruta 10, Lago del Enfado, Campo Deslizante , Desfiladero Nevado  y Senda Blancacima ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Gorro del Gigante, nido en el centro y Llanura Pétrea, nido al este 1",
+            "Curri: Ruta 8 (Senda Vaporosa), Ruta 10"
+        ],
+        "Diamante Brillante": [
+            "Snom no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Snom no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Snom no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Teje un hilo gélido que le permite aferrarse a las ramas y simula ser un carámbano mientras duerme.",
+        "Escudo": "Se nutre de la nieve acumulada en el terreno. Cuanta más ingiere, más imponentes se vuelven las púas que presenta en el lomo.",
+        "Diamante Brillante": "Snom no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Snom no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Snom no aparece en Leyendas Pokémon: Arceus."
+    }
+}

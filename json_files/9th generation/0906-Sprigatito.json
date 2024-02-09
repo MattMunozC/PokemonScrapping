@@ -1,0 +1,23 @@
+{
+    "dex number": "0906",
+    "pokemon name": "Sprigatito",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Mutatipo"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 61,
+        "def": 54,
+        "atk esp": 45,
+        "def esp": 45,
+        "speed": 65
+    },
+    "location": {},
+    "pokedex": {}
+}

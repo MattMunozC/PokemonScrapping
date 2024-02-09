@@ -1,0 +1,23 @@
+{
+    "dex number": "0918",
+    "pokemon name": "Spidops",
+    "types": [
+        " bicho"
+    ],
+    "abilities": [
+        "Insomnio"
+    ],
+    "hidden abilities": [
+        "Vigilante"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 79,
+        "def": 92,
+        "atk esp": 52,
+        "def esp": 86,
+        "speed": 35
+    },
+    "location": {},
+    "pokedex": {}
+}

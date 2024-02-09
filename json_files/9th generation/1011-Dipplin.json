@@ -1,0 +1,25 @@
+{
+    "dex number": "1011",
+    "pokemon name": "Dipplin",
+    "types": [
+        " planta",
+        " dragón"
+    ],
+    "abilities": [
+        "Néctar dulce",
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Viscosidad"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 80,
+        "def": 110,
+        "atk esp": 95,
+        "def esp": 80,
+        "speed": 40
+    },
+    "location": {},
+    "pokedex": {}
+}

@@ -1,0 +1,24 @@
+{
+    "dex number": "0956",
+    "pokemon name": "Espathra",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Oportunista",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Impulso"
+    ],
+    "stats": {
+        "hp": 95,
+        "atk": 60,
+        "def": 60,
+        "atk esp": 101,
+        "def esp": 60,
+        "speed": 105
+    },
+    "location": {},
+    "pokedex": {}
+}

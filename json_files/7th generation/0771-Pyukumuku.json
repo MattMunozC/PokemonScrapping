@@ -1,0 +1,67 @@
+{
+    "dex number": "0771",
+    "pokemon name": "Pyukumuku",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Revés"
+    ],
+    "hidden abilities": [
+        "Ignorante"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 60,
+        "def": 130,
+        "atk esp": 30,
+        "def esp": 130,
+        "speed": 5
+    },
+    "location": {
+        "Sol": [
+            "Surfeando: Ruta 7 y Playa de Hanohano",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Luna": [
+            "Surfeando: Ruta 7 y Playa de Hanohano",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Ultrasol": [
+            "Surfeando: Ruta 7 y Playa de Hanohano",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Ultraluna": [
+            "Surfeando: Ruta 7 y Playa de Hanohano",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 9",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Espejo del Gigante, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur. Con posible habilidad oculta: Espejo del Gigante, nido en la laguna, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al puente (norte), Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Nidos en Prado Reverencia , Playa Desafío  y Bahía Circular "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 9",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Espejo del Gigante, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur. Con posible habilidad oculta: Espejo del Gigante, nido en la laguna, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al puente (norte), Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Nidos en Prado Reverencia , Playa Desafío  y Bahía Circular "
+        ],
+        "Diamante Brillante": [
+            "Pyukumuku no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pyukumuku no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pyukumuku no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Vive en las playas y en aguas poco profundas. Expulsa sus entrañas para engañar a sus depredadores y librarse de ellos.",
+        "Luna": "En las playas se encuentran muchos ejemplares. La mucosidad tan pegajosa que lo envuelve es muy útil como loción tras tomar el sol.",
+        "Ultrasol": "La costumbre de lanzar de nuevo al agua los Pyukumuku que han sido arrastrados hasta la orilla se ha convertido en toda una tradición.",
+        "Ultraluna": "Su cuerpo está recubierto de fluidos viscosos. Si alguien lo pisa, resbalará y Pyukumuku lo golpeará furioso.",
+        "Espada": "Vive en los cálidos bajíos de las playas. Si se topa con un enemigo, ataca golpeándolo sin cesar con las entrañas que expulsa por la boca.",
+        "Escudo": "La formidable mucosidad que envuelve su piel lo mantiene hidratado y le permite permanecer en tierra firme varios días sin secarse.",
+        "Diamante Brillante": "Pyukumuku no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pyukumuku no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pyukumuku no aparece en Leyendas Pokémon: Arceus."
+    }
+}

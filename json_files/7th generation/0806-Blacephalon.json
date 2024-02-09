@@ -1,0 +1,60 @@
+{
+    "dex number": "0806",
+    "pokemon name": "Blacephalon",
+    "types": [
+        " fuego",
+        " fantasma"
+    ],
+    "abilities": [
+        "Ultraimpulso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 53,
+        "atk": 127,
+        "def": 53,
+        "atk esp": 151,
+        "def esp": 79,
+        "speed": 107
+    },
+    "location": {
+        "Sol": [
+            "Blacephalon no aparece en Pokémon Sol."
+        ],
+        "Luna": [
+            "Blacephalon no aparece en Pokémon Luna."
+        ],
+        "Ultrasol": [
+            "Especial: Bosque de Poni (solo dos)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Escudo": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Diamante Brillante": [
+            "Blacephalon no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Blacephalon no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Blacephalon no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Blacephalon no aparece en Pokémon Sol.",
+        "Luna": "Blacephalon no aparece en Pokémon Luna.",
+        "Ultrasol": "Parece ser uno de los temibles Ultraentes. Se acerca a la gente contoneándose y hace explotar su propia cabeza súbitamente.",
+        "Ultraluna": "Un Ultraente surgido de un Ultraumbral. Crea una explosión para sorprender al oponente y aprovecha para absorber su energía vital.",
+        "Espada": "No hay entrada de Blacephalon en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Blacephalon en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Blacephalon no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Blacephalon no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Blacephalon no aparece en Leyendas Pokémon: Arceus."
+    }
+}

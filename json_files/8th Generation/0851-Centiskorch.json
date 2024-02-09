@@ -1,0 +1,55 @@
+{
+    "dex number": "0851",
+    "pokemon name": "Centiskorch",
+    "types": [
+        " fuego",
+        " bicho"
+    ],
+    "abilities": [
+        "Absorbe fuego",
+        "Humo blanco"
+    ],
+    "hidden abilities": [
+        "Cuerpo llama"
+    ],
+    "stats": {
+        "hp": 100,
+        "atk": 115,
+        "def": 65,
+        "atk esp": 90,
+        "def esp": 90,
+        "speed": 65
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Suela del Gigante ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste y Llanura Pétrea, nido al este 2. Nidos en Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Llanura Pétrea, nido al norte en la zona árida. Nidos en Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna ",
+            "Evolucionar: a Sizzlipede (nivel 28)"
+        ],
+        "Escudo": [
+            "Salvaje: Suela del Gigante ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste y Llanura Pétrea, nido al este 2. Nidos en Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Llanura Pétrea, nido al norte en la zona árida. Nidos en Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna ",
+            "Evolucionar: a Sizzlipede (nivel 28)"
+        ],
+        "Diamante Brillante": [
+            "Centiskorch no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Centiskorch no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Centiskorch no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nCentiskorch: Cuando genera calor, su temperatura corporal alcanza aproximadamente los 800 °C. Usa el cuerpo a modo de látigo para lanzarse al ataque.\nCentiskorch Gigamax: La energía del fenómeno Gigamax ha elevado su temperatura corporal hasta superar los 1000 °C. Achicharra al rival con ondas térmicas.",
+        "Escudo": "\nCentiskorch: Posee una naturaleza agresiva. El peligro que entraña su cuerpo candente es considerable, aunque sus afilados colmillos no le van a la zaga.\nCentiskorch Gigamax: Bajo los efectos del fenómeno Gigamax, el calor que irradia Centiskorch es tal que llega a alterar el clima y provocar tormentas.",
+        "Diamante Brillante": "Centiskorch no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Centiskorch no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Centiskorch no aparece en Leyendas Pokémon: Arceus."
+    }
+}

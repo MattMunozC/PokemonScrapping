@@ -1,0 +1,21 @@
+{
+    "dex number": "0964",
+    "pokemon name": "Palafin",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Cambio heroico"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 70,
+        "def": 72,
+        "atk esp": 53,
+        "def esp": 62,
+        "speed": 100
+    },
+    "location": {},
+    "pokedex": {}
+}

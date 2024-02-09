@@ -1,0 +1,49 @@
+{
+    "dex number": "0854",
+    "pokemon name": "Sinistea",
+    "types": [
+        " fantasma"
+    ],
+    "abilities": [
+        "Armadura frágil"
+    ],
+    "hidden abilities": [
+        "Cuerpo maldito"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 45,
+        "def": 45,
+        "atk esp": 74,
+        "def esp": 54,
+        "speed": 50
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Bosque Lumirinto y Viejo Cementerio ",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte y Llanura Pétrea, nido al noreste junto a una pared 2. Nidos en Lecho del Gigante , Viejo Cementerio  y Lago Bolaguna ",
+            "Curri: Bosque Lumirinto"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Lumirinto y Viejo Cementerio ",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Llanura Pétrea, nido al noreste junto a una pared 2. Nidos en Lecho del Gigante , Viejo Cementerio  y Lago Bolaguna ",
+            "Curri: Bosque Lumirinto"
+        ],
+        "Diamante Brillante": [
+            "Sinistea no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sinistea no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Sinistea no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nForma Falsificada: Según se dice, este Pokémon surgió de un alma solitaria que poseyó una taza abandonada llena de un té ya frío.\nForma genuina: La espiral de su cuerpo líquido es su punto débil. Si se remueve, su complexión se desestabiliza y siente vértigo.",
+        "Escudo": "\nForma Falsificada: La taza de té donde se hospeda forma parte de una antigua y valiosa vajilla, de la que circulan numerosas falsificaciones.\nForma genuina: Espera a que algún incauto intente bebérselo para absorber su energía vital, pero suelen escupirlo enseguida debido a su mal sabor.",
+        "Diamante Brillante": "Sinistea no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sinistea no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sinistea no aparece en Leyendas Pokémon: Arceus."
+    }
+}

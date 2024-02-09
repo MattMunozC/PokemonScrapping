@@ -1,0 +1,48 @@
+{
+    "dex number": "0902",
+    "pokemon name": "Basculegion",
+    "types": [
+        " agua",
+        " fantasma"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Adaptable"
+    ],
+    "hidden abilities": [
+        "Rompemoldes"
+    ],
+    "stats": {
+        "hp": 120,
+        "atk": 112,
+        "def": 65,
+        "atk esp": 80,
+        "def esp": 75,
+        "speed": 78
+    },
+    "location": {
+        "Espada": [
+            "Basculegion no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Basculegion no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Basculegion no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Basculegion no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Basculin (perder 294 PS de daño de retroceso, sin ser debilitado)",
+            "Aparición supermasiva: Costa Cobalto"
+        ]
+    },
+    "pokedex": {
+        "Espada": "Basculegion no aparece en Pokémon Espada.",
+        "Escudo": "Basculegion no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Basculegion no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Basculegion no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Durante las remontadas de los ríos, se envuelve de las almas de sus congéneres caídos en la ardua travesía. No tiene rival en ninguna de las corrientes que fluyen por la región de Hisui."
+    }
+}

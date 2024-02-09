@@ -1,0 +1,45 @@
+{
+    "dex number": "0818",
+    "pokemon name": "Inteleon",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Francotirador"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 85,
+        "def": 65,
+        "atk esp": 125,
+        "def esp": 65,
+        "speed": 120
+    },
+    "location": {
+        "Espada": [
+            "Evolucionar: a Drizzile (nivel 35)"
+        ],
+        "Escudo": [
+            "Evolucionar: a Drizzile (nivel 35)"
+        ],
+        "Diamante Brillante": [
+            "Inteleon no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Inteleon no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Inteleon no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nInteleon: Esconde algunos trucos bajo la manga: puede disparar agua por los dedos o planear con las membranas de su espalda.\nInteleon Gigamax: Los chorros de agua que dispara alcanzan una velocidad de 7 mach. Fija el blanco evaluando el viento y la temperatura con la cresta",
+        "Escudo": "\nInteleon: Dispara chorros de agua por la punta de los dedos a 3 mach de velocidad. Con su membrana nictitante puede ver los puntos débiles del rival.\nInteleon Gigamax: Posee una puntería extraordinaria. Para este Pokémon, acertar a una baya que rueda a 15 km de distancia es pan comido.",
+        "Diamante Brillante": "Inteleon no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Inteleon no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Inteleon no aparece en Leyendas Pokémon: Arceus."
+    }
+}

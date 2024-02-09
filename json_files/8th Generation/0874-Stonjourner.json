@@ -1,0 +1,45 @@
+{
+    "dex number": "0874",
+    "pokemon name": "Stonjourner",
+    "types": [
+        " roca"
+    ],
+    "abilities": [
+        "Fuente energía"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 125,
+        "def": 135,
+        "atk esp": 20,
+        "def esp": 20,
+        "speed": 70
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 10, Lago del Enfado, Lecho del Gigante  y Suela del Gigante ",
+            "Incursiones Dinamax: Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste. Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna ",
+            "Curri: Ruta 10 (zona norte)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Stonjourner no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Stonjourner no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Stonjourner no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Pasa el tiempo observando inmóvil el recorrido del sol sobre las extensas praderas que habita. Se especializa en técnicas de ágiles patadas.",
+        "Escudo": "Una vez al año y en una fecha concreta, tienen la costumbre de aparecer de la nada para reunirse y formar un círculo.",
+        "Diamante Brillante": "Stonjourner no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Stonjourner no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Stonjourner no aparece en Leyendas Pokémon: Arceus."
+    }
+}

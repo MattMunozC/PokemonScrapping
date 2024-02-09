@@ -1,0 +1,49 @@
+{
+    "dex number": "0881",
+    "pokemon name": "Arctozolt",
+    "types": [
+        " eléctrico",
+        " hielo"
+    ],
+    "abilities": [
+        "Absorbe electricidad",
+        "Electricidad estática"
+    ],
+    "hidden abilities": [
+        "Quitanieves"
+    ],
+    "stats": {
+        "hp": 90,
+        "atk": 100,
+        "def": 90,
+        "atk esp": 90,
+        "def esp": 80,
+        "speed": 55
+    },
+    "location": {
+        "Espada": [
+            "Especial: Revivir juntos el ornitofósil y el plesiofósil en la Ruta 6",
+            "Incursiones Dinamax: Nido en Desfiladero Nevado "
+        ],
+        "Escudo": [
+            "Especial: Revivir juntos el ornitofósil y el plesiofósil en la Ruta 6",
+            "Incursiones Dinamax: Nido en Desfiladero Nevado "
+        ],
+        "Diamante Brillante": [
+            "Arctozolt no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Arctozolt no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Arctozolt no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "La parte superior del cuerpo está congelada y, al temblar, genera electricidad. Camina con suma dificultad.",
+        "Escudo": "Antiguamente vivía en el mar y usaba el hielo del cuerpo para conservar los alimentos. Su extrema lentitud, sin embargo, lo condenó a la extinción.",
+        "Diamante Brillante": "Arctozolt no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Arctozolt no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Arctozolt no aparece en Leyendas Pokémon: Arceus."
+    }
+}

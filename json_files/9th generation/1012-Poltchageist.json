@@ -1,0 +1,24 @@
+{
+    "dex number": "1012",
+    "pokemon name": "Poltchageist",
+    "types": [
+        " planta",
+        " fantasma"
+    ],
+    "abilities": [
+        "Hospitalidad"
+    ],
+    "hidden abilities": [
+        "Ignífugo"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 45,
+        "def": 45,
+        "atk esp": 74,
+        "def esp": 54,
+        "speed": 50
+    },
+    "location": {},
+    "pokedex": {}
+}

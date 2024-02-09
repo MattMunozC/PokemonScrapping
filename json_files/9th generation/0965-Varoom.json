@@ -1,0 +1,24 @@
+{
+    "dex number": "0965",
+    "pokemon name": "Varoom",
+    "types": [
+        " acero",
+        " veneno"
+    ],
+    "abilities": [
+        "Funda"
+    ],
+    "hidden abilities": [
+        "Inicio lento"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 70,
+        "def": 63,
+        "atk esp": 30,
+        "def esp": 45,
+        "speed": 47
+    },
+    "location": {},
+    "pokedex": {}
+}

@@ -1,0 +1,66 @@
+{
+    "dex number": "0754",
+    "pokemon name": "Lurantis",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Defensa hoja"
+    ],
+    "hidden abilities": [
+        "Respondón"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 105,
+        "def": 90,
+        "atk esp": 80,
+        "def esp": 90,
+        "speed": 45
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Fomantis (nivel 34 + día)"
+        ],
+        "Luna": [
+            "Evolucionar: a Fomantis (nivel 34 + día)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Fomantis (nivel 34 + día)",
+            "Regalo: de Gabriel Oak en la Playa de Kantai tras reunir 50 Dominsignias"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Fomantis (nivel 34 + día)"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Concentración  y Playa Desafío ",
+            "Aventura Dinamax ",
+            "Evolucionar: a Fomantis (nivel 34 + día)"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Concentración  y Playa Desafío ",
+            "Aventura Dinamax ",
+            "Evolucionar: a Fomantis (nivel 34 + día)"
+        ],
+        "Diamante Brillante": [
+            "Lurantis no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Lurantis no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Lurantis no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Dedica mucho tiempo y esfuerzo a acicalarse y preservar sus vivos colores. A algunos ejemplares incluso les lleva todo el día.",
+        "Luna": "Sus pétalos en forma de guadaña liberan un rayo con una potencia capaz de partir por la mitad una plancha de hierro bien gruesa.",
+        "Ultrasol": "Se hace pasar por Pokémon de tipo bicho como mecanismo de defensa. Los pétalos de sus brazos tienen un filo muy agudo.",
+        "Ultraluna": "Corta al rival con movimientos que recuerdan a una danza. Su elegancia lo ha dado a conocer como el Pokémon de tipo planta más fascinante.",
+        "Espada": "Un magnífico Pokémon con aspecto de flor. Los Lurantis bien cuidados poseen un color vivo y resplandeciente.",
+        "Escudo": "Los pétalos de sus brazos son finos y afilados. Absorbe la luz solar y la concentra para lanzar poderosos rayos.",
+        "Diamante Brillante": "Lurantis no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Lurantis no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Lurantis no aparece en Leyendas Pokémon: Arceus."
+    }
+}

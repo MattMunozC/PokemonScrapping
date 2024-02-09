@@ -1,0 +1,59 @@
+{
+    "dex number": "0772",
+    "pokemon name": "Código Cero",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Armadura batalla"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 95,
+        "atk": 95,
+        "def": 95,
+        "atk esp": 95,
+        "def esp": 95,
+        "speed": 59
+    },
+    "location": {
+        "Sol": [
+            "Regalo: Lo entrega Gladio en la planta 1 del Paraíso Æther  después de que el jugador se convierta en campeón (solo uno)"
+        ],
+        "Luna": [
+            "Regalo: Lo entrega Gladio en la planta 1 del Paraíso Æther  después de que el jugador se convierta en campeón (solo uno)"
+        ],
+        "Ultrasol": [
+            "Regalo: Lo entrega Zyra en el Antiguo Paso de Poni después de que el jugador se convierta en campeón (solo uno)"
+        ],
+        "Ultraluna": [
+            "Regalo: Lo entrega Zyra en el Antiguo Paso de Poni después de que el jugador se convierta en campeón (solo uno)"
+        ],
+        "Espada": [
+            "Regalo: Lo entrega una empleada en la Torre Batalla después de que el jugador se convierta en campeón (solo uno)"
+        ],
+        "Escudo": [
+            "Regalo: Lo entrega una empleada en la Torre Batalla después de que el jugador se convierta en campeón (solo uno)"
+        ],
+        "Diamante Brillante": [
+            "Código Cero no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Código Cero no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Código Cero no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "La pesada máscara le impide liberar toda su fuerza, que se cree que es extraordinaria.",
+        "Luna": "Un Pokémon artificial. La máscara de contención que lleva sirve para evitar que se descontrole.",
+        "Ultrasol": "Este Pokémon se creó en un laboratorio como arma para cierto fin. Fue criogenizado tras desbocarse durante un experimento.",
+        "Ultraluna": "La máscara que lleva sirve para contener su verdadero poder y evitar que se descontrole.",
+        "Espada": "Se rumorea que ha sido recreado en Galar a partir de documentos de investigación de alto secreto robados.",
+        "Escudo": "Fue creado a imagen de un Pokémon mitológico. Lleva una máscara de contención para evitar que su poder se descontrole.",
+        "Diamante Brillante": "Código Cero no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Código Cero no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Código Cero no aparece en Leyendas Pokémon: Arceus."
+    }
+}

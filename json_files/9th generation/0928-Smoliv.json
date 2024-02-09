@@ -1,0 +1,24 @@
+{
+    "dex number": "0928",
+    "pokemon name": "Smoliv",
+    "types": [
+        " planta",
+        " normal"
+    ],
+    "abilities": [
+        "Madrugar"
+    ],
+    "hidden abilities": [
+        "Cosecha"
+    ],
+    "stats": {
+        "hp": 41,
+        "atk": 35,
+        "def": 46,
+        "atk esp": 58,
+        "def esp": 51,
+        "speed": 30
+    },
+    "location": {},
+    "pokedex": {}
+}

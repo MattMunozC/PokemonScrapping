@@ -1,0 +1,24 @@
+{
+    "dex number": "1016",
+    "pokemon name": "Fezandipiti",
+    "types": [
+        " veneno",
+        " hada"
+    ],
+    "abilities": [
+        "Cadena tóxica"
+    ],
+    "hidden abilities": [
+        "Experto"
+    ],
+    "stats": {
+        "hp": 88,
+        "atk": 91,
+        "def": 82,
+        "atk esp": 70,
+        "def esp": 125,
+        "speed": 99
+    },
+    "location": {},
+    "pokedex": {}
+}

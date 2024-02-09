@@ -1,0 +1,53 @@
+{
+    "dex number": "0819",
+    "pokemon name": "Skwovet",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Carrillo"
+    ],
+    "hidden abilities": [
+        "Gula"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 55,
+        "def": 55,
+        "atk esp": 35,
+        "def esp": 35,
+        "speed": 25
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 1, Ruta 2 y Bosque Oniria",
+            "Árboles de bayas: Ruta 3 , Ruta 4, Ruta 5, Antigua Atalaya, Arboleda Claroscuro, Lago Milotic (norte), Pradera Radiante, Ribera de Pistón, Prado Reverencia , Humedal Frescor , Bosque Concentración , Bahía Circular , Llano Entrenamiento , Mar Gimnástico , Mar Andana , Mar Islejos , Campo Deslizante , Campo Bajocero , Desfiladero Nevado , Suela del Gigante  y Lecho del Gigante ",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Llanura Pétrea, nido al sureste junto a una pared, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste. Nidos en Campo Deslizante , Suela del Gigante , Lecho del Gigante  y Lago Bolaguna ",
+            "Intercambiar: por un Bunnelby en el Centro Pokémon de Ciudad Pistón",
+            "Curri: Ruta 1 y Bosque Oniria (zona sur)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 1, Ruta 2 y Bosque Oniria",
+            "Árboles de bayas: Ruta 3 , Ruta 4, Ruta 5, Antigua Atalaya, Arboleda Claroscuro, Lago Milotic (norte), Pradera Radiante, Ribera de Pistón, Prado Reverencia , Humedal Frescor , Bosque Concentración , Bahía Circular , Llano Entrenamiento , Mar Gimnástico , Mar Andana , Mar Islejos , Campo Deslizante , Campo Bajocero , Desfiladero Nevado , Suela del Gigante  y Lecho del Gigante ",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Llanura Pétrea, nido al sureste junto a una pared, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste. Nidos en Campo Deslizante , Suela del Gigante , Lecho del Gigante  y Lago Bolaguna ",
+            "Intercambiar: por un Bunnelby en el Centro Pokémon de Ciudad Pistón",
+            "Curri: Ruta 1 y Bosque Oniria (zona sur)"
+        ],
+        "Diamante Brillante": [
+            "Skwovet no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Skwovet no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Skwovet no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Este Pokémon se encuentra por todo Galar. No se queda tranquilo hasta que tiene ambos carrillos atiborrados de bayas.",
+        "Escudo": "Siempre están comiendo bayas, por lo que son más robustos de lo que aparentan. Frecuentan los huertos en busca de su preciado manjar.",
+        "Diamante Brillante": "Skwovet no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Skwovet no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Skwovet no aparece en Leyendas Pokémon: Arceus."
+    }
+}

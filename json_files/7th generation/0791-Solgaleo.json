@@ -1,0 +1,63 @@
+{
+    "dex number": "0791",
+    "pokemon name": "Solgaleo",
+    "types": [
+        " psíquico",
+        " acero"
+    ],
+    "abilities": [
+        "Guardia metálica"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 137,
+        "atk": 137,
+        "def": 107,
+        "atk esp": 113,
+        "def esp": 89,
+        "speed": 97
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Altar del Sol (solo uno)",
+            "Evolucionar: a Cosmoem (nivel 53)"
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Salvaje: Senda Mahalo, tras derrotar a Hela en la Isla Exeggutor (solo uno)",
+            "Evolucionar: de Cosmoem (nivel 53)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Aventura Dinamax ",
+            "Evolucionar: a Cosmoem (nivel 53)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Solgaleo no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Solgaleo no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Solgaleo no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Se cree que proviene de otro mundo. El brillo que emite su cuerpo es tal que puede hacer que la noche más profunda parezca pleno día.",
+        "Luna": "Se dice que es la evolución final macho de Cosmog. Cuando su tercer ojo se abre, parte hacia otro mundo.",
+        "Ultrasol": "Es capaz de crear Ultraumbrales a través de los cuales formas de vida y energía procedentes de otros mundos acuden al nuestro.",
+        "Ultraluna": "Aparece en obras de la literatura antigua en las que se refieren a él como “la criatura que se nutre del sol”.",
+        "Espada": "Es capaz de eliminar toda oscuridad e iluminar el mundo entero irradiando luz por todo el cuerpo como si de un sol se tratara.",
+        "Escudo": "Antiguamente era conocido como la Criatura que se Nutre del Sol. Emite sin cesar una energía luminosa.",
+        "Diamante Brillante": "Solgaleo no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Solgaleo no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Solgaleo no aparece en Leyendas Pokémon: Arceus."
+    }
+}

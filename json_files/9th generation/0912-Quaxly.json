@@ -1,0 +1,23 @@
+{
+    "dex number": "0912",
+    "pokemon name": "Quaxly",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Autoestima"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 65,
+        "def": 45,
+        "atk esp": 50,
+        "def esp": 45,
+        "speed": 50
+    },
+    "location": {},
+    "pokedex": {}
+}

@@ -1,0 +1,22 @@
+{
+    "dex number": "1003",
+    "pokemon name": "Ting-Lu",
+    "types": [
+        " siniestro",
+        " tierra"
+    ],
+    "abilities": [
+        "Caldero debacle"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 155,
+        "atk": 110,
+        "def": 125,
+        "atk esp": 55,
+        "def esp": 80,
+        "speed": 45
+    },
+    "location": {},
+    "pokedex": {}
+}

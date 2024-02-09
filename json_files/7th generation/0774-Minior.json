@@ -1,0 +1,60 @@
+{
+    "dex number": "0774",
+    "pokemon name": "Minior",
+    "types": [
+        " roca",
+        " volador"
+    ],
+    "abilities": [
+        "Escudo limitado"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 60,
+        "atk": 60,
+        "def": 100,
+        "atk esp": 60,
+        "def esp": 100,
+        "speed": 60
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Pico Hokulani"
+        ],
+        "Luna": [
+            "Salvaje: Pico Hokulani"
+        ],
+        "Ultrasol": [
+            "Salvaje: Pico Hokulani"
+        ],
+        "Ultraluna": [
+            "Salvaje: Pico Hokulani"
+        ],
+        "Espada": [
+            "Minior no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Minior no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Minior no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Minior no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Minior no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "\nForma meteorito: Vive en la capa de ozono hasta que su caparazón se hace demasiado pesado y cae sin remisión a tierra firme.\nForma núcleo: Se alimenta de las partículas que flotan la atmósfera. El color de su núcleo depende de la composición de estas.",
+        "Luna": "\nForma meteorito: Este Pokémon nació fruto de la mutación de nanopartículas. El caparazón que lo recubre se desprende al recibir un fuerte impacto.\nForma núcleo: Si su núcleo queda expuesto, su vida corre peligro, aunque puede sobrevivir si se introduce rápidamente dentro de una Poké Ball.",
+        "Ultrasol": "\nForma meteorito: Vive en la capa de ozono, donde puede resultar presa de Pokémon más fuertes. Al huir, acaba precipitándose a tierra firme.\nForma núcleo: Alola es uno de los pocos lugares en los que, durante la noche, se puede ver cómo los Minior caen del cielo.",
+        "Ultraluna": "\nForma meteorito: Lo recubre un duro caparazón que se quiebra en pedazos al impactar con la superficie de la tierra.\nForma núcleo: Minior presenta esta apariencia tras perder su caparazón. El color del núcleo varía en función de su dieta.",
+        "Espada": "Minior no aparece en Pokémon Espada.",
+        "Escudo": "Minior no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Minior no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Minior no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Minior no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "dex number": "0783",
+    "pokemon name": "Hakamo-o",
+    "types": [
+        " dragón",
+        " lucha"
+    ],
+    "abilities": [
+        "Antibalas",
+        "Insonorizar"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 75,
+        "def": 90,
+        "atk esp": 65,
+        "def esp": 70,
+        "speed": 65
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Cañón de Poni (como refuerzo de Jangmo-o)",
+            "Evolucionar: a Jangmo-o (nivel 35)"
+        ],
+        "Luna": [
+            "Salvaje: Cañón de Poni (como refuerzo de Jangmo-o)",
+            "Evolucionar: a Jangmo-o (nivel 35)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Cañón de Poni (como refuerzo de Jangmo-o)",
+            "Evolucionar: a Jangmo-o (nivel 35)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Cañón de Poni (como refuerzo de Jangmo-o)",
+            "Evolucionar: a Jangmo-o (nivel 35)"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado",
+            "Incursiones Dinamax: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Bahía Circular , Mar Gimnástico  y Mar Meloso ",
+            "Evolucionar: a Jangmo-o (nivel 35)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Hakamo-o no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Hakamo-o no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Hakamo-o no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Se lanza sobre su presa entonando un grito de guerra. Golpea al enemigo y lo hace trizas con sus escamas.",
+        "Luna": "Muda constantemente sus escamas, que cada vez se vuelven más duras y afiladas.",
+        "Ultrasol": "Golpea sus escamas entre sí. Cuando culmina el ritmo de esta percusión, se abalanza sobre el enemigo.",
+        "Ultraluna": "Las escamas que se le caen se utilizan para fabricar pucheros y sartenes muy apreciados, ya que son muy buenas conductoras del calor.",
+        "Espada": "Como prueba de su fuerza, muestra orgulloso a quienes vence las cicatrices de su cuerpo donde ya no tiene escamas.",
+        "Escudo": "Tras hacer sonar sus escamas y proferir su grito de guerra, carga contra el enemigo y lo hace trizas con sus afiladas garras.",
+        "Diamante Brillante": "Hakamo-o no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Hakamo-o no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Hakamo-o no aparece en Leyendas Pokémon: Arceus."
+    }
+}

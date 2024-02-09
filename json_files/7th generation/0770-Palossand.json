@@ -1,0 +1,66 @@
+{
+    "dex number": "0770",
+    "pokemon name": "Palossand",
+    "types": [
+        " fantasma",
+        " tierra"
+    ],
+    "abilities": [
+        "Hidrorrefuerzo"
+    ],
+    "hidden abilities": [
+        "Velo arena"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 75,
+        "def": 110,
+        "atk esp": 100,
+        "def esp": 75,
+        "speed": 35
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Sandygast (nivel 42)"
+        ],
+        "Luna": [
+            "Evolucionar: a Sandygast (nivel 42)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Sandygast (nivel 42)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Sandygast (nivel 42)"
+        ],
+        "Espada": [
+            "Salvaje: Bahía Circular ",
+            "Incursiones Dinamax: nidos en Playa Desafío , Mar Andana  y Cueva Tenacidad ",
+            "Evolucionar: a Sandygast (nivel 42)"
+        ],
+        "Escudo": [
+            "Salvaje: Bahía Circular ",
+            "Incursiones Dinamax: nidos en Playa Desafío , Mar Andana  y Cueva Tenacidad ",
+            "Evolucionar: a Sandygast (nivel 42)"
+        ],
+        "Diamante Brillante": [
+            "Palossand no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Palossand no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Palossand no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Manipulando a la gente ha conseguido transformarse en todo un castillo de arena, lo que ha aumentado su poder maligno.",
+        "Luna": "Su castillo alberga abundantes huesos de todos aquellos incautos a los que absorbió su vitalidad por completo antes de quedar sepultados.",
+        "Ultrasol": "Cada grano de arena de su cuerpo tiene voluntad propia. Engulle a Pokémon pequeños estando aún vivos para robarles la energía vital.",
+        "Ultraluna": "Este temible Pokémon crea tormentas de arena que impiden moverse a sus víctimas y después les arrebata su energía vital.",
+        "Espada": "Lo apodan la Pesadilla de las Playas. Hunde a sus presas en la arena para luego absorberles la energía vital.",
+        "Escudo": "Habita en las playas, aunque odia el agua. Cuando caen fuertes lluvias, no es capaz de preservar su forma de castillo.",
+        "Diamante Brillante": "Palossand no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Palossand no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Palossand no aparece en Leyendas Pokémon: Arceus."
+    }
+}

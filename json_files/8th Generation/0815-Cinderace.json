@@ -1,0 +1,45 @@
+{
+    "dex number": "0815",
+    "pokemon name": "Cinderace",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Líbero"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 116,
+        "def": 75,
+        "atk esp": 65,
+        "def esp": 75,
+        "speed": 119
+    },
+    "location": {
+        "Espada": [
+            "Evolucionar: a Raboot (nivel 35)"
+        ],
+        "Escudo": [
+            "Evolucionar: a Raboot (nivel 35)"
+        ],
+        "Diamante Brillante": [
+            "Cinderace no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cinderace no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cinderace no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nCinderace: Convierte piedras en balones de fuego dándoles toques y, luego, chuta con fuerza hacia el rival para chamuscarlo.\nCinderace Gigamax: Imbuido del espíritu de lucha de Cinderace, su gigantesco balón de fuego jamás erra el blanco y dejará chamuscado al rival de forma irremisible.",
+        "Escudo": "\nCinderace: Destaca tanto en ataque como en defensa. Se crece cuando recibe una ovación, pero a veces se luce tanto que termina viéndose en apuros.\nCinderace Gigamax: La energía del fenómeno Gigamax ha hecho que su balón de fuego llegue a superar los 100 m de diámetro.",
+        "Diamante Brillante": "Cinderace no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cinderace no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cinderace no aparece en Leyendas Pokémon: Arceus."
+    }
+}

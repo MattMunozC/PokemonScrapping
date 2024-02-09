@@ -1,0 +1,53 @@
+{
+    "dex number": "0840",
+    "pokemon name": "Applin",
+    "types": [
+        " planta",
+        " dragón"
+    ],
+    "abilities": [
+        "Maduración",
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Antibalas"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 40,
+        "def": 80,
+        "atk esp": 40,
+        "def esp": 40,
+        "speed": 20
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 5, Cuenca Polvorienta, Espejo del Gigante y Llanura Pétrea",
+            "Árboles de bayas: Prado Reverencia , Humedal Frescor , Bosque Concentración , Bahía Circular , Llano Entrenamiento , Mar Gimnástico , Mar Andana  y Mar Islejos ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1, Ojo de Axew, nido central, Pradera Radiante, nido al suroeste y Valle Entrepuentes, nido en el centro. Nidos en Bahía Circular , Mar Gimnástico  y Mar Meloso ",
+            "Curri: Ruta 5"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 5, Cuenca Polvorienta, Espejo del Gigante y Llanura Pétrea",
+            "Árboles de bayas: Prado Reverencia , Humedal Frescor , Bosque Concentración , Bahía Circular , Llano Entrenamiento , Mar Gimnástico , Mar Andana  y Mar Islejos ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1, Ojo de Axew, nido central, Pradera Radiante, nido al suroeste y Valle Entrepuentes, nido en el centro. Nidos en Bahía Circular , Mar Gimnástico  y Mar Meloso ",
+            "Curri: Ruta 5"
+        ],
+        "Diamante Brillante": [
+            "Applin no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Applin no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Applin no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Habita durante toda su vida en el interior de una manzana. Finge ser una fruta para protegerse de los Pokémon pájaro, sus enemigos naturales.",
+        "Escudo": "Nada más nacer se refugia en una manzana, cuyo interior va devorando a medida que crece. El sabor de la fruta determina la evolución.",
+        "Diamante Brillante": "Applin no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Applin no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Applin no aparece en Leyendas Pokémon: Arceus."
+    }
+}

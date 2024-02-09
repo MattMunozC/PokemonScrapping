@@ -1,0 +1,60 @@
+{
+    "dex number": "0794",
+    "pokemon name": "Buzzwole",
+    "types": [
+        " bicho",
+        " lucha"
+    ],
+    "abilities": [
+        "Ultraimpulso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 107,
+        "atk": 139,
+        "def": 139,
+        "atk esp": 53,
+        "def esp": 53,
+        "speed": 79
+    },
+    "location": {
+        "Sol": [
+            "Especial: Jardines de Melemele, durante la segunda misión de los ultraentes (solo dos)"
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Especial: Ultrajungla"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Escudo": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Diamante Brillante": [
+            "Buzzwole no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Buzzwole no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Buzzwole no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Un Ultraente procedente de otro mundo. Se desconoce si exhibe su robusto cuerpo a modo de amenaza o para que lo admiren.",
+        "Luna": "Un Ultraente rodeado de misterio. Se le ha visto reducir a añicos un camión de un solo puñetazo.",
+        "Ultrasol": "Para los seres de este mundo resulta extraño y peligroso, pero en el mundo del que procede es una criatura muy común.",
+        "Ultraluna": "Uno de los Ultraentes. Posee una musculatura excesivamente desarrollada.",
+        "Espada": "No hay entrada de Buzzwole en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Buzzwole en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Buzzwole no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Buzzwole no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Buzzwole no aparece en Leyendas Pokémon: Arceus."
+    }
+}

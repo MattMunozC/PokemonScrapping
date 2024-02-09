@@ -1,0 +1,49 @@
+{
+    "dex number": "0866",
+    "pokemon name": "Mr. Rime",
+    "types": [
+        " hielo",
+        " psíquico"
+    ],
+    "abilities": [
+        "Tumbos",
+        "Antibarrera"
+    ],
+    "hidden abilities": [
+        "Gélido"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 85,
+        "def": 75,
+        "atk esp": 110,
+        "def esp": 100,
+        "speed": 70
+    },
+    "location": {
+        "Espada": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Gorro del Gigante, nido en el centro y Llanura Pétrea, nido al este 1. Con posible habilidad oculta: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al extremo oeste, Cornisa de Artejo, nido al sureste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro, Llanura Pétrea, nido al este 1, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol y Ribera de Pistón, nido al este. Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Lago Bolaguna ",
+            "Evolucionar: al Mr. Mime de Galar (nivel 42)"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Gorro del Gigante, nido en el centro y Llanura Pétrea, nido al este 1. Con posible habilidad oculta: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al extremo oeste, Cornisa de Artejo, nido al sureste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro, Llanura Pétrea, nido al este 1, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Ribera de Pistón, nido al este y Silla del Gigante, nido al sur junto al lago. Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Lago Bolaguna ",
+            "Evolucionar: al Mr. Mime de Galar (nivel 42)"
+        ],
+        "Diamante Brillante": [
+            "Mr. Rime no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Mr. Rime no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Mr. Rime no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Es un bailarín consumado de claqué. Agita su bastón de hielo mientras exhibe su destreza con gráciles pasos.",
+        "Escudo": "Se ha granjeado la simpatía de todo el mundo por sus cómicos movimientos. Emite poderes psíquicos por el motivo de su barriga.",
+        "Diamante Brillante": "Mr. Rime no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Mr. Rime no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Mr. Rime no aparece en Leyendas Pokémon: Arceus."
+    }
+}

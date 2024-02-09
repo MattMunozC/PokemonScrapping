@@ -1,0 +1,62 @@
+{
+    "dex number": "0787",
+    "pokemon name": "Tapu Bulu",
+    "types": [
+        " planta",
+        " hada"
+    ],
+    "abilities": [
+        "Herbogénesis"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 130,
+        "def": 115,
+        "atk esp": 85,
+        "def esp": 95,
+        "speed": 75
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruinas de la Cosecha, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Luna": [
+            "Salvaje: Ruinas de la Cosecha, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruinas de la Cosecha, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruinas de la Cosecha, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Espada": [
+            "Especial: Aleatoriamente en una Aventura Dinamax. "
+        ],
+        "Escudo": [
+            "Especial: Aleatoriamente en una Aventura Dinamax. "
+        ],
+        "Diamante Brillante": [
+            "Tapu Bulu no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tapu Bulu no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Tapu Bulu no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Arranca de cuajo árboles grandes para hacerlos girar. Vuelve exuberante la vegetación y luego absorbe su energía.",
+        "Luna": "El indolente espíritu guardián de Ula-Ula. Inmoviliza al enemigo con la vegetación y lo embiste con sus cuernos.",
+        "Ultrasol": "Se lo conoce como espíritu guardián, pero abate sin piedad a aquellos que considera sus enemigos.",
+        "Ultraluna": "El espíritu guardián de Ula-Ula, que gobierna la flora. Hace repicar su cola para alertar de su presencia y prevenir riñas sin sentido.",
+        "Espada": "No hay entrada de Tapu Bulu en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Tapu Bulu en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Tapu Bulu no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tapu Bulu no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Tapu Bulu no aparece en Leyendas Pokémon: Arceus."
+    }
+}

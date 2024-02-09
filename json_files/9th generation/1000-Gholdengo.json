@@ -1,0 +1,22 @@
+{
+    "dex number": "1000",
+    "pokemon name": "Gholdengo",
+    "types": [
+        " acero",
+        " fantasma"
+    ],
+    "abilities": [
+        "Cuerpo áureo"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 87,
+        "atk": 60,
+        "def": 95,
+        "atk esp": 133,
+        "def esp": 91,
+        "speed": 84
+    },
+    "location": {},
+    "pokedex": {}
+}

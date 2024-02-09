@@ -1,0 +1,49 @@
+{
+    "dex number": "0846",
+    "pokemon name": "Arrokuda",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Nado rápido"
+    ],
+    "hidden abilities": [
+        "Hélice caudal"
+    ],
+    "stats": {
+        "hp": 41,
+        "atk": 63,
+        "def": 40,
+        "atk esp": 40,
+        "def esp": 30,
+        "speed": 66
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 2, Ribera de Pistón, Bosque Concentración  y Llano Entrenamiento ",
+            "Pescando: Ruta 2, Pueblo Amura, Ribera de Pistón y Bosque Concentración ",
+            "Incursiones Dinamax: Espejo del Gigante, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al puente (norte), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Nidos en Humedal Frescor , Bosque Concentración , Playa Desafío  y Cueva Tenacidad "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 2, Ribera de Pistón, Bosque Concentración  y Llano Entrenamiento ",
+            "Pescando: Ruta 2, Pueblo Amura, Ribera de Pistón y Bosque Concentración ",
+            "Incursiones Dinamax: Espejo del Gigante, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al puente (norte), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Nidos en Humedal Frescor , Bosque Concentración , Playa Desafío  y Cueva Tenacidad "
+        ],
+        "Diamante Brillante": [
+            "Arrokuda no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Arrokuda no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Arrokuda no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Se siente muy orgulloso de su afilada mandíbula. En cuanto detecta el más mínimo movimiento, va directo al objetivo para cargar contra él.",
+        "Escudo": "Cuando tiene el estómago lleno, le cuesta moverse y corre el riesgo de ser engullido por algún Cramorant.",
+        "Diamante Brillante": "Arrokuda no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Arrokuda no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Arrokuda no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "dex number": "0923",
+    "pokemon name": "Pawmot",
+    "types": [
+        " eléctrico",
+        " lucha"
+    ],
+    "abilities": [
+        "Absorbe electricidad",
+        "Cura natural"
+    ],
+    "hidden abilities": [
+        "Puño férreo"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 115,
+        "def": 70,
+        "atk esp": 70,
+        "def esp": 60,
+        "speed": 105
+    },
+    "location": {},
+    "pokedex": {}
+}

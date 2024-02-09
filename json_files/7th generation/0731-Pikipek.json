@@ -1,0 +1,67 @@
+{
+    "dex number": "0731",
+    "pokemon name": "Pikipek",
+    "types": [
+        " normal",
+        " volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Encadenado"
+    ],
+    "hidden abilities": [
+        "Recogida"
+    ],
+    "stats": {
+        "hp": 35,
+        "atk": 75,
+        "def": 30,
+        "atk esp": 30,
+        "def esp": 30,
+        "speed": 65
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruta 1, Ruta 4, Ruta 5, Ruta 6 y Ruta 8",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 1, Ruta 4, Ruta 5, Ruta 6 y Ruta 8",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 1, Ruta 4, Ruta 5 y Ruta 6",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 1, Ruta 4, Ruta 5 y Ruta 6",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Espada": [
+            "Pikipek no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Pikipek no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Pikipek no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pikipek no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pikipek no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Hace agujeros en los árboles a una velocidad de 16 picotazos por segundo y los utiliza como despensa o como su nido.",
+        "Luna": "Las bayas constituyen su principal alimento. Usa las pepitas de las mismas a modo de proyectiles para atacar expulsándolas por su pico.",
+        "Ultrasol": "Agujerea los árboles con su robusto pico. Al oír su picoteo, uno puede deducir más o menos su humor o su estado de forma.",
+        "Ultraluna": "Pese a su fino aspecto, tiene la musculatura del cuello muy desarrollada: agujerea los árboles a una velocidad de 16 picotazos por segundo.",
+        "Espada": "Pikipek no aparece en Pokémon Espada.",
+        "Escudo": "Pikipek no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Pikipek no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pikipek no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pikipek no aparece en Leyendas Pokémon: Arceus."
+    }
+}

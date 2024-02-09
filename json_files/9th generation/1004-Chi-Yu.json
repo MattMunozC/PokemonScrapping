@@ -1,0 +1,22 @@
+{
+    "dex number": "1004",
+    "pokemon name": "Chi-Yu",
+    "types": [
+        " siniestro",
+        " fuego"
+    ],
+    "abilities": [
+        "Abalorio debacle"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 55,
+        "atk": 80,
+        "def": 80,
+        "atk esp": 135,
+        "def esp": 120,
+        "speed": 100
+    },
+    "location": {},
+    "pokedex": {}
+}

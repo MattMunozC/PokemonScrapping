@@ -1,0 +1,61 @@
+{
+    "dex number": "0776",
+    "pokemon name": "Turtonator",
+    "types": [
+        " fuego",
+        " dragón"
+    ],
+    "abilities": [
+        "Caparazón"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 60,
+        "atk": 78,
+        "def": 135,
+        "atk esp": 91,
+        "def esp": 85,
+        "speed": 36
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Monte Rubor"
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Salvaje: Monte Rubor"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Llanura Pétrea, nido al este 2, Llanura Pétrea, nido al norte en la zona árida, Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Mar Gimnástico , Mar Meloso , Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Turtonator no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Turtonator no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Turtonator no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Posee un caparazón que estalla al contacto. El orificio que se aprecia en su vientre es su punto débil.",
+        "Luna": "Despide llamas y gas venenoso por sus fosas nasales. Sus excrementos tienen un sinfín de aplicaciones por sus propiedades explosivas.",
+        "Ultrasol": "Vive en los volcanes y se alimenta de azufre y minerales. Los componentes que ingiere le sirven para formar su caparazón explosivo.",
+        "Ultraluna": "Su caparazón explosivo es un verdadero peligro, pero no aguanta bien la humedad. Los días de lluvia, este Pokémon se refugia en una cueva.",
+        "Espada": "Su caparazón está recubierto de un material explosivo. Responde con un gran estallido a todo aquel que lo ataque.",
+        "Escudo": "El material explosivo de su caparazón está compuesto por el azufre del que se alimenta. Sus excrementos explosivos son muy peligrosos.",
+        "Diamante Brillante": "Turtonator no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Turtonator no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Turtonator no aparece en Leyendas Pokémon: Arceus."
+    }
+}

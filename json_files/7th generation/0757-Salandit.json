@@ -1,0 +1,64 @@
+{
+    "dex number": "0757",
+    "pokemon name": "Salandit",
+    "types": [
+        " veneno",
+        " fuego"
+    ],
+    "abilities": [
+        "Corrosión"
+    ],
+    "hidden abilities": [
+        "Despiste"
+    ],
+    "stats": {
+        "hp": 48,
+        "atk": 44,
+        "def": 40,
+        "atk esp": 71,
+        "def esp": 40,
+        "speed": 77
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruta 8 y Área Volcánica del Wela"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 8 y Área Volcánica del Wela"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 8, Jungla Umbría y Área Volcánica del Wela"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 8, Jungla Umbría y Área Volcánica del Wela"
+        ],
+        "Espada": [
+            "Salvaje: Llanura Pétrea y Ruta Desafío ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Nidos en Prado Reverencia , Playa Desafío , Bahía Circular  y Cuenca Arenosa "
+        ],
+        "Escudo": [
+            "Salvaje: Afueras de Pistón, Ribera de Pistón, Llanura Pétrea y Ruta Desafío ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2, Llanura Pétrea, nido al norte en la zona árida y Ribera de Pistón, nido junto al muro de Ciudad Pistón. Nidos en Prado Reverencia , Playa Desafío , Bahía Circular  y Cuenca Arenosa "
+        ],
+        "Diamante Brillante": [
+            "Salandit no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Salandit no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Salandit no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Aturde a sus oponentes con un gas venenoso que produce al quemar sus fluidos corporales y luego se abalanza sobre ellos.",
+        "Luna": "Vive en volcanes y desolados pedregales. El gas venenoso que libera despide un aroma dulce con el que atrae a Pokémon insecto para atacarlos.",
+        "Ultrasol": "Los machos están a merced de las hembras. Les ceden la mayoría de presas que capturan, y la falta de nutrientes les impide evolucionar.",
+        "Ultraluna": "Debilita a sus presas con gas venenoso y ataca cuando ve que se tambalean. Spinda, que de por sí camina oscilando, suele darle problemas.",
+        "Espada": "Produce un gas venenoso al quemar con las llamas de la cola el líquido secretado en sus bolsas de veneno.",
+        "Escudo": "Se aproxima a su presa por la espalda y, antes de que pueda advertirlo, la inmoviliza con un gas venenoso.",
+        "Diamante Brillante": "Salandit no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Salandit no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Salandit no aparece en Leyendas Pokémon: Arceus."
+    }
+}

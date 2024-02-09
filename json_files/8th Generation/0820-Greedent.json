@@ -1,0 +1,53 @@
+{
+    "dex number": "0820",
+    "pokemon name": "Greedent",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Carrillo"
+    ],
+    "hidden abilities": [
+        "Gula"
+    ],
+    "stats": {
+        "hp": 120,
+        "atk": 95,
+        "def": 95,
+        "atk esp": 55,
+        "def esp": 75,
+        "speed": 20
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Valle Entrepuentes y Colina del Maxiárbol ",
+            "Árboles de bayas: Ruta 6, Ruta 7, Ruta 9, Ojo de Axew, Valle Entrepuentes, Gorro del Gigante, Espejo del Gigante, Silla del Gigante, Cornisa de Artejo, Lago del Enfado, Ribera de Pistón, Campo Deslizante , Campo Bajocero , Lago Bolaguna , Lecho del Gigante  y Suela del Gigante ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Llanura Pétrea, nido al sureste junto a una pared, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste. Nido en Bahía Circular , Campo Deslizante , Lecho del Gigante , Suela del Gigante , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Evolucionar: a Skwovet (nivel 24)"
+        ],
+        "Escudo": [
+            "Salvaje: Valle Entrepuentes y Colina del Maxiárbol ",
+            "Árboles de bayas: Ruta 6, Ruta 7, Ruta 9, Ojo de Axew, Valle Entrepuentes, Gorro del Gigante, Espejo del Gigante, Silla del Gigante, Cornisa de Artejo, Lago del Enfado, Ribera de Pistón, Campo Deslizante , Campo Bajocero , Lago Bolaguna , Lecho del Gigante  y Suela del Gigante ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Llanura Pétrea, nido al sureste junto a una pared, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste. Nido en Bahía Circular , Campo Deslizante , Lecho del Gigante , Suela del Gigante , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Evolucionar: a Skwovet (nivel 24)"
+        ],
+        "Diamante Brillante": [
+            "Greedent no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Greedent no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Greedent no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Se obceca tanto en acumular bayas en la cola que no se da ni cuenta de cuando tiene demasiadas y se le acaban cayendo.",
+        "Escudo": "Sus incisivos, de fuerza y dureza extraordinarias, le permiten mordisquear incluso las bayas más duras. Es un Pokémon muy común en Galar.",
+        "Diamante Brillante": "Greedent no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Greedent no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Greedent no aparece en Leyendas Pokémon: Arceus."
+    }
+}

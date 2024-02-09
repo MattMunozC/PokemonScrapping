@@ -1,0 +1,23 @@
+{
+    "dex number": "0953",
+    "pokemon name": "Rellor",
+    "types": [
+        " bicho"
+    ],
+    "abilities": [
+        "Ojo compuesto"
+    ],
+    "hidden abilities": [
+        "Mudar"
+    ],
+    "stats": {
+        "hp": 41,
+        "atk": 50,
+        "def": 60,
+        "atk esp": 31,
+        "def esp": 58,
+        "speed": 30
+    },
+    "location": {},
+    "pokedex": {}
+}

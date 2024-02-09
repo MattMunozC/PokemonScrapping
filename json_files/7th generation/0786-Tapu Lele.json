@@ -1,0 +1,62 @@
+{
+    "dex number": "0786",
+    "pokemon name": "Tapu Lele",
+    "types": [
+        " psíquico",
+        " hada"
+    ],
+    "abilities": [
+        "Psicogénesis"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 85,
+        "def": 75,
+        "atk esp": 130,
+        "def esp": 115,
+        "speed": 95
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruinas de la Vida, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Luna": [
+            "Salvaje: Ruinas de la Vida, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruinas de la Vida, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruinas de la Vida, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Tapu Lele no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tapu Lele no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Tapu Lele no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "El espíritu guardián de Akala, tan inocente como cruel. La fragancia de las flores constituye su fuente de energía.",
+        "Luna": "Al revolotear esparce escamas que desprenden un brillo misterioso. Se dice que todo aquel que las toca vuelve a sentirse pletórico al instante.",
+        "Ultrasol": "Esparce escamas brillantes que curan a las personas y los Pokémon. En la isla de Akala es venerado como su espíritu guardián.",
+        "Ultraluna": "Este espíritu guardián es tan candoroso como despiadado, por lo que se podría decir que es la encarnación de la naturaleza misma.",
+        "Espada": "No hay entrada de Tapu Lele en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Tapu Lele en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Tapu Lele no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tapu Lele no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Tapu Lele no aparece en Leyendas Pokémon: Arceus."
+    }
+}

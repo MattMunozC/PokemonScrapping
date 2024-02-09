@@ -1,0 +1,24 @@
+{
+    "dex number": "0975",
+    "pokemon name": "Cetitan",
+    "types": [
+        " hielo"
+    ],
+    "abilities": [
+        "Sebo",
+        "Quitanieves"
+    ],
+    "hidden abilities": [
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": 170,
+        "atk": 113,
+        "def": 65,
+        "atk esp": 45,
+        "def esp": 55,
+        "speed": 73
+    },
+    "location": {},
+    "pokedex": {}
+}

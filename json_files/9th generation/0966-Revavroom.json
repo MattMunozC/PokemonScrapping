@@ -1,0 +1,24 @@
+{
+    "dex number": "0966",
+    "pokemon name": "Revavroom",
+    "types": [
+        " acero",
+        " veneno"
+    ],
+    "abilities": [
+        "Funda"
+    ],
+    "hidden abilities": [
+        "Filtro"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 119,
+        "def": 90,
+        "atk esp": 54,
+        "def esp": 67,
+        "speed": 90
+    },
+    "location": {},
+    "pokedex": {}
+}

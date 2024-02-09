@@ -1,0 +1,55 @@
+{
+    "dex number": "0861",
+    "pokemon name": "Grimmsnarl",
+    "types": [
+        " siniestro",
+        " hada"
+    ],
+    "abilities": [
+        "Bromista",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Hurto"
+    ],
+    "stats": {
+        "hp": 95,
+        "atk": 120,
+        "def": 65,
+        "atk esp": 95,
+        "def esp": 75,
+        "speed": 60
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Lago del Enfado, Llanura Pétrea, Campo Deslizante , Lecho del Gigante  y Desfiladero Nevado ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste y Valle Entrepuentes, nido al norte cerca de la laguna. Con posible habilidad oculta: Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante  y Mar Gélido ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al suroeste. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante  y Mar Gélido ",
+            "Evolucionar: a Morgrem (nivel 42)"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado, Llanura Pétrea, Campo Deslizante , Lecho del Gigante  y Desfiladero Nevado ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste y Valle Entrepuentes, nido al norte cerca de la laguna. Con posible habilidad oculta: Cornisa de Artejo, nido al centro-oeste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante  y Mar Gélido ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al suroeste. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante  y Mar Gélido ",
+            "Evolucionar: a Morgrem (nivel 42)"
+        ],
+        "Diamante Brillante": [
+            "Grimmsnarl no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Grimmsnarl no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Grimmsnarl no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nGrimmsnarl: Cuando enrolla sus cabellos por todo el cuerpo, aumenta su potencia muscular. Posee una fuerza capaz de someter a Machamp.\nGrimmsnarl Gigamax: El pelo de sus piernas se ha transformado y ha dado aún más fuerza a sus patadas, capaces de abrir grandes agujeros en la tierra de Galar.",
+        "Escudo": "\nGrimmsnarl: Su cabello desempeña una función similar a la de fibras musculares. Al soltárselo, su movimiento tentacular le permite reducir a su objetivo.\nGrimmsnarl Gigamax: Debido al fenómeno Gigamax, le ha crecido el pelo de forma descomunal. Puede superar de un salto los rascacielos más altos del mundo.",
+        "Diamante Brillante": "Grimmsnarl no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Grimmsnarl no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Grimmsnarl no aparece en Leyendas Pokémon: Arceus."
+    }
+}

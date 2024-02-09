@@ -1,0 +1,22 @@
+{
+    "dex number": "1025",
+    "pokemon name": "Pecharunt",
+    "types": [
+        " veneno",
+        " fantasma"
+    ],
+    "abilities": [
+        "Títere tóxico"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 88,
+        "atk": 88,
+        "def": 160,
+        "atk esp": 88,
+        "def esp": 88,
+        "speed": 88
+    },
+    "location": {},
+    "pokedex": {}
+}

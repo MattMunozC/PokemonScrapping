@@ -1,0 +1,24 @@
+{
+    "dex number": "0936",
+    "pokemon name": "Armarouge",
+    "types": [
+        " fuego",
+        " psíquico"
+    ],
+    "abilities": [
+        "Absorbe fuego"
+    ],
+    "hidden abilities": [
+        "Armadura frágil"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 60,
+        "def": 100,
+        "atk esp": 125,
+        "def esp": 80,
+        "speed": 75
+    },
+    "location": {},
+    "pokedex": {}
+}

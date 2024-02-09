@@ -1,0 +1,60 @@
+{
+    "dex number": "0793",
+    "pokemon name": "Nihilego",
+    "types": [
+        " roca",
+        " veneno"
+    ],
+    "abilities": [
+        "Ultraimpulso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 109,
+        "atk": 53,
+        "def": 47,
+        "atk esp": 127,
+        "def esp": 131,
+        "speed": 103
+    },
+    "location": {
+        "Sol": [
+            "Especial: Túnel Diglett o Área Volcánica del Wela, durante la primera misión de ultraentes (solo uno)"
+        ],
+        "Luna": [
+            "Especial: Túnel Diglett o Área Volcánica del Wela, durante la primera misión de ultraentes (solo uno)"
+        ],
+        "Ultrasol": [
+            "Especial: Ultraabismo"
+        ],
+        "Ultraluna": [
+            "Especial: Ultraabismo"
+        ],
+        "Espada": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Escudo": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Diamante Brillante": [
+            "Nihilego no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Nihilego no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Nihilego no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Un Ultraente envuelto en misterio. Se dice que las víctimas a las que posee se vuelven agresivas.",
+        "Luna": "Se desconoce si este Ultraente posee consciencia propia, pero en ocasiones se comporta como una chica joven.",
+        "Ultrasol": "Una forma de vida de otro mundo conocida como Ultraente. Se cree que posee una neurotoxina muy potente.",
+        "Ultraluna": "Llegó a este mundo a través de un Ultraumbral. Es un parásito que se aprovecha de Pokémon y personas.",
+        "Espada": "No hay entrada de Nihilego en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Nihilego en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Nihilego no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Nihilego no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Nihilego no aparece en Leyendas Pokémon: Arceus."
+    }
+}

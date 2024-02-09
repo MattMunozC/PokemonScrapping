@@ -1,0 +1,24 @@
+{
+    "dex number": "0924",
+    "pokemon name": "Tandemaus",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Recogida",
+        "Fuga"
+    ],
+    "hidden abilities": [
+        "Ritmo propio"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 50,
+        "def": 45,
+        "atk esp": 40,
+        "def esp": 45,
+        "speed": 75
+    },
+    "location": {},
+    "pokedex": {}
+}

@@ -1,0 +1,24 @@
+{
+    "dex number": "0978",
+    "pokemon name": "Tatsugiri",
+    "types": [
+        " dragón",
+        " agua"
+    ],
+    "abilities": [
+        "Comandar"
+    ],
+    "hidden abilities": [
+        "Colector"
+    ],
+    "stats": {
+        "hp": 68,
+        "atk": 50,
+        "def": 60,
+        "atk esp": 120,
+        "def esp": 95,
+        "speed": 82
+    },
+    "location": {},
+    "pokedex": {}
+}

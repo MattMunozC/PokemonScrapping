@@ -1,0 +1,25 @@
+{
+    "dex number": "0922",
+    "pokemon name": "Pawmo",
+    "types": [
+        " eléctrico",
+        " lucha"
+    ],
+    "abilities": [
+        "Absorbe electricidad",
+        "Cura natural"
+    ],
+    "hidden abilities": [
+        "Puño férreo"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 75,
+        "def": 40,
+        "atk esp": 50,
+        "def esp": 40,
+        "speed": 85
+    },
+    "location": {},
+    "pokedex": {}
+}

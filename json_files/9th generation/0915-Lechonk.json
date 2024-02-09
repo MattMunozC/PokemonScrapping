@@ -1,0 +1,24 @@
+{
+    "dex number": "0915",
+    "pokemon name": "Lechonk",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Velo aroma",
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Sebo"
+    ],
+    "stats": {
+        "hp": 54,
+        "atk": 45,
+        "def": 40,
+        "atk esp": 35,
+        "def esp": 45,
+        "speed": 35
+    },
+    "location": {},
+    "pokedex": {}
+}

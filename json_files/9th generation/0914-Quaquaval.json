@@ -1,0 +1,24 @@
+{
+    "dex number": "0914",
+    "pokemon name": "Quaquaval",
+    "types": [
+        " agua",
+        " lucha"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Autoestima"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 120,
+        "def": 80,
+        "atk esp": 85,
+        "def esp": 75,
+        "speed": 85
+    },
+    "location": {},
+    "pokedex": {}
+}

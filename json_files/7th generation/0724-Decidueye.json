@@ -1,0 +1,64 @@
+{
+    "dex number": "0724",
+    "pokemon name": "Decidueye",
+    "types": [
+        " planta",
+        " fantasma"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Remoto"
+    ],
+    "stats": {
+        "hp": 78,
+        "atk": 107,
+        "def": 75,
+        "atk esp": 100,
+        "def esp": 100,
+        "speed": 70
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Dartrix (nivel 34)"
+        ],
+        "Luna": [
+            "Evolucionar: a Dartrix (nivel 34)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Dartrix (nivel 34)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Dartrix (nivel 34)"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: a Dartrix (nivel 34) "
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: a Dartrix (nivel 34) "
+        ],
+        "Diamante Brillante": [
+            "Decidueye no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Decidueye no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Decidueye no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Las plumas de sus alas le sirven de flechas con las que puede acertar a un guijarro a 100 m.",
+        "Luna": "Aunque es extremadamente cauteloso y calmado por naturaleza, si lo pillan por sorpresa, el pánico se apodera de él.",
+        "Ultrasol": "Usa sus plumas como flechas para atacar a los rivales. Si no puede permitirse fallar, frunce su capucha para concentrarse mejor.",
+        "Ultraluna": "Tan solo le lleva una décima de segundo sacar una pluma y disparar al rival, y muchas veces gana el combate en un abrir y cerrar de ojos.",
+        "Espada": "Usa sus plumas como flechas para atacar a los rivales. Una vez que ha fijado el blanco, no falla jamás.",
+        "Escudo": "Tan solo le lleva una décima de segundo sacar una pluma y disparar al rival, a quien acierta en un punto vital antes de que pueda darse cuenta.",
+        "Diamante Brillante": "Decidueye no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Decidueye no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Decidueye no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "dex number": "1015",
+    "pokemon name": "Munkidori",
+    "types": [
+        " veneno",
+        " psíquico"
+    ],
+    "abilities": [
+        "Cadena tóxica"
+    ],
+    "hidden abilities": [
+        "Cacheo"
+    ],
+    "stats": {
+        "hp": 88,
+        "atk": 75,
+        "def": 66,
+        "atk esp": 130,
+        "def esp": 90,
+        "speed": 106
+    },
+    "location": {},
+    "pokedex": {}
+}

@@ -1,0 +1,67 @@
+{
+    "dex number": "0722",
+    "pokemon name": "Rowlet",
+    "types": [
+        " planta",
+        " volador"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Remoto"
+    ],
+    "stats": {
+        "hp": 68,
+        "atk": 55,
+        "def": 55,
+        "atk esp": 50,
+        "def esp": 50,
+        "speed": 42
+    },
+    "location": {
+        "Sol": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega Kaudan en Pueblo Lilii (solo uno)"
+        ],
+        "Luna": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega Kaudan en Pueblo Lilii (solo uno)"
+        ],
+        "Ultrasol": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega el Profesor Kukui en la Ruta 1 (solo uno)"
+        ],
+        "Ultraluna": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega el Profesor Kukui en la Ruta 1 (solo uno)"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Regalo: lo entrega el entrenador de Diglett tras haber encontrado 100 Diglett de Alola si se escogió a Grookey como inicial "
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Regalo: lo entrega el entrenador de Diglett tras haber encontrado 100 Diglett de Alola si se escogió a Grookey como inicial "
+        ],
+        "Diamante Brillante": [
+            "Rowlet no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Rowlet no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Regalo: Es uno de los Pokémon iniciales que da a elegir el profesor Lavender al inicio de la aventura",
+            "Regalo: En caso de no ser elegido como Pokémon inicial, lo entrega el profesor Lavender tras completar la historia principal",
+            "Distorsión espaciotemporal: Ladera Corona",
+            "Aparición supermasiva: Ladera Corona"
+        ]
+    },
+    "pokedex": {
+        "Sol": "Es cauteloso, desconfiado y de naturaleza nocturna. Durante el día acumula energía mediante la fotosíntesis.",
+        "Luna": "Se aproxima a sus enemigos planeando por el aire sin hacer el menor ruido y les propina unas patadas de lo más poderosas.",
+        "Ultrasol": "Usa sus afiladas plumas como arma arrojadiza y la fuerza de sus patas le permite asestar poderosas patadas que es mejor no subestimar.",
+        "Ultraluna": "Se siente a gusto en lugares angostos y oscuros. En más de una ocasión usa el bolsillo o la mochila de su Entrenador a modo de nido.",
+        "Espada": "En pleno vuelo, ataca arrojando sus plumas afiladas como cuchillas y, a corta distancia, castiga al rival propinando poderosas patadas.",
+        "Escudo": "Durante el día acumula energía mediante la fotosíntesis y, al caer la noche, vuela sin hacer ruido en busca de presas.",
+        "Diamante Brillante": "Rowlet no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Rowlet no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sus gráciles alas le permiten volar sin hacer ruido. Lanza con gran pericia sus plumas, tan afiladas como dagas."
+    }
+}

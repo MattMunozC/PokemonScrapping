@@ -1,0 +1,24 @@
+{
+    "dex number": "0932",
+    "pokemon name": "Nacli",
+    "types": [
+        " roca"
+    ],
+    "abilities": [
+        "Sal purificadora",
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Cuerpo puro"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 55,
+        "def": 75,
+        "atk esp": 35,
+        "def esp": 35,
+        "speed": 25
+    },
+    "location": {},
+    "pokedex": {}
+}

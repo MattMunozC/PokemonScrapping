@@ -1,0 +1,22 @@
+{
+    "dex number": "0991",
+    "pokemon name": "Ferrosaco",
+    "types": [
+        " hielo",
+        " agua"
+    ],
+    "abilities": [
+        "Carga cuark"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 56,
+        "atk": 80,
+        "def": 114,
+        "atk esp": 124,
+        "def esp": 60,
+        "speed": 136
+    },
+    "location": {},
+    "pokedex": {}
+}

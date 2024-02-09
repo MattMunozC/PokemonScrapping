@@ -1,0 +1,24 @@
+{
+    "dex number": "1014",
+    "pokemon name": "Okidogi",
+    "types": [
+        " veneno",
+        " lucha"
+    ],
+    "abilities": [
+        "Cadena tóxica"
+    ],
+    "hidden abilities": [
+        "Perro guardián"
+    ],
+    "stats": {
+        "hp": 88,
+        "atk": 128,
+        "def": 115,
+        "atk esp": 58,
+        "def esp": 86,
+        "speed": 80
+    },
+    "location": {},
+    "pokedex": {}
+}

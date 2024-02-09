@@ -1,0 +1,49 @@
+{
+    "dex number": "0856",
+    "pokemon name": "Hatenna",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Alma cura",
+        "Anticipación"
+    ],
+    "hidden abilities": [
+        "Espejo mágico"
+    ],
+    "stats": {
+        "hp": 42,
+        "atk": 30,
+        "def": 45,
+        "atk esp": 56,
+        "def esp": 53,
+        "speed": 39
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Afueras de Pistón, Cornisa de Artejo, Llanura Pétrea, Campo Deslizante , Campo Bajocero , Encrucijada Tresvías , Lago Bolaguna , Lecho del Gigante , Viejo Cementerio , Suela del Gigante  y Mar Gélido ",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna ",
+            "Intercambiar: por un Maractus en Pueblo Ladera"
+        ],
+        "Escudo": [
+            "Salvaje: Afueras de Pistón, Cornisa de Artejo, Llanura Pétrea, Campo Deslizante , Campo Bajocero , Encrucijada Tresvías , Lago Bolaguna , Lecho del Gigante , Viejo Cementerio , Suela del Gigante  y Mar Gélido ",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Hatenna no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Hatenna no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Hatenna no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Percibe los sentimientos de los seres vivos con la protuberancia de la cabeza. Solo abre su corazón a quienes muestren un carácter sosegado.",
+        "Escudo": "Siente predilección por los lugares despoblados. Si percibe una emoción intensa, emprende la huida a toda prisa.",
+        "Diamante Brillante": "Hatenna no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Hatenna no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Hatenna no aparece en Leyendas Pokémon: Arceus."
+    }
+}

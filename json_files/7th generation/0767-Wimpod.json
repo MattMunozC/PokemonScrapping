@@ -1,0 +1,64 @@
+{
+    "dex number": "0767",
+    "pokemon name": "Wimpod",
+    "types": [
+        " bicho",
+        " agua"
+    ],
+    "abilities": [
+        "Huida"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 25,
+        "atk": 35,
+        "def": 40,
+        "atk esp": 20,
+        "def esp": 30,
+        "speed": 80
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruta 8, Prado de Poni y Arrecife de Poni"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 8, Prado de Poni y Arrecife de Poni"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 8, Arrecife de Poni y Túnel del Volcán"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 8, Arrecife de Poni y Túnel del Volcán"
+        ],
+        "Espada": [
+            "Salvaje: Mina de Galar n.° 2, Valle Entrepuentes, Espejo del Gigante, Cornisa de Artejo, Ribera de Pistón y Cueva Tenacidad ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares",
+            "Curri: Mina de Galar n.° 2"
+        ],
+        "Escudo": [
+            "Salvaje: Mina de Galar n.° 2, Valle Entrepuentes, Espejo del Gigante, Cornisa de Artejo, Ribera de Pistón y Cueva Tenacidad ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares",
+            "Curri: Mina de Galar n.° 2"
+        ],
+        "Diamante Brillante": [
+            "Wimpod no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Wimpod no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Wimpod no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Cuando se asusta, huye despavorido moviendo rápidamente sus múltiples patas. Deja el suelo limpio y pulido allí por donde pasa.",
+        "Luna": "Su hábitat es muy variado, desde playas hasta el fondo del mar. Hace de barrendero natural al ir engullendo presas podridas por el camino.",
+        "Ultrasol": "Recoge todo lo que encuentra por el suelo. A veces recoge monedas, lo que atrae la atención de Murkrow y Meowth.",
+        "Ultraluna": "Es un Pokémon muy cobarde. En cuanto nota que algo se le acerca, sale huyendo a gran velocidad.",
+        "Espada": "Hace de barrendero natural al ir devorándolo todo, basura y podredumbre incluidas. Alrededor de su nido reina siempre la mayor pulcritud.",
+        "Escudo": "Forman colonias y permanecen siempre alerta. En cuanto perciben a un enemigo, salen huyendo en todas direcciones.",
+        "Diamante Brillante": "Wimpod no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Wimpod no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Wimpod no aparece en Leyendas Pokémon: Arceus."
+    }
+}

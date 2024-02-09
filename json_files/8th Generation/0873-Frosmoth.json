@@ -1,0 +1,52 @@
+{
+    "dex number": "0873",
+    "pokemon name": "Frosmoth",
+    "types": [
+        " hielo",
+        " bicho"
+    ],
+    "abilities": [
+        "Polvo escudo"
+    ],
+    "hidden abilities": [
+        "Escama de hielo"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 65,
+        "def": 60,
+        "atk esp": 125,
+        "def esp": 90,
+        "speed": 65
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Senda Blancacima ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste. Con posible habilidad oculta: Cornisa de Artejo, nido al extremo oeste, Gorro del Gigante, nido en el centro y Llanura Pétrea, nido al este 1. Nidos en Campo Deslizante , Desfiladero Nevado  y Mar Gélido ",
+            "Evolucionar: de Snom (amistad + nivel de noche)"
+        ],
+        "Escudo": [
+            "Salvaje: Senda Blancacima ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste. Con posible habilidad oculta: Cornisa de Artejo, nido al extremo oeste, Gorro del Gigante, nido en el centro y Llanura Pétrea, nido al este 1. Nidos en Campo Deslizante , Desfiladero Nevado  y Mar Gélido ",
+            "Evolucionar: de Snom (amistad + nivel de noche)"
+        ],
+        "Diamante Brillante": [
+            "Frosmoth no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Frosmoth no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Frosmoth no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "La temperatura de sus alas es de -180 °C. Sobrevuela el campo esparciendo sus gélidas escamas, como si de nieve se tratase.",
+        "Escudo": "No muestra la menor compasión con quien asole el campo: lo escarmienta batiendo sus gélidas alas para provocar una ventisca.",
+        "Diamante Brillante": "Frosmoth no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Frosmoth no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Frosmoth no aparece en Leyendas Pokémon: Arceus."
+    }
+}

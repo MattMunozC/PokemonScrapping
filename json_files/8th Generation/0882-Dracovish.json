@@ -1,0 +1,49 @@
+{
+    "dex number": "0882",
+    "pokemon name": "Dracovish",
+    "types": [
+        " agua",
+        " dragón"
+    ],
+    "abilities": [
+        "Absorbe agua",
+        "Mandíbula fuerte"
+    ],
+    "hidden abilities": [
+        "Ímpetu arena"
+    ],
+    "stats": {
+        "hp": 90,
+        "atk": 90,
+        "def": 100,
+        "atk esp": 70,
+        "def esp": 80,
+        "speed": 75
+    },
+    "location": {
+        "Espada": [
+            "Especial: Revivir juntos el ictiofósil y el dracofósil en la Ruta 6",
+            "Incursiones Dinamax: Nido en Desfiladero Nevado "
+        ],
+        "Escudo": [
+            "Especial: Revivir juntos el ictiofósil y el dracofósil en la Ruta 6",
+            "Incursiones Dinamax: Nido en Desfiladero Nevado "
+        ],
+        "Diamante Brillante": [
+            "Dracovish no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dracovish no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Dracovish no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Su excelente capacidad motriz y la fuerza de su mandíbula lo hacían antaño invencible, pero dar caza a todas sus presas propició su extinción.",
+        "Escudo": "Exhibe con orgullo su inmensa capacidad motriz, que le permite superar los 60 km/h, pero solo puede respirar bajo el agua.",
+        "Diamante Brillante": "Dracovish no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dracovish no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Dracovish no aparece en Leyendas Pokémon: Arceus."
+    }
+}

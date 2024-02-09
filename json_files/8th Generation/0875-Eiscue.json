@@ -1,0 +1,45 @@
+{
+    "dex number": "0875",
+    "pokemon name": "Eiscue",
+    "types": [
+        " hielo"
+    ],
+    "abilities": [
+        "Cara de hielo"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 75,
+        "atk": 80,
+        "def": 110,
+        "atk esp": 65,
+        "def esp": 90,
+        "speed": 50
+    },
+    "location": {
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 10, Lago del Enfado y Mar Gélido ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro, Llanura Pétrea, nido al este 1 y Silla del Gigante, nido al sur junto al lago. Nidos en Lecho del Gigante  y Mar Gélido ",
+            "Curri: Ruta 10 (zona norte)"
+        ],
+        "Diamante Brillante": [
+            "Eiscue no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Eiscue no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Eiscue no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nCara de hielo: La corriente lo ha transportado hasta aquí desde un lugar sumamente gélido. Utiliza el hielo para mantener la cara refrigerada en todo momento.\nCara deshielo: El hielo de la cabeza se ha deshecho y ha revelado un rostro apenado que cautiva a numerosas personas.",
+        "Escudo": "\nCara de hielo: Se enfría constantemente la cara con hielo por su escasa resistencia al calor. Utiliza el pelo de la cabeza para pescar en el mar.\nCara deshielo: El pelo de la cabeza está directamente conectado con su cerebro. Cuando piensa, genera corrientes de aire frío.",
+        "Diamante Brillante": "Eiscue no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Eiscue no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Eiscue no aparece en Leyendas Pokémon: Arceus."
+    }
+}

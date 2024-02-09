@@ -1,0 +1,44 @@
+{
+    "dex number": "0890",
+    "pokemon name": "Eternatus",
+    "types": [
+        " veneno",
+        " dragón"
+    ],
+    "abilities": [
+        "Presión"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 140,
+        "atk": 85,
+        "def": 95,
+        "atk esp": 145,
+        "def esp": 95,
+        "speed": 130
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Corona de la Torre, después de luchar contra el Presidente Rose en la Planta Eléctrica. Debe ser debilitado en su forma normal para que se transforme en Eternatus Dinamax infinito y se capture en una Incursión Dinamax (solo uno, al nivel 60)"
+        ],
+        "Escudo": [
+            "Salvaje: Corona de la Torre, después de luchar contra el Presidente Rose en la Planta Eléctrica. Debe ser debilitado en su forma normal para que se transforme en Eternatus Dinamax infinito y se capture en una Incursión Dinamax (solo uno, al nivel 60)"
+        ],
+        "Diamante Brillante": [
+            "Eternatus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Eternatus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Eternatus no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nEternatus: Se alimenta de la energía que brota de la tierra de Galar absorbiéndola por el núcleo del pecho.\nEternatus Dinamax infinito: Esta forma es el resultado de la sobrecarga que ha recibido tras absorber gran cantidad de energía de Galar por mediación de Rose.",
+        "Escudo": "\nEternatus: Fue hallado en el interior de un meteorito caído hace 20000 años. Por lo visto, está relacionado con el misterio que rodea al fenómeno Dinamax.\nEternatus Dinamax infinito: El poder ilimitado que emite su gigantesco núcleo puede distorsionar el espacio-tiempo a su alrededor.",
+        "Diamante Brillante": "Eternatus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Eternatus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Eternatus no aparece en Leyendas Pokémon: Arceus."
+    }
+}

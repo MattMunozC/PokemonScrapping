@@ -1,0 +1,59 @@
+{
+    "dex number": "0796",
+    "pokemon name": "Xurkitree",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Ultraimpulso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 83,
+        "atk": 89,
+        "def": 71,
+        "atk esp": 173,
+        "def esp": 71,
+        "speed": 83
+    },
+    "location": {
+        "Sol": [
+            "Especial: Jungla Umbría y/o Colina del Recuerdo, durante la tercera misión de los ultraentes (solo dos)"
+        ],
+        "Luna": [
+            "Especial: Jungla Umbría y/o Colina del Recuerdo, durante la tercera misión de los ultraentes (solo dos)"
+        ],
+        "Ultrasol": [
+            "Especial: Ultragenerador"
+        ],
+        "Ultraluna": [
+            "Especial: Ultragenerador"
+        ],
+        "Espada": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Escudo": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Diamante Brillante": [
+            "Xurkitree no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Xurkitree no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Xurkitree no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Un Ultraente rodeado de misterio. Se dice que su cuerpo desprende descargas eléctricas de inmensa potencia.",
+        "Luna": "Este Ultraente surgió de un Ultraumbral. Se cree que la electricidad es su fuente de energía, ya que una vez asaltó una central eléctrica.",
+        "Ultrasol": "Para los seres de este mundo resulta extraño y peligroso, pero en el mundo del que procede es una criatura muy común.",
+        "Ultraluna": "Uno de los llamados Ultraentes. Algunos ejemplares plantan sus extremidades en el suelo como si fueran árboles y permanecen inmóviles.",
+        "Espada": "No hay entrada de Xurkitree en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Xurkitree en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Xurkitree no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Xurkitree no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Xurkitree no aparece en Leyendas Pokémon: Arceus."
+    }
+}

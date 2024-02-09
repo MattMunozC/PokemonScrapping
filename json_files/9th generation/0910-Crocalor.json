@@ -1,0 +1,23 @@
+{
+    "dex number": "0910",
+    "pokemon name": "Crocalor",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Ignorante"
+    ],
+    "stats": {
+        "hp": 81,
+        "atk": 55,
+        "def": 78,
+        "atk esp": 90,
+        "def esp": 58,
+        "speed": 49
+    },
+    "location": {},
+    "pokedex": {}
+}

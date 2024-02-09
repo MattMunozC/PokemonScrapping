@@ -1,0 +1,64 @@
+{
+    "dex number": "0781",
+    "pokemon name": "Dhelmise",
+    "types": [
+        " fantasma",
+        " planta"
+    ],
+    "abilities": [
+        "Acero templado"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 70,
+        "atk": 131,
+        "def": 100,
+        "atk esp": 86,
+        "def esp": 90,
+        "speed": 40
+    },
+    "location": {
+        "Sol": [
+            "Pescando: Aldea Marina"
+        ],
+        "Luna": [
+            "Pescando: Aldea Marina"
+        ],
+        "Ultrasol": [
+            "Pescando: Aldea Marina"
+        ],
+        "Ultraluna": [
+            "Pescando: Aldea Marina"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 9 (Afueras de Crampón)",
+            "Pescando: Playa Desafío  y Mar Gélido ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al sur, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 9 (Afueras de Crampón)",
+            "Pescando: Playa Desafío  y Mar Gélido ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al sur, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro"
+        ],
+        "Diamante Brillante": [
+            "Dhelmise no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dhelmise no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Dhelmise no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Los giros de su enorme ancla son capaces de noquear al mismísimo Wailord de un solo golpe. El alga verde es su verdadero cuerpo.",
+        "Luna": "Es la reencarnación del espíritu de las algas que flotan a la deriva. Protege su cuerpo acoplando a las algas los desperdicios que halla en el mar.",
+        "Ultrasol": "Envuelve a sus víctimas con su alga verde y les absorbe la vitalidad. Se deleita en cazar solo presas de gran tamaño, como Wailord.",
+        "Ultraluna": "Su alga verde se extiende en forma de cadena varios cientos de metros. Por algún motivo, se lleva bien con Skrelp.",
+        "Espada": "Este Pokémon de tipo Fantasma no es sino la reencarnación de las algas que flotan a la deriva y arrastran consigo vestigios de barcos hundidos.",
+        "Escudo": "Acecha a su presa hundiendo el ancla en el mar. Es capaz de drenar la vitalidad incluso de presas del tamaño de un Wailord.",
+        "Diamante Brillante": "Dhelmise no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dhelmise no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Dhelmise no aparece en Leyendas Pokémon: Arceus."
+    }
+}

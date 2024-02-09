@@ -1,0 +1,24 @@
+{
+    "dex number": "0960",
+    "pokemon name": "Wiglett",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Baba",
+        "Cobardía"
+    ],
+    "hidden abilities": [
+        "Velo arena"
+    ],
+    "stats": {
+        "hp": 10,
+        "atk": 55,
+        "def": 25,
+        "atk esp": 35,
+        "def esp": 25,
+        "speed": 95
+    },
+    "location": {},
+    "pokedex": {}
+}

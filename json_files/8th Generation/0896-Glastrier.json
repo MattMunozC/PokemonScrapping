@@ -1,0 +1,43 @@
+{
+    "dex number": "0896",
+    "pokemon name": "Glastrier",
+    "types": [
+        " hielo"
+    ],
+    "abilities": [
+        "Relincho blanco"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 145,
+        "def": 130,
+        "atk esp": 65,
+        "def esp": 110,
+        "speed": 30
+    },
+    "location": {
+        "Espada": [
+            "Especial: se captura como Calyrex jinete glacial en el Templo Corona, si se elige plantar las semillas de zanahoria en el Desfiladero Nevado. Para obtener a Glastrier se debe deshacer la fusión con las riendas unión. "
+        ],
+        "Escudo": [
+            "Especial: se captura como Calyrex jinete glacial en el Templo Corona, si se elige plantar las semillas de zanahoria en el Desfiladero Nevado. Para obtener a Glastrier se debe deshacer la fusión con las riendas unión. "
+        ],
+        "Diamante Brillante": [
+            "Glastrier no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Glastrier no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Glastrier no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Libera un potente vaho gélido por las pezuñas. Un ser violento que no duda en tomar a la fuerza todo cuanto desea.",
+        "Escudo": "Cuenta con una fuerza física sobrecogedora. La máscara de hielo que le cubre el rostro es cien veces más dura que el diamante.",
+        "Diamante Brillante": "Glastrier no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Glastrier no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Glastrier no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "dex number": "0946",
+    "pokemon name": "Bramblin",
+    "types": [
+        " planta",
+        " fantasma"
+    ],
+    "abilities": [
+        "Surcavientos"
+    ],
+    "hidden abilities": [
+        "Allanamiento"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 65,
+        "def": 30,
+        "atk esp": 45,
+        "def esp": 35,
+        "speed": 60
+    },
+    "location": {},
+    "pokedex": {}
+}

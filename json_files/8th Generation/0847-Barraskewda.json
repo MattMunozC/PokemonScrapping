@@ -1,0 +1,53 @@
+{
+    "dex number": "0847",
+    "pokemon name": "Barraskewda",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Nado rápido"
+    ],
+    "hidden abilities": [
+        "Hélice caudal"
+    ],
+    "stats": {
+        "hp": 61,
+        "atk": 123,
+        "def": 60,
+        "atk esp": 60,
+        "def esp": 50,
+        "speed": 136
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 2, Lago del Enfado, Playa Desafío  y Llano Entrenamiento ",
+            "Pescando: Cuenca Polvorienta, Lago del Enfado y Ribera de Pistón",
+            "Evolucionar: a Arrokuda (nivel 26)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Con posible habilidad oculta: Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur. Nidos en Humedal Frescor , Bosque Concentración , Playa Desafío  y Cueva Tenacidad "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 2, Lago del Enfado, Playa Desafío  y Llano Entrenamiento ",
+            "Pescando: Cuenca Polvorienta, Lago del Enfado y Ribera de Pistón",
+            "Evolucionar: a Arrokuda (nivel 26)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Con posible habilidad oculta: Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur. Nidos en Humedal Frescor , Bosque Concentración , Playa Desafío  y Cueva Tenacidad "
+        ],
+        "Diamante Brillante": [
+            "Barraskewda no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Barraskewda no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Barraskewda no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Su mandíbula es tan puntiaguda como una lanza y tan dura como el acero. Al parecer, su carne es sorprendentemente deliciosa.",
+        "Escudo": "Hace girar su aleta caudal para impulsarse y arremeter contra la presa, a la que ensarta a una velocidad que supera los 100 nudos.",
+        "Diamante Brillante": "Barraskewda no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Barraskewda no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Barraskewda no aparece en Leyendas Pokémon: Arceus."
+    }
+}

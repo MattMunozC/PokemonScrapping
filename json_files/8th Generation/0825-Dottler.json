@@ -1,0 +1,53 @@
+{
+    "dex number": "0825",
+    "pokemon name": "Dottler",
+    "types": [
+        " bicho",
+        " psíquico"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Ojo compuesto"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 35,
+        "def": 80,
+        "atk esp": 50,
+        "def esp": 90,
+        "speed": 30
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 5, Espejo del Gigante, Gorro del Gigante y Llanura Pétrea",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared, Valle Entrepuentes, nido al noreste cerca de los pilares y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Prado Reverencia , Bosque Concentración , Llano Entrenamiento , Mar Gimnástico ",
+            "Curri: Ruta 5",
+            "Evolucionar: a Blipbug (nivel 10)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 5, Espejo del Gigante, Gorro del Gigante y Llanura Pétrea",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares. Nidos en Prado Reverencia , Bosque Concentración , Llano Entrenamiento , Mar Gimnástico ",
+            "Curri: Ruta 5",
+            "Evolucionar: a Blipbug (nivel 10)"
+        ],
+        "Diamante Brillante": [
+            "Dottler no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dottler no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Dottler no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Apenas se mueve, pero está vivo. Se cree que adquiere poderes psíquicos mientras permanece recluido en su caparazón sin comer ni beber.",
+        "Escudo": "Está en constante crecimiento dentro del caparazón. Mientras se prepara para evolucionar, examina el exterior con sus poderes psíquicos.",
+        "Diamante Brillante": "Dottler no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dottler no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Dottler no aparece en Leyendas Pokémon: Arceus."
+    }
+}

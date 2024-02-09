@@ -1,0 +1,63 @@
+{
+    "dex number": "0726",
+    "pokemon name": "Torracat",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Intimidación"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 85,
+        "def": 50,
+        "atk esp": 80,
+        "def esp": 50,
+        "speed": 90
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Litten (nivel 17)"
+        ],
+        "Luna": [
+            "Evolucionar: a Litten (nivel 17)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Litten (nivel 17)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Litten (nivel 17)"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: a Litten (nivel 17) "
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: a Litten (nivel 17) "
+        ],
+        "Diamante Brillante": [
+            "Torracat no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Torracat no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Torracat no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Luce al cuello un cascabel incandescente que tintinea con fuerza cuando desprende llamas.",
+        "Luna": "Se enorgullece de la fuerza de sus patas delanteras, con las que es capaz de doblar barras de acero de un solo golpe.",
+        "Ultrasol": "Si le coge cariño a su Entrenador se muestra afectuoso, pero es tan fuerte y sus garras tan afiladas que lo puede dejar lleno de arañazos.",
+        "Ultraluna": "Una crin alzada viene a significar que su estado físico es bueno, mientras que una crin lacia hacia atrás indica lo contrario.",
+        "Espada": "La saca de fuego que luce al cuello arde con mayor intensidad durante el combate y emite un tintineo que recuerda al de un cascabel.",
+        "Escudo": "Enfrentarse a un adversario formidable aviva tanto su espíritu combativo como la energía térmica de su cascabel.",
+        "Diamante Brillante": "Torracat no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Torracat no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Torracat no aparece en Leyendas Pokémon: Arceus."
+    }
+}

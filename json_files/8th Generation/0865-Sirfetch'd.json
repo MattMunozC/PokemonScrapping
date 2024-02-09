@@ -1,0 +1,46 @@
+{
+    "dex number": "0865",
+    "pokemon name": "Sirfetch'd",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Impasible"
+    ],
+    "hidden abilities": [
+        "Intrépido"
+    ],
+    "stats": {
+        "hp": 62,
+        "atk": 135,
+        "def": 95,
+        "atk esp": 68,
+        "def esp": 82,
+        "speed": 65
+    },
+    "location": {
+        "Espada": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago y Llanura Pétrea, nido al noreste junto a una pared 1. Nidos en Prado Reverencia , Playa Desafío , Ruta Desafío , Mar Meloso , Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: al Farfetch'd de Galar (tres golpes críticos en combate)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Sirfetch'd no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sirfetch'd no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Sirfetch'd no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Los ejemplares que superan numerosos combates evolucionan y adoptan esta forma. Abandonan el terreno de combate en cuanto el puerro se seca.",
+        "Escudo": "Repele ataques con las hojas de su duro puerro y contraataca con su tallo afilado. El puerro que le sirve de armamento sigue siendo comestible.",
+        "Diamante Brillante": "Sirfetch'd no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sirfetch'd no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sirfetch'd no aparece en Leyendas Pokémon: Arceus."
+    }
+}

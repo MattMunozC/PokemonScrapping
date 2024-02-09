@@ -1,0 +1,53 @@
+{
+    "dex number": "0848",
+    "pokemon name": "Toxel",
+    "types": [
+        " eléctrico",
+        " veneno"
+    ],
+    "abilities": [
+        "Cobardía",
+        "Electricidad estática"
+    ],
+    "hidden abilities": [
+        "Zoquete"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 38,
+        "def": 35,
+        "atk esp": 54,
+        "def esp": 35,
+        "speed": 40
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 7, Cornisa de Artejo, Gorro del Gigante, Llanura Pétrea, Ribera de Pistón y Valle Entrepuentes",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Espejo del Gigante, nido al este, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón, Lago del Enfado, nido al noreste junto al lago, Ribera de Pistón, nido al suroeste y Ribera de Pistón, nido junto al muro de Ciudad Pistón",
+            "Curri: Ruta 7",
+            "Regalo: en Cuidados Pokémon de la Ruta 5 (solo uno, al nivel 1)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 7, Cornisa de Artejo, Gorro del Gigante, Llanura Pétrea, Ribera de Pistón y Valle Entrepuentes",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noroeste, Espejo del Gigante, nido al este, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón, Lago del Enfado, nido al noreste junto al lago, Ribera de Pistón, nido al suroeste y Ribera de Pistón, nido junto al muro de Ciudad Pistón",
+            "Curri: Ruta 7",
+            "Regalo: en Cuidados Pokémon de la Ruta 5 (solo uno, al nivel 1)"
+        ],
+        "Diamante Brillante": [
+            "Toxel no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Toxel no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Toxel no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Secreta toxinas por la piel y las almacena en una bolsa de veneno interna. Tocarlo da calambre.",
+        "Escudo": "Provoca una reacción química para generar energía eléctrica con sus toxinas. Aunque de bajo voltaje, puede causar entumecimiento.",
+        "Diamante Brillante": "Toxel no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Toxel no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Toxel no aparece en Leyendas Pokémon: Arceus."
+    }
+}

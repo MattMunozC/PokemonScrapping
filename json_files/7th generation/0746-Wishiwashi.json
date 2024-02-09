@@ -1,0 +1,61 @@
+{
+    "dex number": "0746",
+    "pokemon name": "Wishiwashi",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Banco"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 45,
+        "atk": 20,
+        "def": 20,
+        "atk esp": 25,
+        "def esp": 25,
+        "speed": 40
+    },
+    "location": {
+        "Sol": [
+            "Pescando: Ruta 7, Ruta 8, Ruta 9, Ruta 13, Ruta 14, Ruta 15, Bahía Kalae, Mar de Melemele, Colina Saltagua, Afueras de Akala y Playa Menor"
+        ],
+        "Luna": [
+            "Pescando: Ruta 7, Ruta 8, Ruta 9, Ruta 13, Ruta 14, Ruta 15, Bahía Kalae, Mar de Melemele, Colina Saltagua, Afueras de Akala y Playa Menor"
+        ],
+        "Ultrasol": [
+            "Pescando: Ruta 7, Ruta 8, Ruta 9, Ruta 13, Ruta 14, Ruta 15, Bahía Kalae, Mar de Melemele, Colina Saltagua y Afueras de Akala"
+        ],
+        "Ultraluna": [
+            "Pescando: Ruta 7, Ruta 8, Ruta 9, Ruta 13, Ruta 14, Ruta 15, Bahía Kalae, Mar de Melemele, Colina Saltagua y Afueras de Akala"
+        ],
+        "Espada": [
+            "Pescando: Pueblo Amura, Ruta 9, Lago Axew (oeste), Mar Andana , Mar Islejos , Mar Meloso  e Isla Melosa ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Nidos en Prado Reverencia , Playa Desafío , Bahía Circular , Mar Gimnástico , Mar Andana , Mar Islejos  y Mar Meloso "
+        ],
+        "Escudo": [
+            "Pescando: Pueblo Amura, Ruta 9, Lago Axew (oeste), Mar Andana , Mar Islejos , Mar Meloso  e Isla Melosa ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Nidos en Prado Reverencia , Playa Desafío , Bahía Circular , Mar Gimnástico , Mar Andana , Mar Islejos  y Mar Meloso "
+        ],
+        "Diamante Brillante": [
+            "Wishiwashi no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Wishiwashi no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Wishiwashi no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "\nForma individual: Al sentirse amenazado, sus ojos emiten cierto brillo, algo que atrae a otros miembros de su especie, y juntos luchan como un mismo ente.\nForma banco: Cuando los pequeños y débiles Wishiwashi se agrupan en bancos, se convierten en una bestia marina temida por todos.",
+        "Luna": "\nForma individual: Debido a su aspecto débil y a su apetitoso sabor, son el blanco de muchos depredadores, pero quien se las ve con ellos sale mal parado.\nForma banco: En esta forma, es temido incluso por Gyarados. Cuando combinan sus fuerzas, el poder de su Pistola Agua puede superar al de Hidrobomba.",
+        "Ultrasol": "\nForma individual: Se agrupan debido a su manifiesta debilidad, aunque también se suelen avistar nadando en solitario, separados de su banco.\nForma banco: Un banco de Wishiwashi que se han agrupado para plantar cara al enemigo. Su fuerza les merece el apodo de la Bestia del Mar.",
+        "Ultraluna": "\nForma individual: Al sentirse amenazado, alerta a sus congéneres emitiendo un brillo por las pupilas que puede verse incluso a 40 kilómetros de distancia.\nForma banco: Es conocido como la Bestia del Mar. Si el número de Wishiwashi heridos durante el combate sube mucho, el banco vuelve a ser inofensivo.",
+        "Espada": "\nForma individual: Debido a su manifiesta debilidad cuando van solos, han adquirido la capacidad de agruparse en bancos a la hora de enfrentarse a un enemigo.\nForma banco: Pese a la debilidad de los Wishiwashi en solitario, al agruparse adquieren tal fuerza que hacen honor a su apodo, la Bestia del Mar.",
+        "Escudo": "\nForma individual: Al sentirse amenazado, le lloran los ojos. La luz que se refleja en sus lágrimas sirve de señal a sus congéneres para agruparse en gran número.\nForma banco: Los Wishiwashi se agrupan en bancos para enfrentarse a rivales fuertes. Si resultan heridos se dispersan y vuelven a quedarse solos.",
+        "Diamante Brillante": "Wishiwashi no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Wishiwashi no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Wishiwashi no aparece en Leyendas Pokémon: Arceus."
+    }
+}

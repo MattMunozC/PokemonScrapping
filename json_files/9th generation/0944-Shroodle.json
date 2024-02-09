@@ -1,0 +1,25 @@
+{
+    "dex number": "0944",
+    "pokemon name": "Shroodle",
+    "types": [
+        " veneno",
+        " normal"
+    ],
+    "abilities": [
+        "Liviano",
+        "Hurto"
+    ],
+    "hidden abilities": [
+        "Bromista"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 65,
+        "def": 35,
+        "atk esp": 40,
+        "def esp": 35,
+        "speed": 75
+    },
+    "location": {},
+    "pokedex": {}
+}

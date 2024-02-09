@@ -1,0 +1,63 @@
+{
+    "dex number": "0740",
+    "pokemon name": "Crabominable",
+    "types": [
+        " lucha",
+        " hielo"
+    ],
+    "abilities": [
+        "Corte fuerte",
+        "Puño férreo"
+    ],
+    "hidden abilities": [
+        "Irascible"
+    ],
+    "stats": {
+        "hp": 97,
+        "atk": 132,
+        "def": 77,
+        "atk esp": 62,
+        "def esp": 67,
+        "speed": 43
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Crabrawler (+ nivel en Monte Lanakila)"
+        ],
+        "Luna": [
+            "Evolucionar: a Crabrawler (+ nivel en Monte Lanakila)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Crabrawler (+ nivel en Monte Lanakila)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Crabrawler (+ nivel en Monte Lanakila)"
+        ],
+        "Espada": [
+            "Crabominable no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Crabominable no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Crabominable no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Crabominable no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Crabominable no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Tras perderse intentando coronar una alta montaña, desarrolló una capa de pelo para protegerse del frío.",
+        "Luna": "Asesta golpes con las pinzas a diestro y siniestro. Si se ve en apuros, se desprende de ellas lanzándolas como si fueran cohetes.",
+        "Ultrasol": "En el interior de las pinzas acumula aire gélido. Los golpes que asesta son capaces de hacer añicos incluso gruesas paredes de hielo.",
+        "Ultraluna": "No se lo piensa dos veces a la hora de zurrar. Se tiene constancia de que sus puñetazos frenéticos han llegado a detener aludes.",
+        "Espada": "Crabominable no aparece en Pokémon Espada.",
+        "Escudo": "Crabominable no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Crabominable no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Crabominable no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Crabominable no aparece en Leyendas Pokémon: Arceus."
+    }
+}

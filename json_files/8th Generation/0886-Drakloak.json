@@ -1,0 +1,53 @@
+{
+    "dex number": "0886",
+    "pokemon name": "Drakloak",
+    "types": [
+        " dragón",
+        " fantasma"
+    ],
+    "abilities": [
+        "Cuerpo puro",
+        "Allanamiento"
+    ],
+    "hidden abilities": [
+        "Cuerpo maldito"
+    ],
+    "stats": {
+        "hp": 68,
+        "atk": 80,
+        "def": 50,
+        "atk esp": 60,
+        "def esp": 50,
+        "speed": 102
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Lago del Enfado y Viejo Cementerio ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Ojo de Axew, nido central. Con posible habilidad oculta: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Campo Deslizante , Viejo Cementerio , Suela del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Dreepy (nivel 50)"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado y Viejo Cementerio ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Ojo de Axew, nido central. Con posible habilidad oculta: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Campo Deslizante , Viejo Cementerio , Suela del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Dreepy (nivel 50)"
+        ],
+        "Diamante Brillante": [
+            "Drakloak no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Drakloak no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Drakloak no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Vuela a una velocidad de 200 km/h. Lucha junto a un Dreepy, al que cuida hasta el momento de su evolución.",
+        "Escudo": "Si no lleva un Dreepy del que cuidar encima de la cabeza, se intranquiliza y trata de sustituirlo con otro Pokémon.",
+        "Diamante Brillante": "Drakloak no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Drakloak no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Drakloak no aparece en Leyendas Pokémon: Arceus."
+    }
+}

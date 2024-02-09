@@ -1,0 +1,43 @@
+{
+    "dex number": "0894",
+    "pokemon name": "Regieleki",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Transistor"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 80,
+        "atk": 100,
+        "def": 50,
+        "atk esp": 100,
+        "def esp": 50,
+        "speed": 200
+    },
+    "location": {
+        "Espada": [
+            "Especial: Ruinas del Dilema (solo uno, elección entre Regieleki o Regidrago) "
+        ],
+        "Escudo": [
+            "Especial: Ruinas del Dilema (solo uno, elección entre Regieleki o Regidrago) "
+        ],
+        "Diamante Brillante": [
+            "Regieleki no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Regieleki no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Regieleki no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Su cuerpo entero es energía eléctrica. Por lo visto, quitarle los anillos que lleva libera su poder oculto.",
+        "Escudo": "Todo su cuerpo es un órgano electrógeno, cuya potencia sería suficiente para abastecer la región de Galar por completo.",
+        "Diamante Brillante": "Regieleki no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Regieleki no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Regieleki no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "dex number": "1013",
+    "pokemon name": "Sinistcha",
+    "types": [
+        " planta",
+        " fantasma"
+    ],
+    "abilities": [
+        "Hospitalidad"
+    ],
+    "hidden abilities": [
+        "Ignífugo"
+    ],
+    "stats": {
+        "hp": 71,
+        "atk": 60,
+        "def": 106,
+        "atk esp": 121,
+        "def esp": 80,
+        "speed": 70
+    },
+    "location": {},
+    "pokedex": {}
+}

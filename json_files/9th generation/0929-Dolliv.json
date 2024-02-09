@@ -1,0 +1,24 @@
+{
+    "dex number": "0929",
+    "pokemon name": "Dolliv",
+    "types": [
+        " planta",
+        " normal"
+    ],
+    "abilities": [
+        "Madrugar"
+    ],
+    "hidden abilities": [
+        "Cosecha"
+    ],
+    "stats": {
+        "hp": 52,
+        "atk": 53,
+        "def": 60,
+        "atk esp": 78,
+        "def esp": 78,
+        "speed": 33
+    },
+    "location": {},
+    "pokedex": {}
+}

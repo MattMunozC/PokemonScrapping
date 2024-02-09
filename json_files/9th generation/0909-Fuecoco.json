@@ -1,0 +1,23 @@
+{
+    "dex number": "0909",
+    "pokemon name": "Fuecoco",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Ignorante"
+    ],
+    "stats": {
+        "hp": 67,
+        "atk": 45,
+        "def": 59,
+        "atk esp": 63,
+        "def esp": 40,
+        "speed": 36
+    },
+    "location": {},
+    "pokedex": {}
+}

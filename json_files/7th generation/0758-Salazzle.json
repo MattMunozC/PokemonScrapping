@@ -1,0 +1,71 @@
+{
+    "dex number": "0758",
+    "pokemon name": "Salazzle",
+    "types": [
+        " veneno",
+        " fuego"
+    ],
+    "abilities": [
+        "Corrosión"
+    ],
+    "hidden abilities": [
+        "Despiste"
+    ],
+    "stats": {
+        "hp": 68,
+        "atk": 64,
+        "def": 60,
+        "atk esp": 111,
+        "def esp": 60,
+        "speed": 117
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Salandit (hembra + nivel 33)"
+        ],
+        "Luna": [
+            "Evolucionar: a Salandit (hembra + nivel 33)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Área Volcánica del Wela y Jungla Umbría (como refuerzo de Salandit)",
+            "Evolucionar: a Salandit (hembra + nivel 33)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Área Volcánica del Wela y Jungla Umbría (como refuerzo de Salandit)",
+            "Evolucionar: a Salandit (hembra + nivel 33)",
+            "Regalo: de Gabriel Oak en la Playa de Kantai tras reunir 50 dominsignias"
+        ],
+        "Espada": [
+            "Salvaje: Ruta Desafío ",
+            "Evolucionar: a Salandit (hembra + nivel 33)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste y Llanura Pétrea, nido al este 2. Con posible habilidad oculta: Cornisa de Artejo, nido al sur, Lago del Enfado, nido al oeste y Llanura Pétrea, nido al norte en la zona árida. Nidos en Prado Reverencia , Playa Desafío , Bahía Circular  y Cuenca Arenosa "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta Desafío ",
+            "Evolucionar: a Salandit (hembra + nivel 33)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Con posible habilidad oculta: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Ribera de Pistón, nido junto al muro de Ciudad Pistón.Nidos en Prado Reverencia , Playa Desafío , Bahía Circular  y Cuenca Arenosa "
+        ],
+        "Diamante Brillante": [
+            "Salazzle no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Salazzle no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Salazzle no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Por algún motivo desconocido, solo hay hembras. Suele formarse su propio harén compuesto por Salandit machos.",
+        "Luna": "Su gas venenoso contiene numerosas feromonas. Al diluirlo es posible elaborar un perfume que resulta verdaderamente embriagador.",
+        "Ultrasol": "Vive en las profundidades de las cuevas. Gracias a sus feromonas, atrae Salandit y los hace presas de su voluntad.",
+        "Ultraluna": "Castiga a los Salandit que no le traen caza abofeteándolos con sus ardientes zarpas.",
+        "Espada": "Solo hay hembras. Gracias a sus feromonas, atrae a los Salandit macho y los somete a su voluntad.",
+        "Escudo": "Libran disputas con sus congéneres cuyo resultado, al parecer, se inclina por quien tenga un séquito de Salandit machos más numeroso.",
+        "Diamante Brillante": "Salazzle no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Salazzle no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Salazzle no aparece en Leyendas Pokémon: Arceus."
+    }
+}

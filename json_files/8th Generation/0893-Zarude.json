@@ -1,0 +1,44 @@
+{
+    "dex number": "0893",
+    "pokemon name": "Zarude",
+    "types": [
+        " siniestro",
+        " planta"
+    ],
+    "abilities": [
+        "Defensa hoja"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 105,
+        "atk": 120,
+        "def": 105,
+        "atk esp": 70,
+        "def esp": 95,
+        "speed": 105
+    },
+    "location": {
+        "Espada": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Escudo": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Diamante Brillante": [
+            "Zarude no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Zarude no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Zarude no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nZarude: Viven en manada en la selva. Debido a su marcada agresividad, son muy temidos por otros Pokémon selváticos.\nZarude papá: Ha abandonado la manada para criar a un bebé humano. Lleva una manta impregnada de un olor que calma el llanto del retoño.",
+        "Escudo": "\nZarude: Las lianas que le brotan del cuerpo nutren y fertilizan el mantillo del bosque cuando se le desprenden.\nZarude papá: El afecto que siente por un humano huérfano al que crio desde que era un bebé le ha otorgado una fuerza especial.",
+        "Diamante Brillante": "Zarude no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Zarude no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Zarude no aparece en Leyendas Pokémon: Arceus."
+    }
+}

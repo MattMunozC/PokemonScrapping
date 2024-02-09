@@ -1,0 +1,68 @@
+{
+    "dex number": "0763",
+    "pokemon name": "Tsareena",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Defensa hoja",
+        "Regia presencia"
+    ],
+    "hidden abilities": [
+        "Velo dulce"
+    ],
+    "stats": {
+        "hp": 72,
+        "atk": 120,
+        "def": 98,
+        "atk esp": 50,
+        "def esp": 98,
+        "speed": 72
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Steenee (conocer pisotón + nivel)"
+        ],
+        "Luna": [
+            "Evolucionar: a Steenee (conocer pisotón + nivel)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Steenee (conocer pisotón + nivel)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Steenee (conocer pisotón + nivel)"
+        ],
+        "Espada": [
+            "Salvaje: Llanura Pétrea, Arboleda Claroscuro y Espejo del Gigante",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur y Espejo del Gigante, nido al norte. Nido en Bahía Circular ",
+            "Evolucionar: a Steenee (conocer pisotón + nivel)"
+        ],
+        "Escudo": [
+            "Salvaje: Llanura Pétrea, Arboleda Claroscuro y Espejo del Gigante",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur y Espejo del Gigante, nido al norte. Nido en Bahía Circular ",
+            "Evolucionar: a Steenee (conocer pisotón + nivel)"
+        ],
+        "Diamante Brillante": [
+            "Tsareena no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tsareena no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Tsareena no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Propinar patadas implacables es su especialidad. Patea a sus oponentes derrotados y proclama su victoria con una gran carcajada.",
+        "Luna": "La belleza de sus piernas es bien conocida. Por eso no es de extrañar que se utilice como reclamo para salones de belleza y similares.",
+        "Ultrasol": "Propina bellas patadas con elegancia. Una sola bastaría para dejar fuera de combate a un campeón de kickboxing.",
+        "Ultraluna": "Es un Pokémon combativo y especialista en propinar patadas. Suelta una risotada cada vez que acierta al oponente.",
+        "Espada": "Sus piernas son tan esbeltas como cruel es su corazón. Un temible Pokémon que pisotea sin piedad al rival.",
+        "Escudo": "Propina patadas con sus duras y puntiagudas piernas, con las que deja heridas indelebles en el cuerpo y el corazón del adversario.",
+        "Diamante Brillante": "Tsareena no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tsareena no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Tsareena no aparece en Leyendas Pokémon: Arceus."
+    }
+}

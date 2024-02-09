@@ -1,0 +1,45 @@
+{
+    "dex number": "0817",
+    "pokemon name": "Drizzile",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Francotirador"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 60,
+        "def": 55,
+        "atk esp": 95,
+        "def esp": 55,
+        "speed": 90
+    },
+    "location": {
+        "Espada": [
+            "Evolucionar: a Sobble (nivel 16)"
+        ],
+        "Escudo": [
+            "Evolucionar: a Sobble (nivel 16)"
+        ],
+        "Diamante Brillante": [
+            "Drizzile no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Drizzile no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Drizzile no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Crea bolas de agua con el líquido que segrega por las palmas de las manos y las usa en combate de forma estratégica.",
+        "Escudo": "Es inteligente, pero no muestra especial interés por nada. Distribuye trampas por su territorio para mantener alejados a sus enemigos.",
+        "Diamante Brillante": "Drizzile no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Drizzile no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Drizzile no aparece en Leyendas Pokémon: Arceus."
+    }
+}

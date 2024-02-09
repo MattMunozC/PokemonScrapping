@@ -1,0 +1,62 @@
+{
+    "dex number": "0785",
+    "pokemon name": "Tapu Koko",
+    "types": [
+        " eléctrico",
+        " hada"
+    ],
+    "abilities": [
+        "Electrogénesis"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 115,
+        "def": 85,
+        "atk esp": 95,
+        "def esp": 75,
+        "speed": 130
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruinas de la Guerra, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Luna": [
+            "Salvaje: Ruinas de la Guerra, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruinas de la Guerra, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruinas de la Guerra, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Tapu Koko no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tapu Koko no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Tapu Koko no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "El espíritu guardián de Melemele, curioso e inquisitivo. Invoca nubes de tormenta y acumula el poder de los rayos en su cuerpo.",
+        "Luna": "Su endiablada velocidad aturde por completo al enemigo. Pese a su extrema irascibilidad, olvida rápidamente el motivo de su enfado.",
+        "Ultrasol": "Aunque se le considera un espíritu guardián, obra también como espíritu vengativo contra las personas y Pokémon que desatan su ira.",
+        "Ultraluna": "El espíritu guardián de Melemele, capaz de blandir el rayo. Su eterna curiosidad le lleva a veces a mostrarse ante las personas.",
+        "Espada": "No hay entrada de Tapu Koko en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Tapu Koko en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Tapu Koko no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tapu Koko no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Tapu Koko no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "dex number": "0836",
+    "pokemon name": "Boltund",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Mandíbula fuerte"
+    ],
+    "hidden abilities": [
+        "Tenacidad"
+    ],
+    "stats": {
+        "hp": 69,
+        "atk": 90,
+        "def": 60,
+        "atk esp": 90,
+        "def esp": 60,
+        "speed": 121
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Cuenca Polvorienta, Lago del Enfado, Lago Milotic (norte), Ribera de Pistón y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Espejo del Gigante, nido al este, Lago del Enfado, nido al noreste junto al lago y Ribera de Pistón, nido al suroeste. Nidos en Prado Reverencia , Bosque Concentración , Playa Desafío , Mar Meloso , Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Evolucionar: a Yamper (nivel 25)"
+        ],
+        "Escudo": [
+            "Salvaje: Cuenca Polvorienta, Lago del Enfado, Lago Milotic (norte), Ribera de Pistón y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Espejo del Gigante, nido al este, Lago del Enfado, nido al noreste junto al lago y Ribera de Pistón, nido al suroeste. Nidos en Prado Reverencia , Bosque Concentración , Playa Desafío , Mar Meloso , Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Evolucionar: a Yamper (nivel 25)"
+        ],
+        "Diamante Brillante": [
+            "Boltund no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Boltund no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Boltund no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "La electricidad que genera y envía a sus patas le ayuda a desplazarse rápidamente. Puede correr sin descanso durante tres días y tres noches.",
+        "Escudo": "La electricidad le confiere una enorme fuerza en las patas. Su velocidad punta puede superar los 90 km/h sin problema.",
+        "Diamante Brillante": "Boltund no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Boltund no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Boltund no aparece en Leyendas Pokémon: Arceus."
+    }
+}

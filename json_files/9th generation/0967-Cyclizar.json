@@ -1,0 +1,24 @@
+{
+    "dex number": "0967",
+    "pokemon name": "Cyclizar",
+    "types": [
+        " dragón",
+        " normal"
+    ],
+    "abilities": [
+        "Mudar"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 95,
+        "def": 65,
+        "atk esp": 85,
+        "def esp": 65,
+        "speed": 121
+    },
+    "location": {},
+    "pokedex": {}
+}

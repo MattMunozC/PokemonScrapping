@@ -1,0 +1,25 @@
+{
+    "dex number": "0973",
+    "pokemon name": "Flamigo",
+    "types": [
+        " volador",
+        " lucha"
+    ],
+    "abilities": [
+        "Intrépido",
+        "Tumbos"
+    ],
+    "hidden abilities": [
+        "Unísono"
+    ],
+    "stats": {
+        "hp": 82,
+        "atk": 115,
+        "def": 74,
+        "atk esp": 75,
+        "def esp": 64,
+        "speed": 90
+    },
+    "location": {},
+    "pokedex": {}
+}

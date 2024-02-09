@@ -1,0 +1,66 @@
+{
+    "dex number": "0800",
+    "pokemon name": "Necrozma",
+    "types": [
+        " psíquico",
+        " psíquico",
+        " acero",
+        " psíquico",
+        " fantasma",
+        " psíquico",
+        " dragón"
+    ],
+    "abilities": [
+        "Armadura prisma",
+        "Fuerza cerebral"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 97,
+        "atk": 107,
+        "def": 101,
+        "atk esp": 127,
+        "def esp": 89,
+        "speed": 79
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Colina Dequilate, tras haber completado la quinta misión de los ultraentes (solo uno)"
+        ],
+        "Luna": [
+            "Salvaje: Colina Dequilate, tras haber completado la quinta misión de los ultraentes (solo uno)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Monte Lanakila (solo uno)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Monte Lanakila (solo uno)"
+        ],
+        "Espada": [
+            "Aventura Dinamax (solo tras haber leído la leyenda (?)) "
+        ],
+        "Escudo": [
+            "Aventura Dinamax (solo tras haber leído la leyenda (?)) "
+        ],
+        "Diamante Brillante": [
+            "Necrozma no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Necrozma no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Necrozma no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Se dice que yacía en el interior de la tierra. Se cree que esta criatura, parecida a un Ultraente, vino de otro mundo hace muchísimo tiempo.",
+        "Luna": "Este Ultraente parece alimentarse de luz. Posee un carácter muy hostil y no duda en lanzar rayos láser.",
+        "Ultrasol": "\nNecrozma: La luz es su fuente de energía y la busca con tal desespero que da la impresión de que sufre. Parece ser una criatura de otro mundo.\nMelena crepuscular: Forma que adopta tras alimentarse de la luz de Solgaleo. Se lanza sobre su oponente y lo desgarra sin piedad.\nAlas del alba: En esta forma, Lunala no goza de voluntad propia. Necrozma tiene control absoluto y absorbe su energía poco a poco.\nUltra-Necrozma: Esta forma es el resultado de haber absorbido una gran cantidad de energía luminosa. Emite rayos láser por todo el cuerpo.",
+        "Ultraluna": "\nNecrozma: La luz es su fuente de energía. Si no absorbe la suficiente, empieza a acumular impurezas que hacen que se quede negruzco e inmóvil.\nMelena crepuscular: Forma que adopta Necrozma al absorber el poder de Solgaleo. Su propensión a la violencia lo convierte en una gran amenaza incontrolable.\nAlas del alba: Forma que adopta Necrozma al nutrirse de la luz de Lunala. Atrapa al enemigo con sus enormes garras y usa la fuerza bruta para hacerlo trizas.\nUltra-Necrozma: La luz que emite por todo el cuerpo influye de diversas formas en los seres vivos y el medio ambiente.",
+        "Espada": "\nNecrozma: La luz es su fuente de energía. Se volvió negro debido a las impurezas acumuladas en su cuerpo mientras yacía en el interior de la tierra.\nMelena crepuscular: Forma que adopta tras someter a Solgaleo. Se lanza sobre su rival y lo desgarra sin piedad con las garras de sus patas y las que salen del lomo.\nAlas del alba: Tras someter a Lunala, Necrozma lo obliga a liberar su energía luminosa para absorberla.",
+        "Escudo": "\nNecrozma: Con sus rayos láser destruye todo a su paso en busca de luz para sustentarse.\nMelena crepuscular: Tras someter a Solgaleo, Necrozma absorbe por la fuerza su energía ilimitada y siembra el caos y la destrucción por doquier.\nAlas del alba: Tras someter a Lunala, Necrozma ve enemigos a diestro y siniestro. Iracundo, lanza sus rayos láser para fulminarlo todo de forma indiscriminada.",
+        "Diamante Brillante": "Necrozma no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Necrozma no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Necrozma no aparece en Leyendas Pokémon: Arceus."
+    }
+}

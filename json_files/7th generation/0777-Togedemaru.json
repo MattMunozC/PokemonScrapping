@@ -1,0 +1,68 @@
+{
+    "dex number": "0777",
+    "pokemon name": "Togedemaru",
+    "types": [
+        " eléctrico",
+        " acero"
+    ],
+    "abilities": [
+        "Punta acero",
+        "Pararrayos"
+    ],
+    "hidden abilities": [
+        "Robustez"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 98,
+        "def": 63,
+        "atk esp": 40,
+        "def esp": 73,
+        "speed": 96
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Monte Rubor"
+        ],
+        "Luna": [
+            "Salvaje: Monte Rubor"
+        ],
+        "Ultrasol": [
+            "Salvaje: Monte Rubor"
+        ],
+        "Ultraluna": [
+            "Salvaje: Monte Rubor",
+            "Regalo: de Gabriel Oak en la Playa de Kantai tras reunir 70 dominsignias"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 8",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al noreste, Espejo del Gigante, nido al este, Lago del Enfado, nido al noreste junto al lago, Llanura Pétrea, nido al sureste, Ribera de Pistón, nido al suroeste y Silla del Gigante, nido al centro junto al lago"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 8",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al noreste, Espejo del Gigante, nido al este, Lago del Enfado, nido al noreste junto al lago, Llanura Pétrea, nido al sureste, Ribera de Pistón, nido al suroeste y Silla del Gigante, nido al centro junto al lago"
+        ],
+        "Diamante Brillante": [
+            "Togedemaru no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Togedemaru no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Togedemaru no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Cuando se siente amenazado, eriza las púas de su lomo para pinchar a quien ose atacarlo.",
+        "Luna": "El apéndice de su cabeza actúa a modo de pararrayos. Aprovecha la energía de los rayos que atrae para llenar su bolsa eléctrica.",
+        "Ultrasol": "Eriza inconscientemente las 14 púas de su lomo cuando se asusta o se pone nervioso.",
+        "Ultraluna": "Como no se le da bien generar electricidad por sí mismo, se abastece con la de los rayos.",
+        "Espada": "Utiliza el apéndice de la cabeza para absorber los rayos o los ataques de los Pokémon de tipo Eléctrico para recargar su bolsa.",
+        "Escudo": "Cuando se encuentra en peligro, se hace una bola, eriza las púas del lomo y propina descargas eléctricas a diestro y siniestro.",
+        "Diamante Brillante": "Togedemaru no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Togedemaru no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Togedemaru no aparece en Leyendas Pokémon: Arceus."
+    }
+}

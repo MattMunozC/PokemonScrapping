@@ -1,0 +1,50 @@
+{
+    "dex number": "0831",
+    "pokemon name": "Wooloo",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Peluche",
+        "Fuga"
+    ],
+    "hidden abilities": [
+        "Antibalas"
+    ],
+    "stats": {
+        "hp": 42,
+        "atk": 40,
+        "def": 55,
+        "atk esp": 40,
+        "def esp": 45,
+        "speed": 48
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 1, Ruta 4, Ribera de Pistón, Campo Deslizante , Campo Bajocero , Desfiladero Nevado , Encrucijada Tresvías  y Lecho del Gigante ",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Llanura Pétrea, nido al sureste junto a una pared, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste. Nidos en Campo Deslizante , Suela del Gigante , Lago Bolaguna  y Lecho del Gigante ",
+            "Curri: Ruta 4"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 1, Ruta 4, Ribera de Pistón, Campo Deslizante , Campo Bajocero , Desfiladero Nevado , Encrucijada Tresvías  y Lecho del Gigante ",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Llanura Pétrea, nido al sureste junto a una pared, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste. Nidos en Campo Deslizante , Suela del Gigante , Lago Bolaguna  y Lecho del Gigante ",
+            "Curri: Ruta 4"
+        ],
+        "Diamante Brillante": [
+            "Wooloo no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Wooloo no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Wooloo no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Su lana rizada es tan acolchada que no se hace daño ni aunque se caiga por un precipicio.",
+        "Escudo": "Si le crece el pelo demasiado, no puede moverse. Las telas confeccionadas con lana de Wooloo son sorprendentemente resistentes.",
+        "Diamante Brillante": "Wooloo no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Wooloo no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Wooloo no aparece en Leyendas Pokémon: Arceus."
+    }
+}

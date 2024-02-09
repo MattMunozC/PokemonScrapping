@@ -1,0 +1,48 @@
+{
+    "dex number": "0900",
+    "pokemon name": "Kleavor",
+    "types": [
+        " bicho",
+        " roca"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Potencia bruta"
+    ],
+    "hidden abilities": [
+        "Cortante"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 135,
+        "def": 95,
+        "atk esp": 45,
+        "def esp": 70,
+        "speed": 85
+    },
+    "location": {
+        "Espada": [
+            "Kleavor no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Kleavor no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Kleavor no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Kleavor no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Scyther (mineral negro)",
+            "Aparición supermasiva: Pradera Obsidiana"
+        ]
+    },
+    "pokedex": {
+        "Espada": "Kleavor no aparece en Pokémon Espada.",
+        "Escudo": "Kleavor no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Kleavor no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Kleavor no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Las dos toscas hachas le permiten talar árboles mientras su piel pétrea lo protege. Dada su naturaleza agresiva, es aconsejable escapar en caso de toparse con uno en estado salvaje."
+    }
+}

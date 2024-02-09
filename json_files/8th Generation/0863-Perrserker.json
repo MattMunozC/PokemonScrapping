@@ -1,0 +1,54 @@
+{
+    "dex number": "0863",
+    "pokemon name": "Perrserker",
+    "types": [
+        " acero"
+    ],
+    "abilities": [
+        "Armadura batalla",
+        "Garra dura"
+    ],
+    "hidden abilities": [
+        "Alma acerada"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 110,
+        "def": 100,
+        "atk esp": 50,
+        "def esp": 60,
+        "speed": 50
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 7, Ruta 9, Espejo del Gigante y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noroeste entre troncos, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared y Silla del Gigante, nido al norte. Con posible habilidad oculta: Cuenca Polvorienta, nido al noroeste entre troncos y Silla del Gigante, nido al centro junto a la pared. Nidos en Cueva Contienda , Cueva Tenacidad , Mar Andana , Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Mar Gélido ",
+            "Curri: Ruta 9 (afueras de Crampón)",
+            "Evolucionar: al Meowth de Galar (nivel 28)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 7, Ruta 9, Espejo del Gigante y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noroeste entre troncos, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared y Silla del Gigante, nido al norte. Con posible habilidad oculta: Cuenca Polvorienta, nido al noroeste entre troncos y Silla del Gigante, nido al centro junto a la pared. Nidos en Cueva Contienda , Cueva Tenacidad , Mar Andana , Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Mar Gélido ",
+            "Curri: Ruta 9 (afueras de Crampón)",
+            "Evolucionar: al Meowth de Galar (nivel 28)"
+        ],
+        "Diamante Brillante": [
+            "Perrserker no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Perrserker no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Perrserker no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "El pelo de la cabeza se le ha endurecido hasta el punto de parecer un yelmo de hierro. Posee un temperamento muy combativo.",
+        "Escudo": "Su devoción por la lucha ha propiciado que evolucionara y le ha conferido unas peligrosas garras que se convierten en dagas al extenderse.",
+        "Diamante Brillante": "Perrserker no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Perrserker no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Perrserker no aparece en Leyendas Pokémon: Arceus."
+    }
+}

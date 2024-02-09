@@ -1,0 +1,64 @@
+{
+    "dex number": "0780",
+    "pokemon name": "Drampa",
+    "types": [
+        " normal",
+        " dragón"
+    ],
+    "abilities": [
+        "Cólera",
+        "Herbívoro"
+    ],
+    "hidden abilities": [
+        "Aclimatación"
+    ],
+    "stats": {
+        "hp": 78,
+        "atk": 60,
+        "def": 85,
+        "atk esp": 135,
+        "def esp": 91,
+        "speed": 36
+    },
+    "location": {
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Salvaje: Monte Lanakila"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Salvaje: Monte Lanakila"
+        ],
+        "Espada": [
+            "Intercambiar de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado",
+            "Incursiones Dinamax: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Con posible habilidad oculta: Pradera Radiante, nido al suroeste: Nidos en Mar Gimnástico , Mar Meloso , Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Drampa no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Drampa no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Drampa no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Es de naturaleza mansa, pero si se le provoca y monta en cólera, destruye todo lo que le rodea con su aliento devastador.",
+        "Luna": "Le encantan los niños amistosos, hasta el punto de abandonar las montañas para acercarse a los pueblos y así poder jugar con ellos.",
+        "Ultrasol": "Si un niño con el que ha trabado amistad sufre las burlas de otro niño, busca la casa del abusón y le prende fuego.",
+        "Ultraluna": "Se adentra en los pueblos para jugar con los niños. Los protege de cualquier peligro, así que sus padres están tranquilos.",
+        "Espada": "Habita en montañas de más de 3000 m de altura. En ocasiones se acerca a los pueblos para jugar con los niños.",
+        "Escudo": "Es de naturaleza mansa y amable, pero, si se enfurece, puede desatar fuertes vientos capaces de llevarse cualquier cosa por delante.",
+        "Diamante Brillante": "Drampa no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Drampa no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Drampa no aparece en Leyendas Pokémon: Arceus."
+    }
+}

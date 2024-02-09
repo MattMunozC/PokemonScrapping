@@ -1,0 +1,52 @@
+{
+    "dex number": "0833",
+    "pokemon name": "Chewtle",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Mandíbula fuerte",
+        "Caparazón"
+    ],
+    "hidden abilities": [
+        "Nado rápido"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 64,
+        "def": 50,
+        "atk esp": 38,
+        "def esp": 38,
+        "speed": 44
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 2, Mina de Galar n.° 2, Afueras de Pistón, Espejo del Gigante, Gorro del Gigante, Ribera de Pistón y Cueva Tenacidad ",
+            "Pescando: Ruta 2, Mina de Galar n.° 2, Ruta 4, Ruta 5, Pueblo Amura y Ciudad Pistón",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Espejo del Gigante, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Nidos en Humedal Frescor , Bosque Concentración , Playa Desafío  y Cueva Tenacidad ",
+            "Curri: Ruta 2 (orilla del lago), Mina de Galar n.° 2 y Afueras de Pistón"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 2, Mina de Galar n.° 2, Afueras de Pistón, Espejo del Gigante, Gorro del Gigante, Ribera de Pistón y Cueva Tenacidad ",
+            "Pescando: Ruta 2, Mina de Galar n.° 2, Ruta 4, Ruta 5, Pueblo Amura y Ciudad Pistón",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Espejo del Gigante, nido en la laguna, Gorro del Gigante, nido al noroeste, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Nidos en Humedal Frescor , Bosque Concentración , Playa Desafío  y Cueva Tenacidad ",
+            "Curri: Ruta 2 (orilla del lago), Mina de Galar n.° 2 y Afueras de Pistón"
+        ],
+        "Diamante Brillante": [
+            "Chewtle no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Chewtle no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Chewtle no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Muerde todo lo que se le ponga por delante. Al parecer, lo hace para aliviar el dolor que siente cuando le crecen los incisivos.",
+        "Escudo": "El cuerno que tiene en la cabeza es duro como una roca. Lo usa para atacar al rival y, cuando este baja la guardia, lo muerde y no lo suelta.",
+        "Diamante Brillante": "Chewtle no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Chewtle no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Chewtle no aparece en Leyendas Pokémon: Arceus."
+    }
+}

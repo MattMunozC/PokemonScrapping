@@ -1,0 +1,61 @@
+{
+    "dex number": "0728",
+    "pokemon name": "Popplio",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Voz fluida"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 54,
+        "def": 54,
+        "atk esp": 66,
+        "def esp": 56,
+        "speed": 40
+    },
+    "location": {
+        "Sol": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega Kaudan en Pueblo Lilii (solo uno)"
+        ],
+        "Luna": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega Kaudan en Pueblo Lilii (solo uno)"
+        ],
+        "Ultrasol": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega el Profesor Kukui en la Ruta 1 (solo uno)"
+        ],
+        "Ultraluna": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega el Profesor Kukui en la Ruta 1 (solo uno)"
+        ],
+        "Espada": [
+            "Regalo: lo entrega el entrenador de Diglett tras encontrar 100 Diglett de Alola si se eligió a Sobble como inicial "
+        ],
+        "Escudo": [
+            "Regalo: lo entrega el entrenador de Diglett tras encontrar 100 Diglett de Alola si se eligió a Sobble como inicial "
+        ],
+        "Diamante Brillante": [
+            "Popplio no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Popplio no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Popplio no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Se le conoce por su diligencia y predisposición. Segrega agua por la nariz para hinchar globos con los que golpea a sus rivales.",
+        "Luna": "Maneja con soltura los globos de agua que crea, pero, para poder hacer uno bien grande, necesita practicar sin descanso.",
+        "Ultrasol": "Gracias al entrenamiento diario al que se somete, es capaz de inflar burbujas cada vez más grandes a través de la nariz.",
+        "Ultraluna": "Monta sobre las burbujas de agua para realizar grandes saltos. Su estilo de combate es bastante acrobático.",
+        "Espada": "Crea unos globos especiales muy elásticos que hieren al rival al estallar.",
+        "Escudo": "Entrena con ahínco a diario hasta que por fin es capaz de crear globos de un tamaño y eficacia adecuados.",
+        "Diamante Brillante": "Popplio no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Popplio no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Popplio no aparece en Leyendas Pokémon: Arceus."
+    }
+}

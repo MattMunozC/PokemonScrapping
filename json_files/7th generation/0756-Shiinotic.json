@@ -1,0 +1,73 @@
+{
+    "dex number": "0756",
+    "pokemon name": "Shiinotic",
+    "types": [
+        " planta",
+        " hada"
+    ],
+    "abilities": [
+        "Iluminación",
+        "Efecto espora"
+    ],
+    "hidden abilities": [
+        "Cura lluvia"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 45,
+        "def": 80,
+        "atk esp": 90,
+        "def esp": 100,
+        "speed": 30
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Morelull (nivel 24)"
+        ],
+        "Luna": [
+            "Evolucionar: a Morelull (nivel 24)"
+        ],
+        "Ultrasol": [
+            "Salvaje, de noche: Ruta 11",
+            "Evolucionar: a Morelull (nivel 24)"
+        ],
+        "Ultraluna": [
+            "Salvaje, de noche: Ruta 11",
+            "Evolucionar: a Morelull (nivel 24)"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Lumirinto",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al sur, Cornisa de Artejo, nido al centro-oeste, Espejo del Gigante, nido al sur, Llanura Pétrea, nido al norte 1, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido en el centro. Con posible habilidad oculta: Cornisa de Artejo, nido al centro-oeste y Pradera Radiante, nido al sureste junto al acantilado. Nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración  y Mar Islejos ",
+            "Curri: Bosque Lumirinto",
+            "Evolucionar: a Morelull (nivel 24)"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Lumirinto",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al sur, Cornisa de Artejo, nido al centro-oeste, Espejo del Gigante, nido al sur, Llanura Pétrea, nido al norte 1, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido en el centro. Con posible habilidad oculta: Cornisa de Artejo, nido al centro-oeste y Pradera Radiante, nido al sureste junto al acantilado. Nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración  y Mar Islejos ",
+            "Curri: Bosque Lumirinto",
+            "Evolucionar: a Morelull (nivel 24)"
+        ],
+        "Diamante Brillante": [
+            "Shiinotic no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Shiinotic no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Shiinotic no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Es peligroso adentrarse por la noche en un bosque habitado por Shiinotic. Su luz confunde a los caminantes, que terminan perdiéndose.",
+        "Luna": "Las esporas parpadeantes que despide tienen un efecto somnífero. Absorbe la vitalidad de su presa cuando esta se queda dormida.",
+        "Ultrasol": "Duerme a su presa y le arrebata la vitalidad con sus brazos. Si otro Shiinotic se encuentra en apuros, le transmite sus fuerzas.",
+        "Ultraluna": "Al rondar por su territorio, si se encuentra con un Parasect, competirá con él y acabarán dejando el lugar cubierto de esporas.",
+        "Espada": "Atrae y duerme a su presa con la luz parpadeante de sus esporas y luego le absorbe la energía vital con la punta de los dedos.",
+        "Escudo": "Conviene no acercarse si se avistan luces en la espesura del bosque en plena noche, ya que podrían ser las esporas soporíferas de Shiinotic.",
+        "Diamante Brillante": "Shiinotic no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Shiinotic no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Shiinotic no aparece en Leyendas Pokémon: Arceus."
+    }
+}

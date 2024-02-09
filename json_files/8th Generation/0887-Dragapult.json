@@ -1,0 +1,51 @@
+{
+    "dex number": "0887",
+    "pokemon name": "Dragapult",
+    "types": [
+        " dragón",
+        " fantasma"
+    ],
+    "abilities": [
+        "Cuerpo puro",
+        "Allanamiento"
+    ],
+    "hidden abilities": [
+        "Cuerpo maldito"
+    ],
+    "stats": {
+        "hp": 88,
+        "atk": 120,
+        "def": 75,
+        "atk esp": 100,
+        "def esp": 75,
+        "speed": 142
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Viejo Cementerio  y Encrucijada Tresvías ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Campo Deslizante , Viejo Cementerio , Suela del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Drakloak (nivel 60)"
+        ],
+        "Escudo": [
+            "Salvaje: Viejo Cementerio  y Encrucijada Tresvías ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Campo Deslizante , Viejo Cementerio , Suela del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Drakloak (nivel 60)"
+        ],
+        "Diamante Brillante": [
+            "Dragapult no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dragapult no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Dragapult no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Vive en compañía de Dreepy, a los que hospeda en el interior de sus cuernos. Los dispara a velocidad supersónica en combate.",
+        "Escudo": "Al parecer, los Dreepy que residen en sus cuernos esperan con ilusión el momento de ser propulsados a velocidad supersónica.",
+        "Diamante Brillante": "Dragapult no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dragapult no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Dragapult no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "dex number": "0778",
+    "pokemon name": "Mimikyu",
+    "types": [
+        " fantasma",
+        " hada"
+    ],
+    "abilities": [
+        "Disfraz"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 55,
+        "atk": 90,
+        "def": 80,
+        "atk esp": 50,
+        "def esp": 105,
+        "speed": 96
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Supermercado Ultraganga (local abandonado)"
+        ],
+        "Luna": [
+            "Salvaje: Supermercado Ultraganga (local abandonado)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Supermercado Ultraganga (local abandonado)",
+            "Regalo: de Gabriel Oak en la Playa de Kantai al reunir 80 Dominsignias"
+        ],
+        "Ultraluna": [
+            "Salvaje: Supermercado Ultraganga (local abandonado)",
+            "Regalo: de Gabriel Oak en la Playa de Kantai al reunir 80 Dominsignias"
+        ],
+        "Espada": [
+            "Salvaje: Espejo del Gigante, Campo Deslizante , Campo Bajocero , Desfiladero Nevado , Encrucijada Tresvías , Lago Bolaguna , Lecho del Gigante , Mar Gélido , Suela del Gigante  y Viejo Cementerio ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste y Pradera Radiante, nido al sureste junto al acantilado. Campo Deslizante , Campo Bajocero , Lecho del Gigante , Viejo Cementerio , Suela del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Espejo del Gigante, Campo Deslizante , Campo Bajocero , Desfiladero Nevado , Encrucijada Tresvías , Lago Bolaguna , Lecho del Gigante , Mar Gélido , Suela del Gigante  y Viejo Cementerio ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste y Pradera Radiante, nido al sureste junto al acantilado. Campo Deslizante , Campo Bajocero , Lecho del Gigante , Viejo Cementerio , Suela del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Mimikyu no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Mimikyu no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Mimikyu no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "\nForma encubierta: Su verdadero aspecto es un misterio total. Un investigador que intentó mirar dentro del saco recibió, literalmente, un susto de muerte.\nForma descubierta: Tanto esfuerzo en hacer el disfraz y al final se le ha roto el cuello. No parece que le haga daño, pero se siente triste.",
+        "Luna": "\nForma encubierta: El saco andrajoso le permite ocultar su aspecto aterrador para acercarse a otros Pokémon o a la gente y vencer así la soledad que lo atenaza.\nForma descubierta: Si durante un combate se le desgarra el saco que usa para disfrazarse, se pasa la noche entera reparando los daños.",
+        "Ultrasol": "\nForma encubierta: Es de carácter tranquilo y propenso a sentirse solo. Odia que intenten mirar bajo su saco, y se resiste con todas sus fuerzas.\nForma descubierta: Frente al espejo, intenta por todos los medios enderezar el cuello roto de su disfraz. No tiene fácil arreglo, y eso le hace llorar.",
+        "Ultraluna": "\nForma encubierta: Al levantarse su saco a causa de un golpe de viento, un Entrenador vio su verdadera forma y murió dolorosamente esa misma noche.\nForma descubierta: Le entristece que pueda descubrirse su identidad. Jamás perdona a quienes rompen su disfraz y no descansa hasta vengarse.",
+        "Espada": "\nForma encubierta: Se cubre con un saco andrajoso con aspecto de Pikachu para no resultar tan aterrador, aunque este le confiere un aspecto aún más terrorífico.\nForma descubierta: Pobre de aquel que señale que está disfrazado de Pikachu. Acabará con él aunque sea lo último que haga.",
+        "Escudo": "\nForma encubierta: Un investigador que miró dentro del saco para estudiar a este Pokémon perdió la vida a causa de una misteriosa enfermedad.\nForma descubierta: El saco le ha permitido eludir el ataque del rival, pero, al rompérsele el cuello del disfraz, su verdadera identidad ha quedado al descubierto.",
+        "Diamante Brillante": "Mimikyu no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Mimikyu no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Mimikyu no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "dex number": "0895",
+    "pokemon name": "Regidrago",
+    "types": [
+        " dragón"
+    ],
+    "abilities": [
+        "Mandíbula dragón"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 200,
+        "atk": 100,
+        "def": 50,
+        "atk esp": 100,
+        "def esp": 50,
+        "speed": 80
+    },
+    "location": {
+        "Espada": [
+            "Especial: Ruinas del Dilema (solo uno, elige entre él o Regieleki) "
+        ],
+        "Escudo": [
+            "Especial: Ruinas del Dilema (solo uno, elige entre él o Regieleki) "
+        ],
+        "Diamante Brillante": [
+            "Regidrago no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Regidrago no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Regidrago no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Cierta teoría afirma que la forma de sus brazos representa la cabeza de un Pokémon dragón ancestral, aunque esto no ha podido verificarse.",
+        "Escudo": "Todo su cuerpo es una gema de energía dragón cristalizada. Se cree que posee los poderes de todos los Pokémon dragón.",
+        "Diamante Brillante": "Regidrago no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Regidrago no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Regidrago no aparece en Leyendas Pokémon: Arceus."
+    }
+}

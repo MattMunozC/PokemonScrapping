@@ -1,0 +1,66 @@
+{
+    "dex number": "0751",
+    "pokemon name": "Dewpider",
+    "types": [
+        " agua",
+        " bicho"
+    ],
+    "abilities": [
+        "Pompa"
+    ],
+    "hidden abilities": [
+        "Absorbe agua"
+    ],
+    "stats": {
+        "hp": 38,
+        "atk": 40,
+        "def": 52,
+        "atk esp": 40,
+        "def esp": 72,
+        "speed": 27
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Colina Saltagua (día)"
+        ],
+        "Luna": [
+            "Salvaje: Colina Saltagua (día)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Colina Saltagua (día)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Colina Saltagua (día)"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 5, Ribera de Pistón, Llanura Pétrea, Lecho del Gigante , Viejo Cementerio , Suela del Gigante , Mar Gélido , Encrucijada Tresvías , Lago Bolaguna ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (sur), nido al noroeste, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared, Valle Entrepuentes, nido al noreste cerca de los pilares y Valle Entrepuentes, nido en la laguna. Nidos en Prado Reverencia , Humedal Frescor  y Cueva Tenacidad ",
+            "Curri: Ruta 5"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 5, Ribera de Pistón, Llanura Pétrea, Lecho del Gigante , Viejo Cementerio , Suela del Gigante , Mar Gélido , Encrucijada Tresvías , Lago Bolaguna ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (sur), nido al noroeste, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared, Valle Entrepuentes, nido al noreste cerca de los pilares y Valle Entrepuentes, nido en la laguna. Nidos en Prado Reverencia , Humedal Frescor  y Cueva Tenacidad ",
+            "Curri: Ruta 5"
+        ],
+        "Diamante Brillante": [
+            "Dewpider no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dewpider no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Dewpider no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Emerge a la superficie para alimentarse. La burbuja con la que se rodea le sirve para respirar y proteger su delicada cabeza.",
+        "Luna": "Si se topa con una presa o un enemigo, le lanza un chorro de agua desde la burbuja con la que se protege la cabeza.",
+        "Ultrasol": "Si se encuentran dos ejemplares de la especie, comparan el tamaño de sus burbujas. El perdedor ha de ceder el paso.",
+        "Ultraluna": "Solo puede respirar el oxígeno presente en el agua, por lo que utiliza una burbuja para respirar en tierra firme.",
+        "Espada": "Crea una burbuja de agua con el abdomen y se cubre la cabeza con ella. Si dos ejemplares se encuentran, comparan el tamaño de sus burbujas.",
+        "Escudo": "Vive bajo el agua y, cuando emerge a tierra firme en busca de presas, se recubre la cabeza con una burbuja.",
+        "Diamante Brillante": "Dewpider no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dewpider no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Dewpider no aparece en Leyendas Pokémon: Arceus."
+    }
+}

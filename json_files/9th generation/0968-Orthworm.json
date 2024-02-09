@@ -1,0 +1,23 @@
+{
+    "dex number": "0968",
+    "pokemon name": "Orthworm",
+    "types": [
+        " acero"
+    ],
+    "abilities": [
+        "Geofagia"
+    ],
+    "hidden abilities": [
+        "Velo arena"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 85,
+        "def": 145,
+        "atk esp": 60,
+        "def esp": 55,
+        "speed": 65
+    },
+    "location": {},
+    "pokedex": {}
+}

@@ -1,0 +1,65 @@
+{
+    "dex number": "0766",
+    "pokemon name": "Passimian",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Receptor"
+    ],
+    "hidden abilities": [
+        "Competitivo"
+    ],
+    "stats": {
+        "hp": 100,
+        "atk": 120,
+        "def": 90,
+        "atk esp": 40,
+        "def esp": 60,
+        "speed": 80
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Jungla Umbría"
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Salvaje: Jungla Umbría"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Lumirinto y Bosque Concentración ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago y Pradera Radiante, nido hacia el puente de Lago Axew. Nidos en Prado Reverencia , Playa Desafío , Ruta Desafío  y Mar Meloso ",
+            "Curri: Bosque Lumirinto"
+        ],
+        "Escudo": [
+            "Aventura Dinamax ",
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Passimian no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Passimian no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Passimian no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Suele ir en grupos de unos veinte ejemplares. Sus miembros permanecen siempre unidos y nunca se abandonan unos a otros.",
+        "Luna": "Utiliza bayas duras en combate. Para que esta técnica perviva de generación en generación, los jefes la transmiten a un grupo de elegidos.",
+        "Ultrasol": "Adorna sus hombros con hojas que adhiere con su saliva. La distribución de estas hojas indica a qué manada pertenece.",
+        "Ultraluna": "Las bayas son su arma, además de su sustento. El que sea capaz de lanzarlas a mayor distancia se convierte en el líder de la manada.",
+        "Espada": "Bajo la tutela del líder, hacen gala de una gran capacidad de trabajo en equipo para buscar sus bayas predilectas y ayudarse los unos a los otros.",
+        "Escudo": "Viven en grupos de unos veinte ejemplares. Cada individuo tiene un rol definido, lo que les permite sobrevivir en entornos hostiles.",
+        "Diamante Brillante": "Passimian no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Passimian no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Passimian no aparece en Leyendas Pokémon: Arceus."
+    }
+}

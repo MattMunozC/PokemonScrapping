@@ -1,0 +1,65 @@
+{
+    "dex number": "0759",
+    "pokemon name": "Stufful",
+    "types": [
+        " normal",
+        " lucha"
+    ],
+    "abilities": [
+        "Peluche",
+        "Zoquete"
+    ],
+    "hidden abilities": [
+        "Gran encanto"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 75,
+        "def": 50,
+        "atk esp": 45,
+        "def esp": 50,
+        "speed": 50
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruta 8 y Afueras de Akala"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 8 y Afueras de Akala"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 8 y Afueras de Akala"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 8 y Afueras de Akala"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 5, Valle Entrepuentes, Arboleda Claroscuro, Lago Axew (este), Silla del Gigante, Cornisa de Artejo y Lago Milotic (norte)",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Axew (este), nido al oeste de la entrada a Ciudad Pistón, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Llanura Pétrea, nido al noreste junto a una pared 1, Pradera Radiante, nido cerca del Punto de Encuentro y Pradera Radiante, nido hacia el puente de Lago Axew. Nidos en Prado Reverencia , Humedal Frescor , Mar Andana  y Mar Islejos "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 5, Valle Entrepuentes, Arboleda Claroscuro, Lago Axew (este), Silla del Gigante, Cornisa de Artejo y Lago Milotic (norte)",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Axew (este), nido al oeste de la entrada a Ciudad Pistón, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Pradera Radiante, nido cerca del Punto de Encuentro y Pradera Radiante, nido hacia el puente de Lago Axew Nidos en Prado Reverencia , Humedal Frescor , Mar Andana  y Mar Islejos "
+        ],
+        "Diamante Brillante": [
+            "Stufful no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Stufful no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Stufful no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Pese a su aspecto encantador, cuando se enoja, sus pataletas son tan feroces que pueden derribar hasta a un luchador profesional.",
+        "Luna": "Cuando alguien con quien no haya congeniado lo toca, se pone hecho una furia y despliega una fuerza tal que lo hace tremendamente peligroso.",
+        "Ultrasol": "Es capaz de derribar un árbol con su fuerza. Se comunica con sus congéneres mediante el olor que emite el órgano de su parte posterior.",
+        "Ultraluna": "Odia que lo toquen o lo abracen. Se resiste empleando toda su fuerza, que es considerable.",
+        "Espada": "Su suave pelaje invita a acariciarlo, pero quien cometa semejante temeridad recibirá un severo escarmiento.",
+        "Escudo": "Cuando patalea para tratar de defenderse resulta adorable, pero conviene no fiarse, ya que su fuerza sería capaz de derribar un árbol.",
+        "Diamante Brillante": "Stufful no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Stufful no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Stufful no aparece en Leyendas Pokémon: Arceus."
+    }
+}

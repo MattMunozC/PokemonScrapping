@@ -1,0 +1,22 @@
+{
+    "dex number": "0995",
+    "pokemon name": "Ferropúas",
+    "types": [
+        " roca",
+        " eléctrico"
+    ],
+    "abilities": [
+        "Carga cuark"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 134,
+        "def": 110,
+        "atk esp": 70,
+        "def esp": 84,
+        "speed": 72
+    },
+    "location": {},
+    "pokedex": {}
+}

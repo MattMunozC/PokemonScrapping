@@ -1,0 +1,63 @@
+{
+    "dex number": "0753",
+    "pokemon name": "Fomantis",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Defensa hoja"
+    ],
+    "hidden abilities": [
+        "Respondón"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 55,
+        "def": 35,
+        "atk esp": 50,
+        "def esp": 35,
+        "speed": 35
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruta 5 y Jungla Umbría"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 5 y Jungla Umbría"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 5 y Jungla Umbría"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 5 y Jungla Umbría"
+        ],
+        "Espada": [
+            "Salvaje: Prado Reverencia , Humedal Frescor , Bosque Concentración , Playa Desafío  y Llano Entrenamiento ",
+            "Incursiones Dinamax: Prado Reverencia , Humedal Frescor , Bosque Concentración , Llano Entrenamiento  y Mar Islejos "
+        ],
+        "Escudo": [
+            "Salvaje: Prado Reverencia , Humedal Frescor , Bosque Concentración , Playa Desafío  y Llano Entrenamiento ",
+            "Incursiones Dinamax: Prado Reverencia , Humedal Frescor , Bosque Concentración , Llano Entrenamiento  y Mar Islejos "
+        ],
+        "Diamante Brillante": [
+            "Fomantis no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Fomantis no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Fomantis no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Mientras que de día duerme tranquilamente a la luz del sol, al caer la noche busca un sitio más seguro para dormir.",
+        "Luna": "Desprende un aroma fresco y dulce. En la hierba alta donde se esconde también suelen acudir Cutiefly.",
+        "Ultrasol": "Al salir el sol, expande sus cuatro hojas buscando la luz. De su cabeza emana un agradable aroma.",
+        "Ultraluna": "Le encanta la luz solar. Cuanto más toma el sol, más llamativos son los colores que desarrolla.",
+        "Espada": "Cuando toma el sol, desprende un aroma muy dulce y agradable que atrae a multitud de Pokémon insecto.",
+        "Escudo": "De día duerme tranquilamente a la luz del sol y, al ocaso, despierta e inicia su actividad nocturna.",
+        "Diamante Brillante": "Fomantis no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Fomantis no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Fomantis no aparece en Leyendas Pokémon: Arceus."
+    }
+}

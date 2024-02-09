@@ -1,0 +1,68 @@
+{
+    "dex number": "0764",
+    "pokemon name": "Comfey",
+    "types": [
+        " hada"
+    ],
+    "abilities": [
+        "Velo flor",
+        "Primer auxilio"
+    ],
+    "hidden abilities": [
+        "Cura natural"
+    ],
+    "stats": {
+        "hp": 51,
+        "atk": 52,
+        "def": 90,
+        "atk esp": 82,
+        "def esp": 110,
+        "speed": 100
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Jungla Umbría"
+        ],
+        "Luna": [
+            "Salvaje: Jungla Umbría"
+        ],
+        "Ultrasol": [
+            "Salvaje: Jungla Umbría",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Ultraluna": [
+            "Salvaje: Jungla Umbría",
+            "Poké Resort: Cayo Recreo, tras llegar a Ula-Ula"
+        ],
+        "Espada": [
+            "Salvaje: Prado Reverencia , Bosque Concentración , Humedal Frescor , Playa Desafío , Llano Entrenamiento , Mar Islejos  e Isla Melosa ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Bosque Concentración , Humedal Frescor  y Mar Islejos "
+        ],
+        "Escudo": [
+            "Salvaje: Prado Reverencia , Bosque Concentración , Humedal Frescor , Playa Desafío , Llano Entrenamiento , Mar Islejos  e Isla Melosa ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Bosque Concentración , Humedal Frescor  y Mar Islejos "
+        ],
+        "Diamante Brillante": [
+            "Comfey no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Comfey no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Comfey no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Prende flores en su tallo, que es muy rico en nutrientes. Las flores se revitalizan y desprenden una agradable fragancia.",
+        "Luna": "Un baño aderezado con las flores ensartadas en su sarmiento tiene un efecto muy relajante, por lo que este Pokémon se ha vuelto muy popular.",
+        "Ultrasol": "Adorna con flores el tallo pegajoso que brota de su cabeza. Sin ellas se siente intranquilo.",
+        "Ultraluna": "Prende flores en su tallo usando sus fluidos corporales. El aroma que desprenden los pétalos tiene propiedades curativas.",
+        "Espada": "Prende flores en su tallo para decorar su propio cuerpo y, misteriosamente, no se marchitan nunca.",
+        "Escudo": "Este Pokémon libera una agradable fragancia, que varía de individuo a individuo debido a que cada uno se engalana con flores diferentes.",
+        "Diamante Brillante": "Comfey no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Comfey no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Comfey no aparece en Leyendas Pokémon: Arceus."
+    }
+}

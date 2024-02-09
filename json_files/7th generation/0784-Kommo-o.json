@@ -1,0 +1,70 @@
+{
+    "dex number": "0784",
+    "pokemon name": "Kommo-o",
+    "types": [
+        " dragón",
+        " lucha"
+    ],
+    "abilities": [
+        "Antibalas",
+        "Insonorizar"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 110,
+        "def": 125,
+        "atk esp": 100,
+        "def esp": 105,
+        "speed": 85
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Cañón de Poni (Como refuerzo de Jangmo-o)",
+            "Evolucionar: a Hakamo-o (nivel 45)"
+        ],
+        "Luna": [
+            "Salvaje: Cañón de Poni (Como refuerzo de Jangmo-o)",
+            "Evolucionar: a Hakamo-o (nivel 45)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Cañón de Poni (Como refuerzo de Jangmo-o)",
+            "Evolucionar: a Hakamo-o (nivel 45)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Cañón de Poni (Como refuerzo de Jangmo-o)",
+            "Evolucionar: a Hakamo-o (nivel 45)",
+            "Regalo: de Gabriel Oak en la Playa de Kantai tras reunir 100 dominsignias"
+        ],
+        "Espada": [
+            "Salvaje: Cuenca Polvorienta",
+            "Incursiones Dinamax: Con posible habilidad oculta: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Bahía Circular , Mar Gimnástico  y Mar Meloso",
+            "Evolucionar: a Hakamo-o (nivel 45)"
+        ],
+        "Escudo": [
+            "Intercambiar de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Kommo-o no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Kommo-o no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Kommo-o no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Al avistar a su enemigo, lo intimida con el tintineo que producen las escamas de su cola. Los más débiles se asustan y huyen.",
+        "Luna": "Sus sólidas escamas le sirven tanto para atacar como para defenderse. Antaño se usaban para fabricar armas u objetos de uso cotidiano.",
+        "Ultrasol": "Al atrapar a su presa, emite un rugido. Los de su especie responden con un fragor metálico para felicitarle por la captura.",
+        "Ultraluna": "Lucha valerosamente con sus puños recubiertos de escamas de acero. Tiene un gancho formidable.",
+        "Espada": "Al encontrarse con un enemigo, hace sonar las escamas de su cola para intimidarlo. Solamente lucha contra aquellos que no se acobardan.",
+        "Escudo": "Se han descubierto antiguas representaciones pictóricas de guerreros que lucían armaduras confeccionadas con escamas de Kommo-o.",
+        "Diamante Brillante": "Kommo-o no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Kommo-o no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Kommo-o no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "dex number": "0927",
+    "pokemon name": "Dachsbun",
+    "types": [
+        " hada"
+    ],
+    "abilities": [
+        "Cuerpo horneado"
+    ],
+    "hidden abilities": [
+        "Velo aroma"
+    ],
+    "stats": {
+        "hp": 57,
+        "atk": 80,
+        "def": 115,
+        "atk esp": 50,
+        "def esp": 80,
+        "speed": 95
+    },
+    "location": {},
+    "pokedex": {}
+}

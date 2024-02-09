@@ -1,0 +1,22 @@
+{
+    "dex number": "0988",
+    "pokemon name": "Reptalada",
+    "types": [
+        " bicho",
+        " lucha"
+    ],
+    "abilities": [
+        "Paleosíntesis"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 85,
+        "atk": 135,
+        "def": 79,
+        "atk esp": 85,
+        "def esp": 105,
+        "speed": 81
+    },
+    "location": {},
+    "pokedex": {}
+}

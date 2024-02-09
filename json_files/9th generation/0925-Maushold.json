@@ -1,0 +1,24 @@
+{
+    "dex number": "0925",
+    "pokemon name": "Maushold",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Compiescolta",
+        "Carrillo"
+    ],
+    "hidden abilities": [
+        "Experto"
+    ],
+    "stats": {
+        "hp": 74,
+        "atk": 75,
+        "def": 70,
+        "atk esp": 65,
+        "def esp": 75,
+        "speed": 111
+    },
+    "location": {},
+    "pokedex": {}
+}

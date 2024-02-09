@@ -1,0 +1,21 @@
+{
+    "dex number": "0963",
+    "pokemon name": "Finizen",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Velo agua"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 70,
+        "atk": 45,
+        "def": 40,
+        "atk esp": 45,
+        "def esp": 40,
+        "speed": 75
+    },
+    "location": {},
+    "pokedex": {}
+}

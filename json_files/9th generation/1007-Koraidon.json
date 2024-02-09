@@ -1,0 +1,22 @@
+{
+    "dex number": "1007",
+    "pokemon name": "Koraidon",
+    "types": [
+        " lucha",
+        " dragón"
+    ],
+    "abilities": [
+        "Latido oricalco"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 135,
+        "def": 115,
+        "atk esp": 85,
+        "def esp": 100,
+        "speed": 135
+    },
+    "location": {},
+    "pokedex": {}
+}

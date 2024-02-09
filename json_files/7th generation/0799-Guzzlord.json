@@ -1,0 +1,60 @@
+{
+    "dex number": "0799",
+    "pokemon name": "Guzzlord",
+    "types": [
+        " siniestro",
+        " dragón"
+    ],
+    "abilities": [
+        "Ultraimpulso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 223,
+        "atk": 101,
+        "def": 53,
+        "atk esp": 97,
+        "def esp": 53,
+        "speed": 43
+    },
+    "location": {
+        "Sol": [
+            "Especial: Gruta Desenlace, durante la quinta misión de los ultraentes (solo uno)"
+        ],
+        "Luna": [
+            "Especial: Gruta Desenlace, durante la quinta misión de los ultraentes (solo uno)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ultraurbe (uno por visita)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ultraurbe (uno por visita)"
+        ],
+        "Espada": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Escudo": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Diamante Brillante": [
+            "Guzzlord no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Guzzlord no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Guzzlord no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Se dice que este Ultraente ha sido avistado devorando montañas enteras y tragándose prominentes edificios.",
+        "Luna": "Un Ultraente extremadamente peligroso. Engulle todo lo que encuentra, pero, por alguna razón, no se han encontrado excrementos suyos.",
+        "Ultrasol": "Para los seres de este mundo resulta extraño y peligroso, pero en el mundo del que procede es una criatura muy común.",
+        "Ultraluna": "Uno de los extraños Ultraentes. Siempre está comiendo algo, como poseído de un hambre insaciable.",
+        "Espada": "No hay entrada de Guzzlord en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Guzzlord en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Guzzlord no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Guzzlord no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Guzzlord no aparece en Leyendas Pokémon: Arceus."
+    }
+}

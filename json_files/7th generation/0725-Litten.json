@@ -1,0 +1,63 @@
+{
+    "dex number": "0725",
+    "pokemon name": "Litten",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Intimidación"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 65,
+        "def": 40,
+        "atk esp": 60,
+        "def esp": 40,
+        "speed": 70
+    },
+    "location": {
+        "Sol": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega Kaudan en Pueblo Lilii (solo uno)"
+        ],
+        "Luna": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega Kaudan en Pueblo Lilii (solo uno)"
+        ],
+        "Ultrasol": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega el Profesor Kukui en la Ruta 1 (solo uno)"
+        ],
+        "Ultraluna": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega el Profesor Kukui en la Ruta 1 (solo uno)"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores.",
+            "Regalo: lo entrega el entrenador de Diglett tras encontrar 100 Diglett de Alola si se eligió a Scorbunny como inicial "
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores.",
+            "Regalo: lo entrega el entrenador de Diglett tras encontrar 100 Diglett de Alola si se eligió a Scorbunny como inicial "
+        ],
+        "Diamante Brillante": [
+            "Litten no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Litten no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Litten no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Prende las bolas de pelo que se forman en su estómago tras acicalarse. Las llamas que escupe tienen formas variopintas.",
+        "Luna": "A este Pokémon le encanta la vida en solitario y no expresa nunca sus emociones. Se necesita muchísimo tiempo para ganarse su confianza.",
+        "Ultrasol": "Detesta que lo acaricien demasiado, aunque lo hagan sus seres queridos. En caso de sentirse agobiado se recluye en sí mismo.",
+        "Ultraluna": "Muda el pelo dos veces al año. Cuando llega el momento, su cuerpo arde y le prende fuego al pelaje viejo.",
+        "Espada": "Se acicala lamiéndose constantemente. Prende las bolas de pelo acumuladas en el estómago y las usa para ejecutar movimientos de tipo Fuego.",
+        "Escudo": "Quien trate de acariciarlo antes de ganarse su plena confianza se arriesga a comprobar de primera mano lo afiladas que están sus garras.",
+        "Diamante Brillante": "Litten no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Litten no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Litten no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "dex number": "0868",
+    "pokemon name": "Milcery",
+    "types": [
+        " hada"
+    ],
+    "abilities": [
+        "Velo dulce"
+    ],
+    "hidden abilities": [
+        "Velo aroma"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 40,
+        "def": 40,
+        "atk esp": 50,
+        "def esp": 61,
+        "speed": 34
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 4, Valle Entrepuentes y Espejo del Gigante",
+            "Incursiones Dinamax: Lago del Enfado, nido al norte junto al lago, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón",
+            "Curri: Ruta 4"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 4, Valle Entrepuentes y Espejo del Gigante",
+            "Incursiones Dinamax: Lago del Enfado, nido al norte junto al lago, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón",
+            "Curri: Ruta 4"
+        ],
+        "Diamante Brillante": [
+            "Milcery no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Milcery no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Milcery no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Su cremoso cuerpo surgió a partir de la unión de partículas odoríferas de dulces aromas presentes en el aire.",
+        "Escudo": "Se dice que las pastelerías donde ha aparecido Milcery tienen casi todas las papeletas para saborear las mieles del éxito.",
+        "Diamante Brillante": "Milcery no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Milcery no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Milcery no aparece en Leyendas Pokémon: Arceus."
+    }
+}

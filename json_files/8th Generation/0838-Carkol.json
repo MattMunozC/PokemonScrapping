@@ -1,0 +1,53 @@
+{
+    "dex number": "0838",
+    "pokemon name": "Carkol",
+    "types": [
+        " roca",
+        " fuego"
+    ],
+    "abilities": [
+        "Combustible",
+        "Cuerpo llama"
+    ],
+    "hidden abilities": [
+        "Absorbe fuego"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 60,
+        "def": 90,
+        "atk esp": 60,
+        "def esp": 70,
+        "speed": 50
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Mina de Galar, Gorro del Gigante, Llanura Pétrea, Valle Entrepuentes, Lago Bolaguna  y Gruta del Lago ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al este junto a un pilar, Cuenca Polvorienta, nido al extremo noreste, Gorro del Gigante, nido al sureste, Llanura Pétrea, nido al este 2, Llanura Pétrea, nido al norte en la zona árida, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Rolycoly (nivel 18)"
+        ],
+        "Escudo": [
+            "Salvaje: Mina de Galar, Gorro del Gigante, Llanura Pétrea, Valle Entrepuentes, Lago Bolaguna  y Gruta del Lago ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al este junto a un pilar, Cuenca Polvorienta, nido al extremo noreste, Gorro del Gigante, nido al sureste, Llanura Pétrea, nido al este 2, Llanura Pétrea, nido al norte en la zona árida, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Rolycoly (nivel 18)"
+        ],
+        "Diamante Brillante": [
+            "Carkol no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Carkol no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Carkol no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Forma carbón en el interior de su cuerpo. Los antiguos habitantes de Galar lo aprovechaban para sus labores diarias.",
+        "Escudo": "Gira las patas a gran velocidad para correr a unos 30 km/h. Emite llamas a una temperatura de 1000 °C.",
+        "Diamante Brillante": "Carkol no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Carkol no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Carkol no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "dex number": "0899",
+    "pokemon name": "Wyrdeer",
+    "types": [
+        " normal",
+        " psíquico"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Herbívoro"
+    ],
+    "stats": {
+        "hp": 103,
+        "atk": 105,
+        "def": 72,
+        "atk esp": 105,
+        "def esp": 75,
+        "speed": 65
+    },
+    "location": {
+        "Espada": [
+            "Wyrdeer no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Wyrdeer no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Wyrdeer no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Wyrdeer no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Stantler (usar asalto barrera 20 veces en estilo rápido)",
+            "Aparición supermasiva: Pradera Obsidiana"
+        ]
+    },
+    "pokedex": {
+        "Espada": "Wyrdeer no aparece en Pokémon Espada.",
+        "Escudo": "Wyrdeer no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Wyrdeer no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Wyrdeer no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sus orbes negros brillan con un fulgor misterioso cuando erige muros invisibles. El pelaje que se desprende de sus barbas es muy codiciado para crear cálidos ropajes para el invierno."
+    }
+}

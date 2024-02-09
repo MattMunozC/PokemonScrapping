@@ -1,0 +1,51 @@
+{
+    "dex number": "0870",
+    "pokemon name": "Falinks",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Armadura batalla"
+    ],
+    "hidden abilities": [
+        "Competitivo"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 100,
+        "def": 100,
+        "atk esp": 70,
+        "def esp": 60,
+        "speed": 75
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 8 y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew. Con posible habilidad oculta: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste y Lago Milotic (norte), nido junto al lago. Nidos en Prado Reverencia , Playa Desafío , Ruta Desafío , Mar Meloso , Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido , Lago Bolaguna ",
+            "Curri: Ruta 8 (zona principal)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 8 y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago y Pradera Radiante, nido hacia el puente de Lago Axew. Con posible habilidad oculta: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste y Lago Milotic (norte), nido junto al lago. Nidos en Prado Reverencia , Playa Desafío , Ruta Desafío , Mar Meloso , Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido , Lago Bolaguna ",
+            "Curri: Ruta 8 (zona principal)"
+        ],
+        "Diamante Brillante": [
+            "Falinks no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Falinks no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Falinks no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Este Pokémon consta de cinco subalternos y un líder, cuyas órdenes obedecen sin rechistar.",
+        "Escudo": "Este Pokémon está formado por seis individuos que cambian de formación al luchar, haciendo gala de un notable espíritu de equipo.",
+        "Diamante Brillante": "Falinks no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Falinks no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Falinks no aparece en Leyendas Pokémon: Arceus."
+    }
+}

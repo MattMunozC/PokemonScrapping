@@ -1,0 +1,24 @@
+{
+    "dex number": "0970",
+    "pokemon name": "Glimmora",
+    "types": [
+        " roca",
+        " veneno"
+    ],
+    "abilities": [
+        "Capa tóxica"
+    ],
+    "hidden abilities": [
+        "Corrosión"
+    ],
+    "stats": {
+        "hp": 83,
+        "atk": 55,
+        "def": 90,
+        "atk esp": 130,
+        "def esp": 81,
+        "speed": 86
+    },
+    "location": {},
+    "pokedex": {}
+}

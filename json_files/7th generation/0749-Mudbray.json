@@ -1,0 +1,66 @@
+{
+    "dex number": "0749",
+    "pokemon name": "Mudbray",
+    "types": [
+        " tierra"
+    ],
+    "abilities": [
+        "Ritmo propio",
+        "Firmeza"
+    ],
+    "hidden abilities": [
+        "Fuerza mental"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 100,
+        "def": 70,
+        "atk esp": 45,
+        "def esp": 55,
+        "speed": 45
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Rutas 4, 6, 12, Rancho Ohana y Monte Rubor"
+        ],
+        "Luna": [
+            "Salvaje: Rutas 4, 6, 12, Rancho Ohana y Monte Rubor"
+        ],
+        "Ultrasol": [
+            "Salvaje: Rutas 4, 6, 12, Rancho Ohana y Monte Rubor"
+        ],
+        "Ultraluna": [
+            "Salvaje: Rutas 4, 6, 12, Rancho Ohana y Monte Rubor"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 3, Pradera Radiante, Lago Axew (este), Lago Axew (oeste), Silla del Gigante, Gorro del Gigante, Lago Milotic (norte), Lago Milotic (sur) y Arboleda Claroscuro",
+            "Incursiones Dinamax: Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur",
+            "Curri: Ruta 3"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 3, Pradera Radiante, Lago Axew (este), Lago Axew (oeste), Silla del Gigante, Gorro del Gigante, Lago Milotic (norte), Lago Milotic (sur) y Arboleda Claroscuro",
+            "Incursiones Dinamax: Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur",
+            "Curri: Ruta 3"
+        ],
+        "Diamante Brillante": [
+            "Mudbray no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Mudbray no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Mudbray no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "El lodo que impregna sus patas le otorga una fuerte tracción, lo que le permite alcanzar altas velocidades al correr.",
+        "Luna": "Pokémon de naturaleza testaruda y amante de hacer las cosas a su propio ritmo. Se pasa el día comiendo arena y chapoteando en el lodo.",
+        "Ultrasol": "Le encanta chapotear en el lodo. Si no recibe su baño de lodo diario, se vuelve desobediente por el estrés.",
+        "Ultraluna": "Posee una fuerza asombrosa. Puede llevar sin dificultad cargas cuyo peso sea 50 veces superior al suyo.",
+        "Espada": "Puede llevar sin dificultad cargas cuyo peso sea 50 veces superior al suyo. Utiliza el lodo con suma destreza.",
+        "Escudo": "Tras recubrir sus patas con el lodo que crea masticando tierra, puede recorrer los peores caminos sin temor a resbalar.",
+        "Diamante Brillante": "Mudbray no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Mudbray no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Mudbray no aparece en Leyendas Pokémon: Arceus."
+    }
+}

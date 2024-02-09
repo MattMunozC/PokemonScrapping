@@ -1,0 +1,22 @@
+{
+    "dex number": "1005",
+    "pokemon name": "Bramaluna",
+    "types": [
+        " dragón",
+        " siniestro"
+    ],
+    "abilities": [
+        "Paleosíntesis"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 105,
+        "atk": 139,
+        "def": 71,
+        "atk esp": 55,
+        "def esp": 101,
+        "speed": 119
+    },
+    "location": {},
+    "pokedex": {}
+}

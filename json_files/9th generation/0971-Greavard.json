@@ -1,0 +1,23 @@
+{
+    "dex number": "0971",
+    "pokemon name": "Greavard",
+    "types": [
+        " fantasma"
+    ],
+    "abilities": [
+        "Recogida"
+    ],
+    "hidden abilities": [
+        "Peluche"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 61,
+        "def": 60,
+        "atk esp": 30,
+        "def esp": 55,
+        "speed": 34
+    },
+    "location": {},
+    "pokedex": {}
+}

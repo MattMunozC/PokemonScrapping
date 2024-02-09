@@ -1,0 +1,57 @@
+{
+    "dex number": "0826",
+    "pokemon name": "Orbeetle",
+    "types": [
+        " bicho",
+        " psíquico"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 45,
+        "def": 110,
+        "atk esp": 80,
+        "def esp": 120,
+        "speed": 90
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Bosque Oniria, Gorro del Gigante y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares. Con posible habilidad oculta: Lago Milotic (sur), nido al noroeste, Valle Entrepuentes, nido al noreste cerca de los pilares y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Prado Reverencia , Bosque Concentración , Llano Entrenamiento  y Mar Gimnástico ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Arboleda Claroscuro, nido en el centro y Valle Entrepuentes, nido al este junto a la pared. Nido en Llano Entrenamiento ",
+            "Curri: Bosque Oniria (zona norte)",
+            "Evolucionar: a Dottler (nivel 30)"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Oniria, Gorro del Gigante y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares. Con posible habilidad oculta: Lago Milotic (sur), nido al noroeste y Valle Entrepuentes, nido al noreste cerca de los pilares. Nidos en Prado Reverencia , Bosque Concentración , Llano Entrenamiento  y Mar Gimnástico ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Arboleda Claroscuro, nido en el centro y Valle Entrepuentes, nido al este junto a la pared. Nido en Llano Entrenamiento ",
+            "Curri: Bosque Oniria (zona norte)",
+            "Evolucionar: a Dottler (nivel 30)"
+        ],
+        "Diamante Brillante": [
+            "Orbeetle no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Orbeetle no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Orbeetle no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nOrbeetle: Este Pokémon es conocido por su inteligencia. El gran tamaño de su cerebro es un indicio de la magnitud de sus poderes psíquicos.\nOrbeetle Gigamax: Su cerebro se ha agigantado, por lo que ha adquirido una inteligencia abrumadora y una colosal energía psíquica.",
+        "Escudo": "\nOrbeetle: Se sirve de sus poderes psíquicos, con los que es capaz de percibir lo que ocurre en un radio de 10 km, para examinar sus alrededores.\nOrbeetle Gigamax: Si despliega su máximo poder, es capaz de controlar la mente de todos cuantos se hallen a su alrededor.",
+        "Diamante Brillante": "Orbeetle no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Orbeetle no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Orbeetle no aparece en Leyendas Pokémon: Arceus."
+    }
+}

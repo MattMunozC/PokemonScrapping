@@ -1,0 +1,22 @@
+{
+    "dex number": "1010",
+    "pokemon name": "Ferroverdor",
+    "types": [
+        " planta",
+        " psíquico"
+    ],
+    "abilities": [
+        "Carga cuark"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 90,
+        "atk": 130,
+        "def": 88,
+        "atk esp": 70,
+        "def esp": 108,
+        "speed": 104
+    },
+    "location": {},
+    "pokedex": {}
+}

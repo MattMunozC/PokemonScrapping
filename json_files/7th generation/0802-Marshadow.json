@@ -1,0 +1,62 @@
+{
+    "dex number": "0802",
+    "pokemon name": "Marshadow",
+    "types": [
+        " lucha",
+        " fantasma"
+    ],
+    "abilities": [
+        "Experto"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 90,
+        "atk": 125,
+        "def": 80,
+        "atk esp": 90,
+        "def esp": 90,
+        "speed": 125
+    },
+    "location": {
+        "Sol": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Luna": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Diamante Brillante": [
+            "Marshadow no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Marshadow no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Marshadow no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Debido a que siempre se ha ocultado en las sombras y no le gusta dejarse ver, su misma existencia es todo un misterio.",
+        "Luna": "Se infiltra en la sombra de su oponente y copia sus movimientos y su fuerza. Es un Pokémon tímido y un poco cobardica.",
+        "Ultrasol": "Se oculta en la sombra de su oponente y copia sus movimientos y su fuerza. Su imitación resulta más poderosa que el original.",
+        "Ultraluna": "Se infiltra en la sombra de las personas y los Pokémon. Sintoniza con sus sentimientos y copia sus capacidades.",
+        "Espada": "Tras infiltrarse en la sombra de un maestro de artes marciales y copiar sus movimientos, es capaz de utilizar su técnica secreta definitiva.",
+        "Escudo": "Posee la extraordinaria capacidad de infiltrarse en cualquier sombra, por lo que nadie lo había visto en mucho tiempo.",
+        "Diamante Brillante": "Marshadow no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Marshadow no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Marshadow no aparece en Leyendas Pokémon: Arceus."
+    }
+}

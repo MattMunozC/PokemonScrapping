@@ -1,0 +1,49 @@
+{
+    "dex number": "0885",
+    "pokemon name": "Dreepy",
+    "types": [
+        " dragón",
+        " fantasma"
+    ],
+    "abilities": [
+        "Cuerpo puro",
+        "Allanamiento"
+    ],
+    "hidden abilities": [
+        "Cuerpo maldito"
+    ],
+    "stats": {
+        "hp": 28,
+        "atk": 60,
+        "def": 30,
+        "atk esp": 40,
+        "def esp": 30,
+        "speed": 82
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Lago del Enfado",
+            "Incursiones Dinamax: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Campo Deslizante , Viejo Cementerio , Suela del Gigante , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado",
+            "Incursiones Dinamax: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Campo Deslizante , Viejo Cementerio , Suela del Gigante , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Dreepy no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dreepy no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Dreepy no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Habitaba los mares en tiempos inmemoriales. Ha revivido en forma de Pokémon de tipo Fantasma para vagar por su antigua morada.",
+        "Escudo": "En solitario es tan débil que no sería rival ni para un niño, pero, al entrenarse con sus congéneres, evoluciona y se vuelve más fuerte.",
+        "Diamante Brillante": "Dreepy no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dreepy no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Dreepy no aparece en Leyendas Pokémon: Arceus."
+    }
+}

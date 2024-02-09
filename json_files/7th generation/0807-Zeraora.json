@@ -1,0 +1,61 @@
+{
+    "dex number": "0807",
+    "pokemon name": "Zeraora",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Absorbe electricidad"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 88,
+        "atk": 112,
+        "def": 75,
+        "atk esp": 102,
+        "def esp": 80,
+        "speed": 143
+    },
+    "location": {
+        "Sol": [
+            "Zeraora no aparece en Pokémon Sol."
+        ],
+        "Luna": [
+            "Zeraora no aparece en Pokémon Luna."
+        ],
+        "Ultrasol": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultraluna": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Diamante Brillante": [
+            "Zeraora no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Zeraora no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Zeraora no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Zeraora no aparece en Pokémon Sol.",
+        "Luna": "Zeraora no aparece en Pokémon Luna.",
+        "Ultrasol": "Hace jirones al oponente con sus garras electrificadas. Aunque este esquive los golpes, acaba electrocutado por las descargas.",
+        "Ultraluna": "Se acerca a su enemigo de forma tan súbita como la caída de un rayo, y lo hace trizas con sus afiladas garras.",
+        "Espada": "Tan veloz como el rayo, hace trizas a cualquier rival con sus garras cargadas de electricidad de alto voltaje.",
+        "Escudo": "Las almohadillas de sus patas desprenden descargas eléctricas. Cuando corre, hace que caigan rayos y reverberen los truenos.",
+        "Diamante Brillante": "Zeraora no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Zeraora no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Zeraora no aparece en Leyendas Pokémon: Arceus."
+    }
+}

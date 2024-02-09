@@ -1,0 +1,22 @@
+{
+    "dex number": "0994",
+    "pokemon name": "Ferropolilla",
+    "types": [
+        " fuego",
+        " veneno"
+    ],
+    "abilities": [
+        "Carga cuark"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 80,
+        "atk": 70,
+        "def": 60,
+        "atk esp": 140,
+        "def esp": 110,
+        "speed": 110
+    },
+    "location": {},
+    "pokedex": {}
+}

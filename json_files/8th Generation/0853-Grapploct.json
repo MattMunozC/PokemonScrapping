@@ -1,0 +1,51 @@
+{
+    "dex number": "0853",
+    "pokemon name": "Grapploct",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Flexibilidad"
+    ],
+    "hidden abilities": [
+        "Experto"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 118,
+        "def": 90,
+        "atk esp": 70,
+        "def esp": 80,
+        "speed": 42
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 9, Lago Axew (oeste), Lago del Enfado y Bahía Circular ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste y Lago Milotic (norte), nido junto al lago. Nidos en Prado Reverencia , Playa Desafío , Ruta Desafío  y Mar Meloso ",
+            "Evolucionar: a Clobbopus (mofa + nivel)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 9, Lago Axew (oeste), Lago del Enfado y Bahía Circular ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste y Lago Milotic (norte), nido junto al lago. Nidos en Prado Reverencia , Playa Desafío , Ruta Desafío  y Mar Meloso ",
+            "Evolucionar: a Clobbopus (mofa + nivel)"
+        ],
+        "Diamante Brillante": [
+            "Grapploct no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Grapploct no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Grapploct no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Todo su cuerpo es una mole de puro músculo. Utiliza los tentáculos para ejecutar técnicas de estrangulamiento con una formidable potencia.",
+        "Escudo": "Se aventura en tierra firme para buscar rivales contra los que luchar para medir su valía. Tras terminar el combate, regresa al mar.",
+        "Diamante Brillante": "Grapploct no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Grapploct no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Grapploct no aparece en Leyendas Pokémon: Arceus."
+    }
+}

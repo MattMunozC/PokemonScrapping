@@ -1,0 +1,52 @@
+{
+    "dex number": "0859",
+    "pokemon name": "Impidimp",
+    "types": [
+        " siniestro",
+        " hada"
+    ],
+    "abilities": [
+        "Bromista",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Hurto"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 45,
+        "def": 30,
+        "atk esp": 55,
+        "def esp": 40,
+        "speed": 50
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Bosque Lumirinto, Afueras de Pistón, Cornisa de Artejo, Espejo del Gigante, Llanura Pétrea y Campo Deslizante ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte cerca de la laguna, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante , Mar Gélido ",
+            "Curri: Afueras de Pistón"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Lumirinto, Afueras de Pistón, Cornisa de Artejo, Espejo del Gigante, Llanura Pétrea y Campo Deslizante ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte cerca de la laguna, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante , Mar Gélido ",
+            "Curri: Afueras de Pistón",
+            "Intercambiar: por un Maractus en Pueblo Ladera"
+        ],
+        "Diamante Brillante": [
+            "Impidimp no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Impidimp no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Impidimp no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Con el fin de revitalizarse, inhala por la nariz la energía negativa que desprenden tanto personas como Pokémon cuando están descontentos.",
+        "Escudo": "Se infiltra en las casas para hurtar a sus anchas y, por si fuera poco, nutrirse de la energía negativa que liberan sus contrariados habitantes.",
+        "Diamante Brillante": "Impidimp no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Impidimp no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Impidimp no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "dex number": "0810",
+    "pokemon name": "Grookey",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Herbogénesis"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 50,
+        "atk esp": 40,
+        "def esp": 40,
+        "speed": 65
+    },
+    "location": {
+        "Espada": [
+            "Regalo: es uno de los Pokémon iniciales que da a elegir Lionel en Pueblo Yarda (solo uno)",
+            "Evento: ver más abajo"
+        ],
+        "Escudo": [
+            "Regalo: es uno de los Pokémon iniciales que da a elegir Lionel en Pueblo Yarda (solo uno)",
+            "Evento: ver más abajo"
+        ],
+        "Diamante Brillante": [
+            "Grookey no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Grookey no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Grookey no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Al marcar el ritmo con su baqueta especial, produce unas ondas sonoras capaces de devolver la vitalidad a la flora.",
+        "Escudo": "Ataca golpeando sin cesar con su baqueta, con un entusiasmo que crece a medida que acelera el ritmo.",
+        "Diamante Brillante": "Grookey no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Grookey no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Grookey no aparece en Leyendas Pokémon: Arceus."
+    }
+}

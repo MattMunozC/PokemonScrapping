@@ -1,0 +1,24 @@
+{
+    "dex number": "0939",
+    "pokemon name": "Bellibolt",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Dinamo",
+        "Electricidad estática"
+    ],
+    "hidden abilities": [
+        "Humedad"
+    ],
+    "stats": {
+        "hp": 109,
+        "atk": 64,
+        "def": 91,
+        "atk esp": 103,
+        "def esp": 83,
+        "speed": 45
+    },
+    "location": {},
+    "pokedex": {}
+}

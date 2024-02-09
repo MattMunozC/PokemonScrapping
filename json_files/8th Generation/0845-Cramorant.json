@@ -1,0 +1,50 @@
+{
+    "dex number": "0845",
+    "pokemon name": "Cramorant",
+    "types": [
+        " volador",
+        " agua"
+    ],
+    "abilities": [
+        "Tragamisil"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 70,
+        "atk": 85,
+        "def": 55,
+        "atk esp": 85,
+        "def esp": 95,
+        "speed": 85
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 9, Lago del Enfado, Llanura Pétrea. Ojo de Axew, Valle Entrepuentes, Bosque Concentración , Playa Desafío  y Llano Entrenamiento ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo y Gorro del Gigante, nido al noreste. Nidos en Humedal Frescor , Bosque Concentración , Playa Desafío  y Cueva Tenacidad ",
+            "Curri: Ruta 9 (zona norte y bahía de Auriga)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 9, Lago del Enfado, Llanura Pétrea. Ojo de Axew, Valle Entrepuentes, Bosque Concentración , Playa Desafío  y Llano Entrenamiento ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo y Gorro del Gigante, nido al noreste. Nidos en Humedal Frescor , Bosque Concentración , Playa Desafío  y Cueva Tenacidad ",
+            "Curri: Ruta 9 (zona norte y bahía de Auriga)"
+        ],
+        "Diamante Brillante": [
+            "Cramorant no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cramorant no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cramorant no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nForma normal: Su colosal potencia le permite machacar al rival de un solo golpe, aunque su carácter despistado lo lleva a olvidarse de su presencia.\nForma tragatodo: Debido a su insaciable apetito, intentó engullir un enorme Arrokuda y se le quedó atravesado en el gaznate.\nForma engulletodo: Intentando engullir un Pikachu por accidente, se le quedó atragantado, aunque no parece importarle mucho.",
+        "Escudo": "\nForma normal: Traga Arrokuda enteros debido a su glotonería, tan notable que en ocasiones ingiere hasta otros Pokémon sin querer.\nForma tragatodo: A veces basta un ligero golpe para que escupa con fuerza el Arrokuda que se le ha atragantado.\nForma engulletodo: El Pikachu que tiene atragantado parece inmóvil de la conmoción, pero en realidad espera el momento adecuado para contraatacar.",
+        "Diamante Brillante": "Cramorant no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cramorant no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cramorant no aparece en Leyendas Pokémon: Arceus."
+    }
+}

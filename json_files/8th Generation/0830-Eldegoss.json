@@ -1,0 +1,52 @@
+{
+    "dex number": "0830",
+    "pokemon name": "Eldegoss",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Pelusa",
+        "Regeneración"
+    ],
+    "hidden abilities": [
+        "Efecto espora"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 50,
+        "def": 90,
+        "atk esp": 80,
+        "def esp": 120,
+        "speed": 60
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 5, Cuenca Polvorienta, Gorro del Gigante, Llanura Pétrea, Ribera de Pistón y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro. Nidos en Campo Deslizante , Lecho del Gigante , Templo Corona , Suela del Gigante  y Lago Bolaguna ",
+            "Evolucionar: a Gossifleur (nivel 20)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 5, Cuenca Polvorienta, Gorro del Gigante, Llanura Pétrea, Ribera de Pistón y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro. Nidos en Campo Deslizante , Lecho del Gigante , Templo Corona , Suela del Gigante  y Lago Bolaguna ",
+            "Evolucionar: a Gossifleur (nivel 20)"
+        ],
+        "Diamante Brillante": [
+            "Eldegoss no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Eldegoss no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Eldegoss no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Las semillas que tiene entre la pelusa son muy nutritivas. Arrastradas por el viento, devuelven la vitalidad a la flora y a otros Pokémon.",
+        "Escudo": "El hilo fabricado a partir de su algodón es muy bello y brillante; uno de los productos estrella de la región de Galar.",
+        "Diamante Brillante": "Eldegoss no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Eldegoss no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Eldegoss no aparece en Leyendas Pokémon: Arceus."
+    }
+}

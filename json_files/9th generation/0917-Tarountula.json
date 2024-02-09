@@ -1,0 +1,23 @@
+{
+    "dex number": "0917",
+    "pokemon name": "Tarountula",
+    "types": [
+        " bicho"
+    ],
+    "abilities": [
+        "Insomnio"
+    ],
+    "hidden abilities": [
+        "Vigilante"
+    ],
+    "stats": {
+        "hp": 35,
+        "atk": 41,
+        "def": 45,
+        "atk esp": 29,
+        "def esp": 40,
+        "speed": 20
+    },
+    "location": {},
+    "pokedex": {}
+}

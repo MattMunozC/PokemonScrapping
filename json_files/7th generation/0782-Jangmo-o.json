@@ -1,0 +1,64 @@
+{
+    "dex number": "0782",
+    "pokemon name": "Jangmo-o",
+    "types": [
+        " dragón"
+    ],
+    "abilities": [
+        "Antibalas",
+        "Insonorizar"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 55,
+        "def": 65,
+        "atk esp": 45,
+        "def esp": 45,
+        "speed": 45
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Cañón de Poni"
+        ],
+        "Luna": [
+            "Salvaje: Cañón de Poni"
+        ],
+        "Ultrasol": [
+            "Salvaje: Cañón de Poni"
+        ],
+        "Ultraluna": [
+            "Salvaje: Cañón de Poni"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado, Ruta Desafío , Llano Entrenamiento  y Cuenca Arenosa ",
+            "Incursiones Dinamax: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste. Nidos en Bahía Circular , Mar Gimnástico  y Mar Meloso "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada",
+            "Incursiones Dinamax: Usar el Cristal Dinamax ★And458 en la Antigua Atalaya"
+        ],
+        "Diamante Brillante": [
+            "Jangmo-o no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Jangmo-o no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Jangmo-o no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Comunica sus sentimientos haciendo sonar sus escamas. El ruido metálico producido reverbera en las altas montañas donde habita.",
+        "Luna": "Habita en montañas despobladas. Luchan entre ellos para fortalecerse poco a poco.",
+        "Ultrasol": "Embiste ferozmente contra las rocas o el suelo con la escama de su cabeza e intimida al rival. El sonido también le sirve para comunicarse.",
+        "Ultraluna": "Combate sin dar nunca la espalda al enemigo. Los guerreros de la antigüedad admiraban su osadía y lo tomaban como compañero.",
+        "Espada": "Aprende a luchar haciendo chocar la escama de su cabeza con la de sus congéneres. Así fortalece tanto la mente como sus movimientos.",
+        "Escudo": "Se comunica con sus congéneres mediante los sonidos que produce al golpear sus escamas, duras como el acero.",
+        "Diamante Brillante": "Jangmo-o no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Jangmo-o no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Jangmo-o no aparece en Leyendas Pokémon: Arceus."
+    }
+}

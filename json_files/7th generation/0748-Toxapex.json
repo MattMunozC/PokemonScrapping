@@ -1,0 +1,67 @@
+{
+    "dex number": "0748",
+    "pokemon name": "Toxapex",
+    "types": [
+        " veneno",
+        " agua"
+    ],
+    "abilities": [
+        "Ensañamiento",
+        "Flexibilidad"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 63,
+        "def": 152,
+        "atk esp": 53,
+        "def esp": 142,
+        "speed": 35
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Mareanie (nivel 38)"
+        ],
+        "Luna": [
+            "Evolucionar: a Mareanie (nivel 38)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Mareanie (nivel 38)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Mareanie (nivel 38)"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 9, Prado Reverencia , Playa Desafío  y Bahía Circular ",
+            "Incursiones Dinamax: Espejo del Gigante, nido en la laguna, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al puente (norte), Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Con posible habilidad oculta: Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur y Ribera de Pistón, nido junto al muro de Ciudad Pistón. Nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración , Playa Desafío , Bahía Circular , Llano Entrenamiento  y Mar Andana ",
+            "Evolucionar: a Mareanie (nivel 38)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 9, Prado Reverencia , Playa Desafío  y Bahía Circular ",
+            "Incursiones Dinamax: Espejo del Gigante, nido en la laguna, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al puente (norte), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Con posible habilidad oculta: Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste y Lago Milotic (norte), nido junto al puente de Ribera de Pistón. Nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración , Playa Desafío , Bahía Circular , Llano Entrenamiento  y Mar Andana ",
+            "Evolucionar: a Mareanie (nivel 38)"
+        ],
+        "Diamante Brillante": [
+            "Toxapex no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Toxapex no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Toxapex no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Se arrastra por el lecho marino con sus doce extremidades. Deja siempre una estela de restos de Corsola por donde pasa.",
+        "Luna": "Los afectados por su veneno sufren dolores intensos durante tres días y tres noches. Aunque sobrevivan, las secuelas permanecerán.",
+        "Ultrasol": "Ataca a su enemigo lanzándole unas espinas extremadamente venenosas. Si este se acerca, lo acribilla con las garras de sus extremidades.",
+        "Ultraluna": "Sus doce extremidades forman una cúpula que protege el interior. Este es todo un remanso de paz, ya que no se ve afectado por las mareas.",
+        "Espada": "Para resistir las bajas temperaturas de las aguas de Galar, forma una cúpula con las patas y calienta el interior con el calor de su cuerpo.",
+        "Escudo": "La bolsa de veneno en el interior de su cuerpo contiene toxinas tan potentes que provocarían tres días de dolores intensos hasta a un Wailord.",
+        "Diamante Brillante": "Toxapex no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Toxapex no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Toxapex no aparece en Leyendas Pokémon: Arceus."
+    }
+}

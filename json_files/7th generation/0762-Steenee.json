@@ -1,0 +1,68 @@
+{
+    "dex number": "0762",
+    "pokemon name": "Steenee",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Defensa hoja",
+        "Despiste"
+    ],
+    "hidden abilities": [
+        "Velo dulce"
+    ],
+    "stats": {
+        "hp": 52,
+        "atk": 40,
+        "def": 48,
+        "atk esp": 40,
+        "def esp": 48,
+        "speed": 62
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Bounsweet (nivel 18)",
+            "Intercambiar: en la Aldea Marina por un Granbull"
+        ],
+        "Luna": [
+            "Evolucionar: a Bounsweet (nivel 18)",
+            "Intercambiar: en la Aldea Marina por un Granbull"
+        ],
+        "Ultrasol": [
+            "Salvaje: Jungla Umbría"
+        ],
+        "Ultraluna": [
+            "Salvaje: Jungla Umbría"
+        ],
+        "Espada": [
+            "Salvaje: Ojo de Axew",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur y Espejo del Gigante, nido al norte. Nido en Bahía Circular ",
+            "Evolucionar: a Bounsweet (nivel 18)"
+        ],
+        "Escudo": [
+            "Salvaje: Ojo de Axew",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al norte 2, Arboleda Claroscuro, nido al sur y Espejo del Gigante, nido al norte. Nido en Bahía Circular ",
+            "Evolucionar: a Bounsweet (nivel 18)"
+        ],
+        "Diamante Brillante": [
+            "Steenee no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Steenee no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Steenee no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "El cáliz de su cabeza se ha desarrollado y le protege todo el cuerpo. Es tan duro que no le importa que lo picoteen los Pokémon pájaro.",
+        "Luna": "Se pasa el día saltando rebosante de felicidad. Su apariencia pizpireta y exquisita fragancia hace que otros Pokémon acudan a su lado.",
+        "Ultrasol": "Puede jugar con Pokémon pájaro sin peligro gracias al duro cáliz que protege su cuerpo. No le importa que lo picoteen.",
+        "Ultraluna": "Se desplaza dando saltos que hacen botar el cáliz de su cabeza. Recibir un golpe de sus sépalos duele bastante.",
+        "Espada": "Se mueve como si danzara, desprendiendo una dulce fragancia que provoca una sensación de felicidad en quien la inhala.",
+        "Escudo": "Si un Corvisquire viene a picotearlo, se defiende golpeándolo con el cáliz de la cabeza y con fuertes patadas.",
+        "Diamante Brillante": "Steenee no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Steenee no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Steenee no aparece en Leyendas Pokémon: Arceus."
+    }
+}

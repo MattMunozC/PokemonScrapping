@@ -1,0 +1,22 @@
+{
+    "dex number": "1021",
+    "pokemon name": "Electrofuria",
+    "types": [
+        " eléctrico",
+        " dragón"
+    ],
+    "abilities": [
+        "Paleosíntesis"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 125,
+        "atk": 73,
+        "def": 91,
+        "atk esp": 137,
+        "def esp": 89,
+        "speed": 75
+    },
+    "location": {},
+    "pokedex": {}
+}

@@ -1,0 +1,47 @@
+{
+    "dex number": "0878",
+    "pokemon name": "Cufant",
+    "types": [
+        " acero"
+    ],
+    "abilities": [
+        "Potencia bruta"
+    ],
+    "hidden abilities": [
+        "Metal pesado"
+    ],
+    "stats": {
+        "hp": 72,
+        "atk": 80,
+        "def": 49,
+        "atk esp": 40,
+        "def esp": 49,
+        "speed": 40
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Valle Entrepuentes y Suela del Gigante ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noroeste entre troncos, Silla del Gigante, nido al centro junto a la pared y Silla del Gigante, nido al norte"
+        ],
+        "Escudo": [
+            "Salvaje: Valle Entrepuentes y Suela del Gigante ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noroeste entre troncos, Silla del Gigante, nido al centro junto a la pared y Silla del Gigante, nido al norte"
+        ],
+        "Diamante Brillante": [
+            "Cufant no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cufant no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cufant no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Su constitución fornida le permite transportar sin inmutarse cargas de 5 toneladas. Utiliza la trompa para excavar la tierra.",
+        "Escudo": "Realiza tareas que requieren de esfuerzo físico, es su fuerte. Con la lluvia, su cuerpo de cobre se oxida y adquiere una tonalidad verde intensa.",
+        "Diamante Brillante": "Cufant no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cufant no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cufant no aparece en Leyendas Pokémon: Arceus."
+    }
+}

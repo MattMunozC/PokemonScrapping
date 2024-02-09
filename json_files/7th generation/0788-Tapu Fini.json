@@ -1,0 +1,62 @@
+{
+    "dex number": "0788",
+    "pokemon name": "Tapu Fini",
+    "types": [
+        " agua",
+        " hada"
+    ],
+    "abilities": [
+        "Nebulogénesis"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 75,
+        "def": 115,
+        "atk esp": 95,
+        "def esp": 130,
+        "speed": 85
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruinas del Tránsito, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Luna": [
+            "Salvaje: Ruinas del Tránsito, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruinas del Tránsito, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruinas del Tránsito, tras superar la Liga Pokémon (solo uno)"
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Tapu Fini no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tapu Fini no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Tapu Fini no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Desconcierta al enemigo provocando una espesa niebla que se convierte en su perdición. Las corrientes marinas son su fuente de energía.",
+        "Luna": "Es el espíritu guardián de Poni y tiene control sobre el agua. Dicen que puede purificar cualquier impureza con su agua límpida.",
+        "Ultrasol": "El espíritu guardián de Poni, temido y venerado a la vez. Mora en una espesa niebla y manipula el agua a su antojo.",
+        "Ultraluna": "A pesar de ser un espíritu guardián, trae desgracias a aquellos que se le acercan sin la debida cortesía.",
+        "Espada": "No hay entrada de Tapu Fini en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Tapu Fini en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Tapu Fini no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tapu Fini no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Tapu Fini no aparece en Leyendas Pokémon: Arceus."
+    }
+}

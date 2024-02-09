@@ -1,0 +1,45 @@
+{
+    "dex number": "0814",
+    "pokemon name": "Raboot",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Líbero"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 86,
+        "def": 60,
+        "atk esp": 55,
+        "def esp": 60,
+        "speed": 94
+    },
+    "location": {
+        "Espada": [
+            "Evolucionar: a Scorbunny (nivel 16)"
+        ],
+        "Escudo": [
+            "Evolucionar: a Scorbunny (nivel 16)"
+        ],
+        "Diamante Brillante": [
+            "Raboot no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Raboot no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Raboot no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Su suave pelaje lo protege del frío y le permite incrementar todavía más la temperatura de sus movimientos de tipo Fuego.",
+        "Escudo": "Para mejorar su habilidad con los pies, toma bayas de las ramas de los árboles sin usar las manos y juega a darles toques.",
+        "Diamante Brillante": "Raboot no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Raboot no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Raboot no aparece en Leyendas Pokémon: Arceus."
+    }
+}

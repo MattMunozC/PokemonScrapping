@@ -1,0 +1,47 @@
+{
+    "dex number": "0835",
+    "pokemon name": "Yamper",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Recogebolas"
+    ],
+    "hidden abilities": [
+        "Cobardía"
+    ],
+    "stats": {
+        "hp": 59,
+        "atk": 45,
+        "def": 50,
+        "atk esp": 40,
+        "def esp": 50,
+        "speed": 26
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 2, Ruta 4, Espejo del Gigante, Llanura Pétrea, Ribera de Pistón y Lago Bolaguna ",
+            "Incursiones Dinamax: Espejo del Gigante, nido al este, Lago del Enfado, nido al noreste junto al lago y Ribera de Pistón, nido al suroeste"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 2, Ruta 4, Espejo del Gigante, Llanura Pétrea, Ribera de Pistón y Lago Bolaguna ",
+            "Incursiones Dinamax: Espejo del Gigante, nido al este, Lago del Enfado, nido al noreste junto al lago y Ribera de Pistón, nido al suroeste"
+        ],
+        "Diamante Brillante": [
+            "Yamper no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Yamper no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Yamper no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Al correr, genera electricidad por la base de la cola. Es muy popular entre los pastores de Galar.",
+        "Escudo": "Son muy glotones, por lo que ayudan a la gente a cambio de comida. Echan chispas al correr.",
+        "Diamante Brillante": "Yamper no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Yamper no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Yamper no aparece en Leyendas Pokémon: Arceus."
+    }
+}

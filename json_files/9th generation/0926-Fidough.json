@@ -1,0 +1,23 @@
+{
+    "dex number": "0926",
+    "pokemon name": "Fidough",
+    "types": [
+        " hada"
+    ],
+    "abilities": [
+        "Ritmo propio"
+    ],
+    "hidden abilities": [
+        "Zoquete"
+    ],
+    "stats": {
+        "hp": 37,
+        "atk": 55,
+        "def": 70,
+        "atk esp": 30,
+        "def esp": 55,
+        "speed": 65
+    },
+    "location": {},
+    "pokedex": {}
+}

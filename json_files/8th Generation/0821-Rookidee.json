@@ -1,0 +1,50 @@
+{
+    "dex number": "0821",
+    "pokemon name": "Rookidee",
+    "types": [
+        " volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Nerviosismo"
+    ],
+    "hidden abilities": [
+        "Sacapecho"
+    ],
+    "stats": {
+        "hp": 38,
+        "atk": 47,
+        "def": 35,
+        "atk esp": 33,
+        "def esp": 35,
+        "speed": 57
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 1, Ruta 2, Ruta 3, Bosque Oniria y Ribera de Pistón",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste y Lago Axew (este), nido frente a la entrada a Ciudad Pistón",
+            "Curri: Ruta 2 (zona principal), Ruta 3 y Bosque Oniria (zona sur)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 1, Ruta 2, Ruta 3, Bosque Oniria y Ribera de Pistón",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste y Lago Axew (este), nido frente a la entrada a Ciudad Pistón",
+            "Curri: Ruta 2 (zona principal), Ruta 3 y Bosque Oniria (zona sur)"
+        ],
+        "Diamante Brillante": [
+            "Rookidee no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Rookidee no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Rookidee no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "De naturaleza valiente, planta cara a cualquier rival, por muy fuerte que sea. Los contraataques que recibe le sirven para fortalecerse.",
+        "Escudo": "Su pequeño cuerpo le permite volar a gran velocidad para golpear los puntos débiles de rivales mucho más grandes que él.",
+        "Diamante Brillante": "Rookidee no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Rookidee no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Rookidee no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "dex number": "0857",
+    "pokemon name": "Hattrem",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Alma cura",
+        "Anticipación"
+    ],
+    "hidden abilities": [
+        "Espejo mágico"
+    ],
+    "stats": {
+        "hp": 57,
+        "atk": 40,
+        "def": 65,
+        "atk esp": 86,
+        "def esp": 73,
+        "speed": 49
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Bosque Lumirinto, Cuenca Polvorienta, Campo Deslizante , Campo Bajocero , Lecho del Gigante , Viejo Cementerio , Suela del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Evolucionar: a Hatenna (nivel 32)",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna ",
+            "Curri: Bosque Lumirinto"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Lumirinto, Cuenca Polvorienta, Campo Deslizante , Campo Bajocero , Lecho del Gigante , Viejo Cementerio , Suela del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Evolucionar: a Hatenna (nivel 32)",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna ",
+            "Curri: Bosque Lumirinto"
+        ],
+        "Diamante Brillante": [
+            "Hattrem no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Hattrem no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Hattrem no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Silencia a cualquiera que muestre una emoción intensa sin importar de quién se trate y recurre para ello a métodos a cuál más violento.",
+        "Escudo": "Silencia al objetivo atizándole con los mechones. Despliega una potencia devastadora capaz de noquear a un boxeador profesional.",
+        "Diamante Brillante": "Hattrem no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Hattrem no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Hattrem no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "dex number": "0981",
+    "pokemon name": "Farigiraf",
+    "types": [
+        " normal",
+        " psíquico"
+    ],
+    "abilities": [
+        "Rumia",
+        "Cola armadura"
+    ],
+    "hidden abilities": [
+        "Herbívoro"
+    ],
+    "stats": {
+        "hp": 120,
+        "atk": 90,
+        "def": 70,
+        "atk esp": 110,
+        "def esp": 70,
+        "speed": 60
+    },
+    "location": {},
+    "pokedex": {}
+}

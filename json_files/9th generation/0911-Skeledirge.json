@@ -1,0 +1,24 @@
+{
+    "dex number": "0911",
+    "pokemon name": "Skeledirge",
+    "types": [
+        " fuego",
+        " fantasma"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Ignorante"
+    ],
+    "stats": {
+        "hp": 104,
+        "atk": 75,
+        "def": 100,
+        "atk esp": 110,
+        "def esp": 75,
+        "speed": 66
+    },
+    "location": {},
+    "pokedex": {}
+}

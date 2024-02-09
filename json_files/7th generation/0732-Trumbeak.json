@@ -1,0 +1,67 @@
+{
+    "dex number": "0732",
+    "pokemon name": "Trumbeak",
+    "types": [
+        " normal",
+        " volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Encadenado"
+    ],
+    "hidden abilities": [
+        "Recogida"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 85,
+        "def": 50,
+        "atk esp": 40,
+        "def esp": 50,
+        "speed": 75
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruta 5, Ruta 8, Ruta 11, Jungla Umbría, Bosque de Poni y Llanura de Poni",
+            "Evolucionar: a Pikipek (nivel 14)"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 5, Ruta 8, Ruta 11, Jungla Umbría, Bosque de Poni y Llanura de Poni",
+            "Evolucionar: a Pikipek (nivel 14)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 5, Ruta 8, Ruta 11, Jungla Umbría, Bosque de Poni y Llanura de Poni",
+            "Evolucionar: a Pikipek (nivel 14)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 5, Ruta 8, Ruta 11, Jungla Umbría, Bosque de Poni y Llanura de Poni",
+            "Evolucionar: a Pikipek (nivel 14)"
+        ],
+        "Espada": [
+            "Trumbeak no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Trumbeak no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Trumbeak no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Trumbeak no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Trumbeak no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Almacena en su pico las semillas de las bayas de las que se alimenta para usarlas como arma contra enemigos y posibles presas.",
+        "Luna": "Puede deformar su pico para producir los sonidos más diversos. Debido al estruendo que crea, se granjea la enemistad de sus vecinos.",
+        "Ultrasol": "Al torcer la punta del pico es capaz de emitir a su antojo más de 100 graznidos diferentes.",
+        "Ultraluna": "Dispara por el pico las semillas de las bayas ingeridas. Al dispersarse por el suelo, de ellas acaban germinando nuevas plantas.",
+        "Espada": "Trumbeak no aparece en Pokémon Espada.",
+        "Escudo": "Trumbeak no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Trumbeak no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Trumbeak no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Trumbeak no aparece en Leyendas Pokémon: Arceus."
+    }
+}

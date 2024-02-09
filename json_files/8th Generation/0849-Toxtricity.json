@@ -1,0 +1,54 @@
+{
+    "dex number": "0849",
+    "pokemon name": "Toxtricity",
+    "types": [
+        " eléctrico",
+        " veneno"
+    ],
+    "abilities": [
+        "Punk rock",
+        "Más",
+        "Menos"
+    ],
+    "hidden abilities": [
+        "Experto"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 98,
+        "def": 70,
+        "atk esp": 114,
+        "def esp": 70,
+        "speed": 75
+    },
+    "location": {
+        "Espada": [
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Espejo del Gigante, nido al este, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago del Enfado, nido al noreste junto al lago y Ribera de Pistón, nido al suroeste. Con posible habilidad oculta: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al suroeste, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Incursiones Gigamax: ocasionalmente en Noticias del Área Silvestre. Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Evolucionar: a Toxel (nivel 30)"
+        ],
+        "Escudo": [
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Espejo del Gigante, nido al este, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago del Enfado, nido al noreste junto al lago y Ribera de Pistón, nido al suroeste. Con posible habilidad oculta: Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al suroeste, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Incursiones Gigamax: ocasionalmente en Noticias del Área Silvestre. Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Evolucionar: a Toxel (nivel 30)"
+        ],
+        "Diamante Brillante": [
+            "Toxtricity no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Toxtricity no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Toxtricity no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nToxtricity agudo: Cuando rasga las protuberancias del pecho para generar energía eléctrica, emite un sonido similar al de una guitarra, que reverbera en el entorno.\nToxtricity grave: Puede liberar descargas eléctricas de hasta 15000 V. Se enfrenta a cualquier rival con la misma actitud chulesca.\nToxtricity Gigamax: Usa la electricidad que le sobra como arma. Sus reservas energéticas superan incluso la carga eléctrica de un nubarrón de tormenta.",
+        "Escudo": "\nToxtricity agudo: Posee un carácter belicoso e irascible. Bebe una gran cantidad de agua estancada para absorber sus toxinas.\nToxtricity grave: Posee un órgano en el pecho que genera electricidad. Al hacerlo, emite un sonido que recuerda al de un bajo eléctrico.\nToxtricity Gigamax: Su propio veneno le afecta al cerebro y le hace perder el control. Cuando esto ocurre, transpira un sudor tóxico que contamina el terreno.",
+        "Diamante Brillante": "Toxtricity no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Toxtricity no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Toxtricity no aparece en Leyendas Pokémon: Arceus."
+    }
+}

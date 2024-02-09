@@ -1,0 +1,50 @@
+{
+    "dex number": "0841",
+    "pokemon name": "Flapple",
+    "types": [
+        " planta",
+        " dragón"
+    ],
+    "abilities": [
+        "Maduración",
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Entusiasmo"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 110,
+        "def": 80,
+        "atk esp": 95,
+        "def esp": 60,
+        "speed": 70
+    },
+    "location": {
+        "Espada": [
+            "Árboles de bayas: Mar Andana ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al norte 2, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1, Ojo de Axew, nido central y Valle Entrepuentes, nido en el centro. Nidos en Bahía Circular , Mar Gimnástico  y Mar Meloso ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al norte 1. Nido en Bahía Circular ",
+            "Evolucionar: a Applin (usando manzana ácida)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Flapple no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Flapple no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Flapple no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nFlapple: Ha evolucionado tras ingerir una manzana ácida. Las bolsas de las mejillas albergan un fluido cuya extrema acidez llega a provocar quemaduras.\nFlapple Gigamax: La energía del fenómeno Gigamax ha acelerado la producción de néctar y le ha conferido el aspecto de una manzana gigantesca.",
+        "Escudo": "\nFlapple: Escupe una saliva sumamente ácida y vuela con sus alas compuestas por piel de manzana, cuyo aspecto es capaz de adoptar.\nFlapple Gigamax: Al estirar el cuello, su néctar emana un olor de un dulzor tan intenso que todo Pokémon que lo huele pierde el sentido.",
+        "Diamante Brillante": "Flapple no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Flapple no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Flapple no aparece en Leyendas Pokémon: Arceus."
+    }
+}

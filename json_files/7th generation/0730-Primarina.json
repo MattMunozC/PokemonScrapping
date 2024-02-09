@@ -1,0 +1,64 @@
+{
+    "dex number": "0730",
+    "pokemon name": "Primarina",
+    "types": [
+        " agua",
+        " hada"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Voz fluida"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 74,
+        "def": 74,
+        "atk esp": 126,
+        "def esp": 116,
+        "speed": 60
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Brionne (nivel 34)"
+        ],
+        "Luna": [
+            "Evolucionar: a Brionne (nivel 34)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Brionne (nivel 34)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Brionne (nivel 34)"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: a Brionne (nivel 34) "
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: a Brionne (nivel 34) "
+        ],
+        "Diamante Brillante": [
+            "Primarina no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Primarina no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Primarina no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Es capaz de controlar globos de agua mediante un canto cuya melodía se ha transmitido entre los suyos de generación en generación.",
+        "Luna": "Se vale de su canto para atacar a los rivales. Su Entrenador deberá velar por que sus cuerdas vocales estén siempre en perfecto estado.",
+        "Ultrasol": "Primarina considera los combates como un escenario ideal donde abatir a su presa con un canto y baile que derrochan elegancia.",
+        "Ultraluna": "Recibe el sobrenombre de Diva. El espectáculo que ofrece al dirigir el coro de sus congéneres a la luz de la luna es absolutamente primoroso.",
+        "Espada": "Controla sus globos de agua emitiendo unas ondas sonoras que podrían describirse como el canto de una voz pura y cristalina.",
+        "Escudo": "Considera el terreno de combate un escenario desde el que encandilar al público con su canto y la coreografía de sus globos.",
+        "Diamante Brillante": "Primarina no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Primarina no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Primarina no aparece en Leyendas Pokémon: Arceus."
+    }
+}

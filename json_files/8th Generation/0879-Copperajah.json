@@ -1,0 +1,53 @@
+{
+    "dex number": "0879",
+    "pokemon name": "Copperajah",
+    "types": [
+        " acero"
+    ],
+    "abilities": [
+        "Potencia bruta"
+    ],
+    "hidden abilities": [
+        "Metal pesado"
+    ],
+    "stats": {
+        "hp": 122,
+        "atk": 130,
+        "def": 69,
+        "atk esp": 80,
+        "def esp": 69,
+        "speed": 30
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Cornisa de Artejo, Lago del Enfado y Suela del Gigante ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al noroeste entre troncos, Silla del Gigante, nido al centro junto a la pared y Silla del Gigante, nido al norte. Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Mar Gélido ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Llanura Pétrea, nido al sureste. Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Mar Gélido ",
+            "Evolucionar: a Cufant (nivel 34)"
+        ],
+        "Escudo": [
+            "Salvaje: Cornisa de Artejo, Lago del Enfado y Suela del Gigante ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al noroeste entre troncos, Silla del Gigante, nido al centro junto a la pared y Silla del Gigante, nido al norte. Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Mar Gélido ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Llanura Pétrea, nido al sureste. Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Mar Gélido ",
+            "Evolucionar: a Cufant (nivel 34)"
+        ],
+        "Diamante Brillante": [
+            "Copperajah no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Copperajah no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Copperajah no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nCopperajah: Su piel verdosa es resistente al agua. Proviene de tierras lejanas y presta ayuda a las personas en la realización de ciertos trabajos.\nCopperajah Gigamax: Cuando proyecta la intensa energía acumulada en su trompa, puede cambiar la topografía haciendo añicos las montañas.",
+        "Escudo": "\nCopperajah: Viven en manadas. La fuerza prensil de su trompa es tan extraordinaria que le permite hacer añicos incluso grandes rocas.\nCopperajah Gigamax: La energía del fenómeno Gigamax ha agigantado su trompa de tal forma que puede derrumbar un rascacielos de un solo golpe.",
+        "Diamante Brillante": "Copperajah no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Copperajah no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Copperajah no aparece en Leyendas Pokémon: Arceus."
+    }
+}

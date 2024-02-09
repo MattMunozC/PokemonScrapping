@@ -1,0 +1,23 @@
+{
+    "dex number": "1024",
+    "pokemon name": "Terapagos",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Teracambio",
+        "Teracaparazón",
+        "Teraformación 0"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 90,
+        "atk": 65,
+        "def": 85,
+        "atk esp": 65,
+        "def esp": 85,
+        "speed": 60
+    },
+    "location": {},
+    "pokedex": {}
+}

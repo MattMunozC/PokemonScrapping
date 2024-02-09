@@ -1,0 +1,64 @@
+{
+    "dex number": "0768",
+    "pokemon name": "Golisopod",
+    "types": [
+        " bicho",
+        " agua"
+    ],
+    "abilities": [
+        "Retirada"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 75,
+        "atk": 125,
+        "def": 140,
+        "atk esp": 60,
+        "def esp": 90,
+        "speed": 40
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Wimpod (nivel 30)"
+        ],
+        "Luna": [
+            "Evolucionar: a Wimpod (nivel 30)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Wimpod (nivel 30)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Wimpod (nivel 30)"
+        ],
+        "Espada": [
+            "Salvaje: Valle Entrepuentes, Gorro del Gigante, Lago del Enfado, Playa Desafío  y Cueva Tenacidad ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares",
+            "Evolucionar: a Wimpod (nivel 30)"
+        ],
+        "Escudo": [
+            "Salvaje: Valle Entrepuentes, Gorro del Gigante, Lago del Enfado, Playa Desafío  y Cueva Tenacidad ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares",
+            "Evolucionar: a Wimpod (nivel 30)"
+        ],
+        "Diamante Brillante": [
+            "Golisopod no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Golisopod no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Golisopod no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Gracias a su destreza y sus enormes y afiladas garras, puede cortar hasta el aire y el agua de un solo tajo.",
+        "Luna": "Usa con astucia sus seis patas superiores en combate. Suele habitar las cavernas del fondo marino, donde lleva una vida contemplativa.",
+        "Ultrasol": "El caparazón que protege su cuerpo es tan duro como el diamante. Hará lo que sea por conseguir la victoria.",
+        "Ultraluna": "Su mayor arma son sus garras retráctiles. A veces va acompañado por un séquito de Wimpod.",
+        "Espada": "Hace lo que sea por conseguir la victoria. Si el rival se descuida, aprovecha para asestarle un golpe letal con sus pequeñas garras frontales.",
+        "Escudo": "Vive en cavernas del fondo marino o en barcos hundidos. Lucha contra los Grapploct y el que pierde se convierte en una suculenta presa.",
+        "Diamante Brillante": "Golisopod no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Golisopod no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Golisopod no aparece en Leyendas Pokémon: Arceus."
+    }
+}

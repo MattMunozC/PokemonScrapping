@@ -1,0 +1,62 @@
+{
+    "dex number": "0739",
+    "pokemon name": "Crabrawler",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Corte fuerte",
+        "Puño férreo"
+    ],
+    "hidden abilities": [
+        "Irascible"
+    ],
+    "stats": {
+        "hp": 47,
+        "atk": 82,
+        "def": 57,
+        "atk esp": 42,
+        "def esp": 47,
+        "speed": 63
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: En los montones de bayas de Ruta 2, Ruta 3, Ruta 4, Ruta 5, Ruta 8, Ruta 10, Ruta 16, Ruta 17, Playa Menor, Prado de Poni y Llanura de Poni"
+        ],
+        "Luna": [
+            "Salvaje: En los montones de bayas de Ruta 2, Ruta 3, Ruta 4, Ruta 5, Ruta 8, Ruta 10, Ruta 16, Ruta 17, Playa Menor, Prado de Poni y Llanura de Poni"
+        ],
+        "Ultrasol": [
+            "Salvaje: En los montones de bayas de Ruta 2, Ruta 3, Ruta 4, Ruta 5, Ruta 8, Ruta 10, Ruta 16, Ruta 17, Playa de Ula-Ula, Prado de Poni y Llanura de Poni"
+        ],
+        "Ultraluna": [
+            "Salvaje: En los montones de bayas de Ruta 2, Ruta 3, Ruta 4, Ruta 5, Ruta 8, Ruta 10, Ruta 16, Ruta 17, Playa de Ula-Ula, Prado de Poni y Llanura de Poni"
+        ],
+        "Espada": [
+            "Crabrawler no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Crabrawler no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Crabrawler no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Crabrawler no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Crabrawler no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Protege sus puntos débiles con las pinzas y propina puñetazos en cuanto tiene ocasión. Cuando pierde, llora lágrimas espumosas.",
+        "Luna": "Suele perder las pinzas por usarlas demasiado, pero enseguida le vuelven a crecer. Estas tienen poca carne, pero es muy apreciada.",
+        "Ultrasol": "Usa hábilmente sus robustas pinzas tanto para atacar como para defenderse. Las peleas entre congéneres parecen combates de boxeo.",
+        "Ultraluna": "A veces trepa por Exeggutor al confundirlo con una palmera de verdad. Este, presa de la ira, se desembaraza de él a sacudidas y lo pisotea.",
+        "Espada": "Crabrawler no aparece en Pokémon Espada.",
+        "Escudo": "Crabrawler no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Crabrawler no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Crabrawler no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Crabrawler no aparece en Leyendas Pokémon: Arceus."
+    }
+}

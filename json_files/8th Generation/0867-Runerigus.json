@@ -1,0 +1,46 @@
+{
+    "dex number": "0867",
+    "pokemon name": "Runerigus",
+    "types": [
+        " tierra",
+        " fantasma"
+    ],
+    "abilities": [
+        "Alma errante"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 58,
+        "atk": 95,
+        "def": 145,
+        "atk esp": 50,
+        "def esp": 105,
+        "speed": 30
+    },
+    "location": {
+        "Espada": [
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 2, Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur.",
+            "Evolucionar: al Yamask de Galar (49 o más PS de daño y pasar bajo la formación rocosa de la Cuenca Polvorienta)"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1, Llanura Pétrea, nido al noreste junto a una pared 2, Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur.",
+            "Evolucionar: al Yamask de Galar (49 o más PS de daño y pasar bajo la formación rocosa de la Cuenca Polvorienta)"
+        ],
+        "Diamante Brillante": [
+            "Runerigus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Runerigus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Runerigus no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Una poderosa maldición pesa sobre esta antigua imagen grabada, que ha cobrado vida tras adueñarse del alma de Yamask.",
+        "Escudo": "Su cuerpo, similar a una sombra, no debe tocarse bajo ningún concepto o se visualizarán los horribles recuerdos impregnados en la imagen.",
+        "Diamante Brillante": "Runerigus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Runerigus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Runerigus no aparece en Leyendas Pokémon: Arceus."
+    }
+}

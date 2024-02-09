@@ -110,7 +110,7 @@ class Scrapping():
         for pokemon_data in list:
             pkmn=Pokemon(pokemon_data)
             #self.save_image(pkmn.num,pkmn.name)
-            #self.save_json(Pokemon)
+            self.save_json(pkmn)
             #pprint(pkmn.data())
     def save_json(self,pokemon):
         print(f"saving {pokemon.name}...")
@@ -135,6 +135,6 @@ if __name__=="__main__":
     #gen 8 ok
     #gen 9 NOT WORKING
 
-    Scrapping(PokemonList("INSERT GEN NUMBER HERE").PokemonList)
+    Scrapping(PokemonList(9).PokemonList)
     #debug=PokemonList(3).PokemonList[-3]
     #pprint(Pokemon(debug).data())

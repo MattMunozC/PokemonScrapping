@@ -1,0 +1,55 @@
+{
+    "dex number": "0858",
+    "pokemon name": "Hatterene",
+    "types": [
+        " psíquico",
+        " hada"
+    ],
+    "abilities": [
+        "Alma cura",
+        "Anticipación"
+    ],
+    "hidden abilities": [
+        "Espejo mágico"
+    ],
+    "stats": {
+        "hp": 57,
+        "atk": 90,
+        "def": 95,
+        "atk esp": 136,
+        "def esp": 103,
+        "speed": 29
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Lago del Enfado, Campo Bajocero , Lecho del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Hattrem (nivel 42)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado, Campo Bajocero , Lecho del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Hattrem (nivel 42)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Hatterene no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Hatterene no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Hatterene no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nHatterene: Para mantener alejados a los demás seres vivos, emana a su alrededor ondas psíquicas cuya potencia es capaz de provocar jaquecas.\nHatterene Gigamax: Puede percibir los sentimientos de cualquier ser vivo en un radio de 50 km. En cuanto detecta hostilidad, inicia la ofensiva.",
+        "Escudo": "\nHatterene: Recibe el apodo de Hechicera del Bosque. Quienes arman demasiado barullo se exponen a ser despedazados por las garras de su tentáculo.\nHatterene Gigamax: De sus tentáculos brotan incesantemente rayos láser similares a relámpagos. Se lo conoce también como la Divinidad Iracunda.",
+        "Diamante Brillante": "Hatterene no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Hatterene no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Hatterene no aparece en Leyendas Pokémon: Arceus."
+    }
+}

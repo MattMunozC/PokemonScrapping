@@ -1,0 +1,60 @@
+{
+    "dex number": "0795",
+    "pokemon name": "Pheromosa",
+    "types": [
+        " bicho",
+        " lucha"
+    ],
+    "abilities": [
+        "Ultraimpulso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 71,
+        "atk": 137,
+        "def": 37,
+        "atk esp": 137,
+        "def esp": 37,
+        "speed": 151
+    },
+    "location": {
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Especial: Cueva Sotobosque durante la segunda misión de los ultraentes (solo cuatro)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Especial: Ultradesierto"
+        ],
+        "Espada": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Escudo": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Diamante Brillante": [
+            "Pheromosa no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pheromosa no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pheromosa no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Uno de los temibles Ultraentes. Se dice que ha sido avistado recorriendo la superficie terrestre a velocidades de vértigo.",
+        "Luna": "Este Ultraente se muestra reacio al contacto, probablemente porque percibe inmundicia en todo cuanto le rodea.",
+        "Ultrasol": "Una forma de vida procedente de otro mundo. Aunque su cuerpo es esbelto y flexible, alberga un gran poder.",
+        "Ultraluna": "Para los seres de este mundo resulta extraño y peligroso, pero en el mundo del que procede es una criatura muy común.",
+        "Espada": "No hay entrada de Pheromosa en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Pheromosa en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Pheromosa no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pheromosa no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pheromosa no aparece en Leyendas Pokémon: Arceus."
+    }
+}

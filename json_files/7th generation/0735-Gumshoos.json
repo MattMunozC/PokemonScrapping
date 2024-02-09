@@ -1,0 +1,67 @@
+{
+    "dex number": "0735",
+    "pokemon name": "Gumshoos",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Vigilante",
+        "Mandíbula fuerte"
+    ],
+    "hidden abilities": [
+        "Adaptable"
+    ],
+    "stats": {
+        "hp": 88,
+        "atk": 110,
+        "def": 60,
+        "atk esp": 55,
+        "def esp": 60,
+        "speed": 45
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Rutas 10, 11, 15, 16, 17, Afueras de Akala, Antiguo Paso de Poni, Ciudad Malíe, Pendiente de Poni, Bosque de Poni, Llanura de Poni, Prado de Poni y Aldea Tapu (solo de día)",
+            "Evolucionar: a Yungoos (nivel 20 + día)"
+        ],
+        "Luna": [
+            "Salvaje: Rutas 10, 11, 15, 16, 17, Afueras de Akala, Antiguo Paso de Poni, Ciudad Malíe, Pendiente de Poni, Bosque de Poni, Llanura de Poni, Prado de Poni y Aldea Tapu (solo de día)",
+            "Evolucionar: a Yungoos (nivel 20 + día)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Rutas 8, 10, 15, 16, 17, Afueras de Akala, Monte Lanakila y Aldea Tapu (solo de día)",
+            "Evolucionar: a Yungoos (nivel 20 + día)",
+            "Regalo: de  Gabriel Oak en la Playa de Kantai tras reunir 20 dominsignias"
+        ],
+        "Ultraluna": [
+            "Salvaje: Rutas 8, 10, 15, 16, 17, Afueras de Akala, Monte Lanakila y Aldea Tapu (solo de día)",
+            "Evolucionar: a Yungoos (nivel 20 + día)"
+        ],
+        "Espada": [
+            "Gumshoos no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Gumshoos no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Gumshoos no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Gumshoos no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Gumshoos no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Al detectar el rastro de una presa, la acecha con tenacidad, pero al ponerse el sol le vence el sueño.",
+        "Luna": "Sus presas favoritas son los Rattata y Raticate, pero, al ser estos diurnos, rara vez se cruza con ellos. La perseverancia es su gran virtud.",
+        "Ultrasol": "No es autóctono de Alola, sino que se introdujo para paliar la superpoblación de Rattata que se produjo en el pasado.",
+        "Ultraluna": "Tiene un carácter muy paciente, pero en cuanto avista un Rattata, su manjar predilecto, pierde el control y se lanza sobre él como un poseso.",
+        "Espada": "Gumshoos no aparece en Pokémon Espada.",
+        "Escudo": "Gumshoos no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Gumshoos no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Gumshoos no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Gumshoos no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "dex number": "0883",
+    "pokemon name": "Arctovish",
+    "types": [
+        " agua",
+        " hielo"
+    ],
+    "abilities": [
+        "Absorbe agua",
+        "Gélido"
+    ],
+    "hidden abilities": [
+        "Quitanieves"
+    ],
+    "stats": {
+        "hp": 90,
+        "atk": 90,
+        "def": 100,
+        "atk esp": 80,
+        "def esp": 90,
+        "speed": 55
+    },
+    "location": {
+        "Espada": [
+            "Especial: Revivir juntos el ictiofósil y el plesiofósil en la Ruta 6",
+            "Incursiones Dinamax: Nido en Desfiladero Nevado "
+        ],
+        "Escudo": [
+            "Especial: Revivir juntos el ictiofósil y el plesiofósil en la Ruta 6",
+            "Incursiones Dinamax: Nido en Desfiladero Nevado "
+        ],
+        "Diamante Brillante": [
+            "Arctovish no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Arctovish no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Arctovish no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Atrapa a sus presas congelando su entorno, pero la ubicación de la boca encima de la cabeza le genera dificultades para deglutirlas.",
+        "Escudo": "Aunque la piel de su rostro era capaz de resistir cualquier ataque, su dificultad para respirar acabó provocando su extinción.",
+        "Diamante Brillante": "Arctovish no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Arctovish no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Arctovish no aparece en Leyendas Pokémon: Arceus."
+    }
+}

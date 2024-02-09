@@ -1,0 +1,23 @@
+{
+    "dex number": "0913",
+    "pokemon name": "Quaxwell",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Autoestima"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 85,
+        "def": 65,
+        "atk esp": 65,
+        "def esp": 60,
+        "speed": 65
+    },
+    "location": {},
+    "pokedex": {}
+}

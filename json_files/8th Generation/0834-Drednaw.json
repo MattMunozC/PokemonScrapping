@@ -1,0 +1,57 @@
+{
+    "dex number": "0834",
+    "pokemon name": "Drednaw",
+    "types": [
+        " agua",
+        " roca"
+    ],
+    "abilities": [
+        "Mandíbula fuerte",
+        "Caparazón"
+    ],
+    "hidden abilities": [
+        "Nado rápido"
+    ],
+    "stats": {
+        "hp": 90,
+        "atk": 115,
+        "def": 90,
+        "atk esp": 48,
+        "def esp": 68,
+        "speed": 74
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 2, Mina de Galar n.° 2, Cuenca Polvorienta, Gorro del Gigante, Lago Axew (oeste), Lago del Enfado, Prado Reverencia , Humedal Frescor , Playa Desafío , Cueva Tenacidad  y Bahía Circular ",
+            "Aventura Dinamax ",
+            "Pescando: Ruta 6, Espejo del Gigante y Valle Entrepuentes",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Con posible habilidad oculta: Espejo del Gigante, nido en la laguna y Lago Axew (oeste), nido en el agua (oeste). Nidos en Bosque Concentración , Humedal Frescor , Playa Desafío  y Cueva Tenacidad ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Gorro del Gigante, nido al noroeste. Nido en Cueva Tenacidad ",
+            "Evolucionar: a Chewtle (nivel 22)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 2, Mina de Galar n.° 2, Cuenca Polvorienta, Gorro del Gigante, Lago Axew (oeste), Lago del Enfado, Prado Reverencia , Humedal Frescor , Playa Desafío , Cueva Tenacidad  y Bahía Circular ",
+            "Aventura Dinamax ",
+            "Pescando: Ruta 6, Espejo del Gigante y Valle Entrepuentes",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Con posible habilidad oculta: Espejo del Gigante, nido en la laguna y Lago Axew (oeste), nido en el agua (oeste). Nidos en Bosque Concentración , Humedal Frescor , Playa Desafío  y Cueva Tenacidad ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Gorro del Gigante, nido al noroeste. Nido en Cueva Tenacidad ",
+            "Evolucionar: a Chewtle (nivel 22)"
+        ],
+        "Diamante Brillante": [
+            "Drednaw no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Drednaw no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Drednaw no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nDrednaw: Un Pokémon de temperamento feroz que atenaza a su presa con sus fuertes mandíbulas, capaces de destrozar una barra de hierro.\nDrednaw Gigamax: Gracias al fenómeno Gigamax, puede erguirse sobre las patas posteriores. Embiste al enemigo y acaba con él con sus enormes mandíbulas.",
+        "Escudo": "\nDrednaw: Su cuello extensible le permite alcanzar a los rivales a distancia. Hundiendo sus afilados dientes, les da el golpe de gracia.\nDrednaw Gigamax: Cuenta la leyenda que hace tiempo contuvo una inundación arrancando rocas de una montaña a mordiscos.",
+        "Diamante Brillante": "Drednaw no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Drednaw no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Drednaw no aparece en Leyendas Pokémon: Arceus."
+    }
+}

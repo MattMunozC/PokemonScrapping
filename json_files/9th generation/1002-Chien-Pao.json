@@ -1,0 +1,22 @@
+{
+    "dex number": "1002",
+    "pokemon name": "Chien-Pao",
+    "types": [
+        " siniestro",
+        " hielo"
+    ],
+    "abilities": [
+        "Espada debacle"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 80,
+        "atk": 120,
+        "def": 80,
+        "atk esp": 90,
+        "def esp": 65,
+        "speed": 135
+    },
+    "location": {},
+    "pokedex": {}
+}

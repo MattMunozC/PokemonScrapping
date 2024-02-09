@@ -1,0 +1,63 @@
+{
+    "dex number": "0792",
+    "pokemon name": "Lunala",
+    "types": [
+        " psíquico",
+        " fantasma"
+    ],
+    "abilities": [
+        "Guardia espectro"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 137,
+        "atk": 113,
+        "def": 89,
+        "atk esp": 137,
+        "def esp": 107,
+        "speed": 97
+    },
+    "location": {
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Salvaje: Altar de la Luna (solo uno)",
+            "Evolucionar: a Cosmoem (nivel 53)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Salvaje: Senda Mahalo, tras derrotar a Gladio en el Monte Lanakila (solo uno)",
+            "Evolucionar: a Cosmoem (nivel 53)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Aventura Dinamax ",
+            "Evolucionar: a Cosmoem (nivel 53)"
+        ],
+        "Diamante Brillante": [
+            "Lunala no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Lunala no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Lunala no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Se dice que es la evolución final hembra de Cosmog. Su tercer ojo aparece cuando se traslada a un mundo distinto.",
+        "Luna": "Se dice que vive en otro mundo. Devora la luz con tamaña fruición que es capaz de provocar la penumbra más absoluta en pleno día.",
+        "Ultrasol": "Aparece en obras de la literatura antigua en las que se refieren a él como la “criatura que invoca a la luna”.",
+        "Ultraluna": "A veces, las fisuras interdimensionales que crea sirven de pasaje para fuerzas y formas de vida desconocidas.",
+        "Espada": "Lo llaman la Criatura que Invoca a la Luna. Convierte cualquier forma de luz en energía para sustentarse.",
+        "Escudo": "Devora toda la luz que haya a su alrededor y adopta la forma de una luna llena que ilumina la oscura noche.",
+        "Diamante Brillante": "Lunala no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Lunala no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Lunala no aparece en Leyendas Pokémon: Arceus."
+    }
+}

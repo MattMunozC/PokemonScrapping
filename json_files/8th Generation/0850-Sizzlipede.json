@@ -1,0 +1,51 @@
+{
+    "dex number": "0850",
+    "pokemon name": "Sizzlipede",
+    "types": [
+        " fuego",
+        " bicho"
+    ],
+    "abilities": [
+        "Absorbe fuego",
+        "Humo blanco"
+    ],
+    "hidden abilities": [
+        "Cuerpo llama"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 45,
+        "atk esp": 50,
+        "def esp": 50,
+        "speed": 45
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 3, Estadio de Pistón y Suela del Gigante ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Nidos en Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna ",
+            "Curri: Ruta 3"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 3, Estadio de Pistón y Suela del Gigante ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Nidos en Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna ",
+            "Curri: Ruta 3"
+        ],
+        "Diamante Brillante": [
+            "Sizzlipede no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sizzlipede no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Sizzlipede no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Genera calor consumiendo el gas inflamable que almacena en su cuerpo. Los círculos amarillos del abdomen están particularmente calientes.",
+        "Escudo": "Oprime a sus presas con su cuerpo candente. Una vez bien tostadas, las devora con fruición.",
+        "Diamante Brillante": "Sizzlipede no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sizzlipede no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sizzlipede no aparece en Leyendas Pokémon: Arceus."
+    }
+}

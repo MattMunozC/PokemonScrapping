@@ -1,0 +1,46 @@
+{
+    "dex number": "0888",
+    "pokemon name": "Zacian",
+    "types": [
+        " hada",
+        " hada",
+        " acero"
+    ],
+    "abilities": [
+        "Espada indómita"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 92,
+        "atk": 130,
+        "def": 115,
+        "atk esp": 80,
+        "def esp": 115,
+        "speed": 138
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Corona de la Torre (solo uno)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Diamante Brillante": [
+            "Zacian no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Zacian no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Zacian no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nGuerrero avezado: Este Pokémon está considerado como un héroe de leyenda. Absorbe el metal para transformarlo y emplearlo como armamento.\nEspada suprema: En esta forma había servido como arma en tiempos remotos. Es capaz de abatir de una sola estocada incluso a un Pokémon Gigamax.",
+        "Escudo": "\nGuerrero avezado: Hay quien lo considera una suerte de figura fraterna a la par que rival de Zamazenta, un Pokémon sumido en un profundo letargo.\nEspada suprema: En esta forma, capaz de cortar cualquier cosa, es temido y respetado y se lo conoce como la Regia Espada Silvana.",
+        "Diamante Brillante": "Zacian no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Zacian no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Zacian no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "dex number": "0905",
+    "pokemon name": "Enamorus",
+    "types": [
+        " hada",
+        " volador"
+    ],
+    "abilities": [
+        "Gran encanto",
+        "Funda"
+    ],
+    "hidden abilities": [
+        "Respondón"
+    ],
+    "stats": {
+        "hp": 74,
+        "atk": 115,
+        "def": 70,
+        "atk esp": 135,
+        "def esp": 80,
+        "speed": 106
+    },
+    "location": {
+        "Espada": [
+            "Enamorus no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Enamorus no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Enamorus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Enamorus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Ciénaga Bermeja (tras aceptar la petición 94: Los avatares de Hisui, solo uno)."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Enamorus no aparece en Pokémon Espada.",
+        "Escudo": "Enamorus no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Enamorus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Enamorus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "\nForma avatar: Su llegada de allende el mar significa el fin del duro invierno. De acuerdo con el folclore, su amor siempre trae consigo un soplo de vida nueva a Hisui.\nForma tótem: Tras perder su apariencia femenina, surge de entre las nubes y, sin piedad alguna, desata toda su furia para castigar a quienquiera que menosprecie el don de la vida."
+    }
+}

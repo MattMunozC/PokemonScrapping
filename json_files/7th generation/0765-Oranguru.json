@@ -1,0 +1,67 @@
+{
+    "dex number": "0765",
+    "pokemon name": "Oranguru",
+    "types": [
+        " normal",
+        " psíquico"
+    ],
+    "abilities": [
+        "Fuerza mental",
+        "Telepatía"
+    ],
+    "hidden abilities": [
+        "Simbiosis"
+    ],
+    "stats": {
+        "hp": 90,
+        "atk": 60,
+        "def": 80,
+        "atk esp": 90,
+        "def esp": 110,
+        "speed": 60
+    },
+    "location": {
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Salvaje: Jungla Umbría"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Salvaje: Jungla Umbría"
+        ],
+        "Espada": [
+            "Aventura Dinamax ",
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Lumirinto y Bosque Concentración ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Llanura Pétrea, nido al sureste junto a una pared, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente, Valle Entrepuentes, nido al noroeste y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Humedal Frescor , Playa Desafío , Llano Entrenamiento  y Mar Andana ",
+            "Curri: Bosque Lumirinto"
+        ],
+        "Diamante Brillante": [
+            "Oranguru no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Oranguru no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Oranguru no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Es un Pokémon famoso por su astucia e ingenio. Desprecia a los Entrenadores novatos y prefiere a los más veteranos.",
+        "Luna": "Vive en lo alto de los árboles en plena espesura de la jungla. Muy de vez en cuando se acerca a la costa para medir su ingenio con Slowking.",
+        "Ultrasol": "Se pasa las horas meditando en lo alto de los árboles. Cuando se le antoja, lanza Poké Balls a otros Pokémon y les da órdenes.",
+        "Ultraluna": "Los Oranguru se llevan mal entre ellos y compiten constantemente para saber cuál es superior y más inteligente que los demás.",
+        "Espada": "Cuando agita su abanico hecho de hojas y pelo, puede controlar a otros Pokémon y hacer que cumplan su voluntad.",
+        "Escudo": "Conoce hasta el último rincón del bosque y, si encuentra un Pokémon herido, va en busca de hierbas medicinales para curarlo.",
+        "Diamante Brillante": "Oranguru no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Oranguru no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Oranguru no aparece en Leyendas Pokémon: Arceus."
+    }
+}

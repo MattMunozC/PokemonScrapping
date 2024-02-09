@@ -1,0 +1,74 @@
+{
+    "dex number": "0750",
+    "pokemon name": "Mudsdale",
+    "types": [
+        " tierra"
+    ],
+    "abilities": [
+        "Ritmo propio",
+        "Firmeza"
+    ],
+    "hidden abilities": [
+        "Fuerza mental"
+    ],
+    "stats": {
+        "hp": 100,
+        "atk": 125,
+        "def": 100,
+        "atk esp": 55,
+        "def esp": 85,
+        "speed": 35
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Llanura de Poni",
+            "Evolucionar: a Mudbray (nivel 30)"
+        ],
+        "Luna": [
+            "Salvaje: Llanura de Poni",
+            "Evolucionar: a Mudbray (nivel 30)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Llanura de Poni",
+            "Salvaje: Ruta 12 y Monte Rubor (como refuerzo de Mudbray)",
+            "Evolucionar: a Mudbray (nivel 30)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Llanura de Poni",
+            "Salvaje: Ruta 12 y Monte Rubor (como refuerzo de Mudbray)",
+            "Evolucionar: a Mudbray (nivel 30)"
+        ],
+        "Espada": [
+            "Salvaje: Ojo de Axew, Cuenca Polvorienta, Lago Axew (este), Silla del Gigante y Pradera Radiante",
+            "Evolucionar: a Mudbray (nivel 30)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur"
+        ],
+        "Escudo": [
+            "Salvaje: Ojo de Axew, Cuenca Polvorienta, Lago Axew (este), Silla del Gigante y Pradera Radiante",
+            "Evolucionar: a Mudbray (nivel 30)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur"
+        ],
+        "Diamante Brillante": [
+            "Mudsdale no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Mudsdale no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Mudsdale no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "El lodo que segrega por la boca se vuelve impermeable al secarse, por lo que solía usarse como capa aislante en las paredes de las casas.",
+        "Luna": "Su especialidad son los ataques a base de patadas con lodo endurecido, con las que puede reducir a chatarra un camión de gran tamaño.",
+        "Ultrasol": "No se inmuta por nada. Mastica tierra y la mezcla con su saliva para crear un lodo singular.",
+        "Ultraluna": "Aguanta tres días y tres noches portando cargas de diez toneladas por caminos de montaña sin un solo descanso.",
+        "Espada": "Cuando el lodo que recubre sus patas se seca, estas se vuelven más duras que una roca. Puede reducir a chatarra un camión con una sola coz.",
+        "Escudo": "Su resistencia le permitiría recorrer Galar de punta a punta sin un solo descanso portando cargas de más de diez toneladas.",
+        "Diamante Brillante": "Mudsdale no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Mudsdale no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Mudsdale no aparece en Leyendas Pokémon: Arceus."
+    }
+}

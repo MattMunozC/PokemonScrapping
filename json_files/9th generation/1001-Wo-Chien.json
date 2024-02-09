@@ -1,0 +1,22 @@
+{
+    "dex number": "1001",
+    "pokemon name": "Wo-Chien",
+    "types": [
+        " siniestro",
+        " planta"
+    ],
+    "abilities": [
+        "Tablilla debacle"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 85,
+        "atk": 85,
+        "def": 100,
+        "atk esp": 95,
+        "def esp": 135,
+        "speed": 70
+    },
+    "location": {},
+    "pokedex": {}
+}

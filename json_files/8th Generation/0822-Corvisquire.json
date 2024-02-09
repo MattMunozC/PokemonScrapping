@@ -1,0 +1,50 @@
+{
+    "dex number": "0822",
+    "pokemon name": "Corvisquire",
+    "types": [
+        " volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Nerviosismo"
+    ],
+    "hidden abilities": [
+        "Sacapecho"
+    ],
+    "stats": {
+        "hp": 68,
+        "atk": 67,
+        "def": 55,
+        "atk esp": 43,
+        "def esp": 55,
+        "speed": 77
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 3, Cornisa de Artejo, Espejo del Gigante, Ribera de Pistón y Lago Bolaguna ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste y Lago Axew (este), nido frente a la entrada a ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Evolucionar: a Rookidee (nivel 18)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 3, Cornisa de Artejo, Espejo del Gigante, Ribera de Pistón y Lago Bolaguna ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido delante de la puerta de Ciudad Artejo, Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste y Lago Axew (este), nido frente a la entrada a ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Mar Gélido , Lago Bolaguna  y Colina del Maxiárbol ",
+            "Evolucionar: a Rookidee (nivel 18)"
+        ],
+        "Diamante Brillante": [
+            "Corvisquire no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Corvisquire no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Corvisquire no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Su inteligencia le permite servirse de objetos. Por ejemplo, recoge y lanza piedras con las patas, o utiliza cuerdas para atrapar a su oponente.",
+        "Escudo": "Tras haber librado combates muy duros, ha desarrollado la habilidad de determinar con precisión la fuerza de su adversario.",
+        "Diamante Brillante": "Corvisquire no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Corvisquire no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Corvisquire no aparece en Leyendas Pokémon: Arceus."
+    }
+}

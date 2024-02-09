@@ -1,0 +1,63 @@
+{
+    "dex number": "0729",
+    "pokemon name": "Brionne",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Voz fluida"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 69,
+        "def": 69,
+        "atk esp": 91,
+        "def esp": 81,
+        "speed": 50
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Popplio (nivel 17)"
+        ],
+        "Luna": [
+            "Evolucionar: a Popplio (nivel 17)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Popplio (nivel 17)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Popplio (nivel 17)"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: a Popplio (nivel 17) "
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: a Popplio (nivel 17) "
+        ],
+        "Diamante Brillante": [
+            "Brionne no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Brionne no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Brionne no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Un bailarín consumado. Crea globos de agua con los que golpea a sus rivales una y otra vez sin dejar de bailar.",
+        "Luna": "Este Pokémon tiene un gran sentido de la camaradería y no duda en echarse a bailar si nota que su Entrenador está con la moral baja.",
+        "Ultrasol": "Se emociona al contemplar una danza que no conoce y se esfuerza sobremanera por aprender todos sus pasos a la perfección.",
+        "Ultraluna": "Crea burbujas de agua que lanza al rival con sus aletas y que explotan cuando alcanzan al objetivo.",
+        "Espada": "Esquiva los ataques del rival con elegantes pasos de baile mientras lo presiona arrojando globos en rápida sucesión.",
+        "Escudo": "Las noches en las que el mar está en calma, baila junto a sus congéneres al compás del canto de su líder, Primarina.",
+        "Diamante Brillante": "Brionne no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Brionne no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Brionne no aparece en Leyendas Pokémon: Arceus."
+    }
+}

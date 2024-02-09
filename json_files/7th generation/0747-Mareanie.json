@@ -1,0 +1,65 @@
+{
+    "dex number": "0747",
+    "pokemon name": "Mareanie",
+    "types": [
+        " veneno",
+        " agua"
+    ],
+    "abilities": [
+        "Ensañamiento",
+        "Flexibilidad"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 53,
+        "def": 62,
+        "atk esp": 43,
+        "def esp": 52,
+        "speed": 45
+    },
+    "location": {
+        "Sol": [
+            "Pescando: Mar de Melemele y ruta 9 (como refuerzo de Corsola)"
+        ],
+        "Luna": [
+            "Pescando: Mar de Melemele y ruta 9 (como refuerzo de Corsola)"
+        ],
+        "Ultrasol": [
+            "Pescando: Mar de Melemele y ruta 9 (como refuerzo de Corsola)"
+        ],
+        "Ultraluna": [
+            "Pescando: Mar de Melemele y ruta 9 (como refuerzo de Corsola)"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 9, Espejo del Gigante, Ribera de Pistón y Bahía Circular ",
+            "Incursiones Dinamax: Espejo del Gigante, nido en la laguna, Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al puente (norte), Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua, Ribera de Pistón, nido junto al muro de Ciudad Pistón y Valle Entrepuentes, nido en la laguna. Nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración , Playa Desafío , Bahía Circular , Llano Entrenamiento  y Mar Andana "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 9, Espejo del Gigante, Ribera de Pistón y Bahía Circular ",
+            "Incursiones Dinamax: Espejo del Gigante, nido en la laguna, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Axew (este), nido en el agua, Lago Axew (oeste), nido en el agua (este), Lago Axew (oeste), nido en el agua (oeste), Lago Axew (oeste), nido junto al puente (norte), Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Lago Milotic (sur), nido en el centro, Lago del Enfado, nido en el agua y Valle Entrepuentes, nido en la laguna. Nidos en Prado Reverencia , Humedal Frescor , Bosque Concentración , Playa Desafío , Bahía Circular , Llano Entrenamiento  y Mar Andana "
+        ],
+        "Diamante Brillante": [
+            "Mareanie no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Mareanie no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Mareanie no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Aturde a su presa con los aguijones venenosos de la cabeza. Cuando esta se debilita, la rodea con sus diez extremidades y la remata.",
+        "Luna": "Reptan por las profundidades marinas o junto a la costa. Les encantan las ramas de coral que crecen en la cabeza de los Corsola.",
+        "Ultrasol": "Los artesanos intentan exterminarlo porque se come las ramas de los Corsola, que ellos solo recogen al desprenderse de forma natural.",
+        "Ultraluna": "Salvo la cabeza, cualquier parte del cuerpo que le arranquen es capaz de regenerarse en tan solo una noche de descanso.",
+        "Espada": "La picadura de sus aguijones provoca un hormigueo que no tarda en convertirse en una picazón insoportable.",
+        "Escudo": "A diferencia de sus congéneres de Alola, los ejemplares de Galar aún no saben lo deliciosas que están las ramas de Corsola.",
+        "Diamante Brillante": "Mareanie no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Mareanie no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Mareanie no aparece en Leyendas Pokémon: Arceus."
+    }
+}

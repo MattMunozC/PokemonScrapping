@@ -1,0 +1,64 @@
+{
+    "dex number": "0727",
+    "pokemon name": "Incineroar",
+    "types": [
+        " fuego",
+        " siniestro"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Intimidación"
+    ],
+    "stats": {
+        "hp": 95,
+        "atk": 115,
+        "def": 90,
+        "atk esp": 80,
+        "def esp": 90,
+        "speed": 60
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Torracat (nivel 34)"
+        ],
+        "Luna": [
+            "Evolucionar: a Torracat (nivel 34)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Torracat (nivel 34)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Torracat (nivel 34)"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: a Torracat (nivel 34) "
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evolucionar: a Torracat (nivel 34) "
+        ],
+        "Diamante Brillante": [
+            "Incineroar no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Incineroar no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Incineroar no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Posee un carácter rudo y egoísta. Si un Entrenador no le cae en gracia, ignora sus órdenes con total impasibilidad.",
+        "Luna": "Descarga ráfagas de demoledores puñetazos y patadas sobre sus rivales, a los que luego remata con las llamas que manan de su vientre.",
+        "Ultrasol": "Este Pokémon rudo y egoísta considera aburrido enfrentarse a un rival inferior a él y prefiere dar lo mejor de sí mismo contra rivales más fuertes.",
+        "Ultraluna": "Cuanto mayor es su espíritu combativo, con más fuerza arden las llamas que rodean su cintura.",
+        "Espada": "Las llamas que libera por el ombligo superan los 2000 °C. Su especialidad son los combates sin reglas ni restricciones.",
+        "Escudo": "A pesar de que a menudo se comporta de forma violenta, tiene un lado amable que se manifiesta cuando ayuda a Pokémon más pequeños.",
+        "Diamante Brillante": "Incineroar no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Incineroar no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Incineroar no aparece en Leyendas Pokémon: Arceus."
+    }
+}

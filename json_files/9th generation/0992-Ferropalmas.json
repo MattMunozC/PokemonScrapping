@@ -1,0 +1,22 @@
+{
+    "dex number": "0992",
+    "pokemon name": "Ferropalmas",
+    "types": [
+        " lucha",
+        " eléctrico"
+    ],
+    "abilities": [
+        "Carga cuark"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 154,
+        "atk": 140,
+        "def": 108,
+        "atk esp": 50,
+        "def esp": 68,
+        "speed": 50
+    },
+    "location": {},
+    "pokedex": {}
+}

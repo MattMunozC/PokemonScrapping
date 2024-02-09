@@ -1,0 +1,24 @@
+{
+    "dex number": "0920",
+    "pokemon name": "Lokix",
+    "types": [
+        " bicho",
+        " siniestro"
+    ],
+    "abilities": [
+        "Enjambre"
+    ],
+    "hidden abilities": [
+        "Cromolente"
+    ],
+    "stats": {
+        "hp": 71,
+        "atk": 102,
+        "def": 78,
+        "atk esp": 52,
+        "def esp": 55,
+        "speed": 92
+    },
+    "location": {},
+    "pokedex": {}
+}

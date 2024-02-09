@@ -1,0 +1,45 @@
+{
+    "dex number": "0812",
+    "pokemon name": "Rillaboom",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Herbogénesis"
+    ],
+    "stats": {
+        "hp": 100,
+        "atk": 125,
+        "def": 90,
+        "atk esp": 60,
+        "def esp": 70,
+        "speed": 85
+    },
+    "location": {
+        "Espada": [
+            "Evolucionar: a Thwackey (nivel 35)"
+        ],
+        "Escudo": [
+            "Evolucionar: a Thwackey (nivel 35)"
+        ],
+        "Diamante Brillante": [
+            "Rillaboom no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Rillaboom no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Rillaboom no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nRillaboom: Controla los poderes y las raíces de su singular tocón en combate golpeándolo como si fuera un tambor.\nRillaboom Gigamax: La energía del fenómeno Gigamax ha hecho crecer el tocón hasta convertirlo en una especie de batería forestal.",
+        "Escudo": "\nRillaboom: El percusionista con la técnica más depurada se convierte en líder. Son de carácter tranquilo y dan mucha importancia a la armonía del grupo.\nRillaboom Gigamax: Tras fusionarse con su batería forestal, Rillaboom marca ritmos atronadores que sacuden la región de Galar entera.",
+        "Diamante Brillante": "Rillaboom no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Rillaboom no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Rillaboom no aparece en Leyendas Pokémon: Arceus."
+    }
+}

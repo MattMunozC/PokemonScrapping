@@ -1,0 +1,25 @@
+{
+    "dex number": "0980",
+    "pokemon name": "Clodsire",
+    "types": [
+        " veneno",
+        " tierra"
+    ],
+    "abilities": [
+        "Punto tóxico",
+        "Absorbe agua"
+    ],
+    "hidden abilities": [
+        "Ignorante"
+    ],
+    "stats": {
+        "hp": 130,
+        "atk": 75,
+        "def": 60,
+        "atk esp": 45,
+        "def esp": 100,
+        "speed": 20
+    },
+    "location": {},
+    "pokedex": {}
+}

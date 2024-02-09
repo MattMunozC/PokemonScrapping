@@ -1,0 +1,25 @@
+{
+    "dex number": "0983",
+    "pokemon name": "Kingambit",
+    "types": [
+        " siniestro",
+        " acero"
+    ],
+    "abilities": [
+        "Competitivo",
+        "General supremo"
+    ],
+    "hidden abilities": [
+        "Presión"
+    ],
+    "stats": {
+        "hp": 100,
+        "atk": 135,
+        "def": 120,
+        "atk esp": 60,
+        "def esp": 85,
+        "speed": 50
+    },
+    "location": {},
+    "pokedex": {}
+}

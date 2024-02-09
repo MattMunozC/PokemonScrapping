@@ -1,0 +1,51 @@
+{
+    "dex number": "0855",
+    "pokemon name": "Polteageist",
+    "types": [
+        " fantasma"
+    ],
+    "abilities": [
+        "Armadura frágil"
+    ],
+    "hidden abilities": [
+        "Cuerpo maldito"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 65,
+        "def": 65,
+        "atk esp": 134,
+        "def esp": 114,
+        "speed": 70
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Viejo Cementerio ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Antigua Atalaya, nido junto a la pared, Espejo del Gigante, nido al sur, Lago Milotic (sur), nido al norte y Llanura Pétrea, nido al noreste junto a una pared 2. Nidos en Lecho del Gigante , Viejo Cementerio  y Lago Bolaguna ",
+            "Evolucionar: a Sinistea (usando tetera agrietada si es falsificado o tetera rota si es genuino)"
+        ],
+        "Escudo": [
+            "Salvaje: Viejo Cementerio ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Antigua Atalaya, nido junto a la pared y Llanura Pétrea, nido al noreste junto a una pared 1. Nidos en Lecho del Gigante , Viejo Cementerio  y Lago Bolaguna ",
+            "Evolucionar: a Sinistea (usando tetera agrietada si es falsificado o tetera rota si es genuino)"
+        ],
+        "Diamante Brillante": [
+            "Polteageist no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Polteageist no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Polteageist no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nForma Falsificada: Se hospeda en teteras dignas de un anticuario. Las originales son escasísimas, pero existe un gran número de burdas falsificaciones.\nForma genuina: Tiene un sabor y un aroma sumamente singulares. Si su Entrenador se hace pleno merecedor de su confianza, le permite catarlo ligeramente.",
+        "Escudo": "\nForma Falsificada: Si avista una taza de té abandonada a su suerte, la rellena vertiendo parte de su propio cuerpo para generar otro Polteageist.\nForma genuina: Si se enfada, el té que conforma su cuerpo se lanza a la boca del rival. El desdichado que lo ingiera sufrirá violentos escalofríos.",
+        "Diamante Brillante": "Polteageist no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Polteageist no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Polteageist no aparece en Leyendas Pokémon: Arceus."
+    }
+}

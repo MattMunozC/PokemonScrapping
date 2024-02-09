@@ -1,0 +1,60 @@
+{
+    "dex number": "0805",
+    "pokemon name": "Stakataka",
+    "types": [
+        " roca",
+        " acero"
+    ],
+    "abilities": [
+        "Ultraimpulso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 61,
+        "atk": 131,
+        "def": 211,
+        "atk esp": 53,
+        "def esp": 101,
+        "speed": 13
+    },
+    "location": {
+        "Sol": [
+            "Stakataka no aparece en Pokémon Sol."
+        ],
+        "Luna": [
+            "Stakataka no aparece en Pokémon Luna."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Especial: Bosque de Poni (solo dos)"
+        ],
+        "Espada": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Escudo": [
+            "Aventura Dinamax, tras haber leído la leyenda (?) "
+        ],
+        "Diamante Brillante": [
+            "Stakataka no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Stakataka no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Stakataka no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Stakataka no aparece en Pokémon Sol.",
+        "Luna": "Stakataka no aparece en Pokémon Luna.",
+        "Ultrasol": "Surgió de un Ultraumbral. Parece estar compuesto de varias criaturas que se han combinado para formar un solo ser.",
+        "Ultraluna": "Extraña criatura que podría ser un Ultraente. Parece un muro rocoso hasta que se mueve de repente y ataca.",
+        "Espada": "No hay entrada de Stakataka en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Stakataka en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Stakataka no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Stakataka no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Stakataka no aparece en Leyendas Pokémon: Arceus."
+    }
+}

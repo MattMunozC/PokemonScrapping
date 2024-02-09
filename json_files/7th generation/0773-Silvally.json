@@ -1,0 +1,61 @@
+{
+    "dex number": "0773",
+    "pokemon name": "Silvally",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Sistema alfa"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 95,
+        "atk": 95,
+        "def": 95,
+        "atk esp": 95,
+        "def esp": 95,
+        "speed": 95
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Código Cero (amistad + nivel)",
+            "Evento: (ver más abajo)"
+        ],
+        "Luna": [
+            "Evolucionar: a Código Cero (amistad + nivel)",
+            "Evento: (ver más abajo)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Código Cero (amistad + nivel)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Código Cero (amistad + nivel)"
+        ],
+        "Espada": [
+            "Evolucionar: a Código Cero (amistad + nivel)"
+        ],
+        "Escudo": [
+            "Evolucionar: a Código Cero (amistad + nivel)"
+        ],
+        "Diamante Brillante": [
+            "Silvally no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Silvally no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Silvally no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "\nTipo normal: La confianza con su Entrenador ha despertado su potencial. Ahora es capaz de cambiar de tipo a voluntad durante el combate.\nOtros tipos: Tras descubrir la máscara de contención que lo controlaba, ahora puede modificar su tipo en función del disco que utilice.",
+        "Luna": "\nTipo normal: Debe su nombre al joven que hizo evolucionar por primera vez a Código Cero para que adquiriese este aspecto.\nOtros tipos: Al despertar, se activa su Sistema Alfa, lo que le permite usar ciertos discos para cambiar de tipo y adaptarse al rival.",
+        "Ultrasol": "\nTipo normal: Esta es la forma que adopta tras evolucionar y despertar todo su potencial. Al deshacerse de su máscara, su velocidad ha aumentado mucho.\nOtros tipos: Tras despertar su verdadero potencial, puede cambiar de tipo a voluntad como cierto Pokémon legendario.",
+        "Ultraluna": "\nTipo normal: Se ha liberado de la máscara de contención gracias a su fortaleza mental, fruto del estrecho vínculo con su entrenador.\nOtros tipos: Su habilidad para cambiar de tipo ya no está sellada. La energía que emana le da un brillo plateado.",
+        "Espada": "\nTipo normal: Gracias a los fuertes vínculos que lo unen a su Entrenador, ha despertado todo su potencial. Es capaz de cambiar de tipo a voluntad.\nOtros tipos: Tras despertar su verdadero potencial, puede cambiar al tipo <tipo de la forma> si está equipado con el disco correspondiente.",
+        "Escudo": "\nTipo normal: El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.\nOtros tipos: Posee la capacidad de cambiar de tipo en función del disco que lleve equipado. Esta es la forma correspondiente al tipo <tipo de la forma>.",
+        "Diamante Brillante": "Silvally no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Silvally no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Silvally no aparece en Leyendas Pokémon: Arceus."
+    }
+}

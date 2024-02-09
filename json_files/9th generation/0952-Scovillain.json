@@ -1,0 +1,25 @@
+{
+    "dex number": "0952",
+    "pokemon name": "Scovillain",
+    "types": [
+        " planta",
+        " fuego"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Insomnio"
+    ],
+    "hidden abilities": [
+        "Veleta"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 108,
+        "def": 65,
+        "atk esp": 108,
+        "def esp": 65,
+        "speed": 75
+    },
+    "location": {},
+    "pokedex": {}
+}

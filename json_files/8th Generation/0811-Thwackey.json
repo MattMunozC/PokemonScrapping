@@ -1,0 +1,45 @@
+{
+    "dex number": "0811",
+    "pokemon name": "Thwackey",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Herbogénesis"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 85,
+        "def": 70,
+        "atk esp": 55,
+        "def esp": 60,
+        "speed": 80
+    },
+    "location": {
+        "Espada": [
+            "Evolucionar: a Grookey (nivel 16)"
+        ],
+        "Escudo": [
+            "Evolucionar: a Grookey (nivel 16)"
+        ],
+        "Diamante Brillante": [
+            "Thwackey no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Thwackey no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Thwackey no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Los Thwackey que marcan el ritmo más contundente con sus dos baquetas son los más respetados por sus congéneres.",
+        "Escudo": "Se concentra tanto en marcar el ritmo que, cuando su rival se debilita en combate, no se da ni cuenta.",
+        "Diamante Brillante": "Thwackey no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Thwackey no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Thwackey no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "dex number": "0897",
+    "pokemon name": "Spectrier",
+    "types": [
+        " fantasma"
+    ],
+    "abilities": [
+        "Relincho negro"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 65,
+        "def": 60,
+        "atk esp": 145,
+        "def esp": 80,
+        "speed": 130
+    },
+    "location": {
+        "Espada": [
+            "Especial: se captura como Calyrex jinete espectral en el Templo Corona, si se elige plantar las semillas de zanahoria en el Viejo Cementerio. Para obtener a Spectrier se debe deshacer la fusión con las riendas unión "
+        ],
+        "Escudo": [
+            "Especial: se captura como Calyrex jinete espectral en el Templo Corona, si se elige plantar las semillas de zanahoria en el Viejo Cementerio. Para obtener a Spectrier se debe deshacer la fusión con las riendas unión "
+        ],
+        "Diamante Brillante": [
+            "Spectrier no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Spectrier no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Spectrier no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Examina su entorno con todos los sentidos, salvo la vista. Se dice que sus coces son capaces de robarle el alma a quien las recibe.",
+        "Escudo": "Amante de la quietud y la soledad, galopa por las tinieblas nocturnas absorbiendo la energía vital de toda criatura que esté durmiendo.",
+        "Diamante Brillante": "Spectrier no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Spectrier no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Spectrier no aparece en Leyendas Pokémon: Arceus."
+    }
+}

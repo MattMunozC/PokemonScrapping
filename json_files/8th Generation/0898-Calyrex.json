@@ -1,0 +1,49 @@
+{
+    "dex number": "0898",
+    "pokemon name": "Calyrex",
+    "types": [
+        " psíquico",
+        " planta",
+        " psíquico",
+        " hielo",
+        " psíquico",
+        " fantasma"
+    ],
+    "abilities": [
+        "Nerviosismo",
+        "Unidad ecuestre"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 80,
+        "def": 80,
+        "atk esp": 80,
+        "def esp": 80,
+        "speed": 80
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Templo Corona (solo uno, montado en Glastrier o Spectrier según la zanahoria elegida). Solo se puede atrapar una vez convertido en campeón de la Liga Pokémon. "
+        ],
+        "Escudo": [
+            "Salvaje: Templo Corona (solo uno, montado en Glastrier o Spectrier según la zanahoria elegida). Solo se puede atrapar una vez convertido en campeón de la Liga Pokémon. "
+        ],
+        "Diamante Brillante": [
+            "Calyrex no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Calyrex no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Calyrex no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nCalyrex: Un Pokémon muy compasivo agraciado con el poder de la curación. Reinó en Galar en tiempos remotos.\nCalyrex jinete glacial: No tenía piedad con quienes se interponían en su camino, pero se sabe también que curaba a sus rivales tras enfrentarse a ellos en combate.\nCalyrex jinete espectral: Cuenta la leyenda que recorrió Galar junto a un Pokémon al que le unía un fuerte vínculo para convertir todo páramo en un frondoso vergel.",
+        "Escudo": "\nCalyrex: Legendario monarca del antiguo Galar. Posee el poder de sanar el espíritu y de hacer brotar la vegetación.\nCalyrex jinete glacial: Cuentan que le bastó una sola noche para llevar a un nuevo emplazamiento un vasto bosque y a todos los que en él habitaban.\nCalyrex jinete espectral: Cuentan que salvó a las criaturas del bosque del impacto de un meteorito gracias a su capacidad para ver todo acontecimiento pasado y futuro.",
+        "Diamante Brillante": "Calyrex no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Calyrex no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Calyrex no aparece en Leyendas Pokémon: Arceus."
+    }
+}

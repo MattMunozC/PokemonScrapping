@@ -1,0 +1,59 @@
+{
+    "dex number": "0803",
+    "pokemon name": "Poipole",
+    "types": [
+        " veneno"
+    ],
+    "abilities": [
+        "Ultraimpulso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 67,
+        "atk": 73,
+        "def": 67,
+        "atk esp": 73,
+        "def esp": 67,
+        "speed": 73
+    },
+    "location": {
+        "Sol": [
+            "Poipole no aparece en Pokémon Sol."
+        ],
+        "Luna": [
+            "Poipole no aparece en Pokémon Luna."
+        ],
+        "Ultrasol": [
+            "Regalo: de Miria en la Torre Ultrópolis después de derrotar a Ultra-Necrozma"
+        ],
+        "Ultraluna": [
+            "Regalo: de Darius en la Torre Ultrópolis después de derrotar a Ultra-Necrozma"
+        ],
+        "Espada": [
+            "Regalo: en el Supernido Dinamax tras completar 5 Aventuras Dinamax contra Ultraentes "
+        ],
+        "Escudo": [
+            "Regalo: en el Supernido Dinamax tras completar 5 Aventuras Dinamax contra Ultraentes "
+        ],
+        "Diamante Brillante": [
+            "Poipole no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Poipole no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Poipole no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Poipole no aparece en Pokémon Sol.",
+        "Luna": "Poipole no aparece en Pokémon Luna.",
+        "Ultrasol": "En su mundo, este Ultraente se considera tan entrañable como para ser elegido compañero de viaje.",
+        "Ultraluna": "Un Ultraente originario de otro mundo. Se burla del oponente mientras lo rocía de veneno con el aguijón que tiene en la cabeza.",
+        "Espada": "No hay entrada de Poipole en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Poipole en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Poipole no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Poipole no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Poipole no aparece en Leyendas Pokémon: Arceus."
+    }
+}

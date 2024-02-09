@@ -1,0 +1,22 @@
+{
+    "dex number": "0948",
+    "pokemon name": "Toedscool",
+    "types": [
+        " tierra",
+        " planta"
+    ],
+    "abilities": [
+        "Poder fúngico"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 40,
+        "atk": 40,
+        "def": 35,
+        "atk esp": 50,
+        "def esp": 100,
+        "speed": 70
+    },
+    "location": {},
+    "pokedex": {}
+}

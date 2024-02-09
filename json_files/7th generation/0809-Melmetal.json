@@ -1,0 +1,61 @@
+{
+    "dex number": "0809",
+    "pokemon name": "Melmetal",
+    "types": [
+        " acero"
+    ],
+    "abilities": [
+        "Puño férreo"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 135,
+        "atk": 143,
+        "def": 143,
+        "atk esp": 80,
+        "def esp": 65,
+        "speed": 34
+    },
+    "location": {
+        "Sol": [
+            "Melmetal no aparece en Pokémon Sol."
+        ],
+        "Luna": [
+            "Melmetal no aparece en Pokémon Luna."
+        ],
+        "Ultrasol": [
+            "Melmetal no aparece en Pokémon Ultrasol."
+        ],
+        "Ultraluna": [
+            "Melmetal no aparece en Pokémon Ultraluna."
+        ],
+        "Espada": [
+            "Transferir: de Pokémon HOME",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Escudo": [
+            "Transferir: de Pokémon HOME",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Diamante Brillante": [
+            "Melmetal no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Melmetal no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Melmetal no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Melmetal no aparece en Pokémon Sol.",
+        "Luna": "Melmetal no aparece en Pokémon Luna.",
+        "Ultrasol": "Melmetal no aparece en Pokémon Ultrasol.",
+        "Ultraluna": "Melmetal no aparece en Pokémon Ultraluna.",
+        "Espada": "\nMelmetal: Al final de su vida, su cuerpo se oxida y se hace pedazos. Poco tiempo después, estos fragmentos que quedan dan vida a varios Meltan.\nMelmetal Gigamax: Existen leyendas en tierras remotas que hablan de cíclopes que, según se cree, eran Melmetal bajo los efectos del fenómeno Gigamax",
+        "Escudo": "\nMelmetal: Gracias a la inercia y la fuerza centrífuga, los puñetazos que propina con sus pesadas tuercas son los más potentes del mundo Pokémon.\nMelmetal Gigamax: El rayo de alto voltaje que emite por la abertura del abdomen puede vaporizar al instante el cuerpo de su contrincante.",
+        "Diamante Brillante": "Melmetal no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Melmetal no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Melmetal no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "dex number": "0808",
+    "pokemon name": "Meltan",
+    "types": [
+        " acero"
+    ],
+    "abilities": [
+        "Imán (habilidad)"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 46,
+        "atk": 65,
+        "def": 65,
+        "atk esp": 55,
+        "def esp": 35,
+        "speed": 34
+    },
+    "location": {
+        "Sol": [
+            "Meltan no aparece en Pokémon Sol."
+        ],
+        "Luna": [
+            "Meltan no aparece en Pokémon Luna."
+        ],
+        "Ultrasol": [
+            "Meltan no aparece en Pokémon Ultrasol."
+        ],
+        "Ultraluna": [
+            "Meltan no aparece en Pokémon Ultraluna."
+        ],
+        "Espada": [
+            "Transferir: de Pokémon HOME"
+        ],
+        "Escudo": [
+            "Transferir: de Pokémon HOME"
+        ],
+        "Diamante Brillante": [
+            "Meltan no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Meltan no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Meltan no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Meltan no aparece en Pokémon Sol.",
+        "Luna": "Meltan no aparece en Pokémon Luna.",
+        "Ultrasol": "Meltan no aparece en Pokémon Ultrasol.",
+        "Ultraluna": "Meltan no aparece en Pokémon Ultraluna.",
+        "Espada": "Funde metales para ingerirlos. Una vez licuados, los hace circular por el interior de su cuerpo para generar energía.",
+        "Escudo": "Viven en grupos, pero, llegado el momento, el ejemplar más fuerte absorbe a sus camaradas y evoluciona.",
+        "Diamante Brillante": "Meltan no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Meltan no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Meltan no aparece en Leyendas Pokémon: Arceus."
+    }
+}

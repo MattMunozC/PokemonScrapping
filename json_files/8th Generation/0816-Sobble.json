@@ -1,0 +1,47 @@
+{
+    "dex number": "0816",
+    "pokemon name": "Sobble",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Francotirador"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 40,
+        "def": 40,
+        "atk esp": 70,
+        "def esp": 40,
+        "speed": 70
+    },
+    "location": {
+        "Espada": [
+            "Regalo: es uno de los Pokémon iniciales que da a elegir Lionel en Pueblo Yarda (solo uno)",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Escudo": [
+            "Regalo: es uno de los Pokémon iniciales que da a elegir Lionel en Pueblo Yarda (solo uno)",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Diamante Brillante": [
+            "Sobble no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sobble no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Sobble no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Cuando se espanta, libera unas lágrimas con un factor lacrimógeno equivalente a 100 cebollas para hacer llorar también al rival.",
+        "Escudo": "Al mojarse, su piel cambia de color y pasa a ser invisible, como si se hubiese camuflado.",
+        "Diamante Brillante": "Sobble no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sobble no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sobble no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "dex number": "0862",
+    "pokemon name": "Obstagoon",
+    "types": [
+        " siniestro",
+        " normal"
+    ],
+    "abilities": [
+        "Audaz",
+        "Agallas"
+    ],
+    "hidden abilities": [
+        "Competitivo"
+    ],
+    "stats": {
+        "hp": 93,
+        "atk": 90,
+        "def": 101,
+        "atk esp": 60,
+        "def esp": 81,
+        "speed": 95
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 2, Valle Entrepuentes, Lago del Enfado, Lecho del Gigante  y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante  y Mar Gélido ",
+            "Evolucionar: al Linoone de Galar (nivel 35; noche)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 2, Valle Entrepuentes, Lago del Enfado, Lecho del Gigante  y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante  y Mar Gélido ",
+            "Evolucionar: al Linoone de Galar (nivel 35; noche)"
+        ],
+        "Diamante Brillante": [
+            "Obstagoon no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Obstagoon no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Obstagoon no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "La potencia de su voz es realmente pasmosa. La técnica que usa para intimidar al rival mientras grita recibe el nombre de Obstrucción.",
+        "Escudo": "Evoluciona tras haber librado numerosas peleas. El grito de guerra que profiere mientras pone los brazos en cruz atemoriza a cualquier rival.",
+        "Diamante Brillante": "Obstagoon no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Obstagoon no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Obstagoon no aparece en Leyendas Pokémon: Arceus."
+    }
+}

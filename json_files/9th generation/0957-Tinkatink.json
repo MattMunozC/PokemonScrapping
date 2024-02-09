@@ -1,0 +1,25 @@
+{
+    "dex number": "0957",
+    "pokemon name": "Tinkatink",
+    "types": [
+        " hada",
+        " acero"
+    ],
+    "abilities": [
+        "Rompemoldes",
+        "Ritmo propio"
+    ],
+    "hidden abilities": [
+        "Hurto"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 45,
+        "def": 45,
+        "atk esp": 35,
+        "def esp": 64,
+        "speed": 58
+    },
+    "location": {},
+    "pokedex": {}
+}

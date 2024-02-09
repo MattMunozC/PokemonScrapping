@@ -1,0 +1,60 @@
+{
+    "dex number": "0804",
+    "pokemon name": "Naganadel",
+    "types": [
+        " veneno",
+        " dragón"
+    ],
+    "abilities": [
+        "Ultraimpulso"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 73,
+        "atk": 73,
+        "def": 73,
+        "atk esp": 127,
+        "def esp": 73,
+        "speed": 121
+    },
+    "location": {
+        "Sol": [
+            "Naganadel no aparece en Pokémon Sol."
+        ],
+        "Luna": [
+            "Naganadel no aparece en Pokémon Luna."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Poipole (conociendo pulso dragón + nivel)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Poipole (conociendo pulso dragón + nivel)"
+        ],
+        "Espada": [
+            "Evolucionar: a Poipole (conociendo pulso dragón + nivel)"
+        ],
+        "Escudo": [
+            "Evolucionar: a Poipole (conociendo pulso dragón + nivel)"
+        ],
+        "Diamante Brillante": [
+            "Naganadel no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Naganadel no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Naganadel no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Naganadel no aparece en Pokémon Sol.",
+        "Luna": "Naganadel no aparece en Pokémon Luna.",
+        "Ultrasol": "Una de las temibles criaturas conocidas como Ultraentes. En su cuerpo almacena cientos de litros de veneno.",
+        "Ultraluna": "Uno de los Ultraentes. Su aguijón segrega un líquido tóxico cuya viscosidad le da una apariencia brillante.",
+        "Espada": "No hay entrada de Naganadel en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Naganadel en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Naganadel no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Naganadel no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Naganadel no aparece en Leyendas Pokémon: Arceus."
+    }
+}

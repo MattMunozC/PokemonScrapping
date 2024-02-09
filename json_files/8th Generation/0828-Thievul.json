@@ -1,0 +1,54 @@
+{
+    "dex number": "0828",
+    "pokemon name": "Thievul",
+    "types": [
+        " siniestro"
+    ],
+    "abilities": [
+        "Fuga",
+        "Liviano"
+    ],
+    "hidden abilities": [
+        "Vigilante"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 58,
+        "def": 58,
+        "atk esp": 87,
+        "def esp": 92,
+        "speed": 90
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 7, Ruta 9, Cornisa de Artejo, Lago Milotic (sur), Llanura Pétrea y Valle Entrepuentes",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna. Nidos en Humedal Frescor , Ruta Desafío , Mar Gimnástico , Mar Meloso , Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante , Mar Gélido ",
+            "Curri: Ruta 9 (afueras de Crampón)",
+            "Evolucionar: a Nickit (nivel 18)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 7, Ruta 9, Cornisa de Artejo, Lago Milotic (sur), Llanura Pétrea y Valle Entrepuentes",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna. Nidos en Humedal Frescor , Ruta Desafío , Mar Gimnástico , Mar Meloso , Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante , Mar Gélido ",
+            "Curri: Ruta 9 (afueras de Crampón)",
+            "Evolucionar: a Nickit (nivel 18)"
+        ],
+        "Diamante Brillante": [
+            "Thievul no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Thievul no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Thievul no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Marca a su presa sin ser advertido. Sigue el olor y, cuando el otro Pokémon baja la guardia, aprovecha para robarle.",
+        "Escudo": "Un Pokémon ágil y de afiladas garras que se alimenta de huevos y comida robados. Los Boltund son su enemigo natural.",
+        "Diamante Brillante": "Thievul no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Thievul no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Thievul no aparece en Leyendas Pokémon: Arceus."
+    }
+}

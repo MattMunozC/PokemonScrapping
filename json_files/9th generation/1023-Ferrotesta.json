@@ -1,0 +1,22 @@
+{
+    "dex number": "1023",
+    "pokemon name": "Ferrotesta",
+    "types": [
+        " acero",
+        " psíquico"
+    ],
+    "abilities": [
+        "Carga cuark"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 90,
+        "atk": 72,
+        "def": 100,
+        "atk esp": 122,
+        "def esp": 108,
+        "speed": 98
+    },
+    "location": {},
+    "pokedex": {}
+}

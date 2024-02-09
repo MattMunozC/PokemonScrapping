@@ -1,0 +1,48 @@
+{
+    "dex number": "0903",
+    "pokemon name": "Sneasler",
+    "types": [
+        " lucha",
+        " veneno"
+    ],
+    "abilities": [
+        "Presión",
+        "Liviano"
+    ],
+    "hidden abilities": [
+        "Toque tóxico"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 130,
+        "def": 60,
+        "atk esp": 40,
+        "def esp": 80,
+        "speed": 120
+    },
+    "location": {
+        "Espada": [
+            "Sneasler no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Sneasler no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Sneasler no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sneasler no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Sneasel de Hisui (garra afilada + día)",
+            "Aparición supermasiva: Ladera Corona"
+        ]
+    },
+    "pokedex": {
+        "Espada": "Sneasler no aparece en Pokémon Espada.",
+        "Escudo": "Sneasler no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Sneasler no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sneasler no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Gracias a su fortaleza física y potente veneno, ninguna especie de las alturas heladas le planta cara. Es de personalidad solitaria y no forma manadas."
+    }
+}

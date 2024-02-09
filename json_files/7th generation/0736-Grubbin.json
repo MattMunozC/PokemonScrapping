@@ -1,0 +1,63 @@
+{
+    "dex number": "0736",
+    "pokemon name": "Grubbin",
+    "types": [
+        " bicho"
+    ],
+    "abilities": [
+        "Enjambre"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 47,
+        "atk": 62,
+        "def": 45,
+        "atk esp": 55,
+        "def esp": 45,
+        "speed": 46
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruta 1, Ruta 4, Ruta 5 y Ruta 6"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 1, Ruta 4, Ruta 5 y Ruta 6"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 1, Ruta 4, Ruta 5 y Ruta 6 y Monte Rubor"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 1, Ruta 4, Ruta 5 y Ruta 6 y Monte Rubor"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 1, Bosque Oniria, Arboleda Claroscuro, Antigua Atalaya, Lago Axew (este) y Lago Milotic (norte)",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Pradera Radiante, nido en la zona de pasto al este y Valle Entrepuentes, nido al este junto a la pared",
+            "Curri: Ruta 1 y Bosque Oniria (zona sur)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 1, Bosque Oniria, Arboleda Claroscuro, Antigua Atalaya, Lago Axew (este) y Lago Milotic (norte)",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Pradera Radiante, nido en la zona de pasto al este y Valle Entrepuentes, nido al este junto a la pared",
+            "Curri: Ruta 1 y Bosque Oniria (zona sur)"
+        ],
+        "Diamante Brillante": [
+            "Grubbin no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Grubbin no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Grubbin no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Con sus duras mandíbulas arranca la corteza de los árboles y sorbe la savia. Suele habitar bajo tierra.",
+        "Luna": "Para evitar que los Pokémon pájaro los atormenten, suelen agruparse en lugares donde habitan Pokémon de tipo Eléctrico.",
+        "Ultrasol": "Conviene no meter la mano en la madriguera de un Grubbin, so pena de provocarlo y llevarse un buen mordisco.",
+        "Ultraluna": "Inmoviliza al rival con el hilo viscoso que secreta y lo atrapa con sus duras y fuertes mandíbulas para atacarlo sin cuartel.",
+        "Espada": "Con sus potentes mandíbulas puede hacer trizas las ramas más gruesas y ahuyentar incluso a los Rookidee, su enemigo natural.",
+        "Escudo": "Cava su madriguera en el lecho boscoso con sus grandes mandíbulas. Le encanta la savia dulce de los árboles.",
+        "Diamante Brillante": "Grubbin no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Grubbin no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Grubbin no aparece en Leyendas Pokémon: Arceus."
+    }
+}

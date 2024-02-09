@@ -1,0 +1,24 @@
+{
+    "dex number": "0950",
+    "pokemon name": "Klawf",
+    "types": [
+        " roca"
+    ],
+    "abilities": [
+        "Coraza ira",
+        "Caparazón"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 100,
+        "def": 115,
+        "atk esp": 35,
+        "def esp": 55,
+        "speed": 75
+    },
+    "location": {},
+    "pokedex": {}
+}

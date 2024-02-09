@@ -1,0 +1,24 @@
+{
+    "dex number": "0955",
+    "pokemon name": "Flittle",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Anticipación",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Impulso"
+    ],
+    "stats": {
+        "hp": 30,
+        "atk": 35,
+        "def": 30,
+        "atk esp": 55,
+        "def esp": 30,
+        "speed": 75
+    },
+    "location": {},
+    "pokedex": {}
+}

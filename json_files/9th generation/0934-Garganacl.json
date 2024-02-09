@@ -1,0 +1,24 @@
+{
+    "dex number": "0934",
+    "pokemon name": "Garganacl",
+    "types": [
+        " roca"
+    ],
+    "abilities": [
+        "Sal purificadora",
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Cuerpo puro"
+    ],
+    "stats": {
+        "hp": 100,
+        "atk": 100,
+        "def": 130,
+        "atk esp": 45,
+        "def esp": 90,
+        "speed": 35
+    },
+    "location": {},
+    "pokedex": {}
+}

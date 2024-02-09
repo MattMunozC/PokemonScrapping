@@ -1,0 +1,56 @@
+{
+    "dex number": "0844",
+    "pokemon name": "Sandaconda",
+    "types": [
+        " tierra"
+    ],
+    "abilities": [
+        "Expulsarena",
+        "Mudar"
+    ],
+    "hidden abilities": [
+        "Velo arena"
+    ],
+    "stats": {
+        "hp": 72,
+        "atk": 107,
+        "def": 125,
+        "atk esp": 65,
+        "def esp": 70,
+        "speed": 71
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 8, Lago del Enfado y Cuenca Arenosa ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al noreste junto a formación rocosa y Cuenca Polvorienta, nido al oeste de la losa de piedra elevada. Nidos en Cuenca Arenosa , Playa Desafío , Cueva Tenacidad , Mar Andana ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al extremo noreste y Cuenca Polvorienta, nido al oeste de la losa de piedra elevada. Nido en la Cuenca Arenosa ",
+            "Curri: Ruta 8 (zona principal)",
+            "Evolucionar: a Silicobra (nivel 36)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 8, Lago del Enfado y Cuenca Arenosa ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al noreste junto a formación rocosa y Cuenca Polvorienta, nido al oeste de la losa de piedra elevada. Nidos en Cuenca Arenosa , Playa Desafío , Cueva Tenacidad , Mar Andana ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al extremo noreste y Cuenca Polvorienta, nido al oeste de la losa de piedra elevada. Nido en la Cuenca Arenosa ",
+            "Curri: Ruta 8 (zona principal)",
+            "Evolucionar: a Silicobra (nivel 36)"
+        ],
+        "Diamante Brillante": [
+            "Sandaconda no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sandaconda no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Sandaconda no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nSandaconda: Se retuerce para expulsar por los orificios nasales hasta 100 kg de arena. La ausencia de esta mina su ánimo.\nSandaconda Gigamax: Su bolsa de arena también se ha agigantado. El torbellino arenoso que lo rodea supera el millón de toneladas.",
+        "Escudo": "\nSandaconda: La manera tan particular que tiene de enrollarse sobre sí mismo le permite expulsar con mayor eficacia la arena que almacena en la bolsa.\nSandaconda Gigamax:  La arena que gira vertiginosamente en torno a su cuerpo posee suficiente capacidad destructiva para reducir a escombros un rascacielos.",
+        "Diamante Brillante": "Sandaconda no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sandaconda no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sandaconda no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "dex number": "0940",
+    "pokemon name": "Wattrel",
+    "types": [
+        " eléctrico",
+        " volador"
+    ],
+    "abilities": [
+        "Energía eólica",
+        "Absorbe electricidad"
+    ],
+    "hidden abilities": [
+        "Tenacidad"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 40,
+        "def": 35,
+        "atk esp": 55,
+        "def esp": 40,
+        "speed": 70
+    },
+    "location": {},
+    "pokedex": {}
+}

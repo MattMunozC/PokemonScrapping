@@ -1,0 +1,70 @@
+{
+    "dex number": "0737",
+    "pokemon name": "Charjabug",
+    "types": [
+        " bicho",
+        " eléctrico"
+    ],
+    "abilities": [
+        "Batería"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 57,
+        "atk": 82,
+        "def": 95,
+        "atk esp": 55,
+        "def esp": 75,
+        "speed": 36
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Monte Rubor",
+            "Evolucionar: a Grubbin (nivel 20)"
+        ],
+        "Luna": [
+            "Salvaje: Monte Rubor",
+            "Evolucionar: a Grubbin (nivel 20)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Monte Rubor",
+            "Evolucionar: a Grubbin (nivel 20)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Monte Rubor",
+            "Evolucionar: a Grubbin (nivel 20)"
+        ],
+        "Espada": [
+            "Salvaje: Ojo de Axew, Cuenca Polvorienta y Cornisa de Artejo",
+            "Evolucionar: a Grubbin (nivel 20)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Gorro del Gigante, nido al noroeste, Pradera Radiante, nido en la zona de pasto al este, Ribera de Pistón, nido al suroeste y Valle Entrepuentes, nido al este junto a la pared"
+        ],
+        "Escudo": [
+            "Salvaje: Ojo de Axew, Cuenca Polvorienta y Cornisa de Artejo",
+            "Evolucionar: a Grubbin (nivel 20)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Gorro del Gigante, nido al noroeste, Pradera Radiante, nido en la zona de pasto al este, Ribera de Pistón, nido al suroeste y Valle Entrepuentes, nido al este junto a la pared"
+        ],
+        "Diamante Brillante": [
+            "Charjabug no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Charjabug no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Charjabug no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Almacena electricidad en su cuerpo, lo que puede resultar útil en numerosas situaciones, como al salir de acampada.",
+        "Luna": "Al hacer la digestión genera energía eléctrica que almacena en la bolsa que posee para tal efecto.",
+        "Ultrasol": "Escondido bajo la hojarasca, permanece casi inmóvil mientras come humus con fruición. Quien lo pisa en un descuido se lleva una descarga.",
+        "Ultraluna": "Cuando lo atacan, se protege con su robusto caparazón. Si el rival lo sigue atosigando, le suelta una descarga eléctrica.",
+        "Espada": "Se protege el cuerpo con un robusto caparazón. Contraataca liberando corriente eléctrica por la punta de las mandíbulas.",
+        "Escudo": "Al digerir la hojarasca de la que se alimenta, genera energía eléctrica que almacena en la bolsa que posee para tal efecto.",
+        "Diamante Brillante": "Charjabug no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Charjabug no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Charjabug no aparece en Leyendas Pokémon: Arceus."
+    }
+}

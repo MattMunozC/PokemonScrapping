@@ -1,0 +1,23 @@
+{
+    "dex number": "0919",
+    "pokemon name": "Nymble",
+    "types": [
+        " bicho"
+    ],
+    "abilities": [
+        "Enjambre"
+    ],
+    "hidden abilities": [
+        "Cromolente"
+    ],
+    "stats": {
+        "hp": 33,
+        "atk": 46,
+        "def": 40,
+        "atk esp": 21,
+        "def esp": 25,
+        "speed": 45
+    },
+    "location": {},
+    "pokedex": {}
+}

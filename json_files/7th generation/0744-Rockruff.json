@@ -1,0 +1,73 @@
+{
+    "dex number": "0744",
+    "pokemon name": "Rockruff",
+    "types": [
+        " roca"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Espíritu vital"
+    ],
+    "hidden abilities": [
+        "Impasible",
+        "Ritmo propio"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 65,
+        "def": 40,
+        "atk esp": 30,
+        "def esp": 40,
+        "speed": 60
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Colina Dequilate"
+        ],
+        "Luna": [
+            "Salvaje: Colina Dequilate"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 1 (sur) y Colina Dequilate",
+            "Ritmo propio",
+            "Evento: (ver más abajo)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 1 (sur) y Colina Dequilate",
+            "Ritmo propio",
+            "Evento: (ver más abajo)"
+        ],
+        "Espada": [
+            "Salvaje: Prado Reverencia , Bahía Circular , Humedal Frescor  y Ruta Desafío ",
+            "Incursiones Dinamax: Prado Reverencia , Ruta Desafío , Llano Entrenamiento  y Cuenca Arenosa .",
+            "Ritmo propio",
+            "Salvaje: Ruta Desafío (Solo en el nido detrás de una roca y debe tener un haz de luz intenso.) "
+        ],
+        "Escudo": [
+            "Salvaje: Prado Reverencia , Bahía Circular , Humedal Frescor  y Ruta Desafío ",
+            "Incursiones Dinamax: Prado Reverencia , Ruta Desafío , Llano Entrenamiento  y Cuenca Arenosa .",
+            "Ritmo propio",
+            "Salvaje: Ruta Desafío (Solo en el nido detrás de una roca y debe tener un haz de luz intenso.) "
+        ],
+        "Diamante Brillante": [
+            "Rockruff no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Rockruff no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Rockruff no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Su carácter amigable lo convierte en el Pokémon ideal para Entrenadores novatos. Sin embargo, al crecer suele volverse un poco agresivo.",
+        "Luna": "Acostumbran a vivir con los humanos desde la antigüedad. Intuyen si su Entrenador está triste, en cuyo caso no se despegan de su lado.",
+        "Ultrasol": "A medida que crece, se vuelve más salvaje y agresivo. No son pocos los Entrenadores que se deshacen de él por no poder controlarlo.",
+        "Ultraluna": "Restriega las rocas que tiene en el cuello contra su Entrenador como señal de afecto, pero son tan puntiagudas que hacen bastante daño.",
+        "Espada": "Se encariña con su Entrenador rápidamente, pero su tendencia a dar mordiscos hace que dedicarse a entrenarlo sea una ardua labor.",
+        "Escudo": "Intimida a los rivales golpeando contra el suelo las rocas que tiene en el cuello y, tan pronto como retroceden, se abalanza sobre ellos.",
+        "Diamante Brillante": "Rockruff no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Rockruff no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Rockruff no aparece en Leyendas Pokémon: Arceus."
+    }
+}

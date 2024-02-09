@@ -1,0 +1,82 @@
+{
+    "dex number": "0741",
+    "pokemon name": "Oricorio",
+    "types": [
+        " eléctrico",
+        " volador",
+        " psíquico",
+        " volador",
+        " fuego",
+        " volador",
+        " fantasma",
+        " volador"
+    ],
+    "abilities": [
+        "Pareja de baile"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 75,
+        "atk": 70,
+        "def": 70,
+        "atk esp": 98,
+        "def esp": 70,
+        "speed": 93
+    },
+    "location": {
+        "Sol": [
+            "Salvaje:",
+            "Estilo animado: Jardines de Melemele",
+            "Estilo plácido: Ruta 6",
+            "Estilo apasionado: Jardines de Ula-Ula",
+            "Estilo refinado: Jardines de Poni"
+        ],
+        "Luna": [
+            "Salvaje:",
+            "Estilo animado: Jardines de Melemele",
+            "Estilo plácido: Ruta 6",
+            "Estilo apasionado: Jardines de Ula-Ula",
+            "Estilo refinado: Jardines de Poni"
+        ],
+        "Ultrasol": [
+            "Salvaje:",
+            "Estilo animado: Jardines de Melemele",
+            "Estilo plácido: Ruta 6",
+            "Estilo apasionado: Jardines de Ula-Ula",
+            "Estilo refinado: Jardines de Poni"
+        ],
+        "Ultraluna": [
+            "Salvaje:",
+            "Estilo animado: Jardines de Melemele",
+            "Estilo plácido: Ruta 6",
+            "Estilo apasionado: Jardines de Ula-Ula",
+            "Estilo refinado: Jardines de Poni"
+        ],
+        "Espada": [
+            "Oricorio no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Oricorio no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Oricorio no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Oricorio no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Oricorio no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "\nEstilo animado: Forma que toma Oricorio al libar néctar amarillo. Electrifica el corazón de sus adversarios con su alegre y cálida danza.\nEstilo plácido: Baila de forma pausada acumulando poder psíquico que después libera contra su rival tras mirarlo fijamente.\nEstilo apasionado: Junta las alas y lanza voraces llamas al rival. Su ataque se asemeja a una elaborada coreografía de fuego.\nEstilo refinado: Forma que toma Oricorio al libar néctar violeta. Con su refinada y elegante danza, puede enviar al otro mundo a sus enemigos en cuerpo y alma.",
+        "Luna": "\nEstilo animado: Electrifica su plumaje mediante fricción. Se acerca al rival como si bailara y le asesta una potente descarga.\nEstilo plácido: Forma que toma Oricorio al libar néctar rosa. Con su suave contoneo de caderas, derrite el corazón de sus rivales.\nEstilo apasionado: Forma que toma Oricorio al libar néctar rojo. Hace arder el corazón de sus adversarios con su cálida danza.\nEstilo refinado: Su refinada danza le permite contactar con las almas de los fallecidos y canalizar su energía negativa contra el enemigo.",
+        "Ultrasol": "\nEstilo animado: Con su alegre y viva danza anima al enemigo. En cuanto este baja la guardia, le suelta una descarga eléctrica.\nEstilo plácido: Con su elegante danza tranquiliza al enemigo. En cuanto este baja la guardia, lo ataca con sus poderes psíquicos.\nEstilo apasionado: Con su danza apasionada cautiva al enemigo. En cuanto este baja la guardia, lo calcina con sus enormes llamaradas.\nEstilo refinado: Con su refinada danza seduce al enemigo. En cuanto este baja la guardia, lo convierte en presa de una maldición mortífera.",
+        "Ultraluna": "\nEstilo animado: Forma que toma Oricorio al libar Néctar Amarillo. Si ve a alguien con la moral baja, intenta animarlo con su baile.\nEstilo plácido: Forma que toma Oricorio al libar Néctar Rosa. Se relaja tanto cuando está bailando que deja de oír las órdenes de su Entrenador.\nEstilo apasionado: Forma que toma Oricorio al libar Néctar Rojo. Su vehemencia le lleva a ponerse hecho una furia si el entrenador le imparte la orden equivocada.\nEstilo refinado: Forma que toma Oricorio al libar Néctar Violeta. Hay bailarines que se inspiran en la fluidez y hermosura de su danza.",
+        "Espada": "Oricorio no aparece en Pokémon Espada.",
+        "Escudo": "Oricorio no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Oricorio no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Oricorio no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Oricorio no aparece en Leyendas Pokémon: Arceus."
+    }
+}

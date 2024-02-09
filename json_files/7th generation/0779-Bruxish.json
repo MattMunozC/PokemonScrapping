@@ -1,0 +1,63 @@
+{
+    "dex number": "0779",
+    "pokemon name": "Bruxish",
+    "types": [
+        " agua",
+        " psíquico"
+    ],
+    "abilities": [
+        "Cuerpo vívido",
+        "Mandíbula fuerte"
+    ],
+    "hidden abilities": [
+        "Piel milagro"
+    ],
+    "stats": {
+        "hp": 68,
+        "atk": 105,
+        "def": 70,
+        "atk esp": 70,
+        "def esp": 70,
+        "speed": 92
+    },
+    "location": {
+        "Sol": [
+            "Pescando: Ruta 13, Ruta 14, Ruta 15 y Playa Menor"
+        ],
+        "Luna": [
+            "Pescando: Ruta 13, Ruta 14, Ruta 15 y Playa Menor"
+        ],
+        "Ultrasol": [
+            "Pescando: Ruta 13, Ruta 14 y Ruta 15"
+        ],
+        "Ultraluna": [
+            "Pescando: Ruta 13, Ruta 14 y Ruta 15"
+        ],
+        "Espada": [
+            "Bruxish no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Bruxish no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Bruxish no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Bruxish no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Bruxish no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Cuando la protuberancia que tiene en la cabeza emite poderes psíquicos, se escucha como un ruido de dientes rechinando muy molesto.",
+        "Luna": "Paraliza a su presa con poderes telequinéticos y la hace picadillo con su robusta dentadura. Ni siquiera Shellder se le resiste.",
+        "Ultrasol": "Oculto bajo la arena, emite poderes psíquicos por la protuberancia de su cabeza. Analiza el entorno mientras espera a que caiga su presa.",
+        "Ultraluna": "Su piel es tan gruesa que ni las espinas de Mareanie pueden perforarla. Con su fuerte dentadura tritura y engulle dichas espinas.",
+        "Espada": "Bruxish no aparece en Pokémon Espada.",
+        "Escudo": "Bruxish no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Bruxish no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Bruxish no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Bruxish no aparece en Leyendas Pokémon: Arceus."
+    }
+}

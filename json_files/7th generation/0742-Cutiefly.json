@@ -1,0 +1,69 @@
+{
+    "dex number": "0742",
+    "pokemon name": "Cutiefly",
+    "types": [
+        " bicho",
+        " hada"
+    ],
+    "abilities": [
+        "Recogemiel",
+        "Polvo escudo"
+    ],
+    "hidden abilities": [
+        "Velo dulce"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 45,
+        "def": 40,
+        "atk esp": 55,
+        "def esp": 40,
+        "speed": 84
+    },
+    "location": {
+        "Sol": [
+            "Salvaje: Ruta 2, Ruta 3 y Jardines de Melemele"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 2, Ruta 3 y Jardines de Melemele"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 2, Ruta 3 y Jardines de Melemele",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 2, Ruta 3 y Jardines de Melemele",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 4, Pradera Radiante, Espejo del Gigante y Ribera de Pistón",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al sureste junto al acantilado y Valle Entrepuentes, nido al noreste cerca de los pilares. Nido en Llano Entrenamiento ",
+            "Curri: Ruta 4"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 4, Pradera Radiante, Espejo del Gigante y Ribera de Pistón",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al sureste junto al acantilado y Valle Entrepuentes, nido al noreste cerca de los pilares. Nido en Llano Entrenamiento ",
+            "Curri: Ruta 4"
+        ],
+        "Diamante Brillante": [
+            "Cutiefly no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cutiefly no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cutiefly no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Se alimenta de néctar y polen. Es capaz de detectar los capullos que están a punto de abrirse.",
+        "Luna": "Revolotean en bandadas en torno a la cabeza de aquellas personas que cuentan con un aura similar a la de las flores.",
+        "Ultrasol": "Le encanta el néctar y el polen. Revolotea en busca de alimento por campos de flores, donde tiene sus rifirrafes con Butterfree.",
+        "Ultraluna": "Percibe el aura de los seres vivos. Aprovecha esta capacidad para juguetear con el enemigo anticipándose a sus movimientos.",
+        "Espada": "Le fascinan el néctar y el polen. Suele revolotear alrededor de los Gossifleur, atraído por su polen.",
+        "Escudo": "Al percibir el aura del rival, puede predecir sus movimientos y esquivarlos sin problema mientras lanza su contraataque.",
+        "Diamante Brillante": "Cutiefly no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cutiefly no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cutiefly no aparece en Leyendas Pokémon: Arceus."
+    }
+}

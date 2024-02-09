@@ -1,0 +1,49 @@
+{
+    "dex number": "0880",
+    "pokemon name": "Dracozolt",
+    "types": [
+        " eléctrico",
+        " dragón"
+    ],
+    "abilities": [
+        "Absorbe electricidad",
+        "Entusiasmo"
+    ],
+    "hidden abilities": [
+        "Ímpetu arena"
+    ],
+    "stats": {
+        "hp": 90,
+        "atk": 100,
+        "def": 90,
+        "atk esp": 80,
+        "def esp": 70,
+        "speed": 75
+    },
+    "location": {
+        "Espada": [
+            "Especial: Revivir juntos el ornitofósil y el dracofósil en la Ruta 6",
+            "Incursiones Dinamax: Nido en Desfiladero Nevado "
+        ],
+        "Escudo": [
+            "Especial: Revivir juntos el ornitofósil y el dracofósil en la Ruta 6",
+            "Incursiones Dinamax: Nido en Desfiladero Nevado "
+        ],
+        "Diamante Brillante": [
+            "Dracozolt no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dracozolt no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Dracozolt no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "La robustez de su tren inferior lo hacía invencible en la antigüedad, pero se extinguió tras comerse todas las plantas de las que se nutría.",
+        "Escudo": "Produce electricidad con la robusta musculatura de la cola. El tamaño de la parte superior del cuerpo palidece en comparación con la inferior.",
+        "Diamante Brillante": "Dracozolt no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dracozolt no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Dracozolt no aparece en Leyendas Pokémon: Arceus."
+    }
+}

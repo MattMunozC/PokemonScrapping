@@ -1,0 +1,22 @@
+{
+    "dex number": "0999",
+    "pokemon name": "Gimmighoul",
+    "types": [
+        " fantasma"
+    ],
+    "abilities": [
+        "Cobardía",
+        "Fuga"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 45,
+        "atk": 30,
+        "def": 70,
+        "atk esp": 75,
+        "def esp": 70,
+        "speed": 10
+    },
+    "location": {},
+    "pokedex": {}
+}

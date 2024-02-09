@@ -1,0 +1,25 @@
+{
+    "dex number": "1019",
+    "pokemon name": "Hydrapple",
+    "types": [
+        " planta",
+        " dragón"
+    ],
+    "abilities": [
+        "Néctar dulce",
+        "Regeneración"
+    ],
+    "hidden abilities": [
+        "Viscosidad"
+    ],
+    "stats": {
+        "hp": 106,
+        "atk": 80,
+        "def": 110,
+        "atk esp": 120,
+        "def esp": 80,
+        "speed": 44
+    },
+    "location": {},
+    "pokedex": {}
+}

@@ -1,0 +1,53 @@
+{
+    "dex number": "0860",
+    "pokemon name": "Morgrem",
+    "types": [
+        " siniestro",
+        " hada"
+    ],
+    "abilities": [
+        "Bromista",
+        "Cacheo"
+    ],
+    "hidden abilities": [
+        "Hurto"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 60,
+        "def": 45,
+        "atk esp": 75,
+        "def esp": 55,
+        "speed": 70
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Bosque Lumirinto, Lecho del Gigante , Desfiladero Nevado  y Suela del Gigante ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte cerca de la laguna, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante , Mar Gélido ",
+            "Curri: Bosque Lumirinto",
+            "Evolucionar: a Impidimp (nivel 32)"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Lumirinto, Lecho del Gigante , Desfiladero Nevado  y Suela del Gigante ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al centro-oeste, Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago del Enfado, nido al norte junto al lago, Pradera Radiante, nido al sureste junto al acantilado, Valle Entrepuentes, nido al norte cerca de la laguna, Valle Entrepuentes, nido al norte junto al muro de Ciudad Pistón y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Suela del Gigante , Mar Gélido ",
+            "Curri: Bosque Lumirinto",
+            "Evolucionar: a Impidimp (nivel 32)"
+        ],
+        "Diamante Brillante": [
+            "Morgrem no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Morgrem no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Morgrem no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Su estrategia consiste en postrarse ante el rival y fingir una disculpa para ensartarlo con el mechón que tiene en la espalda, afilado cual lanza.",
+        "Escudo": "De noche, atrae con astucia a su objetivo hasta el bosque. Al parecer, tiene la capacidad de hacer crecer productos agrícolas.",
+        "Diamante Brillante": "Morgrem no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Morgrem no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Morgrem no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "dex number": "0801",
+    "pokemon name": "Magearna",
+    "types": [
+        " acero",
+        " hada"
+    ],
+    "abilities": [
+        "Coránima"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 80,
+        "atk": 95,
+        "def": 115,
+        "atk esp": 130,
+        "def esp": 115,
+        "speed": 65
+    },
+    "location": {
+        "Sol": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Luna": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultrasol": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultraluna": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores.",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores.",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Diamante Brillante": [
+            "Magearna no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Magearna no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Magearna no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "\nMagearna color actual: Pokémon artificial creado hace más de 500 años. Es capaz de entender el lenguaje humano pero carece de la facultad del habla.\nMagearna color vetusto: Este es el hermoso aspecto que presentaba Magearna cuando fue ofrecido como presente a la hija de un rey hace 500 años.",
+        "Luna": "\nMagearna color actual: El mecanismo que conforma su cuerpo es tan solo un recipiente. Su verdadera esencia es un alma artificial llamada Coránima.\nMagearna color vetusto: Forma que tenía Magearna en el momento de su concepción. Sus magníficos ornamentos hicieron muy feliz a la hija de un rey.",
+        "Ultrasol": "\nMagearna color actual: Sincroniza su consciencia con la de los demás para comprender sus sentimientos. Utiliza esta capacidad para cuidar de las personas.\nMagearna color vetusto: Este es el aspecto que presentaba Magearna hace 500 años. Su cuerpo es solo un recipiente para su verdadera esencia, es un alma artificial.",
+        "Ultraluna": "\nMagearna color actual: Pokémon artificial creado por científicos hace unos 500 años. Su verdadera esencia es una pieza llamada Coránima.\nMagearna color vetusto: Un Pokémon infundido con un alma artificial. Sus refinados ornamentos son prueba de que fue un regalo para una familia real.",
+        "Espada": "No hay entrada de Magearna en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Magearna en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Magearna no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Magearna no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Magearna no aparece en Leyendas Pokémon: Arceus."
+    }
+}

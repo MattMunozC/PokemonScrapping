@@ -1,0 +1,24 @@
+{
+    "dex number": "0998",
+    "pokemon name": "Baxcalibur",
+    "types": [
+        " dragón",
+        " hielo"
+    ],
+    "abilities": [
+        "Termoconversión"
+    ],
+    "hidden abilities": [
+        "Gélido"
+    ],
+    "stats": {
+        "hp": 115,
+        "atk": 145,
+        "def": 92,
+        "atk esp": 75,
+        "def esp": 86,
+        "speed": 87
+    },
+    "location": {},
+    "pokedex": {}
+}

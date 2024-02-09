@@ -1,0 +1,51 @@
+{
+    "dex number": "0871",
+    "pokemon name": "Pincurchin",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Pararrayos"
+    ],
+    "hidden abilities": [
+        "Electrogénesis"
+    ],
+    "stats": {
+        "hp": 48,
+        "atk": 101,
+        "def": 95,
+        "atk esp": 91,
+        "def esp": 85,
+        "speed": 15
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 9, Cueva Tenacidad , Bahía Circular  y Mar Gélido ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Espejo del Gigante, nido al este, Lago del Enfado, nido al noreste junto al lago y Ribera de Pistón, nido al suroeste. Nidos en Prado Reverencia , Bosque Concentración , Playa Desafío , Mar Meloso , Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Curri: Ruta 9 (zona norte y bahía de Auriga)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 9, Cueva Tenacidad , Bahía Circular  y Mar Gélido ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Espejo del Gigante, nido al este, Lago del Enfado, nido al noreste junto al lago y Ribera de Pistón, nido al suroeste. Nidos en Prado Reverencia , Bosque Concentración , Playa Desafío , Mar Meloso , Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Curri: Ruta 9 (zona norte y bahía de Auriga)"
+        ],
+        "Diamante Brillante": [
+            "Pincurchin no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pincurchin no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pincurchin no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Libera electricidad por la punta de las púas. Con sus afilados dientes raspa las algas pegadas a las rocas para ingerirlas.",
+        "Escudo": "Acumula electricidad en cada una de sus púas. Aunque estas se rompan, son capaces de seguir descargando energía durante 3 h.",
+        "Diamante Brillante": "Pincurchin no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pincurchin no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pincurchin no aparece en Leyendas Pokémon: Arceus."
+    }
+}

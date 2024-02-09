@@ -1,0 +1,25 @@
+{
+    "dex number": "0941",
+    "pokemon name": "Kilowattrel",
+    "types": [
+        " eléctrico",
+        " volador"
+    ],
+    "abilities": [
+        "Energía eólica",
+        "Absorbe electricidad"
+    ],
+    "hidden abilities": [
+        "Tenacidad"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 70,
+        "def": 60,
+        "atk esp": 105,
+        "def esp": 60,
+        "speed": 125
+    },
+    "location": {},
+    "pokedex": {}
+}

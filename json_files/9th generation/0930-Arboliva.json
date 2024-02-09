@@ -1,0 +1,24 @@
+{
+    "dex number": "0930",
+    "pokemon name": "Arboliva",
+    "types": [
+        " planta",
+        " normal"
+    ],
+    "abilities": [
+        "Disemillar"
+    ],
+    "hidden abilities": [
+        "Cosecha"
+    ],
+    "stats": {
+        "hp": 78,
+        "atk": 69,
+        "def": 90,
+        "atk esp": 125,
+        "def esp": 109,
+        "speed": 39
+    },
+    "location": {},
+    "pokedex": {}
+}

@@ -1,0 +1,46 @@
+{
+    "dex number": "0892",
+    "pokemon name": "Urshifu",
+    "types": [
+        " lucha",
+        " siniestro",
+        " lucha",
+        " agua"
+    ],
+    "abilities": [
+        "Puño invisible"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 130,
+        "def": 100,
+        "atk esp": 63,
+        "def esp": 60,
+        "speed": 97
+    },
+    "location": {
+        "Espada": [
+            "Evolucionar: a Kubfu (tras entrenar en la Torre de las Sombras o la Torre de las Aguas) "
+        ],
+        "Escudo": [
+            "Evolucionar: a Kubfu (tras entrenar en la Torre de las Sombras o la Torre de las Aguas) "
+        ],
+        "Diamante Brillante": [
+            "Urshifu no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Urshifu no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Urshifu no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "\nUrshifu brusco: Su estilo de lucha se basa en abatir a sus rivales de un solo golpe. Se abalanza sobre ellos con su puño cincelado por el entrenamiento.\nUrshifu fluido: Se considera que su estilo de lucha, a veces intenso y a veces comedido, se inspira en el fluir de la corriente de los ríos.\nUrshifu Gigamax brusco: Lo llaman la Encarnación de la Furia. Se dice que ahuyenta los espíritus malignos del mundo con su furibundo semblante y su grito de guerra.\nUrshifu Gigamax fluido: Se sostiene con una sola pata sin el menor atisbo de movimiento y aguarda el momento de liberar de golpe toda la energía Gigamax.",
+        "Escudo": "\nUrshifu brusco: Vive en zonas montañosas en áreas recónditas, donde entrena corriendo por escarpados riscos para fortalecer sus piernas y refinar su técnica.\nUrshifu fluido: Su estilo de combate se inspira en el flujo del agua y consiste en castigar al oponente de forma constante e ininterrumpida.\nUrshifu Gigamax brusco: La energía que libera por los puños forma ondas de choque capaces de lanzar por los aires incluso a Pokémon Dinamax de un solo golpe.\nUrshifu Gigamax fluido: Se dice que una sola mirada iracunda de este Pokémon basta para arrebatarle la vida a quien posee un corazón perverso.",
+        "Diamante Brillante": "Urshifu no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Urshifu no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Urshifu no aparece en Leyendas Pokémon: Arceus."
+    }
+}

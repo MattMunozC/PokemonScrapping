@@ -1,0 +1,65 @@
+{
+    "dex number": "0733",
+    "pokemon name": "Toucannon",
+    "types": [
+        " normal",
+        " volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Encadenado"
+    ],
+    "hidden abilities": [
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 120,
+        "def": 75,
+        "atk esp": 75,
+        "def esp": 75,
+        "speed": 60
+    },
+    "location": {
+        "Sol": [
+            "Evolucionar: a Trumbeak (nivel 28)"
+        ],
+        "Luna": [
+            "Evolucionar: a Trumbeak (nivel 28)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Bosque de Poni y Llanura de Poni (como refuerzo de Trumbeak)",
+            "Evolucionar: a Trumbeak (nivel 28)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Bosque de Poni y Llanura de Poni (como refuerzo de Trumbeak)",
+            "Evolucionar: a Trumbeak (nivel 28)"
+        ],
+        "Espada": [
+            "Toucannon no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Toucannon no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Toucannon no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Toucannon no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Toucannon no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "Cuando va a combatir, calienta su pico hasta temperaturas que superan los 100 °C, lo que puede causar graves quemaduras al contacto.",
+        "Luna": "Hace estallar los gases de su interior para disparar semillas por el pico con una potencia capaz de pulverizar rocas enormes.",
+        "Ultrasol": "Se comunican con sus compañeros chocando los picos. El número de veces y la fuerza con la que lo hacen transmiten sus distintos sentimientos.",
+        "Ultraluna": "Las parejas de Toucannon son famosas por la armonía que reina entre ellas. Por eso se llevan a las bodas como portadores de buena fortuna.",
+        "Espada": "Toucannon no aparece en Pokémon Espada.",
+        "Escudo": "Toucannon no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Toucannon no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Toucannon no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Toucannon no aparece en Leyendas Pokémon: Arceus."
+    }
+}

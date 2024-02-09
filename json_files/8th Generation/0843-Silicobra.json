@@ -1,0 +1,50 @@
+{
+    "dex number": "0843",
+    "pokemon name": "Silicobra",
+    "types": [
+        " tierra"
+    ],
+    "abilities": [
+        "Expulsarena",
+        "Mudar"
+    ],
+    "hidden abilities": [
+        "Velo arena"
+    ],
+    "stats": {
+        "hp": 52,
+        "atk": 57,
+        "def": 75,
+        "atk esp": 35,
+        "def esp": 50,
+        "speed": 46
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 6, Bosque Concentración , Playa Desafío , Llano Entrenamiento  y Cuenca Arenosa ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noreste junto a formación rocosa y Cuenca Polvorienta, nido al oeste de la losa de piedra elevada. Nidos en Cuenca Arenosa ",
+            "Curri: Ruta 6"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 6, Bosque Concentración , Playa Desafío , Llano Entrenamiento  y Cuenca Arenosa ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al noreste junto a formación rocosa y Cuenca Polvorienta, nido al oeste de la losa de piedra elevada. Nidos en Cuenca Arenosa ",
+            "Curri: Ruta 6"
+        ],
+        "Diamante Brillante": [
+            "Silicobra no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Silicobra no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Silicobra no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Almacena la arena que ingiere al perforar hoyos en la saca del cuello, cuya capacidad llega a alcanzar incluso los 8 kg.",
+        "Escudo": "Expulsa arena por los orificios nasales. Una vez que aturde al enemigo, aprovecha la ocasión para ocultarse bajo tierra.",
+        "Diamante Brillante": "Silicobra no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Silicobra no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Silicobra no aparece en Leyendas Pokémon: Arceus."
+    }
+}

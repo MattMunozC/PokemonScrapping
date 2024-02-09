@@ -1,0 +1,109 @@
+{
+    "dex number": "0745",
+    "pokemon name": "Lycanroc",
+    "types": [
+        " roca"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Ímpetu arena",
+        "Espíritu vital",
+        "Garra dura"
+    ],
+    "hidden abilities": [
+        "Impasible",
+        "Indefenso"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 115,
+        "def": 65,
+        "atk esp": 55,
+        "def esp": 65,
+        "speed": 112
+    },
+    "location": {
+        "Sol": [
+            "Forma diurna:",
+            "Salvaje: Cañón de Poni (solo de día)",
+            "Evolucionar: de Rockruff (nivel 25 + día)",
+            "Forma nocturna:",
+            "Salvaje: Cañón de Poni (solo de noche)"
+        ],
+        "Luna": [
+            "Forma diurna:",
+            "Salvaje: Cañón de Poni (solo de día)",
+            "Forma nocturna:",
+            "Salvaje: Cañón de Poni (solo de noche)",
+            "Evolucionar: de Rockruff (nivel 25 + noche)"
+        ],
+        "Ultrasol": [
+            "Forma diurna:",
+            "Salvaje: Cañón de Poni (solo de día)",
+            "Evolucionar: de Rockruff (nivel 25 + día)",
+            "Forma nocturna:",
+            "Salvaje:Cañón de Poni (solo de noche)",
+            "Forma crepuscular:",
+            "Evolucionar: de Rockruff con ritmo propio (nivel 25 + atardecer)"
+        ],
+        "Ultraluna": [
+            "Forma diurna:",
+            "Salvaje: Cañón de Poni (solo de día)",
+            "Forma nocturna:",
+            "Salvaje: Cañón de Poni (solo de noche)",
+            "Evolucionar: de Rockruff (nivel 25 + noche)",
+            "Forma crepuscular:",
+            "Evolucionar: de Rockruff con ritmo propio (nivel 25 + atardecer)"
+        ],
+        "Espada": [
+            "Forma diurna:",
+            "Salvaje: Ruta Desafío ",
+            "Evolucionar: de Rockruff (nivel 25 + día).",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Ruta Desafío , Prado Reverencia , Llano Entrenamiento  y Cuenca Arenosa ",
+            "Forma nocturna:",
+            "Salvaje: Ruta Desafío ",
+            "Evolucionar: de Rockruff (nivel 25 + noche)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nido en Ruta Desafío ",
+            "Forma crepuscular:",
+            "Incursiones Dinamax: nido en Ruta Desafío ",
+            "Evolucionar: de Rockruff con ritmo propio (nivel 25 + atardecer)"
+        ],
+        "Escudo": [
+            "Forma diurna:",
+            "Salvaje: Ruta Desafío ",
+            "Evolucionar: de Rockruff (nivel 25 + día).",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Ruta Desafío , Prado Reverencia , Llano Entrenamiento  y Cuenca Arenosa ",
+            "Forma nocturna:",
+            "Salvaje: Ruta Desafío ",
+            "Evolucionar: de Rockruff (nivel 25 + noche)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nido en Ruta Desafío ",
+            "Forma crepuscular:",
+            "Incursiones Dinamax: nido en Ruta Desafío ",
+            "Evolucionar: de Rockruff con ritmo propio (nivel 25 + atardecer)"
+        ],
+        "Diamante Brillante": [
+            "Lycanroc no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Lycanroc no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Lycanroc no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Sol": "\nForma diurna: Su velocidad desconcierta a sus rivales. Ataca con garras, colmillos y con piedras afiladas de su melena.\nForma nocturna: Cuanto más fuerte es su rival, más se crece. Sus ansias de ganar lo llevan a arrojarse sobre él sin consideración por su propia vida.",
+        "Luna": "\nForma diurna: Si se lo entrena a conciencia desde temprana edad, se convierte en un leal compañero que jamás dejará en la estacada a su Entrenador.\nForma nocturna: Provoca al enemigo antes de atacarlo. Desgarra carne y rompe huesos golpeándolo con su melena de piedra.",
+        "Ultrasol": "\nForma diurna: Su melena de piedra es tan afilada como un cuchillo. Hostiga a su presa sin cesar hasta agotarla, para luego asestarle el golpe de gracia.\nForma nocturna: Si no está de acuerdo con una orden, no duda en ignorarla. No le importa salir herido con tal de derrotar al oponente.\nForma crepuscular: Lycanroc evoluciona a esta forma especial cuando se expone al sol del atardecer. Parece pacífico, pero posee un gran espíritu combativo.",
+        "Ultraluna": "\nForma diurna: Su melena de piedra es más afilada incluso que un cuchillo. Los fragmentos que se le desprenden son muy codiciados como amuleto.\nForma nocturna: Vive en soledad, sin depender de otros. Solo confía en los entrenadores que saben sacar a relucir toda su fuerza.\nForma crepuscular: Cuando Lycanroc evoluciona al atardecer adopta esta peculiar forma, de la que se ven muy pocos en Alola.",
+        "Espada": "\nForma diurna: Un Pokémon tranquilo y prudente. Su melena de piedra es tan afilada como una cuchilla.\nForma nocturna: Su osadía y temeridad son tales que ataca a sus adversarios siempre de frente, sin importarle las heridas que pueda recibir.\nForma crepuscular: Por lo general, muestra un carácter tranquilo, pero, en cuanto entra en combate se transforma y saca a relucir un feroz espíritu de lucha.",
+        "Escudo": "\nForma diurna: Va acorralando pacientemente a su presa con movimientos raudos para finalmente clavarle los colmillos en sus puntos vitales.\nForma nocturna: Cuanto más fuerte es su rival, más se crece. Puede reventar una roca enorme de un cabezazo.\nForma crepuscular: Su carácter es a la vez fiero y sosegado. Este comportamiento difícil y voluble lo convierte en un Pokémon sumamente complicado de entrenar.",
+        "Diamante Brillante": "Lycanroc no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Lycanroc no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Lycanroc no aparece en Leyendas Pokémon: Arceus."
+    }
+}

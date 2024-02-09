@@ -1,0 +1,26 @@
+{
+    "dex number": "0931",
+    "pokemon name": "Squawkabilly",
+    "types": [
+        " normal",
+        " volador"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Entusiasmo"
+    ],
+    "hidden abilities": [
+        "Agallas",
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": 82,
+        "atk": 96,
+        "def": 51,
+        "atk esp": 45,
+        "def esp": 51,
+        "speed": 92
+    },
+    "location": {},
+    "pokedex": {}
+}

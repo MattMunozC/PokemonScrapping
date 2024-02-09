@@ -1,0 +1,22 @@
+{
+    "dex number": "0987",
+    "pokemon name": "Melenaleteo",
+    "types": [
+        " fantasma",
+        " hada"
+    ],
+    "abilities": [
+        "Paleosíntesis"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 55,
+        "atk": 55,
+        "def": 55,
+        "atk esp": 135,
+        "def esp": 135,
+        "speed": 135
+    },
+    "location": {},
+    "pokedex": {}
+}

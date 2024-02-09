@@ -1,0 +1,52 @@
+{
+    "dex number": "0832",
+    "pokemon name": "Dubwool",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Peluche",
+        "Impasible"
+    ],
+    "hidden abilities": [
+        "Antibalas"
+    ],
+    "stats": {
+        "hp": 72,
+        "atk": 80,
+        "def": 100,
+        "atk esp": 60,
+        "def esp": 90,
+        "speed": 88
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Cornisa de Artejo, Cuenca Polvorienta, Ribera de Pistón, Campo Deslizante , Campo Bajocero , Desfiladero Nevado , Encrucijada Tresvías  y Lecho del Gigante ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Llanura Pétrea, nido al sureste junto a una pared, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste. Nidos en Prado Reverencia , Humedal Frescor , Mar Andana , Mar Islejos , Campo Deslizante , Suela del Gigante , Lago Bolaguna  y Lecho del Gigante ",
+            "Evolucionar: a Wooloo (nivel 24)"
+        ],
+        "Escudo": [
+            "Salvaje: Cornisa de Artejo, Cuenca Polvorienta, Ribera de Pistón, Campo Deslizante , Campo Bajocero , Desfiladero Nevado , Encrucijada Tresvías  y Lecho del Gigante ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Llanura Pétrea, nido al sureste junto a una pared, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste. Nidos en Prado Reverencia , Humedal Frescor , Mar Andana , Mar Islejos , Campo Deslizante , Suela del Gigante , Lago Bolaguna  y Lecho del Gigante ",
+            "Evolucionar: a Wooloo (nivel 24)"
+        ],
+        "Diamante Brillante": [
+            "Dubwool no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dubwool no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Dubwool no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Su lana es muy flexible. Las alfombras tejidas con ella adoptan una textura similar a la de las camas elásticas.",
+        "Escudo": "Sus espléndidos cuernos sirven de reclamo para atraer al sexo opuesto. No los utiliza como arma.",
+        "Diamante Brillante": "Dubwool no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dubwool no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Dubwool no aparece en Leyendas Pokémon: Arceus."
+    }
+}

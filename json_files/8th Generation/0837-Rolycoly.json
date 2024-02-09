@@ -1,0 +1,50 @@
+{
+    "dex number": "0837",
+    "pokemon name": "Rolycoly",
+    "types": [
+        " roca"
+    ],
+    "abilities": [
+        "Combustible",
+        "Ignífugo"
+    ],
+    "hidden abilities": [
+        "Absorbe fuego"
+    ],
+    "stats": {
+        "hp": 30,
+        "atk": 40,
+        "def": 50,
+        "atk esp": 40,
+        "def esp": 50,
+        "speed": 30
+    },
+    "location": {
+        "Espada": [
+            "Salvaje: Ruta 3, Mina de Galar, Gorro del Gigante y Ribera de Pistón",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste. Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna ",
+            "Curri: Mina de Galar"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 3, Mina de Galar, Gorro del Gigante y Ribera de Pistón",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste. Nidos en Campo Deslizante , Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna ",
+            "Curri: Mina de Galar"
+        ],
+        "Diamante Brillante": [
+            "Rolycoly no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Rolycoly no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Rolycoly no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Espada": "Fue descubierto hace aproximadamente 400 años en una mina. Casi la totalidad de su cuerpo presenta una composición igual a la del carbón.",
+        "Escudo": "Recorre incluso los caminos más impracticables y pedregosos como si de un monociclo se tratase. La combustión de carbón es su fuente vital.",
+        "Diamante Brillante": "Rolycoly no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Rolycoly no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Rolycoly no aparece en Leyendas Pokémon: Arceus."
+    }
+}
