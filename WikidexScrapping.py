@@ -106,10 +106,10 @@ class Pokemon():
                 "pokedex":self.pkdex_info
                 }
 class Scrapping():
-    def __init__(self,list):
+    def __init__(self,list,save_images=False):
         for pokemon_data in list:
             pkmn=Pokemon(pokemon_data)
-            #self.save_image(pkmn.num,pkmn.name)
+            if save_images: self.save_image(pkmn.num,pkmn.name)
             self.save_json(pkmn)
             #pprint(pkmn.data())
     def save_json(self,pokemon):
