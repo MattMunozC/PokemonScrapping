@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import requests as r
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
+import bs4
 from bs4 import BeautifulSoup as bs
 from pprint import pprint
 import json
@@ -48,12 +49,12 @@ EXCEPTED_POKEMON=["Mew","Typhlosion","Deoxys"]
 #Special_case are pokemon that have special characteristics that their tables are in a different position
 SPECIAL_CASE={"Ditto":3,"Cinderace":2,"Inteleon":2,"Sinistea":2,"Milcery":2}
 BASE_URL="https://www.wikidex.net/"
-BASE_DIR=path.join(getcwd(),"/json_files/español")
+BASE_DIR=getcwd()
 class RequestQuery():
     def __init__(self,url:str):
         url_request=r.get(url,verify=False).text
         self.parsed_request=bs(url_request,"html.parser")
-    def table_query(self,name:str)->bs.element.ResultSet:
+    def table_query(self,name:str)->bs4.element.ResultSet:
         return self.parsed_request.find_all("table",{"class": name})
     def tr_query(self,subquery):
         return self.parsed_request.find_all("tr",{"title":subquery})[0].find_all("a")[1::]
@@ -150,7 +151,7 @@ class Scrapping():
             #pprint(pkmn.data())
     def save_json(self,pokemon):
         print(f"saving {pokemon.name}...")
-        with open(f"{BASE_DIR}\\json_files\\{pokemon.num}-{pokemon.name}.json","w",encoding="utf-8") as f:
+        with open(f"{BASE_DIR}\\json_files\\Español\\{pokemon.num}-{pokemon.name}.json","w",encoding="utf-8") as f:
             f.write(json.dumps(pokemon.data(),indent=4,ensure_ascii=False))
             f.close()
         print(f"{pokemon.name} saved!")
