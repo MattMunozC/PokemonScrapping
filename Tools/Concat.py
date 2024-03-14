@@ -19,7 +19,8 @@ def concat(*args):
     __concat(args[0][0],args[1])
 @open_file
 def concat_all(*args):
-    __concat(args[0][0],args[1])
+    for i in range(1,len(gen)+1):
+        __concat(i,args[1])
 def __append(f, files:list,current_path:str)->None:
     for i in files:
         with open(f"{current_path}\\{i}","r",encoding='utf-8') as pkmn:
