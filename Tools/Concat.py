@@ -17,6 +17,7 @@ def __concat(gen_num,f)->None:
 @open_file
 def concat(*args):
     __concat(args[0][0],args[1])
+@open_file
 def concat_all(*args):
     __concat(args[0][0],args[1])
 def __append(f, files:list,current_path:str)->None:
