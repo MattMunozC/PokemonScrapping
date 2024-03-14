@@ -1,0 +1,99 @@
+{
+    "dex number": "0586",
+    "pokemon name": "Sawsbuck",
+    "types": [
+        " normal",
+        " planta"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Herbívoro"
+    ],
+    "hidden abilities": [
+        "Dicha"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 100,
+        "def": 70,
+        "atk esp": 60,
+        "def esp": 70,
+        "speed": 95
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Torre Duodraco (exterior)",
+            "Evolucionar: a Deerling (nivel 34)"
+        ],
+        "Blanco": [
+            "Salvaje: Torre Duodraco (exterior)",
+            "Evolucionar: a Deerling (nivel 34)"
+        ],
+        "Negro 2": [
+            "Salvaje: Torre Duodraco (exterior)",
+            "Evolucionar: a Deerling (nivel 34)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Torre Duodraco (exterior)",
+            "Evolucionar: a Deerling (nivel 34)"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo planta"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo planta"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Deerling (nivel 34)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Deerling (nivel 34)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Sawsbuck no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Sawsbuck no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Sawsbuck no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sawsbuck no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Sawsbuck no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Cambia de morada dependiendo de las estaciones. Observando sus cuernos, la gente sabe cuándo estas van a cambiar.",
+        "Blanco": "La vegetación de sus cuernos cambia según la estación. El líder de la manada es aquel con los cuernos más majestuosos.",
+        "Negro 2": "Migra con el cambio de estación, por lo que hay quien considera a Sawsbuck el heraldo de la primavera.",
+        "Blanco 2": "Migra con el cambio de estación, por lo que hay quien considera a Sawsbuck el heraldo de la primavera.",
+        "Pokémon X": "Cambia de morada dependiendo de las estaciones. Observando sus cuernos, la gente sabe cuándo estas van a cambiar.",
+        "Pokémon Y": "Migra con el cambio de estación, por lo que hay quien considera a Sawsbuck el heraldo de la primavera.",
+        "Rubí Omega": "Cambia de morada dependiendo de las estaciones. Observando sus cuernos, la gente sabe cuándo estas van a cambiar.",
+        "Zafiro Alfa": "Migra con el cambio de estación, por lo que hay quien considera a Sawsbuck el heraldo de la primavera.",
+        "Sol": "No hay entrada de Sawsbuck en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Sawsbuck en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Sawsbuck en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Sawsbuck en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Sawsbuck no aparece en Pokémon Espada.",
+        "Escudo": "Sawsbuck no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Sawsbuck no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sawsbuck no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sawsbuck no aparece en Leyendas Pokémon: Arceus."
+    }
+}

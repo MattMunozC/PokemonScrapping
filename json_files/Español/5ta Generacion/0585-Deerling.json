@@ -1,0 +1,101 @@
+{
+    "dex number": "0585",
+    "pokemon name": "Deerling",
+    "types": [
+        " normal",
+        " planta"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Herbívoro"
+    ],
+    "hidden abilities": [
+        "Dicha"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 60,
+        "def": 50,
+        "atk esp": 40,
+        "def esp": 50,
+        "speed": 75
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 6, Ruta 7 y Torre Duodraco"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 6, Ruta 7 y Torre Duodraco"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 6 y Ruta 7",
+            "Regalo: Lo entrega un científico en el Centro de Estudios Estacionales con su habilidad oculta, dicha (solo uno)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 6 y Ruta 7",
+            "Regalo: Lo entrega un científico en el Centro de Estudios Estacionales con su habilidad oculta, dicha (solo uno)"
+        ],
+        "Pokémon X": [
+            "Criar: de Sawsbuck (forma primavera)",
+            "Poké Trasladador: transferir desde la quinta generación (resto de formas)"
+        ],
+        "Pokémon Y": [
+            "Criar: de Sawsbuck (forma primavera)",
+            "Poké Trasladador: transferir desde la quinta generación (resto de formas)"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 117, usando el DexNav después de tener la Pokédex Nacional (forma primavera)",
+            "Poké Trasladador: transferir desde la quinta generación (resto de formas)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 117, usando el DexNav después de tener la Pokédex Nacional (forma primavera)",
+            "Poké Trasladador: transferir desde la quinta generación (resto de formas)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Deerling no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Deerling no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Deerling no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Deerling no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Deerling no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "El color y el aroma de su pelaje cambian según la vegetación de su entorno. Si lo amenazan se esconde en el follaje.",
+        "Blanco": "Durante los cambios de estación, su pelaje y olor cambian. Esto anuncia el comienzo de una estación.",
+        "Negro 2": "El color de su cuerpo cambia no solo con las estaciones, sino también con los cambios de humedad y temperatura.",
+        "Blanco 2": "El color de su cuerpo cambia no solo con las estaciones, sino también con los cambios de humedad y temperatura.",
+        "Pokémon X": "El color de su cuerpo cambia no solo con las estaciones, sino también con los cambios de humedad y temperatura.",
+        "Pokémon Y": "Durante los cambios de estación, su pelaje y olor cambian. Esto anuncia el comienzo de una estación.",
+        "Rubí Omega": "El color de su cuerpo cambia no solo con las estaciones, sino también con los cambios de humedad y temperatura.",
+        "Zafiro Alfa": "Durante los cambios de estación, su pelaje y olor cambian. Esto anuncia el comienzo de una estación.",
+        "Sol": "No hay entrada de Deerling en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Deerling en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Deerling en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Deerling en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Deerling no aparece en Pokémon Espada.",
+        "Escudo": "Deerling no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Deerling no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Deerling no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Deerling no aparece en Leyendas Pokémon: Arceus."
+    }
+}

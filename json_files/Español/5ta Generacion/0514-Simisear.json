@@ -1,0 +1,93 @@
+{
+    "dex number": "0514",
+    "pokemon name": "Simisear",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Mar llamas"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 98,
+        "def": 63,
+        "atk esp": 98,
+        "def esp": 63,
+        "speed": 101
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Pansear (piedra fuego)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Pansear (piedra fuego)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Pansear (piedra fuego)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Pansear (piedra fuego)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Pansear (piedra fuego)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Pansear (piedra fuego)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Simisear no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Simisear no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Simisear no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Simisear no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Simisear no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Le pirran los dulces, pues le aportan la energía que necesita para avivar las llamas de su interior.",
+        "Blanco": "Achicharra a sus enemigos desprendiendo llamas por la cola y la cabeza, fruto de su desmesurado calor interno.",
+        "Negro 2": "Cuando se emociona, echa chispas por la cola y por la cabeza, y calienta su cuerpo. Por alguna razón le encantan los dulces.",
+        "Blanco 2": "Cuando se emociona, echa chispas por la cola y por la cabeza, y calienta su cuerpo. Por alguna razón le encantan los dulces.",
+        "Pokémon X": "Achicharra a sus enemigos desprendiendo llamas por la cola y la cabeza, fruto de su desmesurado calor interno.",
+        "Pokémon Y": "Cuando se emociona, echa chispas por la cola y por la cabeza, y calienta su cuerpo. Por alguna razón le encantan los dulces.",
+        "Rubí Omega": "Achicharra a sus enemigos desprendiendo llamas por la cola y la cabeza, fruto de su desmesurado calor interno.",
+        "Zafiro Alfa": "Cuando se emociona, echa chispas por la cola y por la cabeza, y calienta su cuerpo. Por alguna razón le encantan los dulces.",
+        "Sol": "No hay entrada de Simisear en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Simisear en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Simisear en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Simisear en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Simisear no aparece en Pokémon Espada.",
+        "Escudo": "Simisear no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Simisear no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Simisear no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Simisear no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "dex number": "0524",
+    "pokemon name": "Roggenrola",
+    "types": [
+        " roca"
+    ],
+    "abilities": [
+        "Robustez",
+        "Armadura frágil"
+    ],
+    "hidden abilities": [
+        "Poder arena"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 75,
+        "def": 85,
+        "atk esp": 25,
+        "def esp": 25,
+        "speed": 15
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Cueva Manantial"
+        ],
+        "Blanco": [
+            "Salvaje: Cueva Manantial"
+        ],
+        "Negro 2": [
+            "Salvaje: Pasadizo Ancestral"
+        ],
+        "Blanco 2": [
+            "Salvaje: Pasadizo Ancestral"
+        ],
+        "Pokémon X": [
+            "Salvaje: Cueva Reflejos"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva Reflejos"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Senda Ígnea"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Senda Ígnea"
+        ],
+        "Sol": [
+            "Salvaje: Colina Dequilate"
+        ],
+        "Luna": [
+            "Salvaje: Colina Dequilate"
+        ],
+        "Ultrasol": [
+            "Salvaje: Colina Dequilate"
+        ],
+        "Ultraluna": [
+            "Salvaje: Colina Dequilate"
+        ],
+        "Espada": [
+            "Salvaje: Mina de Galar, Afueras de Pistón, Pradera Radiante y Llanura Pétrea.",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste.",
+            "Curri: Mina de Galar y Afueras de Pistón"
+        ],
+        "Escudo": [
+            "Salvaje: Mina de Galar, Afueras de Pistón, Pradera Radiante y Llanura Pétrea.",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste.",
+            "Curri: Mina de Galar y Afueras de Pistón"
+        ],
+        "Diamante Brillante": [
+            "Roggenrola no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Roggenrola no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Roggenrola no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Su oreja tiene forma hexagonal. Su cuerpo fue comprimido bajo tierra. Por eso es duro como el acero.",
+        "Blanco": "Descubierto en unas grietas generadas por un terremoto hace 100 años. Tiene un núcleo energético en su cuerpo.",
+        "Negro 2": "El agujero hexagonal es su oído, y tiene el hábito de caminar en la dirección de donde provienen los sonidos.",
+        "Blanco 2": "El agujero hexagonal es su oído, y tiene el hábito de caminar en la dirección de donde provienen los sonidos.",
+        "Pokémon X": "Su oreja tiene forma hexagonal. Su cuerpo fue comprimido bajo tierra. Por eso es duro como el acero.",
+        "Pokémon Y": "Descubierto en unas grietas generadas por un terremoto hace 100 años. Tiene un núcleo energético en su cuerpo.",
+        "Rubí Omega": "Su oreja tiene forma hexagonal. Su cuerpo fue comprimido bajo tierra. Por eso es duro como el acero.",
+        "Zafiro Alfa": "Descubierto en unas grietas generadas por un terremoto hace 100 años. Tiene un núcleo energético en su cuerpo.",
+        "Sol": "Nació en las profundidades subterráneas. Siempre se compara con sus compañeros Geodude y Carbink para ver quién es más duro.",
+        "Luna": "La cavidad hexagonal es su oído. Camina hacia donde se emite cualquier sonido, pero si este cesa pierde el equilibrio y cae al suelo.",
+        "Ultrasol": "El agujero con forma de hexágono es su oído, y en su interior cuenta con un núcleo de energía, por lo que se enfurece si meten la mano dentro.",
+        "Ultraluna": "Fue descubierto entre las grietas de una falla. Su cuerpo está compuesto por una tierra que data de cientos de años.",
+        "Espada": "Su cuerpo es casi tan duro como el acero, pero al parecer puede reblandecerse levemente si permanece sumergido en agua mucho tiempo.",
+        "Escudo": "Se dirige hacia cualquier sonido que perciba. Es ligeramente cálido al tacto, debido al efecto de su núcleo energético.",
+        "Diamante Brillante": "Roggenrola no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Roggenrola no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Roggenrola no aparece en Leyendas Pokémon: Arceus."
+    }
+}

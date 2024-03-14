@@ -1,0 +1,95 @@
+{
+    "dex number": "0563",
+    "pokemon name": "Cofagrigus",
+    "types": [
+        " fantasma"
+    ],
+    "abilities": [
+        "Momia"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 58,
+        "atk": 50,
+        "def": 145,
+        "atk esp": 95,
+        "def esp": 105,
+        "speed": 30
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Castillo Ancestral",
+            "Evolucionar: a Yamask (nivel 34)"
+        ],
+        "Blanco": [
+            "Salvaje: Castillo Ancestral",
+            "Evolucionar: a Yamask (nivel 34)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Yamask (nivel 34)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Yamask (nivel 34)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Espejismo"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Evolucionar: a Yamask (nivel 34)"
+        ],
+        "Escudo": [
+            "Evolucionar: a Yamask (nivel 34)"
+        ],
+        "Diamante Brillante": [
+            "Cofagrigus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cofagrigus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cofagrigus no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Se comenta que engulle a todo humano que se le acerca y lo momifica. Su comida favorita son las pepitas de oro.",
+        "Blanco": "Se hace pasar por un ataúd y castiga a los ladrones de tumbas. Tiene el cuerpo bañado en oro puro.",
+        "Negro 2": "Atrapan en su interior a los ladrones de tumbas que los confunden con ataúdes de verdad.",
+        "Blanco 2": "Atrapan en su interior a los ladrones de tumbas que los confunden con ataúdes de verdad.",
+        "Pokémon X": "Se comenta que engulle a todo humano que se le acerca y lo momifica. Su comida favorita son las pepitas de oro.",
+        "Pokémon Y": "Atrapan en su interior a los ladrones de tumbas que los confunden con ataúdes de verdad.",
+        "Rubí Omega": "Se comenta que engulle a todo humano que se le acerca y lo momifica. Su comida favorita son las pepitas de oro.",
+        "Zafiro Alfa": "Atrapan en su interior a los ladrones de tumbas que los confunden con ataúdes de verdad.",
+        "Sol": "No hay entrada de Cofagrigus en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Cofagrigus en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Cofagrigus en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Cofagrigus en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Su cuerpo es de rutilante oro. Se dice que ya no recuerda nada de su pasado como humano.",
+        "Escudo": "Aparece representado en los muros de antiguas sepulturas como símbolo de riqueza de reyes de antaño.",
+        "Diamante Brillante": "Cofagrigus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cofagrigus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cofagrigus no aparece en Leyendas Pokémon: Arceus."
+    }
+}

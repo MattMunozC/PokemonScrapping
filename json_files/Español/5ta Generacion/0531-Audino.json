@@ -1,0 +1,98 @@
+{
+    "dex number": "0531",
+    "pokemon name": "Audino",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Alma cura",
+        "Regeneración"
+    ],
+    "hidden abilities": [
+        "Zoquete"
+    ],
+    "stats": {
+        "hp": 103,
+        "atk": 60,
+        "def": 86,
+        "atk esp": 60,
+        "def esp": 86,
+        "speed": 50
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Rutas 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 18, Solar de los Sueños, Bosque Azulejo, Almacenes Frigoríficos, Torre Duodraco, Puente Villa, Laboratorio P+P, Boquete Gigante y Santuario Abundancia (aparecen cuando se mueve la hierba alta)"
+        ],
+        "Blanco": [
+            "Salvaje: Rutas 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 18, Solar de los Sueños, Bosque Azulejo, Almacenes Frigoríficos, Torre Duodraco, Puente Villa, Laboratorio P+P, Boquete Gigante y Santuario Abundancia (aparecen cuando se mueve la hierba alta)"
+        ],
+        "Negro 2": [
+            "Salvaje: Rutas 1, 2, 3, 5, 6, 7, 9, 11, 12, 13, 14, 15, 16, 20, 22, 23, Rancho Ocre, Polígono Hormigón, Solar de Ciudad Porcelana, Solar de los Sueños, Bosque Azulejo, Torre Duodraco, Puente Villa, Laboratorio P+P, Boquete Gigante, Calle Victoria, Montaña Reversia y Santuario Abundancia (aparecen cuando se mueve la hierba alta)",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco 2": [
+            "Salvaje: Rutas 1, 2, 3, 5, 6, 7, 9, 11, 12, 13, 14, 15, 16, 20, 22, 23, Rancho Ocre, Polígono Hormigón, Solar de Ciudad Porcelana, Solar de los Sueños, Bosque Azulejo, Torre Duodraco, Puente Villa, Laboratorio P+P, Boquete Gigante, Calle Victoria, Montaña Reversia y Santuario Abundancia (aparecen cuando se mueve la hierba alta)",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 6 (arbustos)",
+            "Especial: Safari Amistad, en algunos safaris de tipo normal"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 6 (arbustos)",
+            "Especial: Safari Amistad, en algunos safaris de tipo normal"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Isla Espejismo, Monte Espejismo y Bosque Espejismo."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Isla Espejismo, Monte Espejismo y Bosque Espejismo."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde."
+        ],
+        "Ultraluna": [
+            "Especial: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde."
+        ],
+        "Espada": [
+            "Salvaje: Campo Deslizante, Campo Bajocero, Desfiladero Nevado, Encrucijada Tresvías, Gruta del Lago, Grutas Sonamar, Lago Bolaguna, Lecho del Gigante, Mar Gélido, Senda Blancacima, Suela del Gigante, Túnel Ascensión y Viejo Cementerio. "
+        ],
+        "Escudo": [
+            "Salvaje: Campo Deslizante, Campo Bajocero, Desfiladero Nevado, Encrucijada Tresvías, Gruta del Lago, Grutas Sonamar, Lago Bolaguna, Lecho del Gigante, Mar Gélido, Senda Blancacima, Suela del Gigante, Túnel Ascensión y Viejo Cementerio. "
+        ],
+        "Diamante Brillante": [
+            "Audino no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Audino no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Audino no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Al tocar a alguien con las antenas de sus orejas, conoce su estado de ánimo y de salud por los latidos del corazón.",
+        "Blanco": "Su sentido del oído es infalible: capta cualquier ruido de su alrededor y hace las veces de radar.",
+        "Negro 2": "Con las antenas de sus oídos, perciben el estado de un rival o predicen cuándo va a eclosionar un Huevo Pokémon.",
+        "Blanco 2": "Con las antenas de sus oídos, perciben el estado de un rival o predicen cuándo va a eclosionar un Huevo Pokémon.",
+        "Pokémon X": "Con las antenas de sus oídos, perciben el estado de un rival o predicen cuándo va a eclosionar un Huevo Pokémon.",
+        "Pokémon Y": "Al tocar a alguien con las antenas de sus orejas, conoce su estado de ánimo y de salud por los latidos del corazón.",
+        "Rubí Omega": "Con las antenas de sus oídos, perciben el estado de un rival o predicen cuándo va a eclosionar un Huevo Pokémon.",
+        "Zafiro Alfa": "Al tocar a alguien con las antenas de sus orejas, conoce su estado de ánimo y de salud por los latidos del corazón.",
+        "Sol": "No hay entrada de Audino en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Audino en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Audino en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Audino en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Su sentido del oído es extraordinario. Puede percibir el sonido de una piedrecita rodando a 2 km de distancia.",
+        "Escudo": "Un Pokémon gentil que es capaz de comprender los sentimientos y averiguar el estado de salud de todo aquel que toque con sus antenas.",
+        "Diamante Brillante": "Audino no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Audino no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Audino no aparece en Leyendas Pokémon: Arceus."
+    }
+}

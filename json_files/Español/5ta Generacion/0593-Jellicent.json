@@ -1,0 +1,111 @@
+{
+    "dex number": "0593",
+    "pokemon name": "Jellicent",
+    "types": [
+        " agua",
+        " fantasma"
+    ],
+    "abilities": [
+        "Absorbe agua",
+        "Cuerpo maldito"
+    ],
+    "hidden abilities": [
+        "Humedad"
+    ],
+    "stats": {
+        "hp": 100,
+        "atk": 60,
+        "def": 70,
+        "atk esp": 85,
+        "def esp": 105,
+        "speed": 60
+    },
+    "location": {
+        "Negro": [
+            "Surfeando (remolinos en el agua): Ruta 4, Ruta 17, Ruta 18, Laboratorio P+P y Ciudad Fayenza",
+            "Evolucionar: a Frillish (nivel 40)"
+        ],
+        "Blanco": [
+            "Surfeando (remolinos en el agua): Ruta 4, Ruta 17, Ruta 18, Laboratorio P+P y Ciudad Fayenza",
+            "Evolucionar: a Frillish (nivel 40)"
+        ],
+        "Negro 2": [
+            "Surfeando (remolinos en el agua): Ruta 4, Ruta 13, Ruta 17, Ruta 18, Ruta 21, Ciudad Hormigón, Polígono Hormigón, Bahía Arenisca, Gruta Marina, Laboratorio P+P y Ciudad Marga",
+            "Evolucionar: a Frillish (nivel 40)",
+            "Especial: Bahía Arenisca todos los lunes (macho y con la habilidad oculta humedad)"
+        ],
+        "Blanco 2": [
+            "Surfeando (remolinos en el agua): Ruta 4, Ruta 13, Ruta 17, Ruta 18, Ruta 21, Ciudad Hormigón, Polígono Hormigón, Bahía Arenisca, Gruta Marina, Laboratorio P+P y Ciudad Marga",
+            "Evolucionar: a Frillish (nivel 40)",
+            "Especial: Bahía Arenisca todos los jueves (hembra y con la habilidad oculta humedad)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Frillish (nivel 40)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Frillish (nivel 40)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Frillish (nivel 40)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Frillish (nivel 40)"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 9, Valle Entrepuentes, Lago Axew (este), Lago Milotic (norte), Lago del Enfado, Playa Desafío , Bahía Circular , Mar Gimnástico , Mar Andana , Mar Islejos , Mar Meloso  e Isla Melosa ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Antigua Atalaya, nido junto a la pared, Espejo del Gigante, nido en la laguna, Lago Axew (oeste), nido en el agua (oeste) y Llanura Pétrea, nido al noreste junto a una pared 2. Nidos en Playa Desafío , Cueva Tenacidad  y Mar Andana ",
+            "Evolucionar: a Frillish (nivel 40)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 9, Valle Entrepuentes, Lago Axew (este), Lago Milotic (norte), Lago del Enfado, Playa Desafío , Bahía Circular , Mar Gimnástico , Mar Andana , Mar Islejos , Mar Meloso  e Isla Melosa ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Antigua Atalaya, nido junto a la pared, Espejo del Gigante, nido en la laguna, Lago Axew (oeste), nido en el agua (oeste) y Llanura Pétrea, nido al noreste junto a una pared 2. Nidos en Playa Desafío , Cueva Tenacidad  y Mar Andana ",
+            "Evolucionar: a Frillish (nivel 40)"
+        ],
+        "Diamante Brillante": [
+            "Jellicent no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Jellicent no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Jellicent no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Jellicent hunde los barcos que acaban perdidos en su territorio y absorbe la energía vital de su tripulación.",
+        "Blanco": "Avanza expulsando violentamente el agua de mar absorbida anteriormente. Le encanta la energía vital.",
+        "Negro 2": "Su cuerpo se compone de agua salada. Dicen que ha construido un palacio en el fondo del mar con restos de barcos.",
+        "Blanco 2": "Su cuerpo se compone de agua salada. Dicen que ha construido un palacio en el fondo del mar con restos de barcos.",
+        "Pokémon X": "Su cuerpo se compone de agua salada. Dicen que ha construido un palacio en el fondo del mar con restos de barcos.",
+        "Pokémon Y": "Jellicent hunde los barcos que acaban perdidos en su territorio y absorbe la energía vital de su tripulación.",
+        "Rubí Omega": "Su cuerpo se compone de agua salada. Dicen que ha construido un palacio en el fondo del mar con restos de barcos.",
+        "Zafiro Alfa": "Jellicent hunde los barcos que acaban perdidos en su territorio y absorbe la energía vital de su tripulación.",
+        "Sol": "No hay entrada de Jellicent en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Jellicent en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Se dedica a perseguir petroleros y cruceros, al acecho de presas que arrastrar al fondo del mar.",
+        "Ultraluna": "Corre el rumor de que este Pokémon, tan temido por los marineros, es capaz de arrastrar a su presa al fondo del mar.",
+        "Espada": "Su cuerpo está compuesto en su mayor parte de agua salada. Crea su guarida con navíos hundidos.",
+        "Escudo": "Las noches de luna llena, bancos enteros de Jellicent emergen a la superficie y aguardan la llegada de alguna presa incauta.",
+        "Diamante Brillante": "Jellicent no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Jellicent no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Jellicent no aparece en Leyendas Pokémon: Arceus."
+    }
+}

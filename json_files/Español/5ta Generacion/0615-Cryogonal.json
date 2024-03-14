@@ -1,0 +1,95 @@
+{
+    "dex number": "0615",
+    "pokemon name": "Cryogonal",
+    "types": [
+        " hielo"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 80,
+        "atk": 50,
+        "def": 50,
+        "atk esp": 95,
+        "def esp": 135,
+        "speed": 105
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Monte Tuerca"
+        ],
+        "Blanco": [
+            "Salvaje: Monte Tuerca"
+        ],
+        "Negro 2": [
+            "Salvaje: Monte Tuerca"
+        ],
+        "Blanco 2": [
+            "Salvaje: Monte Tuerca"
+        ],
+        "Pokémon X": [
+            "Salvaje: Gruta Helada"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Gruta Helada"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Campo Deslizante , Campo Bajocero , Desfiladero Nevado , Encrucijada Tresvías , Lago Bolaguna , Lecho del Gigante , Mar Gélido , Suela del Gigante  y Viejo Cementerio ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante  y Mar Gélido "
+        ],
+        "Escudo": [
+            "Salvaje: Campo Deslizante , Campo Bajocero , Desfiladero Nevado , Encrucijada Tresvías , Lago Bolaguna , Lecho del Gigante , Mar Gélido , Suela del Gigante  y Viejo Cementerio ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Lecho del Gigante  y Mar Gélido "
+        ],
+        "Diamante Brillante": [
+            "Cryogonal no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cryogonal no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cryogonal no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Se convierte en vapor y desaparece cuando sube su temperatura corporal. Cuando baja, vuelve a hacerse de hielo.",
+        "Blanco": "Nació entre nubes de nieve. Atrapa a sus presas con una cadena hecha de hielo cristalizado.",
+        "Negro 2": "Usa cadenas de cristales de hielo para atrapar a sus presas y congelarlas a temperaturas de hasta -100°.",
+        "Blanco 2": "Usa cadenas de cristales de hielo para atrapar a sus presas y congelarlas a temperaturas de hasta -100°.",
+        "Pokémon X": "Nació entre nubes de nieve. Atrapa a sus presas con una cadena hecha de hielo cristalizado.",
+        "Pokémon Y": "Usa cadenas de cristales de hielo para atrapar a sus presas y congelarlas a temperaturas de hasta -100°.",
+        "Rubí Omega": "Nació entre nubes de nieve. Atrapa a sus presas con una cadena hecha de hielo cristalizado.",
+        "Zafiro Alfa": "Usa cadenas de cristales de hielo para atrapar a sus presas y congelarlas a temperaturas de hasta -100°.",
+        "Sol": "No hay entrada de Cryogonal en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Cryogonal en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Cryogonal en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Cryogonal en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Se vale de sus cadenas de hielo para congelar a todo aquel que se cruza en su camino y llevárselo a un lugar desconocido.",
+        "Escudo": "Cuando aumenta su temperatura corporal, se convierte en vapor, por lo que es muy difícil de avistar durante el verano.",
+        "Diamante Brillante": "Cryogonal no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cryogonal no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cryogonal no aparece en Leyendas Pokémon: Arceus."
+    }
+}

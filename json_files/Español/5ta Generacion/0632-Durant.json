@@ -1,0 +1,103 @@
+{
+    "dex number": "0632",
+    "pokemon name": "Durant",
+    "types": [
+        " bicho",
+        " acero"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Entusiasmo"
+    ],
+    "hidden abilities": [
+        "Pereza"
+    ],
+    "stats": {
+        "hp": 58,
+        "atk": 109,
+        "def": 112,
+        "atk esp": 48,
+        "def esp": 48,
+        "speed": 109
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Calle Victoria"
+        ],
+        "Blanco": [
+            "Salvaje: Calle Victoria"
+        ],
+        "Negro 2": [
+            "Salvaje: Monte Tuerca, Túnel Yakón y Ruinas Subterráneas",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco 2": [
+            "Salvaje: Monte Tuerca, Túnel Yakón y Ruinas Subterráneas",
+            "Dream World: Monte Escarpado"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 18 y Cueva Desenlace"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 18 y Cueva Desenlace"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 6, Espejo del Gigante, Lago del Enfado, Lecho del Gigante , Viejo Cementerio  y Encrucijada Tresvías ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte. Con posible habilidad oculta: Arboleda Claroscuro, nido en el centro, Pradera Radiante, nido en la zona de pasto al este y Valle Entrepuentes, nido al este junto a la pared. Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Mar Gélido ",
+            "Curri: Ruta 6"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 6, Espejo del Gigante, Lago del Enfado, Lecho del Gigante , Viejo Cementerio  y Encrucijada Tresvías ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte. Con posible habilidad oculta: Arboleda Claroscuro, nido en el centro, Pradera Radiante, nido en la zona de pasto al este y Valle Entrepuentes, nido al este junto a la pared. Nidos en Lecho del Gigante , Desfiladero Nevado , Senda Blancacima  y Mar Gélido ",
+            "Curri: Ruta 6"
+        ],
+        "Diamante Brillante": [
+            "Durant no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Durant no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Durant no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Llevan una armadura de acero. Se defienden en grupo para contrarrestar a sus depredadores, los Heatmor.",
+        "Blanco": "Abre agujeros en las montañas. Los intrincados túneles son obras laberínticas de los Durant.",
+        "Negro 2": "Actúan en grupo para expulsar de sus colonias a los Heatmor, sus depredadores naturales.",
+        "Blanco 2": "Actúan en grupo para expulsar de sus colonias a los Heatmor, sus depredadores naturales.",
+        "Pokémon X": "Actúan en grupo para expulsar de sus colonias a los Heatmor, sus depredadores naturales.",
+        "Pokémon Y": "Llevan una armadura de acero. Se defienden en grupo para contrarrestar a sus depredadores, los Heatmor.",
+        "Rubí Omega": "Actúan en grupo para expulsar de sus colonias a los Heatmor, sus depredadores naturales.",
+        "Zafiro Alfa": "Llevan una armadura de acero. Se defienden en grupo para contrarrestar a sus depredadores, los Heatmor.",
+        "Sol": "No hay entrada de Durant en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Durant en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Durant en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Durant en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Deposita sus huevos en la parte más profunda del nido. Si un Heatmor lo ataca, se defiende mordiéndolo con sus enormes mandíbulas.",
+        "Escudo": "Con sus grandes mandíbulas puede destrozar incluso rocas. Lucha en grupo para proteger sus larvas del ataque de los Sandaconda.",
+        "Diamante Brillante": "Durant no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Durant no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Durant no aparece en Leyendas Pokémon: Arceus."
+    }
+}

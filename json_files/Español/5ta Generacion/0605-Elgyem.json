@@ -1,0 +1,102 @@
+{
+    "dex number": "0605",
+    "pokemon name": "Elgyem",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Telepatía",
+        "Sincronía"
+    ],
+    "hidden abilities": [
+        "Cálculo final"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 55,
+        "def": 55,
+        "atk esp": 85,
+        "def esp": 55,
+        "speed": 30
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Torre de los Cielos"
+        ],
+        "Blanco": [
+            "Salvaje: Torre de los Cielos"
+        ],
+        "Negro 2": [
+            "Salvaje: Torre de los Cielos",
+            "Dream World: Villa Antigua"
+        ],
+        "Blanco 2": [
+            "Salvaje: Torre de los Cielos",
+            "Dream World: Villa Antigua"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 121 y Monte Pírico, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 121 y Monte Pírico, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Pico Hokulani"
+        ],
+        "Ultraluna": [
+            "Salvaje: Pico Hokulani"
+        ],
+        "Espada": [
+            "Salvaje: Ribera de Pistón y Valle Entrepuentes",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol. Nidos en Humedal Frescor , Playa Desafío , Llano Entrenamiento  y Mar Andana "
+        ],
+        "Escudo": [
+            "Salvaje: Ribera de Pistón y Valle Entrepuentes",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol. Nidos en Humedal Frescor , Playa Desafío , Llano Entrenamiento  y Mar Andana "
+        ],
+        "Diamante Brillante": [
+            "Elgyem no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Elgyem no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Elgyem no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Posee un gran poder psíquico. Lo usa para comprimir el cerebro del enemigo y ocasionarle dolores de cabeza.",
+        "Blanco": "Apareció de la nada en un lejano desierto hace 50 años. Hasta entonces nadie lo había visto.",
+        "Negro 2": "Según cuentan los rumores, procede de un desierto donde hace 50 años se estrelló un ovni.",
+        "Blanco 2": "Según cuentan los rumores, procede de un desierto donde hace 50 años se estrelló un ovni.",
+        "Pokémon X": "Posee un gran poder psíquico. Lo usa para comprimir el cerebro del enemigo y ocasionarle dolores de cabeza.",
+        "Pokémon Y": "Según cuentan los rumores, procede de un desierto donde hace 50 años se estrelló un ovni.",
+        "Rubí Omega": "Posee un gran poder psíquico. Lo usa para comprimir el cerebro del enemigo y ocasionarle dolores de cabeza.",
+        "Zafiro Alfa": "Según cuentan los rumores, procede de un desierto donde hace 50 años se estrelló un ovni.",
+        "Sol": "No hay entrada de Elgyem en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Elgyem en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Es capaz de usar un formidable poder psíquico. Muchos creen haber avistado extraterrestres cuando, en realidad, lo que vieron eran Elgyem.",
+        "Ultraluna": "Pokémon envuelto en un halo de misterio cuya aparición, 50 años atrás, coincide curiosamente con la caída de un ovni.",
+        "Espada": "Cuando se halla junto a un televisor, la pantalla muestra imágenes de extraños paisajes. Se cree que corresponden a su lugar de origen.",
+        "Escudo": "Fue descubierto hace aproximadamente 50 años. Posee un cerebro muy desarrollado que le otorga poderes psíquicos.",
+        "Diamante Brillante": "Elgyem no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Elgyem no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Elgyem no aparece en Leyendas Pokémon: Arceus."
+    }
+}

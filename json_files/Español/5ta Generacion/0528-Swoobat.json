@@ -1,0 +1,97 @@
+{
+    "dex number": "0528",
+    "pokemon name": "Swoobat",
+    "types": [
+        " psíquico",
+        " volador"
+    ],
+    "abilities": [
+        "Ignorante",
+        "Zoquete"
+    ],
+    "hidden abilities": [
+        "Simple"
+    ],
+    "stats": {
+        "hp": 67,
+        "atk": 57,
+        "def": 55,
+        "atk esp": 77,
+        "def esp": 55,
+        "speed": 114
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Woobat (Amistad + 1 nivel)."
+        ],
+        "Blanco": [
+            "Evolucionar: a Woobat (Amistad + 1 nivel)."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Woobat (Amistad + 1 nivel)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Woobat (Amistad + 1 nivel)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Woobat (Amistad + 1 nivel)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Woobat (Amistad + 1 nivel)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste y Ribera de Pistón, nido al este.",
+            "Evolucionar: a Woobat (Amistad + 1 nivel)."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste y Ribera de Pistón, nido al este.",
+            "Evolucionar: a Woobat (Amistad + 1 nivel)."
+        ],
+        "Diamante Brillante": [
+            "Swoobat no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Swoobat no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Swoobat no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Dispara ondas de distintas frecuencias por su nariz. También emite ondas capaces de destrozar rocas.",
+        "Blanco": "Todos rebosan de alborozo cuando perciben las ondas ultrasónicas emitidas por el macho para cortejar a la hembra.",
+        "Negro 2": "Cuando emite ondas ultrasónicas, que incluso pueden reventar el cemento, agita su cola con vehemencia.",
+        "Blanco 2": "Cuando emite ondas ultrasónicas, que incluso pueden reventar el cemento, agita su cola con vehemencia.",
+        "Pokémon X": "Cuando emite ondas ultrasónicas, que incluso pueden reventar el cemento, agita su cola con vehemencia.",
+        "Pokémon Y": "Todos rebosan de alborozo cuando perciben las ondas ultrasónicas emitidas por el macho para cortejar a la hembra.",
+        "Rubí Omega": "Cuando emite ondas ultrasónicas, que incluso pueden reventar el cemento, agita su cola con vehemencia.",
+        "Zafiro Alfa": "Todos rebosan de alborozo cuando perciben las ondas ultrasónicas emitidas por el macho para cortejar a la hembra.",
+        "Sol": "No hay entrada de Swoobat en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Swoobat en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Swoobat en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Swoobat en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Tras emitir sus potentísimas ondas, queda tan exhausto que es incapaz de volar durante un tiempo.",
+        "Escudo": "En algunas regiones se venera a este Pokémon, ya que consideran la forma de su nariz como un símbolo de felicidad.",
+        "Diamante Brillante": "Swoobat no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Swoobat no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Swoobat no aparece en Leyendas Pokémon: Arceus."
+    }
+}

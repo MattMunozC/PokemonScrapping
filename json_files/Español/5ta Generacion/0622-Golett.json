@@ -1,0 +1,101 @@
+{
+    "dex number": "0622",
+    "pokemon name": "Golett",
+    "types": [
+        " tierra",
+        " fantasma"
+    ],
+    "abilities": [
+        "Puño férreo",
+        "Zoquete"
+    ],
+    "hidden abilities": [
+        "Indefenso"
+    ],
+    "stats": {
+        "hp": 59,
+        "atk": 74,
+        "def": 50,
+        "atk esp": 35,
+        "def esp": 50,
+        "speed": 35
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Torre Duodraco"
+        ],
+        "Blanco": [
+            "Salvaje: Torre Duodraco"
+        ],
+        "Negro 2": [
+            "Criar: de Golurk",
+            "Dream World: Villa Antigua"
+        ],
+        "Blanco 2": [
+            "Criar: de Golurk",
+            "Dream World: Villa Antigua"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 10"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 10"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Salvaje: Desierto de Haina (como refuerzo de Dugtrio de Alola, Trapinch o Krokorok)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 8, Arboleda Claroscuro, Lago Milotic (norte), Pradera Radiante, Antigua Atalaya, Silla del Gigante, Gorro del Gigante y Llanura Pétrea",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 8, Arboleda Claroscuro, Lago Milotic (norte), Pradera Radiante, Antigua Atalaya, Silla del Gigante, Gorro del Gigante y Llanura Pétrea",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Golett no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Golett no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Golett no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Se mueve gracias a la energía que quema dentro de su cuerpo, pero el origen de esta energía es incierto",
+        "Blanco": "Los rumores apuntan a que fue un Pokémon creado por la ciencia de una antigua y misteriosa civilización.",
+        "Negro 2": "Un Pokémon creado a partir del barro gracias a la ciencia de antaño. Lleva activo miles de años.",
+        "Blanco 2": "Un Pokémon creado a partir del barro gracias a la ciencia de antaño. Lleva activo miles de años.",
+        "Pokémon X": "Se mueve gracias a la energía que quema dentro de su cuerpo, pero el origen de esta energía es incierto",
+        "Pokémon Y": "Un Pokémon creado a partir del barro gracias a la ciencia de antaño. Lleva activo miles de años.",
+        "Rubí Omega": "Se mueve gracias a la energía que quema dentro de su cuerpo, pero el origen de esta energía es incierto",
+        "Zafiro Alfa": "Un Pokémon creado a partir del barro gracias a la ciencia de antaño. Lleva activo miles de años.",
+        "Sol": "No hay entrada de Golett en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Golett en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Se mueve gracias a una misteriosa energía, pero, habiendo estado activo desde la antigüedad, dicha energía podría agotarse tarde o temprano.",
+        "Ultraluna": "Se dice que fue creado antiguamente a partir de arcilla para usarlo como sirviente, pero se desconoce cuál es su fuente de energía.",
+        "Espada": "Un antiguo Pokémon creado a partir del barro. Se desconoce el motivo por el que algunos ejemplares colocan rocas grandes en hileras.",
+        "Escudo": "Fue creado a partir del barro para emplearlo como sirviente. Todavía acata las órdenes que le dio su amo hace milenios.",
+        "Diamante Brillante": "Golett no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Golett no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Golett no aparece en Leyendas Pokémon: Arceus."
+    }
+}

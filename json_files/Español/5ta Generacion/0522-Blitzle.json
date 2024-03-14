@@ -1,0 +1,94 @@
+{
+    "dex number": "0522",
+    "pokemon name": "Blitzle",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Pararrayos",
+        "Electromotor"
+    ],
+    "hidden abilities": [
+        "Herbívoro"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 60,
+        "def": 32,
+        "atk esp": 50,
+        "def esp": 32,
+        "speed": 76
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 3 (Teselia)"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 3 (Teselia)"
+        ],
+        "Negro 2": [
+            "Criar: de Zebstrika"
+        ],
+        "Blanco 2": [
+            "Criar: de Zebstrika"
+        ],
+        "Pokémon X": [
+            "Criar: de Zebstrika"
+        ],
+        "Pokémon Y": [
+            "Criar: de Zebstrika"
+        ],
+        "Rubí Omega": [
+            "Criar: de Zebstrika"
+        ],
+        "Zafiro Alfa": [
+            "Criar: de Zebstrika"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Blitzle no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Blitzle no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Blitzle no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Blitzle no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Blitzle no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Su crin brilla al soltar descargas. También utiliza ese brillo para comunicarse con otros de su especie.",
+        "Blanco": "Aparece cuando nubes envueltas en rayos encapotan el cielo. Atrapa rayos con su crin y almacena electricidad.",
+        "Negro 2": "Su crin brilla cuando emite una descarga eléctrica. Se comunica con los suyos mediante el ritmo y número de brillos.",
+        "Blanco 2": "Su crin brilla cuando emite una descarga eléctrica. Se comunica con los suyos mediante el ritmo y número de brillos.",
+        "Pokémon X": "Aparece cuando nubes envueltas en rayos encapotan el cielo. Atrapa rayos con su crin y almacena electricidad.",
+        "Pokémon Y": "Su crin brilla cuando emite una descarga eléctrica. Se comunica con los suyos mediante el ritmo y número de brillos.",
+        "Rubí Omega": "Aparece cuando nubes envueltas en rayos encapotan el cielo. Atrapa rayos con su crin y almacena electricidad.",
+        "Zafiro Alfa": "Su crin brilla cuando emite una descarga eléctrica. Se comunica con los suyos mediante el ritmo y número de brillos.",
+        "Sol": "No hay entrada de Blitzle en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Blitzle en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Blitzle en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Blitzle en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Blitzle no aparece en Pokémon Espada.",
+        "Escudo": "Blitzle no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Blitzle no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Blitzle no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Blitzle no aparece en Leyendas Pokémon: Arceus."
+    }
+}

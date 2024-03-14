@@ -1,0 +1,104 @@
+{
+    "dex number": "0507",
+    "pokemon name": "Herdier",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Ímpetu arena"
+    ],
+    "hidden abilities": [
+        "Intrépido"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 80,
+        "def": 65,
+        "atk esp": 35,
+        "def esp": 65,
+        "speed": 60
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 1, Ruta 10, Almacenes Frigoríficos y Laboratorio P+P",
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 1, Ruta 10, Almacenes Frigoríficos y Laboratorio P+P",
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 1, Ruta 2, Ruta 3 y Laboratorio P+P",
+            "Claro oculto: Rancho Ocre",
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 1, Ruta 2, Ruta 3 y Laboratorio P+P",
+            "Claro oculto: Rancho Ocre",
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Sol": [
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Luna": [
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Espada": [
+            "Salvaje: Llano Entrenamiento ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Humedal Frescor , Mar Andana  y Mar Islejos ",
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Escudo": [
+            "Salvaje: Llano Entrenamiento ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Humedal Frescor , Mar Andana  y Mar Islejos ",
+            "Evolucionar: a Lillipup (nivel 16)"
+        ],
+        "Diamante Brillante": [
+            "Herdier no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Herdier no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Herdier no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Un robusto pelaje cubre su cuerpo a modo de capa y disminuye el daño que recibe en los ataques.",
+        "Blanco": "Es fiel a las órdenes de su Entrenador. Esta especie ha ayudado desde antaño a Entrenadores que crían Pokémon.",
+        "Negro 2": "Este Pokémon es muy leal. No solo ayuda a Entrenadores, sino que también se preocupa por otros Pokémon.",
+        "Blanco 2": "Este Pokémon es muy leal. No solo ayuda a Entrenadores, sino que también se preocupa por otros Pokémon.",
+        "Pokémon X": "Este Pokémon es muy leal. No solo ayuda a Entrenadores, sino que también se preocupa por otros Pokémon.",
+        "Pokémon Y": "Un robusto pelaje cubre su cuerpo a modo de capa y disminuye el daño que recibe en los ataques.",
+        "Rubí Omega": "Este Pokémon es muy leal. No solo ayuda a Entrenadores, sino que también se preocupa por otros Pokémon.",
+        "Zafiro Alfa": "Un robusto pelaje cubre su cuerpo a modo de capa y disminuye el daño que recibe en los ataques.",
+        "Sol": "El recio y oscuro pelaje que le cubre el lomo crece tan rápido que mantenerlo corto resulta de lo más caro.",
+        "Luna": "Obedece sin rechistar las órdenes de su dueño. Ahora bien, ignora sin pudor a todo aquel que considere inferior.",
+        "Ultrasol": "Con el paso del tiempo, su oscuro pelaje se vuelve duro y resistente, lo que le sirve como ligera protección contra colmillos y cuernos.",
+        "Ultraluna": "Ha convivido mucho tiempo con los humanos, como atestiguan las pinturas rupestres donde aparece representado.",
+        "Espada": "Es muy inteligente y cariñoso. Existen ciertas teorías que lo consideran el primer Pokémon que se convirtió en compañero de los humanos.",
+        "Escudo": "El pelaje negro que lo recubre es tan denso y elástico que puede repeler incluso los colmillos más afilados.",
+        "Diamante Brillante": "Herdier no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Herdier no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Herdier no aparece en Leyendas Pokémon: Arceus."
+    }
+}

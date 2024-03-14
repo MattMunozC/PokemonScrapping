@@ -1,0 +1,95 @@
+{
+    "dex number": "0540",
+    "pokemon name": "Sewaddle",
+    "types": [
+        " bicho",
+        " planta"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Clorofila"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 53,
+        "def": 70,
+        "atk esp": 40,
+        "def esp": 60,
+        "speed": 42
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Bosque Azulejo."
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Azulejo."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 12, Ruta 20"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 12, Ruta 20"
+        ],
+        "Pokémon X": [
+            "Criando: de Swadloon."
+        ],
+        "Pokémon Y": [
+            "Criando: de Swadloon."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 101, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 101, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Criando: de Swadloon."
+        ],
+        "Luna": [
+            "Criando: de Swadloon."
+        ],
+        "Ultrasol": [
+            "Criando: de Leavanny"
+        ],
+        "Ultraluna": [
+            "Criando: de Leavanny"
+        ],
+        "Espada": [
+            "Sewaddle no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Sewaddle no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Sewaddle no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sewaddle no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Sewaddle no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Cuando eclosiona, Leavanny le hace ropa y se la pone. Se tapa la cabeza con la capucha para dormir.",
+        "Blanco": "Recorta hojas y las teje con el líquido viscoso que segrega por la boca para hacerse su propia ropa.",
+        "Negro 2": "Sus hojas se usan como material para fabricar ropa, por lo que los diseñadores más famosos los tienen como mascota.",
+        "Blanco 2": "Sus hojas se usan como material para fabricar ropa, por lo que los diseñadores más famosos los tienen como mascota.",
+        "Pokémon X": "Recorta hojas y las teje con el líquido viscoso que segrega por la boca para hacerse su propia ropa.",
+        "Pokémon Y": "Usa hojas como material para fabricar su propia ropa, por lo que los diseñadores más famosos los tienen como mascota.",
+        "Rubí Omega": "Recorta hojas y las teje con el líquido viscoso que segrega por la boca para hacerse su propia ropa.",
+        "Zafiro Alfa": "Usa hojas como material para fabricar su propia ropa, por lo que los diseñadores más famosos los tienen como mascota.",
+        "Sol": "No hay entrada de Sewaddle en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Sewaddle en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Sewaddle en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Sewaddle en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Sewaddle no aparece en Pokémon Espada.",
+        "Escudo": "Sewaddle no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Sewaddle no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sewaddle no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sewaddle no aparece en Leyendas Pokémon: Arceus."
+    }
+}

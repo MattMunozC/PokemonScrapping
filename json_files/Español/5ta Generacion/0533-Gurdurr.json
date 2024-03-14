@@ -1,0 +1,100 @@
+{
+    "dex number": "0533",
+    "pokemon name": "Gurdurr",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Agallas",
+        "Potencia bruta"
+    ],
+    "hidden abilities": [
+        "Puño férreo"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 105,
+        "def": 85,
+        "atk esp": 40,
+        "def esp": 50,
+        "speed": 40
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Monte Tuerca.",
+            "Evolucionar: a Timburr (nivel 25)."
+        ],
+        "Blanco": [
+            "Salvaje: Monte Tuerca.",
+            "Evolucionar: a Timburr (nivel 25)."
+        ],
+        "Negro 2": [
+            "Salvaje: Monte Tuerca, Bosque Azulejo, Pasadizo Ancestral y Calle Victoria.",
+            "Evolucionar: a Timburr (nivel 25).",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            "Salvaje: Monte Tuerca, Bosque Azulejo, Pasadizo Ancestral y Calle Victoria.",
+            "Evolucionar: a Timburr (nivel 25).",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 18 y Calle Victoria."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 18 y Calle Victoria."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Timburr (nivel 25)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Timburr (nivel 25)."
+        ],
+        "Sol": [
+            "Evolucionar: a Timburr (nivel 25)."
+        ],
+        "Luna": [
+            "Evolucionar: a Timburr (nivel 25)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew."
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew."
+        ],
+        "Diamante Brillante": [
+            "Gurdurr no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Gurdurr no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Gurdurr no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Sus músculos están tan desarrollados que no se inmuta aunque lo ataquen varios luchadores.",
+        "Blanco": "Ejercita sus músculos cargando vigas de acero. Le encanta lucir sus músculos entre sus amigos.",
+        "Negro 2": "Gracias a su entrenada musculatura, puede blandir vigas de acero sin problema para así derribar edificios enteros.",
+        "Blanco 2": "Gracias a su entrenada musculatura, puede blandir vigas de acero sin problema para así derribar edificios enteros.",
+        "Pokémon X": "Gracias a su entrenada musculatura, puede blandir vigas de acero sin problema para así derribar edificios enteros.",
+        "Pokémon Y": "Sus músculos están tan desarrollados que no se inmuta aunque lo ataquen varios luchadores.",
+        "Rubí Omega": "Gracias a su entrenada musculatura, puede blandir vigas de acero sin problema para así derribar edificios enteros.",
+        "Zafiro Alfa": "Sus músculos están tan desarrollados que no se inmuta aunque lo ataquen varios luchadores.",
+        "Sol": "No hay entrada de Gurdurr en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Gurdurr en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Gurdurr en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Gurdurr en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "A menudo realiza competiciones de fuerza con sus congéneres y con los Machoke. El perdedor debe pasar un tiempo sin dejarse ver.",
+        "Escudo": "Blande vigas de acero con gran destreza, pero la construcción no se le da muy bien; de hecho, su especialidad es la demolición.",
+        "Diamante Brillante": "Gurdurr no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Gurdurr no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Gurdurr no aparece en Leyendas Pokémon: Arceus."
+    }
+}

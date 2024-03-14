@@ -1,0 +1,103 @@
+{
+    "dex number": "0581",
+    "pokemon name": "Swanna",
+    "types": [
+        " agua",
+        " volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Sacapecho"
+    ],
+    "hidden abilities": [
+        "Hidratación"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 87,
+        "def": 63,
+        "atk esp": 87,
+        "def esp": 63,
+        "speed": 98
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Puente Progreso (sombras)",
+            "Evolucionar: a Ducklett (nivel 35)"
+        ],
+        "Blanco": [
+            "Salvaje: Puente Progreso (sombras)",
+            "Evolucionar: a Ducklett (nivel 35)"
+        ],
+        "Negro 2": [
+            "Salvaje: Puente Progreso (sombras)",
+            "Evolucionar: a Ducklett (nivel 35)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Puente Progreso (sombras)",
+            "Evolucionar: a Ducklett (nivel 35)"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo volador",
+            "Evolucionar: a Ducklett (nivel 35)"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo volador",
+            "Evolucionar: a Ducklett (nivel 35)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo"
+        ],
+        "Espada": [
+            "Swanna no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Swanna no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Swanna no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Swanna no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Swanna no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Comienzan a danzar al amanecer. El líder de la bandada se sitúa en el centro.",
+        "Blanco": "La potencia de su pico es brutal. Arquea su largo cuello y picotea repetidamente al enemigo.",
+        "Negro 2": "Aunque no lo parezca por su grácil elegancia, puede batir con fuerza las alas y volar durante miles de kilómetros.",
+        "Blanco 2": "Aunque no lo parezca por su grácil elegancia, puede batir con fuerza las alas y volar durante miles de kilómetros.",
+        "Pokémon X": "Aunque no lo parezca por su grácil elegancia, puede batir con fuerza las alas y volar durante miles de kilómetros.",
+        "Pokémon Y": "Comienzan a danzar al amanecer. El líder de la bandada se sitúa en el centro.",
+        "Rubí Omega": "Aunque no lo parezca por su grácil elegancia, puede batir con fuerza las alas y volar durante miles de kilómetros.",
+        "Zafiro Alfa": "Comienzan a danzar al amanecer. El líder de la bandada se sitúa en el centro.",
+        "Sol": "No hay entrada de Swanna en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Swanna en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Swanna en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Swanna en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Swanna no aparece en Pokémon Espada.",
+        "Escudo": "Swanna no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Swanna no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Swanna no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Swanna no aparece en Leyendas Pokémon: Arceus."
+    }
+}

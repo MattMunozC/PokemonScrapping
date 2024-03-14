@@ -1,0 +1,98 @@
+{
+    "dex number": "0579",
+    "pokemon name": "Reuniclus",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Funda",
+        "Muro mágico"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": 110,
+        "atk": 65,
+        "def": 75,
+        "atk esp": 125,
+        "def esp": 85,
+        "speed": 30
+    },
+    "location": {
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 9",
+            "Evolucionar: a Duosion (nivel 41)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Blanco 2"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 9",
+            "Evolucionar: a Duosion (nivel 41)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Duosion (nivel 41)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Duosion (nivel 41)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Evolucionar: a Duosion (nivel 41)"
+        ],
+        "Luna": [
+            "Evolucionar: a Duosion (nivel 41)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado",
+            "Incursiones Dinamax: Con posible habilidad oculta: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol",
+            "Evolucionar: a Duosion (nivel 41)"
+        ],
+        "Diamante Brillante": [
+            "Reuniclus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Reuniclus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Reuniclus no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Cuando los Reuniclus se dan la mano, sus cerebros se conectan y multiplican sus poderes psíquicos.",
+        "Blanco": "La fortaleza de sus brazos le permite hacer añicos hasta rocas. Está dotado de una inteligencia superior.",
+        "Negro 2": "Hacen gala de su poder psíquico y mueven sus brazos compuestos de líquido para controlar rocas y hacerlas añicos.",
+        "Blanco 2": "Hacen gala de su poder psíquico y mueven sus brazos compuestos de líquido para controlar rocas y hacerlas añicos.",
+        "Pokémon X": "Hacen gala de su poder psíquico y mueven sus brazos compuestos de líquido para controlar rocas y hacerlas añicos.",
+        "Pokémon Y": "Cuando los Reuniclus se dan la mano, sus cerebros se conectan y multiplican sus poderes psíquicos.",
+        "Rubí Omega": "Hacen gala de su poder psíquico y mueven sus brazos compuestos de líquido para controlar rocas y hacerlas añicos.",
+        "Zafiro Alfa": "Cuando los Reuniclus se dan la mano, sus cerebros se conectan y multiplican sus poderes psíquicos.",
+        "Sol": "No hay entrada de Reuniclus en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Reuniclus en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Reuniclus en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Reuniclus en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Prefiere derribar a los rivales haciendo girar sus fuertes brazos antes que valerse de sus poderes extrasensoriales.",
+        "Escudo": "Al parecer, beber su líquido especial otorga un intelecto sin par, pero resulta muy venenoso, excepto para los propios Reuniclus.",
+        "Diamante Brillante": "Reuniclus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Reuniclus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Reuniclus no aparece en Leyendas Pokémon: Arceus."
+    }
+}

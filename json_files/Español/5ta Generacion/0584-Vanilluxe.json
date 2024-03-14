@@ -1,0 +1,102 @@
+{
+    "dex number": "0584",
+    "pokemon name": "Vanilluxe",
+    "types": [
+        " hielo"
+    ],
+    "abilities": [
+        "Gélido",
+        "Nevada"
+    ],
+    "hidden abilities": [
+        "Armadura frágil"
+    ],
+    "stats": {
+        "hp": 71,
+        "atk": 95,
+        "def": 85,
+        "atk esp": 110,
+        "def esp": 95,
+        "speed": 79
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Vanillish (nivel 47)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Vanillish (nivel 47)"
+        ],
+        "Negro 2": [
+            "Salvaje: Boquete Gigante (todo el año) y Torre Duodraco (invierno)",
+            "Evolucionar: a Vanillish (nivel 47)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Boquete Gigante (todo el año) y Torre Duodraco (invierno)",
+            "Evolucionar: a Vanillish (nivel 47)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Vanillish (nivel 47)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Vanillish (nivel 47)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Evolucionar: a Vanillish (nivel 47)"
+        ],
+        "Luna": [
+            "Evolucionar: a Vanillish (nivel 47)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Monte Lanakila (Como refuerzo en granizo)",
+            "Evolucionar: a Vanillish (nivel 47)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Monte Lanakila (Como refuerzo en granizo)",
+            "Evolucionar: a Vanillish (nivel 47)"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 10, Lago Milotic (sur), Valle Entrepuentes y Lago del Enfado",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro y Llanura Pétrea, nido al este 1",
+            "Evolucionar: a Vanillish (nivel 47)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 10, Lago Milotic (sur), Valle Entrepuentes y Lago del Enfado",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro, Llanura Pétrea, nido al este 1 y Silla del Gigante, nido al sur junto al lago.",
+            "Evolucionar: a Vanillish (nivel 47)"
+        ],
+        "Diamante Brillante": [
+            "Vanilluxe no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Vanilluxe no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Vanilluxe no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Bebe cantidades ingentes de agua y crea nubes cargadas de nieve para lanzar ventiscas a sus oponentes.",
+        "Blanco": "Si sus dos cabezas se irritan al mismo tiempo, genera una ventisca desde su cuerno cubriendo su entorno con nieve.",
+        "Negro 2": "Absorben grandes cantidades de agua y la transforman en ventisca en su cuerpo, expulsándola cuando se enojan.",
+        "Blanco 2": "Absorben grandes cantidades de agua y la transforman en ventisca en su cuerpo, expulsándola cuando se enojan.",
+        "Pokémon X": "Si sus dos cabezas se irritan al mismo tiempo, genera una ventisca desde su cuerno cubriendo su entorno con nieve.",
+        "Pokémon Y": "Absorben grandes cantidades de agua y la transforman en ventisca en su cuerpo, expulsándola cuando se enojan.",
+        "Rubí Omega": "Si sus dos cabezas se irritan al mismo tiempo, genera una ventisca desde su cuerno cubriendo su entorno con nieve.",
+        "Zafiro Alfa": "Absorben grandes cantidades de agua y la transforman en ventisca en su cuerpo, expulsándola cuando se enojan.",
+        "Sol": "Las dos cabezas tienen su propio cerebro. Cuando se ponen de acuerdo, generan una ventisca con la que atacan a su enemigo.",
+        "Luna": "Pueden sobrevivir sin grandes problemas aun perdiendo una de las cabezas. Crean ventiscas en el interior de su cuerpo.",
+        "Ultrasol": "Expulsa ventiscas por ambas bocas y, como puede crear nieve en cualquier lugar, es famoso entre quienes practican esquí o snowboard.",
+        "Ultraluna": "Su nacimiento se produce cuando dos Vanillish se derriten por la mañana, se mezclan y, durante la gélida noche, se congelan juntos.",
+        "Espada": "Cuando su rabia alcanza el punto máximo, genera una ventisca que congela tanto a amigos como a enemigos.",
+        "Escudo": "Su temperatura corporal ronda los -6 °C. Se dice que nace de la fusión de dos Vanillish.",
+        "Diamante Brillante": "Vanilluxe no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Vanilluxe no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Vanilluxe no aparece en Leyendas Pokémon: Arceus."
+    }
+}

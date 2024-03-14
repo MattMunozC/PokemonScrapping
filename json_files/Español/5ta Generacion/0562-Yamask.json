@@ -1,0 +1,93 @@
+{
+    "dex number": "0562",
+    "pokemon name": "Yamask",
+    "types": [
+        " fantasma"
+    ],
+    "abilities": [
+        "Momia"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 38,
+        "atk": 30,
+        "def": 85,
+        "atk esp": 55,
+        "def esp": 65,
+        "speed": 30
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Castillo Ancestral"
+        ],
+        "Blanco": [
+            "Salvaje: Castillo Ancestral"
+        ],
+        "Negro 2": [
+            "Salvaje: Castillo Ancestral"
+        ],
+        "Blanco 2": [
+            "Salvaje: Castillo Ancestral"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Criar: de Cofagrigus"
+        ],
+        "Zafiro Alfa": [
+            "Criar: de Cofagrigus"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Intercambiar: con una niña en el Estadio de Plié por un Yamask de Galar"
+        ],
+        "Escudo": [
+            "Intercambiar: con una niña en el Estadio de Plié por un Yamask de Galar"
+        ],
+        "Diamante Brillante": [
+            "Yamask no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Yamask no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Yamask no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Su máscara representa la cara que poseía cuando era humano. A veces le saltan lágrimas al contemplarla.",
+        "Blanco": "Nació del alma de un humano enterrado hace milenios. Aún conserva recuerdos del pasado.",
+        "Negro 2": "Almas de humanos sepultados en tumbas que han adquirido forma de Pokémon. Recuerdan su vida antes de la muerte.",
+        "Blanco 2": "Almas de humanos sepultados en tumbas que han adquirido forma de Pokémon. Recuerdan su vida antes de la muerte.",
+        "Pokémon X": "Almas de humanos sepultados en tumbas que han adquirido forma de Pokémon. Recuerdan su vida antes de la muerte.",
+        "Pokémon Y": "Su máscara representa la cara que poseía cuando era humano. A veces le saltan lágrimas al contemplarla.",
+        "Rubí Omega": "Almas de humanos sepultados en tumbas que han adquirido forma de Pokémon. Recuerdan su vida antes de la muerte.",
+        "Zafiro Alfa": "Su máscara representa la cara que poseía cuando era humano. A veces le saltan lágrimas al contemplarla.",
+        "Sol": "No hay entrada de Yamask en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Yamask en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Yamask en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Yamask en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Merodea todas las noches entre ruinas. Se dice que la máscara que lleva replica su antiguo rostro humano.",
+        "Escudo": "Surgió del alma de una persona que vivió en tiempos remotos. Merodea por las ruinas en busca de alguien que reconozca su rostro.",
+        "Diamante Brillante": "Yamask no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Yamask no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Yamask no aparece en Leyendas Pokémon: Arceus."
+    }
+}

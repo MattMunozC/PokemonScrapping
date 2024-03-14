@@ -1,0 +1,102 @@
+{
+    "dex number": "0642",
+    "pokemon name": "Thundurus",
+    "types": [
+        " eléctrico",
+        " volador"
+    ],
+    "abilities": [
+        "Bromista",
+        "Absorbe electricidad"
+    ],
+    "hidden abilities": [
+        "Competitivo"
+    ],
+    "stats": {
+        "hp": 79,
+        "atk": 115,
+        "def": 70,
+        "atk esp": 125,
+        "def esp": 80,
+        "speed": 111
+    },
+    "location": {
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Blanco": [
+            "Salvaje: Tras obtener todas las medallas de gimnasio, en el acceso a la Ruta 10, la recepcionista menciona que hay un clima extraño en la Ruta 7. En la casa de la anciana de la Ruta 7 esta saldrá para explicar la historia de Thundurus. Una vez terminada la historia, al salir de la casa, Thundurus aparecerá para luego errar por distintas rutas de Teselia (solo uno)"
+        ],
+        "Negro 2": [
+            "Especial: Transferir desde RAdar Pokémon. Se captura con la lente Maravilla β en su forma tótem habiendo capturado a Tornadus (solo uno)",
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Especial: Transferir desde RAdar Pokémon. Se captura con la lente Maravilla β en su forma tótem habiendo capturado a Tornadus (solo uno)",
+            "Intercambiar: de Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Usando ultravuelo en la nube oscura cerca de Ciudad Arborada que aparece al llevar a Castform en el equipo (solo uno)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores.",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo (solo uno)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Thundurus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Thundurus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Mano de Arena. (Tras aceptar la Petición 94: Los avatares de Hisui. Solo con Tormenta solo uno)."
+        ]
+    },
+    "pokedex": {
+        "Negro": "A su paso, Thundurus va dejando profundas marcas de rayos que han achicharrado el terreno.",
+        "Blanco": "Lanza descargas eléctricas por las púas de su cola. Sobrevuela Teselia dejando caer rayos.",
+        "Negro 2": "Su gusto por surcar el cielo lanzando rayos y provocando incendios forestales le ha granjeado pocas simpatías.",
+        "Blanco 2": "Su gusto por surcar el cielo lanzando rayos y provocando incendios forestales le ha granjeado pocas simpatías.",
+        "Pokémon X": "Lanza descargas eléctricas por las púas de su cola. Sobrevuela Teselia dejando caer rayos.",
+        "Pokémon Y": "Su gusto por surcar el cielo lanzando rayos y provocando incendios forestales le ha granjeado pocas simpatías.",
+        "Rubí Omega": "Lanza descargas eléctricas por las púas de su cola. Sobrevuela Teselia dejando caer rayos.",
+        "Zafiro Alfa": "Su gusto por surcar el cielo lanzando rayos y provocando incendios forestales le ha granjeado pocas simpatías.",
+        "Sol": "No hay entrada de Thundurus en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Thundurus en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Thundurus en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Thundurus en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de Thundurus en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Thundurus en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Thundurus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Thundurus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "\nForma Avatar: Se dice que lucha desde tiempos inmemoriales contra Tornadus, su némesis, blandiendo rayos. Lanza descargas fulminantes que horadan el suelo y lo enriquecen.\nForma Tótem: Aparece a la velocidad del rayo. Por los orbes de la cola lanza una lluvia de rayos de tal potencia que fulmina a sus rivales y no deja rastro alguno de ellos."
+    }
+}

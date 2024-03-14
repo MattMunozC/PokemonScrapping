@@ -1,0 +1,104 @@
+{
+    "dex number": "0587",
+    "pokemon name": "Emolga",
+    "types": [
+        " eléctrico",
+        " volador"
+    ],
+    "abilities": [
+        "Electricidad estática"
+    ],
+    "hidden abilities": [
+        "Electromotor"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 75,
+        "def": 60,
+        "atk esp": 75,
+        "def esp": 60,
+        "speed": 103
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 5, Ruta 6, Ruta 7, Ruta 9, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Torre Duodraco, Boquete Gigante, Santuario Abundancia y Bosque de los Perdidos (hierba oscura)",
+            "Intercambiar: por un Boldore en una casa de la Ruta 7."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 5, Ruta 6, Ruta 7, Ruta 9, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Torre Duodraco, Boquete Gigante, Santuario Abundancia y Bosque de los Perdidos (hierba oscura)",
+            "Intercambiar: por un Boldore en una casa de la Ruta 7."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 5, Ruta 6, Ruta 7, Ruta 9, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Bosque de los Perdidos, Torre Duodraco y Santuario Abundancia (hierba oscura)",
+            "Pokémon Dream World: Alto Cielo"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 5, Ruta 6, Ruta 7, Ruta 9, Ruta 11, Ruta 12, Ruta 13, Ruta 14, Ruta 15, Ruta 16, Bosque de los Perdidos, Torre Duodraco y Santuario Abundancia (hierba oscura)",
+            "Pokémon Dream World: Alto Cielo"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 10",
+            "Especial: Safari Amistad, en algunos safaris de tipo eléctrico"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 10",
+            "Especial: Safari Amistad, en algunos safaris de tipo eléctrico"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Salvaje: Llanura de Poni",
+            "Poké Resort: Cayo Recreo, tras superar la Liga Pokémon"
+        ],
+        "Luna": [
+            "Salvaje: Llanura de Poni",
+            "Poké Resort: Cayo Recreo, tras superar la Liga Pokémon"
+        ],
+        "Ultrasol": [
+            "Salvaje: Llanura de Poni"
+        ],
+        "Ultraluna": [
+            "Salvaje: Llanura de Poni"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Concentración ",
+            "Incursiones Dinamax: nidos en Ruta Desafío , Bahía Circular , Mar Andana  y Mar Gimnástico "
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Concentración ",
+            "Incursiones Dinamax: nidos en Ruta Desafío , Bahía Circular , Mar Andana  y Mar Gimnástico "
+        ],
+        "Diamante Brillante": [
+            "Emolga no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Emolga no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Emolga no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Almacena en una membrana la electricidad generada por sus mejillas y planea por los aires soltando descargas.",
+        "Blanco": "Vive en la copa de los árboles. Produce descargas mientras vuela con el interior de la membrana que hace de capa.",
+        "Negro 2": "Puede volar al extender sus membranas y electrocutar a sus enemigos mediante la electricidad acumulada en sus mejillas.",
+        "Blanco 2": "Puede volar al extender sus membranas y electrocutar a sus enemigos mediante la electricidad acumulada en sus mejillas.",
+        "Pokémon X": "Vive en la copa de los árboles. Produce descargas mientras vuela con el interior de la membrana que hace de capa.",
+        "Pokémon Y": "Almacena en una membrana la electricidad generada por sus mejillas y planea por los aires soltando descargas.",
+        "Rubí Omega": "Vive en la copa de los árboles. Produce descargas mientras vuela con el interior de la membrana que hace de capa.",
+        "Zafiro Alfa": "Almacena en una membrana la electricidad generada por sus mejillas y planea por los aires soltando descargas.",
+        "Sol": "Planea con su membrana, que hace las veces de capa. La electricidad que despide electrocuta sin distinción a enemigos y aliados.",
+        "Luna": "Suelta una descarga eléctrica para achicharrar bayas o Pokémon insecto. Suele habitar los nidos que los Pikipek horadan en los árboles.",
+        "Ultrasol": "Se carga de electricidad y se echa a volar. Durante las noches de tormenta eléctrica se los ve a centenares surcando el cielo.",
+        "Ultraluna": "Desprende descargas eléctricas mientras vuela, por lo que los Pokémon pájaro no se le acercan, y así puede quedarse la comida para él solo.",
+        "Espada": "Planea por el aire, casi como si danzara, mientras desprende electricidad. Resulta adorable, pero puede causar bastantes problemas.",
+        "Escudo": "Le encantan las bayas dulces. A veces almacena tanta comida en los carrillos que no puede volar bien.",
+        "Diamante Brillante": "Emolga no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Emolga no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Emolga no aparece en Leyendas Pokémon: Arceus."
+    }
+}

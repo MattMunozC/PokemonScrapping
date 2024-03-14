@@ -1,0 +1,103 @@
+{
+    "dex number": "0521",
+    "pokemon name": "Unfezant",
+    "types": [
+        " normal",
+        " volador"
+    ],
+    "abilities": [
+        "Sacapecho",
+        "Afortunado"
+    ],
+    "hidden abilities": [
+        "Rivalidad"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 105,
+        "def": 80,
+        "atk esp": 65,
+        "def esp": 55,
+        "speed": 93
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Verano, Otoño, Primavera: Rutas 6, 7, 12, Torre Duodraco, Bosque de los PerdidosInvierno: Ruta 12, Bosque de los Perdidos.",
+            "Evolucionar: de Tranquill (Nivel 32)"
+        ],
+        "Blanco": [
+            "Salvaje: Verano, Otoño, Primavera: Rutas 6, 7, 12, Torre Duodraco, Bosque de los PerdidosInvierno: Ruta 12, Bosque de los Perdidos.",
+            "Evolucionar: de Tranquill (Nivel 32)"
+        ],
+        "Negro 2": [
+            "Salvaje: Todas las estaciones: Rutas 3, 6, 7, 12Primavera. verano y otoño: Torre Duodraco",
+            "Evolucionar: de Tranquill (Nivel 32)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Todas las estaciones: Rutas 3, 6, 7, 12Primavera. verano y otoño: Torre Duodraco",
+            "Evolucionar: de Tranquill (Nivel 32)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: de Tranquill (Nivel 32)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: de Tranquill (Nivel 32)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Tranquill (Nivel 32)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Tranquill (Nivel 32)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Cornisa de Artejo (en el aire), Espejo del Gigante (encuentro especial cuando está despejado, nublado y en sol), Llanura Pétrea (encuentro especial cuando está nublado) y Ojo de Axew (escondido en la hierba alta en todos los tiempos atmosféricos excepto cuando ventisca y tormenta de arena).",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste.",
+            "Evolucionar: de Tranquill (Nivel 32)"
+        ],
+        "Escudo": [
+            "Salvaje: Cornisa de Artejo (en el aire), Espejo del Gigante (encuentro especial cuando está despejado, nublado y en sol), Llanura Pétrea (encuentro especial cuando está nublado) y Ojo de Axew (escondido en la hierba alta en todos los tiempos atmosféricos excepto cuando ventisca y tormenta de arena).",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste.",
+            "Evolucionar: de Tranquill (Nivel 32)"
+        ],
+        "Diamante Brillante": [
+            "Unfezant no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Unfezant no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Unfezant no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "El macho amenaza al enemigo meciendo el adorno de su cabeza. Al volar, la hembra es mucho más diestra que el macho.",
+        "Blanco": "El macho hace gala de ornamentación en la cabeza. No es dado a hacerse amigo de alguien que no sea su entrenador.",
+        "Negro 2": "Los machos agitan el plumaje para intimidar, mientras que las hembras vuelan mejor.",
+        "Blanco 2": "Los machos agitan el plumaje para intimidar, mientras que las hembras vuelan mejor.",
+        "Pokémon X": "El macho amenaza al enemigo meciendo el adorno de su cabeza. Al volar, la hembra es mucho más diestra que el macho.",
+        "Pokémon Y": "El macho hace gala de ornamentación en la cabeza. No es dado a hacerse amigo de alguien que no sea su entrenador.",
+        "Rubí Omega": "El macho amenaza al enemigo meciendo el adorno de su cabeza. Al volar, la hembra es mucho más diestra que el macho.",
+        "Zafiro Alfa": "El macho hace gala de ornamentación en la cabeza. No es dado a hacerse amigo de alguien que no sea su entrenador.",
+        "Sol": "No hay entrada de Unfezant en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Unfezant en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Unfezant en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Unfezant en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Hacen gala de una soberbia destreza al volar. La hembra posee una mayor resistencia, mientras que el macho la supera en velocidad.",
+        "Escudo": "Es un Pokémon muy inteligente y orgulloso. Se tiene en alta estima a aquellos que se convierten en sus Entrenadores.",
+        "Diamante Brillante": "Unfezant no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Unfezant no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Unfezant no aparece en Leyendas Pokémon: Arceus."
+    }
+}

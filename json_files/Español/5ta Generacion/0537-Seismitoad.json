@@ -1,0 +1,107 @@
+{
+    "dex number": "0537",
+    "pokemon name": "Seismitoad",
+    "types": [
+        " agua",
+        " tierra"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Toque tóxico"
+    ],
+    "hidden abilities": [
+        "Absorbe agua"
+    ],
+    "stats": {
+        "hp": 105,
+        "atk": 95,
+        "def": 75,
+        "atk esp": 85,
+        "def esp": 75,
+        "speed": 74
+    },
+    "location": {
+        "Negro": [
+            "Surf: Ruta 8, Ciudad Teja y Pantano Teja.",
+            "Evolucionar: a Palpitoad (nivel 36)."
+        ],
+        "Blanco": [
+            "Surf: Ruta 8, Ciudad Teja y Pantano Teja.",
+            "Evolucionar: a Palpitoad (nivel 36)."
+        ],
+        "Negro 2": [
+            "Surf: Ruta 8, Ciudad Teja y Pantano Teja.",
+            "Salvaje: Cuando la hierba se mueve: Bosque Azulejo.",
+            "Evolucionar: a Palpitoad (nivel 36)."
+        ],
+        "Blanco 2": [
+            "Surf: Ruta 8, Ciudad Teja y Pantano Teja.",
+            "Salvaje: Cuando la hierba se mueve: Bosque Azulejo.",
+            "Evolucionar: a Palpitoad (nivel 36)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Palpitoad (nivel 36)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Palpitoad (nivel 36)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Palpitoad (nivel 36)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Palpitoad (nivel 36)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Ruta 7, Cuenca Polvorienta, Ojo de Axew, Valle Entrepuentes, Arboleda Claroscuro, Gorro del Gigante, Espejo del Gigante y Lago del Enfado",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur",
+            "Curri: Ruta 7",
+            "Evolucionar: a Palpitoad (nivel 36)."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 7, Cuenca Polvorienta, Ojo de Axew, Valle Entrepuentes, Arboleda Claroscuro, Gorro del Gigante, Espejo del Gigante y Lago del Enfado",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur",
+            "Curri: Ruta 7",
+            "Evolucionar: a Palpitoad (nivel 36)."
+        ],
+        "Diamante Brillante": [
+            "Seismitoad no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Seismitoad no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Seismitoad no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Despide un líquido paralizador por los bultos de su cabeza. Atormenta a sus oponentes con enormes vibraciones.",
+        "Blanco": "Aumenta la potencia de sus puñetazos haciendo vibrar sus puños. Es capaz de quebrar una roca de un solo golpe.",
+        "Negro 2": "Reúne energía en sus bultos y crea vibraciones para propinar puñetazos más poderosos.",
+        "Blanco 2": "Reúne energía en sus bultos y crea vibraciones para propinar puñetazos más poderosos.",
+        "Pokémon X": "Aumenta la potencia de sus puñetazos haciendo vibrar sus puños. Es capaz de quebrar una roca de un solo golpe.",
+        "Pokémon Y": "Despide un líquido paralizador por los bultos de su cabeza. Atormenta a sus oponentes con enormes vibraciones.",
+        "Rubí Omega": "Aumenta la potencia de sus puñetazos haciendo vibrar sus puños. Es capaz de quebrar una roca de un solo golpe.",
+        "Zafiro Alfa": "Despide un líquido paralizador por los bultos de su cabeza. Atormenta a sus oponentes con enormes vibraciones.",
+        "Sol": "No hay entrada de Seismitoad en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Seismitoad en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Seismitoad en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Seismitoad en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Cuando hace vibrar los bultos de su cuerpo, provoca sacudidas que parecen terremotos. Está emparentado con los Croagunk.",
+        "Escudo": "Las vibraciones de sus bultos resultan perfectas para dar masajes, lo que lo ha hecho muy popular entre la tercera edad.",
+        "Diamante Brillante": "Seismitoad no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Seismitoad no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Seismitoad no aparece en Leyendas Pokémon: Arceus."
+    }
+}

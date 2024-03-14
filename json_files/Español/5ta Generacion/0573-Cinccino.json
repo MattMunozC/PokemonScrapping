@@ -1,0 +1,104 @@
+{
+    "dex number": "0573",
+    "pokemon name": "Cinccino",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Gran encanto",
+        "Experto"
+    ],
+    "hidden abilities": [
+        "Encadenado"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 95,
+        "def": 60,
+        "atk esp": 65,
+        "def esp": 60,
+        "speed": 115
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 5, Ruta 9, Ruta 16 y Almacenes Frigoríficos",
+            "Evolucionar: a Minccino (piedra día)"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 5, Ruta 9, Ruta 16 y Almacenes Frigoríficos",
+            "Evolucionar: a Minccino (piedra día)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 5, Ruta 9 y Ruta 16",
+            "Evolucionar: a Minccino (piedra día)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 5, Ruta 9 y Ruta 16",
+            "Evolucionar: a Minccino (piedra día)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Minccino (piedra día)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Minccino (piedra día)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Minccino (piedra día)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Minccino (piedra día)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Minccino (piedra día)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Minccino (piedra día)"
+        ],
+        "Espada": [
+            "Salvaje: Gorro del Gigante",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón y Pradera Radiante, nido cerca del Punto de Encuentro. Nidos en Humedal Frescor , Cueva Tenacidad  y Llano Entrenamiento ",
+            "Evolucionar: a Minccino (piedra día)"
+        ],
+        "Escudo": [
+            "Salvaje: Gorro del Gigante",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón y Pradera Radiante, nido cerca del Punto de Encuentro. Nidos en Humedal Frescor , Cueva Tenacidad  y Llano Entrenamiento ",
+            "Evolucionar: a Minccino (piedra día)"
+        ],
+        "Diamante Brillante": [
+            "Cinccino no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cinccino no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cinccino no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Su pelaje blanco está recubierto por una grasa especial que hace resbalar los ataques enemigos.",
+        "Blanco": "El pelo que cubre su cuerpo proporciona una agradable sensación al tocarlo. No acumula ni polvo ni electricidad estática.",
+        "Negro 2": "El cuerpo de Cinccino está recubierto por una grasa especial que hace que los golpes y ataques enemigos no acierten.",
+        "Blanco 2": "El cuerpo de Cinccino está recubierto por una grasa especial que hace que los golpes y ataques enemigos no acierten.",
+        "Pokémon X": "El pelo que cubre su cuerpo proporciona una agradable sensación al tocarlo. No acumula ni polvo ni electricidad estática.",
+        "Pokémon Y": "El cuerpo de Cinccino está recubierto por una grasa especial que hace que los golpes y ataques enemigos no acierten.",
+        "Rubí Omega": "El pelo que cubre su cuerpo proporciona una agradable sensación al tocarlo. No acumula ni polvo ni electricidad estática.",
+        "Zafiro Alfa": "El cuerpo de Cinccino está recubierto por una grasa especial que hace que los golpes y ataques enemigos no acierten.",
+        "Sol": "No hay entrada de Cinccino en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Cinccino en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Su níveo pelaje está recubierto de una sustancia oleosa, secretada por su propio cuerpo, que hace resbalar los golpes enemigos.",
+        "Ultraluna": "La grasa que exuda por todo el cuerpo es muy lubrificante y altamente apreciada por las personas con problemas de piel seca.",
+        "Espada": "Es tan sumamente pulcro que no puede ver ni una mota de polvo. La grasa que exuda por el cuerpo le sirve de película protectora.",
+        "Escudo": "Su pelaje está recubierto por una grasa especial que repele los ataques enemigos y por la que se llegan a pagar auténticas fortunas.",
+        "Diamante Brillante": "Cinccino no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cinccino no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cinccino no aparece en Leyendas Pokémon: Arceus."
+    }
+}

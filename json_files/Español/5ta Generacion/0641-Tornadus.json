@@ -1,0 +1,101 @@
+{
+    "dex number": "0641",
+    "pokemon name": "Tornadus",
+    "types": [
+        " volador"
+    ],
+    "abilities": [
+        "Bromista",
+        "Regeneración"
+    ],
+    "hidden abilities": [
+        "Competitivo"
+    ],
+    "stats": {
+        "hp": 79,
+        "atk": 115,
+        "def": 70,
+        "atk esp": 125,
+        "def esp": 80,
+        "speed": 111
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Tras obtener todas las medallas de gimnasio, en el acceso a la Ruta 10, la recepcionista avisará que hay un clima extraño en la Ruta 7. En la casa de la anciana de la Ruta 7, esta explica la historia de Tornadus. Una vez terminada la historia, al salir de la casa, Tornadus aparecerá para luego errar por distintas rutas de Teselia. La presencia de Tornadus se nota por un clima de viento fuerte y lluvia, que es avisado en los paneles de las intersecciones entre rutas (solo uno)."
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Negro 2": [
+            "Especial: Transferir desde RAdar Pokémon. Se captura con la lente Maravilla α en su forma tótem (solo uno)",
+            "Intercambiar: de Pokémon Negro"
+        ],
+        "Blanco 2": [
+            "Especial: Transferir desde RAdar Pokémon. Se captura con la lente Maravilla α en su forma tótem (solo uno)",
+            "Intercambiar: de Pokémon Negro"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Rubí Omega"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Rubí Omega"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Usando ultravuelo en la nube oscura cerca de Ciudad Arborada llevando a Castform en el equipo (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo (solo uno)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Ultrasol",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Tornadus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tornadus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Páramo Algente. (Aceptar la petición 94: Los avatares de Hisui, solo uno)."
+        ]
+    },
+    "pokedex": {
+        "Negro": "La parte inferior de su cuerpo, similar a una nube, está recubierta de un campo de energía. Vuela a 300 km/h.",
+        "Blanco": "La energía que desprende de su cola genera violentas tempestades capaces de echar abajo casas.",
+        "Negro 2": "Le gusta ir volando de un lado a otro, generando tempestades tan potentes que pueden echar abajo una casa.",
+        "Blanco 2": "Le gusta ir volando de un lado a otro, generando tempestades tan potentes que pueden echar abajo una casa.",
+        "Pokémon X": "La parte inferior de su cuerpo, similar a una nube, está recubierta de un campo de energía. Vuela a 300 km/h.",
+        "Pokémon Y": "La energía que desprende de su cola genera violentas tempestades capaces de echar abajo casas.",
+        "Rubí Omega": "La parte inferior de su cuerpo, similar a una nube, está recubierta de un campo de energía. Vuela a 300 km/h.",
+        "Zafiro Alfa": "La energía que desprende de su cola genera violentas tempestades capaces de echar abajo casas.",
+        "Sol": "No hay entrada de Tornadus en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Tornadus en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Tornadus en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Tornadus en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de Tornadus en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Tornadus en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Tornadus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tornadus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "\nForma Avatar: Pokémon capaz de agitar el aire y generar tempestades. Se dice que altera la atmósfera y propicia el cambio de las estaciones. Tengo sospechas de que su forma antropomórfica no es la real.\nForma Tótem: El cambio de forma le confiere el aspecto de una extraña ave que sospecho que se trata de su forma original. Ha sido avistado cruzando los océanos de esta guisa."
+    }
+}

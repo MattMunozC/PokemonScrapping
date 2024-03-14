@@ -1,0 +1,105 @@
+{
+    "dex number": "0623",
+    "pokemon name": "Golurk",
+    "types": [
+        " tierra",
+        " fantasma"
+    ],
+    "abilities": [
+        "Puño férreo",
+        "Zoquete"
+    ],
+    "hidden abilities": [
+        "Indefenso"
+    ],
+    "stats": {
+        "hp": 89,
+        "atk": 124,
+        "def": 80,
+        "atk esp": 55,
+        "def esp": 80,
+        "speed": 55
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Golett (nivel 43)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Golett (nivel 43)"
+        ],
+        "Negro 2": [
+            "Salvaje: Torre Duodraco y Calle Victoria"
+        ],
+        "Blanco 2": [
+            "Salvaje: Torre Duodraco y Calle Victoria"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Golett (nivel 43)",
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Golett (nivel 43)",
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Golett (nivel 43)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Salvaje: Cuenca Polvorienta, Lago del Enfado, Silla del Gigante, Antigua Atalaya, Llanura Pétrea y Encrucijada Tresvías ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur. Nidos en Playa Desafío , Cueva Tenacidad , Mar Andana , Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Golett (nivel 43)"
+        ],
+        "Escudo": [
+            "Salvaje: Cuenca Polvorienta, Lago del Enfado, Silla del Gigante, Antigua Atalaya, Llanura Pétrea y Encrucijada Tresvías ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur. Nidos en Playa Desafío , Cueva Tenacidad , Mar Andana , Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Golett (nivel 43)"
+        ],
+        "Diamante Brillante": [
+            "Golurk no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Golurk no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Golurk no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Vuela a la velocidad del sonido. Pierde el control de su energía si se le retira el sello del pecho.",
+        "Blanco": "Al parecer, aquel que antaño lo creó le ordenó proteger a los Pokémon y a los humanos.",
+        "Negro 2": "Los Golurk fueron creados antaño para proteger a humanos y a Pokémon. Funcionan con una extraña energía.",
+        "Blanco 2": "Los Golurk fueron creados antaño para proteger a humanos y a Pokémon. Funcionan con una extraña energía.",
+        "Pokémon X": "Al parecer, aquel que antaño lo creó le ordenó proteger a los Pokémon y a los humanos.",
+        "Pokémon Y": "Vuela a la velocidad del sonido. Pierde el control de su energía si se le retira el sello del pecho.",
+        "Rubí Omega": "Al parecer, aquel que antaño lo creó le ordenó proteger a los Pokémon y a los humanos.",
+        "Zafiro Alfa": "Vuela a la velocidad del sonido. Pierde el control de su energía si se le retira el sello del pecho.",
+        "Sol": "No hay entrada de Golurk en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Golurk en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Se dice que fue creado en la antigüedad para usarlo como mano de obra. Acata las órdenes de su amo sin rechistar.",
+        "Ultraluna": "Si se le desprende el sello del pecho, pierde el control y arrasa con todo sin miramientos: puede convertir un pueblo en un montón de escombros.",
+        "Espada": "En los muros de antiguos castillos se hallan plataformas desde las que los Golurk podían disparar sus rayos como si fueran cañones.",
+        "Escudo": "Se dice que su cuerpo alberga un móvil perpetuo que genera energía, pero no se ha constatado la veracidad de tamaña afirmación.",
+        "Diamante Brillante": "Golurk no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Golurk no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Golurk no aparece en Leyendas Pokémon: Arceus."
+    }
+}

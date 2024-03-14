@@ -1,0 +1,98 @@
+{
+    "dex number": "0649",
+    "pokemon name": "Genesect",
+    "types": [
+        " bicho",
+        " acero"
+    ],
+    "abilities": [
+        "Descarga"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 71,
+        "atk": 120,
+        "def": 95,
+        "atk esp": 120,
+        "def esp": 95,
+        "speed": 99
+    },
+    "location": {
+        "Negro": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Blanco": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Negro 2": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Blanco 2": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Rubí Omega": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Zafiro Alfa": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Diamante Brillante": [
+            "Genesect no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Genesect no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Genesect no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Era temido hace 300 millones de años por ser el cazador más fiero y eficaz. Ha sido modificado por el Equipo Plasma.",
+        "Blanco": "Pokémon de tipo bicho de la antigüedad, modificado por el Equipo Plasma. El cañón de su lomo ha sido mejorado.",
+        "Negro 2": "Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.",
+        "Blanco 2": "Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.",
+        "Pokémon X": "Pokémon de tipo bicho de la antigüedad, modificado por el Equipo Plasma. El cañón de su lomo ha sido mejorado.",
+        "Pokémon Y": "Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.",
+        "Rubí Omega": "Pokémon de tipo bicho de la antigüedad, modificado por el Equipo Plasma. El cañón de su lomo ha sido mejorado.",
+        "Zafiro Alfa": "Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.",
+        "Sol": "No hay entrada de Genesect en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Genesect en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Genesect en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Genesect en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de Genesect en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Genesect en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Genesect no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Genesect no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Genesect no aparece en Leyendas Pokémon: Arceus."
+    }
+}

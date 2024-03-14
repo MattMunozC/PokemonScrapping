@@ -1,0 +1,98 @@
+{
+    "dex number": "0517",
+    "pokemon name": "Munna",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Alerta",
+        "Sincronía"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": 76,
+        "atk": 25,
+        "def": 45,
+        "atk esp": 67,
+        "def esp": 55,
+        "speed": 24
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Solar de los Sueños"
+        ],
+        "Blanco": [
+            "Salvaje: Solar de los Sueños"
+        ],
+        "Negro 2": [
+            "Salvaje: Solar de los Sueños"
+        ],
+        "Blanco 2": [
+            "Salvaje: Solar de los Sueños"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo psíquico"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo psíquico"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Monte espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Monte espejismo"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Oniria, Ojo de Axew (niebla), Valle Entrepuentes (niebla), Lago Axew (este) (niebla), Gorro del Gigante (niebla, nublado), Pradera Radiante (niebla), Llanura Pétrea (niebla)",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol",
+            "Curri: Bosque Oniria (zona norte)"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Oniria, Ojo de Axew (niebla), Valle Entrepuentes (niebla), Lago Axew (este) (niebla), Gorro del Gigante (niebla, nublado), Pradera Radiante (niebla), Llanura Pétrea (niebla)",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol",
+            "Curri: Bosque Oniria (zona norte)"
+        ],
+        "Diamante Brillante": [
+            "Munna no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Munna no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Munna no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Hace olvidar los sueños que come. Siempre está flotando.",
+        "Blanco": "Se alimenta de los sueños de humanos y Pokémon. Si los sueños son felices, despide humo rosa.",
+        "Negro 2": "Cuando un humano o un Pokémon sufre una pesadilla, Munna se aparece ante ellos y la engulle.",
+        "Blanco 2": "Cuando un humano o un Pokémon sufre una pesadilla, Munna se aparece ante ellos y la engulle.",
+        "Pokémon X": "Cuando un humano o un Pokémon sufre una pesadilla, Munna se aparece ante ellos y la engulle.",
+        "Pokémon Y": "Se alimenta de los sueños de humanos y Pokémon. Si los sueños son felices, despide humo rosa.",
+        "Rubí Omega": "Cuando un humano o un Pokémon sufre una pesadilla, Munna se aparece ante ellos y la engulle.",
+        "Zafiro Alfa": "Se alimenta de los sueños de humanos y Pokémon. Si los sueños son felices, despide humo rosa.",
+        "Sol": "No hay entrada de Munna en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Munna en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Munna en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Munna en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Aparece en plena noche junto a la almohada de la gente. Cuando devora los sueños, los motivos de su cuerpo emiten una luz tenue.",
+        "Escudo": "El humo que despide cambia de color en función del sueño que haya consumido. Si es alegre, será rosa, o negruzco en el caso de una pesadilla.",
+        "Diamante Brillante": "Munna no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Munna no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Munna no aparece en Leyendas Pokémon: Arceus."
+    }
+}

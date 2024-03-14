@@ -1,0 +1,100 @@
+{
+    "dex number": "0609",
+    "pokemon name": "Chandelure",
+    "types": [
+        " fantasma",
+        " fuego"
+    ],
+    "abilities": [
+        "Absorbe fuego",
+        "Cuerpo llama"
+    ],
+    "hidden abilities": [
+        "Sombra trampa",
+        "Allanamiento"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 55,
+        "def": 90,
+        "atk esp": 145,
+        "def esp": 90,
+        "speed": 80
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Lampent (piedra noche)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Lampent (piedra noche)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Lampent (piedra noche)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Lampent (piedra noche)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Lampent (piedra noche)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Lampent (piedra noche)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Evolucionar: a Lampent (piedra noche)"
+        ],
+        "Luna": [
+            "Evolucionar: a Lampent (piedra noche)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Lampent (piedra noche)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Lampent (piedra noche)"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado y Lecho del Gigante ",
+            "Evolucionar: a Lampent (piedra noche)",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Nidos en Prado Reverencia , Playa Desafío , Bahía Circular , Cuenca Arenosa , Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado y Lecho del Gigante ",
+            "Evolucionar: a Lampent (piedra noche)",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Nidos en Prado Reverencia , Playa Desafío , Bahía Circular , Cuenca Arenosa , Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Chandelure no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Chandelure no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Chandelure no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Absorbe almas y las quema. Mece las llamas de sus brazos para hipnotizar a sus enemigos.",
+        "Blanco": "Sus llamas absorben el alma del enemigo y la abrasan, dejando solo su cuerpo inerte.",
+        "Negro 2": "Las almas que han ardido bajo sus oscuras llamas vagan sin rumbo y eternamente por este mundo.",
+        "Blanco 2": "Las almas que han ardido bajo sus oscuras llamas vagan sin rumbo y eternamente por este mundo.",
+        "Pokémon X": "Sus llamas absorben el alma del enemigo y la abrasan, dejando solo su cuerpo inerte.",
+        "Pokémon Y": "Las almas que han ardido bajo sus oscuras llamas vagan sin rumbo y eternamente por este mundo.",
+        "Rubí Omega": "Sus llamas absorben el alma del enemigo y la abrasan, dejando solo su cuerpo inerte.",
+        "Zafiro Alfa": "Las almas que han ardido bajo sus oscuras llamas vagan sin rumbo y eternamente por este mundo.",
+        "Sol": "No hay entrada de Chandelure en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Chandelure en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Chandelure en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Chandelure en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Establece su morada en edificios antiguos. Mece las llamas de los brazos de forma siniestra para hipnotizar a sus enemigos.",
+        "Escudo": "Cuentan que, en las mansiones donde se usaba para la iluminación, los funerales se sucedían de forma incesante.",
+        "Diamante Brillante": "Chandelure no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Chandelure no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Chandelure no aparece en Leyendas Pokémon: Arceus."
+    }
+}

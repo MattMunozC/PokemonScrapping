@@ -1,0 +1,97 @@
+{
+    "dex number": "0503",
+    "pokemon name": "Samurott",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Caparazón"
+    ],
+    "stats": {
+        "hp": 95,
+        "atk": 100,
+        "def": 85,
+        "atk esp": 108,
+        "def esp": 70,
+        "speed": 70
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Dewott (nivel 36)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Dewott (nivel 36)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Dewott (nivel 36)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Dewott (nivel 36)"
+        ],
+        "Pokémon X": [
+            "Transferir: de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Transferir: de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega y Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Dewott (nivel 36)",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Dewott (nivel 36)",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Sol": [
+            "Escáner insular: Prado de Poni (viernes)"
+        ],
+        "Luna": [
+            "Escáner insular: Prado de Poni (viernes)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Samurott no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Samurott no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Samurott no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Samurott no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Samurott no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Derriba a su rival con un solo tajo del sable que lleva en su coraza. Acalla al enemigo con una simple mirada.",
+        "Blanco": "Utiliza una parte de la coraza de sus patas delanteras como un gran sable. Intimida a sus rivales con solo gruñir.",
+        "Negro 2": "En un abrir y cerrar de ojos, puede desenvainar y envainar los sables que hay en sus patas delanteras.",
+        "Blanco 2": "En un abrir y cerrar de ojos, puede desenvainar y envainar los sables que hay en sus patas delanteras.",
+        "Pokémon X": "En un abrir y cerrar de ojos, puede desenvainar y envainar los sables que hay en sus patas delanteras.",
+        "Pokémon Y": "Derriba a su rival con un solo tajo del sable que lleva en su coraza. Acalla al enemigo con una simple mirada.",
+        "Rubí Omega": "En un abrir y cerrar de ojos, puede desenvainar y envainar los sables que hay en sus patas delanteras.",
+        "Zafiro Alfa": "Derriba a su rival con un solo tajo del sable que lleva en su coraza. Acalla al enemigo con una simple mirada.",
+        "Sol": "No hay entrada de Samurott en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Samurott en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Samurott en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Samurott en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Samurott no aparece en Pokémon Espada.",
+        "Escudo": "Samurott no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Samurott no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Samurott no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Samurott no aparece en Leyendas Pokémon: Arceus."
+    }
+}

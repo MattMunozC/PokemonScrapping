@@ -1,0 +1,97 @@
+{
+    "dex number": "0502",
+    "pokemon name": "Dewott",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Caparazón"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 75,
+        "def": 60,
+        "atk esp": 83,
+        "def esp": 60,
+        "speed": 60
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Oshawott (nivel 17)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Oshawott (nivel 17)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Oshawott (nivel 17)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Oshawott (nivel 17)"
+        ],
+        "Pokémon X": [
+            "Transferir: De Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Transferir: De Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Oshawott (nivel 17)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Oshawott (nivel 17)"
+        ],
+        "Sol": [
+            "Evolucionar: a Oshawott (nivel 17)"
+        ],
+        "Luna": [
+            "Evolucionar: a Oshawott (nivel 17)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Dewott no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Dewott no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Dewott no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dewott no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Evolucionar: a Oshawott (nivel 17)",
+            "Distorsión espaciotemporal: Tundra Alba",
+            "Aparición supermasiva: Tundra Alba"
+        ]
+    },
+    "pokedex": {
+        "Negro": "Gran espadachín. Utiliza sus dos vieiras con soltura al ejecutar las técnicas que aprende con una disciplina espartana.",
+        "Blanco": "Cada Dewott utiliza diferentes técnicas de espadachín con sus dos vieiras, cuyo mantenimiento nunca descuida.",
+        "Negro 2": "Tras un exhaustivo entrenamiento, Dewott puede dominar diversas técnicas para usar con sus vieiras.",
+        "Blanco 2": "Tras un exhaustivo entrenamiento, Dewott puede dominar diversas técnicas para usar con sus vieiras.",
+        "Pokémon X": "Gran espadachín. Utiliza sus dos vieiras con soltura al ejecutar las técnicas que aprende con una disciplina espartana.",
+        "Pokémon Y": "Tras un exhaustivo entrenamiento, Dewott puede dominar diversas técnicas para usar con sus vieiras.",
+        "Rubí Omega": "Gran espadachín. Utiliza sus dos vieiras con soltura al ejecutar las técnicas que aprende con una disciplina espartana.",
+        "Zafiro Alfa": "Tras un exhaustivo entrenamiento, Dewott puede dominar diversas técnicas para usar con sus vieiras.",
+        "Sol": "No hay entrada de Dewott en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Dewott en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Dewott en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Dewott en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Dewott no aparece en Pokémon Espada.",
+        "Escudo": "Dewott no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Dewott no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dewott no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Como resultado de un duro entrenamiento diario, su manejo de las dos cuchilleiras excede incluso al de un maestro espadachín."
+    }
+}

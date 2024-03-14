@@ -1,0 +1,100 @@
+{
+    "dex number": "0549",
+    "pokemon name": "Lilligant",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Ritmo propio"
+    ],
+    "hidden abilities": [
+        "Defensa hoja"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 60,
+        "def": 75,
+        "atk esp": 110,
+        "def esp": 75,
+        "speed": 90
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Petilil (piedra solar)"
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Azulejo, Santuario Abundancia y Bosque de los Perdidos",
+            "Evolucionar: a Petilil (piedra solar)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Petilil (piedra solar)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Solar de Ciudad Porcelana, Bosque Azulejo, Santuario Abundancia, Bosque de los Perdidos y Calle Victoria",
+            "Evolucionar: a Petilil (piedra solar)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Petilil (piedra solar)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Petilil (piedra solar)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Petilil (piedra solar)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Petilil (piedra solar)"
+        ],
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Evolucionar: a Petilil (piedra solar)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Petilil (piedra solar)"
+        ],
+        "Espada": [
+            "Salvaje: Humedal Frescor , Playa Desafío , Llano Entrenamiento  e Isla Melosa ",
+            "Incursiones Dinamax: Nidos en Prado Reverencia , Humedal Frescor , Llano Entrenamiento  y Mar Meloso ",
+            "Evolucionar: a Petilil (piedra solar)"
+        ],
+        "Escudo": [
+            "Salvaje: Humedal Frescor , Playa Desafío , Llano Entrenamiento  e Isla Melosa ",
+            "Incursiones Dinamax: Nidos en Prado Reverencia , Humedal Frescor , Llano Entrenamiento  y Mar Meloso ",
+            "Evolucionar: a Petilil (piedra solar)"
+        ],
+        "Diamante Brillante": [
+            "Lilligant no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Lilligant no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Lilligant no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Todos los famosos quieren uno. Incluso a los Entrenadores más curtidos les cuesta que florezca.",
+        "Blanco": "El aroma de la flor de su tocado relaja a cualquiera a su alrededor. Hay que cuidarlo para que no se marchite.",
+        "Negro 2": "El aroma que despide la flor de su tocado tiene efectos tranquilizantes, pero este Pokémon requiere muchos cuidados.",
+        "Blanco 2": "El aroma que despide la flor de su tocado tiene efectos tranquilizantes, pero este Pokémon requiere muchos cuidados.",
+        "Pokémon X": "El aroma de la flor de su tocado relaja a cualquiera a su alrededor. Hay que cuidarlo para que no se marchite.",
+        "Pokémon Y": "Todos los famosos quieren uno. Incluso a los Entrenadores más curtidos les cuesta que florezca.",
+        "Rubí Omega": "El aroma de la flor de su tocado relaja a cualquiera a su alrededor. Hay que cuidarlo para que no se marchite.",
+        "Zafiro Alfa": "Todos los famosos quieren uno. Incluso a los Entrenadores más curtidos les cuesta que florezca.",
+        "Sol": "Por muchos esfuerzos o dinero que destine la gente para hacerla florecer, siempre es más bella la flor que brota en un ejemplar salvaje.",
+        "Luna": "Nada más encontrar un compañero, su bella flor comienza a languidecer y poco a poco se va marchitando sin remedio.",
+        "Ultrasol": "El olor que desprende su flor varía en función de la composición de la tierra en la que crezca. Su aroma calma los nervios y sosiega el alma.",
+        "Ultraluna": "Su belleza fascina a otros Pokémon. La flor de la cabeza se marchita enseguida si no se le presta el cuidado necesario.",
+        "Espada": "Se dice que conseguir que la flor de su cabeza florezca es una empresa titánica incluso para los mejores jardineros.",
+        "Escudo": "El aceite esencial que se extrae de su flor emana un aroma sublime, aunque su precio resulta desorbitado.",
+        "Diamante Brillante": "Lilligant no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Lilligant no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Lilligant no aparece en Leyendas Pokémon: Arceus."
+    }
+}

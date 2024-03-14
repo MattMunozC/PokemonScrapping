@@ -1,0 +1,96 @@
+{
+    "dex number": "0568",
+    "pokemon name": "Trubbish",
+    "types": [
+        " veneno"
+    ],
+    "abilities": [
+        "Hedor",
+        "Viscosidad"
+    ],
+    "hidden abilities": [
+        "Detonación"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 50,
+        "def": 62,
+        "atk esp": 40,
+        "def esp": 62,
+        "speed": 65
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 5 y Ruta 16"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 5 y Ruta 16"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 4, Ruta 5 y Ruta 16"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 5 y Ruta 16"
+        ],
+        "Pokémon X": [
+            "Salvaje: Cubos de basura del Hotel Desolación"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cubos de basura del Hotel Desolación"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 110, usando el DexNav tras obtener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 110, usando el DexNav tras obtener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Salvaje: Cabo de las Afueras"
+        ],
+        "Luna": [
+            "Salvaje: Cabo de las Afueras"
+        ],
+        "Ultrasol": [
+            "Salvaje: Cabo de las Afueras"
+        ],
+        "Ultraluna": [
+            "Salvaje: Cabo de las Afueras"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 3",
+            "Incursiones Dinamax: Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 3",
+            "Incursiones Dinamax: Gorro del Gigante, nido al suroeste, Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón"
+        ],
+        "Diamante Brillante": [
+            "Trubbish no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Trubbish no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Trubbish no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Le gustan los lugares con suciedad. Quien inhala los gases que eructa duerme durante una semana.",
+        "Blanco": "Pokémon nacido de la reacción química entre una bolsa de basura y residuos industriales.",
+        "Negro 2": "Para hacerse con más basura, sigue a gente que arroja desperdicios al suelo. Despide continuamente gases nocivos.",
+        "Blanco 2": "Para hacerse con más basura, sigue a gente que arroja desperdicios al suelo. Despide continuamente gases nocivos.",
+        "Pokémon X": "Pokémon nacido de la reacción química entre una bolsa de basura y residuos industriales.",
+        "Pokémon Y": "Le gustan los lugares con suciedad. Quien inhala los gases que eructa duerme durante una semana.",
+        "Rubí Omega": "Pokémon nacido de la reacción química entre una bolsa de basura y residuos industriales.",
+        "Zafiro Alfa": "Le gustan los lugares con suciedad. Quien inhala los gases que eructa duerme durante una semana.",
+        "Sol": "Le gustan los lugares sucios. En Alola se lo suele ver junto a Grimer, que lo sigue a todas partes.",
+        "Luna": "Tras atiborrarse de basura, eructa unos gases venenosos capaces de llevar a cualquiera al hospital en caso de inhalarlos sin querer.",
+        "Ultrasol": "Expulsa gases nocivos al respirar. Cuando Muk se percata del olor, acude salivando.",
+        "Ultraluna": "Los gases que exhala a modo de eructos pueden poner en peligro la vida de niños y crías Pokémon que los inhalen de forma accidental.",
+        "Espada": "Le gustan los lugares insalubres. Puede llegar a establecerse en las casas de aquellas personas que no hagan la limpieza con regularidad.",
+        "Escudo": "Nació a partir de una rebosante bolsa de basura. Los gases nocivos que eructa son un manjar para los Weezing de Galar.",
+        "Diamante Brillante": "Trubbish no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Trubbish no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Trubbish no aparece en Leyendas Pokémon: Arceus."
+    }
+}

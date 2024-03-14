@@ -1,0 +1,96 @@
+{
+    "dex number": "0500",
+    "pokemon name": "Emboar",
+    "types": [
+        " fuego",
+        " lucha"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Audaz"
+    ],
+    "stats": {
+        "hp": 110,
+        "atk": 123,
+        "def": 65,
+        "atk esp": 100,
+        "def esp": 65,
+        "speed": 65
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Pignite (nivel 36)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Pignite (nivel 36)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Pignite (nivel 36)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Pignite (nivel 36)"
+        ],
+        "Pokémon X": [
+            "Transferir: de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Transferir: de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Pignite (nivel 36)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Pignite (nivel 36)"
+        ],
+        "Sol": [
+            "Escáner insular: Antiguo Paso de Poni (sábados)"
+        ],
+        "Luna": [
+            "Escáner insular: Antiguo Paso de Poni (sábados)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Emboar no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Emboar no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Emboar no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Emboar no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Emboar no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Calienta sus puños con las llamas de su barbilla para propinar puñetazos ardientes. Es muy fiel a sus compañeros.",
+        "Blanco": "Posee una tupida barba fogosa. Es tanto rápido como poderoso, y su principal baza es la lucha cuerpo a cuerpo.",
+        "Negro 2": "El hecho de que su barba prenda en llamas es indicio de que tiene ganas de luchar. Domina numerosos movimientos.",
+        "Blanco 2": "El hecho de que su barba prenda en llamas es indicio de que tiene ganas de luchar. Domina numerosos movimientos.",
+        "Pokémon X": "Calienta sus puños con las llamas de su barbilla para propinar puñetazos ardientes. Es muy fiel a sus compañeros.",
+        "Pokémon Y": "Posee una tupida barba fogosa. Es tanto rápido como poderoso, y su principal baza es la lucha cuerpo a cuerpo.",
+        "Rubí Omega": "Calienta sus puños con las llamas de su barbilla para propinar puñetazos ardientes. Es muy fiel a sus compañeros.",
+        "Zafiro Alfa": "Posee una tupida barba fogosa. Es tanto rápido como poderoso, y su principal baza es la lucha cuerpo a cuerpo.",
+        "Sol": "No hay entrada de Emboar en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Emboar en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Emboar en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Emboar en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Emboar no aparece en Pokémon Espada.",
+        "Escudo": "Emboar no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Emboar no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Emboar no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Emboar no aparece en Leyendas Pokémon: Arceus."
+    }
+}

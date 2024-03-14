@@ -1,0 +1,106 @@
+{
+    "dex number": "0600",
+    "pokemon name": "Klang",
+    "types": [
+        " acero"
+    ],
+    "abilities": [
+        "Más",
+        "Menos"
+    ],
+    "hidden abilities": [
+        "Cuerpo puro"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 80,
+        "def": 95,
+        "atk esp": 70,
+        "def esp": 85,
+        "speed": 50
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Klink (nivel 38)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Klink (nivel 38)"
+        ],
+        "Negro 2": [
+            "Salvaje: Laboratorio P+P",
+            "Evolucionar: a Klink (nivel 38)",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco 2": [
+            "Salvaje: Laboratorio P+P",
+            "Evolucionar: a Klink (nivel 38)",
+            "Dream World: Cueva Helada"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo acero"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo acero"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Klink (nivel 38)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Klink (nivel 38)"
+        ],
+        "Sol": [
+            "Evolucionar: a Klink (nivel 38)"
+        ],
+        "Luna": [
+            "Evolucionar: a Klink (nivel 38)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 10, Cuenca Polvorienta y Cornisa de Artejo",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte",
+            "Curri: Ruta 10 (zona sur)",
+            "Evolucionar: a Klink (nivel 38)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 10, Cuenca Polvorienta y Cornisa de Artejo",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte",
+            "Curri: Ruta 10 (zona sur)",
+            "Evolucionar: a Klink (nivel 38)"
+        ],
+        "Diamante Brillante": [
+            "Klang no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Klang no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Klang no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Muestra sus sentimientos cambiando la dirección de su giro. Cuanto más se enfade, más rápido girará.",
+        "Blanco": "Hace girar sus engranajes menores frenéticamente para lanzarlos en sus ataques. Es peligroso si no regresan.",
+        "Negro 2": "Se compone de una rueda dentada grande y otra pequeña. Lanza la pequeña para atacar, pero se debilita si no regresa.",
+        "Blanco 2": "Se compone de una rueda dentada grande y otra pequeña. Lanza la pequeña para atacar, pero se debilita si no regresa.",
+        "Pokémon X": "Muestra sus sentimientos cambiando la dirección de su giro. Cuanto más se enfade, más rápido girará.",
+        "Pokémon Y": "Se compone de una rueda dentada grande y otra pequeña. Lanza la pequeña para atacar, pero se debilita si no regresa.",
+        "Rubí Omega": "Muestra sus sentimientos cambiando la dirección de su giro. Cuanto más se enfade, más rápido girará.",
+        "Zafiro Alfa": "Se compone de una rueda dentada grande y otra pequeña. Lanza la pequeña para atacar, pero se debilita si no regresa.",
+        "Sol": "No hay entrada de Klang en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Klang en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Klang en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Klang en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Cuando se pone en serio, la parte externa de la rueda dentada grande se acopla a la pequeña y aumenta su velocidad de rotación.",
+        "Escudo": "Muchas empresas de Galar usan su imagen en sus logotipos como símbolo de tecnología industrial.",
+        "Diamante Brillante": "Klang no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Klang no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Klang no aparece en Leyendas Pokémon: Arceus."
+    }
+}

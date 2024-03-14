@@ -1,0 +1,96 @@
+{
+    "dex number": "0634",
+    "pokemon name": "Zweilous",
+    "types": [
+        " siniestro",
+        " dragón"
+    ],
+    "abilities": [
+        "Entusiasmo"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 72,
+        "atk": 85,
+        "def": 70,
+        "atk esp": 65,
+        "def esp": 70,
+        "speed": 58
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Deino (nivel 50)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Deino (nivel 50)"
+        ],
+        "Negro 2": [
+            "Salvaje: Calle Victoria"
+        ],
+        "Blanco 2": [
+            "Salvaje: Calle Victoria"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Deino (nivel 50)",
+            "Salvaje: Calle Victoria"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Deino (nivel 50)",
+            "Salvaje: Calle Victoria"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Deino (nivel 50)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Deino (nivel 50)"
+        ],
+        "Sol": [
+            "Evolucionar: a Deino (nivel 50)"
+        ],
+        "Luna": [
+            "Evolucionar: a Deino (nivel 50)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste y Valle Entrepuentes, nido al norte cerca de la laguna",
+            "Evolucionar: a Deino (nivel 50)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Zweilous no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Zweilous no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Zweilous no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Cambia de morada siempre que termina con la comida de una zona. Sus dos cabezas se llevan fatal.",
+        "Blanco": "Sus dos cabezas se llevan mal y se disputan la comida con brutalidad. Por eso acaban comiendo más de la cuenta.",
+        "Negro 2": "Sus dos cabezas se llevan fatal, y la que consigue comer más que la otra es la que lleva la voz cantante.",
+        "Blanco 2": "Sus dos cabezas se llevan fatal, y la que consigue comer más que la otra es la que lleva la voz cantante.",
+        "Pokémon X": "Sus dos cabezas se llevan fatal, y la que consigue comer más que la otra es la que lleva la voz cantante.",
+        "Pokémon Y": "Cambia de morada siempre que termina con la comida de una zona. Sus dos cabezas se llevan fatal.",
+        "Rubí Omega": "Sus dos cabezas se llevan fatal, y la que consigue comer más que la otra es la que lleva la voz cantante.",
+        "Zafiro Alfa": "Cambia de morada siempre que termina con la comida de una zona. Sus dos cabezas se llevan fatal.",
+        "Sol": "No hay entrada de Zweilous en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Zweilous en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Zweilous en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Zweilous en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Rastrea su territorio en busca de alimento. A menudo sus dos cabezas son incapaces de acordar hacia qué dirección avanzar.",
+        "Escudo": "Las dos cabezas se disputan la comida con brutalidad. Por eso siempre está cubierto de heridas, aunque no haya combatido contra nadie.",
+        "Diamante Brillante": "Zweilous no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Zweilous no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Zweilous no aparece en Leyendas Pokémon: Arceus."
+    }
+}

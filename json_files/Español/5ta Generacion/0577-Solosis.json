@@ -1,0 +1,95 @@
+{
+    "dex number": "0577",
+    "pokemon name": "Solosis",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Funda",
+        "Muro mágico"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 30,
+        "def": 40,
+        "atk esp": 105,
+        "def esp": 50,
+        "speed": 20
+    },
+    "location": {
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 5 y Ruta 16"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Blanco 2"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 5, Ruta 16 y Villa Horroris"
+        ],
+        "Pokémon X": [
+            "Salvaje: Cueva de los Reflejos"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva de los Reflejos"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Gorro del Gigante, Campo Deslizante  y Campo Bajocero .",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol"
+        ],
+        "Diamante Brillante": [
+            "Solosis no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Solosis no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Solosis no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Desata su poder psíquico para ahuyentar al enemigo. Se comunica con sus compañeros por telepatía.",
+        "Blanco": "Puede vivir en cualquier ambiente gracias al líquido especial que recubre su cuerpo.",
+        "Negro 2": "Gracias a la sustancia viscosa que envuelve su cuerpo, permanece tranquilo por dura o rigurosa que sea la situación.",
+        "Blanco 2": "Gracias a la sustancia viscosa que envuelve su cuerpo, permanece tranquilo por dura o rigurosa que sea la situación.",
+        "Pokémon X": "Gracias a la sustancia viscosa que envuelve su cuerpo, permanece tranquilo por dura o rigurosa que sea la situación.",
+        "Pokémon Y": "Desata su poder psíquico para ahuyentar al enemigo. Se comunica con sus compañeros por telepatía.",
+        "Rubí Omega": "Gracias a la sustancia viscosa que envuelve su cuerpo, permanece tranquilo por dura o rigurosa que sea la situación.",
+        "Zafiro Alfa": "Desata su poder psíquico para ahuyentar al enemigo. Se comunica con sus compañeros por telepatía.",
+        "Sol": "No hay entrada de Solosis en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Solosis en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Solosis en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Solosis en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Se comunica mediante telepatía. Si recibe un fuerte golpe, la sustancia viscosa que lo envuelve se desparrama.",
+        "Escudo": "Se cree que la sustancia viscosa que lo envuelve le permite sobrevivir en el espacio exterior.",
+        "Diamante Brillante": "Solosis no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Solosis no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Solosis no aparece en Leyendas Pokémon: Arceus."
+    }
+}

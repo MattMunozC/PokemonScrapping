@@ -1,0 +1,93 @@
+{
+    "dex number": "0633",
+    "pokemon name": "Deino",
+    "types": [
+        " siniestro",
+        " dragón"
+    ],
+    "abilities": [
+        "Entusiasmo"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 52,
+        "atk": 65,
+        "def": 50,
+        "atk esp": 45,
+        "def esp": 50,
+        "speed": 38
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Calle Victoria"
+        ],
+        "Blanco": [
+            "Salvaje: Calle Victoria"
+        ],
+        "Negro 2": [
+            "Criar: de Zweilous o Hydreigon"
+        ],
+        "Blanco 2": [
+            "Criar: de Zweilous o Hydreigon"
+        ],
+        "Pokémon X": [
+            "Criar: de Zweilous o Hydreigon"
+        ],
+        "Pokémon Y": [
+            "Criar: de Zweilous o Hydreigon"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cascada Meteoro, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cascada Meteoro, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Escáner insular: Colina Dequilate (solo los martes)"
+        ],
+        "Luna": [
+            "Escáner insular: Colina Dequilate (solo los martes)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado y Grutas Sonamar ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste y Valle Entrepuentes, nido al norte cerca de la laguna"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Deino no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Deino no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Deino no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Mordisquea todo aquello a su paso y se come todo aquello que sea comestible. Es peligroso acercarse a él sin cuidado.",
+        "Blanco": "No ve, por eso va haciendo placajes y dando mordiscos a diestro y siniestro. Su cuerpo está plagado de heridas.",
+        "Negro 2": "No ve bien a su alrededor, por eso va chocándose a diestro y siniestro, y mordiendo todo lo que se mueve.",
+        "Blanco 2": "No ve bien a su alrededor, por eso va chocándose a diestro y siniestro, y mordiendo todo lo que se mueve.",
+        "Pokémon X": "No ve, por eso va haciendo placajes y dando mordiscos a diestro y siniestro. Su cuerpo está plagado de heridas.",
+        "Pokémon Y": "No ve bien a su alrededor, por eso va chocándose a diestro y siniestro, y mordiendo todo lo que se mueve.",
+        "Rubí Omega": "No ve, por eso va haciendo placajes y dando mordiscos a diestro y siniestro. Su cuerpo está plagado de heridas.",
+        "Zafiro Alfa": "No ve bien a su alrededor, por eso va chocándose a diestro y siniestro, y mordiendo todo lo que se mueve.",
+        "Sol": "No hay entrada de Deino en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Deino en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Deino en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Deino en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Muestra cierta tendencia a morder todo lo que encuentra. Se cree que recuerda perfectamente el olor de lo que encuentra delicioso.",
+        "Escudo": "Al no poder ver, su forma de orientarse y percibir el entorno consiste en chocarse a diestro y siniestro, mordiendo todo lo que se encuentra.",
+        "Diamante Brillante": "Deino no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Deino no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Deino no aparece en Leyendas Pokémon: Arceus."
+    }
+}

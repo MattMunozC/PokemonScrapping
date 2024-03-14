@@ -1,0 +1,98 @@
+{
+    "dex number": "0590",
+    "pokemon name": "Foongus",
+    "types": [
+        " planta",
+        " veneno"
+    ],
+    "abilities": [
+        "Efecto espora"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": 69,
+        "atk": 55,
+        "def": 45,
+        "atk esp": 55,
+        "def esp": 55,
+        "speed": 15
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 6, Ruta 7 y Ruta 10"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 6, Ruta 7 y Ruta 10"
+        ],
+        "Negro 2": [
+            "Pokémon salvaje: Ruta 6 y Ruta 7",
+            "Claro oculto: de Ruta 5, Ruta 6 y Ruta 13"
+        ],
+        "Blanco 2": [
+            "Pokémon salvaje: Ruta 6 y Ruta 7",
+            "Claro oculto: de Ruta 5, Ruta 6 y Ruta 13"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 15, Ruta 16, Ruta 20 y Villa Pokémon (encuentro de horda)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 15, Ruta 16, Ruta 20 y Villa Pokémon (encuentro de horda)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Pokémon salvaje: Bosque Concentración ",
+            "Incursiones Dinamax: Nidos en Prado Reverencia , Bosque Concentración , Humedal Frescor , Llano Entrenamiento  y Mar Islejos "
+        ],
+        "Escudo": [
+            "Pokémon salvaje: Bosque Concentración ",
+            "Incursiones Dinamax: Nidos en Prado Reverencia , Bosque Concentración , Humedal Frescor , Llano Entrenamiento  y Mar Islejos "
+        ],
+        "Diamante Brillante": [
+            "Foongus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Foongus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Foongus no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Gracias a su misterioso parecido a una Poké Ball, atrae a sus presas y lanza rápidamente esporas de veneno.",
+        "Blanco": "Por razones desconocidas, se parece a una Poké Ball. Lanza esporas de veneno para repeler al enemigo.",
+        "Negro 2": "Atraen a otros Pokémon gracias a su similitud con una Poké Ball y los atacan expulsando esporas venenosas.",
+        "Blanco 2": "Atraen a otros Pokémon gracias a su similitud con una Poké Ball y los atacan expulsando esporas venenosas.",
+        "Pokémon X": "Gracias a su misterioso parecido a una Poké Ball, atrae a sus presas y lanza rápidamente esporas de veneno.",
+        "Pokémon Y": "Atraen a otros Pokémon gracias a su similitud con una Poké Ball y los atacan expulsando esporas venenosas.",
+        "Rubí Omega": "Gracias a su misterioso parecido a una Poké Ball, atrae a sus presas y lanza rápidamente esporas de veneno.",
+        "Zafiro Alfa": "Atraen a otros Pokémon gracias a su similitud con una Poké Ball y los atacan expulsando esporas venenosas.",
+        "Sol": "No hay entrada de Foongus en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Foongus en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Foongus en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Foongus en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Todavía no se ha encontrado ninguna explicación ni razón para su gran parecido a las Poké Balls.",
+        "Escudo": "Las esporas que expulsa por las extremidades son altamente tóxicas, pero, si se secan bien, sirven como remedio estomacal.",
+        "Diamante Brillante": "Foongus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Foongus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Foongus no aparece en Leyendas Pokémon: Arceus."
+    }
+}

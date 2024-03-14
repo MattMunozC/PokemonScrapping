@@ -1,0 +1,98 @@
+{
+    "dex number": "0647",
+    "pokemon name": "Keldeo",
+    "types": [
+        " agua",
+        " lucha"
+    ],
+    "abilities": [
+        "Justiciero"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 91,
+        "atk": 72,
+        "def": 90,
+        "atk esp": 129,
+        "def esp": 90,
+        "speed": 108
+    },
+    "location": {
+        "Negro": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Blanco": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Negro 2": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Blanco 2": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Pokémon X": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Poké Trasladador: transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2"
+        ],
+        "Pokémon Y": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Poké Trasladador: transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2"
+        ],
+        "Rubí Omega": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Poké Trasladador: transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2"
+        ],
+        "Zafiro Alfa": [
+            "Evento: Repartido por evento (ver más abajo)",
+            "Poké Trasladador: transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Lago Bolaguna, llevando a Cobalion, Terrakion y Virizion en el equipo y preparando un curri en la isla donde hay una olla ",
+            "Pokémon HOME: Transferir desde videojuegos anteriores"
+        ],
+        "Escudo": [
+            "Salvaje: Lago Bolaguna, llevando a Cobalion, Terrakion y Virizion en el equipo y preparando un curri en la isla donde hay una olla ",
+            "Pokémon HOME: Transferir desde videojuegos anteriores"
+        ],
+        "Diamante Brillante": [
+            "Keldeo no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Keldeo no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Keldeo no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Desprende agua por sus pezuñas para poder deslizarse. Es especialista en atacar usando sus patas.",
+        "Blanco": "Corre por mares, ríos o cualquier superficie acuática de todo el mundo. Aparece en aguas límpidas.",
+        "Negro 2": "Cuando está decidido, su cuerpo rebosa brío, y es capaz de saltar más alto y correr más de lo que la vista alcanza.",
+        "Blanco 2": "Cuando está decidido, su cuerpo rebosa brío, y es capaz de saltar más alto y correr más de lo que la vista alcanza.",
+        "Pokémon X": "Corre por mares, ríos o cualquier superficie acuática de todo el mundo. Aparece en aguas límpidas.",
+        "Pokémon Y": "Cuando está decidido, su cuerpo rebosa brío, y es capaz de saltar más alto y correr más de lo que la vista alcanza.",
+        "Rubí Omega": "Corre por mares, ríos o cualquier superficie acuática de todo el mundo. Aparece en aguas límpidas.",
+        "Zafiro Alfa": "Cuando está decidido, su cuerpo rebosa brío, y es capaz de saltar más alto y correr más de lo que la vista alcanza.",
+        "Sol": "No hay entrada de Keldeo en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Keldeo en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Keldeo en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Keldeo en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "\nForma habitual: Aprendió a luchar bajo la tutela de Cobalion, Terrakion y Virizion. Ahora recorre el mundo perfeccionando su destreza.\nForma brío: Su firme resolución combativa hace que todo su cuerpo rebose brío e incluso provoca un cambio de forma.",
+        "Escudo": "\nForma habitual: A base de superar encarnizados combates, su cuerno se fortalece y, entonces, despierta su verdadero poder.\nForma brío: Su poder latente se ha concentrado en el cuerno de la frente y lo ha convertido en una espada que todo lo corta.",
+        "Diamante Brillante": "Keldeo no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Keldeo no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Keldeo no aparece en Leyendas Pokémon: Arceus."
+    }
+}

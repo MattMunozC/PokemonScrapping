@@ -1,0 +1,108 @@
+{
+    "dex number": "0583",
+    "pokemon name": "Vanillish",
+    "types": [
+        " hielo"
+    ],
+    "abilities": [
+        "Gélido",
+        "Manto níveo"
+    ],
+    "hidden abilities": [
+        "Armadura frágil"
+    ],
+    "stats": {
+        "hp": 51,
+        "atk": 65,
+        "def": 65,
+        "atk esp": 80,
+        "def esp": 75,
+        "speed": 59
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Torre Duodraco (invierno)",
+            "Evolucionar: a Vanillite (nivel 35)"
+        ],
+        "Blanco": [
+            "Salvaje: Torre Duodraco (invierno)",
+            "Evolucionar: a Vanillite (nivel 35)"
+        ],
+        "Negro 2": [
+            "Salvaje: Boquete Gigante (todo el año) y Torre Duodraco (invierno)",
+            "Evolucionar: a Vanillite (nivel 35)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Boquete Gigante (todo el año) y Torre Duodraco (invierno)",
+            "Evolucionar: a Vanillite (nivel 35)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Vanillite (nivel 35)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Vanillite (nivel 35)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Salvaje: Monte Lanakila (Como refuerzo en granizo)",
+            "Evolucionar: a Vanillite (nivel 35)"
+        ],
+        "Luna": [
+            "Salvaje: Monte Lanakila (Como refuerzo en granizo)",
+            "Evolucionar: a Vanillite (nivel 35)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Monte Lanakila (Como refuerzo en granizo)",
+            "Evolucionar: a Vanillite (nivel 35)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Monte Lanakila (Como refuerzo en granizo)",
+            "Evolucionar: a Vanillite (nivel 35)"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 8 (Senda Vaporosa), Ruta 10, Arboleda Claroscuro, Ojo de Axew y Cuenca Polvorienta",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste y Cuenca Polvorienta, nido al norte de la losa de piedra elevada",
+            "Curri: Ruta 10",
+            "Evolucionar: a Vanillite (nivel 35)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 8 (Senda Vaporosa), Ruta 10, Arboleda Claroscuro, Ojo de Axew y Cuenca Polvorienta",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste y Cuenca Polvorienta, nido al norte de la losa de piedra elevada",
+            "Curri: Ruta 10",
+            "Evolucionar: a Vanillite (nivel 35)"
+        ],
+        "Diamante Brillante": [
+            "Vanillish no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Vanillish no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Vanillish no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Vive en las cumbres nevadas. Migró hacia el sur durante la era glaciar, hace muchísimos años.",
+        "Blanco": "Genera multitud de partículas de hielo para ocultarse de sus enemigos.",
+        "Negro 2": "Enfrían el aire a su alrededor y crean partículas de hielo mediante las cuales congelan a sus oponentes.",
+        "Blanco 2": "Enfrían el aire a su alrededor y crean partículas de hielo mediante las cuales congelan a sus oponentes.",
+        "Pokémon X": "Enfrían el aire a su alrededor y crean partículas de hielo mediante las cuales congelan a sus oponentes.",
+        "Pokémon Y": "Vive en las cumbres nevadas. Migró hacia el sur durante la era glaciar, hace muchísimos años.",
+        "Rubí Omega": "Enfrían el aire a su alrededor y crean partículas de hielo mediante las cuales congelan a sus oponentes.",
+        "Zafiro Alfa": "Vive en las cumbres nevadas. Migró hacia el sur durante la era glaciar, hace muchísimos años.",
+        "Sol": "Su cuerpo se derrite en los días calurosos. Al congelarse recobra su aspecto original, aunque ligeramente deformado.",
+        "Luna": "Sus orígenes se remontan a la era glacial. Usa partículas de hielo para congelar a su enemigo y hacerlo después añicos de un cabezazo.",
+        "Ultrasol": "Exhala partículas de hielo para congelar a sus rivales. Los Vanillish de la región de Alola son más pequeños que el resto.",
+        "Ultraluna": "Un Pokémon muy resistente que logró sobrevivir a la glaciación. En las regiones cálidas goza de gran popularidad.",
+        "Espada": "Bebe agua pura para agrandar su cuerpo de hielo. Apenas se ven ejemplares durante los días soleados.",
+        "Escudo": "Congela a sus enemigos con un vaho a -100 °C, pero no llega a arrebatarles la vida debido a su carácter benévolo.",
+        "Diamante Brillante": "Vanillish no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Vanillish no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Vanillish no aparece en Leyendas Pokémon: Arceus."
+    }
+}

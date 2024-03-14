@@ -1,0 +1,101 @@
+{
+    "dex number": "0553",
+    "pokemon name": "Krookodile",
+    "types": [
+        " tierra",
+        " siniestro"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Autoestima"
+    ],
+    "hidden abilities": [
+        "Irascible"
+    ],
+    "stats": {
+        "hp": 95,
+        "atk": 117,
+        "def": 80,
+        "atk esp": 65,
+        "def esp": 70,
+        "speed": 92
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Krokorok (nivel 40)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Krokorok (nivel 40)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Krokorok (nivel 40)",
+            "Pokémon Dream World: Monte Escarpado"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Krokorok (nivel 40)",
+            "Pokémon Dream World: Monte Escarpado"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Krokorok (nivel 40)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Krokorok (nivel 40)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Krokorok (nivel 40)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Krokorok (nivel 40)"
+        ],
+        "Sol": [
+            "Evolucionar: a Krokorok (nivel 40)"
+        ],
+        "Luna": [
+            "Evolucionar: a Krokorok (nivel 40)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Krokorok (nivel 40)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Krokorok (nivel 40)"
+        ],
+        "Espada": [
+            "Salvaje: Cuenca Arenosa ",
+            "Incursiones Dinamax: nidos en Playa Desafío , Ruta Desafío , Humedal Frescor , Cueva Tenacidad , Cuenca Arenosa , Mar Andana , Mar Gimnástico , Mar Meloso ",
+            "Evolucionar: a Krokorok (nivel 40)"
+        ],
+        "Escudo": [
+            "Salvaje: Cuenca Arenosa ",
+            "Incursiones Dinamax: nidos en Playa Desafío , Ruta Desafío , Humedal Frescor , Cueva Tenacidad , Cuenca Arenosa , Mar Andana , Mar Gimnástico , Mar Meloso ",
+            "Evolucionar: a Krokorok (nivel 40)"
+        ],
+        "Diamante Brillante": [
+            "Krookodile no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Krookodile no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Krookodile no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Jamás deja escapar a su presa. Sus mandíbulas son capaces de destrozar la carrocería de un coche.",
+        "Blanco": "Sus ojos le permiten escudriñar en la lejanía ampliando lo que ve a manera de prismáticos.",
+        "Negro 2": "Un Pokémon bastante violento. Ataca todo lo que se mueva delante de él con sus mortíferas mandíbulas.",
+        "Blanco 2": "Un Pokémon bastante violento. Ataca todo lo que se mueva delante de él con sus mortíferas mandíbulas.",
+        "Pokémon X": "Un Pokémon bastante violento. Ataca todo lo que se mueva delante de él con sus mortíferas mandíbulas.",
+        "Pokémon Y": "Jamás deja escapar a su presa. Sus mandíbulas son capaces de destrozar la carrocería de un coche.",
+        "Rubí Omega": "Un Pokémon bastante violento. Ataca todo lo que se mueva delante de él con sus mortíferas mandíbulas.",
+        "Zafiro Alfa": "Jamás deja escapar a su presa. Sus mandíbulas son capaces de destrozar la carrocería de un coche.",
+        "Sol": "Su vista es tan perspicaz que puede divisar presas de pequeño tamaño a 50 km de distancia, incluso en plena tormenta de arena.",
+        "Luna": "En cuanto le hinca el diente a su presa con sus potentes mandíbulas, comienza a retorcerle el cuerpo hasta despedazarla.",
+        "Ultrasol": "Al avistar una presa incluso a 50 km, repta hacia ella por la arena como si nadara y se abalanza para despedazarla con sus fauces.",
+        "Ultraluna": "Se oculta en las tormentas de arena provocadas por Flygon y espera pacientemente al acecho de su presa.",
+        "Espada": "Se lo conoce como el Terror de las Arenas. Con sus fuertes mandíbulas es capaz de destrozar a mordiscos una plancha de hierro fácilmente.",
+        "Escudo": "Es de naturaleza violenta, pero también tiene la paciencia necesaria para esperar a su presa oculto en la arena durante varios días.",
+        "Diamante Brillante": "Krookodile no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Krookodile no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Krookodile no aparece en Leyendas Pokémon: Arceus."
+    }
+}

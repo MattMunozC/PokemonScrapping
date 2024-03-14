@@ -1,0 +1,101 @@
+{
+    "dex number": "0520",
+    "pokemon name": "Tranquill",
+    "types": [
+        " normal",
+        " volador"
+    ],
+    "abilities": [
+        "Sacapecho",
+        "Afortunado"
+    ],
+    "hidden abilities": [
+        "Rivalidad"
+    ],
+    "stats": {
+        "hp": 62,
+        "atk": 77,
+        "def": 62,
+        "atk esp": 50,
+        "def esp": 42,
+        "speed": 65
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Verano, Otoño, Primavera: Rutas 6, 7, 12, Torre Duodraco, Bosque Azulejo y Bosque de los Perdidos. Invierno: Ruta 12, Bosque Azulejo y Bosque de los Perdidos.",
+            "Evolucionar: a Pidove (nivel 21)."
+        ],
+        "Blanco": [
+            "Salvaje: Verano, Otoño, Primavera: Rutas 6, 7, 12, Torre Duodraco, Bosque Azulejo y Bosque de los Perdidos. Invierno: Ruta 12, Bosque Azulejo y Bosque de los Perdidos.",
+            "Evolucionar: a Pidove (nivel 21)."
+        ],
+        "Negro 2": [
+            "Salvaje: Rutas 3, 6, 7 y 12, Calle Victoria."
+        ],
+        "Blanco 2": [
+            "Salvaje: Rutas 3, 6, 7 y 12, Calle Victoria."
+        ],
+        "Pokémon X": [
+            "Safari Amistad."
+        ],
+        "Pokémon Y": [
+            "Safari Amistad."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Pidove (nivel 21)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Pidove (nivel 21)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Espejo del Gigante (despejado, nublado, sol, tormenta de arena y en el aire), Llanura Pétrea (en el aire), Silla del Gigante (escondido en la hierba cuando está despejado) y Valle Entrepuentes (en el aire).",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste.",
+            "Evolucionar: a Pidove (nivel 21)."
+        ],
+        "Escudo": [
+            "Salvaje: Espejo del Gigante (despejado, nublado, sol, tormenta de arena y en el aire), Llanura Pétrea (en el aire), Silla del Gigante (escondido en la hierba cuando está despejado) y Valle Entrepuentes (en el aire).",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste.",
+            "Evolucionar: a Pidove (nivel 21)."
+        ],
+        "Diamante Brillante": [
+            "Tranquill no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tranquill no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Tranquill no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Aunque se aleje o se pierda, siempre vuelve con su Entrenador.",
+        "Blanco": "Según los rumores, en lo más profundo del bosque donde mora Tranquill, hay un mundo pacífico y exento de luchas.",
+        "Negro 2": "Puede regresar sin problema alguno a su nido desde cualquier lugar del globo y jamás se separa de quien lo entrena.",
+        "Blanco 2": "Puede regresar sin problema alguno a su nido desde cualquier lugar del globo y jamás se separa de quien lo entrena.",
+        "Pokémon X": "Según los rumores, en lo más profundo del bosque donde mora Tranquill, hay un mundo pacífico y exento de luchas.",
+        "Pokémon Y": "Puede regresar sin problema alguno a su nido desde cualquier lugar del globo y jamás se separa de quien lo entrena.",
+        "Rubí Omega": "Según los rumores, en lo más profundo del bosque donde mora Tranquill, hay un mundo pacífico y exento de luchas.",
+        "Zafiro Alfa": "Puede regresar sin problema alguno a su nido desde cualquier lugar del globo y jamás se separa de quien lo entrena.",
+        "Sol": "No hay entrada de Tranquill en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Tranquill en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Tranquill en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Tranquill en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Posee una velocidad de vuelo nada desdeñable. Por más que se aleje, siempre recuerda el camino de regreso a su nido o hasta su Entrenador.",
+        "Escudo": "Posee una mente ágil y muy buena memoria. Tal vez por eso muchos repartidores lo eligen como compañero.",
+        "Diamante Brillante": "Tranquill no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tranquill no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Tranquill no aparece en Leyendas Pokémon: Arceus."
+    }
+}

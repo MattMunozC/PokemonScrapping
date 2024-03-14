@@ -1,0 +1,93 @@
+{
+    "dex number": "0495",
+    "pokemon name": "Snivy",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Respondón"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 45,
+        "def": 55,
+        "atk esp": 45,
+        "def esp": 55,
+        "speed": 63
+    },
+    "location": {
+        "Negro": [
+            "Regalo: Es uno de los Pokémon iniciales que se puede elegir al inicio de la aventura como regalo de la profesora Encina (solo uno)"
+        ],
+        "Blanco": [
+            "Regalo: Es uno de los Pokémon iniciales que se puede elegir al inicio de la aventura como regalo de la profesora Encina (solo uno)"
+        ],
+        "Negro 2": [
+            "Regalo: Es uno de los Pokémon iniciales que se puede elegir al inicio de la aventura entregados por Bel en Ciudad Engobe (solo uno)"
+        ],
+        "Blanco 2": [
+            "Regalo: Es uno de los Pokémon iniciales que se puede elegir al inicio de la aventura entregados por Bel en Ciudad Engobe (solo uno)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores"
+        ],
+        "Rubí Omega": [
+            "Regalo: Es uno de los tres iniciales de Teselia que da a elegir el profesor Abedul tras el Episodio Delta (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Regalo: Es uno de los tres iniciales de Teselia que da a elegir el profesor Abedul tras el Episodio Delta (solo uno)"
+        ],
+        "Sol": [
+            "Criar: de Serperior"
+        ],
+        "Luna": [
+            "Criar: de Serperior"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Snivy no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Snivy no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Snivy no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Snivy no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Snivy no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "De gran inteligencia y sangre fría. Se mueve ágilmente si recibe rayos de sol de forma continua.",
+        "Blanco": "Sintetiza la luz del sol que recoge con su cola. Esta se le queda abatida cuando le faltan las energías.",
+        "Negro 2": "Cuando recibe los rayos de sol, se mueve mucho más rápido que de costumbre. Usa mejor sus lianas que sus manos.",
+        "Blanco 2": "Cuando recibe los rayos de sol, se mueve mucho más rápido que de costumbre. Usa mejor sus lianas que sus manos.",
+        "Pokémon X": "Cuando recibe los rayos de sol, se mueve mucho más rápido que de costumbre. Usa mejor sus lianas que sus manos.",
+        "Pokémon Y": "Sintetiza la luz del sol que recoge con su cola. Esta se le queda abatida cuando le faltan las energías.",
+        "Rubí Omega": "Cuando recibe los rayos de sol, se mueve mucho más rápido que de costumbre. Usa mejor sus lianas que sus manos.",
+        "Zafiro Alfa": "Sintetiza la luz del sol que recoge con su cola. Esta se le queda abatida cuando le faltan las energías.",
+        "Sol": "No hay entrada de Snivy en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Snivy en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Snivy en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Snivy en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Snivy no aparece en Pokémon Espada.",
+        "Escudo": "Snivy no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Snivy no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Snivy no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Snivy no aparece en Leyendas Pokémon: Arceus."
+    }
+}

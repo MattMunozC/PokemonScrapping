@@ -1,0 +1,110 @@
+{
+    "dex number": "0614",
+    "pokemon name": "Beartic",
+    "types": [
+        " hielo"
+    ],
+    "abilities": [
+        "Manto níveo",
+        "Quitanieves"
+    ],
+    "hidden abilities": [
+        "Nado rápido"
+    ],
+    "stats": {
+        "hp": 95,
+        "atk": 130,
+        "def": 80,
+        "atk esp": 70,
+        "def esp": 80,
+        "speed": 50
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Torre Duodraco (invierno)",
+            "Evolucionar: a Cubchoo (nivel 37)"
+        ],
+        "Blanco": [
+            "Salvaje: Torre Duodraco (invierno)",
+            "Evolucionar: a Cubchoo (nivel 37)"
+        ],
+        "Negro 2": [
+            "Salvaje: Torre Duodraco y Monte Tuerca",
+            "Evolucionar: a Cubchoo (nivel 37)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Torre Duodraco y Monte Tuerca",
+            "Evolucionar: a Cubchoo (nivel 37)"
+        ],
+        "Pokémon X": [
+            "Salvaje: Gruta Helada",
+            "Especial: Safari Amistad, en algunos safaris de tipo hielo",
+            "Evolucionar: a Cubchoo (nivel 37)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Gruta Helada",
+            "Especial: Safari Amistad, en algunos safaris de tipo hielo",
+            "Evolucionar: a Cubchoo (nivel 37)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Cubchoo (nivel 37)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Cubchoo (nivel 37)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 10, Valle Entrepuentes, Gorro del Gigante, Desfiladero Nevado  y Mar Gélido ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Llanura Pétrea, nido al este 1. Nido en Mar Islejos , Lecho del Gigante  y Mar Gélido ",
+            "Curri: Ruta 10 (zona norte)",
+            "Evolucionar: a Cubchoo (nivel 37)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 10, Valle Entrepuentes, Gorro del Gigante, Desfiladero Nevado  y Mar Gélido ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Llanura Pétrea, nido al este 1. Nido en Mar Islejos , Lecho del Gigante  y Mar Gélido ",
+            "Curri: Ruta 10 (zona norte)",
+            "Evolucionar: a Cubchoo (nivel 37)"
+        ],
+        "Diamante Brillante": [
+            "Beartic no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Beartic no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Beartic no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Congela su aliento a discreción. Se le da bien nadar, por eso se dirige a menudo a los mares del norte en busca de presas.",
+        "Blanco": "Congela su aliento y crea colmillos y garras de hielo para combatir. Vive en las gélidas tierras del norte.",
+        "Negro 2": "Adoran los mares gélidos del norte. Congelan su aliento para crear sendas por las que caminar sobre el agua.",
+        "Blanco 2": "Adoran los mares gélidos del norte. Congelan su aliento para crear sendas por las que caminar sobre el agua.",
+        "Pokémon X": "Adoran los mares gélidos del norte. Congelan su aliento para crear sendas por las que caminar sobre el agua.",
+        "Pokémon Y": "Congela su aliento y crea colmillos y garras de hielo para combatir. Vive en las gélidas tierras del norte.",
+        "Rubí Omega": "Adoran los mares gélidos del norte. Congelan su aliento para crear sendas por las que caminar sobre el agua.",
+        "Zafiro Alfa": "Congela su aliento y crea colmillos y garras de hielo para combatir. Vive en las gélidas tierras del norte.",
+        "Sol": "No hay entrada de Beartic en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Beartic en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Beartic en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Beartic en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Congela su aliento y crea colmillos de hielo más duros que el acero. Nada en mares de aguas frías en busca de alimento.",
+        "Escudo": "Nada plácidamente en mares fríos. Cuando se cansa, congela el agua con su aliento y reposa sobre el hielo.",
+        "Diamante Brillante": "Beartic no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Beartic no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Beartic no aparece en Leyendas Pokémon: Arceus."
+    }
+}

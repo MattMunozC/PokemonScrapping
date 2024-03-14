@@ -1,0 +1,99 @@
+{
+    "dex number": "0580",
+    "pokemon name": "Ducklett",
+    "types": [
+        " agua",
+        " volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Sacapecho"
+    ],
+    "hidden abilities": [
+        "Hidratación"
+    ],
+    "stats": {
+        "hp": 62,
+        "atk": 44,
+        "def": 50,
+        "atk esp": 44,
+        "def esp": 50,
+        "speed": 55
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Puente de Fayenza (sombras)"
+        ],
+        "Blanco": [
+            "Salvaje: Puente de Fayenza (sombras)"
+        ],
+        "Negro 2": [
+            "Salvaje: Puente de Fayenza (sombras)",
+            "Dream World: Alto Cielo"
+        ],
+        "Blanco 2": [
+            "Salvaje: Puente de Fayenza (sombras)",
+            "Dream World: Alto Cielo"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 7"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 7"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Swanna"
+        ],
+        "Ultraluna": [
+            "Criar: de Swanna"
+        ],
+        "Espada": [
+            "Ducklett no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Ducklett no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Ducklett no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Ducklett no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Ducklett no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Pokémon Ave Agua capaz de sumergirse. Nada de acá para allá y busca su comida favorita: el musgo acuático.",
+        "Blanco": "Cuando se ve atacado, las plumas que lo recubren despiden ráfagas de agua que lo ayudan a escapar.",
+        "Negro 2": "Nada a mayor velocidad de la que puede volar. Se sumerge en el agua para buscar musgo acuático, su comida favorita.",
+        "Blanco 2": "Nada a mayor velocidad de la que puede volar. Se sumerge en el agua para buscar musgo acuático, su comida favorita.",
+        "Pokémon X": "Cuando se ve atacado, las plumas que lo recubren despiden ráfagas de agua que lo ayudan a escapar.",
+        "Pokémon Y": "Nada a mayor velocidad de la que puede volar. Se sumerge en el agua para buscar musgo acuático, su comida favorita.",
+        "Rubí Omega": "Cuando se ve atacado, las plumas que lo recubren despiden ráfagas de agua que lo ayudan a escapar.",
+        "Zafiro Alfa": "Nada a mayor velocidad de la que puede volar. Se sumerge en el agua para buscar musgo acuático, su comida favorita.",
+        "Sol": "No hay entrada de Ducklett en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Ducklett en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Ducklett en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Ducklett en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Ducklett no aparece en Pokémon Espada.",
+        "Escudo": "Ducklett no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Ducklett no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Ducklett no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Ducklett no aparece en Leyendas Pokémon: Arceus."
+    }
+}

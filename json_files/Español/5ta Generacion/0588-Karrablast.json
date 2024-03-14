@@ -1,0 +1,102 @@
+{
+    "dex number": "0588",
+    "pokemon name": "Karrablast",
+    "types": [
+        " bicho"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Mudar"
+    ],
+    "hidden abilities": [
+        "Indefenso"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 75,
+        "def": 45,
+        "atk esp": 40,
+        "def esp": 45,
+        "speed": 60
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 6 y Ruta 11"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 6 y Ruta 11"
+        ],
+        "Negro 2": [
+            "Salvaje:",
+            "Todo el año: Ruta 6 y Ruta 11",
+            "Primavera, verano y otoño: Ruta 8, Ciudad Teja y Pantano Teja"
+        ],
+        "Blanco 2": [
+            "Salvaje:",
+            "Todo el año: Ruta 6 y Ruta 11",
+            "Primavera, verano y otoño: Ruta 8, Ciudad Teja y Pantano Teja"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 14 y Ruta 19"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 14 y Ruta 19"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 7, Cornisa de Artejo, Gorro del Gigante, Ribera de Pistón, Valle Entrepuentes, Bosque Concentración  y Llano Entrenamiento ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares",
+            "Curri: Ruta 7"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 7, Cornisa de Artejo, Ribera de Pistón, Valle Entrepuentes, Bosque Concentración  y Llano Entrenamiento ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares",
+            "Curri: Ruta 7"
+        ],
+        "Diamante Brillante": [
+            "Karrablast no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Karrablast no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Karrablast no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Si recibe un estímulo eléctrico al estar en contacto con un Shelmet, evoluciona.",
+        "Blanco": "Cuando presiente el peligro, expulsa por la boca ácido que lanza a sus enemigos. Siempre va tras los Shelmet.",
+        "Negro 2": "Si recibe una descarga eléctrica durante un combate contra un Shelmet, puede evolucionar. Se desconoce el porqué.",
+        "Blanco 2": "Si recibe una descarga eléctrica durante un combate contra un Shelmet, puede evolucionar. Se desconoce el porqué.",
+        "Pokémon X": "Si recibe un estímulo eléctrico al estar en contacto con un Shelmet, evoluciona.",
+        "Pokémon Y": "Si recibe una descarga eléctrica durante un combate contra un Shelmet, puede evolucionar. Se desconoce el porqué.",
+        "Rubí Omega": "Si recibe un estímulo eléctrico al estar en contacto con un Shelmet, evoluciona.",
+        "Zafiro Alfa": "Si recibe una descarga eléctrica durante un combate contra un Shelmet, puede evolucionar. Se desconoce el porqué.",
+        "Sol": "No hay entrada de Karrablast en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Karrablast en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Karrablast en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Karrablast en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Su misterioso cuerpo reacciona a la energía eléctrica. Si se encuentra en presencia de un Shelmet, evoluciona.",
+        "Escudo": "Escupe un líquido corrosivo con el que disuelve el caparazón de los Shelmet para luego devorar el contenido.",
+        "Diamante Brillante": "Karrablast no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Karrablast no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Karrablast no aparece en Leyendas Pokémon: Arceus."
+    }
+}

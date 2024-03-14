@@ -1,0 +1,105 @@
+{
+    "dex number": "0624",
+    "pokemon name": "Pawniard",
+    "types": [
+        " siniestro",
+        " acero"
+    ],
+    "abilities": [
+        "Competitivo",
+        "Fuerza mental"
+    ],
+    "hidden abilities": [
+        "Presión"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 85,
+        "def": 70,
+        "atk esp": 40,
+        "def esp": 40,
+        "speed": 60
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 9 y Ruta 11"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 9 y Ruta 11"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 9",
+            "Dream World: Villa Antigua"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 9",
+            "Dream World: Villa Antigua"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 15 y Hotel Desolación",
+            "Especial: Safari Amistad, en algunos safaris de tipo siniestro"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 15 y Hotel Desolación",
+            "Especial: Safari Amistad, en algunos safaris de tipo siniestro"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 17 (como refuerzo de Bisharp)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 17 (como refuerzo de Bisharp)"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 8, Afueras de Pistón, Ribera de Pistón, Gorro del Gigante, Espejo del Gigante, Llanura Pétrea, Humedal Frescor , Bosque Concentración , Ruta Desafío  y Cuenca Arenosa ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte. Nidos en Humedal Frescor , Cueva Contienda , Ruta Desafío , Cueva Tenacidad , Mar Gimnástico , Mar Andana  y Mar Meloso ",
+            "Curri: Afueras de Pistón"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 8, Afueras de Pistón, Ribera de Pistón, Gorro del Gigante, Espejo del Gigante, Llanura Pétrea, Humedal Frescor , Bosque Concentración , Ruta Desafío  y Cuenca Arenosa ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte. Nidos en Humedal Frescor , Cueva Contienda , Ruta Desafío , Cueva Tenacidad , Mar Gimnástico , Mar Andana  y Mar Meloso ",
+            "Curri: Afueras de Pistón"
+        ],
+        "Diamante Brillante": [
+            "Pawniard no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pawniard no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pawniard no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Su cuerpo está provisto de hojas afiladas. Cuando se desgastan, las afila con cantos rodados a la orilla del río.",
+        "Blanco": "Lucha bajo las órdenes de Bisharp. Se agarra a sus oponentes y les inflige daño utilizando sus cuchillas.",
+        "Negro 2": "Ataca en grupo ignorando sus heridas y hundiendo en su presa las cuchillas que recubren su cuerpo.",
+        "Blanco 2": "Ataca en grupo ignorando sus heridas y hundiendo en su presa las cuchillas que recubren su cuerpo.",
+        "Pokémon X": "Su cuerpo está provisto de hojas afiladas. Cuando se desgastan, las afila con cantos rodados a la orilla del río.",
+        "Pokémon Y": "Ataca en grupo ignorando sus heridas y hundiendo en su presa las cuchillas que recubren su cuerpo.",
+        "Rubí Omega": "Su cuerpo está provisto de hojas afiladas. Cuando se desgastan, las afila con cantos rodados a la orilla del río.",
+        "Zafiro Alfa": "Ataca en grupo ignorando sus heridas y hundiendo en su presa las cuchillas que recubren su cuerpo.",
+        "Sol": "No hay entrada de Pawniard en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Pawniard en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Tras rebanar a sus presas, afila sus cuchillas con piedras de río. Cada Pawniard tiene una piedra favorita.",
+        "Ultraluna": "Acata las órdenes de Bisharp a pies juntillas. Cuando rebana a un oponente, hace sonar las cuchillas de sus brazos chocándolas entre sí.",
+        "Espada": "Acorrala a los enemigos con las cuchillas de su cuerpo, que afila usando cantos rodados a la orilla del río.",
+        "Escudo": "Forman grupos encabezados por un Bisharp. Se entrenan a diario soñando con llegar a liderar el grupo algún día.",
+        "Diamante Brillante": "Pawniard no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pawniard no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pawniard no aparece en Leyendas Pokémon: Arceus."
+    }
+}

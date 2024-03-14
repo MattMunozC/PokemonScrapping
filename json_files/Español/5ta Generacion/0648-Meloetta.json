@@ -1,0 +1,102 @@
+{
+    "dex number": "0648",
+    "pokemon name": "Meloetta",
+    "types": [
+        " normal",
+        " psíquico",
+        " normal",
+        " lucha"
+    ],
+    "abilities": [
+        "Dicha"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 77,
+        "def": 77,
+        "atk esp": 128,
+        "def esp": 128,
+        "speed": 90
+    },
+    "location": {
+        "Negro": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Blanco": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Negro 2": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Blanco 2": [
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Rubí Omega": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Zafiro Alfa": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Espada": [
+            "Meloetta no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Meloetta no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Meloetta no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Meloetta no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Meloetta no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Controla los sentimientos de los que escuchan las melodías que emite con su singular vocalización.",
+        "Blanco": "Se han creado innumerables canciones inspiradas en las melodías que emite Meloetta.",
+        "Negro 2": "Las melodías que canta Meloetta tienen el poder de hacer sentir felicidad a los Pokémon que hay a su alrededor.",
+        "Blanco 2": "Las melodías que canta Meloetta tienen el poder de hacer sentir felicidad a los Pokémon que hay a su alrededor.",
+        "Pokémon X": "Las melodías que canta Meloetta tienen el poder de hacer sentir felicidad a los Pokémon que hay a su alrededor.",
+        "Pokémon Y": "Controla los sentimientos de los que escuchan las melodías que emite con su singular vocalización.",
+        "Rubí Omega": "Las melodías que canta Meloetta tienen el poder de hacer sentir felicidad a los Pokémon que hay a su alrededor.",
+        "Zafiro Alfa": "Controla los sentimientos de los que escuchan las melodías que emite con su singular vocalización.",
+        "Sol": "No hay entrada de Meloetta en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Meloetta en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Meloetta en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Meloetta en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Meloetta no aparece en Pokémon Espada.",
+        "Escudo": "Meloetta no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Meloetta no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Meloetta no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Meloetta no aparece en Leyendas Pokémon: Arceus."
+    }
+}

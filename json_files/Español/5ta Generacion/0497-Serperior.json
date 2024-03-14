@@ -1,0 +1,97 @@
+{
+    "dex number": "0497",
+    "pokemon name": "Serperior",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Respondón"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 75,
+        "def": 95,
+        "atk esp": 75,
+        "def esp": 95,
+        "speed": 113
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: de Servine (nivel 36)"
+        ],
+        "Blanco": [
+            "Evolucionar: de Servine (nivel 36)"
+        ],
+        "Negro 2": [
+            "Evolucionar: de Servine (nivel 36)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Servine (nivel 36)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Trasladar de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Trasladar de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Servine (nivel 36)",
+            "Evento: ver más abajo."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Servine (nivel 36)",
+            "Evento: ver más abajo."
+        ],
+        "Sol": [
+            "Escáner insular: Isla Exeggutor (jueves)"
+        ],
+        "Luna": [
+            "Escáner insular: Isla Exeggutor (jueves)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Serperior no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Serperior no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Serperior no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Serperior no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Serperior no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Detiene los movimientos del rival con una sola mirada. Expande la energía solar dentro de su cuerpo.",
+        "Blanco": "Yergue su cabeza para intimidar al rival. Solo lucha con todo su potencial ante enemigos muy fuertes.",
+        "Negro 2": "Tan solo muestra su verdadero poder a quienes no se amedrentan ante su noble pero inquisitoria mirada.",
+        "Blanco 2": "Tan solo muestra su verdadero poder a quienes no se amedrentan ante su noble pero inquisitoria mirada.",
+        "Pokémon X": "Tan solo muestra su verdadero poder a quienes no se amedrentan ante su noble pero inquisitoria mirada.",
+        "Pokémon Y": "Detiene los movimientos del rival con una sola mirada. Expande la energía solar dentro de su cuerpo.",
+        "Rubí Omega": "Tan solo muestra su verdadero poder a quienes no se amedrentan ante su noble pero inquisitoria mirada.",
+        "Zafiro Alfa": "Detiene los movimientos del rival con una sola mirada. Expande la energía solar dentro de su cuerpo.",
+        "Sol": "No hay entrada de Serperior en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Serperior en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Serperior en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Serperior en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Serperior no aparece en Pokémon Espada.",
+        "Escudo": "Serperior no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Serperior no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Serperior no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Serperior no aparece en Leyendas Pokémon: Arceus."
+    }
+}

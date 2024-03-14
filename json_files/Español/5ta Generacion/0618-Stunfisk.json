@@ -1,0 +1,111 @@
+{
+    "dex number": "0618",
+    "pokemon name": "Stunfisk",
+    "types": [
+        " tierra",
+        " eléctrico"
+    ],
+    "abilities": [
+        "Electricidad estática",
+        "Flexibilidad"
+    ],
+    "hidden abilities": [
+        "Velo arena"
+    ],
+    "stats": {
+        "hp": 109,
+        "atk": 66,
+        "def": 84,
+        "atk esp": 81,
+        "def esp": 99,
+        "speed": 32
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)",
+            "Surfeando: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)",
+            "Pescando: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)",
+            "Surfeando: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)",
+            "Pescando: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)",
+            "Surfeando: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)",
+            "Pescando: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)",
+            "Surfeando: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)",
+            "Pescando: Ruta 8, Ciudad Teja y Pantano Teja (primavera, verano y otoño)",
+            "Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 14 y Ruta 19",
+            "Especial: Safari Amistad, en algunos safaris de tipo eléctrico"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 14 y Ruta 19",
+            "Especial: Safari Amistad, en algunos safaris de tipo eléctrico"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul."
+        ],
+        "Ultraluna": [
+            "Salvaje: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul."
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Intercambiar: con Tatiana por un Stunfisk de Galar "
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores",
+            "Intercambiar: con Tatiana por un Stunfisk de Galar "
+        ],
+        "Diamante Brillante": [
+            "Stunfisk no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Stunfisk no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Stunfisk no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Ni un pisotón de un luchador de sumo lo aplastaría gracias a su piel sólida. Sonríe al soltar descargas eléctricas.",
+        "Blanco": "Acecha a sus presas oculto en la arena húmeda de la playa. Las paraliza con una descarga eléctrica cuando lo tocan.",
+        "Negro 2": "Cuando no logra paralizar a su rival, flexiona su cuerpo para escapar saltando con una inesperada velocidad.",
+        "Blanco 2": "Cuando no logra paralizar a su rival, flexiona su cuerpo para escapar saltando con una inesperada velocidad.",
+        "Pokémon X": "Ni un pisotón de un luchador de sumo lo aplastaría gracias a su piel sólida. Sonríe al soltar descargas eléctricas.",
+        "Pokémon Y": "Acecha a sus presas oculto en la arena húmeda de la playa. Las paraliza con una descarga eléctrica cuando lo tocan.",
+        "Rubí Omega": "Ni un pisotón de un luchador de sumo lo aplastaría gracias a su piel sólida. Sonríe al soltar descargas eléctricas.",
+        "Zafiro Alfa": "Acecha a sus presas oculto en la arena húmeda de la playa. Las paraliza con una descarga eléctrica cuando lo tocan.",
+        "Sol": "No hay entrada de Stunfisk en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Stunfisk en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Stunfisk en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Stunfisk en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Vive en humedales costeros. Ha desarrollado un órgano que produce electricidad gracias a una bacteria que vive en el lodo.",
+        "Escudo": "Se desconoce la razón, pero esboza una leve sonrisa al liberar potentes descargas eléctricas a través de las zonas amarillentas de su cuerpo.",
+        "Diamante Brillante": "Stunfisk no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Stunfisk no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Stunfisk no aparece en Leyendas Pokémon: Arceus."
+    }
+}

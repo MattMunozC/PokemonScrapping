@@ -1,0 +1,96 @@
+{
+    "dex number": "0535",
+    "pokemon name": "Tympole",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Hidratación"
+    ],
+    "hidden abilities": [
+        "Absorbe agua"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 50,
+        "def": 40,
+        "atk esp": 50,
+        "def esp": 40,
+        "speed": 64
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Bosque Azulejo."
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Azulejo."
+        ],
+        "Negro 2": [
+            "Salvaje: En el Bosque Azulejo. Es el antiguo Pokémon de N y es obtenible luego de usar el Nexo Recuerdo."
+        ],
+        "Blanco 2": [
+            "Salvaje: En el Bosque Azulejo. Es el antiguo Pokémon de N y es obtenible luego de usar el Nexo Recuerdo."
+        ],
+        "Pokémon X": [
+            "Criando: de Palpitoad."
+        ],
+        "Pokémon Y": [
+            "Criando: de Palpitoad."
+        ],
+        "Rubí Omega": [
+            "Salvaje, usando el DexNav: Ruta 102 y Ruta 117."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje, usando el DexNav: Ruta 102 y Ruta 117."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Lago Axew (oeste), Arboleda Claroscuro, Lago Milotic (norte), Lago Milotic (sur), Antigua Atalaya.",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur."
+        ],
+        "Escudo": [
+            "Salvaje: Lago Axew (oeste), Arboleda Claroscuro, Lago Milotic (norte), Lago Milotic (sur), Antigua Atalaya.",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste y Lago Milotic (sur), nido al sur."
+        ],
+        "Diamante Brillante": [
+            "Tympole no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tympole no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Tympole no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Emite un agudo chirrido haciendo vibrar su mejillas para avisar a sus compañeros en momentos de peligro.",
+        "Blanco": "Emite sonidos imperceptibles para los humanos con la vibración de sus mejillas y se comunica al ritmo de los mismos.",
+        "Negro 2": "Emite sonidos imperceptibles para los humanos con la vibración de sus mejillas y advierte de algún peligro a los suyos.",
+        "Blanco 2": "Emite sonidos imperceptibles para los humanos con la vibración de sus mejillas y advierte de algún peligro a los suyos.",
+        "Pokémon X": "Emite sonidos imperceptibles para los humanos con la vibración de sus mejillas y advierte de algún peligro a los suyos.",
+        "Pokémon Y": "Emite sonidos imperceptibles para los humanos con la vibración de sus mejillas y se comunica al ritmo de los mismos.",
+        "Rubí Omega": "Emite sonidos imperceptibles para los humanos con la vibración de sus mejillas y advierte de algún peligro a los suyos.",
+        "Zafiro Alfa": "Emite sonidos imperceptibles para los humanos con la vibración de sus mejillas y se comunica al ritmo de los mismos.",
+        "Sol": "No hay entrada de Tympole en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Tympole en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Tympole en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Tympole en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "El agudo canto de los Tympole bajo el agua crea hermosas ondas que se extienden por la superficie.",
+        "Escudo": "Se comunica con los suyos mediante ondas sonoras. Su grito de alerta es imperceptible para los humanos y el resto de los Pokémon.",
+        "Diamante Brillante": "Tympole no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tympole no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Tympole no aparece en Leyendas Pokémon: Arceus."
+    }
+}

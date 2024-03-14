@@ -1,0 +1,100 @@
+{
+    "dex number": "0532",
+    "pokemon name": "Timburr",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Agallas",
+        "Potencia bruta"
+    ],
+    "hidden abilities": [
+        "Puño férreo"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 80,
+        "def": 55,
+        "atk esp": 25,
+        "def esp": 35,
+        "speed": 35
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Bosque Azulejo y Almacenes Frigoríficos."
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Azulejo y Almacenes Frigoríficos."
+        ],
+        "Negro 2": [
+            "Salvaje: Pasadizo Ancestral.",
+            "Especial: Bosque Azulejo, es uno de los Pokémon liberados por N luego de utilizar el Nexo Recuerdo."
+        ],
+        "Blanco 2": [
+            "Salvaje: Pasadizo Ancestral.",
+            "Especial: Bosque Azulejo, es uno de los Pokémon liberados por N luego de utilizar el Nexo Recuerdo."
+        ],
+        "Pokémon X": [
+            "Criando: de Gurdurr."
+        ],
+        "Pokémon Y": [
+            "Criando: de Gurdurr."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Granito."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Granito."
+        ],
+        "Sol": [
+            "Criando: de Gurdurr o Conkeldurr."
+        ],
+        "Luna": [
+            "Criando: de Gurdurr o Conkeldurr."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna."
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna."
+        ],
+        "Espada": [
+            "Salvaje: Mina de Galar",
+            "Incursiones Dinamax: Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew.",
+            "Curri: Mina de Galar"
+        ],
+        "Escudo": [
+            "Salvaje: Mina de Galar",
+            "Incursiones Dinamax: Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew.",
+            "Curri: Mina de Galar"
+        ],
+        "Diamante Brillante": [
+            "Timburr no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Timburr no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Timburr no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Lucha bamboleando vigas de madera. Cuando las transporta sin dificultad, es señal de que va a evolucionar.",
+        "Blanco": "Siempre lleva vigas de madera. Normalmente ayuda en obras de construcción.",
+        "Negro 2": "Siempre lleva una viga de madera y ayuda en las construcciones. Se busca una viga más grande cuando se hace más fuerte.",
+        "Blanco 2": "Siempre lleva una viga de madera y ayuda en las construcciones. Se busca una viga más grande cuando se hace más fuerte.",
+        "Pokémon X": "Siempre lleva vigas de madera. Normalmente ayuda en obras de construcción.",
+        "Pokémon Y": "Siempre lleva una viga de madera y ayuda en las construcciones. Se busca una viga más grande cuando se hace más fuerte.",
+        "Rubí Omega": "Siempre lleva vigas de madera. Normalmente ayuda en obras de construcción.",
+        "Zafiro Alfa": "Siempre lleva una viga de madera y ayuda en las construcciones. Se busca una viga más grande cuando se hace más fuerte.",
+        "Sol": "No hay entrada de Timburr en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Timburr en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Timburr en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Timburr en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Le gusta ayudar en labores de construcción. Cuando la lluvia obliga a interrumpir las obras, blande con furia su viga de madera.",
+        "Escudo": "Cuando logra transportar una viga de madera que triplica su altura y peso, es señal de que va a evolucionar.",
+        "Diamante Brillante": "Timburr no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Timburr no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Timburr no aparece en Leyendas Pokémon: Arceus."
+    }
+}

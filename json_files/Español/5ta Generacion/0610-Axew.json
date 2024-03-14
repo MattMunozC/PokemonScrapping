@@ -1,0 +1,98 @@
+{
+    "dex number": "0610",
+    "pokemon name": "Axew",
+    "types": [
+        " dragón"
+    ],
+    "abilities": [
+        "Rivalidad",
+        "Rompemoldes"
+    ],
+    "hidden abilities": [
+        "Nerviosismo"
+    ],
+    "stats": {
+        "hp": 46,
+        "atk": 87,
+        "def": 60,
+        "atk esp": 30,
+        "def esp": 40,
+        "speed": 57
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Cueva Loza, Estancia Orientación"
+        ],
+        "Blanco": [
+            "Salvaje: Cueva Loza, Estancia Orientación"
+        ],
+        "Negro 2": [
+            "Salvaje: Cueva Loza, Estancia Orientación",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco 2": [
+            "Salvaje: Cueva Loza, Estancia Orientación",
+            "Dream World: Cueva Helada"
+        ],
+        "Pokémon X": [
+            "Salvaje: Gruta Tierraunida"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Gruta Tierraunida"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Granito, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Granito, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Escáner insular: Pico Hokulani (sábados)"
+        ],
+        "Luna": [
+            "Escáner insular: Pico Hokulani (sábados)"
+        ],
+        "Ultrasol": [
+            "Escáner insular: Pico Hokulani (sábados)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Pico Hokulani (sábados)"
+        ],
+        "Espada": [
+            " Salvaje: Ruta 6, Ojo de Axew y Cornisa de Artejo",
+            "Incursiones Dinamax: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 6 y Ojo de Axew",
+            "Incursiones Dinamax: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste"
+        ],
+        "Diamante Brillante": [
+            "Axew no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Axew no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Axew no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Usa sus colmillos para romper las bayas que come. Estos se regeneran una y otra vez, por eso son tan fuertes y afilados.",
+        "Blanco": "Deja la huella de sus colmillos en los árboles para marcar su territorio. Si se rompen, se regeneran muy rápido.",
+        "Negro 2": "Sus grandes colmillos aún son frágiles y suelen partirse, pero los nuevos que le crecen son más duros y resistentes.",
+        "Blanco 2": "Sus grandes colmillos aún son frágiles y suelen partirse, pero los nuevos que le crecen son más duros y resistentes.",
+        "Pokémon X": "Usa sus colmillos para romper las bayas que come. Estos se regeneran una y otra vez, por eso son tan fuertes y afilados.",
+        "Pokémon Y": "Deja la huella de sus colmillos en los árboles para marcar su territorio. Si se rompen, se regeneran muy rápido.",
+        "Rubí Omega": "Usa sus colmillos para romper las bayas que come. Estos se regeneran una y otra vez, por eso son tan fuertes y afilados.",
+        "Zafiro Alfa": "Deja la huella de sus colmillos en los árboles para marcar su territorio. Si se rompen, se regeneran muy rápido.",
+        "Sol": "No hay entrada de Axew en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Axew en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Axew en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Axew en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Viven en madrigueras que construyen bajo tierra. Compiten entre ellos para ver quién logra abrir con los colmillos las bayas más duras.",
+        "Escudo": "Juega con sus congéneres chocando sus enormes colmillos con la tranquilidad de saber que, si se le rompen, se regenerarán enseguida.",
+        "Diamante Brillante": "Axew no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Axew no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Axew no aparece en Leyendas Pokémon: Arceus."
+    }
+}

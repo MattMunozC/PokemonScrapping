@@ -1,0 +1,98 @@
+{
+    "dex number": "0575",
+    "pokemon name": "Gothorita",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Cacheo",
+        "Tenacidad"
+    ],
+    "hidden abilities": [
+        "Sombra trampa"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 45,
+        "def": 70,
+        "atk esp": 75,
+        "def esp": 85,
+        "speed": 55
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 9",
+            "Evolucionar: a Gothita (nivel 32)"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro o Pokémon Negro 2"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 9 y Villa Horroris",
+            "Evolucionar: a Gothita (nivel 32)"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Negro 2"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 20 y Villa Pokémon"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 20 y Villa Pokémon"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Gothita (nivel 32)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Gothita (nivel 32)"
+        ],
+        "Sol": [
+            "Evolucionar: a Gothita (nivel 32)"
+        ],
+        "Luna": [
+            "Evolucionar: a Gothita (nivel 32)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Cuenca Polvorienta, Gorro del Gigante, Campo Deslizante  y Campo Bajocero .",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol",
+            "Evolucionar: a Gothita (nivel 32)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Gothorita no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Gothorita no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Gothorita no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Controla a Pokémon y humanos con hipnosis. Existen multitud de historias de Gothorita que raptan a gente.",
+        "Blanco": "La luz de las estrellas origina su poder. De noche, marca su posición haciendo levitar piedras con su poder psíquico.",
+        "Negro 2": "Según muchas leyendas, durante las noches estrelladas controlan a los niños que duermen, tan solo como diversión.",
+        "Blanco 2": "Según muchas leyendas, durante las noches estrelladas controlan a los niños que duermen, tan solo como diversión.",
+        "Pokémon X": "La luz de las estrellas origina su poder. De noche, marca su posición haciendo levitar piedras con su poder psíquico.",
+        "Pokémon Y": "Según muchas leyendas, durante las noches estrelladas controlan a los niños que duermen, tan solo como diversión.",
+        "Rubí Omega": "La luz de las estrellas origina su poder. De noche, marca su posición haciendo levitar piedras con su poder psíquico.",
+        "Zafiro Alfa": "Según muchas leyendas, durante las noches estrelladas controlan a los niños que duermen, tan solo como diversión.",
+        "Sol": "No hay entrada de Gothorita en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Gothorita en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Gothorita en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Gothorita en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Corre el rumor de que en las noches estrelladas se lleva consigo a los niños dormidos, por lo que recibe el sobrenombre de Bruja Castigadora.",
+        "Escudo": "Sus poderes psíquicos alcanzan su apogeo en las noches estrelladas, aunque su posible vínculo con el espacio está envuelto en misterio.",
+        "Diamante Brillante": "Gothorita no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Gothorita no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Gothorita no aparece en Leyendas Pokémon: Arceus."
+    }
+}

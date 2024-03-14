@@ -1,0 +1,99 @@
+{
+    "dex number": "0539",
+    "pokemon name": "Sawk",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Robustez",
+        "Fuerza mental"
+    ],
+    "hidden abilities": [
+        "Rompemoldes"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 125,
+        "def": 75,
+        "atk esp": 30,
+        "def esp": 75,
+        "speed": 85
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Rutas 10, 15, 18 y Bosque Azulejo."
+        ],
+        "Blanco": [
+            "Salvaje: Cuando la hierba se mueve: Rutas 10, 15, 18 y Bosque Azulejo."
+        ],
+        "Negro 2": [
+            "Salvaje: Rutas 15, 18, 23, Bosque Azulejo y Calle Victoria.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            "Salvaje: Cuando la hierba se mueve: Rutas 15, 18, 23, Bosque Azulejo y Calle Victoria.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 11 y Safari Amistad (tipo lucha)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Safari Amistad (tipo lucha).",
+            "Intercambiar: de Pokémon X."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon Zafiro Alfa."
+        ],
+        "Zafiro Alfa": [
+            "DexNav: Ruta 112."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Ruta 8, Valle Entrepuentes, Espejo del Gigante, Afueras de Pistón y Ribera de Pistón.",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste y Lago Milotic (norte), nido junto al lago."
+        ],
+        "Escudo": [
+            "Intercambiar: por un Vanillish en Pueblo Auriga con un señor en un carrito de helados cerca de los hoteles.",
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Sawk no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sawk no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Sawk no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "En las montañas en las que se adiestra, se pueden oír sus puños golpear rocas y árboles.",
+        "Blanco": "La potencia de sus puñetazos aumenta si se aprieta el cinturón. Si le molestan cuando se entrena, se enfada.",
+        "Negro 2": "Para lograr dominar las técnicas de kárate más letales, se retiran a las montañas y entrenan día y noche.",
+        "Blanco 2": "Para lograr dominar las técnicas de kárate más letales, se retiran a las montañas y entrenan día y noche.",
+        "Pokémon X": "Para lograr dominar las técnicas de kárate más letales, se retiran a las montañas y entrenan día y noche.",
+        "Pokémon Y": "La potencia de sus puñetazos aumenta si se aprieta el cinturón. Si le molestan cuando se entrena, se enfada.",
+        "Rubí Omega": "Para lograr dominar las técnicas de kárate más letales, se retiran a las montañas y entrenan día y noche.",
+        "Zafiro Alfa": "La potencia de sus puñetazos aumenta si se aprieta el cinturón. Si le molestan cuando se entrena, se enfada.",
+        "Sol": "No hay entrada de Sawk en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Sawk en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Sawk en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Sawk en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Viven obsesionados con hacerse más fuertes. Si se los encuentra entrenando en la montaña, lo más recomendable es alejarse en silencio.",
+        "Escudo": "Cuando un Sawk ha entrenado duro, es capaz de separar las aguas del océano con la potencia de sus técnicas de kárate.",
+        "Diamante Brillante": "Sawk no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sawk no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sawk no aparece en Leyendas Pokémon: Arceus."
+    }
+}

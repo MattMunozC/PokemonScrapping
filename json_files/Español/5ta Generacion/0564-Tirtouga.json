@@ -1,0 +1,97 @@
+{
+    "dex number": "0564",
+    "pokemon name": "Tirtouga",
+    "types": [
+        " agua",
+        " roca"
+    ],
+    "abilities": [
+        "Roca sólida",
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Nado rápido"
+    ],
+    "stats": {
+        "hp": 54,
+        "atk": 78,
+        "def": 103,
+        "atk esp": 53,
+        "def esp": 45,
+        "speed": 22
+    },
+    "location": {
+        "Negro": [
+            "Especial: Restaurar del fósil tapa en el museo de Ciudad Esmalte"
+        ],
+        "Blanco": [
+            "Especial: Restaurar del fósil tapa en el museo de Ciudad Esmalte"
+        ],
+        "Negro 2": [
+            "Especial: Restaurar del fósil tapa en el museo de Ciudad Esmalte",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Especial: Restaurar del fósil tapa en el museo de Ciudad Esmalte",
+            "Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Especial: Restaurar del fósil tapa en el Instituto Paleontológico"
+        ],
+        "Pokémon Y": [
+            "Especial: Restaurar del fósil tapa en el Instituto Paleontológico"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X, Pokémon Y o Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Especial: Restaurar del fósil tapa en Devon S. A."
+        ],
+        "Sol": [
+            "Especial: Restaurar del fósil tapa en la Ruta 8"
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Especial: Restaurar del fósil tapa en la Ruta 8"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Salvaje: Mar Gélido "
+        ],
+        "Escudo": [
+            "Salvaje: Mar Gélido "
+        ],
+        "Diamante Brillante": [
+            "Tirtouga no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tirtouga no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Tirtouga no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Ha renacido de un fósil prehistórico. Puede sumergirse hasta 1000 m de profundidad.",
+        "Blanco": "Ya pululaba por las aguas hace 100 millones de años. También va a tierra a veces en busca de alimento.",
+        "Negro 2": "Pokémon renacido a partir de un fósil. Es muy hábil nadando y puede sumergirse a una profundidad de 1000 m.",
+        "Blanco 2": "Pokémon renacido a partir de un fósil. Es muy hábil nadando y puede sumergirse a una profundidad de 1000 m.",
+        "Pokémon X": "Ya pululaba por las aguas hace 100 millones de años. También va a tierra a veces en busca de alimento.",
+        "Pokémon Y": "Ha renacido de un fósil prehistórico. Puede sumergirse hasta 1000 m de profundidad.",
+        "Rubí Omega": "Ya pululaba por las aguas hace 100 millones de años. También va a tierra a veces en busca de alimento.",
+        "Zafiro Alfa": "Ha renacido de un fósil prehistórico. Puede sumergirse hasta 1000 m de profundidad.",
+        "Sol": "A juzgar por su estructura ósea, se calcula que podía sumergirse hasta 1 km de profundidad.",
+        "Luna": "Se dice que es el predecesor de numerosos Pokémon tortuga. Hace unos 100 millones de años ya habitaba mares templados.",
+        "Ultrasol": "Se ha logrado reconstruir a partir de fósiles. Aunque viviera en el mar, no dudaba en salir del agua a tierra firme en busca de presas.",
+        "Ultraluna": "Poseía un vasto territorio de caza, que abarcaba desde la tierra firme hasta una profundidad marina de 1 km.",
+        "Espada": "Vivía en los mares de hace millones de años. Sale a tierra para buscar presas, aunque solo se pueda desplazar reptando.",
+        "Escudo": "Se piensa que es el antepasado de numerosos Pokémon tortuga. Fue regenerado a partir de un fósil.",
+        "Diamante Brillante": "Tirtouga no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tirtouga no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Tirtouga no aparece en Leyendas Pokémon: Arceus."
+    }
+}

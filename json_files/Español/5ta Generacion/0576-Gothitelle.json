@@ -1,0 +1,98 @@
+{
+    "dex number": "0576",
+    "pokemon name": "Gothitelle",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Cacheo",
+        "Tenacidad"
+    ],
+    "hidden abilities": [
+        "Sombra trampa"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 55,
+        "def": 95,
+        "atk esp": 95,
+        "def esp": 110,
+        "speed": 65
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 9 (hierba que se mueve)",
+            "Evolucionar: a Gothorita (nivel 41)"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro o Pokémon Negro 2"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 9 (hierba que se mueve)",
+            "Evolucionar: a Gothorita (nivel 41)"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Negro 2"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Gothorita (nivel 41)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Gothorita (nivel 41)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Gothorita (nivel 41)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Gothorita (nivel 41)"
+        ],
+        "Sol": [
+            "Evolucionar: a Gothorita (nivel 41)"
+        ],
+        "Luna": [
+            "Evolucionar: a Gothorita (nivel 41)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado",
+            "Incursiones Dinamax: Con posible habilidad oculta: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol",
+            "Evolucionar: a Gothorita (nivel 41)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Gothitelle no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Gothitelle no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Gothitelle no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Su inmenso poder psíquico distorsiona el espacio y le permite reflejar incluso estrellas a años luz de distancia.",
+        "Blanco": "Predice el futuro analizando la posición de los astros y su movimiento. Conoce la esperanza de vida de los Entrenadores.",
+        "Negro 2": "Predice el futuro a partir del movimiento de las estrellas. Al saber cuando morirá su Entrenador, emite alaridos de pena.",
+        "Blanco 2": "Predice el futuro a partir del movimiento de las estrellas. Al saber cuando morirá su Entrenador, emite alaridos de pena.",
+        "Pokémon X": "Su inmenso poder psíquico distorsiona el espacio y le permite reflejar incluso estrellas a años luz de distancia.",
+        "Pokémon Y": "Predice el futuro analizando la posición de los astros y su movimiento. Conoce la esperanza de vida de los Entrenadores.",
+        "Rubí Omega": "Su inmenso poder psíquico distorsiona el espacio y le permite reflejar incluso estrellas a años luz de distancia.",
+        "Zafiro Alfa": "Predice el futuro analizando la posición de los astros y su movimiento. Conoce la esperanza de vida de los Entrenadores.",
+        "Sol": "No hay entrada de Gothitelle en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Gothitelle en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Gothitelle en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Gothitelle en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Predice el futuro observando el movimiento de las estrellas. Posee un poder psíquico tremendo, pero evita los conflictos por su buen carácter.",
+        "Escudo": "Los malhechores a los que revela sus últimos momentos pierden la vida el mismo día.",
+        "Diamante Brillante": "Gothitelle no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Gothitelle no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Gothitelle no aparece en Leyendas Pokémon: Arceus."
+    }
+}

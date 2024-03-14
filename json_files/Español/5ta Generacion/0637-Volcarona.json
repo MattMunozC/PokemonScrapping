@@ -1,0 +1,104 @@
+{
+    "dex number": "0637",
+    "pokemon name": "Volcarona",
+    "types": [
+        " bicho",
+        " fuego"
+    ],
+    "abilities": [
+        "Cuerpo llama"
+    ],
+    "hidden abilities": [
+        "Enjambre"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 60,
+        "def": 65,
+        "atk esp": 135,
+        "def esp": 105,
+        "speed": 100
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Castillo Ancestral (solo uno)",
+            "Evolucionar: a Larvesta (nivel 59)"
+        ],
+        "Blanco": [
+            "Salvaje: Castillo Ancestral (solo uno)",
+            "Evolucionar: a Larvesta (nivel 59)"
+        ],
+        "Negro 2": [
+            "Salvaje: Castillo Ancestral (solo uno)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Castillo Ancestral (solo uno)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Larvesta (nivel 59)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Larvesta (nivel 59)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Larvesta (nivel 59)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Larvesta (nivel 59)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Jungla Umbría (como refuerzo de Larvesta)",
+            "Evolucionar: a Larvesta (nivel 59)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Jungla Umbría (como refuerzo de Larvesta)",
+            "Evolucionar: a Larvesta (nivel 59)"
+        ],
+        "Espada": [
+            "Salvaje: Playa Desafío , Cuenca Arenosa  y Mar Islejos ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Playa Desafío , Bahía Circular  y Cuenca Arenosa ",
+            "Evolucionar: a Larvesta (nivel 59)"
+        ],
+        "Escudo": [
+            "Salvaje: Playa Desafío , Cuenca Arenosa  y Mar Islejos ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Playa Desafío , Bahía Circular  y Cuenca Arenosa ",
+            "Evolucionar: a Larvesta (nivel 59)"
+        ],
+        "Diamante Brillante": [
+            "Volcarona no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Volcarona no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Volcarona no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Antaño, las cenizas volcánicas cubrieron los cielos. Entonces, sus llamaradas sirvieron de sol.",
+        "Blanco": "Cuando combate, despide escamas ardientes de sus seis alas y genera un mar ígneo a su alrededor.",
+        "Negro 2": "Se cree que es la encarnación del sol. Salvó a muchos Pokémon de la congelación al surgir en mitad de un cruel invierno.",
+        "Blanco 2": "Se cree que es la encarnación del sol. Salvó a muchos Pokémon de la congelación al surgir en mitad de un cruel invierno.",
+        "Pokémon X": "Cuando combate, despide escamas ardientes de sus seis alas y genera un mar ígneo a su alrededor.",
+        "Pokémon Y": "Antaño, las cenizas volcánicas cubrieron los cielos. Entonces, sus llamaradas sirvieron de sol.",
+        "Rubí Omega": "Cuando combate, despide escamas ardientes de sus seis alas y genera un mar ígneo a su alrededor.",
+        "Zafiro Alfa": "Antaño, las cenizas volcánicas cubrieron los cielos. Entonces, sus llamaradas sirvieron de sol.",
+        "Sol": "No hay entrada de Volcarona en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Volcarona en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Esparce escamas flamígeras a medida que surca el cielo. Era temido por la gente de tiempo ha, que lo apodaron la Ira del Sol.",
+        "Ultraluna": "Una leyenda relata cómo nació de un capullo en llamas para acudir al rescate de humanos y Pokémon ateridos por el frío.",
+        "Espada": "Se dice que sus escamas flamígeras pueden tanto causar incendios como amparar a aquellos que sufren las inclemencias del frío.",
+        "Escudo": "Nace de una pupa envuelta en llamas. En algunas pinturas rupestres aparece representado como una deidad del fuego.",
+        "Diamante Brillante": "Volcarona no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Volcarona no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Volcarona no aparece en Leyendas Pokémon: Arceus."
+    }
+}

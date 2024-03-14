@@ -1,0 +1,94 @@
+{
+    "dex number": "0506",
+    "pokemon name": "Lillipup",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Espíritu vital",
+        "Recogida"
+    ],
+    "hidden abilities": [
+        "Fuga"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 60,
+        "def": 45,
+        "atk esp": 25,
+        "def esp": 45,
+        "speed": 55
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 1, ruta 2 y ruta 3."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 1, ruta 2 y ruta 3."
+        ],
+        "Negro 2": [
+            "Salvaje: Rancho Ocre."
+        ],
+        "Blanco 2": [
+            "Salvaje: Rancho Ocre."
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo normal."
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo normal."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 101, ruta 102 y ruta 103; usando el DexNav después de tener la Pokédex Nacional."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 101, ruta 102 y ruta 103; usando el DexNav después de tener la Pokédex Nacional."
+        ],
+        "Sol": [
+            "Salvaje: Ruta 4, ruta 5, ruta 6, Rancho Ohana y Colina Saltagua."
+        ],
+        "Luna": [
+            "Salvaje: Ruta 4, ruta 5, ruta 6, Rancho Ohana y Colina Saltagua."
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 4, ruta 5, ruta 6 y Rancho Ohana."
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 4, ruta 5, ruta 6 y Rancho Ohana."
+        ],
+        "Espada": [
+            "Salvaje: Llano Entrenamiento "
+        ],
+        "Escudo": [
+            "Salvaje: Llano Entrenamiento "
+        ],
+        "Diamante Brillante": [
+            "Lillipup no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Lillipup no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Lillipup no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Se enfrenta con brío a enemigos muy poderosos. Es muy inteligente, por eso tiende a evitar luchas en desventaja.",
+        "Blanco": "Los mechones que cubren su cara actúan como un magnífico radar para detectar con precisión lo que hay a su alrededor.",
+        "Negro 2": "Aunque se trata de un Pokémon valeroso, también es lo bastante inteligente como para escapar si el rival es muy fuerte.",
+        "Blanco 2": "Aunque se trata de un Pokémon valeroso, también es lo bastante inteligente como para escapar si el rival es muy fuerte.",
+        "Pokémon X": "Los mechones que cubren su cara actúan como un magnífico radar para detectar con precisión lo que hay a su alrededor.",
+        "Pokémon Y": "Aunque se trata de un Pokémon valeroso, también es lo bastante inteligente como para escapar si el rival es muy fuerte.",
+        "Rubí Omega": "Los mechones que cubren su cara actúan como un magnífico radar para detectar con precisión lo que hay a su alrededor.",
+        "Zafiro Alfa": "Aunque se trata de un Pokémon valeroso, también es lo bastante inteligente como para escapar si el rival es muy fuerte.",
+        "Sol": "No suele ladrar mucho, por lo que resulta muy popular entre los Entrenadores que viven en apartamentos.",
+        "Luna": "Los mechones que le cubren el rostro actúan como un radar con el que averiguan la envergadura de posibles contrincantes.",
+        "Ultrasol": "Este Pokémon destaca por su perspicacia. Si percibe que no lleva las de ganar, no duda en huir con el rabo entre las piernas.",
+        "Ultraluna": "Este inteligente Pokémon es muy popular, ya que obedece sin rechistar a su Entrenador e incluso los novatos pueden entrenarlo sin problemas.",
+        "Espada": "Es valiente pero cauto. Usa el suave pelaje que le recubre el rostro para obtener información sobre su entorno.",
+        "Escudo": "Muestra una inteligencia muy superior a la media de los niños humanos. No olvida ni el amor ni los malos tratos que recibe.",
+        "Diamante Brillante": "Lillipup no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Lillipup no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Lillipup no aparece en Leyendas Pokémon: Arceus."
+    }
+}

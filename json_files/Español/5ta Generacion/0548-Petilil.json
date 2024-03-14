@@ -1,0 +1,99 @@
+{
+    "dex number": "0548",
+    "pokemon name": "Petilil",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Clorofila",
+        "Ritmo propio"
+    ],
+    "hidden abilities": [
+        "Defensa hoja"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 35,
+        "def": 50,
+        "atk esp": 70,
+        "def esp": 50,
+        "speed": 30
+    },
+    "location": {
+        "Negro": [
+            "Intercambiar: por un Cottonee a una chica en Ciudad Esmalte"
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Azulejo, Santuario Abundancia y Bosque de los Perdidos"
+        ],
+        "Negro 2": [
+            "Intercambiar: por un Cottonee a una chica en la Ruta 4",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco 2": [
+            "Salvaje: Solar de Ciudad Porcelana, Bosque Azulejo, Santuario Abundancia, Bosque de los Perdidos y Calle Victoria",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo planta"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo planta"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque Espejismo"
+        ],
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Salvaje: Jardines de Melemele, Parque de Malíe, Jardines de Ula-Ula, Llanura de Poni y Jardines de Poni"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Salvaje: Jardines de Melemele, Parque de Malíe, Jardines de Ula-Ula, Llanura de Poni y Jardines de Poni"
+        ],
+        "Espada": [
+            "Salvaje: Isla Melosa ",
+            "Incursiones Dinamax: Prado Reverencia , Humedal Frescor , Llano Entrenamiento  y Mar Islejos "
+        ],
+        "Escudo": [
+            "Salvaje: Isla Melosa ",
+            "Incursiones Dinamax: Prado Reverencia , Humedal Frescor , Llano Entrenamiento  y Mar Islejos "
+        ],
+        "Diamante Brillante": [
+            "Petilil no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Petilil no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Prado Erióforo y Banco del Juicio",
+            "Aparición supermasiva: Pantanal Carmesí"
+        ]
+    },
+    "pokedex": {
+        "Negro": "Mordisquear las hojas de su cabeza permite recuperar toda la vitalidad, a pesar de que están muy amargas.",
+        "Blanco": "Habita tierras húmedas ricas en nutrientes donde la cosecha es abundante.",
+        "Negro 2": "Las hojas de su cabeza vuelven a crecer rápidamente aunque se caigan. A pesar de ser amargas, restablecen la vitalidad.",
+        "Blanco 2": "Las hojas de su cabeza vuelven a crecer rápidamente aunque se caigan. A pesar de ser amargas, restablecen la vitalidad.",
+        "Pokémon X": "Mordisquear las hojas de su cabeza permite recuperar toda la vitalidad, a pesar de que están muy amargas.",
+        "Pokémon Y": "Habita tierras húmedas ricas en nutrientes donde la cosecha es abundante.",
+        "Rubí Omega": "Mordisquear las hojas de su cabeza permite recuperar toda la vitalidad, a pesar de que están muy amargas.",
+        "Zafiro Alfa": "Habita tierras húmedas ricas en nutrientes donde la cosecha es abundante.",
+        "Sol": "Las hojas de su cabeza son tan amargas que casi producen náuseas, pero tienen un efecto revitalizante, sobre todo en forma de infusión.",
+        "Luna": "Adquiere un aspecto esplendoroso cuando se le recortan las hojas de la cabeza con cierta asiduidad.",
+        "Ultrasol": "Los ancianos aprecian las hojas de su cabeza, ya que, secadas al sol y tomadas en infusión, devuelven la vitalidad perdida.",
+        "Ultraluna": "Prefiere el agua y la tierra sin impurezas. Si el entorno en el que habita empeora, emigra en grupo hacia un nuevo territorio.",
+        "Espada": "Aparece en lugares de aguas limpias. La decocción de las hojas de su cabeza se puede utilizar como repelente de insectos.",
+        "Escudo": "Cuanto más sano está este Pokémon, más intenso se vuelve el color de sus hojas. A veces se asienta en huertos o jardines de flores bien cuidados.",
+        "Diamante Brillante": "Petilil no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Petilil no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Las hojas de la cabeza son codiciadas por sus propiedades medicinales contra el cansancio: se secan al sol y se cuecen para crear un brebaje de sabor amargo pero muy eficaz."
+    }
+}

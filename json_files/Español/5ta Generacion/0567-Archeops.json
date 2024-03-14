@@ -1,0 +1,92 @@
+{
+    "dex number": "0567",
+    "pokemon name": "Archeops",
+    "types": [
+        " roca",
+        " volador"
+    ],
+    "abilities": [
+        "Flaqueza"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 75,
+        "atk": 140,
+        "def": 65,
+        "atk esp": 112,
+        "def esp": 65,
+        "speed": 110
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Archen (nivel 37)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Archen (nivel 37)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Archen (nivel 37)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Archen (nivel 37)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Archen (nivel 37)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Archen (nivel 37)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Archen (nivel 37)"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X, Pokémon Y o Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Evolucionar: a Archen (nivel 37)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Archen (nivel 37)"
+        ],
+        "Espada": [
+            "Evolucionar: a Archen (nivel 37) "
+        ],
+        "Escudo": [
+            "Evolucionar: a Archen (nivel 37) "
+        ],
+        "Diamante Brillante": [
+            "Archeops no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Archeops no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Archeops no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Levanta el vuelo tras coger carrerilla. Coopera con sus compañeros de bandada para atrapar a sus presas.",
+        "Blanco": "Se le da mejor correr que volar. Atrapa a sus presas corriendo más rápido que un coche.",
+        "Negro 2": "Corre a mayor velocidad de la que puede volar. Alcanza una velocidad de 40 km/h antes de alzarse en vuelo hacia el cielo.",
+        "Blanco 2": "Corre a mayor velocidad de la que puede volar. Alcanza una velocidad de 40 km/h antes de alzarse en vuelo hacia el cielo.",
+        "Pokémon X": "Levanta el vuelo tras coger carrerilla. Coopera con sus compañeros de bandada para atrapar a sus presas.",
+        "Pokémon Y": "Corre a mayor velocidad de la que puede volar. Alcanza una velocidad de 40 km/h antes de alzarse en vuelo hacia el cielo.",
+        "Rubí Omega": "Levanta el vuelo tras coger carrerilla. Coopera con sus compañeros de bandada para atrapar a sus presas.",
+        "Zafiro Alfa": "Corre a mayor velocidad de la que puede volar. Alcanza una velocidad de 40 km/h antes de alzarse en vuelo hacia el cielo.",
+        "Sol": "Pese a haber desarrollado la capacidad de volar, prefería seguir corriendo por la superficie terrestre, con una velocidad media de 40 km/h.",
+        "Luna": "Se agrupaban en bandadas para salir de caza. Primero, unos arrinconaban a la presa y luego otros se lanzaban en picado sobre ella.",
+        "Ultrasol": "Pokémon vetusto de plumaje tan fino que solo alguien con extremada pericia puede regenerar a partir de un fósil.",
+        "Ultraluna": "Precursor de los Pokémon pájaro. Para alzar el vuelo necesita coger carrerilla, debido a una musculatura en las alas poco desarrollada.",
+        "Espada": "Coge carrerilla durante aproximadamente 4 km a una velocidad de 40 km/h para poder levantar el vuelo.",
+        "Escudo": "Si bien era capaz de volar, parece ser que se le daba mucho mejor cazar presas en tierra firme que en el aire.",
+        "Diamante Brillante": "Archeops no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Archeops no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Archeops no aparece en Leyendas Pokémon: Arceus."
+    }
+}

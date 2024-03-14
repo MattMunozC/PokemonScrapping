@@ -1,0 +1,102 @@
+{
+    "dex number": "0518",
+    "pokemon name": "Musharna",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Alerta",
+        "Sincronía"
+    ],
+    "hidden abilities": [
+        "Telepatía"
+    ],
+    "stats": {
+        "hp": 116,
+        "atk": 55,
+        "def": 85,
+        "atk esp": 107,
+        "def esp": 95,
+        "speed": 29
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Solar de los Sueños.",
+            "Especial: Solar de los Sueños. Tras vencer a Ghechis cada viernes aparece uno al nivel 50 y con la habilidad telepatía.",
+            "Evolucionar: a Munna (utilizando piedra lunar)."
+        ],
+        "Blanco": [
+            "Salvaje: Solar de los Sueños.",
+            "Especial: Solar de los Sueños. Tras vencer a Ghechis cada viernes aparece uno al nivel 50 y con la habilidad telepatía.",
+            "Evolucionar: a Munna (utilizando piedra lunar)."
+        ],
+        "Negro 2": [
+            "Salvaje: Solar de los Sueños."
+        ],
+        "Blanco 2": [
+            "Salvaje: Solar de los Sueños."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Munna (utilizando piedra lunar)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Munna (utilizando piedra lunar)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Munna (utilizando piedra lunar)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Munna (utilizando piedra lunar)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Valle Entrepuentes, Silla del Gigante.",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol.",
+            "Evolucionar: a Munna (utilizando piedra lunar)."
+        ],
+        "Escudo": [
+            "Salvaje: Valle Entrepuentes, Silla del Gigante.",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol.",
+            "Evolucionar: a Munna (utilizando piedra lunar)."
+        ],
+        "Diamante Brillante": [
+            "Musharna no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Musharna no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Musharna no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Multitud de sueños humanos y de Pokémon se encuentran atrapados en el humo que despide por su frente.",
+        "Blanco": "Con el humo que despide por la frente, forma las cosas que ha visto en los sueños que engulle.",
+        "Negro 2": "El color del humo que despide de su abultada frente varía según el contenido de los sueños que haya engullido.",
+        "Blanco 2": "El color del humo que despide de su abultada frente varía según el contenido de los sueños que haya engullido.",
+        "Pokémon X": "Multitud de sueños humanos y de Pokémon se encuentran atrapados en el humo que despide por su frente.",
+        "Pokémon Y": "El color del humo que despide de su abultada frente varía según el contenido de los sueños que haya engullido.",
+        "Rubí Omega": "Multitud de sueños humanos y de Pokémon se encuentran atrapados en el humo que despide por su frente.",
+        "Zafiro Alfa": "El color del humo que despide de su abultada frente varía según el contenido de los sueños que haya engullido.",
+        "Sol": "No hay entrada de Musharna en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Musharna en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Musharna en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Musharna en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Cuando el humo que desprende es de un color negruzco, conviene no acercarse, ya que puede hacer realidad las pesadillas.",
+        "Escudo": "Siempre está soñando o adormecido. Se pone de muy mal humor al despertar, por lo que es mejor no perturbarlo.",
+        "Diamante Brillante": "Musharna no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Musharna no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Musharna no aparece en Leyendas Pokémon: Arceus."
+    }
+}

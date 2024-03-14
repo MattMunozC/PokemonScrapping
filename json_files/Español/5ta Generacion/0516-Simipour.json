@@ -1,0 +1,93 @@
+{
+    "dex number": "0516",
+    "pokemon name": "Simipour",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Torrente"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 98,
+        "def": 63,
+        "atk esp": 98,
+        "def esp": 63,
+        "speed": 101
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Panpour (utilizando piedra agua)."
+        ],
+        "Blanco": [
+            "Evolucionar: a Panpour (utilizando piedra agua)."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Panpour (utilizando piedra agua)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Panpour (utilizando piedra agua)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Panpour (utilizando piedra agua)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Panpour (utilizando piedra agua)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Panpour (utilizando piedra agua)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Panpour (utilizando piedra agua)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Simipour no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Simipour no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Simipour no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Simipour no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Simipour no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Acumula agua en su pelo. Cuando le falta agua a su organismo, la cola absorbe líquido para recuperar el equilibrio.",
+        "Blanco": "Cuando lanza agua a alta presión con su cola, puede incluso resquebrajar una pared de cemento.",
+        "Negro 2": "Le encantan los lugares con agua limpia. Cuando desciende el nivel de agua de su pelo, se abastece a través de su cola.",
+        "Blanco 2": "Le encantan los lugares con agua limpia. Cuando desciende el nivel de agua de su pelo, se abastece a través de su cola.",
+        "Pokémon X": "Cuando lanza agua a alta presión con su cola, puede incluso resquebrajar una pared de cemento.",
+        "Pokémon Y": "Le encantan los lugares con agua limpia. Cuando desciende el nivel de agua de su pelo, se abastece a través de su cola.",
+        "Rubí Omega": "Cuando lanza agua a alta presión con su cola, puede incluso resquebrajar una pared de cemento.",
+        "Zafiro Alfa": "Le encantan los lugares con agua limpia. Cuando desciende el nivel de agua de su pelo, se abastece a través de su cola.",
+        "Sol": "No hay entrada de Simipour en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Simipour en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Simipour en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Simipour en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Simipour no aparece en Pokémon Espada.",
+        "Escudo": "Simipour no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Simipour no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Simipour no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Simipour no aparece en Leyendas Pokémon: Arceus."
+    }
+}

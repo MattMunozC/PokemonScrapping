@@ -1,0 +1,101 @@
+{
+    "dex number": "0557",
+    "pokemon name": "Dwebble",
+    "types": [
+        " bicho",
+        " roca"
+    ],
+    "abilities": [
+        "Robustez",
+        "Caparazón"
+    ],
+    "hidden abilities": [
+        "Armadura frágil"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 85,
+        "atk esp": 35,
+        "def esp": 35,
+        "speed": 55
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 18 y Zona Desierto"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 18 y Zona Desierto"
+        ],
+        "Negro 2": [
+            "Salvaje: Zona Desierto"
+        ],
+        "Blanco 2": [
+            "Salvaje: Zona Desierto"
+        ],
+        "Pokémon X": [
+            "Golpe roca: Pueblo Petroglifo, Cueva Brillante, Ruta 8, Ruta 12, Ciudad Relieve y Bahía Azul",
+            "Especial: Safari Amistad, en algunos safaris de tipo roca"
+        ],
+        "Pokémon Y": [
+            "Golpe roca: Pueblo Petroglifo, Cueva Brillante, Ruta 8, Ruta 12, Ciudad Relieve y Bahía Azul",
+            "Especial: Safari Amistad, en algunos safaris de tipo roca"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 111, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 111, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Criar: de Crustle"
+        ],
+        "Ultraluna": [
+            "Criar: de Crustle"
+        ],
+        "Espada": [
+            "Salvaje: Pradera Radiante, Lago Axew (este), Lago Axew (oeste), Silla del Gigante, Cornisa de Artejo, Lago Milotic (norte), Lago Milotic (sur), Llanura Pétrea, Antigua Atalaya, Cueva Tenacidad  y Bahía Circular ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Cuenca Polvorienta, nido al extremo noreste, Lago Milotic (sur), nido al noroeste, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido al sureste junto a la pared, Pradera Radiante, nido en la zona de pasto al este, Silla del Gigante, nido al sur junto al lago, Silla del Gigante, nido al sureste, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares. Nidos en Prado Reverencia , Bosque Concentración , Llano Entrenamiento  y Mar Gimnástico "
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante, Lago Axew (este), Lago Axew (oeste), Silla del Gigante, Cornisa de Artejo, Lago Milotic (norte), Lago Milotic (sur), Llanura Pétrea, Antigua Atalaya, Cueva Tenacidad  y Bahía Circular ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Cuenca Polvorienta, nido al extremo noreste, Lago Milotic (sur), nido al noroeste, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido al sureste junto a la pared, Pradera Radiante, nido en la zona de pasto al este, Silla del Gigante, nido al sur junto al lago, Silla del Gigante, nido al sureste, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares. Nidos en Prado Reverencia , Bosque Concentración , Llano Entrenamiento  y Mar Gimnástico "
+        ],
+        "Diamante Brillante": [
+            "Dwebble no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Dwebble no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Dwebble no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Derrite las piedras más sólidas gracias al líquido corrosivo que segrega de su boca. También puede abrir agujeros en ellas.",
+        "Blanco": "Abre un agujero en la roca y vive en él. Si la roca se resquebraja, no se queda tranquilo hasta que no encuentra otra.",
+        "Negro 2": "Si encuentran una piedra del tamaño ideal, segregan un líquido por la boca para crear un agujero y deslizarse dentro.",
+        "Blanco 2": "Si encuentran una piedra del tamaño ideal, segregan un líquido por la boca para crear un agujero y deslizarse dentro.",
+        "Pokémon X": "Abre un agujero en la roca y vive en él. Si la roca se resquebraja, no se queda tranquilo hasta que no encuentra otra.",
+        "Pokémon Y": "Si encuentran una piedra del tamaño ideal, segregan un líquido por la boca para crear un agujero y deslizarse dentro.",
+        "Rubí Omega": "Abre un agujero en la roca y vive en él. Si la roca se resquebraja, no se queda tranquilo hasta que no encuentra otra.",
+        "Zafiro Alfa": "Si encuentran una piedra del tamaño ideal, segregan un líquido por la boca para crear un agujero y deslizarse dentro.",
+        "Sol": "No hay entrada de Dwebble en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Dwebble en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Dwebble en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Dwebble en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Cuando halla una piedra de su agrado, la horada y establece su morada. Es enemigo natural de los Roggenrola y los Rolycoly.",
+        "Escudo": "Si no encuentra una piedra que sea idónea como morada, se instala en los orificios de algún Hippowdon.",
+        "Diamante Brillante": "Dwebble no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Dwebble no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Dwebble no aparece en Leyendas Pokémon: Arceus."
+    }
+}

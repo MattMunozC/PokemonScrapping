@@ -1,0 +1,105 @@
+{
+    "dex number": "0625",
+    "pokemon name": "Bisharp",
+    "types": [
+        " siniestro",
+        " acero"
+    ],
+    "abilities": [
+        "Competitivo",
+        "Fuerza mental"
+    ],
+    "hidden abilities": [
+        "Presión"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 125,
+        "def": 100,
+        "atk esp": 60,
+        "def esp": 70,
+        "speed": 70
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 11",
+            "Evolucionar: a Pawniard (nivel 52)"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 11",
+            "Evolucionar: a Pawniard (nivel 52)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Pawniard (nivel 52)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Pawniard (nivel 52)"
+        ],
+        "Pokémon X": [
+            "Intercambiar: por un Jigglypuff en la casa al noroeste del gimnasio de Ciudad Fractal",
+            "Evolucionar: a Pawniard (nivel 52)"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: por un Jigglypuff en la casa al noroeste del gimnasio de Ciudad Fractal",
+            "Evolucionar: a Pawniard (nivel 52)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: De Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: De Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 17"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 17"
+        ],
+        "Espada": [
+            "Salvaje: Silla del Gigante, Lago del Enfado, Ruta Desafío  y Llano Entrenamiento ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte. Nidos en Humedal Frescor , Cueva Contienda , Ruta Desafío , Cueva Tenacidad , Mar Gimnástico , Mar Andana  y Mar Meloso ",
+            "Evolucionar: a Pawniard (nivel 52)"
+        ],
+        "Escudo": [
+            "Salvaje: Silla del Gigante, Lago del Enfado, Ruta Desafío  y Llano Entrenamiento ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte. Nidos en Humedal Frescor , Cueva Contienda , Ruta Desafío , Cueva Tenacidad , Mar Gimnástico , Mar Andana  y Mar Meloso ",
+            "Evolucionar: a Pawniard (nivel 52)"
+        ],
+        "Diamante Brillante": [
+            "Bisharp no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Bisharp no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Bisharp no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Líder del grupo de Pawniard. Lucha continuamente para mantener su posición. Es expulsado si pierde.",
+        "Blanco": "Su séquito son los Pawniard. Acorralan a su presa con todo el grupo y Bisharp propina el golpe de gracia.",
+        "Negro 2": "Un Pokémon temible que remata a su presa una vez que su séquito de Pawniard la ha debilitado e inmovilizado.",
+        "Blanco 2": "Un Pokémon temible que remata a su presa una vez que su séquito de Pawniard la ha debilitado e inmovilizado.",
+        "Pokémon X": "Un Pokémon temible que remata a su presa una vez que su séquito de Pawniard la ha debilitado e inmovilizado.",
+        "Pokémon Y": "Su séquito son los Pawniard. Acorralan a su presa con todo el grupo y Bisharp propina el golpe de gracia.",
+        "Rubí Omega": "Un Pokémon temible que remata a su presa una vez que su séquito de Pawniard la ha debilitado e inmovilizado.",
+        "Zafiro Alfa": "Su séquito son los Pawniard. Acorralan a su presa con todo el grupo y Bisharp propina el golpe de gracia.",
+        "Sol": "No hay entrada de Bisharp en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Bisharp en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Por fuerte que sea un Bisharp, la más mínima mella en la hoja de su cabeza es deshonrosa y motivo de destitución como líder de su grupo.",
+        "Ultraluna": "Lidera un grupo de Pawniard y no muestra el más mínimo sentimiento ni cuando propina el ataque de gracia al rival.",
+        "Espada": "Siempre va acompañado por un nutrido séquito de Pawniard, a los que no pierde nunca de vista para evitar posibles motines.",
+        "Escudo": "Libra encarnizados combates con los Fraxure por el control de los emplazamientos donde se hallan las piedras con las que afila sus cuchillas.",
+        "Diamante Brillante": "Bisharp no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Bisharp no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Bisharp no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "dex number": "0616",
+    "pokemon name": "Shelmet",
+    "types": [
+        " bicho"
+    ],
+    "abilities": [
+        "Hidratación",
+        "Caparazón"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 40,
+        "def": 85,
+        "atk esp": 40,
+        "def esp": 65,
+        "speed": 25
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 8, Ciudad Teja y Pantano Teja (en primavera, verano y otoño)"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 8, Ciudad Teja y Pantano Teja (en primavera, verano y otoño)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 6 y Ruta 11 (todas las estaciones) y Ruta 8, Ciudad Teja y Pantano Teja (en primavera, verano y otoño)",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 6 y Ruta 11 (todas las estaciones) y Ruta 8, Ciudad Teja y Pantano Teja (en primavera, verano y otoño)",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 14 y Ruta 19"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 14 y Ruta 19"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 7, Cornisa de Artejo, Ribera de Pistón, Valle Entrepuentes, Humedal Frescor , Bosque Concentración , Llano Entrenamiento  y Lecho del Gigante ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares",
+            "Curri: Ruta 7"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 7, Cornisa de Artejo, Gorro del Gigante, Ribera de Pistón, Valle Entrepuentes, Humedal Frescor , Bosque Concentración , Llano Entrenamiento  y Lecho del Gigante ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares",
+            "Curri: Ruta 7"
+        ],
+        "Diamante Brillante": [
+            "Shelmet no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Shelmet no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Shelmet no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Cierra la tapa de su caparazón al ser atacado y luego escupe un líquido venenoso por los resquicios de la misma.",
+        "Blanco": "Evoluciona si entra en contacto con energía eléctrica junto a Karrablast. Aún no se ha esclarecido el porqué.",
+        "Negro 2": "Si está junto a Karrablast, y ambos reciben una descarga eléctrica, evolucionan los dos a la vez.",
+        "Blanco 2": "Si está junto a Karrablast, y ambos reciben una descarga eléctrica, evolucionan los dos a la vez.",
+        "Pokémon X": "Si está junto a Karrablast, y ambos reciben una descarga eléctrica, evolucionan los dos a la vez.",
+        "Pokémon Y": "Evoluciona si entra en contacto con energía eléctrica junto a Karrablast. Aún no se ha esclarecido el porqué.",
+        "Rubí Omega": "Si está junto a Karrablast, y ambos reciben una descarga eléctrica, evolucionan los dos a la vez.",
+        "Zafiro Alfa": "Evoluciona si entra en contacto con energía eléctrica junto a Karrablast. Aún no se ha esclarecido el porqué.",
+        "Sol": "No hay entrada de Shelmet en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Shelmet en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Shelmet en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Shelmet en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Cierra a cal y canto la visera de su caparazón al ser atacado. Solo los Karrablast pueden abrirla.",
+        "Escudo": "Debido a su peculiar constitución, reacciona ante la energía eléctrica. Por alguna misteriosa razón, evoluciona en presencia de Karrablast.",
+        "Diamante Brillante": "Shelmet no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Shelmet no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Shelmet no aparece en Leyendas Pokémon: Arceus."
+    }
+}

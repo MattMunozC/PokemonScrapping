@@ -1,0 +1,104 @@
+{
+    "dex number": "0608",
+    "pokemon name": "Lampent",
+    "types": [
+        " fantasma",
+        " fuego"
+    ],
+    "abilities": [
+        "Absorbe fuego",
+        "Cuerpo llama"
+    ],
+    "hidden abilities": [
+        "Sombra trampa",
+        "Allanamiento"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 40,
+        "def": 60,
+        "atk esp": 95,
+        "def esp": 60,
+        "speed": 55
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Litwick (nivel 41)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Litwick (nivel 41)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Litwick (nivel 41)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Litwick (nivel 41)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Litwick (nivel 41)",
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Litwick (nivel 41)",
+            "Especial: Safari Amistad, en algunos safaris de tipo fantasma"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Evolucionar: a Litwick (nivel 41)"
+        ],
+        "Luna": [
+            "Evolucionar: a Litwick (nivel 41)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Litwick (nivel 41)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Litwick (nivel 41)"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado, Lecho del Gigante  y Viejo Cementerio ",
+            "Evolucionar: a Litwick (nivel 41)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Nidos en Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado, Lecho del Gigante  y Viejo Cementerio ",
+            "Evolucionar: a Litwick (nivel 41)",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Nidos en Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Lampent no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Lampent no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Lampent no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Lo temen por ser considerado de mal agüero. Vaga en busca de almas de individuos que han pasado a mejor vida.",
+        "Blanco": "Aparece hacia el final de la vida y absorbe el alma en cuanto esta se separa del cuerpo.",
+        "Negro 2": "Al absorber almas, su llama se enciende. Espera a que la gente fallezca, así que suele deambular por los hospitales.",
+        "Blanco 2": "Al absorber almas, su llama se enciende. Espera a que la gente fallezca, así que suele deambular por los hospitales.",
+        "Pokémon X": "Al absorber almas, su llama se enciende. Espera a que la gente fallezca, así que suele deambular por los hospitales.",
+        "Pokémon Y": "Aparece hacia el final de la vida y absorbe el alma en cuanto esta se separa del cuerpo.",
+        "Rubí Omega": "Al absorber almas, su llama se enciende. Espera a que la gente fallezca, así que suele deambular por los hospitales.",
+        "Zafiro Alfa": "Aparece hacia el final de la vida y absorbe el alma en cuanto esta se separa del cuerpo.",
+        "Sol": "No hay entrada de Lampent en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Lampent en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Lampent en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Lampent en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Es considerado y temido como Pokémon de mal agüero, ya que aparece en los instantes previos al fallecimiento de alguien.",
+        "Escudo": "Se oculta en entornos urbanos haciéndose pasar por una lámpara corriente. Si se topa con alguien moribundo, lo sigue en silencio.",
+        "Diamante Brillante": "Lampent no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Lampent no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Lampent no aparece en Leyendas Pokémon: Arceus."
+    }
+}

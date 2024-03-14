@@ -1,0 +1,100 @@
+{
+    "dex number": "0526",
+    "pokemon name": "Gigalith",
+    "types": [
+        " roca"
+    ],
+    "abilities": [
+        "Robustez",
+        "Chorro arena"
+    ],
+    "hidden abilities": [
+        "Poder arena"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 135,
+        "def": 130,
+        "atk esp": 60,
+        "def esp": 80,
+        "speed": 25
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Boldore (intercambio)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Boldore (intercambio)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Boldore (intercambio).",
+            "Intercambio: Por un Emolga al montañero de la casa de la Ruta 7"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Boldore (intercambio).",
+            "Intercambio: Por un Emolga al montañero de la casa de la Ruta 7"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Boldore (intercambio)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Boldore (intercambio)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Boldore (intercambio)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Boldore (intercambio)"
+        ],
+        "Sol": [
+            "Evolucionar: a Boldore (intercambio)"
+        ],
+        "Luna": [
+            "Evolucionar: a Boldore (intercambio)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Boldore (intercambio)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Boldore (intercambio)"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al extremo noreste, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste.",
+            "Isla de la Armadura: Cueva Contienda.",
+            "Evolucionar: a Boldore (intercambio)"
+        ],
+        "Escudo": [
+            "Salvaje: Cuenca Polvorienta (Encuentro especial con niebla).",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al extremo noreste, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste.",
+            "Evolucionar: a Boldore (intercambio)."
+        ],
+        "Diamante Brillante": [
+            "Gigalith no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Gigalith no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Gigalith no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "El núcleo de su cuerpo comprime la energía para lanzar ataques capaces de destruir una montaña.",
+        "Blanco": "Con los cristales naranjas de su cuerpo, absorbe la energía de los rayos del sol, la amplifica y la expulsa por la boca.",
+        "Negro 2": "Absorbe los rayos solares, procesa esa energía en su núcleo y lanza poderosas bolas de luz a sus enemigos.",
+        "Blanco 2": "Absorbe los rayos solares, procesa esa energía en su núcleo y lanza poderosas bolas de luz a sus enemigos.",
+        "Pokémon X": "Absorbe los rayos solares, procesa esa energía en su núcleo y lanza poderosas bolas de luz a sus enemigos.",
+        "Pokémon Y": "El núcleo de su cuerpo comprime la energía para lanzar ataques capaces de destruir una montaña.",
+        "Rubí Omega": "Absorbe los rayos solares, procesa esa energía en su núcleo y lanza poderosas bolas de luz a sus enemigos.",
+        "Zafiro Alfa": "El núcleo de su cuerpo comprime la energía para lanzar ataques capaces de destruir una montaña.",
+        "Sol": "Absorbe los rayos solares y los transforma en poderosas bolas de energía. Sin embargo, no puede hacerlo de noche o en días lluviosos.",
+        "Luna": "La soberbia potencia de la que hace gala lo convierte en un ayudante idóneo para todo trabajador de la construcción.",
+        "Ultrasol": "Cuando dispara energía con todas sus fuerzas, la potencia es tal que le provoca incontables fisuras por todo el cuerpo.",
+        "Ultraluna": "Absorbe los rayos de sol y los expulsa en forma de energía. Suele ocultarse en las profundidades subterráneas.",
+        "Espada": "Su robustez le permite colaborar con humanos y Copperajah en labores de construcción y minería.",
+        "Escudo": "Las bolas de energía que lanza solo en días soleados son tan potentes que pueden hacer saltar un camión por los aires.",
+        "Diamante Brillante": "Gigalith no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Gigalith no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Gigalith no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "dex number": "0645",
+    "pokemon name": "Landorus",
+    "types": [
+        " tierra",
+        " volador"
+    ],
+    "abilities": [
+        "Poder arena",
+        "Intimidación"
+    ],
+    "hidden abilities": [
+        "Potencia bruta"
+    ],
+    "stats": {
+        "hp": 89,
+        "atk": 125,
+        "def": 90,
+        "atk esp": 115,
+        "def esp": 80,
+        "speed": 101
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Santuario Abundancia. Se necesita tener a Tornadus y a Thundurus en el equipo (solo uno)"
+        ],
+        "Blanco": [
+            "Salvaje: Santuario Abundancia. Se necesita tener a Tornadus y a Thundurus en el equipo (solo uno)"
+        ],
+        "Negro 2": [
+            "Especial: Transferir desde RAdar Pokémon. Se captura con la lente Maravilla γ en su forma tótem habiendo capturado a Thundurus (solo uno)",
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Blanco 2": [
+            "Especial: Transferir desde RAdar Pokémon. Se captura con la lente Maravilla γ en su forma tótem habiendo capturado a Thundurus (solo uno)",
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Firmamento, en la nube oscura llevando en el equipo a Tornadus y a Thundurus (solo uno)",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Firmamento, en la nube oscura llevando en el equipo a Tornadus y a Thundurus (solo uno)",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Acceder desde un ultraumbral rojo con Tornadus y Thundurus en el equipo (solo uno)"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Acceder desde un ultraumbral rojo con Tornadus y Thundurus en el equipo (solo uno)"
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Landorus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Landorus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje: Isla Hansa. Aceptar la petición 94: Los avatares de Hisui (solo uno)."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Lo consideran una deidad de las cosechas porque los cultivos crecen en abundancia en las tierras por las que pasa.",
+        "Blanco": "La energía que desprende de su cola enriquece de nutrientes la tierra, y la calidad de las cosechas mejora.",
+        "Negro 2": "Utiliza energía que obtiene del viento y del relámpago para nutrir el suelo y generar abundantes cosechas.",
+        "Blanco 2": "Utiliza energía que obtiene del viento y del relámpago para nutrir el suelo y generar abundantes cosechas.",
+        "Pokémon X": "Lo consideran una deidad de las cosechas porque los cultivos crecen en abundancia en las tierras por las que pasa.",
+        "Pokémon Y": "Utiliza energía que obtiene del viento y del relámpago para nutrir el suelo y generar abundantes cosechas.",
+        "Rubí Omega": "Lo consideran una deidad de las cosechas porque los cultivos crecen en abundancia en las tierras por las que pasa.",
+        "Zafiro Alfa": "Utiliza energía que obtiene del viento y del relámpago para nutrir el suelo y generar abundantes cosechas.",
+        "Sol": "No hay entrada de Landorus en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Landorus en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Landorus en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Landorus en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de Landorus en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Landorus en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Landorus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Landorus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "\nForma Avatar: Aparece para aplacar a las encarnaciones del rayo y del viento cuando estas pelean. Una vez sosegada la tormenta y acallados los truenos, se auguran tierras fértiles y buenas cosechas.\nForma Tótem: La gente venera su Forma Tótem, con la que brinda abundantes cosechas al surcar el cielo. Puede cruzar todo Hisui en un par de horas."
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "dex number": "0597",
+    "pokemon name": "Ferroseed",
+    "types": [
+        " planta",
+        " acero"
+    ],
+    "abilities": [
+        "Punta acero"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 44,
+        "atk": 50,
+        "def": 91,
+        "atk esp": 24,
+        "def esp": 86,
+        "speed": 10
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Cueva Electrorroca"
+        ],
+        "Blanco": [
+            "Salvaje: Cueva Electrorroca"
+        ],
+        "Negro 2": [
+            "Salvaje: Cueva Electrorroca",
+            "Pokémon de N: Cueva Electrorroca, después de recibir al Zorua de N (solo uno)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Cueva Electrorroca",
+            "Pokémon de N: Cueva Electrorroca, después de recibir al Zorua de N (solo uno)"
+        ],
+        "Pokémon X": [
+            "Salvaje: Cueva Brillante y Cueva de los Reflejos",
+            "Especial: Safari Amistad en algunos safaris de tipo acero"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cueva Brillante y Cueva de los Reflejos",
+            "Especial: Safari Amistad en algunos safaris de tipo acero"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 4, Ribera de Pistón, Valle Entrepuentes, Llanura Pétrea y Gruta del Lago ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago, Silla del Gigante, nido al norte y Valle Entrepuentes, nido en el centro",
+            "Curri: Ruta 4"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 4, Ribera de Pistón, Valle Entrepuentes, Llanura Pétrea y Gruta del Lago ",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al norte 1, Arboleda Claroscuro, nido al norte 2, Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago, Silla del Gigante, nido al norte y Valle Entrepuentes, nido en el centro",
+            "Curri: Ruta 4"
+        ],
+        "Diamante Brillante": [
+            "Ferroseed no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Ferroseed no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Ferroseed no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Lanza numerosas púas al detectar peligro. En cuanto tiene ocasión, echa a rodar y se escapa.",
+        "Blanco": "Tiene por costumbre estampar sus púas en las paredes de cuevas. Absorbe los minerales que contienen las rocas.",
+        "Negro 2": "Absorbe los componentes ferruginosos de las rocas al colgarse del techo de las cuevas. Dispara púas si se ve en peligro.",
+        "Blanco 2": "Absorbe los componentes ferruginosos de las rocas al colgarse del techo de las cuevas. Dispara púas si se ve en peligro.",
+        "Pokémon X": "Lanza numerosas púas al detectar peligro. En cuanto tiene ocasión, echa a rodar y se escapa.",
+        "Pokémon Y": "Absorbe los componentes ferruginosos de las rocas al colgarse del techo de las cuevas. Dispara púas si se ve en peligro.",
+        "Rubí Omega": "Lanza numerosas púas al detectar peligro. En cuanto tiene ocasión, echa a rodar y se escapa.",
+        "Zafiro Alfa": "Absorbe los componentes ferruginosos de las rocas al colgarse del techo de las cuevas. Dispara púas si se ve en peligro.",
+        "Sol": "No hay entrada de Ferroseed en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Ferroseed en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Ferroseed en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Ferroseed en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Se defiende lanzando púas, pero para poder apuntar con precisión a su objetivo necesita ingentes sesiones de práctica.",
+        "Escudo": "Prefiere las cuevas de paredes musgosas, ya que las enzimas contenidas en el musgo le permiten desarrollar unas púas grandes y robustas.",
+        "Diamante Brillante": "Ferroseed no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Ferroseed no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Ferroseed no aparece en Leyendas Pokémon: Arceus."
+    }
+}

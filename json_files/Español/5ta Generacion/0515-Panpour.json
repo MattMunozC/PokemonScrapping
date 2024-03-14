@@ -1,0 +1,95 @@
+{
+    "dex number": "0515",
+    "pokemon name": "Panpour",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Torrente"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 53,
+        "def": 48,
+        "atk esp": 53,
+        "def esp": 48,
+        "speed": 64
+    },
+    "location": {
+        "Negro": [
+            " Especial: Regalo en el Solar de los Sueños solo si elegiste a Snivy como Pokémon inicial.",
+            "Salvaje: Bosque Azulejo y Bosque de los Perdidos cuando se mueven las zonas de pasto."
+        ],
+        "Blanco": [
+            " Especial: Regalo en el Solar de los Sueños solo si elegiste a Snivy como Pokémon inicial.",
+            "Salvaje: Bosque Azulejo y Bosque de los Perdidos cuando se mueven las zonas de pasto."
+        ],
+        "Negro 2": [
+            "Salvaje: Bosque Azulejo y Bosque de los Perdidos cuando se mueven las zonas de pasto."
+        ],
+        "Blanco 2": [
+            "Salvaje: Bosque Azulejo y Bosque de los Perdidos cuando se mueven las zonas de pasto."
+        ],
+        "Pokémon X": [
+            "Salvaje: Bosque de Novarte y Safari Amistad."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Bosque de Novarte y Safari Amistad."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Panpour no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Panpour no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Panpour no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Panpour no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Panpour no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "La acuosidad que acumula en su mata de pelo es rica en nutrientes, ideal para regar plantas y hacer que crezcan mucho.",
+        "Blanco": "Su punto débil son los entornos secos. Almacena agua en sus mechones y con ella moja todo moviendo la cola.",
+        "Negro 2": "El agua acumulada en su mata de pelo es rica en nutrientes. Usa la cola para regar plantas con esa misma agua.",
+        "Blanco 2": "El agua acumulada en su mata de pelo es rica en nutrientes. Usa la cola para regar plantas con esa misma agua.",
+        "Pokémon X": "El agua acumulada en su mata de pelo es rica en nutrientes. Usa su cola para regar plantas con esa misma agua.",
+        "Pokémon Y": "La acuosidad que acumula en su mata de pelo es rica en nutrientes, ideal para regar plantas y que crezcan mucho.",
+        "Rubí Omega": "El agua acumulada en su mata de pelo es rica en nutrientes. Usa su cola para regar plantas con esa misma agua.",
+        "Zafiro Alfa": "La acuosidad que acumula en su mata de pelo es rica en nutrientes, ideal para regar plantas y que crezcan mucho.",
+        "Sol": "No hay entrada de Panpour en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Panpour en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Panpour en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Panpour en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Panpour no aparece en Pokémon Espada.",
+        "Escudo": "Panpour no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Panpour no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Panpour no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Panpour no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "dex number": "0639",
+    "pokemon name": "Terrakion",
+    "types": [
+        " roca",
+        " lucha"
+    ],
+    "abilities": [
+        "Justiciero"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 91,
+        "atk": 129,
+        "def": 90,
+        "atk esp": 72,
+        "def esp": 90,
+        "speed": 108
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Cámara de Pruebas, tras encontrar a Cobalion (solo uno)"
+        ],
+        "Blanco": [
+            "Salvaje: Cámara de Pruebas, tras encontrar a Cobalion (solo uno)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 22 (solo uno)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 22 (solo uno)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Llanura Sinnombre (martes y sábados; solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Llanura Sinnombre (martes y sábados; solo uno)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde (solo uno)"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde (solo uno)"
+        ],
+        "Espada": [
+            "Salvaje: Gruta del Lago, tras haber encontrado al menos 50 huellas de Terrakion (solo uno) "
+        ],
+        "Escudo": [
+            "Salvaje: Gruta del Lago, tras haber encontrado al menos 50 huellas de Terrakion (solo uno) "
+        ],
+        "Diamante Brillante": [
+            "Terrakion no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Terrakion no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Terrakion no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Luchó contra los hombres para proteger a los Pokémon que perdieron su hogar por culpa de las guerras de los humanos.",
+        "Blanco": "Su potencia al embestir es capaz de derribar las murallas de un castillo. Las leyendas hablan de sus proezas.",
+        "Negro 2": "Las leyendas hablan de este Pokémon, que derribó un castillo con su propia fuerza para proteger a otros Pokémon.",
+        "Blanco 2": "Las leyendas hablan de este Pokémon, que derribó un castillo con su propia fuerza para proteger a otros Pokémon.",
+        "Pokémon X": "Su potencia al embestir es capaz de derribar las murallas de un castillo. Las leyendas hablan de sus proezas.",
+        "Pokémon Y": "Las leyendas hablan de este Pokémon, que derribó un castillo con su propia fuerza para proteger a otros Pokémon.",
+        "Rubí Omega": "Su potencia al embestir es capaz de derribar las murallas de un castillo. Las leyendas hablan de sus proezas.",
+        "Zafiro Alfa": "Las leyendas hablan de este Pokémon, que derribó un castillo con su propia fuerza para proteger a otros Pokémon.",
+        "Sol": "No hay entrada de Terrakion en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Terrakion en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Terrakion en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Terrakion en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Posee una fuerza extraordinaria, y combatirá sin miramientos contra cualquier adversario que se meta con Pokémon más pequeños y débiles.",
+        "Escudo": "Las leyendas de Teselia narran la lucha que libró contra los humanos para proteger a los Pokémon.",
+        "Diamante Brillante": "Terrakion no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Terrakion no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Terrakion no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "dex number": "0644",
+    "pokemon name": "Zekrom",
+    "types": [
+        " dragón",
+        " eléctrico"
+    ],
+    "abilities": [
+        "Terravoltaje"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 150,
+        "def": 120,
+        "atk esp": 120,
+        "def esp": 100,
+        "speed": 90
+    },
+    "location": {
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Negro 2",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Blanco": [
+            "Salvaje: Palacio de N. Usando el orbe oscuro antes de combatir contra N (solo uno)",
+            "Salvaje: Torre Duodraco, solo si no es capturado en el Palacio de N, debido al estar el equipo y las cajas del PC llenos de Pokémon"
+        ],
+        "Negro 2": [
+            "Salvaje: Torre Duodraco. Se necesita el orbe oscuro (solo uno)"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Negro 2"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon Zafiro Alfa"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Incierta (solo uno)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde (solo uno)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Zekrom no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Zekrom no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Zekrom no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Genera electricidad con su cola y, para ocultarse, sobrevuela Teselia envuelto en nubes de rayos.",
+        "Blanco": "Pokémon que aparece en los mitos de antaño. Su cola está provista de un enorme generador de electricidad.",
+        "Negro 2": "Pokémon legendario capaz de chamuscar el mundo con sus rayos. Ayuda a quienes persiguen un mundo de ideales.",
+        "Blanco 2": "Pokémon legendario capaz de chamuscar el mundo con sus rayos. Ayuda a quienes persiguen un mundo de ideales.",
+        "Pokémon X": "Pokémon legendario capaz de chamuscar el mundo con sus rayos. Ayuda a quienes persiguen un mundo de ideales.",
+        "Pokémon Y": "Genera electricidad con su cola y, para ocultarse, sobrevuela Teselia envuelto en nubes de rayos.",
+        "Rubí Omega": "Pokémon legendario capaz de chamuscar el mundo con sus rayos. Ayuda a quienes persiguen un mundo de ideales.",
+        "Zafiro Alfa": "Genera electricidad con su cola y, para ocultarse, sobrevuela Teselia envuelto en nubes de rayos.",
+        "Sol": "No hay entrada de Zekrom en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Zekrom en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Zekrom en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Zekrom en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Cuando el interior de su cola comienza a girar como una turbina, es capaz de descargar rayos que lo destruyen todo a su alrededor.",
+        "Escudo": "Según las leyendas, la furia de sus rayos fulminará todo país cuyas gentes hayan perdido el sentido de la justicia.",
+        "Diamante Brillante": "Zekrom no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Zekrom no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Zekrom no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "dex number": "0628",
+    "pokemon name": "Braviary",
+    "types": [
+        " normal",
+        " volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Potencia bruta"
+    ],
+    "hidden abilities": [
+        "Competitivo"
+    ],
+    "stats": {
+        "hp": 100,
+        "atk": 123,
+        "def": 75,
+        "atk esp": 57,
+        "def esp": 75,
+        "speed": 80
+    },
+    "location": {
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 11 y Puente Villa",
+            "Evolucionar: a Rufflet (nivel 54)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Blanco 2"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Rufflet (nivel 54)",
+            "Especial: Aparece un Braviary con su habilidad oculta todos los lunes en la Ruta 4"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Rufflet (nivel 54)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Rufflet (nivel 54)"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Firmamento",
+            "Evolucionar: a Rufflet (nivel 54)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Firmamento",
+            "Evolucionar: a Rufflet (nivel 54)"
+        ],
+        "Sol": [
+            "Salvaje: Llanura de Poni",
+            "Evolucionar: a Rufflet (nivel 54)"
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Salvaje: Llanura de Poni",
+            "Evolucionar: a Rufflet (nivel 54)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado, Cuenca Polvorienta, Cuenca Arenosa  y Ruta Desafío ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Llanura Pétrea, nido al sureste junto a una pared, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste. Nidos en Ruta Desafío , Bahía Circular , Mar Gimnástico  y Mar Andana ",
+            "Evolucionar: a Rufflet (nivel 54)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Braviary no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Braviary no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Braviary no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Lucha por sus compañeros sin reparar en peligros. Es capaz de volar alto incluso con un coche en sus garras.",
+        "Blanco": "Guerrero avezado. Su número de cicatrices es directamente proporcional al respeto que recibe de los suyos.",
+        "Negro 2": "Un valiente guerrero del cielo que no duda en luchar por sus compañeros por graves que sean sus heridas.",
+        "Blanco 2": "Un valiente guerrero del cielo que no duda en luchar por sus compañeros por graves que sean sus heridas.",
+        "Pokémon X": "Un valiente guerrero del cielo que no duda en luchar por sus compañeros por graves que sean sus heridas.",
+        "Pokémon Y": "Lucha por sus compañeros sin reparar en peligros. Es capaz de volar alto incluso con un coche en sus garras.",
+        "Rubí Omega": "Un valiente guerrero del cielo que no duda en luchar por sus compañeros por graves que sean sus heridas.",
+        "Zafiro Alfa": "Lucha por sus compañeros sin reparar en peligros. Es capaz de volar alto incluso con un coche en sus garras.",
+        "Sol": "Por su talante aguerrido, no titubea a la hora de jugarse el pellejo. Los antiguos habitantes de Alola lo veneraban como el Héroe del Cielo.",
+        "Luna": "Cuando los seres humanos amenazaban su hábitat en el pasado, los Braviary se agrupaban para oponer resistencia.",
+        "Ultrasol": "Las cicatrices que surcan su frente demuestran su valor, pero las de su espalda son motivo de mofa por parte de su bandada.",
+        "Ultraluna": "Se le conoce como Héroe del Cielo, y su orgullo y valía son tales que prefiere salir herido antes que huir de forma deshonrosa.",
+        "Espada": "Un Pokémon osado y orgulloso, cuyo majestuoso porte lo convierte en un motivo heráldico muy popular.",
+        "Escudo": "Su carácter agresivo e irascible le ha hecho perder su puesto como transportista en Galar en favor de los Corviknight.",
+        "Diamante Brillante": "Braviary no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Braviary no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Braviary no aparece en Leyendas Pokémon: Arceus."
+    }
+}

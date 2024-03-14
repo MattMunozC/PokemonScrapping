@@ -1,0 +1,100 @@
+{
+    "dex number": "0631",
+    "pokemon name": "Heatmor",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Gula",
+        "Absorbe fuego"
+    ],
+    "hidden abilities": [
+        "Humo blanco"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 97,
+        "def": 66,
+        "atk esp": 105,
+        "def esp": 66,
+        "speed": 65
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Calle Victoria"
+        ],
+        "Blanco": [
+            "Salvaje: Calle Victoria"
+        ],
+        "Negro 2": [
+            "Salvaje: Monte Tuerca"
+        ],
+        "Blanco 2": [
+            "Salvaje: Monte Tuerca"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 18"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 18"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 6, Espejo del Gigante, Lago del Enfado, Lecho del Gigante , Viejo Cementerio , Encrucijada Tresvías ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Con posible habilidad oculta: Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste y Llanura Pétrea, nido al este 2. Nidos en Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna ",
+            "Curri: Ruta 6"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 6, Espejo del Gigante, Lago del Enfado, Lecho del Gigante , Viejo Cementerio , Encrucijada Tresvías ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Con posible habilidad oculta: Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste y Llanura Pétrea, nido al este 2. Nidos en Lecho del Gigante , Desfiladero Nevado  y Lago Bolaguna ",
+            "Curri: Ruta 6"
+        ],
+        "Diamante Brillante": [
+            "Heatmor no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Heatmor no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Heatmor no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Absorbe aire por el orificio de su cola y consume llamas en su interior. Es enemigo acérrimo de los Durant.",
+        "Blanco": "Usa su lengua de fuego para derretir la armadura de los Durant y llegar así hasta su interior.",
+        "Negro 2": "Absorbe aire por el orificio de su cola para prender una lengua de llamas con la que derrite a los Durant para comerlos.",
+        "Blanco 2": "Absorbe aire por el orificio de su cola para prender una lengua de llamas con la que derrite a los Durant para comerlos.",
+        "Pokémon X": "Usa su lengua de fuego para derretir la armadura de los Durant y llegar así hasta su interior.",
+        "Pokémon Y": "Absorbe aire por el orificio de su cola para prender una lengua de llamas con la que derrite a los Durant para comerlos.",
+        "Rubí Omega": "Usa su lengua de fuego para derretir la armadura de los Durant y llegar así hasta su interior.",
+        "Zafiro Alfa": "Absorbe aire por el orificio de su cola para prender una lengua de llamas con la que derrite a los Durant para comerlos.",
+        "Sol": "No hay entrada de Heatmor en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Heatmor en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Heatmor en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Heatmor en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Absorbe aire por el orificio de la cola para prender las llamas que expulsa. Si la abertura se obstruye, enferma.",
+        "Escudo": "Usa llamas a modo de lengua para derretir el duro exoesqueleto de los Durant antes de devorarlos.",
+        "Diamante Brillante": "Heatmor no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Heatmor no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Heatmor no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "dex number": "0613",
+    "pokemon name": "Cubchoo",
+    "types": [
+        " hielo"
+    ],
+    "abilities": [
+        "Manto níveo",
+        "Quitanieves"
+    ],
+    "hidden abilities": [
+        "Cobardía"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 70,
+        "def": 40,
+        "atk esp": 60,
+        "def esp": 40,
+        "speed": 40
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Monte Tuerca, Ruta 7 y Torre Duodraco"
+        ],
+        "Blanco": [
+            "Salvaje: Monte Tuerca, Ruta 7 y Torre Duodraco"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 7 (invierno)",
+            "Claro oculto: Ruta 7"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 7 (invierno)",
+            "Claro oculto: Ruta 7"
+        ],
+        "Pokémon X": [
+            "Salvaje: Gruta Helada (hordas)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Gruta Helada (hordas)"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Cardumen, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Cardumen, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 10, Valle Entrepuentes, Cuenca Polvorienta, Llanura Pétrea, Cornisa de Artejo y Espejo del Gigante",
+            "Incursiones Dinamax: Llanura Pétrea, nido al este 1"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 10, Valle Entrepuentes, Cuenca Polvorienta, Llanura Pétrea, Cornisa de Artejo y Espejo del Gigante",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro, Llanura Pétrea, nido al este 1 y Silla del Gigante, nido al sur junto al lago. Nidos en Lecho del Gigante  y Mar Gélido "
+        ],
+        "Diamante Brillante": [
+            "Cubchoo no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cubchoo no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cubchoo no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Cuando se siente mal, sus mucosidades pasan a ser muy acuosas, y pierden potencia sus movimientos de hielo",
+        "Blanco": "Siempre está con mucosidades colgando. Las aspira para hacer un movimiento, ya que son su materia prima para esto.",
+        "Negro 2": "Sus mocos son su barómetro de salud. Si es buena, serán densos, y la fuerza de sus movimientos de tipo Hielo aumentará.",
+        "Blanco 2": "Sus mocos son su barómetro de salud. Si es buena, serán densos, y la fuerza de sus movimientos de tipo Hielo aumentará.",
+        "Pokémon X": "Siempre está con mucosidades colgando. Las aspira para hacer un movimiento, ya que son su materia prima para esto.",
+        "Pokémon Y": "Sus mocos son su barómetro de salud. Si es buena, serán densos, y la fuerza de sus movimientos de tipo Hielo aumentará.",
+        "Rubí Omega": "Siempre está con mucosidades colgando. Las aspira para hacer un movimiento, ya que son su materia prima para esto.",
+        "Zafiro Alfa": "Sus mocos son su barómetro de salud. Si es buena, serán densos, y la fuerza de sus movimientos de tipo Hielo aumentará.",
+        "Sol": "No hay entrada de Cubchoo en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Cubchoo en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Cubchoo en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Cubchoo en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "La pegajosidad de sus mocos aumenta cuando disfruta de buena salud. Si alguien no le gusta, lo embadurna de mocos.",
+        "Escudo": "Antes de ejecutar un movimiento, se sorbe los mocos. El frío intenso de estos constituye la base de sus movimientos de tipo Hielo.",
+        "Diamante Brillante": "Cubchoo no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cubchoo no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cubchoo no aparece en Leyendas Pokémon: Arceus."
+    }
+}

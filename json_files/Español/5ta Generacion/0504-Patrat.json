@@ -1,0 +1,94 @@
+{
+    "dex number": "0504",
+    "pokemon name": "Patrat",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Fuga"
+    ],
+    "hidden abilities": [
+        "Cálculo final"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 55,
+        "def": 39,
+        "atk esp": 35,
+        "def esp": 39,
+        "speed": 42
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 1, Ruta 2, Ruta 3 y Solar de los Sueños."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 1, Ruta 2, Ruta 3 y Solar de los Sueños."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 19, Ruta 20, Rancho Ocre y Polígono Hormigón"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 19, Ruta 20, Rancho Ocre y Polígono Hormigón"
+        ],
+        "Pokémon X": [
+            "Criando: de Watchog"
+        ],
+        "Pokémon Y": [
+            "Criando: de Watchog"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Patrat no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Patrat no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Patrat no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Patrat no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Patrat no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Almacena víveres en unas bolsas en sus mofletes y vigila durante días. Hace señales con la cola a sus compañeros.",
+        "Blanco": "Siempre está alerta y no quita la mirada de su madriguera. Cuando no está vigilando, le invade la inquietud.",
+        "Negro 2": "Aunque es un Pokémon muy precavido y siempre hay uno montando guardia, si se acercan por detrás, no se dará cuenta.",
+        "Blanco 2": "Aunque es un Pokémon muy precavido y siempre hay uno montando guardia, si se acercan por detrás, no se dará cuenta.",
+        "Pokémon X": "Almacena víveres en unas bolsas en sus mofletes y vigila durante días. Hace señales con la cola a sus compañeros.",
+        "Pokémon Y": "Aunque es un Pokémon muy precavido y siempre hay uno montando guardia, si se acercan por detrás, no se dará cuenta.",
+        "Rubí Omega": "Almacena víveres en unas bolsas en sus mofletes y vigila durante días. Hace señales con la cola a sus compañeros.",
+        "Zafiro Alfa": "Aunque es un Pokémon muy precavido y siempre hay uno montando guardia, si se acercan por detrás, no se dará cuenta.",
+        "Sol": "No hay entrada de Patrat en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Patrat en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Patrat en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Patrat en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Patrat no aparece en Pokémon Espada.",
+        "Escudo": "Patrat no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Patrat no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Patrat no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Patrat no aparece en Leyendas Pokémon: Arceus."
+    }
+}

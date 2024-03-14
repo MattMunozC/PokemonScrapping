@@ -1,0 +1,96 @@
+{
+    "dex number": "0523",
+    "pokemon name": "Zebstrika",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Pararrayos",
+        "Electromotor"
+    ],
+    "hidden abilities": [
+        "Herbívoro"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 100,
+        "def": 63,
+        "atk esp": 80,
+        "def esp": 63,
+        "speed": 116
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 7",
+            "Evolucionar: a Blitzle (nivel 27)"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 7",
+            "Evolucionar: a Blitzle (nivel 27)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 7 y Ruta 3 "
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 7 y Ruta 3 "
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo eléctrico"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo eléctrico"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Isla Espejismo y Monte Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Isla Espejismo y Monte Espejismo"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Zebstrika no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Zebstrika no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Zebstrika no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Zebstrika no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Zebstrika no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Su velocidad se asemeja a la de un rayo. Si corre al máximo, se dejan oír truenos por doquier.",
+        "Blanco": "Tiene mucho temperamento. Al enfadarse, lanza descargas en todas direcciones, lo que supone un peligro a su alrededor.",
+        "Negro 2": "Es un Pokémon con mucho temperamento. Cuando se enoja, lanza rayos desde su crin en todas direcciones.",
+        "Blanco 2": "Es un Pokémon con mucho temperamento. Cuando se enoja, lanza rayos desde su crin en todas direcciones.",
+        "Pokémon X": "Es un Pokémon con mucho temperamento. Cuando se enoja, lanza rayos desde su crin en todas direcciones.",
+        "Pokémon Y": "Su velocidad se asemeja a la de un rayo. Si corre al máximo, se dejan oír truenos por doquier.",
+        "Rubí Omega": "Es un Pokémon con mucho temperamento. Cuando se enoja, lanza rayos desde su crin en todas direcciones.",
+        "Zafiro Alfa": "Su velocidad se asemeja a la de un rayo. Si corre al máximo, se dejan oír truenos por doquier.",
+        "Sol": "No hay entrada de Zebstrika en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Zebstrika en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Zebstrika en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Zebstrika en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Zebstrika no aparece en Pokémon Espada.",
+        "Escudo": "Zebstrika no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Zebstrika no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Zebstrika no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Zebstrika no aparece en Leyendas Pokémon: Arceus."
+    }
+}

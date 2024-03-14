@@ -1,0 +1,96 @@
+{
+    "dex number": "0594",
+    "pokemon name": "Alomomola",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Alma cura",
+        "Hidratación"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": 165,
+        "atk": 75,
+        "def": 80,
+        "atk esp": 40,
+        "def esp": 45,
+        "speed": 65
+    },
+    "location": {
+        "Negro": [
+            "Surfeando (remolino en el agua): Ruta 4, Ruta 17, Ruta 18, Laboratorio P+P y Ciudad Fayenza"
+        ],
+        "Blanco": [
+            "Surfeando (remolino en el agua): Ruta 4, Ruta 17, Ruta 18, Laboratorio P+P y Ciudad Fayenza"
+        ],
+        "Negro 2": [
+            "Surfeando (remolino en el agua): Ruta 4, Ruta 17, Ruta 18, Ruta 21, Ciudad Hormigón, Polígono Hormigón y Laboratorio P+P",
+            "Dream World: Mar Brillante"
+        ],
+        "Blanco 2": [
+            "Surfeando (remolino en el agua): Ruta 4, Ruta 17, Ruta 18, Ruta 21, Ciudad Hormigón, Polígono Hormigón y Laboratorio P+P",
+            "Dream World: Mar Brillante"
+        ],
+        "Pokémon X": [
+            "Pescando con supercaña: Ciudad Yantra y Bahía Azul"
+        ],
+        "Pokémon Y": [
+            "Pescando con supercaña: Ciudad Yantra y Bahía Azul"
+        ],
+        "Rubí Omega": [
+            "Surfeando: Rutas 122, 124, 126, 127, 128, 129, 130, 131, 132, 133 y 134 usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Surfeando: Rutas 122, 124, 126, 127, 128, 129, 130, 131, 132, 133 y 134 usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Pescando: Colina Saltagua"
+        ],
+        "Luna": [
+            "Pescando: Colina Saltagua"
+        ],
+        "Ultrasol": [
+            "Pescando: Colina Saltagua"
+        ],
+        "Ultraluna": [
+            "Pescando: Colina Saltagua"
+        ],
+        "Espada": [
+            "Alomomola no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Alomomola no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Alomomola no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Alomomola no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Alomomola no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "La membrana viscosa que recubre el cuerpo de Alomomola tiene facultades curativas.",
+        "Blanco": "Vive flotando a la deriva en mar abierto. Siempre que encuentra un Pokémon herido, lo abraza y lo lleva a la costa.",
+        "Negro 2": "Abraza gentilmente con sus aletas a Pokémon que están lastimados y cura sus heridas con su membrana especial.",
+        "Blanco 2": "Abraza gentilmente con sus aletas a Pokémon que están lastimados y cura sus heridas con su membrana especial.",
+        "Pokémon X": "Vive flotando a la deriva en mar abierto. Siempre que encuentra un Pokémon herido, lo abraza y lo lleva a la costa.",
+        "Pokémon Y": "Abraza gentilmente con sus aletas a Pokémon que están lastimados y cura sus heridas con su membrana especial.",
+        "Rubí Omega": "Vive flotando a la deriva en mar abierto. Siempre que encuentra un Pokémon herido, lo abraza y lo lleva a la costa.",
+        "Zafiro Alfa": "Abraza gentilmente con sus aletas a Pokémon que están lastimados y cura sus heridas con su membrana especial.",
+        "Sol": "Se acerca a los Pokémon heridos y cura sus heridas con la mucosidad especial que segrega. Se desconoce el motivo de este comportamiento.",
+        "Luna": "Vive flotando a la deriva en mar abierto. Muchos Pokémon de tipo agua se arremolinan a su alrededor.",
+        "Ultrasol": "Los pescadores siempre lo llevan consigo en las travesías largas, porque al tener un Alomomola no les hacen falta ni medicinas ni médicos.",
+        "Ultraluna": "Se cree que ayuda a los Pokémon heridos y debilitados de forma que los depredadores naturales de estos no le ataquen a él también.",
+        "Espada": "Alomomola no aparece en Pokémon Espada.",
+        "Escudo": "Alomomola no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Alomomola no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Alomomola no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Alomomola no aparece en Leyendas Pokémon: Arceus."
+    }
+}

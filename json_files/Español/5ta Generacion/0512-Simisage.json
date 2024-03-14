@@ -1,0 +1,93 @@
+{
+    "dex number": "0512",
+    "pokemon name": "Simisage",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Espesura"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 98,
+        "def": 63,
+        "atk esp": 98,
+        "def esp": 63,
+        "speed": 101
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Pansage (utilizando piedra hoja)."
+        ],
+        "Blanco": [
+            "Evolucionar: a Pansage (utilizando piedra hoja)."
+        ],
+        "Negro 2": [
+            "Evolucionar: a Pansage (utilizando piedra hoja)."
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Pansage (utilizando piedra hoja)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Pansage (utilizando piedra hoja)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Pansage (utilizando piedra hoja)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Pansage (utilizando piedra hoja)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Pansage (utilizando piedra hoja)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Simisage no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Simisage no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Simisage no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Simisage no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Simisage no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Pokémon muy temperamental que lucha con su cola revestida de púas. Las hojas de su cabeza están muy amargas.",
+        "Blanco": "Ataca estampando las espinas de su cola en el enemigo. Es un Pokémon con mucho temperamento.",
+        "Negro 2": "Agita su cola revestida de espinas para atacar a su enemigo. La hoja que crece sobre su cabeza es muy amarga.",
+        "Blanco 2": "Agita su cola revestida de espinas para atacar a su enemigo. La hoja que crece sobre su cabeza es muy amarga.",
+        "Pokémon X": "Ataca estampando las espinas de su cola en el enemigo. Es un Pokémon con mucho temperamento.",
+        "Pokémon Y": "Pokémon muy temperamental que lucha con su cola revestida de púas. Las hojas de su cabeza están muy amargas.",
+        "Rubí Omega": "Ataca estampando las espinas de su cola en el enemigo. Es un Pokémon con mucho temperamento.",
+        "Zafiro Alfa": "Pokémon muy temperamental que lucha con su cola revestida de púas. Las hojas de su cabeza están muy amargas.",
+        "Sol": "No hay entrada de Simisage en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Simisage en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Simisage en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Simisage en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Simisage no aparece en Pokémon Espada.",
+        "Escudo": "Simisage no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Simisage no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Simisage no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Simisage no aparece en Leyendas Pokémon: Arceus."
+    }
+}

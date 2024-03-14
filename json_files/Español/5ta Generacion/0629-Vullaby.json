@@ -1,0 +1,97 @@
+{
+    "dex number": "0629",
+    "pokemon name": "Vullaby",
+    "types": [
+        " siniestro",
+        " volador"
+    ],
+    "abilities": [
+        "Sacapecho",
+        "Funda"
+    ],
+    "hidden abilities": [
+        "Armadura frágil"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 55,
+        "def": 75,
+        "atk esp": 45,
+        "def esp": 65,
+        "speed": 60
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 10, Ruta 11, Calle Victoria y Puente Villa"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro o Pokémon Negro 2"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 23"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Negro 2"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo siniestro"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo siniestro"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Monte Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Monte Espejismo"
+        ],
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Salvaje: Ruta 3",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 3"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 8, Valle Entrepuentes, Llanura Pétrea y Cuenca Arenosa ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste y Valle Entrepuentes, nido al norte cerca de la laguna. Nidos en Ruta Desafío , Bahía Circular , Mar Gimnástico  y Mar Andana "
+        ],
+        "Diamante Brillante": [
+            "Vullaby no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Vullaby no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Vullaby no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "No puede volar porque sus alas son muy pequeñas. Cuando va a evolucionar, él mismo se deshace de su calavera.",
+        "Blanco": "Usa una calavera para proteger sus posaderas. Es proclive a perseguir Pokémon débiles.",
+        "Negro 2": "Sus pequeñas alas no le permiten volar. Usa una calavera que le dio Mandibuzz para proteger sus posaderas.",
+        "Blanco 2": "Sus pequeñas alas no le permiten volar. Usa una calavera que le dio Mandibuzz para proteger sus posaderas.",
+        "Pokémon X": "No puede volar porque sus alas son muy pequeñas. Cuando va a evolucionar, él mismo se deshace de su calavera.",
+        "Pokémon Y": "Sus pequeñas alas no le permiten volar. Usa una calavera que le dio Mandibuzz para proteger sus posaderas.",
+        "Rubí Omega": "No puede volar porque sus alas son muy pequeñas. Cuando va a evolucionar, él mismo se deshace de su calavera.",
+        "Zafiro Alfa": "Sus pequeñas alas no le permiten volar. Usa una calavera que le dio Mandibuzz para proteger sus posaderas.",
+        "Sol": "Protege sus posaderas blanduzcas con los huesos de las presas que ha devorado. A medida que crece se ve obligado a cambiarlos.",
+        "Luna": "Todavía está en su más tierna infancia. Como sus alas aún no se han desarrollado del todo, se desplaza dando saltos.",
+        "Ultrasol": "El cráneo que usa de protección es regalo de un Mandibuzz. Como sus alas son muy cortas para volar, da brincos soñando que vuela por el cielo.",
+        "Ultraluna": "Demuestra un voraz apetito y aumenta de tamaño a vista de ojo. Su continuo crecimiento le obliga a cambiar varias veces de cráneo.",
+        "Espada": "Usa una calavera para proteger sus posaderas. A menudo pelea con sus congéneres para hacerse con la más cómoda.",
+        "Escudo": "Deja en el nido las calaveras que va descartando a medida que crece con celeridad para que las reutilicen futuras generaciones.",
+        "Diamante Brillante": "Vullaby no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Vullaby no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Vullaby no aparece en Leyendas Pokémon: Arceus."
+    }
+}

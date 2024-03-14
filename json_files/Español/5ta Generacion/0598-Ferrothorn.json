@@ -1,0 +1,98 @@
+{
+    "dex number": "0598",
+    "pokemon name": "Ferrothorn",
+    "types": [
+        " planta",
+        " acero"
+    ],
+    "abilities": [
+        "Punta acero"
+    ],
+    "hidden abilities": [
+        "Anticipación"
+    ],
+    "stats": {
+        "hp": 74,
+        "atk": 94,
+        "def": 131,
+        "atk esp": 54,
+        "def esp": 116,
+        "speed": 20
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Ferroseed (nivel 40)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Ferroseed (nivel 40)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Ferroseed (nivel 40)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Ferroseed (nivel 40)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Ferroseed (nivel 40)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Ferroseed (nivel 40)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Valle Entrepuentes, Cuenca Polvorienta y Gruta del Lago ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Valle Entrepuentes, nido en el centro. Con posible habilidad oculta: Arboleda Claroscuro, nido al norte 1 y Arboleda Claroscuro, nido al norte 2. Nidos en Campo Deslizante , Lecho del Gigante , Templo Corona , Suela del Gigante  y Lago Bolaguna ",
+            "Evolucionar: a Ferroseed (nivel 40)"
+        ],
+        "Escudo": [
+            "Salvaje: Valle Entrepuentes, Cuenca Polvorienta y Gruta del Lago ",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Valle Entrepuentes, nido en el centro. Con posible habilidad oculta: Arboleda Claroscuro, nido al norte 1 y Arboleda Claroscuro, nido al norte 2. Nidos en Campo Deslizante , Lecho del Gigante , Templo Corona , Suela del Gigante  y Lago Bolaguna ",
+            "Evolucionar: a Ferroseed (nivel 40)"
+        ],
+        "Diamante Brillante": [
+            "Ferrothorn no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Ferrothorn no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Ferrothorn no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Lucha agitando sus tres tentáculos recubiertos de púas. El impacto de sus tentáculos de acero machaca rocas.",
+        "Blanco": "Se pega al techo de las cuevas y lanza púas de metal a todo el que pase por debajo de donde se encuentre.",
+        "Negro 2": "Azota al enemigo con sus tres tentáculos y después dispara púas hasta que no deja ni rastro del rival.",
+        "Blanco 2": "Azota al enemigo con sus tres tentáculos y después dispara púas hasta que no deja ni rastro del rival.",
+        "Pokémon X": "Azota al enemigo con sus tres tentáculos y después dispara púas hasta que no deja ni rastro del rival.",
+        "Pokémon Y": "Se pega al techo de las cuevas y lanza púas de metal a todo el que pase por debajo de donde se encuentre.",
+        "Rubí Omega": "Azota al enemigo con sus tres tentáculos y después dispara púas hasta que no deja ni rastro del rival.",
+        "Zafiro Alfa": "Se pega al techo de las cuevas y lanza púas de metal a todo el que pase por debajo de donde se encuentre.",
+        "Sol": "No hay entrada de Ferrothorn en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Ferrothorn en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Ferrothorn en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Ferrothorn en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Raya el lecho rocoso con las púas para luego absorber nutrientes con el extremo de los tentáculos.",
+        "Escudo": "Sus púas son más duras que el acero. Se aferra y desplaza por paredes rocosas usando las que tiene en los tentáculos como ganchos.",
+        "Diamante Brillante": "Ferrothorn no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Ferrothorn no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Ferrothorn no aparece en Leyendas Pokémon: Arceus."
+    }
+}

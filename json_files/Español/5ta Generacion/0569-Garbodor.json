@@ -1,0 +1,112 @@
+{
+    "dex number": "0569",
+    "pokemon name": "Garbodor",
+    "types": [
+        " veneno"
+    ],
+    "abilities": [
+        "Hedor",
+        "Armadura frágil"
+    ],
+    "hidden abilities": [
+        "Detonación"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 95,
+        "def": 82,
+        "atk esp": 60,
+        "def esp": 82,
+        "speed": 75
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 9",
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 9",
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 9",
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 9",
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Pokémon X": [
+            "Salvaje: Cubos de basura del Hotel Desolación y la Villa Pokémon",
+            "Especial: Safari Amistad, en algunos safaris de tipo veneno.",
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Cubos de basura del Hotel Desolación y la Villa Pokémon",
+            "Especial: Safari Amistad, en algunos safaris de tipo veneno.",
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Sol": [
+            " Salvaje: Cabo de las Afueras (como refuerzo de Trubbish)",
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Luna": [
+            " Salvaje: Cabo de las Afueras (como refuerzo de Trubbish)",
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Espada": [
+            " Salvaje: Valle Entrepuentes y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Gorro del Gigante, nido al suroeste, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón. Con posible habilidad oculta: Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste y Lago Milotic (norte), nido junto al puente de Ribera de Pistón. Nidos en Lecho del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Lago Axew (este), nido al este de la entrada a ciudad Pistón. Nidos en Lecho del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Escudo": [
+            " Salvaje: Valle Entrepuentes y Lago del Enfado",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Gorro del Gigante, nido al suroeste, Lago Milotic (norte), nido al noreste, Lago Milotic (norte), nido junto al puente de Ribera de Pistón y Ribera de Pistón, nido junto al muro de Ciudad Pistón. Con posible habilidad oculta: Lago Axew (este), nido al este de la entrada a ciudad Pistón, Lago Milotic (norte), nido al noreste y Lago Milotic (norte), nido junto al puente de Ribera de Pistón. Nidos en Lecho del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Incursiones Gigamax: Con posible habilidad oculta: Lago Axew (este), nido al este de la entrada a ciudad Pistón. Nidos en Lecho del Gigante , Mar Gélido  y Lago Bolaguna ",
+            "Evolucionar: a Trubbish (nivel 36)"
+        ],
+        "Diamante Brillante": [
+            "Garbodor no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Garbodor no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Garbodor no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Apresa a su rival con el brazo izquierdo y le da el golpe de gracia exhalando por la boca un apestoso gas venenoso.",
+        "Blanco": "Traga basura y la integra en su cuerpo. Despide veneno líquido por la punta de los dedos de su mano derecha.",
+        "Negro 2": "Absorbe y procesa en su interior basura para generar nuevos gases nocivos y líquidos venenosos de alta virulencia.",
+        "Blanco 2": "Absorbe y procesa en su interior basura para generar nuevos gases nocivos y líquidos venenosos de alta virulencia.",
+        "Pokémon X": "Apresa a su rival con el brazo izquierdo y le da el golpe de gracia exhalando por la boca un apestoso gas venenoso.",
+        "Pokémon Y": "Absorbe y procesa en su interior basura para generar nuevos gases nocivos y líquidos venenosos de alta virulencia.",
+        "Rubí Omega": "Apresa a su rival con el brazo izquierdo y le da el golpe de gracia exhalando por la boca un apestoso gas venenoso.",
+        "Zafiro Alfa": "Absorbe y procesa en su interior basura para generar nuevos gases nocivos y líquidos venenosos de alta virulencia.",
+        "Sol": "El veneno líquido que brota de su brazo derecho es muy nocivo. La mera exposición puede llevar a inhalar accidentalmente toxinas desconocidas.",
+        "Luna": "Hubo un tiempo en el que la población de Garbodor en Alola era espectacular, pero su número se desplomó cuando llegaron los Grimer.",
+        "Ultrasol": "Atrapa a su presa con el brazo izquierdo y luego rocía su cuerpo con un líquido venenoso para inmovilizarla.",
+        "Ultraluna": "La razón de la mayor fortaleza de los Garbodor que viven en la región de Alola se atribuye a la presencia de Muk, su enemigo natural.",
+        "Espada": "\nGarbodor: Su cuerpo transforma la inmundicia que engulle en un veneno cuya composición cambia según la basura ingerida.\nGarbodor Gigamax: Debido a la energía del fenómeno Gigamax, sus emisiones tóxicas se han solidificado y han adoptado la forma de juguetes abandonados.",
+        "Escudo": "\nGarbodor: El veneno líquido que brota de su brazo derecho es tan nocivo que puede acabar con una criatura ya débil al menor contacto.\nGarbodor Gigamax: Al entrar en contacto con el gas tóxico que emite por la boca y los dedos, el veneno penetra hasta la médula.",
+        "Diamante Brillante": "Garbodor no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Garbodor no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Garbodor no aparece en Leyendas Pokémon: Arceus."
+    }
+}

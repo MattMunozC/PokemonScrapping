@@ -1,0 +1,100 @@
+{
+    "dex number": "0544",
+    "pokemon name": "Whirlipede",
+    "types": [
+        " bicho",
+        " veneno"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Punto tóxico"
+    ],
+    "hidden abilities": [
+        "Pies rápidos",
+        "Impulso"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 55,
+        "def": 99,
+        "atk esp": 40,
+        "def esp": 79,
+        "speed": 47
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Bosque Azulejo.",
+            "Evolucionar: a Venipede (Nivel 22)."
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Azulejo.",
+            "Evolucionar: a Venipede (Nivel 22)."
+        ],
+        "Negro 2": [
+            "Salvaje: Bosque Azulejo y Bosque de los Perdidos.",
+            "Evolucionar: a Venipede (Nivel 22)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Bosque Azulejo y Bosque de los Perdidos.",
+            "Evolucionar: a Venipede (Nivel 22)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Venipede (Nivel 22) y Safari Amistad."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Venipede (Nivel 22) y Safari Amistad."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X y Pokémon Y."
+        ],
+        "Sol": [
+            "Evolucionar: a Venipede (Nivel 22)."
+        ],
+        "Luna": [
+            "Evolucionar: a Venipede (Nivel 22)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Evolucionar: a Venipede (Nivel 22)."
+        ],
+        "Escudo": [
+            "Evolucionar: a Venipede (Nivel 22)."
+        ],
+        "Diamante Brillante": [
+            "Whirlipede no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Whirlipede no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Whirlipede no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Lo protege un duro caparazón. Gira como una rueda y realiza brutales placajes contra sus enemigos.",
+        "Blanco": "Normalmente no se mueve, pero se pone a rodar frenéticamente y contraataca con placajes si lo atacan.",
+        "Negro 2": "Permanece quieto y acumula energía para su evolución, pero, si un rival se acerca, se mueve y ataca con púas venenosas.",
+        "Blanco 2": "Permanece quieto y acumula energía para su evolución, pero, si un rival se acerca, se mueve y ataca con púas venenosas.",
+        "Pokémon X": "Lo protege un duro caparazón. Gira como una rueda y realiza brutales placajes contra sus enemigos.",
+        "Pokémon Y": "Normalmente no se mueve, pero se pone a rodar frenéticamente y contraataca con placajes si lo atacan.",
+        "Rubí Omega": "Lo protege un duro caparazón. Gira como una rueda y realiza brutales placajes contra sus enemigos.",
+        "Zafiro Alfa": "Normalmente no se mueve, pero se pone a rodar frenéticamente y contraataca con placajes si lo atacan.",
+        "Sol": "No hay entrada de Whirlipede en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Whirlipede en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Whirlipede en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Whirlipede en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Gira a gran velocidad y carga contra sus rivales. Puede alcanzar los 100 km/h.",
+        "Escudo": "Se defiende con su duro caparazón y sus púas venenosas mientras acumula la energía necesaria para evolucionar.",
+        "Diamante Brillante": "Whirlipede no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Whirlipede no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Whirlipede no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "dex number": "0604",
+    "pokemon name": "Eelektross",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 85,
+        "atk": 115,
+        "def": 80,
+        "atk esp": 105,
+        "def esp": 80,
+        "speed": 50
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Eelektrik (piedra trueno)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Eelektrik (piedra trueno)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Eelektrik (piedra trueno)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Eelektrik (piedra trueno)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Eelektrik (piedra trueno)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Eelektrik (piedra trueno)"
+        ],
+        "Sol": [
+            "Escáner insular: Bosque de Poni (domingos)"
+        ],
+        "Luna": [
+            "Escáner insular: Bosque de Poni (domingos)"
+        ],
+        "Ultrasol": [
+            "Escáner insular: Bosque de Poni (domingos)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Bosque de Poni (domingos)"
+        ],
+        "Espada": [
+            "Eelektross no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Eelektross no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Eelektross no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Eelektross no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Eelektross no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Sale del mar con la fuerza de sus brazos y ataca a sus presas en la costa. Luego se las lleva de vuelta al mar.",
+        "Blanco": "Pega la ventosa de su boca en su presa y la electrocuta con sus colmillos.",
+        "Negro 2": "Pega la ventosa de su boca en su presa y la electrocuta con una gran descarga clavándole los colmillos.",
+        "Blanco 2": "Pega la ventosa de su boca en su presa y la electrocuta con una gran descarga clavándole los colmillos.",
+        "Pokémon X": "Pega la ventosa de su boca en su presa y la electrocuta con una gran descarga clavándole los colmillos.",
+        "Pokémon Y": "Sale del mar con la fuerza de sus brazos y ataca a sus presas en la costa. Luego se las lleva de vuelta al mar.",
+        "Rubí Omega": "Pega la ventosa de su boca en su presa y la electrocuta con una gran descarga clavándole los colmillos.",
+        "Zafiro Alfa": "Sale del mar con la fuerza de sus brazos y ataca a sus presas en la costa. Luego se las lleva de vuelta al mar.",
+        "Sol": "No hay entrada de Eelektross en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Eelektross en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Eelektross en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Eelektross en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Eelektross no aparece en Pokémon Espada.",
+        "Escudo": "Eelektross no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Eelektross no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Eelektross no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Eelektross no aparece en Leyendas Pokémon: Arceus."
+    }
+}

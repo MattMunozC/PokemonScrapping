@@ -1,0 +1,97 @@
+{
+    "dex number": "0554",
+    "pokemon name": "Darumaka",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Entusiasmo"
+    ],
+    "hidden abilities": [
+        "Fuerza mental"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 90,
+        "def": 45,
+        "atk esp": 15,
+        "def esp": 45,
+        "speed": 50
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 4 y Zona Desierto"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 4 y Zona Desierto"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 4 y Zona Desierto",
+            "Nexo Recuerdo: Zona Desierto tras recibir al Zorua de N"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 4 y Zona Desierto",
+            "Nexo Recuerdo: Zona Desierto tras recibir al Zorua de N"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Criar: de Darmanitan"
+        ],
+        "Zafiro Alfa": [
+            "Criar: de Darmanitan"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Intercambiar: por un Darumaka de Galar a Tatiana (intercambios ilimitados) "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Darumaka no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Darumaka no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Darumaka no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "No para quieto si arden las llamas de su estómago, pero se duerme plácidamente si se apaciguan.",
+        "Blanco": "Como sus excrementos están muy calientes, la gente de antaño se los metía en los bolsillos para calentarse.",
+        "Negro 2": "Cuando se dispone a dormir, retrae sus piernas y sus brazos, y reduce la llama de su interior a 600 grados para relajarse.",
+        "Blanco 2": "Cuando se dispone a dormir, retrae sus piernas y sus brazos, y reduce la llama de su interior a 600 grados para relajarse.",
+        "Pokémon X": "Como sus excrementos están muy calientes, la gente de antaño se los metía en los bolsillos para calentarse.",
+        "Pokémon Y": "Cuando se dispone a dormir, retrae sus piernas y sus brazos, y reduce la llama de su interior a 600 grados para relajarse.",
+        "Rubí Omega": "Como sus excrementos están muy calientes, la gente de antaño se los metía en los bolsillos para calentarse.",
+        "Zafiro Alfa": "Cuando se dispone a dormir, retrae sus piernas y sus brazos, y reduce la llama de su interior a 600 grados para relajarse.",
+        "Sol": "No hay entrada de Darumaka en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Darumaka en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Darumaka en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Darumaka en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "La llama que arde en su interior es la fuente de su poder. Si el fuego mengua, se sume en un estado de sopor de inmediato.",
+        "Escudo": "Cuando duerme es imposible tumbarlo por más que lo zarandeen. Es muy popular como amuleto de la suerte.",
+        "Diamante Brillante": "Darumaka no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Darumaka no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Darumaka no aparece en Leyendas Pokémon: Arceus."
+    }
+}

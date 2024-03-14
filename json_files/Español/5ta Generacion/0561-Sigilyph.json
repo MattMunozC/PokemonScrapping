@@ -1,0 +1,105 @@
+{
+    "dex number": "0561",
+    "pokemon name": "Sigilyph",
+    "types": [
+        " psíquico",
+        " volador"
+    ],
+    "abilities": [
+        "Piel milagro",
+        "Muro mágico"
+    ],
+    "hidden abilities": [
+        "Cromolente"
+    ],
+    "stats": {
+        "hp": 72,
+        "atk": 58,
+        "def": 80,
+        "atk esp": 103,
+        "def esp": 80,
+        "speed": 97
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Zona Desierto"
+        ],
+        "Blanco": [
+            "Salvaje: Zona Desierto"
+        ],
+        "Negro 2": [
+            "Salvaje: Zona Desierto",
+            "Nexo Recuerdo: Zona Desierto después de recibir al Zorua de N (solo uno)",
+            "Dream World: Alto Cielo"
+        ],
+        "Blanco 2": [
+            "Salvaje: Zona Desierto",
+            "Nexo Recuerdo: Zona Desierto después de recibir al Zorua de N (solo uno)",
+            "Dream World: Alto Cielo"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 10",
+            "Especial: Safari Amistad, en algunos safaris de tipo psíquico"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 10",
+            "Especial: Safari Amistad, en algunos safaris de tipo psíquico"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral rojo"
+        ],
+        "Espada": [
+            "Salvaje: Cuenca Polvorienta, Lago del Enfado, Ribera de Pistón y Llanura Pétrea",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3 y Ribera de Pistón, nido al este. Con posible habilidad oculta: Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón"
+        ],
+        "Escudo": [
+            "Salvaje: Cuenca Polvorienta, Lago del Enfado, Ribera de Pistón y Llanura Pétrea",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sureste, Llanura Pétrea, nido al este 3, Ribera de Pistón, nido al este y Valle Entrepuentes, nido al sur junto al muro de Ciudad Pistón. Con posible habilidad oculta: Gorro del Gigante, nido al noreste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste y Pradera Radiante, nido al noreste"
+        ],
+        "Diamante Brillante": [
+            "Sigilyph no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sigilyph no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Sigilyph no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Conserva recuerdos de cuando defendía cierta ciudad milenaria, por eso vuela siempre trazando la misma ruta.",
+        "Blanco": "Fue la deidad protectora de una ciudad milenaria. Ataca con su poder psíquico a los enemigos que invaden su territorio.",
+        "Negro 2": "Deidad protectora de una antigua ciudad. Siempre merodea por la misma ruta y permanece alerta en busca de intrusos.",
+        "Blanco 2": "Deidad protectora de una antigua ciudad. Siempre merodea por la misma ruta y permanece alerta en busca de intrusos.",
+        "Pokémon X": "Fue la deidad protectora de una ciudad milenaria. Ataca con su poder psíquico a los enemigos que invaden su territorio.",
+        "Pokémon Y": "Deidad protectora de una antigua ciudad. Siempre merodea por la misma ruta y permanece alerta en busca de intrusos.",
+        "Rubí Omega": "Fue la deidad protectora de una ciudad milenaria. Ataca con su poder psíquico a los enemigos que invaden su territorio.",
+        "Zafiro Alfa": "Deidad protectora de una antigua ciudad. Siempre merodea por la misma ruta y permanece alerta en busca de intrusos.",
+        "Sol": "No hay entrada de Sigilyph en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Sigilyph en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Sigilyph en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Sigilyph en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Vuela gracias a sus poderes psíquicos. Dicen que había sido la deidad protectora de una antigua ciudad, si bien otros creen que era su mensajero.",
+        "Escudo": "Explorando la zona desértica que sobrevuela, se han descubierto los vestigios de lo que parece ser una antigua ciudad.",
+        "Diamante Brillante": "Sigilyph no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sigilyph no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sigilyph no aparece en Leyendas Pokémon: Arceus."
+    }
+}

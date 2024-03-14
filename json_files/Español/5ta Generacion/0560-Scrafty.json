@@ -1,0 +1,99 @@
+{
+    "dex number": "0560",
+    "pokemon name": "Scrafty",
+    "types": [
+        " siniestro",
+        " lucha"
+    ],
+    "abilities": [
+        "Mudar",
+        "Autoestima"
+    ],
+    "hidden abilities": [
+        "Intimidación"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 90,
+        "def": 115,
+        "atk esp": 45,
+        "def esp": 115,
+        "speed": 58
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Scraggy (nivel 39)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Scraggy (nivel 39)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 1, ruta 15, ruta 18 y Laboratorio P+P"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 1, ruta 15, ruta 18 y Laboratorio P+P"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Scraggy (nivel 39)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Scraggy (nivel 39)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Scraggy (nivel 39)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Scraggy (nivel 39)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Scraggy (nivel 39)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Scraggy (nivel 39)"
+        ],
+        "Espada": [
+            "Salvaje: Ruta Desafío  y Llano Entrenamiento ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew. Con posible habilidad oculta: Cuenca Polvorienta, nido al suroeste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna. Nidos en Prado Reverencia , Playa Desafío , Ruta Desafío  y Mar Meloso ",
+            "Evolucionar: a Scraggy (nivel 39)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Scrafty no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Scrafty no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Scrafty no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Ataca en grupo con violencia a todo aquel que se interne en su territorio. Lanza ácido por la boca.",
+        "Blanco": "El líder del grupo es aquel cuya cresta es mayor. Es capaz de romper bloques de cemento con sus potentes patadas.",
+        "Negro 2": "Se protege de los ataques con la muda de su piel mientras reparte patadas. Cuando mayor es su cresta, más se le respeta.",
+        "Blanco 2": "Se protege de los ataques con la muda de su piel mientras reparte patadas. Cuando mayor es su cresta, más se le respeta.",
+        "Pokémon X": "Se protege de los ataques con la muda de su piel mientras reparte patadas. Cuando mayor es su cresta, más se le respeta.",
+        "Pokémon Y": "El líder del grupo es aquel cuya cresta es mayor. Es capaz de romper bloques de cemento con sus potentes patadas.",
+        "Rubí Omega": "Se protege de los ataques con la muda de su piel mientras reparte patadas. Cuando mayor es su cresta, más se le respeta.",
+        "Zafiro Alfa": "El líder del grupo es aquel cuya cresta es mayor. Es capaz de romper bloques de cemento con sus potentes patadas.",
+        "Sol": "No hay entrada de Scrafty en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Scrafty en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "A pesar de su apariencia chulesca, se preocupa mucho por los miembros de su familia, el resto del grupo y su territorio.",
+        "Ultraluna": "Provoca a su rival escupiéndole. No se aventura fuera de su propio territorio, donde pasa toda la vida.",
+        "Espada": "Las patadas que propina con aparente desgana poseen una fuerza capaz de destrozar incluso los pilares de hormigón que llevan los Conkeldurr.",
+        "Escudo": "A pesar de su carácter agresivo, se muestra muy protector con sus allegados y su territorio.",
+        "Diamante Brillante": "Scrafty no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Scrafty no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Scrafty no aparece en Leyendas Pokémon: Arceus."
+    }
+}

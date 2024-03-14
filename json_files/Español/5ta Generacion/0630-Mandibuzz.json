@@ -1,0 +1,101 @@
+{
+    "dex number": "0630",
+    "pokemon name": "Mandibuzz",
+    "types": [
+        " siniestro",
+        " volador"
+    ],
+    "abilities": [
+        "Sacapecho",
+        "Funda"
+    ],
+    "hidden abilities": [
+        "Armadura frágil"
+    ],
+    "stats": {
+        "hp": 110,
+        "atk": 65,
+        "def": 105,
+        "atk esp": 55,
+        "def esp": 95,
+        "speed": 80
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 11 y Puente Villa",
+            "Evolucionar: a Vullaby (nivel 54)"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro o Pokémon Negro 2"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Vullaby (nivel 54)",
+            "Especial: Aparece un Mandibuzz con su habilidad oculta todos los jueves en la Ruta 4"
+        ],
+        "Blanco 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Negro 2"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Vullaby (nivel 54)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Vullaby (nivel 54)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Vullaby (nivel 54)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Vullaby (nivel 54)"
+        ],
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Salvaje: Llanura de Poni",
+            "Evolucionar: a Vullaby (nivel 54)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Salvaje: Llanura de Poni",
+            "Evolucionar: a Vullaby (nivel 54)"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado, Cuenca Polvorienta, Cuenca Arenosa  y Ruta Desafío ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste y Valle Entrepuentes, nido al norte cerca de la laguna. Nidos en Ruta Desafío , Bahía Circular , Mar Gimnástico  y Mar Andana ",
+            "Evolucionar: a Vullaby (nivel 54)"
+        ],
+        "Diamante Brillante": [
+            "Mandibuzz no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Mandibuzz no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Mandibuzz no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Hace un nido de los huesos que encuentra. Agarra a su debilitada presa en sus garras y la transporta a su nido de huesos.",
+        "Blanco": "Otea la superficie desde el cielo y ataca a Pokémon debilitados. Tiene por costumbre hacerse adornos con huesos.",
+        "Negro 2": "Vuela en círculos. Cuando avista una presa, la ataca y la transporta a su nido con suma facilidad.",
+        "Blanco 2": "Vuela en círculos. Cuando avista una presa, la ataca y la transporta a su nido con suma facilidad.",
+        "Pokémon X": "Vuela en círculos. Cuando avista una presa, la ataca y la transporta a su nido con suma facilidad.",
+        "Pokémon Y": "Otea la superficie desde el cielo y ataca a Pokémon debilitados. Tiene por costumbre hacerse adornos con huesos.",
+        "Rubí Omega": "Vuela en círculos. Cuando avista una presa, la ataca y la transporta a su nido con suma facilidad.",
+        "Zafiro Alfa": "Otea la superficie desde el cielo y ataca a Pokémon debilitados. Tiene por costumbre hacerse adornos con huesos.",
+        "Sol": "Se dice que los huesos con los que se engalana le sirven para cortejar al otro sexo, aunque nunca se ha avistado ningún Mandibuzz macho.",
+        "Luna": "Revolotea por el cielo en busca de un Pokémon débil al que convertir en su presa. Tiene una particular debilidad por los Cubone.",
+        "Ultrasol": "Utiliza con pericia los huesos de las presas que devora para así construir un nido. La mayoría de los huesos pertenecen a los Cubone.",
+        "Ultraluna": "Busca sin cesar comida para alimentar a Vullaby. Atrapa al instante a cualquier Pokémon debilitado que aviste y lo lleva al nido.",
+        "Espada": "A pesar de su carácter violento, si avista un Vullaby perdido, lo acoge en su nido y lo cuida con esmero hasta que está listo para partir.",
+        "Escudo": "Se engalana con los huesos que va recogiendo. Al parecer, la elección no es casual, sino que obedece a los dictados de la moda.",
+        "Diamante Brillante": "Mandibuzz no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Mandibuzz no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Mandibuzz no aparece en Leyendas Pokémon: Arceus."
+    }
+}

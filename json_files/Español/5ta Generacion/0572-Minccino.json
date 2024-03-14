@@ -1,0 +1,100 @@
+{
+    "dex number": "0572",
+    "pokemon name": "Minccino",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Gran encanto",
+        "Experto"
+    ],
+    "hidden abilities": [
+        "Encadenado"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 50,
+        "def": 40,
+        "atk esp": 40,
+        "def esp": 40,
+        "speed": 75
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 5, Ruta 9, Ruta 16 y Almacenes Frigoríficos"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 5, Ruta 9, Ruta 16 y Almacenes Frigoríficos"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 5, Ruta 9 y Ruta 16",
+            "Claro oculto: Ruta 5"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 4, Ruta 5, Ruta 9 y Ruta 16",
+            "Claro oculto: Ruta 5"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo normal"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo normal"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque Espejismo"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Cabo de las Afueras"
+        ],
+        "Ultraluna": [
+            "Salvaje: Cabo de las Afueras"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 5, Lago Axew (este), Gorro del Gigante y Pradera Radiante",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón y Pradera Radiante, nido cerca del Punto de Encuentro"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 5, Lago Axew (este), Gorro del Gigante y Pradera Radiante",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón y Pradera Radiante, nido cerca del Punto de Encuentro"
+        ],
+        "Diamante Brillante": [
+            "Minccino no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Minccino no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Minccino no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Se saludan haciéndose mimos con la cola. Por eso, se acicalan con esmero para que su cola esté siempre limpia y arreglada.",
+        "Blanco": "Le encanta la limpieza. Usa su cola a modo de escoba y se pasa el día barre que barre.",
+        "Negro 2": "Se saludan entre sí frotándose la cola y limpiándosela a conciencia.",
+        "Blanco 2": "Se saludan entre sí frotándose la cola y limpiándosela a conciencia.",
+        "Pokémon X": "Se saludan entre sí frotándose la cola y limpiándosela a conciencia.",
+        "Pokémon Y": "Le encanta la limpieza. Usa su cola a modo de escoba y se pasa el día barre que barre.",
+        "Rubí Omega": "Se saludan entre sí frotándose la cola y limpiándosela a conciencia.",
+        "Zafiro Alfa": "Le encanta la limpieza. Usa su cola a modo de escoba y se pasa el día barre que barre.",
+        "Sol": "No hay entrada de Minccino en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Minccino en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Este Pokémon es extremadamente pulcro y no puede ver ni una mota de suciedad o la limpiará usando su cola como si fuera una mopa.",
+        "Ultraluna": "Tras usar la cola para limpiar su madriguera o su propio cuerpo, se pasa un día entero lavándosela con agua de manantial.",
+        "Espada": "Usa la cola para barrer la basurilla. Su extrema pulcritud es tanto una ayuda en la limpieza del hogar como un incordio.",
+        "Escudo": "Se saludan entre sí frotándose la cola. Cuanto más voluminosa es, más orgullosos se muestran.",
+        "Diamante Brillante": "Minccino no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Minccino no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Minccino no aparece en Leyendas Pokémon: Arceus."
+    }
+}

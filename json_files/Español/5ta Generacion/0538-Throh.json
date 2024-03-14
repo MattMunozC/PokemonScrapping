@@ -1,0 +1,99 @@
+{
+    "dex number": "0538",
+    "pokemon name": "Throh",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Fuerza mental",
+        "Agallas"
+    ],
+    "hidden abilities": [
+        "Rompemoldes"
+    ],
+    "stats": {
+        "hp": 120,
+        "atk": 100,
+        "def": 85,
+        "atk esp": 30,
+        "def esp": 85,
+        "speed": 45
+    },
+    "location": {
+        "Negro": [
+            " Salvaje: Cuando la hierba se mueve: Rutas 10, 15, 18 y Bosque Azulejo."
+        ],
+        "Blanco": [
+            " Salvaje: Rutas 10, 15, 18 y Bosque Azulejo."
+        ],
+        "Negro 2": [
+            " Salvaje: Rutas 15, 18, 23, Bosque Azulejo y Calle Victoria.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Blanco 2": [
+            " Salvaje: Cuando la hierba se mueve: Rutas 15, 18, 23, Bosque Azulejo y Calle Victoria.",
+            "Dream World: En el Parque de los Sueños."
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo lucha"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 11",
+            "Especial: Safari Amistad, en algunos safaris de tipo lucha"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 112, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Intercambiar: por un Vanillish en Pueblo Auriga con un señor en un carrito de helados cerca de los hoteles.",
+            "Intercambiar: de Pokémon Escudo"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 8, Valle Entrepuentes, Espejo del Gigante, Afueras de Pistón y Ribera de Pistón.",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al sur, Lago Milotic (norte), nido al sureste y Lago Milotic (norte), nido junto al lago."
+        ],
+        "Diamante Brillante": [
+            "Throh no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Throh no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Throh no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Aumenta su potencia si se aprieta el cinturón. Un Throh salvaje teje su propio cinturón usando lianas.",
+        "Blanco": "Su carácter le empuja a sentir ansias de lanzar por los aires a rivales mayores que él. Forman manadas de cinco.",
+        "Negro 2": "Si se topa con un rival más fuerte, ansía lanzarlo por los aires. Al hacerse más fuerte, cambia su cinturón.",
+        "Blanco 2": "Si se topa con un rival más fuerte, ansía lanzarlo por los aires. Al hacerse más fuerte, cambia su cinturón.",
+        "Pokémon X": "Aumenta su potencia si se aprieta el cinturón. Un Throh salvaje teje su propio cinturón usando lianas.",
+        "Pokémon Y": "Si se topa con un rival más fuerte, ansía lanzarlo por los aires. Al hacerse más fuerte, cambia su cinturón.",
+        "Rubí Omega": "Aumenta su potencia si se aprieta el cinturón. Un Throh salvaje teje su propio cinturón usando lianas.",
+        "Zafiro Alfa": "Si se topa con un rival más fuerte, ansía lanzarlo por los aires. Al hacerse más fuerte, cambia su cinturón.",
+        "Sol": "No hay entrada de Throh en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Throh en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Throh en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Throh en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Su técnica de lanzamiento es formidable. El sudor que exhala durante el combate impregna su cinturón, cuyo color se vuelve más intenso.",
+        "Escudo": "Entrenan en grupos de cinco individuos. Si alguno es incapaz de seguir el ritmo, arroja el cinturón y abandona la cuadrilla.",
+        "Diamante Brillante": "Throh no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Throh no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Throh no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "dex number": "0626",
+    "pokemon name": "Bouffalant",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Audaz",
+        "Herbívoro"
+    ],
+    "hidden abilities": [
+        "Insonorizar"
+    ],
+    "stats": {
+        "hp": 95,
+        "atk": 110,
+        "def": 95,
+        "atk esp": 40,
+        "def esp": 95,
+        "speed": 55
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 10"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 10"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 23",
+            "Claro oculto: Ruta 9"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 23",
+            "Claro oculto: Ruta 9"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 113, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 113, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Humedal Frescor  y Playa Desafío ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Humedal Frescor , Cueva Tenacidad  y Llano Entrenamiento "
+        ],
+        "Escudo": [
+            "Salvaje: Humedal Frescor  y Playa Desafío ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Humedal Frescor , Cueva Tenacidad  y Llano Entrenamiento "
+        ],
+        "Diamante Brillante": [
+            "Bouffalant no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Bouffalant no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Bouffalant no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Aunque encaje un cabezazo violento, su pelaje absorbe el daño.",
+        "Blanco": "Embiste con la cabeza sin distinción. Su potencia es capaz de hacer descarrilar un tren en marcha.",
+        "Negro 2": "Embiste con su cabeza sin distinción. Sería capaz de hacer descarrilar un tren si este invadiera su territorio.",
+        "Blanco 2": "Embiste con su cabeza sin distinción. Sería capaz de hacer descarrilar un tren si este invadiera su territorio.",
+        "Pokémon X": "Embiste con la cabeza sin distinción. Su potencia es capaz de hacer descarrilar un tren en marcha.",
+        "Pokémon Y": "Aunque encaje un cabezazo violento, su pelaje absorbe el daño.",
+        "Rubí Omega": "Embiste con la cabeza sin distinción. Su potencia es capaz de hacer descarrilar un tren en marcha.",
+        "Zafiro Alfa": "Aunque encaje un cabezazo violento, su pelaje absorbe el daño.",
+        "Sol": "No hay entrada de Bouffalant en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Bouffalant en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Bouffalant en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Bouffalant en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Puede destrozar un coche de un solo testarazo. Cuanto más abundante sea su melena, mayor rango tendrá en la jerarquía de la manada.",
+        "Escudo": "Forman manadas de unos veinte individuos. Se desconoce el motivo, pero los que traicionan la confianza del grupo pierden la melena.",
+        "Diamante Brillante": "Bouffalant no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Bouffalant no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Bouffalant no aparece en Leyendas Pokémon: Arceus."
+    }
+}

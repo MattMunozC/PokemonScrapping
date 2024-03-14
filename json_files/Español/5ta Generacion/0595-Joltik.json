@@ -1,0 +1,101 @@
+{
+    "dex number": "0595",
+    "pokemon name": "Joltik",
+    "types": [
+        " bicho",
+        " eléctrico"
+    ],
+    "abilities": [
+        "Ojo compuesto",
+        "Nerviosismo"
+    ],
+    "hidden abilities": [
+        "Enjambre"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 47,
+        "def": 50,
+        "atk esp": 57,
+        "def esp": 50,
+        "speed": 65
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Cueva Electrorroca"
+        ],
+        "Blanco": [
+            "Salvaje: Cueva Electrorroca"
+        ],
+        "Negro 2": [
+            "Salvaje: Cueva Electrorroca",
+            "Pokémon de N: Cueva Electrorroca (solo uno)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Cueva Electrorroca",
+            "Pokémon de N: Cueva Electrorroca (solo uno)"
+        ],
+        "Pokémon X": [
+            "Criar: de Galvantula"
+        ],
+        "Pokémon Y": [
+            "Criar: de Galvantula"
+        ],
+        "Rubí Omega": [
+            "DexNav: Ruta 116 tras conseguir la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "DexNav: Ruta 116 tras conseguir la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 4, Pradera Radiante, Arboleda Claroscuro, Lago Axew (oeste), Lago Axew (este), Lago Milotic (norte), Lago Milotic (sur), Gorro del Gigante y Espejo del Gigante",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al noroeste, Lago Milotic (sur), nido al noroeste, Lago del Enfado, nido al noreste junto al lago, Pradera Radiante, nido en la zona de pasto al este, Ribera de Pistón, nido al suroeste, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares. Nidos en Llano Entrenamiento , Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Curri: Ruta 4"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 4, Pradera Radiante, Arboleda Claroscuro, Lago Axew (oeste), Lago Axew (este), Lago Milotic (norte), Lago Milotic (sur), Gorro del Gigante y Espejo del Gigante",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido en el centro, Cornisa de Artejo, nido al noroeste, Gorro del Gigante, nido al noroeste, Lago Milotic (sur), nido al noroeste, Lago del Enfado, nido al noreste junto al lago, Pradera Radiante, nido en la zona de pasto al este, Ribera de Pistón, nido al suroeste, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares. Nidos en Llano Entrenamiento , Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Curri: Ruta 4"
+        ],
+        "Diamante Brillante": [
+            "Joltik no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Joltik no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Joltik no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Los que viven en las ciudades saben absorber electricidad de los enchufes de las casas particulares.",
+        "Blanco": "Se agarra a Pokémon de gran tamaño, absorbe su electricidad estática y la guarda en una bolsa interna.",
+        "Negro 2": "No puede generar electricidad por sí mismo, así que se encarama a Pokémon grandes y absorbe su energía estática.",
+        "Blanco 2": "No puede generar electricidad por sí mismo, así que se encarama a Pokémon grandes y absorbe su energía estática.",
+        "Pokémon X": "No puede generar electricidad por sí mismo, así que se encarama a Pokémon grandes y absorbe su energía estática.",
+        "Pokémon Y": "Se agarra a Pokémon de gran tamaño, absorbe su electricidad estática y la guarda en una bolsa interna.",
+        "Rubí Omega": "No puede generar electricidad por sí mismo, así que se encarama a Pokémon grandes y absorbe su energía estática.",
+        "Zafiro Alfa": "Se agarra a Pokémon de gran tamaño, absorbe su electricidad estática y la guarda en una bolsa interna.",
+        "Sol": "No hay entrada de Joltik en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Joltik en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Joltik en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Joltik en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No puede generar electricidad por sí mismo, así que se encarama a otros Pokémon y absorbe su energía estática.",
+        "Escudo": "Se agarra a otros Pokémon para absorber su electricidad estática. Es muy común verlo aferrado a las posaderas de un Yamper.",
+        "Diamante Brillante": "Joltik no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Joltik no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Joltik no aparece en Leyendas Pokémon: Arceus."
+    }
+}

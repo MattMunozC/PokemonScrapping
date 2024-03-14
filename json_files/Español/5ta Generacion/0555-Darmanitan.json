@@ -1,0 +1,101 @@
+{
+    "dex number": "0555",
+    "pokemon name": "Darmanitan",
+    "types": [
+        " fuego",
+        " fuego",
+        " psíquico"
+    ],
+    "abilities": [
+        "Potencia bruta"
+    ],
+    "hidden abilities": [
+        "Modo daruma"
+    ],
+    "stats": {
+        "hp": 105,
+        "atk": 140,
+        "def": 55,
+        "atk esp": 30,
+        "def esp": 55,
+        "speed": 95
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Darumaka (nivel 35)",
+            " Especial: Zona Desierto (solo cinco, poseen su habilidad oculta; se necesita un caramelo furia)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Darumaka (nivel 35)",
+            " Especial: Zona Desierto (solo cinco, poseen su habilidad oculta; se necesita un caramelo furia)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Darumaka (nivel 35)",
+            " Nexo Recuerdo: Zona Desierto, tras recibir el Zorua de N (solo uno)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Darumaka (nivel 35)",
+            " Nexo Recuerdo: Zona Desierto, tras recibir el Zorua de N (solo uno)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Monte Espejismo e Isla Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Monte Espejismo e Isla Espejismo"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Evolucionar: a Darumaka (nivel 35) "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Darmanitan no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Darmanitan no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Darmanitan no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Genera llamas que alcanzan los 1400° de temperatura con las que es capaz de destrozar un camión.",
+        "Blanco": "Se queda firme como una estatua cuando es debilitado en combate. Agudiza el ingenio para luchar.",
+        "Negro 2": "Cuando resulta gravemente herido, se endurece como una piedra y medita para agudizar la mente.",
+        "Blanco 2": "Cuando resulta gravemente herido, se endurece como una piedra y medita para agudizar la mente.",
+        "Pokémon X": "Cuando resulta gravemente herido, se endurece como una piedra y medita para agudizar la mente.",
+        "Pokémon Y": "Genera llamas que alcanzan los 1400° de temperatura con las que es capaz de destrozar un camión.",
+        "Rubí Omega": "Cuando resulta gravemente herido, se endurece como una piedra y medita para agudizar la mente.",
+        "Zafiro Alfa": "Genera llamas que alcanzan los 1400° de temperatura con las que es capaz de destrozar un camión.",
+        "Sol": "No hay entrada de Darmanitan en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Darmanitan en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Darmanitan en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Darmanitan en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "\nModo normal: Un Pokémon sumamente enérgico. Tiene tanta fuerza en los brazos que es capaz de destrozar un camión a base de puñetazos.\nModo daruma: Entra en estado de meditación profunda que le permite reprimir su cólera y agudizar sus poderes psíquicos.",
+        "Escudo": "\nModo normal: Su fuerza aumenta cuanto más se aviva su fuego interior, que puede alcanzar temperaturas superiores a los 1400 °C.\nModo daruma: Cuando resulta herido, se queda inmóvil como una piedra y medita para agudizar la mente.",
+        "Diamante Brillante": "Darmanitan no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Darmanitan no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Darmanitan no aparece en Leyendas Pokémon: Arceus."
+    }
+}

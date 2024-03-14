@@ -1,0 +1,99 @@
+{
+    "dex number": "0547",
+    "pokemon name": "Whimsicott",
+    "types": [
+        " planta",
+        " hada"
+    ],
+    "abilities": [
+        "Bromista",
+        "Allanamiento"
+    ],
+    "hidden abilities": [
+        "Clorofila"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 67,
+        "def": 85,
+        "atk esp": 77,
+        "def esp": 75,
+        "speed": 116
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Bosque Azulejo, Santuario Abundancia y Bosque de los Perdidos",
+            "Evolucionar: a Cottonee (piedra solar)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Cottonee (piedra solar)"
+        ],
+        "Negro 2": [
+            "Salvaje: Solar de Ciudad Porcelana, Bosque Azulejo, Santuario Abundancia, Bosque de los Perdidos y Calle Victoria.",
+            "Evolucionar: a Cottonee (piedra solar)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Cottonee (piedra solar)"
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Cottonee (piedra solar)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Cottonee (piedra solar)"
+        ],
+        "Sol": [
+            "Evolucionar: a Cottonee (piedra solar)"
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Cottonee (piedra solar)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro.",
+            "Evolucionar: a Cottonee (piedra solar)"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro.",
+            "Evolucionar: a Cottonee (piedra solar)"
+        ],
+        "Diamante Brillante": [
+            "Whimsicott no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Whimsicott no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Whimsicott no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Es capaz de atravesar las más mínimas fisuras. A su paso, deja bolitas blancas de pelo.",
+        "Blanco": "Aparece con remolinos de viento. Entra en las casas por las rendijas y les encanta hacer travesuras.",
+        "Negro 2": "Aparecen en medio de un torbellino y entran en las casas para descolocar los muebles o esparcir algodón por doquier.",
+        "Blanco 2": "Aparecen en medio de un torbellino y entran en las casas para descolocar los muebles o esparcir algodón por doquier.",
+        "Pokémon X": "Aparecen en medio de un torbellino y entran en las casas para descolocar los muebles o esparcir algodón por doquier.",
+        "Pokémon Y": "Es capaz de atravesar las más mínimas fisuras. A su paso, deja bolitas blancas de pelo.",
+        "Rubí Omega": "Aparecen en medio de un torbellino y entran en las casas para descolocar los muebles o esparcir algodón por doquier.",
+        "Zafiro Alfa": "Es capaz de atravesar las más mínimas fisuras. A su paso, deja bolitas blancas de pelo.",
+        "Sol": "Entra en las casas con las corrientes de aire y esparce algodón por todas partes. Desaparece entre risas tras su travesura.",
+        "Luna": "Aparece al levantarse el viento, pero, cuando este arrecia, pierde el algodón de la cabeza.",
+        "Ultrasol": "Este travieso Pokémon entra sigilosamente en las casas, esconde los objetos valiosos y dispersa bolas de algodón por todas partes.",
+        "Ultraluna": "Este Pokémon no vive en un lugar determinado, sino que se deja llevar por los torbellinos para desplazarse y realizar sus travesuras.",
+        "Espada": "Este travieso Pokémon se divierte esparciendo bolas de algodón. Al mojarlo, su peso aumenta tanto que no logra moverse y se da por vencido.",
+        "Escudo": "Su algodón se expande cuando recibe los rayos del sol, pero acaba desprendiéndose si se vuelve demasiado voluminoso.",
+        "Diamante Brillante": "Whimsicott no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Whimsicott no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Whimsicott no aparece en Leyendas Pokémon: Arceus."
+    }
+}

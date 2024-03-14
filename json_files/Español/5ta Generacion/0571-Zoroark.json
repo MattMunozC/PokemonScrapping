@@ -1,0 +1,101 @@
+{
+    "dex number": "0571",
+    "pokemon name": "Zoroark",
+    "types": [
+        " siniestro"
+    ],
+    "abilities": [
+        "Ilusión"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 60,
+        "atk": 105,
+        "def": 60,
+        "atk esp": 120,
+        "def esp": 60,
+        "speed": 105
+    },
+    "location": {
+        "Negro": [
+            "Especial: Bosque de los Perdidos. Se necesita llevar en el equipo uno de los Perros legendarios variocolor de evento traídos mediante el Trasladador PKMN",
+            "Evolucionar: a Zorua (nivel 30)"
+        ],
+        "Blanco": [
+            "Especial: Bosque de los Perdidos. Se necesita llevar en el equipo uno de los Perros legendarios variocolor de evento traídos mediante el Trasladador PKMN",
+            "Evolucionar: a Zorua (nivel 30)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Zorua (nivel 30)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Zorua (nivel 30)"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 20 y Villa Pokémon"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 20 y Villa Pokémon"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Zorua (nivel 30)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Zorua (nivel 30)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Bosque de Poni",
+            "Evolucionar: a Zorua (nivel 30)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Bosque de Poni",
+            "Evolucionar: a Zorua (nivel 30)"
+        ],
+        "Espada": [
+            "Salvaje: Bahía Circular  y Mar Islejos ",
+            "Incursiones Dinamax: nidos en Humedal Frescor , Ruta Desafío , Mar Meloso  y Mar Gimnástico ",
+            "Evolucionar: a Zorua (nivel 30)"
+        ],
+        "Escudo": [
+            "Salvaje: Bahía Circular  y Mar Islejos ",
+            "Incursiones Dinamax: nidos en Humedal Frescor , Ruta Desafío , Mar Meloso  y Mar Gimnástico ",
+            "Evolucionar: a Zorua (nivel 30)"
+        ],
+        "Diamante Brillante": [
+            "Zoroark no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Zoroark no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Zoroark no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Siempre ha protegido a su manada embaucando a sus enemigos. Dentro de la manada están todos muy unidos.",
+        "Blanco": "Tiene la facultad de confundir a muchos humanos a la vez. Protege su guarida creando un paisaje ilusorio.",
+        "Negro 2": "Se dice que Zoroark atrapa en un mundo de ilusiones a quien lo intenta atrapar y que, de esta manera, lo castiga.",
+        "Blanco 2": "Se dice que Zoroark atrapa en un mundo de ilusiones a quien lo intenta atrapar y que, de esta manera, lo castiga.",
+        "Pokémon X": "Tiene la facultad de confundir a muchos humanos a la vez. Protege su guarida creando un paisaje ilusorio.",
+        "Pokémon Y": "Siempre ha protegido a su manada embaucando a sus enemigos. Dentro de la manada están todos muy unidos.",
+        "Rubí Omega": "Tiene la facultad de confundir a muchos humanos a la vez. Protege su guarida creando un paisaje ilusorio.",
+        "Zafiro Alfa": "Siempre ha protegido a su manada embaucando a sus enemigos. Dentro de la manada están todos muy unidos.",
+        "Sol": "No hay entrada de Zoroark en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Zoroark en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No solo es capaz de transformarse, sino que también puede crear ilusiones para confundir a cientos de personas.",
+        "Ultraluna": "Si percibe que un humano está amenazando su hábitat, crea visiones para aturdirlo y hacerlo vagar por el bosque sin cesar.",
+        "Espada": "Cuida de sus semejantes. Provoca ilusiones terroríficas para proteger tanto su guarida como a su manada de sus adversarios.",
+        "Escudo": "Los Entrenadores solitarios le piden a Zoroark que les muestre ilusiones con las que combatir la desazón de la soledad.",
+        "Diamante Brillante": "Zoroark no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Zoroark no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Zoroark no aparece en Leyendas Pokémon: Arceus."
+    }
+}

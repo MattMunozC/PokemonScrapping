@@ -1,0 +1,103 @@
+{
+    "dex number": "0530",
+    "pokemon name": "Excadrill",
+    "types": [
+        " tierra",
+        " acero"
+    ],
+    "abilities": [
+        "Ímpetu arena",
+        "Poder arena"
+    ],
+    "hidden abilities": [
+        "Rompemoldes"
+    ],
+    "stats": {
+        "hp": 110,
+        "atk": 135,
+        "def": 60,
+        "atk esp": 50,
+        "def esp": 65,
+        "speed": 88
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Gruta Superación, Calle Victoria, Boquete Gigante (nubes de polvo).",
+            "Evolucionar: a Drilbur (nivel 31)."
+        ],
+        "Blanco": [
+            "Salvaje: Gruta Superación, Calle Victoria, Boquete Gigante (nubes de polvo).",
+            "Evolucionar: a Drilbur (nivel 31)."
+        ],
+        "Negro 2": [
+            "Salvaje: Calle Victoria, Boquete Gigante (nubes de polvo), Túnel Yakón, Monte Tuerca, Montaña Reversia, Cueva Manantial, Gruta Marina.",
+            "Evolucionar: a Drilbur (nivel 31)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Calle Victoria, Boquete Gigante (nubes de polvo), Túnel Yakón, Monte Tuerca, Montaña Reversia, Cueva Manantial, Gruta Marina.",
+            "Evolucionar: a Drilbur (nivel 31)."
+        ],
+        "Pokémon X": [
+            "Safari Amistad: Algunos safaris de tipo acero."
+        ],
+        "Pokémon Y": [
+            "Safari Amistad: Algunos safaris de tipo acero."
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Espejismo (norte de Ciudad Arborada, norte de la Ruta 112)."
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Espejismo (norte de Ciudad Arborada, norte de la Ruta 112)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado (con tormentas de arena), Espejo del Gigante, Gorro del Gigante.",
+            "Incursiones Dinamax: Con posible habilidad oculta: Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur.",
+            "Evolucionar: a Drilbur (nivel 31)."
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado (con tormentas de arena), Espejo del Gigante, Gorro del Gigante.",
+            "Incursiones Dinamax: Con posible habilidad oculta: Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur.",
+            "Evolucionar: a Drilbur (nivel 31)."
+        ],
+        "Diamante Brillante": [
+            "Excadrill no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Excadrill no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Excadrill no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Su taladro ha evolucionado y es capaz de atravesar una lámina de hierro. Es muy útil para construir túneles.",
+        "Blanco": "Construye madrigueras laberínticas a 100m bajo tierra. A veces abre agujeros en los túneles de metro.",
+        "Negro 2": "Coloca sus garras y su cabeza de manera que se convierten en un taladro. Puede incluso taladrar una plancha de acero.",
+        "Blanco 2": "Coloca sus garras y su cabeza de manera que se convierten en un taladro. Puede incluso taladrar una plancha de acero.",
+        "Pokémon X": "Su taladro ha evolucionado y es capaz de atravesar una lámina de hierro. Es muy útil para construir túneles.",
+        "Pokémon Y": "Construye madrigueras laberínticas a 100m bajo tierra. A veces abre agujeros en los túneles de metro.",
+        "Rubí Omega": "Su taladro ha evolucionado y es capaz de atravesar una lámina de hierro. Es muy útil para construir túneles.",
+        "Zafiro Alfa": "Construye madrigueras laberínticas a 100m bajo tierra. A veces abre agujeros en los túneles de metro.",
+        "Sol": "No hay entrada de Excadrill en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Excadrill en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Excadrill en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Excadrill en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Se dice que muchas grutas que parecen naturales han sido en realidad horadadas por los Excadrill.",
+        "Escudo": "Se lo conoce como el Rey del Taladro. Puede horadar túneles bajo tierra a una velocidad de 150 km/h.",
+        "Diamante Brillante": "Excadrill no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Excadrill no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Excadrill no aparece en Leyendas Pokémon: Arceus."
+    }
+}

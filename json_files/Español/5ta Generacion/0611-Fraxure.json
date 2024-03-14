@@ -1,0 +1,104 @@
+{
+    "dex number": "0611",
+    "pokemon name": "Fraxure",
+    "types": [
+        " dragón"
+    ],
+    "abilities": [
+        "Rivalidad",
+        "Rompemoldes"
+    ],
+    "hidden abilities": [
+        "Nerviosismo"
+    ],
+    "stats": {
+        "hp": 66,
+        "atk": 117,
+        "def": 70,
+        "atk esp": 40,
+        "def esp": 50,
+        "speed": 67
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Calle Victoria",
+            "Evolucionar: a Axew (nivel 38)"
+        ],
+        "Blanco": [
+            "Salvaje: Calle Victoria",
+            "Evolucionar: a Axew (nivel 38)"
+        ],
+        "Negro 2": [
+            "Salvaje: Reserva Natural",
+            "Evolucionar: a Axew (nivel 38)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Reserva Natural",
+            "Evolucionar: a Axew (nivel 38)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Axew (nivel 38)",
+            "Especial: Safari Amistad, en algunos safaris de tipo dragón"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Axew (nivel 38)",
+            "Especial: Safari Amistad, en algunos safaris de tipo dragón"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Axew (nivel 38)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Axew (nivel 38)"
+        ],
+        "Sol": [
+            "Evolucionar: a Axew (nivel 38)"
+        ],
+        "Luna": [
+            "Evolucionar: a Axew (nivel 38)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Axew (nivel 38)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Axew (nivel 38)"
+        ],
+        "Espada": [
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste",
+            "Evolucionar: a Axew (nivel 38)"
+        ],
+        "Escudo": [
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Pradera Radiante, nido al suroeste",
+            "Evolucionar: a Axew (nivel 38)"
+        ],
+        "Diamante Brillante": [
+            "Fraxure no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Fraxure no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Fraxure no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Al terminar un combate, se tiene que afilar los colmillos con pedernal, pues los rotos no le vuelven a salir.",
+        "Blanco": "Sus colmillos pueden hacer añicos rocas inmensas. Las luchas territoriales de los Fraxure son encarnizadas.",
+        "Negro 2": "Sus colmillos no vuelven a crecer, por lo que, al término de cada combate, los afila cuidadosamente con cantos de río.",
+        "Blanco 2": "Sus colmillos no vuelven a crecer, por lo que, al término de cada combate, los afila cuidadosamente con cantos de río.",
+        "Pokémon X": "Sus colmillos pueden hacer añicos rocas inmensas. Las luchas territoriales de los Fraxure son encarnizadas.",
+        "Pokémon Y": "Sus colmillos no vuelven a crecer, por lo que, al término de cada combate, los afila cuidadosamente con cantos de río.",
+        "Rubí Omega": "Sus colmillos pueden hacer añicos rocas inmensas. Las luchas territoriales de los Fraxure son encarnizadas.",
+        "Zafiro Alfa": "Sus colmillos no vuelven a crecer, por lo que, al término de cada combate, los afila cuidadosamente con cantos de río.",
+        "Sol": "No hay entrada de Fraxure en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Fraxure en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Fraxure en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Fraxure en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Sus colmillos no vuelven a crecer, por lo que, al término de cada combate, los afila cuidadosamente con cantos de río.",
+        "Escudo": "Su piel es dura como una coraza. Su técnica predilecta consiste en embestir al rival para hincarle los colmillos.",
+        "Diamante Brillante": "Fraxure no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Fraxure no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Fraxure no aparece en Leyendas Pokémon: Arceus."
+    }
+}

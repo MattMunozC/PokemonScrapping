@@ -1,0 +1,92 @@
+{
+    "dex number": "0566",
+    "pokemon name": "Archen",
+    "types": [
+        " roca",
+        " volador"
+    ],
+    "abilities": [
+        "Flaqueza"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 55,
+        "atk": 112,
+        "def": 45,
+        "atk esp": 74,
+        "def esp": 45,
+        "speed": 70
+    },
+    "location": {
+        "Negro": [
+            "Especial: Restaurar el fósil pluma en el museo de Ciudad Esmalte"
+        ],
+        "Blanco": [
+            "Especial: Restaurar el fósil pluma en el museo de Ciudad Esmalte"
+        ],
+        "Negro 2": [
+            "Especial: Restaurar el fósil pluma en el museo de Ciudad Esmalte"
+        ],
+        "Blanco 2": [
+            "Especial: Restaurar el fósil pluma en el museo de Ciudad Esmalte"
+        ],
+        "Pokémon X": [
+            "Especial: Restaurar el fósil pluma en el Instituto Paleontológico"
+        ],
+        "Pokémon Y": [
+            "Especial: Restaurar el fósil pluma en el Instituto Paleontológico"
+        ],
+        "Rubí Omega": [
+            "Especial: Restaurar el fósil pluma en Devon S. A."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X, Pokémon Y o Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Especial: Restaurar el fósil pluma en la Ruta 8"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Luna o Pokémon Ultraluna"
+        ],
+        "Ultraluna": [
+            "Especial: Restaurar el fósil pluma en la Ruta 8"
+        ],
+        "Espada": [
+            "Salvaje: Suela del Gigante "
+        ],
+        "Escudo": [
+            "Salvaje: Suela del Gigante "
+        ],
+        "Diamante Brillante": [
+            "Archen no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Archen no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Archen no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Pokémon que renació de un fósil. Dicen que es el antepasado de todos los Pokémon pájaro.",
+        "Blanco": "Dicen que es el Pokémon pájaro primigenio. No puede volar, así que solo salta de rama en rama.",
+        "Negro 2": "Ha renacido a partir de fósiles antiguos. Vive en la copa de los árboles y salta de una rama a otra porque no puede volar.",
+        "Blanco 2": "Ha renacido a partir de fósiles antiguos. Vive en la copa de los árboles y salta de una rama a otra porque no puede volar.",
+        "Pokémon X": "Pokémon que renació de un fósil. Dicen que es el antepasado de todos los Pokémon pájaro.",
+        "Pokémon Y": "Dicen que es el Pokémon pájaro primigenio. No puede volar, así que solo salta de rama en rama.",
+        "Rubí Omega": "Pokémon que renació de un fósil. Dicen que es el antepasado de todos los Pokémon pájaro.",
+        "Zafiro Alfa": "Dicen que es el Pokémon pájaro primigenio. No puede volar, así que solo salta de rama en rama.",
+        "Sol": "El antecesor de todo Pokémon pájaro. Como era incapaz de volar, se desplazaba saltando de árbol en árbol.",
+        "Luna": "Al parecer no podía volar, por lo que se lanzaba desde las copas de árboles altos para planear y atrapar así a su presa.",
+        "Ultrasol": "Siempre se ha creído que era el antecesor de los Pokémon pájaro, aunque investigaciones recientes lo ponen en duda.",
+        "Ultraluna": "Este Pokémon pájaro ancestral, regenerado a partir de un fósil, es incapaz de volar pese a tener alas.",
+        "Espada": "Fue regenerado a partir de un fósil. Tal y como apuntaban las investigaciones, no puede volar, pero los saltos son su punto fuerte.",
+        "Escudo": "Se dice que es el antepasado de los Pokémon pájaro. Vivía en las copas de los árboles y se alimentaba de bayas y Pokémon insecto.",
+        "Diamante Brillante": "Archen no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Archen no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Archen no aparece en Leyendas Pokémon: Arceus."
+    }
+}

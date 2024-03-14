@@ -1,0 +1,96 @@
+{
+    "dex number": "0638",
+    "pokemon name": "Cobalion",
+    "types": [
+        " acero",
+        " lucha"
+    ],
+    "abilities": [
+        "Justiciero"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 91,
+        "atk": 90,
+        "def": 129,
+        "atk esp": 90,
+        "def esp": 72,
+        "speed": 108
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Estancia Orientación de la Cueva Loza (solo uno)"
+        ],
+        "Blanco": [
+            "Salvaje: Estancia Orientación de la Cueva Loza (solo uno)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 13 (solo uno)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 13 (solo uno)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Llanura Sinnombre (miércoles, viernes y domingos)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Llanura Sinnombre (miércoles, viernes y domingos)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde (solo uno)"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde (solo uno)"
+        ],
+        "Espada": [
+            "Salvaje: Mar Gélido, tras haber encontrado al menos 50 huellas de Cobalion (solo uno) "
+        ],
+        "Escudo": [
+            "Salvaje: Mar Gélido, tras haber encontrado al menos 50 huellas de Cobalion (solo uno) "
+        ],
+        "Diamante Brillante": [
+            "Cobalion no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cobalion no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cobalion no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Pokémon legendario que luchó contra los humanos para defender a los Pokémon. Es frío y mantiene la serenidad.",
+        "Blanco": "Posee un cuerpo y un corazón de acero. Basta una mirada suya para que Pokémon violentos le obedezcan.",
+        "Negro 2": "Posee cuerpo y alma de acero. Junto a sus compañeros, castiga a aquellas personas que hacen daño a Pokémon.",
+        "Blanco 2": "Posee cuerpo y alma de acero. Junto a sus compañeros, castiga a aquellas personas que hacen daño a Pokémon.",
+        "Pokémon X": "Posee un cuerpo y un corazón de acero. Basta una mirada suya para que Pokémon violentos le obedezcan.",
+        "Pokémon Y": "Posee cuerpo y alma de acero. Junto a sus compañeros, castiga a aquellas personas que hacen daño a Pokémon.",
+        "Rubí Omega": "Posee un cuerpo y un corazón de acero. Basta una mirada suya para que Pokémon violentos le obedezcan.",
+        "Zafiro Alfa": "Posee cuerpo y alma de acero. Junto a sus compañeros, castiga a aquellas personas que hacen daño a Pokémon.",
+        "Sol": "No hay entrada de Cobalion en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Cobalion en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Cobalion en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Cobalion en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Cuenta una leyenda que combatió contra los humanos junto a Terrakion y Virizion para proteger a los Pokémon de Teselia.",
+        "Escudo": "Un líder nato. Incluso los Pokémon más agresivos se muestran dóciles en su presencia.",
+        "Diamante Brillante": "Cobalion no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cobalion no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cobalion no aparece en Leyendas Pokémon: Arceus."
+    }
+}

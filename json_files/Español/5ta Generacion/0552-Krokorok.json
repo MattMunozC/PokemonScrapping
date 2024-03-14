@@ -1,0 +1,105 @@
+{
+    "dex number": "0552",
+    "pokemon name": "Krokorok",
+    "types": [
+        " tierra",
+        " siniestro"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Autoestima"
+    ],
+    "hidden abilities": [
+        "Irascible"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 82,
+        "def": 45,
+        "atk esp": 45,
+        "def esp": 45,
+        "speed": 74
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Castillo Ancestral.",
+            "Evolucionar: a Sandile (Nivel 29)."
+        ],
+        "Blanco": [
+            "Salvaje: Castillo Ancestral.",
+            "Evolucionar: a Sandile (Nivel 29)."
+        ],
+        "Negro 2": [
+            "Salvaje: Castillo Ancestral.",
+            "Evolucionar: a Sandile (Nivel 29)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Castillo Ancestral.",
+            "Evolucionar: a Sandile (Nivel 29)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Sandile (Nivel 29)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Sandile (Nivel 29)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Sandile (Nivel 29)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Sandile (Nivel 29)."
+        ],
+        "Sol": [
+            "Evolucionar: a Sandile (Nivel 29)."
+        ],
+        "Luna": [
+            "Evolucionar: a Sandile (Nivel 29)."
+        ],
+        "Ultrasol": [
+            "Salvaje: Desierto de Haina.",
+            "Evolucionar: a Sandile (nivel 29)."
+        ],
+        "Ultraluna": [
+            "Salvaje: Desierto de Haina.",
+            "Evolucionar: a Sandile (nivel 29)."
+        ],
+        "Espada": [
+            "Salvaje: Cuenca Arenosa ",
+            "Incursiones Dinamax: nidos en Humedal Frescor , Playa Desafío , Ruta Desafío , Cueva Tenacidad , Cuenca Arenosa , Mar Gimnástico , Mar Andana  y Mar Meloso ",
+            "Evolucionar: a Sandile (nivel 29)."
+        ],
+        "Escudo": [
+            "Salvaje: Cuenca Arenosa ",
+            "Incursiones Dinamax: nidos en Humedal Frescor , Playa Desafío , Ruta Desafío , Cueva Tenacidad , Cuenca Arenosa , Mar Gimnástico , Mar Andana  y Mar Meloso ",
+            "Evolucionar: a Sandile (nivel 29)."
+        ],
+        "Diamante Brillante": [
+            "Krokorok no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Krokorok no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Krokorok no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Viven en manadas. La membrana que cubre sus ojos los protege de la arena.",
+        "Blanco": "Una membrana especial cubre sus ojos y le permite detectar el calor de los cuerpos, por eso ve en la oscuridad.",
+        "Negro 2": "Gracias a la película que recubre sus ojos, pueden ver incluso de noche. Viven en pequeñas manadas.",
+        "Blanco 2": "Gracias a la película que recubre sus ojos, pueden ver incluso de noche. Viven en pequeñas manadas.",
+        "Pokémon X": "Viven en manadas. La membrana que cubre sus ojos los protege de la arena.",
+        "Pokémon Y": "Una membrana especial cubre sus ojos y le permite detectar el calor de los cuerpos, por eso ve en la oscuridad.",
+        "Rubí Omega": "Viven en manadas. La membrana que cubre sus ojos los protege de la arena.",
+        "Zafiro Alfa": "Una membrana especial cubre sus ojos y le permite detectar el calor de los cuerpos, por eso ve en la oscuridad.",
+        "Sol": "Viven en manadas. En muchos casos, las hembras ejercen una posición dominante y los machos se encargan de buscar alimento.",
+        "Luna": "La membrana especial que le recubre los ojos le permite discernir con claridad lo que se halla a su alrededor, incluso en plena noche.",
+        "Ultrasol": "Su gran debilidad es el frío, por lo que cuando bajan las temperaturas de noche en el desierto, excava un agujero en la arena y se cobija en él.",
+        "Ultraluna": "Entierra parte de sus presas bajo la arena para reservarlas a modo de víveres de emergencia, en caso de una caza infructuosa.",
+        "Espada": "Es capaz de cazar en plena noche sin perderse gracias a sus ojos especiales, que le permiten ver en la oscuridad.",
+        "Escudo": "Tiene unos ojos especiales que le permiten ver en la oscuridad, pero suele permanecer inmóvil en las frías noches del desierto.",
+        "Diamante Brillante": "Krokorok no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Krokorok no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Krokorok no aparece en Leyendas Pokémon: Arceus."
+    }
+}

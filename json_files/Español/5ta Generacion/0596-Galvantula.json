@@ -1,0 +1,103 @@
+{
+    "dex number": "0596",
+    "pokemon name": "Galvantula",
+    "types": [
+        " bicho",
+        " eléctrico"
+    ],
+    "abilities": [
+        "Ojo compuesto",
+        "Nerviosismo"
+    ],
+    "hidden abilities": [
+        "Enjambre"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 77,
+        "def": 60,
+        "atk esp": 97,
+        "def esp": 60,
+        "speed": 108
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Joltik (nivel 36)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Joltik (nivel 36)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Joltik (nivel 36)",
+            "Dream World: Villa Antigua"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Joltik (nivel 36)",
+            "Dream World: Villa Antigua"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo eléctrico"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo eléctrico"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Joltik (nivel 36)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Joltik (nivel 36)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 7, Gorro del Gigante, Silla del Gigante, Lago Milotic (sur), Lago del Enfado, Lecho del Gigante , Viejo Cementerio , Suela del Gigante , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Lago Milotic (sur), nido al noroeste y Valle Entrepuentes, nido al noreste cerca de los pilares. Con posible habilidad oculta: Arboleda Claroscuro, nido en el centro, Gorro del Gigante, nido al noroeste, Lago del Enfado, nido al noreste junto al lago, Pradera Radiante, nido en la zona de pasto al este, Ribera de Pistón, nido al suroeste y Valle Entrepuentes, nido al este junto a la pared. Nidos en Llano Entrenamiento , Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Evolucionar: a Joltik (nivel 36)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 7, Gorro del Gigante, Silla del Gigante, Lago Milotic (sur), Lago del Enfado, Lecho del Gigante , Viejo Cementerio , Suela del Gigante , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Lago Milotic (sur), nido al noroeste y Valle Entrepuentes, nido al noreste cerca de los pilares. Con posible habilidad oculta: Arboleda Claroscuro, nido en el centro, Gorro del Gigante, nido al noroeste, Lago del Enfado, nido al noreste junto al lago, Pradera Radiante, nido en la zona de pasto al este, Ribera de Pistón, nido al suroeste y Valle Entrepuentes, nido al este junto a la pared. Nidos en Llano Entrenamiento , Campo Bajocero , Lecho del Gigante , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna ",
+            "Evolucionar: a Joltik (nivel 36)"
+        ],
+        "Diamante Brillante": [
+            "Galvantula no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Galvantula no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Galvantula no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Cuando un enemigo lo ataca, expulsa por la boca hilos electrificados para crear una barrera.",
+        "Blanco": "Pone trampas con hilos electrificados. De este modo, electrocuta a sus enemigos y los inmoviliza por completo.",
+        "Negro 2": "Crea una barrera de hilos electrificados que aturde al enemigo, por lo que actúa como defensa y también como arma.",
+        "Blanco 2": "Crea una barrera de hilos electrificados que aturde al enemigo, por lo que actúa como defensa y también como arma.",
+        "Pokémon X": "Pone trampas con hilos electrificados. De este modo, electrocuta a sus enemigos y los inmoviliza por completo.",
+        "Pokémon Y": "Cuando un enemigo lo ataca, expulsa por la boca hilos electrificados para crear una barrera.",
+        "Rubí Omega": "Pone trampas con hilos electrificados. De este modo, electrocuta a sus enemigos y los inmoviliza por completo.",
+        "Zafiro Alfa": "Cuando un enemigo lo ataca, expulsa por la boca hilos electrificados para crear una barrera.",
+        "Sol": "No hay entrada de Galvantula en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Galvantula en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Galvantula en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Galvantula en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Ataca lanzando hilos electrificados por el abdomen, que inmovilizan por completo al enemigo durante tres días y tres noches.",
+        "Escudo": "Teje una tela con hilo electrificado junto a los nidos de Pokémon pájaro para atrapar a los polluelos que aún no saben volar bien.",
+        "Diamante Brillante": "Galvantula no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Galvantula no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Galvantula no aparece en Leyendas Pokémon: Arceus."
+    }
+}

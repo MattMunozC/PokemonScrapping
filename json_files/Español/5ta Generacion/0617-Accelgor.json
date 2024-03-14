@@ -1,0 +1,100 @@
+{
+    "dex number": "0617",
+    "pokemon name": "Accelgor",
+    "types": [
+        " bicho"
+    ],
+    "abilities": [
+        "Hidratación",
+        "Viscosidad"
+    ],
+    "hidden abilities": [
+        "Liviano"
+    ],
+    "stats": {
+        "hp": 80,
+        "atk": 70,
+        "def": 40,
+        "atk esp": 100,
+        "def esp": 60,
+        "speed": 145
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Shelmet (intercambio por Karrablast)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Shelmet (intercambio por Karrablast)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Shelmet (intercambio por Karrablast)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Shelmet (intercambio por Karrablast)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Shelmet (intercambio por Karrablast)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Shelmet (intercambio por Karrablast)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Concentración  y Llano Entrenamiento ",
+            "Aventura Dinamax ",
+            "Evolucionar: a Shelmet (intercambio por Karrablast)",
+            "Incursiones Dinamax: Nidos en Prado Reverencia , Bosque Concentración  y Mar Gimnástico "
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Concentración  y Llano Entrenamiento ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares. Nidos en Prado Reverencia , Bosque Concentración  y Mar Gimnástico ",
+            "Evolucionar: a Shelmet (intercambio por Karrablast)"
+        ],
+        "Diamante Brillante": [
+            "Accelgor no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Accelgor no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Accelgor no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Los ambientes secos lo debilitan. Evita la sequedad envolviéndose en muchas membranas finas superpuestas.",
+        "Blanco": "Se siente ligero una vez liberado de su caparazón. Lucha y se mueve como un ninja.",
+        "Negro 2": "Su cuerpo se debilita al deshidratarse, por lo que se envuelve en una membrana protectora mientras escupe veneno.",
+        "Blanco 2": "Su cuerpo se debilita al deshidratarse, por lo que se envuelve en una membrana protectora mientras escupe veneno.",
+        "Pokémon X": "Se siente ligero una vez liberado de su caparazón. Lucha y se mueve como un ninja.",
+        "Pokémon Y": "Los ambientes secos lo debilitan. Evita la sequedad envolviéndose en muchas membranas finas superpuestas.",
+        "Rubí Omega": "Se siente ligero una vez liberado de su caparazón. Lucha y se mueve como un ninja.",
+        "Zafiro Alfa": "Los ambientes secos lo debilitan. Evita la sequedad envolviéndose en muchas membranas finas superpuestas.",
+        "Sol": "No hay entrada de Accelgor en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Accelgor en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Accelgor en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Accelgor en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Lucha escupiendo veneno y moviéndose a una velocidad de vértigo. Ha protagonizado películas y cómics de gran éxito.",
+        "Escudo": "Tras deshacerse del caparazón, su agilidad ha aumentado. Las membranas que le recubren el cuerpo evitan que se deshidrate.",
+        "Diamante Brillante": "Accelgor no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Accelgor no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Accelgor no aparece en Leyendas Pokémon: Arceus."
+    }
+}

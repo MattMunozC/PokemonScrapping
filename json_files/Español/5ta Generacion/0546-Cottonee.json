@@ -1,0 +1,101 @@
+{
+    "dex number": "0546",
+    "pokemon name": "Cottonee",
+    "types": [
+        " planta",
+        " hada"
+    ],
+    "abilities": [
+        "Bromista",
+        "Allanamiento"
+    ],
+    "hidden abilities": [
+        "Clorofila"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 27,
+        "def": 60,
+        "atk esp": 37,
+        "def esp": 50,
+        "speed": 66
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Bosque Azulejo, Bosque de los Perdidos y Santuario Abundancia"
+        ],
+        "Blanco": [
+            "Intercambiar: por un Petilil a una chica en Ciudad Esmalte"
+        ],
+        "Negro 2": [
+            "Salvaje: Solar de Ciudad Porcelana, Bosque de los Perdidos, Bosque Azulejo, Santuario Abundancia y Calle Victoria",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Blanco 2": [
+            "Intercambiar: por un Petilil a un chico en la Ruta 4",
+            "Dream World: Bosque Pequeño"
+        ],
+        "Pokémon X": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque Petalia, usando el DexNav tras obtener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque Petalia, usando el DexNav tras obtener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Salvaje: Jardines de Melemele, Parque de Malíe, Jardines de Ula-Ula, Llanura de Poni y Jardines de Poni"
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Salvaje: Jardines de Melemele, Parque de Malíe, Jardines de Ula-Ula, Llanura de Poni y Jardines de Poni"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Salvaje: Llanura Pétrea",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro.",
+            "Intercambiar: por un Minccino a una chica en Pueblo Amura"
+        ],
+        "Escudo": [
+            "Salvaje: Llanura Pétrea",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al este junto al lago, Arboleda Claroscuro, nido al sur, Espejo del Gigante, nido al norte, Llanura Pétrea, nido al norte 1 y Valle Entrepuentes, nido en el centro.",
+            "Intercambiar: por un Minccino a una chica en Pueblo Amura"
+        ],
+        "Diamante Brillante": [
+            "Cottonee no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Cottonee no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Cottonee no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Despide motas de algodón cuando lo atacan para confundir a los enemigos y poner pies en polvorosa.",
+        "Blanco": "Se deja llevar por las ráfagas de viento. Cuando llueve, su cuerpo pesa mucho, así que se guarece bajo árboles grandes.",
+        "Negro 2": "Quizá por el hecho de que se relajan al estar con los suyos, forman un grupo al encontrar amigos y parecen nubes.",
+        "Blanco 2": "Quizá por el hecho de que se relajan al estar con los suyos, forman un grupo al encontrar amigos y parecen nubes.",
+        "Pokémon X": "Despide motas de algodón cuando lo atacan para confundir a los enemigos y poner pies en polvorosa.",
+        "Pokémon Y": "Quizá por el hecho de que se relajan al estar con los suyos, forman un grupo al encontrar amigos y parecen nubes.",
+        "Rubí Omega": "Despide motas de algodón cuando lo atacan para confundir a los enemigos y poner pies en polvorosa.",
+        "Zafiro Alfa": "Quizá por el hecho de que se relajan al estar con los suyos, forman un grupo al encontrar amigos y parecen nubes.",
+        "Sol": "Cuando se encuentran con amigos, se agrupan. Si son muchos, a veces pueden llegar a adquirir un aspecto semejante al de un cúmulo de nubes.",
+        "Luna": "Los colchones o almohadas rellenos del algodón que suelta Cottonee son un producto de alta calidad por su ligereza y transpirabilidad.",
+        "Ultrasol": "Lanza bolas de algodón como defensa. Cuando llueve y se moja, se vuelve tan pesado que le resulta difícil moverse.",
+        "Ultraluna": "Cuando lo atacan despide bolas de algodón a modo de señuelo. Estas, sin embargo, vuelven a crecer enseguida.",
+        "Espada": "Lanza bolas de algodón para defenderse. A veces, la fuerza de un tifón llega a arrastrarlo hasta el otro extremo del mundo.",
+        "Escudo": "Combinando los algodones de los Cottonee y Eldegoss se obtiene una tela exquisita, que usan las marcas más exclusivas.",
+        "Diamante Brillante": "Cottonee no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Cottonee no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Cottonee no aparece en Leyendas Pokémon: Arceus."
+    }
+}

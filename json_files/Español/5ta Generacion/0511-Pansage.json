@@ -1,0 +1,99 @@
+{
+    "dex number": "0511",
+    "pokemon name": "Pansage",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Espesura"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 53,
+        "def": 48,
+        "atk esp": 53,
+        "def esp": 48,
+        "speed": 64
+    },
+    "location": {
+        "Negro": [
+            " Especial: Regalo en el Solar de los Sueños, sólo si elegiste a Tepig como inicial.",
+            " Especial: Puede salir del huevo entregado por un evento de este juego.",
+            "Salvaje: Bosque Azulejo, y Bosque de los Perdidos, cuando la hierba se mueve."
+        ],
+        "Blanco": [
+            " Especial: Regalo en el Solar de los Sueños, sólo si elegiste a Tepig como inicial.",
+            " Especial: Puede salir del huevo entregado por un evento de este juego.",
+            "Salvaje: Bosque Azulejo, y Bosque de los Perdidos, cuando la hierba se mueve."
+        ],
+        "Negro 2": [
+            "Salvaje: Bosque Azulejo, y Bosque de los Perdidos, cuando la hierba se mueve."
+        ],
+        "Blanco 2": [
+            "Salvaje: Bosque Azulejo, y Bosque de los Perdidos, cuando la hierba se mueve."
+        ],
+        "Pokémon X": [
+            "Salvaje: Bosque de Novarte.",
+            "Safari Amistad"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Bosque de Novarte.",
+            "Safari Amistad"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Pansage no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Pansage no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Pansage no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pansage no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pansage no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Vive en lo más profundo del bosque. El agotamiento se desvanece con solo comer hojas de su cabeza.",
+        "Blanco": "Comparte las hojas de su cabeza con Pokémon agotados. Posee la facultad de aliviar el cansancio.",
+        "Negro 2": "Es todo un experto en la búsqueda de bayas y es tan gentil que las comparte con todos sus compañeros.",
+        "Blanco 2": "Es todo un experto en la búsqueda de bayas y es tan gentil que las comparte con todos sus compañeros.",
+        "Pokémon X": "Comparte las hojas de su cabeza con Pokémon agotados. Posee la facultad de aliviar el cansancio.",
+        "Pokémon Y": "Es todo un experto en la búsqueda de bayas y es tan gentil que las comparte con todos sus compañeros.",
+        "Rubí Omega": "Comparte las hojas de su cabeza con Pokémon agotados. Posee la facultad de aliviar el cansancio.",
+        "Zafiro Alfa": "Es todo un experto en la búsqueda de bayas y es tan gentil que las comparte con todos sus compañeros.",
+        "Sol": "No hay entrada de Pansage en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Pansage en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Pansage en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Pansage en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Pansage no aparece en Pokémon Espada.",
+        "Escudo": "Pansage no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Pansage no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pansage no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pansage no aparece en Leyendas Pokémon: Arceus."
+    }
+}

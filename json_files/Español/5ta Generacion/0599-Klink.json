@@ -1,0 +1,102 @@
+{
+    "dex number": "0599",
+    "pokemon name": "Klink",
+    "types": [
+        " acero"
+    ],
+    "abilities": [
+        "Más",
+        "Menos"
+    ],
+    "hidden abilities": [
+        "Cuerpo puro"
+    ],
+    "stats": {
+        "hp": 40,
+        "atk": 55,
+        "def": 70,
+        "atk esp": 45,
+        "def esp": 60,
+        "speed": 30
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Cueva Electrorroca y Laboratorio P+P"
+        ],
+        "Blanco": [
+            "Salvaje: Cueva Electrorroca y Laboratorio P+P"
+        ],
+        "Negro 2": [
+            "Salvaje: Cueva Electrorroca",
+            "Pokémon de N: Cueva Electrorroca (solo uno)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Cueva Electrorroca",
+            "Pokémon de N: Cueva Electrorroca (solo uno)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Espejismo"
+        ],
+        "Sol": [
+            "Escáner insular: en Ciudad Hauoli (jueves)"
+        ],
+        "Luna": [
+            "Escáner insular: en Ciudad Hauoli (jueves)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 3, Lago Milotic (norte), Lago Milotic (sur), Ojo de Axew, Arboleda Claroscuro, Lago Axew (oeste) y Cornisa de Artejo",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte",
+            "Curri: Ruta 3"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 3, Lago Milotic (norte), Lago Milotic (sur), Ojo de Axew, Arboleda Claroscuro, Lago Axew (oeste) y Cornisa de Artejo",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Llanura Pétrea, nido al sureste, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte",
+            "Curri: Ruta 3"
+        ],
+        "Diamante Brillante": [
+            "Klink no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Klink no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Klink no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "La combinación de sus dos cuerpos es predeterminada. Si no se corresponde con su homólogo, se separa.",
+        "Blanco": "Genera la energía vital que necesita haciendo girar sus dos cuerpos.",
+        "Negro 2": "La combinación fija de dos cuerpos le permite generar energía cuando se ponen a girar.",
+        "Blanco 2": "La combinación fija de dos cuerpos le permite generar energía cuando se ponen a girar.",
+        "Pokémon X": "Genera la energía vital que necesita haciendo girar sus dos cuerpos.",
+        "Pokémon Y": "La combinación de sus dos cuerpos es predeterminada. Si no se corresponde con su homólogo, se separa.",
+        "Rubí Omega": "Genera la energía vital que necesita haciendo girar sus dos cuerpos.",
+        "Zafiro Alfa": "La combinación de sus dos cuerpos es predeterminada. Si no se corresponde con su homólogo, se separa.",
+        "Sol": "No hay entrada de Klink en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Klink en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Klink en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Klink en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Los dos cuerpos que lo componen están más unidos que unos gemelos. Si intentaran acoplarse a otros, no lograrían encajar.",
+        "Escudo": "Se dice que en tiempos remotos los seres humanos se inspiraron en este Pokémon para inventar el mecanismo de engranaje.",
+        "Diamante Brillante": "Klink no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Klink no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Klink no aparece en Leyendas Pokémon: Arceus."
+    }
+}

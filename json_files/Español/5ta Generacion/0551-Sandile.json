@@ -1,0 +1,101 @@
+{
+    "dex number": "0551",
+    "pokemon name": "Sandile",
+    "types": [
+        " tierra",
+        " siniestro"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Autoestima"
+    ],
+    "hidden abilities": [
+        "Irascible"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 72,
+        "def": 35,
+        "atk esp": 35,
+        "def esp": 35,
+        "speed": 65
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 4 (Teselia), Zona Desierto y Castillo Ancestral"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 4 (Teselia), Zona Desierto y Castillo Ancestral"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 4 (Teselia), Zona Desierto y Castillo Ancestral",
+            "Especial: Zona Desierto al usar el Nexo Recuerdo"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 4 (Teselia), Zona Desierto y Castillo Ancestral",
+            "Especial: Zona Desierto al usar el Nexo Recuerdo"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 9",
+            "Especial: Safari Amistad, en algunos safaris de tipo siniestro"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 9",
+            "Especial: Safari Amistad, en algunos safaris de tipo siniestro"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 111, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 111, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Salvaje: Desierto de Haina"
+        ],
+        "Luna": [
+            "Salvaje: Desierto de Haina"
+        ],
+        "Ultrasol": [
+            "Criar: de Krokorok o Krookodile"
+        ],
+        "Ultraluna": [
+            "Criar: de Krokorok o Krookodile"
+        ],
+        "Espada": [
+            "Salvaje: Cuenca Arenosa ",
+            "Incursiones Dinamax: nidos en Playa Desafío , Cueva Tenacidad , Cuenca Arenosa  y Mar Andana "
+        ],
+        "Escudo": [
+            "Salvaje: Cuenca Arenosa ",
+            "Incursiones Dinamax: nidos en Playa Desafío , Cueva Tenacidad , Cuenca Arenosa  y Mar Andana "
+        ],
+        "Diamante Brillante": [
+            "Sandile no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Sandile no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Sandile no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Vive en las arenas desérticas, donde las altas temperaturas de las mismas evitan que su cuerpo se enfríe.",
+        "Blanco": "Se desplaza hundido en la arena, dejando al descubierto solo los ojos y la nariz. Una membrana negra le protege los ojos.",
+        "Negro 2": "Viven en los desiertos y se sumergen en las cálidas arenas para que su temperatura corporal no se reduzca.",
+        "Blanco 2": "Viven en los desiertos y se sumergen en las cálidas arenas para que su temperatura corporal no se reduzca.",
+        "Pokémon X": "Se desplaza hundido en la arena, dejando al descubierto solo los ojos y la nariz. Una membrana negra le protege los ojos.",
+        "Pokémon Y": "Vive en las arenas desérticas, donde las altas temperaturas de las mismas evitan que su cuerpo se enfríe.",
+        "Rubí Omega": "Se desplaza hundido en la arena, dejando al descubierto solo los ojos y la nariz. Una membrana negra le protege los ojos.",
+        "Zafiro Alfa": "Vive en las arenas desérticas, donde las altas temperaturas de las mismas evitan que su cuerpo se enfríe.",
+        "Sol": "Se desplaza sumergido bajo la arena, como si nadase. Así se esconde de sus enemigos y evita que descienda su temperatura corporal.",
+        "Luna": "Se desplaza hundido en la arena y atrapa a las presas incautas de la superficie mordiéndoles la pata. Su manjar favorito son los Trapinch.",
+        "Ultrasol": "El hábitat de Alola, cálido durante todo el año, es ideal para este Pokémon, por lo que también se le puede ver fuera del desierto.",
+        "Ultraluna": "Se nutre principalmente de cadáveres hallados en la arena, debido a su ineptitud para la caza. De ahí su apodo: el barrendero del desierto.",
+        "Espada": "En las frías noches del desierto se oculta a mucha profundidad en la arena y duerme hasta que sale el sol.",
+        "Escudo": "Es pequeño, pero cuenta con un tren inferior fuerte. Se desplaza por el desierto abriéndose paso entre la arena, como si nadase.",
+        "Diamante Brillante": "Sandile no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Sandile no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Sandile no aparece en Leyendas Pokémon: Arceus."
+    }
+}

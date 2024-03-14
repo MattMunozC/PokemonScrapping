@@ -1,0 +1,100 @@
+{
+    "dex number": "0545",
+    "pokemon name": "Scolipede",
+    "types": [
+        " bicho",
+        " veneno"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Punto tóxico"
+    ],
+    "hidden abilities": [
+        "Pies rápidos",
+        "Impulso"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 100,
+        "def": 89,
+        "atk esp": 55,
+        "def esp": 69,
+        "speed": 112
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Whirlipede (nivel 30)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Whirlipede (nivel 30)"
+        ],
+        "Negro 2": [
+            "Salvaje: Bosque Azulejo, cuando la hierba se mueve.",
+            "Evolucionar: a Whirlipede (nivel 30)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Bosque Azulejo, cuando la hierba se mueve.",
+            "Evolucionar: a Whirlipede (nivel 30)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Whirlipede (nivel 30)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Whirlipede (nivel 30)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Evolucionar: a Whirlipede (nivel 30)"
+        ],
+        "Luna": [
+            "Evolucionar: a Whirlipede (nivel 30)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Evolucionar: a Whirlipede (nivel 30)",
+            "Salvaje: Bosque Concentración "
+        ],
+        "Escudo": [
+            "Evolucionar: a Whirlipede (nivel 30)",
+            "Salvaje: Bosque Concentración "
+        ],
+        "Diamante Brillante": [
+            "Scolipede no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Scolipede no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Scolipede no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Arrincona a sus rivales con rápidos movimientos y los ensarta con sus cuernos. No se detiene hasta vencer.",
+        "Blanco": "Las garras del cuello contienen un potente veneno capaz de acabar con sus rivales. Es muy agresivo.",
+        "Negro 2": "Atenaza a sus presas con las garras que sobresalen de su cuello hasta que no se pueden mover y las remata con veneno.",
+        "Blanco 2": "Atenaza a sus presas con las garras que sobresalen de su cuello hasta que no se pueden mover y las remata con veneno.",
+        "Pokémon X": "Atenaza a sus presas con las garras que sobresalen de su cuello hasta que no se pueden mover y las remata con veneno.",
+        "Pokémon Y": "Arrincona a sus rivales con rápidos movimientos y los ensarta con sus cuernos. No se detiene hasta vencer.",
+        "Rubí Omega": "Atenaza a sus presas con las garras que sobresalen de su cuello hasta que no se pueden mover y las remata con veneno.",
+        "Zafiro Alfa": "Arrincona a sus rivales con rápidos movimientos y los ensarta con sus cuernos. No se detiene hasta vencer.",
+        "Sol": "No hay entrada de Scolipede en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Scolipede en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Scolipede en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Scolipede en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Usa las garras que le sobresalen del cuello para atrapar a su presa, golpearla contra el suelo y rematarla inoculando un potente veneno.",
+        "Escudo": "Las disputas territoriales con Centiskorch son extremadamente violentas. El perdedor se convierte en la presa del ganador.",
+        "Diamante Brillante": "Scolipede no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Scolipede no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Scolipede no aparece en Leyendas Pokémon: Arceus."
+    }
+}

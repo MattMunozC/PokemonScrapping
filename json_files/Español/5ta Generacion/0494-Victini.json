@@ -1,0 +1,98 @@
+{
+    "dex number": "0494",
+    "pokemon name": "Victini",
+    "types": [
+        " psíquico",
+        " fuego"
+    ],
+    "abilities": [
+        "Tinovictoria"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 100,
+        "def": 100,
+        "atk esp": 100,
+        "def esp": 100,
+        "speed": 100
+    },
+    "location": {
+        "Negro": [
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Blanco": [
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Negro 2": [
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Blanco 2": [
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir de Pokémon Negro y Pokémon Blanco o Pokémon Negro 2 y Pokémon Blanco 2.",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir de Pokémon Negro y Pokémon Blanco o Pokémon Negro 2 y Pokémon Blanco 2.",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Rubí Omega": [
+            "Poké Trasladador: Transferir de Pokémon Negro y Pokémon Blanco o Pokémon Negro 2 y Pokémon Blanco 2.",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Zafiro Alfa": [
+            "Poké Trasladador: Transferir de Pokémon Negro y Pokémon Blanco o Pokémon Negro 2 y Pokémon Blanco 2.",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores.",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Escudo": [
+            "Pokémon HOME: Transferir desde videojuegos anteriores.",
+            "Evento: Repartido por evento (ver más abajo)."
+        ],
+        "Diamante Brillante": [
+            "Victini no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Victini no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Victini no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Pokémon que atrae la victoria. Dicen que el Entrenador que lo lleve saldrá vencedor de cualquier batalla.",
+        "Blanco": "Genera energía ilimitada en el interior de su cuerpo. Es capaz de compartirla con todo aquel que lo toca.",
+        "Negro 2": "Cuando Victini comparte su energía ilimitada, esa persona o Pokémon irradia abundante poder.",
+        "Blanco 2": "Cuando Victini comparte su energía ilimitada, esa persona o Pokémon irradia abundante poder.",
+        "Pokémon X": "Pokémon que atrae la victoria. Dicen que el Entrenador que lo lleve saldrá vencedor de cualquier batalla.",
+        "Pokémon Y": "Cuando Victini comparte su energía ilimitada, esa persona o Pokémon irradia abundante poder.",
+        "Rubí Omega": "Pokémon que atrae la victoria. Dicen que el Entrenador que lo lleve saldrá vencedor de cualquier batalla.",
+        "Zafiro Alfa": "Cuando Victini comparte su energía ilimitada, esa persona o Pokémon irradia abundante poder.",
+        "Sol": "No hay entrada de Victini en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Victini en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Victini en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Victini en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "No hay entrada de Victini en la Pokédex de Pokémon Espada.",
+        "Escudo": "No hay entrada de Victini en la Pokédex de Pokémon Escudo.",
+        "Diamante Brillante": "Victini no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Victini no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Victini no aparece en Leyendas Pokémon: Arceus."
+    }
+}

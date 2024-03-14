@@ -1,0 +1,99 @@
+{
+    "dex number": "0589",
+    "pokemon name": "Escavalier",
+    "types": [
+        " bicho",
+        " acero"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Caparazón"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 135,
+        "def": 105,
+        "atk esp": 60,
+        "def esp": 105,
+        "speed": 20
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Karrablast (intercambio por Shelmet)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Karrablast (intercambio por Shelmet)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Karrablast (intercambio por Shelmet)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Karrablast (intercambio por Shelmet)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Karrablast (intercambio por Shelmet)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Karrablast (intercambio por Shelmet)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Concentración  y Llano Entrenamiento ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Arboleda Claroscuro, nido en el centro, Lago Milotic (sur), nido al noroeste, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido en la zona de pasto al este, Valle Entrepuentes, nido al este junto a la pared y Valle Entrepuentes, nido al noreste cerca de los pilares. Nidos en Prado Reverencia , Bosque Concentración  y Mar Gimnástico ",
+            "Evolucionar: a Karrablast (intercambio por Shelmet)"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Concentración  y Llano Entrenamiento ",
+            "Incursiones Dinamax: Nidos en Prado Reverencia , Bosque Concentración  y Mar Gimnástico ",
+            "Evolucionar: a Karrablast (intercambio por Shelmet)"
+        ],
+        "Diamante Brillante": [
+            "Escavalier no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Escavalier no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Escavalier no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Ataca a los enemigos con sus lanzas a una velocidad frenética. Se enfrenta con valentía aun con rivales poderosos.",
+        "Blanco": "Pokémon que evolucionó poniéndose el caparazón de Shelmet. Su armazón de acero le protege todo el cuerpo.",
+        "Negro 2": "Se defiende de los ataques con el caparazón que roba a los Shelmet. Atacan con sus dos mortíferas lanzas.",
+        "Blanco 2": "Se defiende de los ataques con el caparazón que roba a los Shelmet. Atacan con sus dos mortíferas lanzas.",
+        "Pokémon X": "Se defiende de los ataques con el caparazón que roba a los Shelmet. Atacan con sus dos mortíferas lanzas.",
+        "Pokémon Y": "Pokémon que evolucionó poniéndose el caparazón de Shelmet. Su armazón de acero le protege todo el cuerpo.",
+        "Rubí Omega": "Se defiende de los ataques con el caparazón que roba a los Shelmet. Atacan con sus dos mortíferas lanzas.",
+        "Zafiro Alfa": "Pokémon que evolucionó poniéndose el caparazón de Shelmet. Su armazón de acero le protege todo el cuerpo.",
+        "Sol": "No hay entrada de Escavalier en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Escavalier en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Escavalier en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Escavalier en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Le roba el caparazón a un Shelmet y lo usa como armadura. Este Pokémon es extremadamente popular en la región de Galar.",
+        "Escudo": "Ataca a los enemigos con sus lanzas. Aparece representado en pleno duelo contra un Sirfetch'd en un famoso cuadro.",
+        "Diamante Brillante": "Escavalier no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Escavalier no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Escavalier no aparece en Leyendas Pokémon: Arceus."
+    }
+}

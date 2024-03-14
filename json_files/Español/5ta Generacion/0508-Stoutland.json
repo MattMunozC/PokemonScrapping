@@ -1,0 +1,104 @@
+{
+    "dex number": "0508",
+    "pokemon name": "Stoutland",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Intimidación",
+        "Ímpetu arena"
+    ],
+    "hidden abilities": [
+        "Intrépido"
+    ],
+    "stats": {
+        "hp": 85,
+        "atk": 110,
+        "def": 90,
+        "atk esp": 45,
+        "def esp": 90,
+        "speed": 80
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 10, Almacenes Frigoríficos y Laboratorio P+P.",
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 10, Almacenes Frigoríficos y Laboratorio P+P.",
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 1, Ruta 2, Ruta 3 y Laboratorio P+P.",
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 1, Ruta 2, Ruta 3 y Laboratorio P+P.",
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Sol": [
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Luna": [
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Espada": [
+            "Salvaje: Llano Entrenamiento ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Humedal Frescor , Mar Andana  y Mar Islejos ",
+            "Aventura Dinamax ",
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Escudo": [
+            "Salvaje: Llano Entrenamiento ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Humedal Frescor , Mar Andana  y Mar Islejos ",
+            "Aventura Dinamax ",
+            "Evolucionar: a Herdier (nivel 32)."
+        ],
+        "Diamante Brillante": [
+            "Stoutland no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Stoutland no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Stoutland no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Socorre a humanos perdidos en montañas azotadas por ventiscas. Su largo pelaje le protege del frío.",
+        "Blanco": "Es especialista en socorrer a personas extraviadas en el mar o en las montañas. Es muy inteligente.",
+        "Negro 2": "Un humano podría pasar una noche gélida en las montañas sin pasar frío si se tapara con algo de su largo y tupido pelaje.",
+        "Blanco 2": "Un humano podría pasar una noche gélida en las montañas sin pasar frío si se tapara con algo de su largo y tupido pelaje.",
+        "Pokémon X": "Socorre a humanos perdidos en montañas azotadas por ventiscas. Su largo pelaje le protege del frío.",
+        "Pokémon Y": "Un humano podría pasar una noche gélida en las montañas sin pasar frío si se tapara con algo de su largo y tupido pelaje.",
+        "Rubí Omega": "Socorre a humanos perdidos en montañas azotadas por ventiscas. Su largo pelaje le protege del frío.",
+        "Zafiro Alfa": "Un humano podría pasar una noche gélida en las montañas sin pasar frío si se tapara con algo de su largo y tupido pelaje.",
+        "Sol": "A su inteligencia y carácter afable se suma su valentía. Presta una ayuda inestimable a los equipos de rescate.",
+        "Luna": "Debido a su inteligencia y a lo manso que se muestra al tratar con personas, algunos padres confían en él incluso para proteger a sus hijos.",
+        "Ultrasol": "El largo y cálido pelaje le permite soportar sin ningún problema el frío, pero resulta un poco asfixiante en Alola.",
+        "Ultraluna": "Posee un largo y tupido pelaje. En las regiones frías no había antaño una casa que no tuviese un Stoutland.",
+        "Espada": "Parece ser que le gusta vivir con personas. En tan solo tres días ya le coge cariño a cualquiera que lo haya atrapado en estado salvaje.",
+        "Escudo": "Sus impresionantes bigotes son su orgullo. Entre los de su especie se establece una jerarquía según su longitud.",
+        "Diamante Brillante": "Stoutland no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Stoutland no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Stoutland no aparece en Leyendas Pokémon: Arceus."
+    }
+}

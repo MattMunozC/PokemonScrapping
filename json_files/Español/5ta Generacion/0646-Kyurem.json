@@ -1,0 +1,102 @@
+{
+    "dex number": "0646",
+    "pokemon name": "Kyurem",
+    "types": [
+        " dragón",
+        " hielo"
+    ],
+    "abilities": [
+        "Presión",
+        "Terravoltaje",
+        "Turbollama"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 125,
+        "atk": 130,
+        "def": 90,
+        "atk esp": 130,
+        "def esp": 90,
+        "speed": 95
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Boquete Gigante (solo uno)"
+        ],
+        "Blanco": [
+            "Salvaje: Boquete Gigante (solo uno)"
+        ],
+        "Negro 2": [
+            "Salvaje: Boquete Gigante, después de haber capturado a Zekrom en la Torre Duodraco (solo uno)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Boquete Gigante, después de haber capturado a Reshiram en la Torre Duodraco (solo uno)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Evento: Repartido por evento (ver más abajo)",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Boquete Irregular (solo uno)",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Boquete Irregular (solo uno)",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul con Reshiram y Zekrom en el equipo (solo uno)"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral azul con Reshiram y Zekrom en el equipo (solo uno)"
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Aventura Dinamax "
+        ],
+        "Diamante Brillante": [
+            "Kyurem no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Kyurem no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Kyurem no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Produce en su interior una intensa energía gélida, y cualquier fuga hace que su cuerpo se congele.",
+        "Blanco": "Puede crear corrientes de aire tremendamente frías, pero al final acaba congelando su propio cuerpo.",
+        "Negro 2": "Pokémon legendario que aguarda al héroe que compense el vacío de su cuerpo de hielo con verdad e ideales.",
+        "Blanco 2": "Pokémon legendario que aguarda al héroe que compense el vacío de su cuerpo de hielo con verdad e ideales.",
+        "Pokémon X": "Pokémon legendario que aguarda al héroe que compense el vacío de su cuerpo de hielo con verdad e ideales.",
+        "Pokémon Y": "Produce en su interior una intensa energía gélida, y cualquier fuga hace que su cuerpo se congele.",
+        "Rubí Omega": "Pokémon legendario que aguarda al héroe que compense el vacío de su cuerpo de hielo con verdad e ideales.",
+        "Zafiro Alfa": "Produce en su interior una intensa energía gélida, y cualquier fuga hace que su cuerpo se congele.",
+        "Sol": "No hay entrada de Kyurem en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Kyurem en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Kyurem en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Kyurem en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "\nForma normal: Su poder supera al de Reshiram y Zekrom, pero permanece sellado por el frío extremo que genera.\nKyurem blanco: Tras la fusión con Reshiram, con el que comparte el ADN, puede absorber y controlar las energías del fuego y el hielo.\nKyurem negro: Se dice que lucha con el objetivo de defender el mundo ideal para humanos y Pokémon que se hará realidad en el futuro.",
+        "Escudo": "\nForma normal: Mantiene su cuerpo congelado con la intensa energía gélida que él mismo produce para estabilizar su estructura celular.\nKyurem blanco: Como heraldo del mundo verdadero que ha de llegar para humanos y Pokémon, ha asumido la misión de protegerlo.\nKyurem negro: Tras la fusión con Zekrom, con el que comparte el ADN, puede absorber y controlar la energía eléctrica y la energía del hielo.",
+        "Diamante Brillante": "Kyurem no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Kyurem no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Kyurem no aparece en Leyendas Pokémon: Arceus."
+    }
+}

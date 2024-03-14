@@ -1,0 +1,99 @@
+{
+    "dex number": "0541",
+    "pokemon name": "Swadloon",
+    "types": [
+        " bicho",
+        " planta"
+    ],
+    "abilities": [
+        "Defensa hoja",
+        "Clorofila"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 63,
+        "def": 90,
+        "atk esp": 50,
+        "def esp": 80,
+        "speed": 42
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 6, Bosque Azulejo, Bosque de los Perdidos",
+            "Evolucionar: a Sewaddle (Nivel 20)."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 6, Bosque Azulejo, Bosque de los Perdidos",
+            "Evolucionar: a Sewaddle (Nivel 20)."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 6, Bosque Azulejo, Bosque de los Perdidos",
+            "Evolucionar: a Sewaddle (Nivel 20)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 6, Bosque Azulejo, Bosque de los Perdidos",
+            "Evolucionar: a Sewaddle (Nivel 20)."
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo planta."
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo planta."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Sewaddle (Nivel 20)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Sewaddle (Nivel 20)."
+        ],
+        "Sol": [
+            "Evolucionar: a Sewaddle (Nivel 20)."
+        ],
+        "Luna": [
+            "Evolucionar: a Sewaddle (Nivel 20)."
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Sewaddle (Nivel 20)."
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Sewaddle (Nivel 20)."
+        ],
+        "Espada": [
+            "Swadloon no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Swadloon no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Swadloon no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Swadloon no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Swadloon no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "La vegetación abunda en los bosques que habita. Este Pokémon transforma las hojas caídas en nutrientes.",
+        "Blanco": "Se guarece del frío envolviéndose en hojas. Se desplaza por el bosque comiendo a su paso las hojas caídas.",
+        "Negro 2": "Le gustan los lugares lóbregos y húmedos. Se pasa todo el día comiendo las hojas esparcidas por el suelo.",
+        "Blanco 2": "Le gustan los lugares lóbregos y húmedos. Se pasa todo el día comiendo las hojas esparcidas por el suelo.",
+        "Pokémon X": "La vegetación abunda en los bosques que habita. Este Pokémon transforma las hojas caídas en nutrientes.",
+        "Pokémon Y": "Se guarece del frío envolviéndose en hojas. Se desplaza por el bosque comiendo a su paso las hojas caídas.",
+        "Rubí Omega": "La vegetación abunda en los bosques que habita. Este Pokémon transforma las hojas caídas en nutrientes.",
+        "Zafiro Alfa": "Se guarece del frío envolviéndose en hojas. Se desplaza por el bosque comiendo a su paso las hojas caídas.",
+        "Sol": "No hay entrada de Swadloon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Swadloon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Swadloon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Swadloon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Swadloon no aparece en Pokémon Espada.",
+        "Escudo": "Swadloon no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Swadloon no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Swadloon no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Swadloon no aparece en Leyendas Pokémon: Arceus."
+    }
+}

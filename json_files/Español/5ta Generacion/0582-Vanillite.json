@@ -1,0 +1,96 @@
+{
+    "dex number": "0582",
+    "pokemon name": "Vanillite",
+    "types": [
+        " hielo"
+    ],
+    "abilities": [
+        "Gélido",
+        "Manto níveo"
+    ],
+    "hidden abilities": [
+        "Armadura frágil"
+    ],
+    "stats": {
+        "hp": 36,
+        "atk": 50,
+        "def": 50,
+        "atk esp": 65,
+        "def esp": 60,
+        "speed": 44
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Almacenes Frigoríficos. Invierno: Ruta 6 y Torre Duodraco"
+        ],
+        "Blanco": [
+            "Salvaje: Almacenes Frigoríficos. Invierno: Ruta 6 y Torre Duodraco"
+        ],
+        "Negro 2": [
+            "Criar: de Vanillish o Vanilluxe."
+        ],
+        "Blanco 2": [
+            "Criar: de Vanillish o Vanilluxe."
+        ],
+        "Pokémon X": [
+            "Salvaje: Gruta Helada (encuentro de horda)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Gruta Helada (encuentro de horda)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            " Salvaje: Aldea Tapu (como refuerzo en granizo)"
+        ],
+        "Luna": [
+            " Salvaje: Aldea Tapu (como refuerzo en granizo)"
+        ],
+        "Ultrasol": [
+            " Salvaje: Aldea Tapu (como refuerzo en granizo)"
+        ],
+        "Ultraluna": [
+            " Salvaje: Aldea Tapu (como refuerzo en granizo)"
+        ],
+        "Espada": [
+            "Salvaje: Pradera Radiante, Arboleda Claroscuro, Lago Axew (oeste), Lago Axew (este), Ojo de Axew, Lago Milotic (sur), Lago Milotic (norte), Ribera de Pistón, Valle Entrepuentes, Espejo del Gigante, Cuenca Polvorienta, Gorro del Gigante, Lago del Enfado y Cornisa de Artejo",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro y Llanura Pétrea, nido al este 1."
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante, Arboleda Claroscuro, Lago Axew (oeste), Lago Axew (este), Ojo de Axew, Lago Milotic (sur), Lago Milotic (norte), Ribera de Pistón, Valle Entrepuentes, Espejo del Gigante, Cuenca Polvorienta, Gorro del Gigante, Lago del Enfado y Cornisa de Artejo",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al extremo oeste, Cuenca Polvorienta, nido al norte de la losa de piedra elevada, Gorro del Gigante, nido en el centro, Llanura Pétrea, nido al este 1 y Silla del Gigante, nido al sur junto al lago"
+        ],
+        "Diamante Brillante": [
+            "Vanillite no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Vanillite no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Vanillite no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Lanza un aliento de 50º bajo cero. Crea bloques de nieve y es capaz de lograr que nieve a su alrededor.",
+        "Blanco": "Nació de un carámbano que absorbió la energía del sol al alba. Duerme arropado por la nieve.",
+        "Negro 2": "Pokémon que ha nacido de un carámbano bañado por el sol de la mañana. Espira aliento a temperaturas de 50° bajo cero.",
+        "Blanco 2": "Pokémon que ha nacido de un carámbano bañado por el sol de la mañana. Espira aliento a temperaturas de 50° bajo cero.",
+        "Pokémon X": "Lanza un aliento de -50 ºC. Crea bloques de nieve y es capaz de lograr que nieve a su alrededor.",
+        "Pokémon Y": "Nació de un carámbano que absorbió la energía del sol al alba. Duerme arropado por la nieve.",
+        "Rubí Omega": "Lanza un aliento de -50 ºC. Crea bloques de nieve y es capaz de lograr que nieve a su alrededor.",
+        "Zafiro Alfa": "Nació de un carámbano que absorbió la energía del sol al alba. Duerme arropado por la nieve.",
+        "Sol": "Pokémon nacido de un carámbano. Con su aliento gélido es capaz de crear cristales de nieve y provocar una nevasca.",
+        "Luna": "Al abrazarlo transmite una sensación agradable y refrescante. La gente que vive en las regiones cálidas aprecia mucho su presencia en casa.",
+        "Ultrasol": "Exhala vaho a una temperatura de -50 ºC. Su tamaño corporal se reduce poco a poco cuando se encuentra en un lugar cálido.",
+        "Ultraluna": "Nació a partir del deseo de una estalactita de no derretirse con los rayos del albor. Por la noche se arropa bajo la nieve para dormir.",
+        "Espada": "No puede vivir en lugares muy cálidos. Provoca nevadas exhalando un vaho gélido y luego se acurruca en la nieve acumulada para dormir.",
+        "Escudo": "Este Pokémon nació a partir de un carámbano. Exhala un vaho a -50 °C con el que congela el ambiente para adaptarlo a sus necesidades.",
+        "Diamante Brillante": "Vanillite no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Vanillite no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Vanillite no aparece en Leyendas Pokémon: Arceus."
+    }
+}

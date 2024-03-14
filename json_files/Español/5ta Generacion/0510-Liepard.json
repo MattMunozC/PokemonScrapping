@@ -1,0 +1,108 @@
+{
+    "dex number": "0510",
+    "pokemon name": "Liepard",
+    "types": [
+        " siniestro"
+    ],
+    "abilities": [
+        "Flexibilidad",
+        "Liviano"
+    ],
+    "hidden abilities": [
+        "Bromista"
+    ],
+    "stats": {
+        "hp": 64,
+        "atk": 88,
+        "def": 50,
+        "atk esp": 88,
+        "def esp": 50,
+        "speed": 106
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 5, Ruta 9, Ruta 16, Solar de los Sueños",
+            "Evolucionar: a Purrloin (nivel 20)."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 5, Ruta 9, Ruta 16, Solar de los Sueños",
+            "Evolucionar: a Purrloin (nivel 20)."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 3, Ruta 5, Ruta 9, Ruta 16, Solar de los Sueños",
+            "Claro oculto: de la Ruta 5 y Ruta 9.",
+            "Evolucionar: a Purrloin (nivel 20)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 3, Ruta 5, Ruta 9, Ruta 16, Solar de los Sueños",
+            "Claro oculto: de la Ruta 5 y Ruta 9.",
+            "Evolucionar: a Purrloin (nivel 20)."
+        ],
+        "Pokémon X": [
+            "Salvaje: En algunos Safari Amistad de tipo Siniestro."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 15 y Safari Amistad."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Purrloin (nivel 20).",
+            "Intercambiar: Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Purrloin (nivel 20).",
+            "Intercambiar: Pokémon Y."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Ruta 7, Ruta 9, Ojo de Axew, Valle Entrepuentes, Gorro del Gigante y Lago Milotic (norte)",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna",
+            "Curri: Ruta 7 y Ruta 9 (afueras de Crampón)",
+            "Evolucionar: a Purrloin (nivel 20)."
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 7, Ruta 9, Ojo de Axew, Valle Entrepuentes, Gorro del Gigante y Lago Milotic (norte)",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna",
+            "Curri: Ruta 7 y Ruta 9 (afueras de Crampón)",
+            "Evolucionar: a Purrloin (nivel 20)."
+        ],
+        "Diamante Brillante": [
+            "Liepard no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Liepard no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Liepard no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Siempre aparece en los momentos más imprevistos. Su elegante pelaje es el favorito de muchos Entrenadores.",
+        "Blanco": "Se aproxima evitando que lo detecten. Con sigilo, se acerca a su rival por la espalda y lo ataca.",
+        "Negro 2": "Su bella y grácil silueta le viene dada por su desarrollada musculatura, que le permite andar de noche sin hacer ruido.",
+        "Blanco 2": "Su bella y grácil silueta le viene dada por su desarrollada musculatura, que le permite andar de noche sin hacer ruido.",
+        "Pokémon X": "Su bella y grácil silueta le viene dada por su desarrollada musculatura, que le permite andar de noche sin hacer ruido.",
+        "Pokémon Y": "Se aproxima evitando que lo detecten. Con sigilo, se acerca a su rival por la espalda y lo ataca.",
+        "Rubí Omega": "Su bella y grácil silueta le viene dada por su desarrollada musculatura, que le permite andar de noche sin hacer ruido.",
+        "Zafiro Alfa": "Se aproxima evitando que lo detecten. Con sigilo, se acerca a su rival por la espalda y lo ataca.",
+        "Sol": "No hay entrada de Liepard en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Liepard en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Liepard en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Liepard en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Bajo su hermoso pelaje y cautivador estilo, que puede llevar fácilmente a engaño, se oculta un carácter imprevisible y agresivo.",
+        "Escudo": "Libra disputas territoriales con los Thievul. Se acerca a sus rivales por la espalda sin hacer el menor ruido.",
+        "Diamante Brillante": "Liepard no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Liepard no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Liepard no aparece en Leyendas Pokémon: Arceus."
+    }
+}

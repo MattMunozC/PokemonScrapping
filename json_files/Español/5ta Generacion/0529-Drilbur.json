@@ -1,0 +1,100 @@
+{
+    "dex number": "0529",
+    "pokemon name": "Drilbur",
+    "types": [
+        " tierra"
+    ],
+    "abilities": [
+        "Ímpetu arena",
+        "Poder arena"
+    ],
+    "hidden abilities": [
+        "Rompemoldes"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 85,
+        "def": 40,
+        "atk esp": 30,
+        "def esp": 45,
+        "speed": 68
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Cueva Manantial, Cueva Loza, Cueva Electrorroca y Monte Tuerca (nubes de polvo)."
+        ],
+        "Blanco": [
+            "Salvaje: Cueva Manantial, Cueva Loza, Cueva Electrorroca y Monte Tuerca (nubes de polvo)."
+        ],
+        "Negro 2": [
+            "Salvaje: Pasadizo Ancestral, Cueva Loza y Cueva Electrorroca (nubes de polvo).",
+            "Pokémon Dream World: Cueva Helada."
+        ],
+        "Blanco 2": [
+            "Salvaje: Pasadizo Ancestral, Cueva Loza y Cueva Electrorroca (nubes de polvo).",
+            "Pokémon Dream World: Cueva Helada."
+        ],
+        "Pokémon X": [
+            "Criar: de Excadrill."
+        ],
+        "Pokémon Y": [
+            "Criar: de Excadrill."
+        ],
+        "Rubí Omega": [
+            "Criar: de Excadrill."
+        ],
+        "Zafiro Alfa": [
+            "Criar: de Excadrill."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Mina de Galar.",
+            "Incursiones Dinamax: Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur",
+            "Curri: Mina de Galar"
+        ],
+        "Escudo": [
+            "Salvaje: Mina de Galar.",
+            "Incursiones Dinamax: Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur",
+            "Curri: Mina de Galar"
+        ],
+        "Diamante Brillante": [
+            "Drilbur no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Drilbur no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Drilbur no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Avanza bajo tierra a más de 50 km/h. Podría librar carreras excepcionales con un coche que avance por la superficie.",
+        "Blanco": "Cuando junta las garras y comienza a dar vueltas frenéticas, avanza bajo tierra a gran velocidad.",
+        "Negro 2": "Puede girar su cuerpo a una velocidad de 50 km/h y, si la mantiene, puede perforar el suelo y atravesarlo.",
+        "Blanco 2": "Puede girar su cuerpo a una velocidad de 50 km/h y, si la mantiene, puede perforar el suelo y atravesarlo.",
+        "Pokémon X": "Cuando junta las garras y comienza a dar vueltas frenéticas, avanza bajo tierra a gran velocidad.",
+        "Pokémon Y": "Puede girar su cuerpo a una velocidad de 50 km/h y, si la mantiene, puede perforar el suelo y atravesarlo.",
+        "Rubí Omega": "Cuando junta las garras y comienza a dar vueltas frenéticas, avanza bajo tierra a gran velocidad.",
+        "Zafiro Alfa": "Puede girar su cuerpo a una velocidad de 50 km/h y, si la mantiene, puede perforar el suelo y atravesarlo.",
+        "Sol": "No hay entrada de Drilbur en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Drilbur en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Drilbur en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Drilbur en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Tras juntar las garras, se abalanza sobre su presa haciendo rotar el cuerpo a gran velocidad.",
+        "Escudo": "Su costumbre de horadar túneles bajo tierra le ha granjeado la antipatía de los agricultores, ya que puede echar a perder cosechas enteras.",
+        "Diamante Brillante": "Drilbur no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Drilbur no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Drilbur no aparece en Leyendas Pokémon: Arceus."
+    }
+}

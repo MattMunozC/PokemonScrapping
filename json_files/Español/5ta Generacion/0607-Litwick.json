@@ -1,0 +1,98 @@
+{
+    "dex number": "0607",
+    "pokemon name": "Litwick",
+    "types": [
+        " fantasma",
+        " fuego"
+    ],
+    "abilities": [
+        "Absorbe fuego",
+        "Cuerpo llama"
+    ],
+    "hidden abilities": [
+        "Sombra trampa",
+        "Allanamiento"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 30,
+        "def": 55,
+        "atk esp": 65,
+        "def esp": 55,
+        "speed": 20
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Torre de los Cielos"
+        ],
+        "Blanco": [
+            "Salvaje: Torre de los Cielos"
+        ],
+        "Negro 2": [
+            "Salvaje: Torre de los Cielos y Villa Horroris"
+        ],
+        "Blanco 2": [
+            "Salvaje: Torre de los Cielos y Villa Horroris"
+        ],
+        "Pokémon X": [
+            "Salvaje: Hotel Desolación"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Hotel Desolación"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Escáner insular: Cementerio de Hauoli (sábados)"
+        ],
+        "Luna": [
+            "Escáner insular: Cementerio de Hauoli (sábados)"
+        ],
+        "Ultrasol": [
+            "Escáner insular: Cementerio de Hauoli (sábados)"
+        ],
+        "Ultraluna": [
+            "Escáner insular: Cementerio de Hauoli (sábados)"
+        ],
+        "Espada": [
+            "Salvaje: Estadio de Pistón, Valle Entrepuentes y Ribera de Pistón",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Nidos en Prado Reverencia , Playa Desafío , Bahía Circular  y Cuenca Arenosa "
+        ],
+        "Escudo": [
+            "Salvaje: Estadio de Pistón, Valle Entrepuentes y Ribera de Pistón",
+            "Incursiones Dinamax: Cornisa de Artejo, nido al sur, Cuenca Polvorienta, nido al este junto a un pilar, Gorro del Gigante, nido al sureste, Lago del Enfado, nido al oeste, Llanura Pétrea, nido al este 2 y Llanura Pétrea, nido al norte en la zona árida. Nidos en Prado Reverencia , Playa Desafío , Bahía Circular  y Cuenca Arenosa "
+        ],
+        "Diamante Brillante": [
+            "Litwick no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Litwick no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Litwick no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "La luz que desprende absorbe la energía vital de humanos y Pokémon.",
+        "Blanco": "Finge ser una luz guía en el camino, pero en realidad solo quiere absorber la energía vital de quien lo sigue.",
+        "Negro 2": "Su llama suele estar apagada, pero puede avivarla absorbiendo la energía vital tanto de humanos como de Pokémon.",
+        "Blanco 2": "Su llama suele estar apagada, pero puede avivarla absorbiendo la energía vital tanto de humanos como de Pokémon.",
+        "Pokémon X": "Finge ser una luz guía en el camino, pero en realidad solo quiere absorber la energía vital de quien lo sigue.",
+        "Pokémon Y": "La luz que desprende absorbe la energía vital de humanos y Pokémon.",
+        "Rubí Omega": "Finge ser una luz guía en el camino, pero en realidad solo quiere absorber la energía vital de quien lo sigue.",
+        "Zafiro Alfa": "La luz que desprende absorbe la energía vital de humanos y Pokémon.",
+        "Sol": "No hay entrada de Litwick en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Litwick en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Litwick en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Litwick en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "El calor de la llama hace que su cuerpo esté algo tibio. Toma de la mano a quien se pierde para llevárselo a su mundo de espíritus.",
+        "Escudo": "Cuanto más joven sea la energía vital que ha absorbido, mayor tamaño tendrá la llama de la cabeza y más siniestro será su brillo.",
+        "Diamante Brillante": "Litwick no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Litwick no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Litwick no aparece en Leyendas Pokémon: Arceus."
+    }
+}

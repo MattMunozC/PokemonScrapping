@@ -1,0 +1,96 @@
+{
+    "dex number": "0534",
+    "pokemon name": "Conkeldurr",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Agallas",
+        "Potencia bruta"
+    ],
+    "hidden abilities": [
+        "Puño férreo"
+    ],
+    "stats": {
+        "hp": 105,
+        "atk": 140,
+        "def": 95,
+        "atk esp": 55,
+        "def esp": 65,
+        "speed": 45
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Gurdurr (intercambio)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Gurdurr (intercambio)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Gurdurr (intercambio)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Gurdurr (intercambio)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Gurdurr (intercambio)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Gurdurr (intercambio)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Gurdurr (intercambio)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Gurdurr (intercambio)"
+        ],
+        "Sol": [
+            "Escáner insular: Llanura de Poni (lunes)"
+        ],
+        "Luna": [
+            "Escáner insular: Llanura de Poni (lunes)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Ribera de Pistón, Lecho del Gigante  y Suela del Gigante ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Ribera de Pistón, Lecho del Gigante  y Suela del Gigante ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1 y Pradera Radiante, nido hacia el puente de Lago Axew. Nidos en Campo Bajocero , Lecho del Gigante , Desfiladero Nevado , Mar Gélido  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Conkeldurr no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Conkeldurr no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Conkeldurr no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Se cree que Conkeldurr enseñó a los humanos la técnica para elaborar cemento hace más de 2000 años.",
+        "Blanco": "Posee una técnica para mover a su antojo columnas de cemento a modo de bastones.",
+        "Negro 2": "En vez de hacer uso de la fuerza bruta, blande columnas de hormigón con la energía centrífuga de sus movimientos.",
+        "Blanco 2": "En vez de hacer uso de la fuerza bruta, blande columnas de hormigón con la energía centrífuga de sus movimientos.",
+        "Pokémon X": "Se cree que Conkeldurr enseñó a los humanos la técnica para elaborar cemento hace más de 2000 años.",
+        "Pokémon Y": "En vez de hacer uso de la fuerza bruta, blande columnas de hormigón con la energía centrífuga de sus movimientos.",
+        "Rubí Omega": "Se cree que Conkeldurr enseñó a los humanos la técnica para elaborar cemento hace más de 2000 años.",
+        "Zafiro Alfa": "En vez de hacer uso de la fuerza bruta, blande columnas de hormigón con la energía centrífuga de sus movimientos.",
+        "Sol": "No hay entrada de Conkeldurr en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Conkeldurr en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Conkeldurr en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Conkeldurr en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "El hormigón que preparan los Conkeldurr es mucho más duro y resistente que el ordinario, aunque la composición sea la misma.",
+        "Escudo": "Cuando decide ponerse en serio, suelta sus pilares de hormigón y se abalanza sobre el rival con solo un puño como arma.",
+        "Diamante Brillante": "Conkeldurr no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Conkeldurr no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Conkeldurr no aparece en Leyendas Pokémon: Arceus."
+    }
+}

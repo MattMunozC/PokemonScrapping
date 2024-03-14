@@ -1,0 +1,95 @@
+{
+    "dex number": "0498",
+    "pokemon name": "Tepig",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Sebo"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 63,
+        "def": 45,
+        "atk esp": 45,
+        "def esp": 45,
+        "speed": 45
+    },
+    "location": {
+        "Negro": [
+            "Regalo: Es uno de los iniciales que entrega la Profesora Encina al inicio de la aventura (solo uno)"
+        ],
+        "Blanco": [
+            "Regalo: Es uno de los iniciales que entrega la Profesora Encina al inicio de la aventura (solo uno)"
+        ],
+        "Negro 2": [
+            "Regalo: Es uno de los iniciales que entrega Bel al inicio de la aventura (solo uno)"
+        ],
+        "Blanco 2": [
+            "Regalo: Es uno de los iniciales que entrega Bel al inicio de la aventura (solo uno)"
+        ],
+        "Pokémon X": [
+            "Trasladar: De Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Trasladar: De Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Regalo: Es uno de los tres iniciales de Teselia que entrega el profesor Abedul tras el Episodio Delta (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Regalo: Es uno de los tres iniciales de Teselia que entrega el profesor Abedul tras el Episodio Delta (solo uno)"
+        ],
+        "Sol": [
+            "Criando: de Emboar"
+        ],
+        "Luna": [
+            "Criando: de Emboar"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Tepig no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Tepig no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Tepig no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tepig no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Tepig no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Evita con agilidad los ataques enemigos. Lanza bolas de fuego por su hocico y tuesta bayas del bosque para comer.",
+        "Blanco": "Lanza llamas por su hocico. Cuando está resfriado, expulsa humo azabache en lugar de fuego.",
+        "Negro 2": "Le encanta comer bayas tostadas, pero a veces se emociona demasiado y termina churruscándolas.",
+        "Blanco 2": "Le encanta comer bayas tostadas, pero a veces se emociona demasiado y termina churruscándolas.",
+        "Pokémon X": "Evita con agilidad los ataques enemigos. Lanza bolas de fuego por su hocico y tuesta bayas del bosque para comer.",
+        "Pokémon Y": "Le encanta comer bayas tostadas, pero a veces se emociona demasiado y termina churruscándolas.",
+        "Rubí Omega": "Evita con agilidad los ataques enemigos. Lanza bolas de fuego por su hocico y tuesta bayas del bosque para comer.",
+        "Zafiro Alfa": "Le encanta comer bayas tostadas, pero a veces se emociona demasiado y termina churruscándolas.",
+        "Sol": "No hay entrada de Tepig en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Tepig en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Tepig en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Tepig en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Tepig no aparece en Pokémon Espada.",
+        "Escudo": "Tepig no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Tepig no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tepig no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Tepig no aparece en Leyendas Pokémon: Arceus."
+    }
+}

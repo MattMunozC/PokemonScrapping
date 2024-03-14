@@ -1,0 +1,108 @@
+{
+    "dex number": "0591",
+    "pokemon name": "Amoonguss",
+    "types": [
+        " planta",
+        " veneno"
+    ],
+    "abilities": [
+        "Efecto espora"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": 114,
+        "atk": 85,
+        "def": 70,
+        "atk esp": 85,
+        "def esp": 80,
+        "speed": 30
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 10 y Ruta 11",
+            "Evolucionar: a Foongus (nivel 39)"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 10 y Ruta 11",
+            "Evolucionar: a Foongus (nivel 39)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 11, Ruta 22 y Ruta 23",
+            "Claro oculto: Ruta 22, Bosque Azulejo y Santuario Abundancia",
+            "Evolucionar: a Foongus (nivel 39)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 11, Ruta 22 y Ruta 23",
+            "Claro oculto: Ruta 22, Bosque Azulejo y Santuario Abundancia",
+            "Evolucionar: a Foongus (nivel 39)"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 20 y Villa Pokémon",
+            "Evolucionar: a Foongus (nivel 39)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 20 y Villa Pokémon",
+            "Evolucionar: a Foongus (nivel 39)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Concentración ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Prado Reverencia , Bosque Concentración , Humedal Frescor , Llano Entrenamiento , Mar Andana  y Mar Islejos ",
+            "Evolucionar: a Foongus (nivel 39)"
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Concentración ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Nidos en Prado Reverencia , Bosque Concentración , Humedal Frescor , Llano Entrenamiento , Mar Andana  y Mar Islejos ",
+            "Evolucionar: a Foongus (nivel 39)"
+        ],
+        "Diamante Brillante": [
+            "Amoonguss no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Amoonguss no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Amoonguss no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Baila meciendo rítmicamente los dos brazos a modo de Poké Ball para hacer que sus presas se acerquen",
+        "Blanco": "Aunque intenta pasar por parte superior de una Poké Ball para atraer a sus presas, consigue engañar a pocos.",
+        "Negro 2": "Lleva a cabo una danza con la especie de sombrillas de sus manos para atraer a presas. Le gustan los lugares húmedos.",
+        "Blanco 2": "Lleva a cabo una danza con la especie de sombrillas de sus manos para atraer a presas. Le gustan los lugares húmedos.",
+        "Pokémon X": "Aunque intenta pasar por parte superior de una Poké Ball para atraer a sus presas, consigue engañar a pocos.",
+        "Pokémon Y": "Baila meciendo rítmicamente los dos brazos a modo de Poké Ball para hacer que sus presas se acerquen",
+        "Rubí Omega": "Aunque intenta pasar por parte superior de una Poké Ball para atraer a sus presas, consigue engañar a pocos.",
+        "Zafiro Alfa": "Baila meciendo rítmicamente los dos brazos a modo de Poké Ball para hacer que sus presas se acerquen",
+        "Sol": "No hay entrada de Amoonguss en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Amoonguss en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Amoonguss en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Amoonguss en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Expulsa esporas venenosas. Crecerán setas en cualquier superficie con la que entren en contacto si no se lava de inmediato.",
+        "Escudo": "Por lo general no se mueve demasiado. Suele permanecer quieto al lado de Poké Balls que haya por el suelo.",
+        "Diamante Brillante": "Amoonguss no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Amoonguss no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Amoonguss no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "dex number": "0513",
+    "pokemon name": "Pansear",
+    "types": [
+        " fuego"
+    ],
+    "abilities": [
+        "Gula"
+    ],
+    "hidden abilities": [
+        "Mar llamas"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 53,
+        "def": 48,
+        "atk esp": 53,
+        "def esp": 48,
+        "speed": 64
+    },
+    "location": {
+        "Negro": [
+            " Especial: Regalo en el Solar de los Sueños, sólo si elegiste a Oshawott como Pokémon inicial.",
+            "Salvaje: Bosque Azulejo y en el Bosque de los Perdidos cuando se mueven las zonas de pasto."
+        ],
+        "Blanco": [
+            " Especial: Regalo en el Solar de los Sueños, sólo si elegiste a Oshawott como Pokémon inicial.",
+            "Salvaje: Bosque Azulejo y en el Bosque de los Perdidos cuando se mueven las zonas de pasto."
+        ],
+        "Negro 2": [
+            "Salvaje: Bosque Azulejo y en el Bosque de los Perdidos cuando se mueven las zonas de pasto."
+        ],
+        "Blanco 2": [
+            "Salvaje: Bosque Azulejo y en el Bosque de los Perdidos cuando se mueven las zonas de pasto."
+        ],
+        "Pokémon X": [
+            "Salvaje: Bosque de Novarte, Safari Amistad."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Bosque de Novarte, Safari Amistad."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Pansear no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Pansear no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Pansear no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pansear no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pansear no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Su mata de pelo aumenta de temperatura cuando se irrita, llegando a 300º. Tuesta bayas con su pelo para comer.",
+        "Blanco": "Vive en cuevas volcánicas. El interior de su mata de pelo arde, llegando a alcanzar hasta 300 ºC.",
+        "Negro 2": "Pokémon muy inteligente que tiene la costumbre de tostar las bayas antes de comérselas. Ayuda mucho a los humanos.",
+        "Blanco 2": "Pokémon muy inteligente que tiene la costumbre de tostar las bayas antes de comérselas. Ayuda mucho a los humanos.",
+        "Pokémon X": "Pokémon muy inteligente que tiene la costumbre de tostar las bayas antes de comérselas. Ayuda mucho a los humanos.",
+        "Pokémon Y": "Vive en cuevas volcánicas. El interior de su mata de pelo arde, llegando a alcanzar hasta 300 ºC.",
+        "Rubí Omega": "Pokémon muy inteligente que tiene la costumbre de tostar las bayas antes de comérselas. Ayuda mucho a los humanos.",
+        "Zafiro Alfa": "Vive en cuevas volcánicas. El interior de su mata de pelo arde, llegando a alcanzar hasta 300 ºC.",
+        "Sol": "No hay entrada de Pansear en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Pansear en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Pansear en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Pansear en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Pansear no aparece en Pokémon Espada.",
+        "Escudo": "Pansear no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Pansear no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pansear no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pansear no aparece en Leyendas Pokémon: Arceus."
+    }
+}

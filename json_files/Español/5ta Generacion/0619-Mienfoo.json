@@ -1,0 +1,102 @@
+{
+    "dex number": "0619",
+    "pokemon name": "Mienfoo",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Fuerza mental",
+        "Regeneración"
+    ],
+    "hidden abilities": [
+        "Audaz"
+    ],
+    "stats": {
+        "hp": 45,
+        "atk": 85,
+        "def": 50,
+        "atk esp": 55,
+        "def esp": 50,
+        "speed": 65
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 14, Torre Duodraco y Calle Victoria"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 14, Torre Duodraco y Calle Victoria"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 14, Torre Duodraco, Ruta 22 y Ruta 23",
+            "Claro oculto: Ruta 22"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 14, Torre Duodraco, Ruta 22 y Ruta 23",
+            "Claro oculto: Ruta 22"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 8",
+            "Especial: Safari Amistad, en algunos safaris de tipo lucha"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 8",
+            "Especial: Safari Amistad, en algunos safaris de tipo lucha"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Cañón de Poni"
+        ],
+        "Ultraluna": [
+            "Salvaje: Cañón de Poni"
+        ],
+        "Espada": [
+            "Salvaje: Ruta Desafío ",
+            "Incursiones Dinamax: Nidos en Prado Reverencia , Playa Desafío , Ruta Desafío  y Mar Meloso "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta Desafío ",
+            "Incursiones Dinamax: Nidos en Prado Reverencia , Playa Desafío , Ruta Desafío  y Mar Meloso "
+        ],
+        "Diamante Brillante": [
+            "Mienfoo no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Mienfoo no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Mienfoo no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Abruma a su rival con oleadas de ataques veloces. Corta al enemigo con sus afiladas garras.",
+        "Blanco": "Usa gráciles movimientos sucesivos. Si se concentra, aumenta su eficacia y rapidez.",
+        "Negro 2": "La velocidad de sus ataques es su gran orgullo. Lo que le falta de fuerza bruta lo compensa en cantidad de golpes.",
+        "Blanco 2": "La velocidad de sus ataques es su gran orgullo. Lo que le falta de fuerza bruta lo compensa en cantidad de golpes.",
+        "Pokémon X": "La velocidad de sus ataques es su gran orgullo. Lo que le falta de fuerza bruta lo compensa en cantidad de golpes.",
+        "Pokémon Y": "Abruma a su rival con oleadas de ataques veloces. Corta al enemigo con sus afiladas garras.",
+        "Rubí Omega": "La velocidad de sus ataques es su gran orgullo. Lo que le falta de fuerza bruta lo compensa en cantidad de golpes.",
+        "Zafiro Alfa": "Abruma a su rival con oleadas de ataques veloces. Corta al enemigo con sus afiladas garras.",
+        "Sol": "No hay entrada de Mienfoo en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Mienfoo en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "A primera hora de la mañana pueden verse grupos de Mienfoo realizando movimientos lentos y adoptando distintas poses.",
+        "Ultraluna": "Suele recluirse con otros congéneres en las montañas para entrenar. Según el grupo, la técnica de sus patadas o puñetazos varía.",
+        "Espada": "Un Mienfoo bien entrenado es capaz de propinar más de cien golpes por minuto.",
+        "Escudo": "Su apariencia menuda contrasta con su carácter poco afable. Abruma a los rivales que se acercan a él con gráciles oleadas de ataques sucesivos.",
+        "Diamante Brillante": "Mienfoo no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Mienfoo no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Mienfoo no aparece en Leyendas Pokémon: Arceus."
+    }
+}

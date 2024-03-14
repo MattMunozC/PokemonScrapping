@@ -1,0 +1,95 @@
+{
+    "dex number": "0496",
+    "pokemon name": "Servine",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Espesura"
+    ],
+    "hidden abilities": [
+        "Respondón"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 60,
+        "def": 75,
+        "atk esp": 60,
+        "def esp": 75,
+        "speed": 83
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: de Snivy (nivel 17)"
+        ],
+        "Blanco": [
+            "Evolucionar: de Snivy (nivel 17)"
+        ],
+        "Negro 2": [
+            "Evolucionar: de Snivy (nivel 17)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: de Snivy (nivel 17)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Trasladar de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Trasladar de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2.",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: de Snivy (nivel 17)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: de Snivy (nivel 17)"
+        ],
+        "Sol": [
+            "Evolucionar: de Snivy (nivel 17)"
+        ],
+        "Luna": [
+            "Evolucionar: de Snivy (nivel 17)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Servine no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Servine no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Servine no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Servine no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Servine no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Parece que se desliza al correr. Engaña a sus rivales con su velocidad y los fustiga con su látigo.",
+        "Blanco": "Se oculta a la sombra de la vegetación para evitar enfrentamientos. Usa con destreza el látigo para contraatacar.",
+        "Negro 2": "Cuando su cuerpo está sucio, no puede realizar la fotosíntesis con sus hojas, así que cuida mucho su higiene personal.",
+        "Blanco 2": "Cuando su cuerpo está sucio, no puede realizar la fotosíntesis con sus hojas, así que cuida mucho su higiene personal.",
+        "Pokémon X": "Parece que se desliza al correr. Engaña a sus rivales con su velocidad y los fustiga con su látigo.",
+        "Pokémon Y": "Cuando su cuerpo está sucio, no puede realizar la fotosíntesis con sus hojas, así que cuida mucho su higiene personal.",
+        "Rubí Omega": "Parece que se desliza al correr. Engaña a sus rivales con su velocidad y los fustiga con su látigo.",
+        "Zafiro Alfa": "Cuando su cuerpo está sucio, no puede realizar la fotosíntesis con sus hojas, así que cuida mucho su higiene personal.",
+        "Sol": "No hay entrada de Servine en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Servine en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Servine en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Servine en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Servine no aparece en Pokémon Espada.",
+        "Escudo": "Servine no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Servine no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Servine no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Servine no aparece en Leyendas Pokémon: Arceus."
+    }
+}

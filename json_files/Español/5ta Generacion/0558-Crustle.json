@@ -1,0 +1,109 @@
+{
+    "dex number": "0558",
+    "pokemon name": "Crustle",
+    "types": [
+        " bicho",
+        " roca"
+    ],
+    "abilities": [
+        "Robustez",
+        "Caparazón"
+    ],
+    "hidden abilities": [
+        "Armadura frágil"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 105,
+        "def": 125,
+        "atk esp": 65,
+        "def esp": 75,
+        "speed": 45
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 18",
+            "Evolucionar: a Dwebble (nivel 34)"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 18",
+            "Evolucionar: a Dwebble (nivel 34)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 18",
+            "Especial: Gruta Marina, usando la acromáquina (solo uno)",
+            "Evolucionar: a Dwebble (nivel 34)",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 18",
+            "Especial: Gruta Marina, usando la acromáquina (solo uno)",
+            "Evolucionar: a Dwebble (nivel 34)",
+            "Dream World: Monte Escarpado"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Dwebble (nivel 34)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Dwebble (nivel 34)"
+        ],
+        "Rubí Omega": [
+            "Golpe roca: Monte Espejismo",
+            "Evolucionar: a Dwebble (nivel 34)"
+        ],
+        "Zafiro Alfa": [
+            "Golpe roca: Monte Espejismo",
+            "Evolucionar: a Dwebble (nivel 34)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo"
+        ],
+        "Ultraluna": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral amarillo"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 8, Pradera Radiante, Ojo de Axew, Lago Milotic (sur), Llanura Pétrea, Ruta Desafío , Cueva Tenacidad  y Llano Entrenamiento ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste. Con posible habilidad oculta: Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste. Nidos en Prado Reverencia , Bosque Concentración , Llano Entrenamiento , Cuenca Arenosa , Mar Gimnástico "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 8, Pradera Radiante, Ojo de Axew, Lago Milotic (sur), Llanura Pétrea, Ruta Desafío , Cueva Tenacidad  y Llano Entrenamiento ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste. Con posible habilidad oculta: Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared y Silla del Gigante, nido al sureste. Nidos en Prado Reverencia , Bosque Concentración , Llano Entrenamiento , Cuenca Arenosa , Mar Gimnástico "
+        ],
+        "Diamante Brillante": [
+            "Crustle no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Crustle no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Crustle no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Se disputa el territorio con sus congéneres. Pierde aquel al que le rompan la roca que lleva a cuestas.",
+        "Blanco": "Su inmensa capacidad motriz le permite desplazarse cargando a sus espaldas rocas enormes durante días.",
+        "Negro 2": "Si la roca que lleva sobre sus espaldas se quiebra en un combate territorial, se siente inseguro y se hace más débil.",
+        "Blanco 2": "Si la roca que lleva sobre sus espaldas se quiebra en un combate territorial, se siente inseguro y se hace más débil.",
+        "Pokémon X": "Su inmensa capacidad motriz le permite desplazarse cargando a sus espaldas rocas enormes durante días.",
+        "Pokémon Y": "Se disputa el territorio con sus congéneres. Pierde aquel al que le rompan la roca que lleva a cuestas.",
+        "Rubí Omega": "Su inmensa capacidad motriz le permite desplazarse cargando a sus espaldas rocas enormes durante días.",
+        "Zafiro Alfa": "Se disputa el territorio con sus congéneres. Pierde aquel al que le rompan la roca que lleva a cuestas.",
+        "Sol": "No hay entrada de Crustle en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Crustle en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Crustle en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Crustle en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Este Pokémon posee un fuerte instinto territorial y prefiere los entornos áridos. Los días de lluvia permanece en el interior de su roca.",
+        "Escudo": "Su arma más potente son sus gruesas pinzas, tan duras que pueden abrir una brecha incluso en el Protector de Rhyperior.",
+        "Diamante Brillante": "Crustle no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Crustle no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Crustle no aparece en Leyendas Pokémon: Arceus."
+    }
+}

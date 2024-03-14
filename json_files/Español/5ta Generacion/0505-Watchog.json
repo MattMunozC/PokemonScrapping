@@ -1,0 +1,98 @@
+{
+    "dex number": "0505",
+    "pokemon name": "Watchog",
+    "types": [
+        " normal"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Iluminación"
+    ],
+    "hidden abilities": [
+        "Cálculo final"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 85,
+        "def": 69,
+        "atk esp": 60,
+        "def esp": 69,
+        "speed": 77
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Rutas 1, 7, 15, 18, Solar de los Sueños y Laboratorio P+P.",
+            "Evolucionar: a Patrat (nivel 20)."
+        ],
+        "Blanco": [
+            "Salvaje: Rutas 1, 7, 15, 18, Solar de los Sueños y Laboratorio P+P.",
+            "Evolucionar: a Patrat (nivel 20)."
+        ],
+        "Negro 2": [
+            "Salvaje: Rutas 1, 2, 3, 7, 18, Solar de los Sueños y Laboratorio P+P.",
+            "Evolucionar: a Patrat (nivel 20)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Rutas 1, 2, 3, 7, 18, Solar de los Sueños y Laboratorio P+P.",
+            "Evolucionar: a Patrat (nivel 20)."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 15"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 15"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Watchog no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Watchog no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Watchog no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Watchog no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Watchog no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Ataca lanzado las semillas de las bayas que acumula en sus mofletes. Su cola se tensa al avistar a un enemigo.",
+        "Blanco": "Hace brillar las rayas de su cuerpo para intimidar al enemigo. Sus ojos lo ven todo, hasta en la oscuridad.",
+        "Negro 2": "Los componentes luminiscentes de su interior hacen que sus ojos y su cuerpo brillen, y así intimida a sus rivales.",
+        "Blanco 2": "Los componentes luminiscentes de su interior hacen que sus ojos y su cuerpo brillen, y así intimida a sus rivales.",
+        "Pokémon X": "Los componentes luminiscentes de su interior hacen que sus ojos y su cuerpo brillen, y así intimida a sus rivales.",
+        "Pokémon Y": "Ataca lanzado las semillas de las bayas que acumula en sus mofletes. Su cola se tensa al avistar a un enemigo.",
+        "Rubí Omega": "Los componentes luminiscentes de su interior hacen que sus ojos y su cuerpo brillen, y así intimida a sus rivales.",
+        "Zafiro Alfa": "Ataca lanzado las semillas de las bayas que acumula en sus mofletes. Su cola se tensa al avistar a un enemigo.",
+        "Sol": "No hay entrada de Watchog en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Watchog en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Watchog en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Watchog en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Watchog no aparece en Pokémon Espada.",
+        "Escudo": "Watchog no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Watchog no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Watchog no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Watchog no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "dex number": "0601",
+    "pokemon name": "Klinklang",
+    "types": [
+        " acero"
+    ],
+    "abilities": [
+        "Más",
+        "Menos"
+    ],
+    "hidden abilities": [
+        "Cuerpo puro"
+    ],
+    "stats": {
+        "hp": 60,
+        "atk": 100,
+        "def": 115,
+        "atk esp": 70,
+        "def esp": 85,
+        "speed": 90
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Klang (nivel 49)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Klang (nivel 49)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Klang (nivel 49)",
+            "Salvaje: Laboratorio P+P (cuando se mueve la hierba alta)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Klang (nivel 49)",
+            "Salvaje: Laboratorio P+P (cuando se mueve la hierba alta)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Klang (nivel 49)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Klang (nivel 49)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Klang (nivel 49)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Klang (nivel 49)"
+        ],
+        "Sol": [
+            "Evolucionar: a Klang (nivel 49)"
+        ],
+        "Luna": [
+            "Evolucionar: a Klang (nivel 49)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado y Cornisa de Artejo",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte. Nidos en Cueva Contienda , Cueva Tenacidad  y Mar Andana ",
+            "Evolucionar: a Klang (nivel 49)"
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado y Cornisa de Artejo",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Con posible habilidad oculta: Cornisa de Artejo, nido al noreste, Cuenca Polvorienta, nido al noroeste entre troncos, Silla del Gigante, nido al centro junto a la pared, Silla del Gigante, nido al centro junto al lago y Silla del Gigante, nido al norte. Nidos en Cueva Contienda , Cueva Tenacidad  y Mar Andana ",
+            "Evolucionar: a Klang (nivel 49)"
+        ],
+        "Diamante Brillante": [
+            "Klinklang no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Klinklang no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Klinklang no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "El núcleo rojo sirve como depósito de la energía que expulsa por las púas una vez que está cargado.",
+        "Blanco": "Recarga su energía rápidamente haciendo girar con gran velocidad el engranaje con un núcleo rojo.",
+        "Negro 2": "Hace girar a gran velocidad la rueda dentada pequeña, le transmite energía acumulada en el núcleo rojo y la dispara.",
+        "Blanco 2": "Hace girar a gran velocidad la rueda dentada pequeña, le transmite energía acumulada en el núcleo rojo y la dispara.",
+        "Pokémon X": "Recarga su energía rápidamente haciendo girar con gran velocidad el engranaje con un núcleo rojo.",
+        "Pokémon Y": "El núcleo rojo sirve como depósito de la energía que expulsa por las púas una vez que está cargado.",
+        "Rubí Omega": "Recarga su energía rápidamente haciendo girar con gran velocidad el engranaje con un núcleo rojo.",
+        "Zafiro Alfa": "El núcleo rojo sirve como depósito de la energía que expulsa por las púas una vez que está cargado.",
+        "Sol": "No hay entrada de Klinklang en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Klinklang en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Klinklang en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Klinklang en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Emite fuertes descargas eléctricas por la punta de las púas. Acumula una gran cantidad de energía en su núcleo rojo.",
+        "Escudo": "Las tres ruedas dentadas giran a gran velocidad. El aro metálico dotado de púas no es materia viva.",
+        "Diamante Brillante": "Klinklang no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Klinklang no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Klinklang no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "dex number": "0565",
+    "pokemon name": "Carracosta",
+    "types": [
+        " agua",
+        " roca"
+    ],
+    "abilities": [
+        "Roca sólida",
+        "Robustez"
+    ],
+    "hidden abilities": [
+        "Nado rápido"
+    ],
+    "stats": {
+        "hp": 74,
+        "atk": 108,
+        "def": 133,
+        "atk esp": 83,
+        "def esp": 65,
+        "speed": 32
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Tirtouga (nivel 37)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Tirtouga (nivel 37)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Tirtouga (nivel 37)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Tirtouga (nivel 37)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Tirtouga (nivel 37)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Tirtouga (nivel 37)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X, Pokémon Y o Pokémon Rubí Omega"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Tirtouga (nivel 37)"
+        ],
+        "Sol": [
+            "Evolucionar: a Tirtouga (nivel 37)"
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Tirtouga (nivel 37)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Salvaje: Mar Gélido ",
+            "Evolucionar: a Tirtouga (nivel 37) "
+        ],
+        "Escudo": [
+            "Salvaje: Mar Gélido ",
+            "Evolucionar: a Tirtouga (nivel 37) "
+        ],
+        "Diamante Brillante": [
+            "Carracosta no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Carracosta no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Carracosta no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Vive en el mar y en la superficie. Sus garras pueden abrir un agujero en el fondo de un petrolero.",
+        "Blanco": "La fuerza de sus mandíbulas es enorme. Tritura presas, huesos y rocas a la vez y los engulle.",
+        "Negro 2": "Un golpe con sus desarrolladas aletas delanteras puede hacer perder a un rival el conocimiento o romperle los huesos.",
+        "Blanco 2": "Un golpe con sus desarrolladas aletas delanteras puede hacer perder a un rival el conocimiento o romperle los huesos.",
+        "Pokémon X": "Vive en el mar y en la superficie. Sus garras pueden abrir un agujero en el fondo de un petrolero.",
+        "Pokémon Y": "Un golpe con sus desarrolladas aletas delanteras puede hacer perder a un rival el conocimiento o romperle los huesos.",
+        "Rubí Omega": "Vive en el mar y en la superficie. Sus garras pueden abrir un agujero en el fondo de un petrolero.",
+        "Zafiro Alfa": "Un golpe con sus desarrolladas aletas delanteras puede hacer perder a un rival el conocimiento o romperle los huesos.",
+        "Sol": "Trituraba los huesos y las duras conchas de sus presas para aprovechar bien los nutrientes y reforzar así su propio caparazón.",
+        "Luna": "Vive tanto en el mar como en la superficie. En tierra firme, caza a sus presas y las arrastra hacia el mar, donde les da el golpe de gracia.",
+        "Ultrasol": "La brutal presión que ejerce con su mandíbula es tal que las conchas de Omastar y Omanyte no son ninguna molestia cuando los devora.",
+        "Ultraluna": "Para reforzar aún más su robusto caparazón, engulle incluso las conchas y los huesos de las presas que captura.",
+        "Espada": "Devora incluso los huesos y caparazones de sus presas, por lo que el suyo propio se vuelve duro y grueso.",
+        "Escudo": "Aunque se mueva con mayor lentitud sobre la superficie terrestre que en el agua, emerge a tierra en busca de presas.",
+        "Diamante Brillante": "Carracosta no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Carracosta no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Carracosta no aparece en Leyendas Pokémon: Arceus."
+    }
+}

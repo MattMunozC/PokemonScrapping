@@ -1,0 +1,98 @@
+{
+    "dex number": "0501",
+    "pokemon name": "Oshawott",
+    "types": [
+        " agua"
+    ],
+    "abilities": [
+        "Torrente"
+    ],
+    "hidden abilities": [
+        "Caparazón"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 55,
+        "def": 45,
+        "atk esp": 63,
+        "def esp": 45,
+        "speed": 45
+    },
+    "location": {
+        "Negro": [
+            "Regalo: Es uno de los Pokémon iniciales que regala la profesora Encina en la casa del jugador (solo uno)"
+        ],
+        "Blanco": [
+            "Regalo: Es uno de los Pokémon iniciales que regala la profesora Encina en la casa del jugador (solo uno)"
+        ],
+        "Negro 2": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega Bel en Ciudad Engobe (solo uno)"
+        ],
+        "Blanco 2": [
+            "Regalo: Es uno de los Pokémon iniciales que entrega Bel en Ciudad Engobe (solo uno)"
+        ],
+        "Pokémon X": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Regalo: Es uno de los tres Pokémon iniciales de Teselia que entrega el profesor Abedul tras el Episodio Delta (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Regalo: Es uno de los tres Pokémon iniciales de Teselia que entrega el profesor Abedul tras el Episodio Delta (solo uno)"
+        ],
+        "Sol": [
+            "Criando: de Samurott"
+        ],
+        "Luna": [
+            "Criando: de Samurott"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Oshawott no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Oshawott no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Oshawott no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Oshawott no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Regalo: Es uno de los Pokémon iniciales que da a elegir el Profesor Lavender al inicio de la aventura (solo uno)",
+            "Regalo: En caso de no ser elegido como Pokémon inicial, lo entrega el Profesor Lavender tras completar la historia principal (solo uno)",
+            "Distorsión espaciotemporal: Tundra Alba",
+            "Aparición supermasiva: Tundra Alba"
+        ]
+    },
+    "pokedex": {
+        "Negro": "Ataca con la vieira de su ombligo. En cuanto para un ataque, pasa al contraataque sin dilación.",
+        "Blanco": "La vieira de su ombligo está hecha del mismo material que sus garras. Puede sacarla y usarla de daga.",
+        "Negro 2": "La vieira de su ombligo no solo sirve como arma, sino también como instrumento para cortar las bayas que estén duras.",
+        "Blanco 2": "La vieira de su ombligo no solo sirve como arma, sino también como instrumento para cortar las bayas que estén duras.",
+        "Pokémon X": "La vieira de su ombligo no solo sirve como arma, sino también como instrumento para cortar las bayas que estén duras.",
+        "Pokémon Y": "Ataca con la vieira de su ombligo. En cuanto para un ataque, pasa al contraataque sin dilación.",
+        "Rubí Omega": "La vieira de su ombligo no solo sirve como arma, sino también como instrumento para cortar las bayas que estén duras.",
+        "Zafiro Alfa": "Ataca con la vieira de su ombligo. En cuanto para un ataque, pasa al contraataque sin dilación.",
+        "Sol": "No hay entrada de Oshawott en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Oshawott en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Oshawott en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Oshawott en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Oshawott no aparece en Pokémon Espada.",
+        "Escudo": "Oshawott no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Oshawott no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Oshawott no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pokémon autóctono de la región de Teselia. Se vale de la vieira de su vientre para lacerar a sus enemigos. Por ello, he decidido bautizarla \"cuchilleira\"."
+    }
+}

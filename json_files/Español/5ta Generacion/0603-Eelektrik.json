@@ -1,0 +1,95 @@
+{
+    "dex number": "0603",
+    "pokemon name": "Eelektrik",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 65,
+        "atk": 85,
+        "def": 70,
+        "atk esp": 75,
+        "def esp": 70,
+        "speed": 40
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Tynamo (nivel 39)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Tynamo (nivel 39)"
+        ],
+        "Negro 2": [
+            " Salvaje: Gruta Marina",
+            " Evolucionar: a Tynamo (nivel 39)"
+        ],
+        "Blanco 2": [
+            " Salvaje: Gruta Marina",
+            " Evolucionar: a Tynamo (nivel 39)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Tynamo (nivel 39)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Tynamo (nivel 39)"
+        ],
+        "Sol": [
+            "Criar: de Eelektross y evolucionar a Tynamo (nivel 39)"
+        ],
+        "Luna": [
+            "Criar: de Eelektross y evolucionar a Tynamo (nivel 39)"
+        ],
+        "Ultrasol": [
+            "Criar: de Eelektross y evolucionar a Tynamo (nivel 39)"
+        ],
+        "Ultraluna": [
+            "Criar: de Eelektross y evolucionar a Tynamo (nivel 39)"
+        ],
+        "Espada": [
+            "Eelektrik no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Eelektrik no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Eelektrik no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Eelektrik no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Eelektrik no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Las motas redondas componen su aparato electrificador. Enrolla a su rival y deja que la corriente fluya por las motas.",
+        "Blanco": "Pokémon de apetito voraz. En cuanto encuentra una presa, la paraliza con electricidad y la engulle",
+        "Negro 2": "Se enrolla alrededor de su presa, la paraliza con la electricidad de sus marcas circulares y le asesta mordiscos.",
+        "Blanco 2": "Se enrolla alrededor de su presa, la paraliza con la electricidad de sus marcas circulares y le asesta mordiscos.",
+        "Pokémon X": "Se enrolla alrededor de su presa, la paraliza con la electricidad de sus marcas circulares y le asesta mordiscos.",
+        "Pokémon Y": "Pokémon de apetito voraz. En cuanto encuentra una presa, la paraliza con electricidad y la engulle",
+        "Rubí Omega": "Se enrolla alrededor de su presa, la paraliza con la electricidad de sus marcas circulares y le asesta mordiscos.",
+        "Zafiro Alfa": "Pokémon de apetito voraz. En cuanto encuentra una presa, la paraliza con electricidad y la engulle",
+        "Sol": "No hay entrada de Eelektrik en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Eelektrik en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Eelektrik en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Eelektrik en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Eelektrik no aparece en Pokémon Espada.",
+        "Escudo": "Eelektrik no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Eelektrik no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Eelektrik no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Eelektrik no aparece en Leyendas Pokémon: Arceus."
+    }
+}

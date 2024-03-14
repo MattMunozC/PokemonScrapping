@@ -1,0 +1,102 @@
+{
+    "dex number": "0578",
+    "pokemon name": "Duosion",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Funda",
+        "Muro mágico"
+    ],
+    "hidden abilities": [
+        "Regeneración"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 40,
+        "def": 50,
+        "atk esp": 125,
+        "def esp": 60,
+        "speed": 30
+    },
+    "location": {
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 9",
+            "Evolucionar: a Solosis (nivel 32)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Blanco 2",
+            "Dream World: Villa Antigua"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 9 y Villa Horroris",
+            "Evolucionar: a Solosis (nivel 32)",
+            "Dream World: Villa Antigua"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Solosis (nivel 32)",
+            "Especial: Safari Amistad, en algunos safaris de tipo psíquico"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Solosis (nivel 32)",
+            "Especial: Safari Amistad, en algunos safaris de tipo psíquico"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Escáner insular: Ruta 16 (martes)"
+        ],
+        "Luna": [
+            "Escáner insular: Ruta 16 (martes)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Intercambiar: de Pokémon Escudo."
+        ],
+        "Escudo": [
+            "Salvaje: Cuenca Polvorienta, Espejo del Gigante, Campo Deslizante  y Campo Bajocero .",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago y Llanura Pétrea, nido al oeste cerca de un árbol",
+            "Evolucionar: a Solosis (nivel 32)"
+        ],
+        "Diamante Brillante": [
+            "Duosion no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Duosion no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Duosion no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Dado que su cerebro está dividido en dos, a veces tiene conflictos a la hora de decidir qué hacer.",
+        "Blanco": "Cuando las dos partes de su cerebro piensan lo mismo, saca todo su poder a relucir.",
+        "Negro 2": "Cuando las dos partes de su cerebro piensan lo mismo, saca todo su poder a relucir.",
+        "Blanco 2": "Cuando las dos partes de su cerebro piensan lo mismo, saca todo su poder a relucir.",
+        "Pokémon X": "Dado que su cerebro está dividido en dos, a veces tiene conflictos a la hora de decidir qué hacer.",
+        "Pokémon Y": "Cuando las dos partes de su cerebro piensan lo mismo, saca todo su poder a relucir.",
+        "Rubí Omega": "Dado que su cerebro está dividido en dos, a veces tiene conflictos a la hora de decidir qué hacer.",
+        "Zafiro Alfa": "Cuando las dos partes de su cerebro piensan lo mismo, saca todo su poder a relucir.",
+        "Sol": "No hay entrada de Duosion en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Duosion en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Duosion en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Duosion en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Dicen que, cuando las dos partes de su cerebro piensan lo mismo, el alcance de su telequinesia aumenta hasta abarcar un radio de 1 km.",
+        "Escudo": "Las dos partes de su cerebro casi nunca piensan lo mismo, por lo que es imposible predecir sus intenciones.",
+        "Diamante Brillante": "Duosion no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Duosion no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Duosion no aparece en Leyendas Pokémon: Arceus."
+    }
+}

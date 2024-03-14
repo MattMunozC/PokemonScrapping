@@ -1,0 +1,100 @@
+{
+    "dex number": "0612",
+    "pokemon name": "Haxorus",
+    "types": [
+        " dragón"
+    ],
+    "abilities": [
+        "Rivalidad",
+        "Rompemoldes"
+    ],
+    "hidden abilities": [
+        "Nerviosismo"
+    ],
+    "stats": {
+        "hp": 76,
+        "atk": 147,
+        "def": 90,
+        "atk esp": 60,
+        "def esp": 70,
+        "speed": 97
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Fraxure (nivel 48)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Fraxure (nivel 48)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Fraxure (nivel 48)",
+            "Especial: Reserva Natural (solo uno, variocolor)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Fraxure (nivel 48)",
+            "Especial: Reserva Natural (solo uno, variocolor)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Fraxure (nivel 48)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Fraxure (nivel 48)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Fraxure (nivel 48)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Fraxure (nivel 48)"
+        ],
+        "Sol": [
+            "Evolucionar: a Fraxure (nivel 48)"
+        ],
+        "Luna": [
+            "Evolucionar: a Fraxure (nivel 48)"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Fraxure (nivel 48)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Fraxure (nivel 48)"
+        ],
+        "Espada": [
+            "Salvaje: Ojo de Axew y Lago del Enfado",
+            "Incursiones Dinamax: Pradera Radiante, nido al suroeste. Con posible habilidad oculta: Ojo de Axew, nido central y Pradera Radiante, nido al suroeste",
+            "Evolucionar: a Fraxure (nivel 48)"
+        ],
+        "Escudo": [
+            "Salvaje: Ojo de Axew y Lago del Enfado",
+            "Incursiones Dinamax: Con posible habilidad oculta: Pradera Radiante, nido al suroeste",
+            "Evolucionar: a Fraxure (nivel 48)"
+        ],
+        "Diamante Brillante": [
+            "Haxorus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Haxorus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Haxorus no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Es gentil, pero no perdona al que ose invadir su territorio. Su mayor baza son sus colmillos, que cortan el acero.",
+        "Blanco": "Sus colmillos no se quiebran ni aunque los hinque en un armazón de acero. Está protegido por una resistente armadura.",
+        "Negro 2": "Sus colmillos poseen una increíble fuerza destructiva, capaz de desgarrar incluso una dura y espesa columna de acero.",
+        "Blanco 2": "Sus colmillos poseen una increíble fuerza destructiva, capaz de desgarrar incluso una dura y espesa columna de acero.",
+        "Pokémon X": "Es gentil, pero no perdona al que ose invadir su territorio. Su mayor baza son sus colmillos, que cortan el acero.",
+        "Pokémon Y": "Sus colmillos no se quiebran ni aunque los hinque en un armazón de acero. Está protegido por una resistente armadura.",
+        "Rubí Omega": "Es gentil, pero no perdona al que ose invadir su territorio. Su mayor baza son sus colmillos, que cortan el acero.",
+        "Zafiro Alfa": "Sus colmillos no se quiebran ni aunque los hinque en un armazón de acero. Está protegido por una resistente armadura.",
+        "Sol": "No hay entrada de Haxorus en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Haxorus en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Haxorus en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Haxorus en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Su mayor baza son sus colmillos, de gran tamaño y robustez. Lame la tierra en busca de minerales para mantenerlos fuertes y resistentes.",
+        "Escudo": "Amable por naturaleza, infunde auténtico pavor al enfadarse. Su mayor baza son los colmillos, con los que puede cortar un armazón de acero.",
+        "Diamante Brillante": "Haxorus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Haxorus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Haxorus no aparece en Leyendas Pokémon: Arceus."
+    }
+}

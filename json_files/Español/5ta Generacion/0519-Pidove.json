@@ -1,0 +1,99 @@
+{
+    "dex number": "0519",
+    "pokemon name": "Pidove",
+    "types": [
+        " normal",
+        " volador"
+    ],
+    "abilities": [
+        "Sacapecho",
+        "Afortunado"
+    ],
+    "hidden abilities": [
+        "Rivalidad"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 55,
+        "def": 50,
+        "atk esp": 36,
+        "def esp": 30,
+        "speed": 43
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 3 y Bosque Azulejo"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 3 y Bosque Azulejo"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 20, Rancho Ocre, Polígono Hormigón y Solar de Ciudad Porcelana",
+            "Pokémon de N: Bosque Azulejo, tras activar el Nexo Recuerdo y haber recibido a Zorua en la historia (solo 1)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 20, Rancho Ocre, Polígono Hormigón y Solar de Ciudad Porcelana",
+            "Pokémon de N: Bosque Azulejo, tras activar el Nexo Recuerdo y haber recibido a Zorua en la historia (solo 1)"
+        ],
+        "Pokémon X": [
+            "Criar: de Tranquill o Unfezant"
+        ],
+        "Pokémon Y": [
+            "Criar: de Tranquill o Unfezant"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 104, Ruta 115 y Ruta 116, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 104, Ruta 115 y Ruta 116, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Antigua Atalaya (escondidos en hierba alta cuando está despejado), Lago Axew (este) (despejado y en el aire), Lago Milotic (norte) (escondidos en hierba alta cuando está despejado) y Pradera Radiante (despejado y en el aire).",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste."
+        ],
+        "Escudo": [
+            "Salvaje: Antigua Atalaya (escondidos en hierba alta cuando está despejado), Lago Axew (este) (despejado y en el aire), Lago Milotic (norte) (escondidos en hierba alta cuando está despejado) y Pradera Radiante (despejado y en el aire).",
+            "Incursiones Dinamax: Lago Axew (este), nido al oeste de la entrada a ciudad Pistón, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste, Pradera Radiante, nido cerca del Punto de Encuentro, Ribera de Pistón, nido junto al puente y Valle Entrepuentes, nido al noroeste."
+        ],
+        "Diamante Brillante": [
+            "Pidove no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pidove no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pidove no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Es muy obediente con su Entrenador, pero a veces no logra comprender órdenes complicadas.",
+        "Blanco": "Vive en la ciudad, pues se lleva muy bien con la gente. Le encantan los parques y las plazas, donde se reúne con otros.",
+        "Negro 2": "Es un Pokémon muy despistado. Aunque reciba órdenes de su Entrenador, se le olvidan, y se queda esperando.",
+        "Blanco 2": "Es un Pokémon muy despistado. Aunque reciba órdenes de su Entrenador, se le olvidan, y se queda esperando.",
+        "Pokémon X": "Es un Pokémon muy despistado. Aunque reciba órdenes de su Entrenador, se le olvidan, y se queda esperando.",
+        "Pokémon Y": "Vive en la ciudad, pues se lleva muy bien con la gente. Le encantan los parques y las plazas, donde se reúne con otros.",
+        "Rubí Omega": "Es un Pokémon muy despistado. Aunque reciba órdenes de su Entrenador, se le olvidan, y se queda esperando.",
+        "Zafiro Alfa": "Vive en la ciudad, pues se lleva muy bien con la gente. Le encantan los parques y las plazas, donde se reúne con otros.",
+        "Sol": "No hay entrada de Pidove en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Pidove en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Pidove en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Pidove en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Aparece en lugares habitados por humanos. Conviene tener cuidado al darles de comer, ya que esto podría atraer a cientos de ejemplares.",
+        "Escudo": "Es muy olvidadizo y no demasiado avispado, pero muchos Entrenadores le tienen simpatía por su carácter afable y sincero.",
+        "Diamante Brillante": "Pidove no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pidove no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pidove no aparece en Leyendas Pokémon: Arceus."
+    }
+}

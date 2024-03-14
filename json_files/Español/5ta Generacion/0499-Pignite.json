@@ -1,0 +1,96 @@
+{
+    "dex number": "0499",
+    "pokemon name": "Pignite",
+    "types": [
+        " fuego",
+        " lucha"
+    ],
+    "abilities": [
+        "Mar llamas"
+    ],
+    "hidden abilities": [
+        "Sebo"
+    ],
+    "stats": {
+        "hp": 90,
+        "atk": 93,
+        "def": 55,
+        "atk esp": 70,
+        "def esp": 55,
+        "speed": 55
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Tepig (nivel 17)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Tepig (nivel 17)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Tepig (nivel 17)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Tepig (nivel 17)"
+        ],
+        "Pokémon X": [
+            "Transferir: de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Transferir: de Pokémon Negro, Pokémon Blanco, Pokémon Negro 2 o Pokémon Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Tepig (nivel 17)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Tepig (nivel 17)"
+        ],
+        "Sol": [
+            "Evolucionar: a Tepig (nivel 17)"
+        ],
+        "Luna": [
+            "Evolucionar: a Tepig (nivel 17)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Pignite no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Pignite no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Pignite no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Pignite no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Pignite no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Cuando las llamas de su interior se avivan, aumenta su velocidad y agilidad. Emite humo si está en peligro.",
+        "Blanco": "Convierte lo que come en combustible y alimenta el fuego en su estómago. Si se enfada, se intensifican sus llamas.",
+        "Negro 2": "Cuanto más come, más combustible tiene en su interior para avivar sus llamas, con lo que también aumenta su poder.",
+        "Blanco 2": "Cuanto más come, más combustible tiene en su interior para avivar sus llamas, con lo que también aumenta su poder.",
+        "Pokémon X": "Cuanto más come, más combustible tiene en su interior para avivar sus llamas, con lo que también aumenta su poder.",
+        "Pokémon Y": "Cuando las llamas de su interior se avivan, aumenta su velocidad y agilidad. Emite humo si está en peligro.",
+        "Rubí Omega": "Cuanto más come, más combustible tiene en su interior para avivar sus llamas, con lo que también aumenta su poder.",
+        "Zafiro Alfa": "Cuando las llamas de su interior se avivan, aumenta su velocidad y agilidad. Emite humo si está en peligro.",
+        "Sol": "No hay entrada de Pignite en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Pignite en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Pignite en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Pignite en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Pignite no aparece en Pokémon Espada.",
+        "Escudo": "Pignite no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Pignite no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Pignite no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Pignite no aparece en Leyendas Pokémon: Arceus."
+    }
+}

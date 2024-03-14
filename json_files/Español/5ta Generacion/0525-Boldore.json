@@ -1,0 +1,110 @@
+{
+    "dex number": "0525",
+    "pokemon name": "Boldore",
+    "types": [
+        " roca"
+    ],
+    "abilities": [
+        "Robustez",
+        "Armadura frágil"
+    ],
+    "hidden abilities": [
+        "Poder arena"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 105,
+        "def": 105,
+        "atk esp": 50,
+        "def esp": 40,
+        "speed": 20
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Cueva Loza, Cueva Electrorroca, Monte Tuerca, Gruta Superación, Calle Victoria y Boquete Gigante",
+            "Evolucionar: a Roggenrola (nivel 25)"
+        ],
+        "Blanco": [
+            "Salvaje: Cueva Loza, Cueva Electrorroca, Monte Tuerca, Gruta Superación, Calle Victoria y Boquete Gigante",
+            "Evolucionar: a Roggenrola (nivel 25)"
+        ],
+        "Negro 2": [
+            "Salvaje: Cueva Loza, Cueva Electrorroca, Monte Tuerca, Gruta Superación, Calle Victoria, Pasadizo Ancestral, Cueva Manantial, Túnel Yakón, Montaña Reversia y Gruta Marina",
+            "Evolucionar: a Roggenrola (nivel 25)",
+            "Especial: Cueva Electrorroca después de recibir a Zorua en la historia y usar el Nexo Recuerdo (solo uno)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Cueva Loza, Cueva Electrorroca, Monte Tuerca, Gruta Superación, Calle Victoria, Pasadizo Ancestral, Cueva Manantial, Túnel Yakón, Montaña Reversia y Gruta Marina",
+            "Evolucionar: a Roggenrola (nivel 25)",
+            "Especial: Cueva Electrorroca después de recibir a Zorua en la historia y usar el Nexo Recuerdo (solo uno)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Roggenrola (nivel 25)",
+            "Especial: Safari amistad, en algunos safaris de tipo roca"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Roggenrola (nivel 25)",
+            "Especial: Safari amistad, en algunos safaris de tipo roca"
+        ],
+        "Rubí Omega": [
+            "Golpe roca: Cueva Espejismo",
+            "Evolucionar: a Roggenrola (nivel 25)"
+        ],
+        "Zafiro Alfa": [
+            "Golpe roca: Cueva Espejismo",
+            "Evolucionar: a Roggenrola (nivel 25)"
+        ],
+        "Sol": [
+            "Salvaje: Cañón de Poni",
+            "Evolucionar: a Roggenrola (nivel 25)"
+        ],
+        "Luna": [
+            "Salvaje: Cañón de Poni",
+            "Evolucionar: a Roggenrola (nivel 25)"
+        ],
+        "Ultrasol": [
+            "Salvaje: Cañón de Poni",
+            "Evolucionar: a Roggenrola (nivel 25)"
+        ],
+        "Ultraluna": [
+            "Salvaje: Cañón de Poni",
+            "Evolucionar: a Roggenrola (nivel 25)"
+        ],
+        "Espada": [
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste.",
+            "Evolucionar: a Roggenrola (nivel 25)"
+        ],
+        "Escudo": [
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Llanura Pétrea, nido al suroeste entre rocas, Pradera Radiante, nido al sureste junto a la pared, Silla del Gigante, nido al sur junto al lago y Silla del Gigante, nido al sureste.",
+            "Evolucionar: a Roggenrola (nivel 25)"
+        ],
+        "Diamante Brillante": [
+            "Boldore no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Boldore no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Boldore no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Cuando está rebosante de energía, brillan sus cristales naranjas. Busca aguas subterráneas en las cuevas.",
+        "Blanco": "La energía que no puede contener en el interior de su cuerpo se escapa formando cristales naranjas.",
+        "Negro 2": "Si se encuentra bien, deja entrever su núcleo. Puede cambiar rápidamente la dirección en la que mira sin girarse.",
+        "Blanco 2": "Si se encuentra bien, deja entrever su núcleo. Puede cambiar rápidamente la dirección en la que mira sin girarse.",
+        "Pokémon X": "La energía que no puede contener en el interior de su cuerpo se escapa formando cristales naranjas.",
+        "Pokémon Y": "Si se encuentra bien, deja entrever su núcleo. Puede cambiar rápidamente la dirección en la que mira sin girarse.",
+        "Rubí Omega": "La energía que no puede contener en el interior de su cuerpo se escapa formando cristales naranjas.",
+        "Zafiro Alfa": "Si se encuentra bien, deja entrever su núcleo. Puede cambiar rápidamente la dirección en la que mira sin girarse.",
+        "Sol": "Los cristales naranjas de su cuerpo son energía condensada. Uno solo puede suministrar combustible para 100 camiones.",
+        "Luna": "Busca lagos subterráneos en las cuevas. Como le cuesta asimilar el agua, tiene que beber lentamente a base de lametones.",
+        "Ultrasol": "La energía que desprende de su cuerpo termina por solidificarse en cristales anaranjados, tan duros que pueden quebrar hasta los diamantes.",
+        "Ultraluna": "Los cristales naranjas de su cuerpo son energía condensada. El valor que poseen es tal que lo convierten en un Pokémon muy codiciado.",
+        "Espada": "Cuando sus cristales anaranjados comienzan a brillar, conviene tener cuidado, pues es señal de que está a punto de liberar energía.",
+        "Escudo": "Se vale del sonido para percibir el entorno. Si alguien despierta su ira, lo perseguirá sin cambiar la orientación del cuerpo.",
+        "Diamante Brillante": "Boldore no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Boldore no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Boldore no aparece en Leyendas Pokémon: Arceus."
+    }
+}

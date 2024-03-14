@@ -1,0 +1,100 @@
+{
+    "dex number": "0636",
+    "pokemon name": "Larvesta",
+    "types": [
+        " bicho",
+        " fuego"
+    ],
+    "abilities": [
+        "Cuerpo llama"
+    ],
+    "hidden abilities": [
+        "Enjambre"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 85,
+        "def": 55,
+        "atk esp": 50,
+        "def esp": 55,
+        "speed": 60
+    },
+    "location": {
+        "Negro": [
+            "Regalo: se recibe un huevo de Larvesta en una casa de la Ruta 18",
+            "Criar: de Volcarona"
+        ],
+        "Blanco": [
+            "Regalo: se recibe un huevo de Larvesta en una casa de la Ruta 18",
+            "Criar: de Volcarona"
+        ],
+        "Negro 2": [
+            "Criar: de Volcarona"
+        ],
+        "Blanco 2": [
+            "Criar: de Volcarona"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo fuego"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo fuego"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Bosque espejismo e Isla Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Bosque espejismo e Isla Espejismo"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Jungla Umbría"
+        ],
+        "Ultraluna": [
+            "Salvaje: Jungla Umbría"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Concentración  y Bahía Circular ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Playa Desafío , Cuenca Arenosa  y Bahía Circular "
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Concentración  y Bahía Circular ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Playa Desafío , Cuenca Arenosa  y Bahía Circular "
+        ],
+        "Diamante Brillante": [
+            "Larvesta no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Larvesta no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Larvesta no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Se creía que este Pokémon había nacido del Sol. Cuando evoluciona todo su cuerpo es envuelto en llamas.",
+        "Blanco": "Vive en las laderas de los volcanes. Emite fuego por sus cinco cuernos para ahuyentar a sus enemigos.",
+        "Negro 2": "Se dice que nació del Sol. Al evolucionar, cubre su cuerpo con llamas que brotan de sus cuernos.",
+        "Blanco 2": "Se dice que nació del Sol. Al evolucionar, cubre su cuerpo con llamas que brotan de sus cuernos.",
+        "Pokémon X": "Se dice que nació del Sol. Al evolucionar, cubre su cuerpo con llamas que brotan de sus cuernos.",
+        "Pokémon Y": "Vive en las laderas de los volcanes. Emite fuego por sus cinco cuernos para ahuyentar a sus enemigos.",
+        "Rubí Omega": "Se dice que nació del Sol. Al evolucionar, cubre su cuerpo con llamas que brotan de sus cuernos.",
+        "Zafiro Alfa": "Vive en las laderas de los volcanes. Emite fuego por sus cinco cuernos para ahuyentar a sus enemigos.",
+        "Sol": "No hay entrada de Larvesta en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Larvesta en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Cuando ha de enfrentarse a un rival, expulsa a través de los cinco cuernos llamaradas que llegan a alcanzar temperaturas de 3000 ºC.",
+        "Ultraluna": "Utiliza las llamas para defenderse. La gente de épocas pasadas tenía la creencia de que anidaba en el propio sol.",
+        "Espada": "Antaño se creía que este Pokémon provenía del mismísimo sol.",
+        "Escudo": "Su cuerpo es cálido. Expulsa llamaradas por los cuernos con el fin de intimidar a sus enemigos y presas.",
+        "Diamante Brillante": "Larvesta no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Larvesta no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Larvesta no aparece en Leyendas Pokémon: Arceus."
+    }
+}

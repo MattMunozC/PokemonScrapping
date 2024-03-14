@@ -1,0 +1,106 @@
+{
+    "dex number": "0620",
+    "pokemon name": "Mienshao",
+    "types": [
+        " lucha"
+    ],
+    "abilities": [
+        "Fuerza mental",
+        "Regeneración"
+    ],
+    "hidden abilities": [
+        "Audaz"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 125,
+        "def": 60,
+        "atk esp": 95,
+        "def esp": 60,
+        "speed": 105
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 14",
+            "Evolucionar: a Mienfoo (nivel 50)"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 14",
+            "Evolucionar: a Mienfoo (nivel 50)"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 23 y Torre Duodraco",
+            "Evolucionar: a Mienfoo (nivel 50)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 23 y Torre Duodraco",
+            "Evolucionar: a Mienfoo (nivel 50)"
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Mienfoo (nivel 50)"
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Mienfoo (nivel 50)"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Mienfoo (nivel 50)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Mienfoo (nivel 50)"
+        ],
+        "Espada": [
+            "Salvaje: Ruta Desafío ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Playa Desafío , Ruta Desafío  y Mar Meloso ",
+            "Evolucionar: a Mienfoo (nivel 50)"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta Desafío ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Prado Reverencia , Playa Desafío , Ruta Desafío  y Mar Meloso ",
+            "Evolucionar: a Mienfoo (nivel 50)"
+        ],
+        "Diamante Brillante": [
+            "Mienshao no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Mienshao no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Mienshao no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Usa el pelaje de sus brazos a manera de látigos. Sus ataques alcanzan velocidades de vértigo.",
+        "Blanco": "Golpea a sus enemigos con el pelaje de sus brazos, que usa a manera de látigos.",
+        "Negro 2": "Usa el pelaje de sus brazos a modo de látigos para encadenar ataques que nadie puede parar una vez iniciados.",
+        "Blanco 2": "Usa el pelaje de sus brazos a modo de látigos para encadenar ataques que nadie puede parar una vez iniciados.",
+        "Pokémon X": "Usa el pelaje de sus brazos a manera de látigos. Sus ataques alcanzan velocidades de vértigo.",
+        "Pokémon Y": "Usa el pelaje de sus brazos a modo de látigos para encadenar ataques que nadie puede parar una vez iniciados.",
+        "Rubí Omega": "Usa el pelaje de sus brazos a manera de látigos. Sus ataques alcanzan velocidades de vértigo.",
+        "Zafiro Alfa": "Usa el pelaje de sus brazos a modo de látigos para encadenar ataques que nadie puede parar una vez iniciados.",
+        "Sol": "No hay entrada de Mienshao en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Mienshao en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Ataca al rival con una rápida ráfaga de golpes, mientras reúne poco a poco la energía necesaria para asestar el golpe definitivo.",
+        "Ultraluna": "Si emite extraños aullidos, hay que extremar la precaución: empezará a repartir un sinfín de patadas y puñetazos a una velocidad pasmosa.",
+        "Espada": "Cuando se encuentra frente a un oponente de categoría, se arranca parte del pelaje de los brazos a mordiscos para ganar agilidad.",
+        "Escudo": "Sus veloces patadas, que escapan al ojo humano, son capaces de reducir a escombros incluso rocas de gran tamaño.",
+        "Diamante Brillante": "Mienshao no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Mienshao no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Mienshao no aparece en Leyendas Pokémon: Arceus."
+    }
+}

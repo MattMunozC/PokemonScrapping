@@ -1,0 +1,99 @@
+{
+    "dex number": "0542",
+    "pokemon name": "Leavanny",
+    "types": [
+        " bicho",
+        " planta"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Clorofila"
+    ],
+    "hidden abilities": [
+        "Funda"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 103,
+        "def": 80,
+        "atk esp": 70,
+        "def esp": 70,
+        "speed": 92
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 6 (Teselia), Bosque de los Perdidos",
+            "Evolucionar: a Swadloon (amistad alta, subiendo un nivel)."
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 6 (Teselia), Bosque de los Perdidos",
+            "Evolucionar: a Swadloon (amistad alta, subiendo un nivel)."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 6 (Teselia), Ruta 12 (Teselia), Bosque de los Perdidos",
+            "Evolucionar: a Swadloon (amistad alta, subiendo un nivel)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 6 (Teselia), Ruta 12 (Teselia), Bosque de los Perdidos",
+            "Evolucionar: a Swadloon (amistad alta, subiendo un nivel)."
+        ],
+        "Pokémon X": [
+            "Evolucionar: a Swadloon (amistad alta, subiendo un nivel)."
+        ],
+        "Pokémon Y": [
+            "Evolucionar: a Swadloon (amistad alta, subiendo un nivel)."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Swadloon (amistad alta, subiendo un nivel)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Swadloon (amistad alta, subiendo un nivel)."
+        ],
+        "Sol": [
+            "Escáner insular: en los Jardines de Poni (Solo los miércoles)."
+        ],
+        "Luna": [
+            "Escáner insular: en los Jardines de Poni (Solo los miércoles)."
+        ],
+        "Ultrasol": [
+            "Escáner insular: en los Jardines de Poni (Solo los miércoles)."
+        ],
+        "Ultraluna": [
+            "Escáner insular: en los Jardines de Poni (Solo los miércoles)."
+        ],
+        "Espada": [
+            "Leavanny no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Leavanny no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Leavanny no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Leavanny no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Leavanny no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Cuando se encuentra con un pequeño Pokémon, suele usar sus cuchillas y líquido viscoso para hacerle ropa.",
+        "Blanco": "Calienta sus huevos con el calor desprendido por el humus. Hace mantillas con las hojas para Sewaddle.",
+        "Negro 2": "Si se encuentra con un Pokémon joven, segrega por la boca hilos pegadizos con los que le teje una prenda de ropa.",
+        "Blanco 2": "Si se encuentra con un Pokémon joven, segrega por la boca hilos pegadizos con los que le teje una prenda de ropa.",
+        "Pokémon X": "Si se encuentra con un Pokémon joven, segrega por la boca hilos pegadizos con los que le teje una prenda de ropa.",
+        "Pokémon Y": "Calienta sus huevos con el calor desprendido por el humus. Hace mantillas con las hojas para Sewaddle.",
+        "Rubí Omega": "Si se encuentra con un Pokémon joven, segrega por la boca hilos pegadizos con los que le teje una prenda de ropa.",
+        "Zafiro Alfa": "Calienta sus huevos con el calor desprendido por el humus. Hace mantillas con las hojas para Sewaddle.",
+        "Sol": "No hay entrada de Leavanny en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Leavanny en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Leavanny en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Leavanny en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Leavanny no aparece en Pokémon Espada.",
+        "Escudo": "Leavanny no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Leavanny no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Leavanny no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Leavanny no aparece en Leyendas Pokémon: Arceus."
+    }
+}

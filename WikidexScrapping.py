@@ -5,14 +5,50 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 from bs4 import BeautifulSoup as bs
 from pprint import pprint
 import json
-from os import getcwd
+from os import getcwd,path
 r.packages.urllib3.disable_warnings(InsecureRequestWarning) 
 
-VALID_TITLES=['RojoAzul', 'Amarillo', 'Oro', 'Plata', 'Cristal', 'Rubí', 'Zafiro', 'Esmeralda', 'Rojo Fuego', 'Verde Hoja', 'Diamante', 'Perla', 'Platino', 'Oro HeartGold', 'Plata SoulSilver', 'Negro', 'Blanco', 'Negro 2', 'Blanco 2', 'Pokémon X', 'Pokémon Y', 'Rubí Omega', 'Zafiro Alfa', 'Sol', 'Luna', 'Ultrasol', 'Ultraluna', "Let's Go Pikachu!Let's Go Eevee!", 'Espada', 'Escudo', 'Diamante Brillante', 'Perla Reluciente', 'Leyendas: Arceus']
+VALID_TITLES=[
+    'RojoAzul', 
+    'Amarillo', 
+    'Oro', 
+    'Plata', 
+    'Cristal', 
+    'Rubí', 
+    'Zafiro', 
+    'Esmeralda', 
+    'Rojo Fuego', 
+    'Verde Hoja', 
+    'Diamante', 
+    'Perla', 
+    'Platino', 
+    'Oro HeartGold', 
+    'Plata SoulSilver', 
+    'Negro', 
+    'Blanco', 
+    'Negro 2', 
+    'Blanco 2', 
+    'Pokémon X', 
+    'Pokémon Y', 
+    'Rubí Omega', 
+    'Zafiro Alfa', 
+    'Sol', 
+    'Luna', 
+    'Ultrasol', 
+    'Ultraluna', 
+    "Let's Go Pikachu!Let's Go Eevee!", 
+    'Espada', 
+    'Escudo', 
+    'Diamante Brillante', 
+    'Perla Reluciente', 
+    'Leyendas: Arceus'
+    ]
+#Excepted_pokemon are pokemon that their pages act differently to the standard therefore need special treatment
 EXCEPTED_POKEMON=["Mew","Typhlosion","Deoxys"]
+#Special_case are pokemon that have special characteristics that their tables are in a different position
 SPECIAL_CASE={"Ditto":3,"Cinderace":2,"Inteleon":2,"Sinistea":2,"Milcery":2}
 BASE_URL="https://www.wikidex.net/"
-BASE_DIR=getcwd()
+BASE_DIR=path.join(getcwd(),"/json_files/español")
 class RequestQuery():
     def __init__(self,url):
         url_request=r.get(url,verify=False).text
@@ -133,8 +169,7 @@ if __name__=="__main__":
     #gen 6 ok
     #gen 7 ok
     #gen 8 ok
-    #gen 9 NOT WORKING
-
-    Scrapping(PokemonList(9).PokemonList)
+    #gen 9 ok
+    Scrapping(PokemonList(5).PokemonList)
     #debug=PokemonList(3).PokemonList[-3]
     #pprint(Pokemon(debug).data())

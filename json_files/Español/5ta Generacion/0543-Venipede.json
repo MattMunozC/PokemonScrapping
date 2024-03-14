@@ -1,0 +1,98 @@
+{
+    "dex number": "0543",
+    "pokemon name": "Venipede",
+    "types": [
+        " bicho",
+        " veneno"
+    ],
+    "abilities": [
+        "Enjambre",
+        "Punto tóxico"
+    ],
+    "hidden abilities": [
+        "Pies rápidos",
+        "Impulso"
+    ],
+    "stats": {
+        "hp": 30,
+        "atk": 45,
+        "def": 59,
+        "atk esp": 30,
+        "def esp": 39,
+        "speed": 57
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Bosque Azulejo y Bosque de los Perdidos."
+        ],
+        "Blanco": [
+            "Salvaje: Bosque Azulejo y Bosque de los Perdidos."
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 20 y Bosque de los Perdidos."
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 20 y Bosque de los Perdidos."
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 6 (en los arbustos)."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 6 (en los arbustos)."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y."
+        ],
+        "Sol": [
+            "Escáner insular: en la Ruta 4 (Solo los jueves)."
+        ],
+        "Luna": [
+            "Escáner insular: en la Ruta 4 (Solo los jueves)."
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Bosque Concentración ",
+            "Incursiones Dinamax: Humedal Frescor "
+        ],
+        "Escudo": [
+            "Salvaje: Bosque Concentración ",
+            "Incursiones Dinamax: Humedal Frescor "
+        ],
+        "Diamante Brillante": [
+            "Venipede no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Venipede no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Venipede no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Inocula un poderoso veneno al morder. Hasta sus enemigos acérrimos, los Pokémon pájaro, se quedan inmóviles.",
+        "Blanco": "Percibe su entorno con su sentido del tacto, residente en su cabeza y cola. Su carácter es violento por naturaleza.",
+        "Negro 2": "Percibe cambios en el aire mediante las antenas de su cola y de su cabeza, y así descubre la ubicación y estado del rival.",
+        "Blanco 2": "Percibe cambios en el aire mediante las antenas de su cola y de su cabeza, y así descubre la ubicación y estado del rival.",
+        "Pokémon X": "Percibe su entorno con su sentido del tacto, residente en su cabeza y cola. Su carácter es violento por naturaleza.",
+        "Pokémon Y": "Inocula un poderoso veneno al morder. Hasta sus enemigos acérrimos, los Pokémon pájaro, se quedan inmóviles.",
+        "Rubí Omega": "Percibe su entorno con su sentido del tacto, residente en su cabeza y cola. Su carácter es violento por naturaleza.",
+        "Zafiro Alfa": "Inocula un poderoso veneno al morder. Hasta sus enemigos acérrimos, los Pokémon pájaro, se quedan inmóviles.",
+        "Sol": "No hay entrada de Venipede en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Venipede en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Venipede en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Venipede en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Aunque se trata de una especie emparentada con los Sizzlipede, si se encuentran ejemplares de ambas, entablarán una lucha encarnizada.",
+        "Escudo": "Sus colmillos contienen un veneno letal. Si encuentra una presa que parece comestible, se abalanza sobre ella sin pensárselo dos veces.",
+        "Diamante Brillante": "Venipede no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Venipede no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Venipede no aparece en Leyendas Pokémon: Arceus."
+    }
+}

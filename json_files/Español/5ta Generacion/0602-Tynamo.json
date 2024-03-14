@@ -1,0 +1,93 @@
+{
+    "dex number": "0602",
+    "pokemon name": "Tynamo",
+    "types": [
+        " eléctrico"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 35,
+        "atk": 55,
+        "def": 40,
+        "atk esp": 45,
+        "def esp": 40,
+        "speed": 60
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Cueva Electrorroca"
+        ],
+        "Blanco": [
+            "Salvaje: Cueva Electrorroca"
+        ],
+        "Negro 2": [
+            "Salvaje: Cueva Electrorroca y Gruta Marina"
+        ],
+        "Blanco 2": [
+            "Salvaje: Cueva Electrorroca y Gruta Marina"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: transferir de videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cueva Espejismo"
+        ],
+        "Sol": [
+            "Criar: de Eelektross"
+        ],
+        "Luna": [
+            "Criar: de Eelektross"
+        ],
+        "Ultrasol": [
+            "Criar: de Eelektross"
+        ],
+        "Ultraluna": [
+            "Criar: de Eelektross"
+        ],
+        "Espada": [
+            "Tynamo no aparece en Pokémon Espada."
+        ],
+        "Escudo": [
+            "Tynamo no aparece en Pokémon Escudo."
+        ],
+        "Diamante Brillante": [
+            "Tynamo no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Tynamo no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Tynamo no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "La electricidad de uno solo es diminuta, pero, si multitud de Tynamo se conectan, consiguen la potencia de un rayo.",
+        "Blanco": "Actúa siempre en su cardumen. Cuenta con un mecanismo que genera electricidad y la libera cuando está en peligro.",
+        "Negro 2": "Apenas puede generar energía por sí mismo, pero un banco de Tynamo puede crear violentas descargas eléctricas.",
+        "Blanco 2": "Apenas puede generar energía por sí mismo, pero un banco de Tynamo puede crear violentas descargas eléctricas.",
+        "Pokémon X": "La electricidad de uno solo es diminuta, pero, si multitud de Tynamo se conectan, consiguen la potencia de un rayo.",
+        "Pokémon Y": "Apenas puede generar energía por sí mismo, pero un banco de Tynamo puede crear violentas descargas eléctricas.",
+        "Rubí Omega": "La electricidad de uno solo es diminuta, pero, si multitud de Tynamo se conectan, consiguen la potencia de un rayo.",
+        "Zafiro Alfa": "Apenas puede generar energía por sí mismo, pero un banco de Tynamo puede crear violentas descargas eléctricas.",
+        "Sol": "No hay entrada de Tynamo en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Tynamo en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Tynamo en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Tynamo en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Tynamo no aparece en Pokémon Espada.",
+        "Escudo": "Tynamo no aparece en Pokémon Escudo.",
+        "Diamante Brillante": "Tynamo no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Tynamo no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Tynamo no aparece en Leyendas Pokémon: Arceus."
+    }
+}

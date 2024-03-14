@@ -1,0 +1,98 @@
+{
+    "dex number": "0635",
+    "pokemon name": "Hydreigon",
+    "types": [
+        " siniestro",
+        " dragón"
+    ],
+    "abilities": [
+        "Levitación"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 92,
+        "atk": 105,
+        "def": 90,
+        "atk esp": 125,
+        "def esp": 90,
+        "speed": 98
+    },
+    "location": {
+        "Negro": [
+            "Evolucionar: a Zweilous (nivel 64)"
+        ],
+        "Blanco": [
+            "Evolucionar: a Zweilous (nivel 64)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Zweilous (nivel 64)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Zweilous (nivel 64)"
+        ],
+        "Pokémon X": [
+            "Salvaje: Calle Victoria",
+            "Evolucionar: a Zweilous (nivel 64)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Calle Victoria",
+            "Evolucionar: a Zweilous (nivel 64)"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Zweilous (nivel 64)",
+            "Evento: En Teraincursiones de evento (ver más abajo)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Zweilous (nivel 64)",
+            "Evento: En Teraincursiones de evento (ver más abajo)"
+        ],
+        "Sol": [
+            "Evolucionar: a Zweilous (nivel 64)"
+        ],
+        "Luna": [
+            "Evolucionar: a Zweilous (nivel 64)"
+        ],
+        "Ultrasol": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Luna"
+        ],
+        "Espada": [
+            "Salvaje: Grutas Sonamar ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna.",
+            "Evolucionar: a Zweilous (nivel 64)"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Hydreigon no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Hydreigon no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Hydreigon no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Vuela ayudado por sus seis alas y ataca todo aquello que encuentra a su paso. Es muy agresivo.",
+        "Blanco": "Las cabezas de sus dos brazos no tienen cerebro. Con sus tres cabezas destruye y devora todo a su paso.",
+        "Negro 2": "Un Pokémon temible que ataca todo lo que se mueve y devora con sus tres cabezas cuanto haya a su paso.",
+        "Blanco 2": "Un Pokémon temible que ataca todo lo que se mueve y devora con sus tres cabezas cuanto haya a su paso.",
+        "Pokémon X": "Las cabezas de sus dos brazos no tienen cerebro. Con sus tres cabezas destruye y devora todo a su paso.",
+        "Pokémon Y": "Un Pokémon temible que ataca todo lo que se mueve y devora con sus tres cabezas cuanto haya a su paso.",
+        "Rubí Omega": "Las cabezas de sus dos brazos no tienen cerebro. Con sus tres cabezas destruye y devora todo a su paso.",
+        "Zafiro Alfa": "Un Pokémon temible que ataca todo lo que se mueve y devora con sus tres cabezas cuanto haya a su paso.",
+        "Sol": "No hay entrada de Hydreigon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Hydreigon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Hydreigon en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Hydreigon en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Ataca y devora todo lo que se mueve. Existen numerosos relatos de pueblos enteros que fueron arrasados por este Pokémon.",
+        "Escudo": "Sus tres cabezas se alternan para dar mordiscos y no cejarán en su ataque hasta que el rival haya caído redondo.",
+        "Diamante Brillante": "Hydreigon no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Hydreigon no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Hydreigon no aparece en Leyendas Pokémon: Arceus."
+    }
+}

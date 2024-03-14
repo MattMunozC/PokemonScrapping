@@ -1,0 +1,98 @@
+{
+    "dex number": "0556",
+    "pokemon name": "Maractus",
+    "types": [
+        " planta"
+    ],
+    "abilities": [
+        "Absorbe agua",
+        "Clorofila"
+    ],
+    "hidden abilities": [
+        "Colector"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 86,
+        "def": 67,
+        "atk esp": 106,
+        "def esp": 67,
+        "speed": 60
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Zona Desierto"
+        ],
+        "Blanco": [
+            "Salvaje: Zona Desierto"
+        ],
+        "Negro 2": [
+            "Salvaje: Zona Desierto",
+            "Dream World: Monte Escarpado"
+        ],
+        "Blanco 2": [
+            "Salvaje: Zona Desierto",
+            "Dream World: Monte Escarpado"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo planta"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo planta"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Isla Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Isla Espejismo"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 6, Valle Entrepuentes, Cornisa de Artejo y Llanura Pétrea",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al norte 1 y Espejo del Gigante, nido al sur. Nidos en Prado Reverencia , Humedal Frescor , Llano Entrenamiento  y Mar Islejos "
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 6, Valle Entrepuentes, Cornisa de Artejo y Llanura Pétrea",
+            "Incursiones Dinamax: Arboleda Claroscuro, nido al norte 1 y Espejo del Gigante, nido al sur. Nidos en Prado Reverencia , Humedal Frescor , Llano Entrenamiento  y Mar Islejos "
+        ],
+        "Diamante Brillante": [
+            "Maractus no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Maractus no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Maractus no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Espanta a los Pokémon pájaro con un baile rápido y haciendo ruido para evitar que picoteen las semillas de sus flores.",
+        "Blanco": "Vive en territorio árido. Emite un sonido parecido a unas maracas si se mueve de forma rítmica.",
+        "Negro 2": "Mueven su cuerpo de manera rítmica y emiten un sonido como el de las maracas. Los Pokémon que se sorprenden huyen.",
+        "Blanco 2": "Mueven su cuerpo de manera rítmica y emiten un sonido como el de las maracas. Los Pokémon que se sorprenden huyen.",
+        "Pokémon X": "Espanta a los Pokémon pájaro con un baile rápido y haciendo ruido para evitar que picoteen las semillas de sus flores.",
+        "Pokémon Y": "Vive en territorio árido. Emite un sonido parecido a unas maracas si se mueve de forma rítmica.",
+        "Rubí Omega": "Espanta a los Pokémon pájaro con un baile rápido y haciendo ruido para evitar que picoteen las semillas de sus flores.",
+        "Zafiro Alfa": "Vive en territorio árido. Emite un sonido parecido a unas maracas si se mueve de forma rítmica.",
+        "Sol": "No hay entrada de Maractus en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Maractus en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Maractus en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Maractus en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Emite un sonido parecido a unas maracas. Se mueve con un ritmo marchoso para sorprender a los Pokémon pájaro, que huyen espantados.",
+        "Escudo": "Una vez al año, esparce sus semillas, cuyo alto valor nutritivo las convierte en una inestimable fuente de alimento en el desierto.",
+        "Diamante Brillante": "Maractus no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Maractus no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Maractus no aparece en Leyendas Pokémon: Arceus."
+    }
+}

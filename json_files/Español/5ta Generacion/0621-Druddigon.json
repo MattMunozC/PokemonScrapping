@@ -1,0 +1,104 @@
+{
+    "dex number": "0621",
+    "pokemon name": "Druddigon",
+    "types": [
+        " dragón"
+    ],
+    "abilities": [
+        "Piel tosca",
+        "Potencia bruta"
+    ],
+    "hidden abilities": [
+        "Rompemoldes"
+    ],
+    "stats": {
+        "hp": 77,
+        "atk": 120,
+        "def": 90,
+        "atk esp": 60,
+        "def esp": 90,
+        "speed": 48
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Torre Duodraco"
+        ],
+        "Blanco": [
+            "Salvaje: Torre Duodraco"
+        ],
+        "Negro 2": [
+            "Salvaje: Torre Duodraco y Calle Victoria",
+            "Dream World: Cueva Helada"
+        ],
+        "Blanco 2": [
+            "Salvaje: Torre Duodraco y Calle Victoria",
+            "Dream World: Cueva Helada"
+        ],
+        "Pokémon X": [
+            "Salvaje: Calle Victoria",
+            "Especial: Safari Amistad, en algunos safaris de tipo dragón"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Calle Victoria",
+            "Especial: Safari Amistad, en algunos safaris de tipo dragón"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cascada Meteoro, usando el DexNav tras obtener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Cascada Meteoro, usando el DexNav tras obtener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Gruta Desenlace"
+        ],
+        "Ultraluna": [
+            "Salvaje: Gruta Desenlace"
+        ],
+        "Espada": [
+            "Salvaje: Cueva Contienda , Cueva Tenacidad , Desfiladero Nevado , Túnel Ascensión , Senda Blancacima  y Encrucijada Tresvías ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Bahía Circular , Mar Meloso , Mar Gimnástico , Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Escudo": [
+            "Salvaje: Cueva Contienda , Cueva Tenacidad , Desfiladero Nevado , Túnel Ascensión , Senda Blancacima  y Encrucijada Tresvías ",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: nidos en Bahía Circular , Mar Meloso , Mar Gimnástico , Lecho del Gigante , Senda Blancacima , Mar Gélido , Encrucijada Tresvías  y Lago Bolaguna "
+        ],
+        "Diamante Brillante": [
+            "Druddigon no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Druddigon no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Druddigon no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Calienta su cuerpo absorbiendo los rayos de sol por las alas. No se puede mover si baja su temperatura corporal.",
+        "Blanco": "Corre por estrechas cavernas y atrapa a sus presas con sus afiladas garras. La piel de su cara es más dura que una roca.",
+        "Negro 2": "Recorre los estrechos túneles excavados por Excadrill y Onix, y captura a sus presas usando sus afiladas garras.",
+        "Blanco 2": "Recorre los estrechos túneles excavados por Excadrill y Onix, y captura a sus presas usando sus afiladas garras.",
+        "Pokémon X": "Corre por estrechas cavernas y atrapa a sus presas con sus afiladas garras. La piel de su cara es más dura que una roca.",
+        "Pokémon Y": "Calienta su cuerpo absorbiendo los rayos de sol por las alas. No se puede mover si baja su temperatura corporal.",
+        "Rubí Omega": "Corre por estrechas cavernas y atrapa a sus presas con sus afiladas garras. La piel de su cara es más dura que una roca.",
+        "Zafiro Alfa": "Calienta su cuerpo absorbiendo los rayos de sol por las alas. No se puede mover si baja su temperatura corporal.",
+        "Sol": "No hay entrada de Druddigon en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Druddigon en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "La piel roja de su cara es más dura que una roca. La usa para atacar a sus enemigos cuando los acorrala en cuevas angostas.",
+        "Ultraluna": "Aprovecha los túneles excavados por los Diglett y Dugtrio para esperar tranquilamente en su interior a que alguna presa pase cerca.",
+        "Espada": "Habita en túneles. Pierde la movilidad si baja su temperatura corporal, por lo que aprovecha la menor oportunidad para tomar el sol.",
+        "Escudo": "Posee una personalidad despiadada y ladina. Se apropia de los túneles excavados por otros Pokémon y los habita.",
+        "Diamante Brillante": "Druddigon no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Druddigon no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Druddigon no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "dex number": "0606",
+    "pokemon name": "Beheeyem",
+    "types": [
+        " psíquico"
+    ],
+    "abilities": [
+        "Telepatía",
+        "Sincronía"
+    ],
+    "hidden abilities": [
+        "Cálculo final"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 75,
+        "def": 75,
+        "atk esp": 125,
+        "def esp": 95,
+        "speed": 40
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 14",
+            "Evolucionar: a Elgyem (nivel 42)"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 14",
+            "Evolucionar: a Elgyem (nivel 42)"
+        ],
+        "Negro 2": [
+            "Evolucionar: a Elgyem (nivel 42)"
+        ],
+        "Blanco 2": [
+            "Evolucionar: a Elgyem (nivel 42)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde Pokémon Negro, Blanco, Negro 2 o Blanco 2",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Elgyem (nivel 42)"
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Elgyem (nivel 42)"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol y Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol y Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Evolucionar: a Elgyem (nivel 42)"
+        ],
+        "Ultraluna": [
+            "Evolucionar: a Elgyem (nivel 42)"
+        ],
+        "Espada": [
+            "Salvaje: Lago del Enfado y Valle Entrepuentes",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Humedal Frescor , Playa Desafío , Llano Entrenamiento  y Mar Andana "
+        ],
+        "Escudo": [
+            "Salvaje: Lago del Enfado y Valle Entrepuentes",
+            "Aventura Dinamax ",
+            "Incursiones Dinamax: Humedal Frescor , Playa Desafío , Llano Entrenamiento  y Mar Andana "
+        ],
+        "Diamante Brillante": [
+            "Beheeyem no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Beheeyem no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Beheeyem no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Manipula los recuerdos. Dicen que se comunica con sus compañeros cuando sus dedos tricolores parpadean.",
+        "Blanco": "Controla el cerebro del rival con su poder psíquico y manipula sus recuerdos.",
+        "Negro 2": "Parece que se comunica haciendo brillar sus dedos tricolores, pero nadie ha conseguido descifrar aún su patrón.",
+        "Blanco 2": "Parece que se comunica haciendo brillar sus dedos tricolores, pero nadie ha conseguido descifrar aún su patrón.",
+        "Pokémon X": "Parece que se comunica haciendo brillar sus dedos tricolores, pero nadie ha conseguido descifrar aún su patrón.",
+        "Pokémon Y": "Controla el cerebro del rival con su poder psíquico y manipula sus recuerdos.",
+        "Rubí Omega": "Parece que se comunica haciendo brillar sus dedos tricolores, pero nadie ha conseguido descifrar aún su patrón.",
+        "Zafiro Alfa": "Controla el cerebro del rival con su poder psíquico y manipula sus recuerdos.",
+        "Sol": "No hay entrada de Beheeyem en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Beheeyem en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Es capaz de alterar los recuerdos de sus rivales gracias a su poder psíquico. De hecho, quizá ya haya alterado los tuyos y no lo sepas.",
+        "Ultraluna": "Este Pokémon, de un poder psíquico increíble, controla a sus oponentes y altera sus recuerdos mediante la luz de sus dedos tricolores.",
+        "Espada": "Por algún extraño motivo, siempre que se avista un Beheeyem en una granja desaparece un Dubwool.",
+        "Escudo": "Es capaz de manipular los recuerdos del rival. Se lo avista en ocasiones vagando por campos de trigo.",
+        "Diamante Brillante": "Beheeyem no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Beheeyem no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Beheeyem no aparece en Leyendas Pokémon: Arceus."
+    }
+}

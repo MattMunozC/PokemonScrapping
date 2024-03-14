@@ -1,0 +1,103 @@
+{
+    "dex number": "0559",
+    "pokemon name": "Scraggy",
+    "types": [
+        " siniestro",
+        " lucha"
+    ],
+    "abilities": [
+        "Mudar",
+        "Autoestima"
+    ],
+    "hidden abilities": [
+        "Intimidación"
+    ],
+    "stats": {
+        "hp": 50,
+        "atk": 75,
+        "def": 70,
+        "atk esp": 35,
+        "def esp": 70,
+        "speed": 48
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 1, Ruta 4, Ruta 18, Laboratorio P+P y Zona Desierto"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 1, Ruta 4, Ruta 18, Laboratorio P+P y Zona Desierto"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 4 y Zona Desierto",
+            "Nexo Recuerdo: Zona Desierto tras recibir al Zorua de N (solo uno)",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 4 y Zona Desierto",
+            "Nexo Recuerdo: Zona Desierto tras recibir al Zorua de N (solo uno)",
+            "Dream World: Parque de los Sueños"
+        ],
+        "Pokémon X": [
+            "Salvaje: Ruta 5 (encuentro de horda)"
+        ],
+        "Pokémon Y": [
+            "Salvaje: Ruta 5 (encuentro de horda)"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 113, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 113, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 16 y Ruta 17"
+        ],
+        "Ultraluna": [
+            "Salvaje: Ruta 16 y Ruta 17"
+        ],
+        "Espada": [
+            "Salvaje: Mina de Galar n.º 2, Afueras de Pistón, Valle Entrepuentes, Gorro del Gigante, Llanura Pétrea, Cuenca Polvorienta, Cuenca Arenosa , Humedal Frescor  y Ruta Desafío ",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Cuenca Polvorienta, nido al sur, Lago Axew (oeste), nido junto a Ciudad Pistón, Lago Milotic (norte), nido al sureste, Lago Milotic (norte), nido junto al lago, Lago Milotic (sur), nido al norte, Llanura Pétrea, nido al noreste junto a una pared 1, Llanura Pétrea, nido al norte 2, Pradera Radiante, nido hacia el puente de Lago Axew y Valle Entrepuentes, nido al norte cerca de la laguna. Nidos en Prado Reverencia , Playa Desafío , Ruta Desafío  y Mar Meloso ",
+            "Curri: Mina de Galar n.° 2 y Afueras de Pistón"
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Scraggy no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Scraggy no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Scraggy no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Se sube la piel de su cuello para defenderse. Su elasticidad, similar al de una goma, reduce el daño recibido.",
+        "Blanco": "Propina un cabezazo inmediato a todo aquel que lo mira a los ojos. Su cráneo es muy duro.",
+        "Negro 2": "Está orgulloso de su sólido cráneo. Reparte cabezazos a diestro y siniestro con tal vehemencia que él mismo se marea.",
+        "Blanco 2": "Está orgulloso de su sólido cráneo. Reparte cabezazos a diestro y siniestro con tal vehemencia que él mismo se marea.",
+        "Pokémon X": "Se sube la piel de su cuello para defenderse. Su elasticidad, similar al de una goma, reduce el daño recibido.",
+        "Pokémon Y": "Está orgulloso de su sólido cráneo. Reparte cabezazos a diestro y siniestro con tal vehemencia que él mismo se marea.",
+        "Rubí Omega": "Se sube la piel de su cuello para defenderse. Su elasticidad, similar al de una goma, reduce el daño recibido.",
+        "Zafiro Alfa": "Está orgulloso de su sólido cráneo. Reparte cabezazos a diestro y siniestro con tal vehemencia que él mismo se marea.",
+        "Sol": "No hay entrada de Scraggy en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Scraggy en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Se desplaza con lentitud en pequeños grupos y se lía a cabezazos a la mínima que alguien le cruza la mirada.",
+        "Ultraluna": "Se sube la piel arrugada hasta el cuello para protegerse. Parece que los ejemplares con la piel más larga son los más respetados.",
+        "Espada": "No tiene reparos en liarse a cabezazos con quien se le ponga por delante, por lo que es peligroso cruzar la mirada con él.",
+        "Escudo": "Su robusta piel le sirve de protección. Cuando ya no puede estirarse más, es señal de que va a evolucionar pronto.",
+        "Diamante Brillante": "Scraggy no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Scraggy no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Scraggy no aparece en Leyendas Pokémon: Arceus."
+    }
+}

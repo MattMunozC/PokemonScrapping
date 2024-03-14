@@ -1,0 +1,98 @@
+{
+    "dex number": "0627",
+    "pokemon name": "Rufflet",
+    "types": [
+        " normal",
+        " volador"
+    ],
+    "abilities": [
+        "Vista lince",
+        "Potencia bruta"
+    ],
+    "hidden abilities": [
+        "Entusiasmo"
+    ],
+    "stats": {
+        "hp": 70,
+        "atk": 83,
+        "def": 50,
+        "atk esp": 37,
+        "def esp": 50,
+        "speed": 60
+    },
+    "location": {
+        "Negro": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Blanco 2"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 10, Ruta 11, Calle Victoria y Puente Villa"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Blanco o Pokémon Blanco 2"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 23"
+        ],
+        "Pokémon X": [
+            "Especial: Safari Amistad, en algunos safaris de tipo volador"
+        ],
+        "Pokémon Y": [
+            "Especial: Safari Amistad, en algunos safaris de tipo volador"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Monte Espejismo"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Monte Espejismo"
+        ],
+        "Sol": [
+            "Salvaje: Ruta 3",
+            "Poké Resort: Cayo Recreo, tras llegar a Melemele"
+        ],
+        "Luna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Ultrasol": [
+            "Salvaje: Ruta 3"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Sol o Pokémon Ultrasol"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 8, Valle Entrepuentes, Llanura Pétrea y Cuenca Arenosa ",
+            "Incursiones Dinamax: Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Pradera Radiante, nido al extremo oeste y Pradera Radiante, nido al noreste. Nidos en Ruta Desafío , Bahía Circular , Mar Gimnástico  y Mar Andana "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Rufflet no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Rufflet no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Salvaje:Lago Agudeza y Peñasco Espíritu",
+            "Aparición supermasivas: Tundra Alba"
+        ]
+    },
+    "pokedex": {
+        "Negro": "Quiebra bayas con sus extremidades. Se enfrenta con valentía a todo enemigo por fuerte que este sea.",
+        "Blanco": "Desafía indiscriminadamente a rivales poderosos. Librar numerosas batallas lo hace fuerte.",
+        "Negro 2": "Se enfrentan a rivales muchos mayores, no por valentía, sino por pura temeridad. Pero así es como se fortalecen.",
+        "Blanco 2": "Se enfrentan a rivales muchos mayores, no por valentía, sino por pura temeridad. Pero así es como se fortalecen.",
+        "Pokémon X": "Quiebra bayas con sus extremidades. Se enfrenta con valentía a todo enemigo por fuerte que este sea.",
+        "Pokémon Y": "Desafía indiscriminadamente a rivales poderosos. Librar numerosas batallas lo hace fuerte.",
+        "Rubí Omega": "Quiebra bayas con sus extremidades. Se enfrenta con valentía a todo enemigo por fuerte que este sea.",
+        "Zafiro Alfa": "Desafía indiscriminadamente a rivales poderosos. Librar numerosas batallas lo hace fuerte.",
+        "Sol": "Desafía indiscriminadamente a cualquier rival. Cada vez que le hieren en combate o se debilita no hace sino aumentar su fortaleza.",
+        "Luna": "Es un Pokémon carnívoro, aunque no les hace ascos a las bayas. Clava con ahínco sus garras afiladas en la presa para picotearla sin cesar.",
+        "Ultrasol": "La fuerza de los talones y dureza de las garras le permiten perforar la coraza de los Shellder para picotear su cuerpo.",
+        "Ultraluna": "Su especie es guerrera y belicosa por naturaleza y lo primero que hacen nada más nacer es medir sus fuerzas contra sus progenitores.",
+        "Espada": "Cuando ve a un Pokémon de aspecto fuerte, no puede resistirse a desafiarlo en combate. Si pierde, llora y se lamenta a pleno pulmón.",
+        "Escudo": "Es capaz de partir hasta la baya más dura gracias a la fuerza de sus extremidades. Belicoso por naturaleza, planta cara a cualquiera.",
+        "Diamante Brillante": "Rufflet no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Rufflet no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Aun siendo un polluelo, es muy impulsivo. Aprovecha cualquier ocasión para enzarzarse con sus progenitores y poner a prueba su fuerza."
+    }
+}

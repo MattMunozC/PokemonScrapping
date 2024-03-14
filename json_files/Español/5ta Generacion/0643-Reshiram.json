@@ -1,0 +1,102 @@
+{
+    "dex number": "0643",
+    "pokemon name": "Reshiram",
+    "types": [
+        " dragón",
+        " fuego"
+    ],
+    "abilities": [
+        "Turbollama"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 100,
+        "atk": 120,
+        "def": 100,
+        "atk esp": 150,
+        "def esp": 120,
+        "speed": 90
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Palacio de N (solo uno)",
+            "Salvaje: Torre Duodraco, solo si no es capturado en el Palacio de N, debido a estar el equipo y las cajas del PC llenos de Pokémon"
+        ],
+        "Blanco": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco 2",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Negro 2": [
+            "Intercambiar: de Pokémon Negro o Pokémon Blanco 2"
+        ],
+        "Blanco 2": [
+            "Salvaje: Torre Duodraco, se necesita el orbe claro (solo uno)"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Cueva Incierta (solo uno)"
+        ],
+        "Zafiro Alfa": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Ultrasol": [
+            "Ultraumbral: Ultraespacio Cero. Se debe acceder desde un ultraumbral verde (solo uno)"
+        ],
+        "Ultraluna": [
+            "Intercambiar: de Pokémon Ultrasol",
+            "Evento: Repartido por evento (ver más abajo)"
+        ],
+        "Espada": [
+            "Aventura Dinamax "
+        ],
+        "Escudo": [
+            "Intercambiar: de Pokémon Espada"
+        ],
+        "Diamante Brillante": [
+            "Reshiram no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Reshiram no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Reshiram no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Pokémon omnipresente en leyendas. Hace brotar llamas de su cola y consume todo lo que se le pone por delante.",
+        "Blanco": "Cuando la cola de Reshiram arde, su energía calorífica altera la atmósfera, y el tiempo meteorológico cambia.",
+        "Negro 2": "Pokémon legendario capaz de abrasar el mundo con sus llamas. Ayuda a quienes persiguen un mundo veraz.",
+        "Blanco 2": "Pokémon legendario capaz de abrasar el mundo con sus llamas. Ayuda a quienes persiguen un mundo veraz.",
+        "Pokémon X": "Pokémon legendario capaz de abrasar el mundo con sus llamas. Ayuda a quienes persiguen un mundo veraz.",
+        "Pokémon Y": "Cuando la cola de Reshiram arde, su energía calorífica altera la atmósfera, y el tiempo meteorológico cambia.",
+        "Rubí Omega": "Pokémon legendario capaz de abrasar el mundo con sus llamas. Ayuda a quienes persiguen un mundo veraz.",
+        "Zafiro Alfa": "Cuando la cola de Reshiram arde, su energía calorífica altera la atmósfera, y el tiempo meteorológico cambia.",
+        "Sol": "No hay entrada de Reshiram en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Reshiram en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Reshiram en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Reshiram en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Surca los cielos cual cohete a reacción expulsando llamas por la cola. Se cree que podría reducir a cenizas el mundo entero.",
+        "Escudo": "Cuenta la leyenda que sus llamas reducirán a cenizas todo país cuyas gentes desprecien la verdad y estén mancilladas por la codicia.",
+        "Diamante Brillante": "Reshiram no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Reshiram no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Reshiram no aparece en Leyendas Pokémon: Arceus."
+    }
+}

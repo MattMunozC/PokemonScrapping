@@ -1,0 +1,100 @@
+{
+    "dex number": "0509",
+    "pokemon name": "Purrloin",
+    "types": [
+        " siniestro"
+    ],
+    "abilities": [
+        "Flexibilidad",
+        "Liviano"
+    ],
+    "hidden abilities": [
+        "Bromista"
+    ],
+    "stats": {
+        "hp": 41,
+        "atk": 50,
+        "def": 37,
+        "atk esp": 50,
+        "def esp": 37,
+        "speed": 66
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Ruta 2, Ruta 3 y Solar de los Sueños"
+        ],
+        "Blanco": [
+            "Salvaje: Ruta 2, Ruta 3 y Solar de los Sueños"
+        ],
+        "Negro 2": [
+            "Salvaje: Ruta 3, Ruta 19 y Ruta 20",
+            "Especial: Ruta 2 después de recibir a Zorua en la historia y activar el Nexo Teselia (solo uno)"
+        ],
+        "Blanco 2": [
+            "Salvaje: Ruta 3, Ruta 19 y Ruta 20",
+            "Especial: Ruta 2 después de recibir a Zorua en la historia y activar el Nexo Teselia (solo uno)"
+        ],
+        "Pokémon X": [
+            "Criar: de Liepard"
+        ],
+        "Pokémon Y": [
+            "Criar: de Liepard"
+        ],
+        "Rubí Omega": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: de Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores"
+        ],
+        "Espada": [
+            "Salvaje: Ruta 2, Arboleda Claroscuro, Lago Axew (este), Ribera de Pistón, Lago Milotic (norte), Antigua Atalaya y Lago Axew (oeste).",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna.",
+            "Curri: Ruta 2"
+        ],
+        "Escudo": [
+            "Salvaje: Ruta 2, Arboleda Claroscuro, Lago Axew (este), Ribera de Pistón, Lago Milotic (norte), Antigua Atalaya y Lago Axew (oeste).",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al suroeste, Espejo del Gigante, nido al noreste, Lago Axew (oeste), nido junto a Ciudad Pistón, Llanura Pétrea, nido al norte 2 y Valle Entrepuentes, nido al norte cerca de la laguna.",
+            "Curri: Ruta 2"
+        ],
+        "Diamante Brillante": [
+            "Purrloin no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Purrloin no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Purrloin no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Hurta a los humanos por mera diversión, pero las victimas lo perdonan al ver a este Pokémon tan encantador.",
+        "Blanco": "Distrae a su oponente con movimientos gráciles y sustrae sus pertenencias. Cuando se enfada, ataca con las garras.",
+        "Negro 2": "Su aspecto tierno es una farsa. Lo aprovechan para robar a los humanos y contemplar qué cara ponen.",
+        "Blanco 2": "Su aspecto tierno es una farsa. Lo aprovechan para robar a los humanos y contemplar qué cara ponen.",
+        "Pokémon X": "Distrae a su oponente con movimientos gráciles y sustrae sus pertenencias. Cuando se enfada, ataca con las garras.",
+        "Pokémon Y": "Hurta a los humanos por mera diversión, pero las victimas lo perdonan al ver a este Pokémon tan encantador.",
+        "Rubí Omega": "Distrae a su oponente con movimientos gráciles y sustrae sus pertenencias. Cuando se enfada, ataca con las garras.",
+        "Zafiro Alfa": "Hurta a los humanos por mera diversión, pero las victimas lo perdonan al ver a este Pokémon tan encantador.",
+        "Sol": "No hay entrada de Purrloin en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Purrloin en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Purrloin en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Purrloin en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Sustrae las pertenencias de las personas solo para verlas pasar apuros. Es un rival encarnizado de Nickit.",
+        "Escudo": "Una vez que ha logrado distraer al rival mediante sus gestos adorables, lo araña de improviso con las garras mientras muestra un semblante risueño.",
+        "Diamante Brillante": "Purrloin no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Purrloin no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Purrloin no aparece en Leyendas Pokémon: Arceus."
+    }
+}

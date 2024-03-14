@@ -1,0 +1,103 @@
+{
+    "dex number": "0527",
+    "pokemon name": "Woobat",
+    "types": [
+        " psíquico",
+        " volador"
+    ],
+    "abilities": [
+        "Ignorante",
+        "Zoquete"
+    ],
+    "hidden abilities": [
+        "Simple"
+    ],
+    "stats": {
+        "hp": 65,
+        "atk": 45,
+        "def": 43,
+        "atk esp": 55,
+        "def esp": 43,
+        "speed": 72
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Cueva Manantial, Cueva Loza, Gruta Superación, Calle Victoria, Monte Tuerca"
+        ],
+        "Blanco": [
+            "Salvaje: Cueva Manantial, Cueva Loza, Gruta Superación, Calle Victoria, Monte Tuerca"
+        ],
+        "Negro 2": [
+            "Salvaje: Cueva Manantial, Cueva Loza, Monte Tuerca, Montaña Reversia, Túnel Yakón, Pasadizo Ancestral y Gruta Marina.",
+            "Claro Oculto: Ruta 6.",
+            "Especial: Cueva Manantial, uno de los Pokémon liberados por N luego de usar el Nexo Recuerdo."
+        ],
+        "Blanco 2": [
+            "Salvaje: Cueva Manantial, Cueva Loza, Monte Tuerca, Montaña Reversia, Túnel Yakón, Pasadizo Ancestral y Gruta Marina.",
+            "Claro Oculto: Ruta 6.",
+            "Especial: Cueva Manantial, uno de los Pokémon liberados por N luego de usar el Nexo Recuerdo."
+        ],
+        "Pokémon X": [
+            "Salvaje: Safari Amistad, Cueva Brillante y Cueva de los Reflejos, cayendo del techo."
+        ],
+        "Pokémon Y": [
+            "Salvaje: Safari Amistad, Cueva Brillante y Cueva de los Reflejos, cayendo del techo."
+        ],
+        "Rubí Omega": [
+            "Intercambiar: Pokémon X o Pokémon Y"
+        ],
+        "Zafiro Alfa": [
+            "Intercambiar: Pokémon X o Pokémon Y"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Mina de Galar, Valle Entrepuentes, Espejo del Gigante y Antigua Atalaya.",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste y Ribera de Pistón, nido al este.",
+            "Curri: Mina de Galar"
+        ],
+        "Escudo": [
+            "Salvaje: Mina de Galar, Valle Entrepuentes, Espejo del Gigante y Antigua Atalaya.",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto al lago, Cornisa de Artejo, nido al sureste, Lago Axew (este), nido al sureste, Lago Axew (este), nido frente a la entrada a ciudad Pistón, Llanura Pétrea, nido al este 3, Llanura Pétrea, nido al oeste cerca de un árbol, Pradera Radiante, nido al extremo oeste, Pradera Radiante, nido al noreste y Ribera de Pistón, nido al este.",
+            "Curri: Mina de Galar"
+        ],
+        "Diamante Brillante": [
+            "Woobat no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Woobat no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Woobat no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Vive en bosques oscuros y cavernas. Emite ultrasonidos por la nariz para saber todo lo que pasa a su alrededor.",
+        "Blanco": "Este peculiar Pokémon pega sus fosas nasales a la pared para dormir y, cuando las retira, deja un corazón marcado.",
+        "Negro 2": "Se dice que da buena suerte que un Woobat te deje una marca con forma de corazón.",
+        "Blanco 2": "Se dice que da buena suerte que un Woobat te deje una marca con forma de corazón.",
+        "Pokémon X": "Vive en bosques oscuros y cavernas. Emite ultrasonidos por la nariz para saber todo lo que pasa a su alrededor.",
+        "Pokémon Y": "Se dice que la marca con forma de corazón que deja un Woobat al incrustar su nariz trae buena suerte.",
+        "Rubí Omega": "Vive en bosques oscuros y cavernas. Emite ultrasonidos por la nariz para saber todo lo que pasa a su alrededor.",
+        "Zafiro Alfa": "Se dice que la marca con forma de corazón que deja un Woobat al incrustar su nariz trae buena suerte.",
+        "Sol": "No hay entrada de Woobat en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Woobat en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Woobat en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Woobat en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Si al alzar la vista en una cueva se ven marcas con forma de corazón en las paredes, es señal de que Woobat la ha convertido en su guarida.",
+        "Escudo": "Emite ultrasonidos mientras revolotea en busca de los Pokémon insecto con los que se sustenta.",
+        "Diamante Brillante": "Woobat no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Woobat no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Woobat no aparece en Leyendas Pokémon: Arceus."
+    }
+}

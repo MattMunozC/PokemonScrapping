@@ -1,0 +1,103 @@
+{
+    "dex number": "0592",
+    "pokemon name": "Frillish",
+    "types": [
+        " agua",
+        " fantasma"
+    ],
+    "abilities": [
+        "Absorbe agua",
+        "Cuerpo maldito"
+    ],
+    "hidden abilities": [
+        "Humedad"
+    ],
+    "stats": {
+        "hp": 55,
+        "atk": 40,
+        "def": 50,
+        "atk esp": 65,
+        "def esp": 85,
+        "speed": 40
+    },
+    "location": {
+        "Negro": [
+            "Surfeando: Ruta 4, Ruta 17, Ruta 18, Laboratorio P+P y Ciudad Fayenza"
+        ],
+        "Blanco": [
+            "Surfeando: Ruta 4, Ruta 17, Ruta 18, Laboratorio P+P y Ciudad Fayenza"
+        ],
+        "Negro 2": [
+            "Surfeando: Ruta 4, Ruta 13, Ruta 17, Ruta 18, Ruta 21, Ciudad Hormigón, Polígono Hormigón, Gruta Marina, Ciudad Marga, Pueblo Arenisca y Laboratorio P+P"
+        ],
+        "Blanco 2": [
+            "Surfeando: Ruta 4, Ruta 13, Ruta 17, Ruta 18, Ruta 21, Ciudad Hormigón, Polígono Hormigón, Gruta Marina, Ciudad Marga, Pueblo Arenisca y Laboratorio P+P"
+        ],
+        "Pokémon X": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Pokémon Y": [
+            "Poké Trasladador: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Rubí Omega o Pokémon Zafiro Alfa"
+        ],
+        "Rubí Omega": [
+            "Surfeando: Ruta 105, Ruta 106, Ruta 107, Ruta 108, Ruta 122, Ruta 124, Ruta 125, Ruta 126, Ruta 127, Ruta 128, Ruta 129, Ruta 130, Ruta 131, Ruta 132, Ruta 133, Ruta 134, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Surfeando: Ruta 105, Ruta 106, Ruta 107, Ruta 108, Ruta 122, Ruta 124, Ruta 125, Ruta 126, Ruta 127, Ruta 128, Ruta 129, Ruta 130, Ruta 131, Ruta 132, Ruta 133, Ruta 134, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Surfeando: Ruta 14",
+            "Especial: Ruta 14 cerca del faro roto (solo uno)"
+        ],
+        "Ultraluna": [
+            "Surfeando: Ruta 14",
+            "Especial: Ruta 14 cerca del faro roto (solo uno)"
+        ],
+        "Espada": [
+            "Salvaje: Valle Entrepuentes, Lago Axew (oeste), Lago Axew (este), Lago Milotic (norte), Espejo del Gigante y Mar Andana ",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared y Llanura Pétrea, nido al noreste junto a una pared 2."
+        ],
+        "Escudo": [
+            "Salvaje: Valle Entrepuentes, Lago Axew (oeste), Lago Axew (este), Lago Milotic (norte), Espejo del Gigante y Mar Andana ",
+            "Incursiones Dinamax: Antigua Atalaya, nido junto a la pared y Llanura Pétrea, nido al noreste junto a una pared 2."
+        ],
+        "Diamante Brillante": [
+            "Frillish no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Frillish no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Frillish no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Se escabulle al fondo del mar una vez que atrapa fuertemente a su rival con unos tentáculos semejantes a velos.",
+        "Blanco": "Paraliza a sus presas con veneno y las lleva a su morada, que se encuentra a 8000 m en el fondo del mar.",
+        "Negro 2": "Rodea a sus presas con sus tentáculos, las entumece y las arrastra a 8000 m de profundidad hasta que las ahoga.",
+        "Blanco 2": "Rodea a sus presas con sus tentáculos, las entumece y las arrastra a 8000 m de profundidad hasta que las ahoga.",
+        "Pokémon X": "Paraliza a sus presas con veneno y las lleva a su morada, que se encuentra a 8000 m en el fondo del mar.",
+        "Pokémon Y": "Rodea a sus presas con sus tentáculos, las entumece y las arrastra a 8000 m de profundidad hasta que las ahoga.",
+        "Rubí Omega": "Paraliza a sus presas con veneno y las lleva a su morada, que se encuentra a 8000 m en el fondo del mar.",
+        "Zafiro Alfa": "Rodea a sus presas con sus tentáculos, las entumece y las arrastra a 8000 m de profundidad hasta que las ahoga.",
+        "Sol": "No hay entrada de Frillish en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Frillish en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Hace uso de sus extremidades en forma de velo para atrapar a su presa cuando está nadando y arrastrarla al fondo del mar.",
+        "Ultraluna": "Paraliza y ahoga a sus enemigos con sus tentáculos en forma de velo, cubiertos de multitud de púas venenosas imperceptibles.",
+        "Espada": "Atenaza a las presas con sus tentáculos en forma de velo y las sumerge a 8000 m de profundidad.",
+        "Escudo": "Cuenta la leyenda que los Frillish son en realidad los habitantes de una antigua ciudad sumergida convertidos en Pokémon.",
+        "Diamante Brillante": "Frillish no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Frillish no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Frillish no aparece en Leyendas Pokémon: Arceus."
+    }
+}

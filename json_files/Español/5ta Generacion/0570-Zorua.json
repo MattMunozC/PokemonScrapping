@@ -1,0 +1,95 @@
+{
+    "dex number": "0570",
+    "pokemon name": "Zorua",
+    "types": [
+        " siniestro"
+    ],
+    "abilities": [
+        "Ilusión"
+    ],
+    "hidden abilities": "None",
+    "stats": {
+        "hp": 40,
+        "atk": 65,
+        "def": 40,
+        "atk esp": 80,
+        "def esp": 40,
+        "speed": 65
+    },
+    "location": {
+        "Negro": [
+            "Especial: Edificio de Game Freak en Ciudad Porcelana. Se necesita un Celebi de evento traído mediante el Trasladador PKMN"
+        ],
+        "Blanco": [
+            "Especial: Edificio de Game Freak en Ciudad Porcelana. Se necesita un Celebi de evento traído mediante el Trasladador PKMN"
+        ],
+        "Negro 2": [
+            "Pokémon de N: Lo entrega Ruga en Ciudad Fayenza, tras vencerlo en combate"
+        ],
+        "Blanco 2": [
+            "Pokémon de N: Lo entrega Ruga en Ciudad Fayenza, tras vencerlo en combate"
+        ],
+        "Pokémon X": [
+            "Criar: de Zoroark"
+        ],
+        "Pokémon Y": [
+            "Criar: de Zoroark"
+        ],
+        "Rubí Omega": [
+            "Salvaje: Ruta 101, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Zafiro Alfa": [
+            "Salvaje: Ruta 101, usando el DexNav después de tener la Pokédex Nacional"
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores",
+            "Intercambiar: de Pokémon Ultrasol o Pokémon Ultraluna"
+        ],
+        "Ultrasol": [
+            "Salvaje: Escuela de entrenadores"
+        ],
+        "Ultraluna": [
+            "Salvaje: Escuela de entrenadores"
+        ],
+        "Espada": [
+            "Salvaje: Prado Reverencia , Humedal Frescor  y Bosque Concentración ",
+            "Incursiones Dinamax: nidos en Humedal Frescor , Ruta Desafío , Mar Gimnástico  y Mar Meloso "
+        ],
+        "Escudo": [
+            "Salvaje: Prado Reverencia , Humedal Frescor  y Bosque Concentración ",
+            "Incursiones Dinamax: nidos en Humedal Frescor , Ruta Desafío , Mar Gimnástico  y Mar Meloso "
+        ],
+        "Diamante Brillante": [
+            "Zorua no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Zorua no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Zorua no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Se transforma en otros para crear desconciertos. A menudo, adopta la forma de un niño parco en palabras.",
+        "Blanco": "Se transforma en humanos o en otros Pokémon. Se defiende del peligro ocultando su verdadera apariencia.",
+        "Negro 2": "Adopta la apariencia de su enemigo para engañarlo vilmente y aprovecha su estupor para poner tierra por medio.",
+        "Blanco 2": "Adopta la apariencia de su enemigo para engañarlo vilmente y aprovecha su estupor para poner tierra por medio.",
+        "Pokémon X": "Adopta la apariencia de su enemigo para engañarlo vilmente y aprovecha su estupor para poner tierra por medio.",
+        "Pokémon Y": "Se transforma en humanos o en otros Pokémon. Se defiende del peligro ocultando su verdadera apariencia.",
+        "Rubí Omega": "Adopta la apariencia de su enemigo para engañarlo vilmente y aprovecha su estupor para poner tierra por medio.",
+        "Zafiro Alfa": "Se transforma en humanos o en otros Pokémon. Se defiende del peligro ocultando su verdadera apariencia.",
+        "Sol": "No hay entrada de Zorua en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Zorua en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "Es tan miedoso que, cuando no se halla junto a sus compañeros, casi siempre adopta un aspecto distinto.",
+        "Ultraluna": "Si un niño parlanchín se vuelve taciturno, tal vez pueda tratarse en realidad de un Zorua que ha adoptado su aspecto.",
+        "Espada": "Al parecer, fue su carácter miedoso lo que le llevó a desarrollar la capacidad de transformarse.",
+        "Escudo": "Suele transformarse en personas, sobre todo en niños, y se adentra en pueblos buscando comida.",
+        "Diamante Brillante": "Zorua no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Zorua no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Zorua no aparece en Leyendas Pokémon: Arceus."
+    }
+}

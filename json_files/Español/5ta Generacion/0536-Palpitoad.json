@@ -1,0 +1,103 @@
+{
+    "dex number": "0536",
+    "pokemon name": "Palpitoad",
+    "types": [
+        " agua",
+        " tierra"
+    ],
+    "abilities": [
+        "Nado rápido",
+        "Hidratación"
+    ],
+    "hidden abilities": [
+        "Absorbe agua"
+    ],
+    "stats": {
+        "hp": 75,
+        "atk": 65,
+        "def": 55,
+        "atk esp": 65,
+        "def esp": 55,
+        "speed": 69
+    },
+    "location": {
+        "Negro": [
+            "Salvaje: Verano, Otoño, Primavera: Ruta 8, Ciudad Teja, Pantano Teja; Invierno: No aparece.",
+            "Evolucionar: a Tympole (nivel 25)."
+        ],
+        "Blanco": [
+            "Salvaje: Verano, Otoño, Primavera: Ruta 8, Ciudad Teja, Pantano Teja; Invierno: No aparece.",
+            "Evolucionar: a Tympole (nivel 25)."
+        ],
+        "Negro 2": [
+            "Salvaje: Todas la estaciones del año: Ruta 8, Bosque Azulejo; Verano, Otoño, Primavera: Ciudad Teja, Pantano Teja.",
+            "Evolucionar: a Tympole (nivel 25)."
+        ],
+        "Blanco 2": [
+            "Salvaje: Todas la estaciones del año: Ruta 8, Bosque Azulejo; Verano, Otoño, Primavera: Ciudad Teja, Pantano Teja.",
+            "Evolucionar: a Tympole (nivel 25)."
+        ],
+        "Pokémon X": [
+            "Safari Amistad."
+        ],
+        "Pokémon Y": [
+            "Safari Amistad."
+        ],
+        "Rubí Omega": [
+            "Evolucionar: a Tympole (nivel 25)."
+        ],
+        "Zafiro Alfa": [
+            "Evolucionar: a Tympole (nivel 25)."
+        ],
+        "Sol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Luna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultrasol": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Ultraluna": [
+            "Banco de Pokémon: Transferir desde videojuegos anteriores."
+        ],
+        "Espada": [
+            "Salvaje: Pradera Radiante, Valle Entrepuentes, Cuenca Polvorienta, Gorro del Gigante, Espejo del Gigante, Silla del Gigante, Cornisa de Artejo, Lago Milotic (norte), Lago Axew (oeste).",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur.",
+            "Evolucionar: a Tympole (nivel 25)."
+        ],
+        "Escudo": [
+            "Salvaje: Pradera Radiante, Valle Entrepuentes, Cuenca Polvorienta, Gorro del Gigante, Espejo del Gigante, Silla del Gigante, Cornisa de Artejo, Lago Milotic (norte), Lago Axew (oeste).",
+            "Incursiones Dinamax: Cuenca Polvorienta, nido al extremo noreste, Cuenca Polvorienta, nido al noreste junto a formación rocosa, Cuenca Polvorienta, nido al oeste de la losa de piedra elevada, Cuenca Polvorienta, nido en la laguna, Lago Axew (oeste), nido junto al Lago Axew este (norte), Lago Axew (oeste), nido junto al puente (norte), Lago Axew (oeste), nido junto al puente (sur), Lago Milotic (norte), nido en el agua al oeste, Lago Milotic (norte), nido en el agua al suroeste, Lago Milotic (sur), nido al sureste, Lago Milotic (sur), nido al sur, Pradera Radiante, nido en mitad de los árboles y Valle Entrepuentes, nido al sur.",
+            "Evolucionar: a Tympole (nivel 25)."
+        ],
+        "Diamante Brillante": [
+            "Palpitoad no aparece en Pokémon Diamante Brillante."
+        ],
+        "Perla Reluciente": [
+            "Palpitoad no aparece en Pokémon Perla Reluciente."
+        ],
+        "Leyendas: Arceus": [
+            "Palpitoad no aparece en Leyendas Pokémon: Arceus."
+        ]
+    },
+    "pokedex": {
+        "Negro": "Cuando hace vibrar el bulto de su cabeza, no solo se embravece el mar, sino que la tierra también tiembla.",
+        "Blanco": "Pasa su vida en el agua y en tierra. Caza a sus presas empleando su viscosa lengua.",
+        "Negro 2": "Vive tanto en tierra como en el fondo del mar. Con su larga y viscosa lengua, inmoviliza a sus contrincantes.",
+        "Blanco 2": "Vive tanto en tierra como en el fondo del mar. Con su larga y viscosa lengua, inmoviliza a sus contrincantes.",
+        "Pokémon X": "Cuando hace vibrar el bulto de su cabeza, no solo se embravece el mar, sino que la tierra también tiembla.",
+        "Pokémon Y": "Vive tanto en tierra como en el fondo del mar. Con su larga y viscosa lengua, inmoviliza a sus contrincantes.",
+        "Rubí Omega": "Cuando hace vibrar el bulto de su cabeza, no solo se embravece el mar, sino que la tierra también tiembla.",
+        "Zafiro Alfa": "Vive tanto en tierra como en el fondo del mar. Con su larga y viscosa lengua, inmoviliza a sus contrincantes.",
+        "Sol": "No hay entrada de Palpitoad en la Pokédex de Pokémon Sol.",
+        "Luna": "No hay entrada de Palpitoad en la Pokédex de Pokémon Luna.",
+        "Ultrasol": "No hay entrada de Palpitoad en la Pokédex de Pokémon Ultrasol.",
+        "Ultraluna": "No hay entrada de Palpitoad en la Pokédex de Pokémon Ultraluna.",
+        "Espada": "Las ondas sonoras que emite pueden provocar dolor de cabeza. Con ellas debilita a sus presas para luego atraparlas con su lengua viscosa.",
+        "Escudo": "A veces emiten un bello canto. Cuanto mayores son las protuberancias del cuerpo, más extenso es su registro vocal.",
+        "Diamante Brillante": "Palpitoad no aparece en Pokémon Diamante Brillante.",
+        "Perla Reluciente": "Palpitoad no aparece en Pokémon Perla Reluciente.",
+        "Leyendas: Arceus": "Palpitoad no aparece en Leyendas Pokémon: Arceus."
+    }
+}

@@ -1,0 +1,1 @@
+Informacion Extraida de Wikidex, cualquier error por favor informar
