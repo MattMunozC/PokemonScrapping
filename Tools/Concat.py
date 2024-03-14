@@ -10,17 +10,17 @@ def open_file(func):
             func(args,f)
             f.write("]")
     return new_func
-@open_file
-def concat(*args)->None:
-    gen_num=args[0][0]
-    f=args[1]
+def __concat(gen_num,f)->None: 
     current_path=path.format(gen=gen[gen_num-1])
     files=[file for file in listdir(current_path) if ".json" in file]
-    append_pokemon(f,files,current_path)       
-def append_pokemon(f, files:list,current_path:str)->None:
+    __append(f,files,current_path)       
+@open_file
+def concat(*args):
+    __concat(args[0][0],args[1])
+def concat_all(*args):
+    __concat(args[0][0],args[1])
+def __append(f, files:list,current_path:str)->None:
     for i in files:
         with open(f"{current_path}\\{i}","r",encoding='utf-8') as pkmn:
             f.write(pkmn.read())
             f.write(",\n")
-if __name__=="__main__":
-    concat(2)
