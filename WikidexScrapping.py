@@ -50,21 +50,21 @@ SPECIAL_CASE={"Ditto":3,"Cinderace":2,"Inteleon":2,"Sinistea":2,"Milcery":2}
 BASE_URL="https://www.wikidex.net/"
 BASE_DIR=path.join(getcwd(),"/json_files/español")
 class RequestQuery():
-    def __init__(self,url):
+    def __init__(self,url:str):
         url_request=r.get(url,verify=False).text
         self.parsed_request=bs(url_request,"html.parser")
-    def table_query(self,name):
+    def table_query(self,name:str)->bs.element.ResultSet:
         return self.parsed_request.find_all("table",{"class": name})
     def tr_query(self,subquery):
         return self.parsed_request.find_all("tr",{"title":subquery})[0].find_all("a")[1::]
 class PokemonList():
     url=f"{BASE_URL}/wiki/Lista_de_Pok%C3%A9mon"
-    def __init__(self,gen_num):
+    def __init__(self,gen_num:int):
         request=RequestQuery(self.url)
         table=request.table_query("tabpokemon")[gen_num-1]
         self.PokemonList=self.table_unwrapper(table)
         self.AltPokemonList=self.alternative_forms(table)
-    def table_unwrapper(self,table):
+    def table_unwrapper(self,table)->list:
         return [
             {
                 "num":i.find_all("td")[0].text[:-1],
@@ -74,7 +74,7 @@ class PokemonList():
                 for i in table.find_all("tr")[1::] 
                     if i.find_all("td")[0].text[:-1].isnumeric()
                 ] 
-    def alternative_forms(self,table):
+    def alternative_forms(self,table)->list:
         return [
             {
                 "name":i.find_all("td")[0].text[:-1],
@@ -84,7 +84,7 @@ class PokemonList():
                     if not i.find_all("td")[0].text[:-1].isnumeric()
                 ] 
 class Pokemon():
-    def __init__(self,data):
+    def __init__(self,data:dict):
         self.name=data["name"]
         self.num=data["num"]
         self.request=RequestQuery(f'{BASE_URL}{data["url"]}')
@@ -98,17 +98,17 @@ class Pokemon():
         self.Pokedex()
         self.Location()
         self.Stats_debug()
-    def Pokedex(self):
+    def Pokedex(self)->None:
         pkdex_table=self.request.table_query("pokedex")[0].find_all("tr")
         self.pkdex_info={game.find_all("th")[1].text[:-1]:game.find_all("td")[0].text[:-1] for game in pkdex_table[1::] if len(game.find_all("th")) and game.find_all("th")[1].text[:-1] in VALID_TITLES}
-    def Location(self):
+    def Location(self)->None:
         location_table=self.request.table_query("localizacion")[0].find_all("tr")
         location_info={}
         for game in location_table[1::]:
             row=[row_content for row_content in game.text.split("\n") if row_content!=""]
             if row[0] in VALID_TITLES: location_info[row[0]]=row[1::]
         self.location_info=location_info
-    def Stats_debug(self):
+    def Stats_debug(self)->None:
         index=0
         while (1):
             try:
@@ -122,7 +122,7 @@ class Pokemon():
                 break
             except:
                 index+=1
-    def Stats(self):
+    def Stats(self)->None:
         stats_table=self.request.table_query("tabpokemon")
         index=0
         if(self.name in SPECIAL_CASE.keys()): index=SPECIAL_CASE[self.name]
@@ -130,7 +130,7 @@ class Pokemon():
         stats_table=stats_table[index].find_all("tr")[1:7]
         stats_names=["hp","atk","def","atk esp","def esp", "speed"]
         self.stats={stat_name:int(stat_value.find("td").text[:-1]) for stat_name,stat_value in tuple(zip(stats_names,stats_table))}
-    def data(self):
+    def data(self)->dict:
         return {
                 "dex number":self.num,
                 "pokemon name":self.name,
@@ -142,7 +142,7 @@ class Pokemon():
                 "pokedex":self.pkdex_info
                 }
 class Scrapping():
-    def __init__(self,list,save_images=False):
+    def __init__(self,list:list,save_images=False):
         for pokemon_data in list:
             pkmn=Pokemon(pokemon_data)
             if save_images: self.save_image(pkmn.num,pkmn.name)
