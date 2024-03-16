@@ -104,25 +104,7 @@ class Pokemon():
         self.Pokedex()
         self.Location()
         self.Stats_debug()
-        evo=self.request.table_query("evolucion")
-        evo=RequestQuery.to_matrix(evo[-1]) if len(evo)>1 else RequestQuery.to_matrix(evo[0]) 
-        #shift is the gap between the stage number (natural number between 1) 
-        shift=1
-        for i in evo:
-            try:
-                evo_stage=i[::-2][::-1].index(self.name)
-                break
-            except ValueError:
-                #in cases where there's a fork the pokemon name will appear in other part of the list rather the first
-                #element so the gap is greater
-                shift=len(evo[0][::-2][::-1])
-                pass
-        evo_line_len=len(evo[0][0::2])
-        self.evo_stage=evo_stage+shift
-        if self.name=="Dustox":
-            self.evo_stage=3
-        evolve_to=self.__evolve_to(evo,self.evo_stage-evo_line_len)
-        print(f"pokemon: {self.name} evo_stage: {self.evo_stage} evolve to:{evolve_to}")
+        self.evolve_to()
     def __evolve_to(self,evo,pivot):
         if self.name=="Silcoon":
             self.evo_stage=2
@@ -166,6 +148,27 @@ class Pokemon():
         stats_table=stats_table[index].find_all("tr")[1:7]
         stats_names=["hp","atk","def","atk esp","def esp", "speed"]
         self.stats={stat_name:int(stat_value.find("td").text[:-1]) for stat_name,stat_value in tuple(zip(stats_names,stats_table))}
+    def evolve_to(self):
+        evo=self.request.table_query("evolucion")
+        evo=RequestQuery.to_matrix(evo[-1]) if len(evo)>1 else RequestQuery.to_matrix(evo[0]) 
+        #shift is the gap between the stage number (natural number between 1) 
+        shift=1
+        for i in evo:
+            try:
+                evo_stage=i[::-2][::-1].index(self.name)
+                break
+            except ValueError:
+                #in cases where there's a fork the pokemon name will appear in other part of the list rather the first
+                #element so the gap is greater
+                shift=len(evo[0][::-2][::-1])
+                pass
+        evo_line_len=len(evo[0][0::2])
+        self.evo_stage=evo_stage+shift
+        if self.name=="Dustox":
+            self.evo_stage=3
+        self.evolve_to=self.__evolve_to(evo,self.evo_stage-evo_line_len)
+        print(f"pokemon: {self.name} evo_stage: {self.evo_stage} evolve to:{self.evolve_to}")
+    
     def data(self)->dict:
         return {
                 "dex number":self.num,
@@ -175,7 +178,9 @@ class Pokemon():
                 "hidden abilities":self.hidden,
                 "stats":self.stats,
                 "location":self.location_info,
-                "pokedex":self.pkdex_info
+                "pokedex":self.pkdex_info,
+                "evolution stage":self.evo_stage,
+                "evolve to":self.evolve_to
                 }
 class Scrapping():
     def __init__(self,list:list,save_images=False,save=True,print=False):
@@ -210,7 +215,7 @@ if __name__=="__main__":
     #gen 8 ok
     #gen 9 ok It behaves weird, must find the answer
     #print(PokemonList(1).PokemonList[132:133])
-    Scrapping(PokemonList(3).PokemonList,save=False)
+    Scrapping(PokemonList(2).PokemonList,save=False)
     #pkmn={'num': '0133', 'name': 'Eevee', 'url': '/wiki/Eevee'}
     #pkmn={'num': '0025', 'name': 'Pikachu', 'url': '/wiki/Pikachu'}
     #pkmn={'num': '0043', 'name': 'Oddish', 'url': '/wiki/Oddish'}
