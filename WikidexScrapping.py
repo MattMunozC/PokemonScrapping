@@ -58,6 +58,11 @@ class RequestQuery():
         return self.parsed_request.find_all("table",{"class": name})
     def tr_query(self,subquery):
         return self.parsed_request.find_all("tr",{"title":subquery})[0].find_all("a")[1::]
+    @staticmethod
+    def to_matrix(table):
+        row=table.find_all("tr")
+        depure=lambda list:[i.replace("\n","") for i in list if i!="\n"]
+        return [depure([i.text for i in j]) for j in row]
 class PokemonList():
     url=f"{BASE_URL}/wiki/Lista_de_Pok%C3%A9mon"
     def __init__(self,gen_num:int):
@@ -99,6 +104,36 @@ class Pokemon():
         self.Pokedex()
         self.Location()
         self.Stats_debug()
+        evo=self.request.table_query("evolucion")
+        evo=RequestQuery.to_matrix(evo[-1]) if len(evo)>1 else RequestQuery.to_matrix(evo[0]) 
+        #shift is the gap between the stage number (natural number between 1) 
+        shift=1
+        for i in evo:
+            try:
+                evo_stage=i[::-2][::-1].index(self.name)
+                break
+            except ValueError:
+                #in cases where there's a fork the pokemon name will appear in other part of the list rather the first
+                #element so the gap is greater
+                shift=len(evo[0][::-2][::-1])
+                pass
+        evo_line_len=len(evo[0][0::2])
+        self.evo_stage=evo_stage+shift
+        if self.name=="Dustox":
+            self.evo_stage=3
+        evolve_to=self.__evolve_to(evo,self.evo_stage-evo_line_len)
+        print(f"pokemon: {self.name} evo_stage: {self.evo_stage} evolve to:{evolve_to}")
+    def __evolve_to(self,evo,pivot):
+        if self.name=="Silcoon":
+            self.evo_stage=2
+            return ['Beautifly']
+        elif self.name=="Cascoon":
+            self.evo_stage=2
+            return ["Dustox"]
+        elif self.evo_stage<len(evo[0][0::2]):
+            return [i[::-2][::-1][pivot] for i in evo if len(i[::-2][::-1])*-1<=pivot]
+        else:
+            return None
     def Pokedex(self)->None:
         pkdex_table=self.request.table_query("pokedex")[0].find_all("tr")
         self.pkdex_info={game.find_all("th")[1].text[:-1]:game.find_all("td")[0].text[:-1] for game in pkdex_table[1::] if len(game.find_all("th")) and game.find_all("th")[1].text[:-1] in VALID_TITLES}
@@ -143,12 +178,12 @@ class Pokemon():
                 "pokedex":self.pkdex_info
                 }
 class Scrapping():
-    def __init__(self,list:list,save_images=False):
+    def __init__(self,list:list,save_images=False,save=True,print=False):
         for pokemon_data in list:
             pkmn=Pokemon(pokemon_data)
             if save_images: self.save_image(pkmn.num,pkmn.name)
-            self.save_json(pkmn)
-            #pprint(pkmn.data())
+            if save: self.save_json(pkmn)
+            if print: pprint(pkmn.data())
     def save_json(self,pokemon):
         print(f"saving {pokemon.name}...")
         with open(f"{BASE_DIR}\\json_files\\Español\\{pokemon.num}-{pokemon.name}.json","w",encoding="utf-8") as f:
@@ -161,6 +196,9 @@ class Scrapping():
         with open(f"{BASE_DIR}\\Portraits\\{dexnum}-{pkmnname}.png","wb") as img:
             img.write(content)
             img.close()
+    @staticmethod
+    def debug(pokemon_data):
+        pkmn=Pokemon(pokemon_data)
 if __name__=="__main__":
     #gen 1 ok
     #gen 2 ok
@@ -170,7 +208,13 @@ if __name__=="__main__":
     #gen 6 ok
     #gen 7 ok
     #gen 8 ok
-    #gen 9 ok
-    Scrapping(PokemonList(5).PokemonList)
-    #debug=PokemonList(3).PokemonList[-3]
+    #gen 9 ok It behaves weird, must find the answer
+    #print(PokemonList(1).PokemonList[132:133])
+    Scrapping(PokemonList(3).PokemonList,save=False)
+    #pkmn={'num': '0133', 'name': 'Eevee', 'url': '/wiki/Eevee'}
+    #pkmn={'num': '0025', 'name': 'Pikachu', 'url': '/wiki/Pikachu'}
+    #pkmn={'num': '0043', 'name': 'Oddish', 'url': '/wiki/Oddish'}
+    #pkmn={'num': '0107', 'name': 'Hitmonchan', 'url': '/wiki/Hitmonchan'}
+    #pkmn={'num': '0182', 'name': 'Bellossom', 'url': '/wiki/Bellossom'}
+    #debug=Scrapping.debug(pkmn)
     #pprint(Pokemon(debug).data())
