@@ -56,8 +56,10 @@ class RequestQuery():
         self.parsed_request=bs(url_request,"html.parser")
     def table_query(self,name:str)->bs4.element.ResultSet:
         return self.parsed_request.find_all("table",{"class": name})
-    def tr_query(self,subquery):
-        return self.parsed_request.find_all("tr",{"title":subquery})[0].find_all("a")[1::]
+    @staticmethod
+    def tr_query(table,subquery,subtag):
+        query=table.find("tr",{"title":subquery})
+        return query.find_all(subtag) 
     @staticmethod
     def to_matrix(table):
         row=table.find_all("tr")
@@ -93,18 +95,26 @@ class Pokemon():
     def __init__(self,data:dict):
         self.name=data["name"]
         self.num=data["num"]
+        #Revisit this later, it can be improve upon
         self.request=RequestQuery(f'{BASE_URL}{data["url"]}')
-        self.raw_data=self.request.table_query("datos")
-        self.types=[type['title'][4::] for type in self.request.tr_query("Tipos a los que pertenece") if type.has_attr("title")]
-        self.abilities=[ability['title'].replace("Tipo ","") for ability in self.request.tr_query("Habilidades que puede conocer") if ability.has_attr("title")]
+        self.other_data=self.request.table_query("datos")[0].find("tbody")
+        types=RequestQuery.tr_query(self.other_data,"Tipos a los que pertenece","a")[1::]
+        self.types=[a["title"].split(" ")[-1] for a in types if a.has_attr("title")] 
+        abilities=RequestQuery.tr_query(self.other_data,"Habilidades que puede conocer","a")[1::]
+        self.abilities=[i.text for i in abilities if i.has_attr("title")]
         try:
-            self.hidden=[i['title'] for i in self.request.tr_query("Habilidad oculta") if i.has_attr("title")]
-        except IndexError:
-            self.hidden="None"
+            hidden=RequestQuery.tr_query(self.other_data,"Habilidad oculta","a")[1::]
+            self.hidden=[i.text for i in hidden if i.has_attr("title")]
+        except AttributeError:
+            self.hidden=None
+        self.weight=float(self.__clean_float(RequestQuery.tr_query(self.other_data,"Peso del Pokémon","td")[0].text))
+        self.height=float(self.__clean_float(RequestQuery.tr_query(self.other_data,"Altura del Pokémon","td")[0].text))
         self.Pokedex()
         self.Location()
         self.Stats_debug()
         self.evolve_to()
+    def __clean_float(self,string):
+        return string.split(" ")[0].replace(",",".")
     def __evolve_to(self,evo,pivot):
         if self.name=="Silcoon":
             self.evo_stage=2
@@ -166,8 +176,8 @@ class Pokemon():
         self.evo_stage=evo_stage+shift
         if self.name=="Dustox":
             self.evo_stage=3
-        self.evolve_to=self.__evolve_to(evo,self.evo_stage-evo_line_len)
-        print(f"pokemon: {self.name} evo_stage: {self.evo_stage} evolve to:{self.evolve_to}")
+        self.evolution=self.__evolve_to(evo,self.evo_stage-evo_line_len)
+        print(f"pokemon: {self.name} evo_stage: {self.evo_stage} evolve to:{self.evolution}")
     
     def data(self)->dict:
         return {
@@ -180,7 +190,9 @@ class Pokemon():
                 "location":self.location_info,
                 "pokedex":self.pkdex_info,
                 "evolution stage":self.evo_stage,
-                "evolve to":self.evolve_to
+                "evolve to":self.evolution,
+                "Height":self.height,
+                "Weight":self.weight
                 }
 class Scrapping():
     def __init__(self,list:list,save_images=False,save=True,print=False):
@@ -202,8 +214,9 @@ class Scrapping():
             img.write(content)
             img.close()
     @staticmethod
-    def debug(pokemon_data):
-        pkmn=Pokemon(pokemon_data)
+    def debug(pokemon_data)->None:
+        #Checks just one pokemon instead of a list
+        Pokemon(pokemon_data)
 if __name__=="__main__":
     #gen 1 ok
     #gen 2 ok
@@ -215,11 +228,12 @@ if __name__=="__main__":
     #gen 8 ok
     #gen 9 ok It behaves weird, must find the answer
     #print(PokemonList(1).PokemonList[132:133])
-    Scrapping(PokemonList(2).PokemonList,save=False)
+    Scrapping(PokemonList(1).PokemonList,save=False)
     #pkmn={'num': '0133', 'name': 'Eevee', 'url': '/wiki/Eevee'}
     #pkmn={'num': '0025', 'name': 'Pikachu', 'url': '/wiki/Pikachu'}
     #pkmn={'num': '0043', 'name': 'Oddish', 'url': '/wiki/Oddish'}
     #pkmn={'num': '0107', 'name': 'Hitmonchan', 'url': '/wiki/Hitmonchan'}
     #pkmn={'num': '0182', 'name': 'Bellossom', 'url': '/wiki/Bellossom'}
+    #pkmn={'num': '0251', 'name': 'Celebi', 'url': '/wiki/Celebi'}
     #debug=Scrapping.debug(pkmn)
     #pprint(Pokemon(debug).data())
