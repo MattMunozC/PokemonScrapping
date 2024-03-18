@@ -228,7 +228,7 @@ if __name__=="__main__":
     #gen 8 ok
     #gen 9 ok It behaves weird, must find the answer
     #print(PokemonList(1).PokemonList[132:133])
-    Scrapping(PokemonList(1).PokemonList,save=False)
+    Scrapping(PokemonList(1).PokemonList)
     #pkmn={'num': '0133', 'name': 'Eevee', 'url': '/wiki/Eevee'}
     #pkmn={'num': '0025', 'name': 'Pikachu', 'url': '/wiki/Pikachu'}
     #pkmn={'num': '0043', 'name': 'Oddish', 'url': '/wiki/Oddish'}
