@@ -109,6 +109,8 @@ class Pokemon():
             self.hidden=None
         self.weight=float(self.__clean_float(RequestQuery.tr_query(self.other_data,"Peso del Pokémon","td")[0].text))
         self.height=float(self.__clean_float(RequestQuery.tr_query(self.other_data,"Altura del Pokémon","td")[0].text))
+        self.color=RequestQuery.tr_query(self.other_data,"Color del Pokémon con el que se clasifica en la Pokédex","td")[0].text
+        print(self.request.parsed_request.find_all("a",{"title":"Hábitat"}))
         self.Pokedex()
         self.Location()
         self.Stats_debug()
@@ -192,15 +194,17 @@ class Pokemon():
                 "evolution stage":self.evo_stage,
                 "evolve to":self.evolution,
                 "Height":self.height,
-                "Weight":self.weight
+                "Weight":self.weight,
+                "Color":self.color
                 }
 class Scrapping():
-    def __init__(self,list:list,save_images=False,save=True,print=False):
+    def __init__(self,list:list,save_images=False,save=True,print=False,justOne=False):
         for pokemon_data in list:
             pkmn=Pokemon(pokemon_data)
             if save_images: self.save_image(pkmn.num,pkmn.name)
             if save: self.save_json(pkmn)
             if print: pprint(pkmn.data())
+            if justOne: break
     def save_json(self,pokemon):
         print(f"saving {pokemon.name}...")
         with open(f"{BASE_DIR}\\json_files\\Español\\{pokemon.num}-{pokemon.name}.json","w",encoding="utf-8") as f:
@@ -228,7 +232,7 @@ if __name__=="__main__":
     #gen 8 ok
     #gen 9 ok It behaves weird, must find the answer
     #print(PokemonList(1).PokemonList[132:133])
-    Scrapping(PokemonList(1).PokemonList)
+    Scrapping(PokemonList(2).PokemonList,save=False, justOne=True)
     #pkmn={'num': '0133', 'name': 'Eevee', 'url': '/wiki/Eevee'}
     #pkmn={'num': '0025', 'name': 'Pikachu', 'url': '/wiki/Pikachu'}
     #pkmn={'num': '0043', 'name': 'Oddish', 'url': '/wiki/Oddish'}
